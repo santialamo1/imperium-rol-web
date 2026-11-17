@@ -1,0 +1,1006 @@
+{
+  "title": "Libro Primero: La Torre y la Bruma",
+  "book": 1,
+  "source_pages": 789,
+  "sections": [
+    {
+      "index": 1,
+      "title": "Prólogo · El niño de la bruma",
+      "type": "seccion",
+      "file": "001_prologo-el-nino-de-la-bruma.md",
+      "start_page": 5,
+      "end_page": 10,
+      "chars": 8979
+    },
+    {
+      "index": 2,
+      "title": "DE LAS CRÓNICAS DE BANDERBILL (I)",
+      "type": "seccion",
+      "file": "002_de-las-cronicas-de-banderbill-i.md",
+      "start_page": 11,
+      "end_page": 12,
+      "chars": 1707
+    },
+    {
+      "index": 3,
+      "title": "PRIMERA PARTE: LA PIEDRA Y EL JURAMENTO",
+      "type": "parte",
+      "file": "003_primera-parte-la-piedra-y-el-juramento.md",
+      "start_page": 13,
+      "end_page": 13,
+      "chars": 33
+    },
+    {
+      "index": 4,
+      "title": "Capítulo 1 · Lucius",
+      "type": "capitulo",
+      "file": "004_capitulo-1-lucius.md",
+      "start_page": 14,
+      "end_page": 22,
+      "chars": 14126
+    },
+    {
+      "index": 5,
+      "title": "Capítulo 2 · Hector",
+      "type": "capitulo",
+      "file": "005_capitulo-2-hector.md",
+      "start_page": 23,
+      "end_page": 30,
+      "chars": 12179
+    },
+    {
+      "index": 6,
+      "title": "Capítulo 3 · Lucius",
+      "type": "capitulo",
+      "file": "006_capitulo-3-lucius.md",
+      "start_page": 31,
+      "end_page": 37,
+      "chars": 10802
+    },
+    {
+      "index": 7,
+      "title": "Capítulo 4 · Varo",
+      "type": "capitulo",
+      "file": "007_capitulo-4-varo.md",
+      "start_page": 38,
+      "end_page": 45,
+      "chars": 11177
+    },
+    {
+      "index": 8,
+      "title": "Capítulo 5 · Tullo",
+      "type": "capitulo",
+      "file": "008_capitulo-5-tullo.md",
+      "start_page": 46,
+      "end_page": 53,
+      "chars": 11457
+    },
+    {
+      "index": 9,
+      "title": "Capítulo 6 · Hector",
+      "type": "capitulo",
+      "file": "009_capitulo-6-hector.md",
+      "start_page": 54,
+      "end_page": 59,
+      "chars": 8312
+    },
+    {
+      "index": 10,
+      "title": "Capítulo 7 · Livia",
+      "type": "capitulo",
+      "file": "010_capitulo-7-livia.md",
+      "start_page": 60,
+      "end_page": 68,
+      "chars": 12493
+    },
+    {
+      "index": 11,
+      "title": "Capítulo 8 · Hector",
+      "type": "capitulo",
+      "file": "011_capitulo-8-hector.md",
+      "start_page": 69,
+      "end_page": 77,
+      "chars": 12206
+    },
+    {
+      "index": 12,
+      "title": "Capítulo 9 · Aelia",
+      "type": "capitulo",
+      "file": "012_capitulo-9-aelia.md",
+      "start_page": 78,
+      "end_page": 83,
+      "chars": 8731
+    },
+    {
+      "index": 13,
+      "title": "Capítulo 10 · Hector",
+      "type": "capitulo",
+      "file": "013_capitulo-10-hector.md",
+      "start_page": 84,
+      "end_page": 92,
+      "chars": 14501
+    },
+    {
+      "index": 14,
+      "title": "DE LAS CRÓNICAS DE BANDERBILL (II)",
+      "type": "seccion",
+      "file": "014_de-las-cronicas-de-banderbill-ii.md",
+      "start_page": 93,
+      "end_page": 93,
+      "chars": 555
+    },
+    {
+      "index": 15,
+      "title": "SEGUNDA PARTE: LOS TREINTA Y DOS",
+      "type": "parte",
+      "file": "015_segunda-parte-los-treinta-y-dos.md",
+      "start_page": 94,
+      "end_page": 94,
+      "chars": 34
+    },
+    {
+      "index": 16,
+      "title": "Capítulo 11 · Sahra",
+      "type": "capitulo",
+      "file": "016_capitulo-11-sahra.md",
+      "start_page": 95,
+      "end_page": 102,
+      "chars": 10710
+    },
+    {
+      "index": 17,
+      "title": "Capítulo 12 · Genieveve",
+      "type": "capitulo",
+      "file": "017_capitulo-12-genieveve.md",
+      "start_page": 103,
+      "end_page": 109,
+      "chars": 9715
+    },
+    {
+      "index": 18,
+      "title": "Capítulo 13 · Torvald",
+      "type": "capitulo",
+      "file": "018_capitulo-13-torvald.md",
+      "start_page": 110,
+      "end_page": 116,
+      "chars": 8813
+    },
+    {
+      "index": 19,
+      "title": "Capítulo 14 · Ilda",
+      "type": "capitulo",
+      "file": "019_capitulo-14-ilda.md",
+      "start_page": 117,
+      "end_page": 124,
+      "chars": 10877
+    },
+    {
+      "index": 20,
+      "title": "Capítulo 15 · Genieveve",
+      "type": "capitulo",
+      "file": "020_capitulo-15-genieveve.md",
+      "start_page": 125,
+      "end_page": 134,
+      "chars": 13949
+    },
+    {
+      "index": 21,
+      "title": "Capítulo 16 · Drolnar",
+      "type": "capitulo",
+      "file": "021_capitulo-16-drolnar.md",
+      "start_page": 135,
+      "end_page": 142,
+      "chars": 11269
+    },
+    {
+      "index": 22,
+      "title": "Capítulo 17 · Nadi",
+      "type": "capitulo",
+      "file": "022_capitulo-17-nadi.md",
+      "start_page": 143,
+      "end_page": 151,
+      "chars": 11989
+    },
+    {
+      "index": 23,
+      "title": "Capítulo 18 · Genieveve",
+      "type": "capitulo",
+      "file": "023_capitulo-18-genieveve.md",
+      "start_page": 152,
+      "end_page": 160,
+      "chars": 11675
+    },
+    {
+      "index": 24,
+      "title": "Capítulo 19 · Drolnar",
+      "type": "capitulo",
+      "file": "024_capitulo-19-drolnar.md",
+      "start_page": 161,
+      "end_page": 166,
+      "chars": 8652
+    },
+    {
+      "index": 25,
+      "title": "Capítulo 20 · Teodor",
+      "type": "capitulo",
+      "file": "025_capitulo-20-teodor.md",
+      "start_page": 167,
+      "end_page": 170,
+      "chars": 5569
+    },
+    {
+      "index": 26,
+      "title": "Capítulo 21 · Brida",
+      "type": "capitulo",
+      "file": "026_capitulo-21-brida.md",
+      "start_page": 171,
+      "end_page": 177,
+      "chars": 10574
+    },
+    {
+      "index": 27,
+      "title": "Capítulo 22 · Loth",
+      "type": "capitulo",
+      "file": "027_capitulo-22-loth.md",
+      "start_page": 178,
+      "end_page": 181,
+      "chars": 6225
+    },
+    {
+      "index": 28,
+      "title": "DE LAS CRÓNICAS DE BANDERBILL (III)",
+      "type": "seccion",
+      "file": "028_de-las-cronicas-de-banderbill-iii.md",
+      "start_page": 182,
+      "end_page": 182,
+      "chars": 1382
+    },
+    {
+      "index": 29,
+      "title": "TERCERA PARTE: CENIZA",
+      "type": "parte",
+      "file": "029_tercera-parte-ceniza.md",
+      "start_page": 183,
+      "end_page": 183,
+      "chars": 35
+    },
+    {
+      "index": 30,
+      "title": "Capítulo 23 · Drolnar",
+      "type": "capitulo",
+      "file": "030_capitulo-23-drolnar.md",
+      "start_page": 184,
+      "end_page": 190,
+      "chars": 10200
+    },
+    {
+      "index": 31,
+      "title": "Capítulo 24 · Loth",
+      "type": "capitulo",
+      "file": "031_capitulo-24-loth.md",
+      "start_page": 191,
+      "end_page": 198,
+      "chars": 11428
+    },
+    {
+      "index": 32,
+      "title": "Capítulo 25 · Loth",
+      "type": "capitulo",
+      "file": "032_capitulo-25-loth.md",
+      "start_page": 199,
+      "end_page": 209,
+      "chars": 15512
+    },
+    {
+      "index": 33,
+      "title": "DE LAS CRÓNICAS DE BANDERBILL (IV)",
+      "type": "seccion",
+      "file": "033_de-las-cronicas-de-banderbill-iv.md",
+      "start_page": 210,
+      "end_page": 210,
+      "chars": 672
+    },
+    {
+      "index": 34,
+      "title": "Capítulo 26 · Drolnar",
+      "type": "capitulo",
+      "file": "034_capitulo-26-drolnar.md",
+      "start_page": 211,
+      "end_page": 218,
+      "chars": 11051
+    },
+    {
+      "index": 35,
+      "title": "Capítulo 27 · Drolnar",
+      "type": "capitulo",
+      "file": "035_capitulo-27-drolnar.md",
+      "start_page": 219,
+      "end_page": 226,
+      "chars": 11646
+    },
+    {
+      "index": 36,
+      "title": "Capítulo 28 · Henricus",
+      "type": "capitulo",
+      "file": "036_capitulo-28-henricus.md",
+      "start_page": 227,
+      "end_page": 234,
+      "chars": 11370
+    },
+    {
+      "index": 37,
+      "title": "Capítulo 29 · Mira",
+      "type": "capitulo",
+      "file": "037_capitulo-29-mira.md",
+      "start_page": 235,
+      "end_page": 241,
+      "chars": 9566
+    },
+    {
+      "index": 38,
+      "title": "Capítulo 30 · Clarisa",
+      "type": "capitulo",
+      "file": "038_capitulo-30-clarisa.md",
+      "start_page": 242,
+      "end_page": 250,
+      "chars": 13192
+    },
+    {
+      "index": 39,
+      "title": "Capítulo 31 · Henricus",
+      "type": "capitulo",
+      "file": "039_capitulo-31-henricus.md",
+      "start_page": 251,
+      "end_page": 258,
+      "chars": 10398
+    },
+    {
+      "index": 40,
+      "title": "Capítulo 32 · Henricus",
+      "type": "capitulo",
+      "file": "040_capitulo-32-henricus.md",
+      "start_page": 259,
+      "end_page": 269,
+      "chars": 16238
+    },
+    {
+      "index": 41,
+      "title": "Capítulo 33 · Helen",
+      "type": "capitulo",
+      "file": "041_capitulo-33-helen.md",
+      "start_page": 270,
+      "end_page": 273,
+      "chars": 5364
+    },
+    {
+      "index": 42,
+      "title": "CUARTA PARTE: LA EDAD DE ORO",
+      "type": "parte",
+      "file": "042_cuarta-parte-la-edad-de-oro.md",
+      "start_page": 274,
+      "end_page": 274,
+      "chars": 36
+    },
+    {
+      "index": 43,
+      "title": "Capítulo 34 · Nadia",
+      "type": "capitulo",
+      "file": "043_capitulo-34-nadia.md",
+      "start_page": 275,
+      "end_page": 282,
+      "chars": 10204
+    },
+    {
+      "index": 44,
+      "title": "Capítulo 35 · Helen",
+      "type": "capitulo",
+      "file": "044_capitulo-35-helen.md",
+      "start_page": 283,
+      "end_page": 291,
+      "chars": 12156
+    },
+    {
+      "index": 45,
+      "title": "Capítulo 36 · Corvo",
+      "type": "capitulo",
+      "file": "045_capitulo-36-corvo.md",
+      "start_page": 292,
+      "end_page": 299,
+      "chars": 11671
+    },
+    {
+      "index": 46,
+      "title": "Capítulo 37 · Ermengarda",
+      "type": "capitulo",
+      "file": "046_capitulo-37-ermengarda.md",
+      "start_page": 300,
+      "end_page": 308,
+      "chars": 13579
+    },
+    {
+      "index": 47,
+      "title": "Capítulo 38 · Braco",
+      "type": "capitulo",
+      "file": "047_capitulo-38-braco.md",
+      "start_page": 309,
+      "end_page": 315,
+      "chars": 10308
+    },
+    {
+      "index": 48,
+      "title": "Capítulo 39 · Corvo",
+      "type": "capitulo",
+      "file": "048_capitulo-39-corvo.md",
+      "start_page": 316,
+      "end_page": 323,
+      "chars": 11556
+    },
+    {
+      "index": 49,
+      "title": "Capítulo 40 · Neri",
+      "type": "capitulo",
+      "file": "049_capitulo-40-neri.md",
+      "start_page": 324,
+      "end_page": 332,
+      "chars": 13730
+    },
+    {
+      "index": 50,
+      "title": "Capítulo 41 · Loth",
+      "type": "capitulo",
+      "file": "050_capitulo-41-loth.md",
+      "start_page": 333,
+      "end_page": 340,
+      "chars": 11690
+    },
+    {
+      "index": 51,
+      "title": "Capítulo 42 · Hilde",
+      "type": "capitulo",
+      "file": "051_capitulo-42-hilde.md",
+      "start_page": 341,
+      "end_page": 349,
+      "chars": 12093
+    },
+    {
+      "index": 52,
+      "title": "Capítulo 43 · Ismena",
+      "type": "capitulo",
+      "file": "052_capitulo-43-ismena.md",
+      "start_page": 350,
+      "end_page": 356,
+      "chars": 9710
+    },
+    {
+      "index": 53,
+      "title": "Capítulo 44 · Braco",
+      "type": "capitulo",
+      "file": "053_capitulo-44-braco.md",
+      "start_page": 357,
+      "end_page": 366,
+      "chars": 15370
+    },
+    {
+      "index": 54,
+      "title": "Capítulo 45 · Ismena",
+      "type": "capitulo",
+      "file": "054_capitulo-45-ismena.md",
+      "start_page": 367,
+      "end_page": 372,
+      "chars": 8914
+    },
+    {
+      "index": 55,
+      "title": "Capítulo 46 · Esdras",
+      "type": "capitulo",
+      "file": "055_capitulo-46-esdras.md",
+      "start_page": 373,
+      "end_page": 378,
+      "chars": 8667
+    },
+    {
+      "index": 56,
+      "title": "Capítulo 47 · Lexandra",
+      "type": "capitulo",
+      "file": "056_capitulo-47-lexandra.md",
+      "start_page": 379,
+      "end_page": 384,
+      "chars": 8485
+    },
+    {
+      "index": 57,
+      "title": "Capítulo 48 · Darius",
+      "type": "capitulo",
+      "file": "057_capitulo-48-darius.md",
+      "start_page": 385,
+      "end_page": 393,
+      "chars": 12996
+    },
+    {
+      "index": 58,
+      "title": "Capítulo 49 · Octavia",
+      "type": "capitulo",
+      "file": "058_capitulo-49-octavia.md",
+      "start_page": 394,
+      "end_page": 401,
+      "chars": 11479
+    },
+    {
+      "index": 59,
+      "title": "Capítulo 50 · Ysh-Neva",
+      "type": "capitulo",
+      "file": "059_capitulo-50-ysh-neva.md",
+      "start_page": 402,
+      "end_page": 411,
+      "chars": 15055
+    },
+    {
+      "index": 60,
+      "title": "Capítulo 51 · Ansel",
+      "type": "capitulo",
+      "file": "060_capitulo-51-ansel.md",
+      "start_page": 412,
+      "end_page": 421,
+      "chars": 13958
+    },
+    {
+      "index": 61,
+      "title": "Capítulo 52 · Lexandra",
+      "type": "capitulo",
+      "file": "061_capitulo-52-lexandra.md",
+      "start_page": 422,
+      "end_page": 432,
+      "chars": 16133
+    },
+    {
+      "index": 62,
+      "title": "Capítulo 53 · Lexandra",
+      "type": "capitulo",
+      "file": "062_capitulo-53-lexandra.md",
+      "start_page": 433,
+      "end_page": 440,
+      "chars": 12082
+    },
+    {
+      "index": 63,
+      "title": "Capítulo 54 · Yaakov",
+      "type": "capitulo",
+      "file": "063_capitulo-54-yaakov.md",
+      "start_page": 441,
+      "end_page": 448,
+      "chars": 11132
+    },
+    {
+      "index": 64,
+      "title": "Capítulo 55 · Tamar",
+      "type": "capitulo",
+      "file": "064_capitulo-55-tamar.md",
+      "start_page": 449,
+      "end_page": 455,
+      "chars": 9750
+    },
+    {
+      "index": 65,
+      "title": "Capítulo 56 · Yaakov",
+      "type": "capitulo",
+      "file": "065_capitulo-56-yaakov.md",
+      "start_page": 456,
+      "end_page": 463,
+      "chars": 11498
+    },
+    {
+      "index": 66,
+      "title": "QUINTA PARTE: EL ATARDECER ROJO",
+      "type": "parte",
+      "file": "066_quinta-parte-el-atardecer-rojo.md",
+      "start_page": 464,
+      "end_page": 464,
+      "chars": 36
+    },
+    {
+      "index": 67,
+      "title": "Capítulo 57 · Ysh-Neva",
+      "type": "capitulo",
+      "file": "067_capitulo-57-ysh-neva.md",
+      "start_page": 465,
+      "end_page": 474,
+      "chars": 13259
+    },
+    {
+      "index": 68,
+      "title": "Capítulo 58 · Maximus",
+      "type": "capitulo",
+      "file": "068_capitulo-58-maximus.md",
+      "start_page": 475,
+      "end_page": 481,
+      "chars": 10545
+    },
+    {
+      "index": 69,
+      "title": "Capítulo 59 · Maximus",
+      "type": "capitulo",
+      "file": "069_capitulo-59-maximus.md",
+      "start_page": 482,
+      "end_page": 489,
+      "chars": 10134
+    },
+    {
+      "index": 70,
+      "title": "Capítulo 60 · Ezer",
+      "type": "capitulo",
+      "file": "070_capitulo-60-ezer.md",
+      "start_page": 490,
+      "end_page": 499,
+      "chars": 13358
+    },
+    {
+      "index": 71,
+      "title": "Capítulo 61 · Sefa",
+      "type": "capitulo",
+      "file": "071_capitulo-61-sefa.md",
+      "start_page": 500,
+      "end_page": 507,
+      "chars": 11039
+    },
+    {
+      "index": 72,
+      "title": "Capítulo 62 · Rahel",
+      "type": "capitulo",
+      "file": "072_capitulo-62-rahel.md",
+      "start_page": 508,
+      "end_page": 515,
+      "chars": 10938
+    },
+    {
+      "index": 73,
+      "title": "Capítulo 63 · Maximus",
+      "type": "capitulo",
+      "file": "073_capitulo-63-maximus.md",
+      "start_page": 516,
+      "end_page": 523,
+      "chars": 11014
+    },
+    {
+      "index": 74,
+      "title": "Capítulo 64 · Yared",
+      "type": "capitulo",
+      "file": "074_capitulo-64-yared.md",
+      "start_page": 524,
+      "end_page": 532,
+      "chars": 12736
+    },
+    {
+      "index": 75,
+      "title": "Capítulo 65 · Arn Pelle",
+      "type": "capitulo",
+      "file": "075_capitulo-65-arn-pelle.md",
+      "start_page": 533,
+      "end_page": 541,
+      "chars": 12904
+    },
+    {
+      "index": 76,
+      "title": "Capítulo 66 · Gregorian",
+      "type": "capitulo",
+      "file": "076_capitulo-66-gregorian.md",
+      "start_page": 542,
+      "end_page": 549,
+      "chars": 11872
+    },
+    {
+      "index": 77,
+      "title": "Capítulo 67 · Gregorian",
+      "type": "capitulo",
+      "file": "077_capitulo-67-gregorian.md",
+      "start_page": 550,
+      "end_page": 555,
+      "chars": 8600
+    },
+    {
+      "index": 78,
+      "title": "Capítulo 68 · Gregorian",
+      "type": "capitulo",
+      "file": "078_capitulo-68-gregorian.md",
+      "start_page": 556,
+      "end_page": 564,
+      "chars": 13488
+    },
+    {
+      "index": 79,
+      "title": "Capítulo 69 · Meridio",
+      "type": "capitulo",
+      "file": "079_capitulo-69-meridio.md",
+      "start_page": 565,
+      "end_page": 570,
+      "chars": 7930
+    },
+    {
+      "index": 80,
+      "title": "Capítulo 70 · Meridio",
+      "type": "capitulo",
+      "file": "080_capitulo-70-meridio.md",
+      "start_page": 571,
+      "end_page": 579,
+      "chars": 11745
+    },
+    {
+      "index": 81,
+      "title": "Capítulo 71 · Aremir",
+      "type": "capitulo",
+      "file": "081_capitulo-71-aremir.md",
+      "start_page": 580,
+      "end_page": 584,
+      "chars": 7046
+    },
+    {
+      "index": 82,
+      "title": "Capítulo 72 · Haltair",
+      "type": "capitulo",
+      "file": "082_capitulo-72-haltair.md",
+      "start_page": 585,
+      "end_page": 594,
+      "chars": 14525
+    },
+    {
+      "index": 83,
+      "title": "Capítulo 73 · Aremir",
+      "type": "capitulo",
+      "file": "083_capitulo-73-aremir.md",
+      "start_page": 595,
+      "end_page": 601,
+      "chars": 10060
+    },
+    {
+      "index": 84,
+      "title": "Capítulo 74 · Ilaria",
+      "type": "capitulo",
+      "file": "084_capitulo-74-ilaria.md",
+      "start_page": 602,
+      "end_page": 610,
+      "chars": 13248
+    },
+    {
+      "index": 85,
+      "title": "Capítulo 75 · Ilaria",
+      "type": "capitulo",
+      "file": "085_capitulo-75-ilaria.md",
+      "start_page": 611,
+      "end_page": 617,
+      "chars": 9507
+    },
+    {
+      "index": 86,
+      "title": "DE LAS CRÓNICAS DE BANDERBILL (V)",
+      "type": "seccion",
+      "file": "086_de-las-cronicas-de-banderbill-v.md",
+      "start_page": 618,
+      "end_page": 618,
+      "chars": 908
+    },
+    {
+      "index": 87,
+      "title": "SEXTA PARTE: LA CAÍDA DE CONCORDIA",
+      "type": "parte",
+      "file": "087_sexta-parte-la-caida-de-concordia.md",
+      "start_page": 619,
+      "end_page": 619,
+      "chars": 60
+    },
+    {
+      "index": 88,
+      "title": "Capítulo 76 · Casimir",
+      "type": "capitulo",
+      "file": "088_capitulo-76-casimir.md",
+      "start_page": 620,
+      "end_page": 627,
+      "chars": 11254
+    },
+    {
+      "index": 89,
+      "title": "Capítulo 77 · Odrun",
+      "type": "capitulo",
+      "file": "089_capitulo-77-odrun.md",
+      "start_page": 628,
+      "end_page": 636,
+      "chars": 12339
+    },
+    {
+      "index": 90,
+      "title": "Capítulo 78 · Bander",
+      "type": "capitulo",
+      "file": "090_capitulo-78-bander.md",
+      "start_page": 637,
+      "end_page": 644,
+      "chars": 10726
+    },
+    {
+      "index": 91,
+      "title": "Capítulo 79 · Mara",
+      "type": "capitulo",
+      "file": "091_capitulo-79-mara.md",
+      "start_page": 645,
+      "end_page": 652,
+      "chars": 11089
+    },
+    {
+      "index": 92,
+      "title": "Capítulo 80 · Casimir",
+      "type": "capitulo",
+      "file": "092_capitulo-80-casimir.md",
+      "start_page": 653,
+      "end_page": 659,
+      "chars": 10387
+    },
+    {
+      "index": 93,
+      "title": "Capítulo 81 · Darian",
+      "type": "capitulo",
+      "file": "093_capitulo-81-darian.md",
+      "start_page": 660,
+      "end_page": 667,
+      "chars": 10442
+    },
+    {
+      "index": 94,
+      "title": "Capítulo 82 · Haltair",
+      "type": "capitulo",
+      "file": "094_capitulo-82-haltair.md",
+      "start_page": 668,
+      "end_page": 676,
+      "chars": 13131
+    },
+    {
+      "index": 95,
+      "title": "Capítulo 83 · Bander",
+      "type": "capitulo",
+      "file": "095_capitulo-83-bander.md",
+      "start_page": 677,
+      "end_page": 693,
+      "chars": 23801
+    },
+    {
+      "index": 96,
+      "title": "Capítulo 84 · Loth",
+      "type": "capitulo",
+      "file": "096_capitulo-84-loth.md",
+      "start_page": 694,
+      "end_page": 701,
+      "chars": 11270
+    },
+    {
+      "index": 97,
+      "title": "Capítulo 85 · Tobías",
+      "type": "capitulo",
+      "file": "097_capitulo-85-tobias.md",
+      "start_page": 702,
+      "end_page": 709,
+      "chars": 11575
+    },
+    {
+      "index": 98,
+      "title": "Capítulo 86 · Mara",
+      "type": "capitulo",
+      "file": "098_capitulo-86-mara.md",
+      "start_page": 710,
+      "end_page": 720,
+      "chars": 15431
+    },
+    {
+      "index": 99,
+      "title": "Capítulo 87 · Bander",
+      "type": "capitulo",
+      "file": "099_capitulo-87-bander.md",
+      "start_page": 721,
+      "end_page": 726,
+      "chars": 7528
+    },
+    {
+      "index": 100,
+      "title": "Capítulo 88 · Ugo",
+      "type": "capitulo",
+      "file": "100_capitulo-88-ugo.md",
+      "start_page": 727,
+      "end_page": 734,
+      "chars": 11059
+    },
+    {
+      "index": 101,
+      "title": "Capítulo 89 · Gorm",
+      "type": "capitulo",
+      "file": "101_capitulo-89-gorm.md",
+      "start_page": 735,
+      "end_page": 744,
+      "chars": 13679
+    },
+    {
+      "index": 102,
+      "title": "Capítulo 90 · Tobías",
+      "type": "capitulo",
+      "file": "102_capitulo-90-tobias.md",
+      "start_page": 745,
+      "end_page": 751,
+      "chars": 10217
+    },
+    {
+      "index": 103,
+      "title": "Capítulo 91 · Livia",
+      "type": "capitulo",
+      "file": "103_capitulo-91-livia.md",
+      "start_page": 752,
+      "end_page": 759,
+      "chars": 11065
+    },
+    {
+      "index": 104,
+      "title": "Capítulo 92 · Mara",
+      "type": "capitulo",
+      "file": "104_capitulo-92-mara.md",
+      "start_page": 760,
+      "end_page": 767,
+      "chars": 10093
+    },
+    {
+      "index": 105,
+      "title": "Epílogo · Seren",
+      "type": "seccion",
+      "file": "105_epilogo-seren.md",
+      "start_page": 768,
+      "end_page": 770,
+      "chars": 3889
+    },
+    {
+      "index": 106,
+      "title": "DE LAS CRÓNICAS DE BANDERBILL (VI)",
+      "type": "seccion",
+      "file": "106_de-las-cronicas-de-banderbill-vi.md",
+      "start_page": 771,
+      "end_page": 773,
+      "chars": 3105
+    },
+    {
+      "index": 107,
+      "title": "APÉNDICES",
+      "type": "seccion",
+      "file": "107_apendices.md",
+      "start_page": 774,
+      "end_page": 774,
+      "chars": 0
+    },
+    {
+      "index": 108,
+      "title": "CRONOLOGÍA DEL PRIMER IMPERIO",
+      "type": "seccion",
+      "file": "108_cronologia-del-primer-imperio.md",
+      "start_page": 775,
+      "end_page": 781,
+      "chars": 10507
+    },
+    {
+      "index": 109,
+      "title": "LÍNEAS DE SANGRE",
+      "type": "seccion",
+      "file": "109_lineas-de-sangre.md",
+      "start_page": 782,
+      "end_page": 783,
+      "chars": 1750
+    },
+    {
+      "index": 110,
+      "title": "BREVE GLOSARIO",
+      "type": "seccion",
+      "file": "110_breve-glosario.md",
+      "start_page": 784,
+      "end_page": 785,
+      "chars": 2132
+    },
+    {
+      "index": 111,
+      "title": "NOTAS DEL AUTOR",
+      "type": "seccion",
+      "file": "111_notas-del-autor.md",
+      "start_page": 786,
+      "end_page": 789,
+      "chars": 5910
+    }
+  ]
+}

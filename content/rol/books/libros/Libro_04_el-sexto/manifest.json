@@ -1,0 +1,1015 @@
+{
+  "title": "Libro Cuarto: El Sexto",
+  "book": 4,
+  "source_pages": 850,
+  "sections": [
+    {
+      "index": 1,
+      "title": "Prólogo · La hoja sin número",
+      "type": "seccion",
+      "file": "001_prologo-la-hoja-sin-numero.md",
+      "start_page": 5,
+      "end_page": 13,
+      "chars": 12381
+    },
+    {
+      "index": 2,
+      "title": "PRIMERA PARTE: EL ESCUDO",
+      "type": "parte",
+      "file": "002_primera-parte-el-escudo.md",
+      "start_page": 14,
+      "end_page": 14,
+      "chars": 51
+    },
+    {
+      "index": 3,
+      "title": "DE LAS CRÓNICAS DE BANDERBILL, LIBRO CUARTO (I)",
+      "type": "seccion",
+      "file": "003_de-las-cronicas-de-banderbill-libro-cuarto-i.md",
+      "start_page": 15,
+      "end_page": 21,
+      "chars": 11048
+    },
+    {
+      "index": 4,
+      "title": "Capítulo 1 · Eluret",
+      "type": "capitulo",
+      "file": "004_capitulo-1-eluret.md",
+      "start_page": 22,
+      "end_page": 32,
+      "chars": 13150
+    },
+    {
+      "index": 5,
+      "title": "Capítulo 2 · Corvo Hask",
+      "type": "capitulo",
+      "file": "005_capitulo-2-corvo-hask.md",
+      "start_page": 33,
+      "end_page": 42,
+      "chars": 11873
+    },
+    {
+      "index": 6,
+      "title": "Capítulo 3 · Teo Ruald",
+      "type": "capitulo",
+      "file": "006_capitulo-3-teo-ruald.md",
+      "start_page": 43,
+      "end_page": 51,
+      "chars": 11203
+    },
+    {
+      "index": 7,
+      "title": "Capítulo 4 · Astragal",
+      "type": "capitulo",
+      "file": "007_capitulo-4-astragal.md",
+      "start_page": 52,
+      "end_page": 60,
+      "chars": 12006
+    },
+    {
+      "index": 8,
+      "title": "Capítulo 5 · Selis",
+      "type": "capitulo",
+      "file": "008_capitulo-5-selis.md",
+      "start_page": 61,
+      "end_page": 70,
+      "chars": 12896
+    },
+    {
+      "index": 9,
+      "title": "Capítulo 6 · Wenna",
+      "type": "capitulo",
+      "file": "009_capitulo-6-wenna.md",
+      "start_page": 71,
+      "end_page": 80,
+      "chars": 12522
+    },
+    {
+      "index": 10,
+      "title": "Capítulo 7 · Aira Dunmar",
+      "type": "capitulo",
+      "file": "010_capitulo-7-aira-dunmar.md",
+      "start_page": 81,
+      "end_page": 90,
+      "chars": 12815
+    },
+    {
+      "index": 11,
+      "title": "Capítulo 8 · Dalbur",
+      "type": "capitulo",
+      "file": "011_capitulo-8-dalbur.md",
+      "start_page": 91,
+      "end_page": 101,
+      "chars": 13363
+    },
+    {
+      "index": 12,
+      "title": "Capítulo 9 · Skarn",
+      "type": "capitulo",
+      "file": "012_capitulo-9-skarn.md",
+      "start_page": 102,
+      "end_page": 110,
+      "chars": 11831
+    },
+    {
+      "index": 13,
+      "title": "Capítulo 10 · Aira Dunmar",
+      "type": "capitulo",
+      "file": "013_capitulo-10-aira-dunmar.md",
+      "start_page": 111,
+      "end_page": 120,
+      "chars": 12360
+    },
+    {
+      "index": 14,
+      "title": "Capítulo 11 · Sein Vell",
+      "type": "capitulo",
+      "file": "014_capitulo-11-sein-vell.md",
+      "start_page": 121,
+      "end_page": 130,
+      "chars": 12834
+    },
+    {
+      "index": 15,
+      "title": "Capítulo 12 · Baervan",
+      "type": "capitulo",
+      "file": "015_capitulo-12-baervan.md",
+      "start_page": 131,
+      "end_page": 140,
+      "chars": 13149
+    },
+    {
+      "index": 16,
+      "title": "Capítulo 13 · Tibbet",
+      "type": "capitulo",
+      "file": "016_capitulo-13-tibbet.md",
+      "start_page": 141,
+      "end_page": 150,
+      "chars": 13195
+    },
+    {
+      "index": 17,
+      "title": "DEL DIARIO DE LA FAMILIA ÉRANDIUL (XIII)",
+      "type": "seccion",
+      "file": "017_del-diario-de-la-familia-erandiul-xiii.md",
+      "start_page": 151,
+      "end_page": 152,
+      "chars": 2447
+    },
+    {
+      "index": 18,
+      "title": "SEGUNDA PARTE: LOS COMANDANTES",
+      "type": "parte",
+      "file": "018_segunda-parte-los-comandantes.md",
+      "start_page": 153,
+      "end_page": 153,
+      "chars": 52
+    },
+    {
+      "index": 19,
+      "title": "DE LAS CRÓNICAS DE BANDERBILL, LIBRO CUARTO (II)",
+      "type": "seccion",
+      "file": "019_de-las-cronicas-de-banderbill-libro-cuarto-ii.md",
+      "start_page": 154,
+      "end_page": 159,
+      "chars": 7723
+    },
+    {
+      "index": 20,
+      "title": "Capítulo 14 · Eluret",
+      "type": "capitulo",
+      "file": "020_capitulo-14-eluret.md",
+      "start_page": 160,
+      "end_page": 168,
+      "chars": 11095
+    },
+    {
+      "index": 21,
+      "title": "Capítulo 15 · Sein Vell",
+      "type": "capitulo",
+      "file": "021_capitulo-15-sein-vell.md",
+      "start_page": 169,
+      "end_page": 178,
+      "chars": 12597
+    },
+    {
+      "index": 22,
+      "title": "Capítulo 16 · Ludo Marren",
+      "type": "capitulo",
+      "file": "022_capitulo-16-ludo-marren.md",
+      "start_page": 179,
+      "end_page": 187,
+      "chars": 11108
+    },
+    {
+      "index": 23,
+      "title": "Capítulo 17 · Tibbet",
+      "type": "capitulo",
+      "file": "023_capitulo-17-tibbet.md",
+      "start_page": 188,
+      "end_page": 196,
+      "chars": 11289
+    },
+    {
+      "index": 24,
+      "title": "Capítulo 18 · Eluret",
+      "type": "capitulo",
+      "file": "024_capitulo-18-eluret.md",
+      "start_page": 197,
+      "end_page": 206,
+      "chars": 12202
+    },
+    {
+      "index": 25,
+      "title": "Capítulo 19 · Migyur",
+      "type": "capitulo",
+      "file": "025_capitulo-19-migyur.md",
+      "start_page": 207,
+      "end_page": 215,
+      "chars": 11067
+    },
+    {
+      "index": 26,
+      "title": "Capítulo 20 · Wenna",
+      "type": "capitulo",
+      "file": "026_capitulo-20-wenna.md",
+      "start_page": 216,
+      "end_page": 226,
+      "chars": 14299
+    },
+    {
+      "index": 27,
+      "title": "Capítulo 21 · Baervan",
+      "type": "capitulo",
+      "file": "027_capitulo-21-baervan.md",
+      "start_page": 227,
+      "end_page": 237,
+      "chars": 14025
+    },
+    {
+      "index": 28,
+      "title": "Capítulo 22 · Verawel",
+      "type": "capitulo",
+      "file": "028_capitulo-22-verawel.md",
+      "start_page": 238,
+      "end_page": 247,
+      "chars": 12562
+    },
+    {
+      "index": 29,
+      "title": "Capítulo 23 · Eluret",
+      "type": "capitulo",
+      "file": "029_capitulo-23-eluret.md",
+      "start_page": 248,
+      "end_page": 256,
+      "chars": 11404
+    },
+    {
+      "index": 30,
+      "title": "Capítulo 24 · Lanther",
+      "type": "capitulo",
+      "file": "030_capitulo-24-lanther.md",
+      "start_page": 257,
+      "end_page": 266,
+      "chars": 11810
+    },
+    {
+      "index": 31,
+      "title": "Capítulo 25 · Teo Ruald",
+      "type": "capitulo",
+      "file": "031_capitulo-25-teo-ruald.md",
+      "start_page": 267,
+      "end_page": 274,
+      "chars": 9786
+    },
+    {
+      "index": 32,
+      "title": "DEL DIARIO DE LA FAMILIA ÉRANDIUL (XIV)",
+      "type": "seccion",
+      "file": "032_del-diario-de-la-familia-erandiul-xiv.md",
+      "start_page": 275,
+      "end_page": 276,
+      "chars": 2636
+    },
+    {
+      "index": 33,
+      "title": "TERCERA PARTE: LOS AÑOS DORADOS",
+      "type": "parte",
+      "file": "033_tercera-parte-los-anos-dorados.md",
+      "start_page": 277,
+      "end_page": 277,
+      "chars": 52
+    },
+    {
+      "index": 34,
+      "title": "DE LAS CRÓNICAS DE BANDERBILL, LIBRO CUARTO (III)",
+      "type": "seccion",
+      "file": "034_de-las-cronicas-de-banderbill-libro-cuarto-iii.md",
+      "start_page": 278,
+      "end_page": 285,
+      "chars": 11976
+    },
+    {
+      "index": 35,
+      "title": "Capítulo 26 · Baervan",
+      "type": "capitulo",
+      "file": "035_capitulo-26-baervan.md",
+      "start_page": 286,
+      "end_page": 295,
+      "chars": 12889
+    },
+    {
+      "index": 36,
+      "title": "Capítulo 27 · Damián Hask",
+      "type": "capitulo",
+      "file": "036_capitulo-27-damian-hask.md",
+      "start_page": 296,
+      "end_page": 304,
+      "chars": 12269
+    },
+    {
+      "index": 37,
+      "title": "Capítulo 28 · Ithil",
+      "type": "capitulo",
+      "file": "037_capitulo-28-ithil.md",
+      "start_page": 305,
+      "end_page": 316,
+      "chars": 14220
+    },
+    {
+      "index": 38,
+      "title": "Capítulo 29 · Sein",
+      "type": "capitulo",
+      "file": "038_capitulo-29-sein.md",
+      "start_page": 317,
+      "end_page": 327,
+      "chars": 14299
+    },
+    {
+      "index": 39,
+      "title": "Capítulo 30 · Hatmie",
+      "type": "capitulo",
+      "file": "039_capitulo-30-hatmie.md",
+      "start_page": 328,
+      "end_page": 337,
+      "chars": 11813
+    },
+    {
+      "index": 40,
+      "title": "Capítulo 31 · Glokark",
+      "type": "capitulo",
+      "file": "040_capitulo-31-glokark.md",
+      "start_page": 338,
+      "end_page": 345,
+      "chars": 10102
+    },
+    {
+      "index": 41,
+      "title": "Capítulo 32 · El que anda",
+      "type": "capitulo",
+      "file": "041_capitulo-32-el-que-anda.md",
+      "start_page": 346,
+      "end_page": 352,
+      "chars": 7873
+    },
+    {
+      "index": 42,
+      "title": "Capítulo 33 · Baervan",
+      "type": "capitulo",
+      "file": "042_capitulo-33-baervan.md",
+      "start_page": 353,
+      "end_page": 362,
+      "chars": 11981
+    },
+    {
+      "index": 43,
+      "title": "Capítulo 34 · Wenna",
+      "type": "capitulo",
+      "file": "043_capitulo-34-wenna.md",
+      "start_page": 363,
+      "end_page": 371,
+      "chars": 10306
+    },
+    {
+      "index": 44,
+      "title": "Capítulo 35 · Tomás Hask",
+      "type": "capitulo",
+      "file": "044_capitulo-35-tomas-hask.md",
+      "start_page": 372,
+      "end_page": 379,
+      "chars": 8878
+    },
+    {
+      "index": 45,
+      "title": "Capítulo 36 · Baervan",
+      "type": "capitulo",
+      "file": "045_capitulo-36-baervan.md",
+      "start_page": 380,
+      "end_page": 389,
+      "chars": 11652
+    },
+    {
+      "index": 46,
+      "title": "Capítulo 37 · Ithil",
+      "type": "capitulo",
+      "file": "046_capitulo-37-ithil.md",
+      "start_page": 390,
+      "end_page": 400,
+      "chars": 11803
+    },
+    {
+      "index": 47,
+      "title": "DEL DIARIO DE LA FAMILIA ÉRANDIUL (XV)",
+      "type": "seccion",
+      "file": "047_del-diario-de-la-familia-erandiul-xv.md",
+      "start_page": 401,
+      "end_page": 404,
+      "chars": 6636
+    },
+    {
+      "index": 48,
+      "title": "CUARTA PARTE: LA DONCELLA",
+      "type": "parte",
+      "file": "048_cuarta-parte-la-doncella.md",
+      "start_page": 405,
+      "end_page": 405,
+      "chars": 52
+    },
+    {
+      "index": 49,
+      "title": "DE LAS CRÓNICAS DE BANDERBILL, LIBRO CUARTO (IV)",
+      "type": "seccion",
+      "file": "049_de-las-cronicas-de-banderbill-libro-cuarto-iv.md",
+      "start_page": 406,
+      "end_page": 413,
+      "chars": 10875
+    },
+    {
+      "index": 50,
+      "title": "Capítulo 38 · Hatmie",
+      "type": "capitulo",
+      "file": "050_capitulo-38-hatmie.md",
+      "start_page": 414,
+      "end_page": 425,
+      "chars": 15481
+    },
+    {
+      "index": 51,
+      "title": "Capítulo 39 · Baervan",
+      "type": "capitulo",
+      "file": "051_capitulo-39-baervan.md",
+      "start_page": 426,
+      "end_page": 437,
+      "chars": 13754
+    },
+    {
+      "index": 52,
+      "title": "Capítulo 40 · Hatmie",
+      "type": "capitulo",
+      "file": "052_capitulo-40-hatmie.md",
+      "start_page": 438,
+      "end_page": 448,
+      "chars": 13814
+    },
+    {
+      "index": 53,
+      "title": "Capítulo 41 · Hatmie",
+      "type": "capitulo",
+      "file": "053_capitulo-41-hatmie.md",
+      "start_page": 449,
+      "end_page": 459,
+      "chars": 11988
+    },
+    {
+      "index": 54,
+      "title": "Capítulo 42 · Teo",
+      "type": "capitulo",
+      "file": "054_capitulo-42-teo.md",
+      "start_page": 460,
+      "end_page": 469,
+      "chars": 12603
+    },
+    {
+      "index": 55,
+      "title": "Capítulo 43 · La que no mira",
+      "type": "capitulo",
+      "file": "055_capitulo-43-la-que-no-mira.md",
+      "start_page": 470,
+      "end_page": 476,
+      "chars": 8808
+    },
+    {
+      "index": 56,
+      "title": "Capítulo 44 · Ithil",
+      "type": "capitulo",
+      "file": "056_capitulo-44-ithil.md",
+      "start_page": 477,
+      "end_page": 486,
+      "chars": 11033
+    },
+    {
+      "index": 57,
+      "title": "Capítulo 45 · Almad",
+      "type": "capitulo",
+      "file": "057_capitulo-45-almad.md",
+      "start_page": 487,
+      "end_page": 495,
+      "chars": 10908
+    },
+    {
+      "index": 58,
+      "title": "Capítulo 46 · Almad",
+      "type": "capitulo",
+      "file": "058_capitulo-46-almad.md",
+      "start_page": 496,
+      "end_page": 504,
+      "chars": 11002
+    },
+    {
+      "index": 59,
+      "title": "Capítulo 47 · Hatmie",
+      "type": "capitulo",
+      "file": "059_capitulo-47-hatmie.md",
+      "start_page": 505,
+      "end_page": 515,
+      "chars": 14144
+    },
+    {
+      "index": 60,
+      "title": "Capítulo 48 · La Espada",
+      "type": "capitulo",
+      "file": "060_capitulo-48-la-espada.md",
+      "start_page": 516,
+      "end_page": 524,
+      "chars": 10376
+    },
+    {
+      "index": 61,
+      "title": "Capítulo 49 · Finderil",
+      "type": "capitulo",
+      "file": "061_capitulo-49-finderil.md",
+      "start_page": 525,
+      "end_page": 533,
+      "chars": 11495
+    },
+    {
+      "index": 62,
+      "title": "Capítulo 50 · Hatmie",
+      "type": "capitulo",
+      "file": "062_capitulo-50-hatmie.md",
+      "start_page": 534,
+      "end_page": 543,
+      "chars": 11538
+    },
+    {
+      "index": 63,
+      "title": "DEL DIARIO DE LA FAMILIA ÉRANDIUL (XVI)",
+      "type": "seccion",
+      "file": "063_del-diario-de-la-familia-erandiul-xvi.md",
+      "start_page": 544,
+      "end_page": 545,
+      "chars": 3496
+    },
+    {
+      "index": 64,
+      "title": "QUINTA PARTE: EL SEXTO",
+      "type": "parte",
+      "file": "064_quinta-parte-el-sexto.md",
+      "start_page": 546,
+      "end_page": 546,
+      "chars": 52
+    },
+    {
+      "index": 65,
+      "title": "DE LAS CRÓNICAS DE BANDERBILL, LIBRO CUARTO (V)",
+      "type": "seccion",
+      "file": "065_de-las-cronicas-de-banderbill-libro-cuarto-v.md",
+      "start_page": 547,
+      "end_page": 551,
+      "chars": 7213
+    },
+    {
+      "index": 66,
+      "title": "Capítulo 51 · Arispar",
+      "type": "capitulo",
+      "file": "066_capitulo-51-arispar.md",
+      "start_page": 552,
+      "end_page": 562,
+      "chars": 12334
+    },
+    {
+      "index": 67,
+      "title": "Capítulo 52 · Lanther",
+      "type": "capitulo",
+      "file": "067_capitulo-52-lanther.md",
+      "start_page": 563,
+      "end_page": 573,
+      "chars": 12687
+    },
+    {
+      "index": 68,
+      "title": "Capítulo 53 · Mirela",
+      "type": "capitulo",
+      "file": "068_capitulo-53-mirela.md",
+      "start_page": 574,
+      "end_page": 584,
+      "chars": 11266
+    },
+    {
+      "index": 69,
+      "title": "Capítulo 54 · Joel",
+      "type": "capitulo",
+      "file": "069_capitulo-54-joel.md",
+      "start_page": 585,
+      "end_page": 594,
+      "chars": 10284
+    },
+    {
+      "index": 70,
+      "title": "Capítulo 55 · Nim",
+      "type": "capitulo",
+      "file": "070_capitulo-55-nim.md",
+      "start_page": 595,
+      "end_page": 604,
+      "chars": 11568
+    },
+    {
+      "index": 71,
+      "title": "Capítulo 56 · Sein",
+      "type": "capitulo",
+      "file": "071_capitulo-56-sein.md",
+      "start_page": 605,
+      "end_page": 612,
+      "chars": 8211
+    },
+    {
+      "index": 72,
+      "title": "Capítulo 57 · Hatmie",
+      "type": "capitulo",
+      "file": "072_capitulo-57-hatmie.md",
+      "start_page": 613,
+      "end_page": 624,
+      "chars": 12404
+    },
+    {
+      "index": 73,
+      "title": "Capítulo 58 · Imane",
+      "type": "capitulo",
+      "file": "073_capitulo-58-imane.md",
+      "start_page": 625,
+      "end_page": 637,
+      "chars": 14159
+    },
+    {
+      "index": 74,
+      "title": "Capítulo 59 · Glokark",
+      "type": "capitulo",
+      "file": "074_capitulo-59-glokark.md",
+      "start_page": 638,
+      "end_page": 648,
+      "chars": 12008
+    },
+    {
+      "index": 75,
+      "title": "Capítulo 60 · Érandiul",
+      "type": "capitulo",
+      "file": "075_capitulo-60-erandiul.md",
+      "start_page": 649,
+      "end_page": 657,
+      "chars": 10415
+    },
+    {
+      "index": 76,
+      "title": "Capítulo 61 · El Señor",
+      "type": "capitulo",
+      "file": "076_capitulo-61-el-senor.md",
+      "start_page": 658,
+      "end_page": 665,
+      "chars": 9229
+    },
+    {
+      "index": 77,
+      "title": "Capítulo 62 · Corin",
+      "type": "capitulo",
+      "file": "077_capitulo-62-corin.md",
+      "start_page": 666,
+      "end_page": 673,
+      "chars": 8370
+    },
+    {
+      "index": 78,
+      "title": "DEL DIARIO DE LA FAMILIA ÉRANDIUL (XVII)",
+      "type": "seccion",
+      "file": "078_del-diario-de-la-familia-erandiul-xvii.md",
+      "start_page": 674,
+      "end_page": 677,
+      "chars": 7661
+    },
+    {
+      "index": 79,
+      "title": "SEXTA PARTE: LOS FRAGMENTOS",
+      "type": "parte",
+      "file": "079_sexta-parte-los-fragmentos.md",
+      "start_page": 678,
+      "end_page": 678,
+      "chars": 52
+    },
+    {
+      "index": 80,
+      "title": "DE LAS CRÓNICAS DE BANDERBILL, LIBRO CUARTO (VI)",
+      "type": "seccion",
+      "file": "080_de-las-cronicas-de-banderbill-libro-cuarto-vi.md",
+      "start_page": 679,
+      "end_page": 685,
+      "chars": 8992
+    },
+    {
+      "index": 81,
+      "title": "Capítulo 63 · Tibbet",
+      "type": "capitulo",
+      "file": "081_capitulo-63-tibbet.md",
+      "start_page": 686,
+      "end_page": 697,
+      "chars": 15343
+    },
+    {
+      "index": 82,
+      "title": "Capítulo 64 · El ojo amarillo",
+      "type": "capitulo",
+      "file": "082_capitulo-64-el-ojo-amarillo.md",
+      "start_page": 698,
+      "end_page": 706,
+      "chars": 11566
+    },
+    {
+      "index": 83,
+      "title": "Capítulo 65 · Ilan Hask",
+      "type": "capitulo",
+      "file": "083_capitulo-65-ilan-hask.md",
+      "start_page": 707,
+      "end_page": 718,
+      "chars": 15338
+    },
+    {
+      "index": 84,
+      "title": "Capítulo 66 · Lanther",
+      "type": "capitulo",
+      "file": "084_capitulo-66-lanther.md",
+      "start_page": 719,
+      "end_page": 731,
+      "chars": 15632
+    },
+    {
+      "index": 85,
+      "title": "DEL DIARIO DE LA FAMILIA ÉRANDIUL (XVIII)",
+      "type": "seccion",
+      "file": "085_del-diario-de-la-familia-erandiul-xviii.md",
+      "start_page": 732,
+      "end_page": 738,
+      "chars": 13147
+    },
+    {
+      "index": 86,
+      "title": "Capítulo 67 · Nesturil",
+      "type": "capitulo",
+      "file": "086_capitulo-67-nesturil.md",
+      "start_page": 739,
+      "end_page": 749,
+      "chars": 12489
+    },
+    {
+      "index": 87,
+      "title": "Capítulo 68 · Arispar",
+      "type": "capitulo",
+      "file": "087_capitulo-68-arispar.md",
+      "start_page": 750,
+      "end_page": 761,
+      "chars": 14838
+    },
+    {
+      "index": 88,
+      "title": "Capítulo 69 · Dalbur",
+      "type": "capitulo",
+      "file": "088_capitulo-69-dalbur.md",
+      "start_page": 762,
+      "end_page": 772,
+      "chars": 14232
+    },
+    {
+      "index": 89,
+      "title": "DEL DIARIO DE LA FAMILIA ÉRANDIUL (XIX)",
+      "type": "seccion",
+      "file": "089_del-diario-de-la-familia-erandiul-xix.md",
+      "start_page": 773,
+      "end_page": 776,
+      "chars": 7549
+    },
+    {
+      "index": 90,
+      "title": "Capítulo 70 · Jhark",
+      "type": "capitulo",
+      "file": "090_capitulo-70-jhark.md",
+      "start_page": 777,
+      "end_page": 787,
+      "chars": 12833
+    },
+    {
+      "index": 91,
+      "title": "Capítulo 71 · Lindos",
+      "type": "capitulo",
+      "file": "091_capitulo-71-lindos.md",
+      "start_page": 788,
+      "end_page": 798,
+      "chars": 12685
+    },
+    {
+      "index": 92,
+      "title": "Capítulo 72 · Tobin",
+      "type": "capitulo",
+      "file": "092_capitulo-72-tobin.md",
+      "start_page": 799,
+      "end_page": 807,
+      "chars": 10328
+    },
+    {
+      "index": 93,
+      "title": "Capítulo 73 · Baervan",
+      "type": "capitulo",
+      "file": "093_capitulo-73-baervan.md",
+      "start_page": 808,
+      "end_page": 816,
+      "chars": 9342
+    },
+    {
+      "index": 94,
+      "title": "DEL DIARIO DE LA FAMILIA ÉRANDIUL (XX)",
+      "type": "seccion",
+      "file": "094_del-diario-de-la-familia-erandiul-xx.md",
+      "start_page": 817,
+      "end_page": 818,
+      "chars": 2896
+    },
+    {
+      "index": 95,
+      "title": "EPÍLOGO: FUE",
+      "type": "seccion",
+      "file": "095_epilogo-fue.md",
+      "start_page": 819,
+      "end_page": 819,
+      "chars": 61
+    },
+    {
+      "index": 96,
+      "title": "I. El borde",
+      "type": "seccion",
+      "file": "096_i-el-borde.md",
+      "start_page": 820,
+      "end_page": 824,
+      "chars": 5772
+    },
+    {
+      "index": 97,
+      "title": "II. El sótano",
+      "type": "seccion",
+      "file": "097_ii-el-sotano.md",
+      "start_page": 825,
+      "end_page": 830,
+      "chars": 6238
+    },
+    {
+      "index": 98,
+      "title": "III. La última entrada",
+      "type": "seccion",
+      "file": "098_iii-la-ultima-entrada.md",
+      "start_page": 831,
+      "end_page": 832,
+      "chars": 1435
+    },
+    {
+      "index": 99,
+      "title": "DEL DIARIO DE LA FAMILIA ÉRANDIUL (XXI)",
+      "type": "seccion",
+      "file": "099_del-diario-de-la-familia-erandiul-xxi.md",
+      "start_page": 833,
+      "end_page": 833,
+      "chars": 1159
+    },
+    {
+      "index": 100,
+      "title": "APÉNDICES",
+      "type": "seccion",
+      "file": "100_apendices.md",
+      "start_page": 834,
+      "end_page": 834,
+      "chars": 0
+    },
+    {
+      "index": 101,
+      "title": "CRONOLOGÍA DEL LIBRO CUARTO",
+      "type": "seccion",
+      "file": "101_cronologia-del-libro-cuarto.md",
+      "start_page": 835,
+      "end_page": 835,
+      "chars": 1406
+    },
+    {
+      "index": 102,
+      "title": "Segunda parte: Los medio hombres (1067–1112)",
+      "type": "seccion",
+      "file": "102_segunda-parte-los-medio-hombres-1067-1112.md",
+      "start_page": 836,
+      "end_page": 836,
+      "chars": 1370
+    },
+    {
+      "index": 103,
+      "title": "Tercera parte: El gnomo (1112–1257)",
+      "type": "seccion",
+      "file": "103_tercera-parte-el-gnomo-1112-1257.md",
+      "start_page": 837,
+      "end_page": 837,
+      "chars": 1226
+    },
+    {
+      "index": 104,
+      "title": "Quinta parte: El Sexto (1402–1419)",
+      "type": "seccion",
+      "file": "104_quinta-parte-el-sexto-1402-1419.md",
+      "start_page": 838,
+      "end_page": 838,
+      "chars": 1218
+    },
+    {
+      "index": 105,
+      "title": "Sexta parte: Los Fragmentos (1419–1439)",
+      "type": "seccion",
+      "file": "105_sexta-parte-los-fragmentos-1419-1439.md",
+      "start_page": 839,
+      "end_page": 840,
+      "chars": 2097
+    },
+    {
+      "index": 106,
+      "title": "LA ORDEN EN 1439",
+      "type": "seccion",
+      "file": "106_la-orden-en-1439.md",
+      "start_page": 841,
+      "end_page": 842,
+      "chars": 2041
+    },
+    {
+      "index": 107,
+      "title": "LÍNEAS DE SANGRE",
+      "type": "seccion",
+      "file": "107_lineas-de-sangre.md",
+      "start_page": 843,
+      "end_page": 843,
+      "chars": 1205
+    },
+    {
+      "index": 108,
+      "title": "Los Larien, cocineros",
+      "type": "seccion",
+      "file": "108_los-larien-cocineros.md",
+      "start_page": 844,
+      "end_page": 845,
+      "chars": 1525
+    },
+    {
+      "index": 109,
+      "title": "LOS FRAGMENTOS DE ALKAR EN 1439",
+      "type": "seccion",
+      "file": "109_los-fragmentos-de-alkar-en-1439.md",
+      "start_page": 846,
+      "end_page": 846,
+      "chars": 1400
+    },
+    {
+      "index": 110,
+      "title": "LOS OCHO RINCONES",
+      "type": "seccion",
+      "file": "110_los-ocho-rincones.md",
+      "start_page": 847,
+      "end_page": 847,
+      "chars": 1393
+    },
+    {
+      "index": 111,
+      "title": "EL *TUM* DEL MURO",
+      "type": "seccion",
+      "file": "111_el-tum-del-muro.md",
+      "start_page": 848,
+      "end_page": 848,
+      "chars": 484
+    },
+    {
+      "index": 112,
+      "title": "GLOSARIO",
+      "type": "seccion",
+      "file": "112_glosario.md",
+      "start_page": 849,
+      "end_page": 850,
+      "chars": 2501
+    }
+  ]
+}

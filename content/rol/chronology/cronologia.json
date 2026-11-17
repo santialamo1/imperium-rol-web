@@ -1,0 +1,1965 @@
+{
+  "metadatos": {
+    "titulo": "Cronología histórica oficial de ImperiumAO — Archivo de Rol",
+    "version": "borrador-1-revision",
+    "fechaCompilacion": "2026-11-17",
+    "estado": "pendiente_de_revision_editorial",
+    "corteHistorico": "Final del Libro IV: otoño de 1439 de la Nueva Era. El Libro V se revisó solo para delimitar el corte, sin anticipar su secuencia posterior.",
+    "calendarios": "Los años 1–412 del Primer Imperio son anteriores al año 1 de la Nueva Era. A partir de la batalla de Arghâl (607 de la Nueva Era) existe también el cómputo D.bA.",
+    "fuentesPermitidas": [
+      "Emperadores de la Ceniza, Libro I: La Torre y la Bruma",
+      "Emperadores de la Ceniza, Libro II: La Colina y el Muro",
+      "Emperadores de la Ceniza, Libro III: La Sangre Prestada",
+      "Emperadores de la Ceniza, Libro IV: El Sexto",
+      "Emperadores de la Ceniza, Libro V: La bruma que vuelve (solo para verificar el límite de 1439)"
+    ],
+    "origenArchivos": "Libro_01_Completo.md a Libro_05_Completo.md, versiones del lector del Archivo de Rol",
+    "criterioFuentes": "Referencias a capítulos o apéndices de los libros oficiales; el antiguo Diario independiente no se consultó. Páginas nulas porque las versiones Markdown no conservan una paginación PDF inequívoca.",
+    "totalEventos": 57
+  },
+  "acontecimientosHistoricos": [
+    {
+      "id": "evento-001",
+      "orden": 1,
+      "anio": 1,
+      "periodo": "Primer Imperio",
+      "precisionFecha": "anio",
+      "titulo": "Juramento de Sal y unión de los tres pueblos",
+      "descripcion": "Lucius Heredicus reunió a su pueblo Suhon con los Ibaro y los Zelto en la Llanura del Ombligo y selló la unión sobre la Piedra del Ombligo. Murieron cuarenta y tres participantes que ocultaban armas.",
+      "consecuencias": "Se constituyó la base política del Primer Imperio en torno al juramento y la Piedra del Ombligo.",
+      "personajes": [
+        "Lucius Heredicus"
+      ],
+      "facciones": [
+        "Suhon",
+        "Ibaro",
+        "Zelto"
+      ],
+      "lugares": [
+        "Llanura del Ombligo"
+      ],
+      "categoria": "politica",
+      "fuentes": [
+        {
+          "libro": "I",
+          "capitulo": "Apéndice: Cronología del Primer Imperio — Año 1",
+          "pagina": null
+        },
+        {
+          "libro": "I",
+          "capitulo": "Capítulo 1 · Lucius",
+          "pagina": null
+        }
+      ]
+    },
+    {
+      "id": "evento-002",
+      "orden": 2,
+      "anio": null,
+      "periodo": "Años 3–19 del Primer Imperio",
+      "precisionFecha": "intervalo",
+      "titulo": "Fundación de Concordia y construcción de la Torre de la Unión",
+      "descripcion": "Entre los años 3 y 19 se construyó la Torre de la Unión y se fundó Concordia. Lisandro Heredicus colocó la clave final y encendió la Llama Concorde en el año 19.",
+      "consecuencias": "Concordia quedó constituida como ciudad central del nuevo orden político.",
+      "personajes": [
+        "Lisandro Heredicus"
+      ],
+      "facciones": [
+        "Primer Imperio"
+      ],
+      "lugares": [
+        "Concordia",
+        "Torre de la Unión"
+      ],
+      "categoria": "fundacion",
+      "fuentes": [
+        {
+          "libro": "I",
+          "capitulo": "Apéndice: Cronología del Primer Imperio — Años 3–19",
+          "pagina": null
+        }
+      ]
+    },
+    {
+      "id": "evento-003",
+      "orden": 3,
+      "anio": 26,
+      "periodo": "Primer Imperio",
+      "precisionFecha": "anio",
+      "titulo": "Batalla de Askel y asesinato de Varo Heredicus",
+      "descripcion": "En la batalla de Askel, Hector sirvió de cebo en el dispositivo militar imperial. Tras la victoria, el capitán Tullo asesinó a Varo Heredicus y luego se ahorcó.",
+      "consecuencias": "La muerte de Varo alteró la sucesión de los Heredicus; más tarde Aelia confesó haber financiado el asesinato.",
+      "personajes": [
+        "Varo Heredicus",
+        "Hector Tiberius",
+        "Tullo",
+        "Aelia"
+      ],
+      "facciones": [
+        "Primer Imperio"
+      ],
+      "lugares": [
+        "Askel"
+      ],
+      "categoria": "guerra",
+      "fuentes": [
+        {
+          "libro": "I",
+          "capitulo": "Apéndice: Cronología del Primer Imperio — Año 26",
+          "pagina": null
+        },
+        {
+          "libro": "I",
+          "capitulo": "Capítulo 4 · Varo",
+          "pagina": null
+        },
+        {
+          "libro": "I",
+          "capitulo": "Capítulo 5 · Tullo",
+          "pagina": null
+        }
+      ]
+    },
+    {
+      "id": "evento-004",
+      "orden": 4,
+      "anio": 35,
+      "periodo": "Primer Imperio",
+      "precisionFecha": "anio",
+      "titulo": "Muerte de Lucius y ascenso de Hector Tiberius",
+      "descripcion": "Tras la muerte de Lucius Heredicus, su hijastro Hector Tiberius asumió el poder. Durante su reinado, que se extendió hasta el año 72, conquistó clanes menores de Tiber, Pisor y Gijor.",
+      "consecuencias": "Se consolidó la sucesión tiberiana y se amplió el territorio bajo control imperial.",
+      "personajes": [
+        "Lucius Heredicus",
+        "Hector Tiberius"
+      ],
+      "facciones": [
+        "Primer Imperio"
+      ],
+      "lugares": [
+        "Tiber",
+        "Pisor",
+        "Gijor"
+      ],
+      "categoria": "sucesion",
+      "fuentes": [
+        {
+          "libro": "I",
+          "capitulo": "Apéndice: Cronología del Primer Imperio — Año 35",
+          "pagina": null
+        }
+      ]
+    },
+    {
+      "id": "evento-005",
+      "orden": 5,
+      "anio": 59,
+      "periodo": "Primer Imperio",
+      "precisionFecha": "anio",
+      "titulo": "Pacto de Otaro en la meseta de Kerr",
+      "descripcion": "Hector Tiberius alcanzó un acuerdo directo con Ketta Otaro, caudillo de Gijor, en la meseta de Kerr.",
+      "consecuencias": "Se estableció un pacto entre la autoridad imperial y el liderazgo de Gijor.",
+      "personajes": [
+        "Hector Tiberius",
+        "Ketta Otaro"
+      ],
+      "facciones": [
+        "Primer Imperio",
+        "Clanes de Gijor"
+      ],
+      "lugares": [
+        "Meseta de Kerr",
+        "Gijor"
+      ],
+      "categoria": "alianza",
+      "fuentes": [
+        {
+          "libro": "I",
+          "capitulo": "Apéndice: Cronología del Primer Imperio — Año 59",
+          "pagina": null
+        }
+      ]
+    },
+    {
+      "id": "evento-006",
+      "orden": 6,
+      "anio": 72,
+      "periodo": "Primer Imperio",
+      "precisionFecha": "anio",
+      "titulo": "Genieveve de Leogrand accede al trono",
+      "descripcion": "Después del decreto de Hector que dejó la elección en manos de la fuerza, Genieveve de Leogrand venció a treinta y dos combatientes y accedió al trono. Recibía ayuda de la leche de bruma suministrada por Sahra.",
+      "consecuencias": "Se instauró el reinado de Genieveve, que duró hasta el año 88.",
+      "personajes": [
+        "Hector Tiberius",
+        "Genieveve de Leogrand",
+        "Sahra"
+      ],
+      "facciones": [
+        "Primer Imperio"
+      ],
+      "lugares": [
+        "Concordia"
+      ],
+      "categoria": "sucesion",
+      "fuentes": [
+        {
+          "libro": "I",
+          "capitulo": "Apéndice: Cronología del Primer Imperio — Año 72",
+          "pagina": null
+        },
+        {
+          "libro": "I",
+          "capitulo": "Capítulo 12 · Genieveve",
+          "pagina": null
+        }
+      ]
+    },
+    {
+      "id": "evento-007",
+      "orden": 7,
+      "anio": 88,
+      "periodo": "Primer Imperio",
+      "precisionFecha": "anio",
+      "titulo": "Caída de Genieveve y ascenso de Drolnar Arenar",
+      "descripcion": "Genieveve mató a Ilse Arenar; Drolnar Arenar mató entonces a Genieveve y fue aclamado gobernante. En el mismo año se quemó a Sahra y a niños eufesios; Teodor Bhargaras consiguió sacar de allí a Nadi.",
+      "consecuencias": "Comenzó el gobierno de Drolnar (88–121) y quedó registrada una persecución mortal contra eufesios.",
+      "personajes": [
+        "Genieveve de Leogrand",
+        "Ilse Arenar",
+        "Drolnar Arenar",
+        "Sahra",
+        "Teodor Bhargaras",
+        "Nadi"
+      ],
+      "facciones": [
+        "Primer Imperio",
+        "Eufesios"
+      ],
+      "lugares": [
+        "Concordia"
+      ],
+      "categoria": "sucesion",
+      "fuentes": [
+        {
+          "libro": "I",
+          "capitulo": "Apéndice: Cronología del Primer Imperio — Año 88",
+          "pagina": null
+        },
+        {
+          "libro": "I",
+          "capitulo": "Capítulo 19 · Drolnar",
+          "pagina": null
+        },
+        {
+          "libro": "I",
+          "capitulo": "Capítulo 21 · Brida",
+          "pagina": null
+        }
+      ]
+    },
+    {
+      "id": "evento-008",
+      "orden": 8,
+      "anio": 93,
+      "periodo": "Primer Imperio",
+      "precisionFecha": "anio",
+      "titulo": "Sentencia de Hedda o Ley de los Doce",
+      "descripcion": "Se estableció que nadie podía ser castigado por estar «tocado por la niebla» sin un juicio, y que el emperador tampoco quedaba exceptuado.",
+      "consecuencias": "Se creó una garantía jurídica frente a castigos por contacto con la niebla.",
+      "personajes": [
+        "Drolnar Arenar"
+      ],
+      "facciones": [
+        "Primer Imperio"
+      ],
+      "lugares": [
+        "Concordia"
+      ],
+      "categoria": "politica",
+      "fuentes": [
+        {
+          "libro": "I",
+          "capitulo": "Apéndice: Cronología del Primer Imperio — Año 93",
+          "pagina": null
+        },
+        {
+          "libro": "I",
+          "capitulo": "Capítulo 23 · Drolnar",
+          "pagina": null
+        }
+      ]
+    },
+    {
+      "id": "evento-009",
+      "orden": 9,
+      "anio": 120,
+      "periodo": "Primer Imperio",
+      "precisionFecha": "anio",
+      "titulo": "Loth divide su vida en siete jarras",
+      "descripcion": "Loth descendió al Pozo Primero y dividió su propia vida en siete jarras.",
+      "consecuencias": "Las siete jarras quedaron vinculadas a acontecimientos posteriores registrados en varios libros.",
+      "personajes": [
+        "Loth"
+      ],
+      "facciones": [
+        "Eufesios"
+      ],
+      "lugares": [
+        "Pozo Primero",
+        "Eufesia"
+      ],
+      "categoria": "magia",
+      "fuentes": [
+        {
+          "libro": "I",
+          "capitulo": "Apéndice: Cronología del Primer Imperio — Año 120",
+          "pagina": null
+        },
+        {
+          "libro": "I",
+          "capitulo": "Capítulo 25 · Loth",
+          "pagina": null
+        }
+      ]
+    },
+    {
+      "id": "evento-010",
+      "orden": 10,
+      "anio": 149,
+      "periodo": "Primer Imperio",
+      "precisionFecha": "anio",
+      "titulo": "Batalla del Vado de las Cenizas y sucesión de Helen Dorian",
+      "descripcion": "Durante la batalla, Henricus Bhargaras liberó a doscientos muertos y murió a manos de Seren. Helen Dorian accedió al trono ese año.",
+      "consecuencias": "Terminó el reinado de Henricus y comenzó el de Helen Dorian (149–165).",
+      "personajes": [
+        "Henricus Bhargaras",
+        "Seren",
+        "Helen Dorian"
+      ],
+      "facciones": [
+        "Primer Imperio"
+      ],
+      "lugares": [
+        "Vado de las Cenizas"
+      ],
+      "categoria": "guerra",
+      "fuentes": [
+        {
+          "libro": "I",
+          "capitulo": "Apéndice: Cronología del Primer Imperio — Año 149",
+          "pagina": null
+        },
+        {
+          "libro": "I",
+          "capitulo": "Capítulo 32 · Henricus",
+          "pagina": null
+        },
+        {
+          "libro": "I",
+          "capitulo": "Capítulo 33 · Helen",
+          "pagina": null
+        }
+      ]
+    },
+    {
+      "id": "evento-011",
+      "orden": 11,
+      "anio": 165,
+      "periodo": "Primer Imperio",
+      "precisionFecha": "anio",
+      "titulo": "Braco Arenar toma el poder y comienza una guerra prolongada",
+      "descripcion": "Tras las muertes de Nadia y Helen Dorian, Braco Arenar accedió al trono. La cronología oficial sitúa aquí el inicio de una guerra de cincuenta años y la primera caída de Kel-Mar.",
+      "consecuencias": "Se abrió una etapa de guerra sostenida durante el reinado de Braco (165–220).",
+      "personajes": [
+        "Braco Arenar",
+        "Helen Dorian",
+        "Nadia",
+        "Corvo Bhargaras"
+      ],
+      "facciones": [
+        "Primer Imperio"
+      ],
+      "lugares": [
+        "Kel-Mar"
+      ],
+      "categoria": "guerra",
+      "fuentes": [
+        {
+          "libro": "I",
+          "capitulo": "Apéndice: Cronología del Primer Imperio — Año 165",
+          "pagina": null
+        },
+        {
+          "libro": "I",
+          "capitulo": "Capítulo 38 · Braco",
+          "pagina": null
+        }
+      ]
+    },
+    {
+      "id": "evento-012",
+      "orden": 12,
+      "anio": 197,
+      "periodo": "Primer Imperio",
+      "precisionFecha": "anio",
+      "titulo": "Marcha de la Sal y ruptura de la primera jarra",
+      "descripcion": "Durante la Marcha de la Sal se rompió la primera jarra en Ummat. En Concordia, Ismena Vell, Pell Aaro y once novicios liberaron a numerosos muertos del osario Zelto.",
+      "consecuencias": "La campaña afectó a las jarras de Loth y redujo la presencia de muertos retenidos en el osario.",
+      "personajes": [
+        "Braco Arenar",
+        "Ismena Vell",
+        "Pell Aaro"
+      ],
+      "facciones": [
+        "Primer Imperio",
+        "Custodios"
+      ],
+      "lugares": [
+        "Ummat",
+        "Concordia",
+        "Osario Zelto"
+      ],
+      "categoria": "guerra",
+      "fuentes": [
+        {
+          "libro": "I",
+          "capitulo": "Apéndice: Cronología del Primer Imperio — Año 197",
+          "pagina": null
+        },
+        {
+          "libro": "I",
+          "capitulo": "Capítulo 44 · Braco",
+          "pagina": null
+        }
+      ]
+    },
+    {
+      "id": "evento-013",
+      "orden": 13,
+      "anio": 220,
+      "periodo": "Primer Imperio",
+      "precisionFecha": "anio",
+      "titulo": "Lexandra Tiberius asume el trono y pacta con los clanes libres",
+      "descripcion": "Tras la muerte de Braco, Lexandra Tiberius venció a once aspirantes y fue proclamada gobernante. Durante su reinado estableció un pacto con los clanes libres representados por Ysh-Neva.",
+      "consecuencias": "Comenzó el reinado de Lexandra (220–234) y se formalizó una relación con los clanes libres.",
+      "personajes": [
+        "Braco Arenar",
+        "Lexandra Tiberius",
+        "Ysh-Neva"
+      ],
+      "facciones": [
+        "Primer Imperio",
+        "Clanes libres"
+      ],
+      "lugares": [
+        "Concordia",
+        "Kel-Ammar"
+      ],
+      "categoria": "alianza",
+      "fuentes": [
+        {
+          "libro": "I",
+          "capitulo": "Apéndice: Cronología del Primer Imperio — Año 220",
+          "pagina": null
+        },
+        {
+          "libro": "I",
+          "capitulo": "Capítulo 47 · Lexandra",
+          "pagina": null
+        }
+      ]
+    },
+    {
+      "id": "evento-014",
+      "orden": 14,
+      "anio": 245,
+      "periodo": "Primer Imperio",
+      "precisionFecha": "anio",
+      "titulo": "Batalla de las Sombras",
+      "descripcion": "En la Batalla de las Sombras se emplearon espejos de bronce. Seren arrojó la segunda jarra.",
+      "consecuencias": "Se rompió la segunda jarra dentro del conflicto relacionado con la bruma.",
+      "personajes": [
+        "Yaakov Tiberius",
+        "Seren"
+      ],
+      "facciones": [
+        "Primer Imperio"
+      ],
+      "lugares": [],
+      "categoria": "guerra",
+      "fuentes": [
+        {
+          "libro": "I",
+          "capitulo": "Apéndice: Cronología del Primer Imperio — Año 245",
+          "pagina": null
+        },
+        {
+          "libro": "I",
+          "capitulo": "Capítulo 56 · Yaakov",
+          "pagina": null
+        }
+      ]
+    },
+    {
+      "id": "evento-015",
+      "orden": 15,
+      "anio": 249,
+      "periodo": "Primer Imperio",
+      "precisionFecha": "anio",
+      "titulo": "Maximus Heredicus llega al trono e impone leyes contra los eufesios",
+      "descripcion": "Yaakov Tiberius murió envenenado por Octavia Heredicus. Maximus Heredicus fue el único inscrito para la prueba de la plaza y asumió el poder; promulgó leyes contra los eufesios.",
+      "consecuencias": "Comenzó el reinado de Maximus (249–299) y se impusieron medidas discriminatorias contra los eufesios.",
+      "personajes": [
+        "Yaakov Tiberius",
+        "Octavia Heredicus",
+        "Maximus Heredicus"
+      ],
+      "facciones": [
+        "Primer Imperio",
+        "Eufesios"
+      ],
+      "lugares": [
+        "Concordia"
+      ],
+      "categoria": "politica",
+      "fuentes": [
+        {
+          "libro": "I",
+          "capitulo": "Apéndice: Cronología del Primer Imperio — Año 249",
+          "pagina": null
+        },
+        {
+          "libro": "I",
+          "capitulo": "Capítulo 58 · Maximus",
+          "pagina": null
+        }
+      ]
+    },
+    {
+      "id": "evento-016",
+      "orden": 16,
+      "anio": 299,
+      "periodo": "Primer Imperio",
+      "precisionFecha": "anio",
+      "titulo": "Caída de Maximus y coronación de Gregorian Bhargaras",
+      "descripcion": "En el Atardecer Rojo, los muertos de Kel-Dun fueron liberados y cayeron fortalezas del Ceniza. Loth mató a Maximus; Gregorian Bhargaras rompió la tercera jarra y fue coronado en el campo de batalla.",
+      "consecuencias": "Terminó el reinado de Maximus y comenzó el de Gregorian (299–331); al año siguiente Gregorian derogó la orden de caza.",
+      "personajes": [
+        "Maximus Heredicus",
+        "Loth",
+        "Gregorian Bhargaras",
+        "Yared Tiberius"
+      ],
+      "facciones": [
+        "Primer Imperio"
+      ],
+      "lugares": [
+        "Kel-Dun",
+        "Askel",
+        "Ceniza"
+      ],
+      "categoria": "guerra",
+      "fuentes": [
+        {
+          "libro": "I",
+          "capitulo": "Apéndice: Cronología del Primer Imperio — Año 299",
+          "pagina": null
+        },
+        {
+          "libro": "I",
+          "capitulo": "Capítulo 66 · Gregorian",
+          "pagina": null
+        }
+      ]
+    },
+    {
+      "id": "evento-017",
+      "orden": 17,
+      "anio": null,
+      "periodo": "Años 354–386 del Primer Imperio; reformas fechadas en 370",
+      "precisionFecha": "intervalo",
+      "titulo": "Restauración de Aremir Bhargaras",
+      "descripcion": "Aremir Bhargaras gobernó entre los años 354 y 386. En el año 370 derogó las leyes de Maximus y reabrió la embajada de los clanes libres.",
+      "consecuencias": "Se revirtieron las restricciones contra los eufesios implantadas por Maximus y se restablecieron vínculos diplomáticos.",
+      "personajes": [
+        "Aremir Bhargaras",
+        "Maximus Heredicus"
+      ],
+      "facciones": [
+        "Primer Imperio",
+        "Clanes libres",
+        "Eufesios"
+      ],
+      "lugares": [
+        "Concordia"
+      ],
+      "categoria": "politica",
+      "fuentes": [
+        {
+          "libro": "I",
+          "capitulo": "Apéndice: Cronología del Primer Imperio — Años 354–386; Año 370",
+          "pagina": null
+        },
+        {
+          "libro": "I",
+          "capitulo": "Capítulo 73 · Aremir",
+          "pagina": null
+        }
+      ]
+    },
+    {
+      "id": "evento-018",
+      "orden": 18,
+      "anio": 412,
+      "periodo": "Primer Imperio",
+      "precisionFecha": "anio",
+      "titulo": "Noche Más Larga y caída del orden de Concordia",
+      "descripcion": "Casimir Vell abrió la Puerta de los Juramentos; murió Haltair Bhargaras y Bander liberó a los Cien en la escalera de la Torre. Un grupo de seiscientas personas huyó por el acueducto de Lisandro.",
+      "consecuencias": "El centro imperial de Concordia quedó devastado y los supervivientes iniciaron el éxodo del que surgiría Banderbill.",
+      "personajes": [
+        "Casimir Vell",
+        "Haltair Bhargaras",
+        "Bander Bhargaras VI"
+      ],
+      "facciones": [
+        "Primer Imperio"
+      ],
+      "lugares": [
+        "Concordia",
+        "Torre de la Unión"
+      ],
+      "categoria": "catastrofe",
+      "fuentes": [
+        {
+          "libro": "I",
+          "capitulo": "Apéndice: Cronología del Primer Imperio — Año 412",
+          "pagina": null
+        },
+        {
+          "libro": "I",
+          "capitulo": "Capítulo 82 · Haltair",
+          "pagina": null
+        },
+        {
+          "libro": "I",
+          "capitulo": "Capítulo 83 · Bander",
+          "pagina": null
+        }
+      ]
+    },
+    {
+      "id": "evento-019",
+      "orden": 19,
+      "anio": 1,
+      "periodo": "Nueva Era",
+      "precisionFecha": "anio",
+      "titulo": "Fundación de Banderbill y comienzo de la Nueva Era",
+      "descripcion": "Tras cuarenta y un días en el Mar de la Penuria Eterna, los supervivientes fundaron Banderbill en Oderon. Bander Bhargaras VI gobernó como emperador desde el año 1 de la Nueva Era.",
+      "consecuencias": "Se trasladó el centro político de los supervivientes a Oderon y se estableció el nuevo cómputo de los años.",
+      "personajes": [
+        "Bander Bhargaras VI"
+      ],
+      "facciones": [
+        "Imperio de Banderbill"
+      ],
+      "lugares": [
+        "Banderbill",
+        "Oderon",
+        "Mar de la Penuria Eterna"
+      ],
+      "categoria": "fundacion",
+      "fuentes": [
+        {
+          "libro": "I",
+          "capitulo": "Apéndice: Cronología del Primer Imperio — Año 1 de la Nueva Era",
+          "pagina": null
+        },
+        {
+          "libro": "I",
+          "capitulo": "Capítulo 87 · Bander",
+          "pagina": null
+        },
+        {
+          "libro": "I",
+          "capitulo": "Capítulo 88 · Ugo",
+          "pagina": null
+        }
+      ]
+    },
+    {
+      "id": "evento-020",
+      "orden": 20,
+      "anio": 27,
+      "periodo": "Nueva Era",
+      "precisionFecha": "anio",
+      "titulo": "Muerte de Bander VI y crisis de las medusas",
+      "descripcion": "Casimir Vell llegó con una flota de muertos a la bahía de Banderbill. Bander Bhargaras VI murió de una herida persistente; la cuarta vida pasó a Bhargaras VII, quien rechazó a las medusas y a los oyentes.",
+      "consecuencias": "Se produjo la sucesión a Bhargaras VII en medio de una amenaza sobrenatural sobre la ciudad.",
+      "personajes": [
+        "Bander Bhargaras VI",
+        "Bhargaras VII",
+        "Casimir Vell"
+      ],
+      "facciones": [
+        "Imperio de Banderbill"
+      ],
+      "lugares": [
+        "Banderbill",
+        "Puerto Salobre"
+      ],
+      "categoria": "sucesion",
+      "fuentes": [
+        {
+          "libro": "II",
+          "capitulo": "Apéndice: Cronología del Libro Segundo — Año 27",
+          "pagina": null
+        },
+        {
+          "libro": "II",
+          "capitulo": "Capítulo 15 · Bhargaras",
+          "pagina": null
+        }
+      ]
+    },
+    {
+      "id": "evento-021",
+      "orden": 21,
+      "anio": 29,
+      "periodo": "Nueva Era",
+      "precisionFecha": "anio",
+      "titulo": "Bhargaras VII queda sellado como Último Guardián",
+      "descripcion": "Bhargaras VII prestó su vida a Lanther, descendió al agujero del valle negro y quedó sellado en sal. Veintidós Madres permanecieron de guardia.",
+      "consecuencias": "Se estableció el encierro del Guardián bajo el valle negro, elemento clave para acontecimientos posteriores.",
+      "personajes": [
+        "Bhargaras VII",
+        "Lanther"
+      ],
+      "facciones": [
+        "Madres",
+        "Imperio de Banderbill"
+      ],
+      "lugares": [
+        "Valle negro"
+      ],
+      "categoria": "magia",
+      "fuentes": [
+        {
+          "libro": "II",
+          "capitulo": "Apéndice: Cronología del Libro Segundo — Año 29",
+          "pagina": null
+        },
+        {
+          "libro": "II",
+          "capitulo": "Capítulo 23 · Bhargaras",
+          "pagina": null
+        }
+      ]
+    },
+    {
+      "id": "evento-022",
+      "orden": 22,
+      "anio": 30,
+      "periodo": "Nueva Era",
+      "precisionFecha": "anio",
+      "titulo": "Construcción del muro de Banderbill",
+      "descripcion": "Lanther levantó alrededor de Banderbill un muro de 9.412 piedras de río que cantaban; la obra ocupó cuatro meses y diecinueve días. En ese año hubo ataques orcos y llegaron refugiados elfos.",
+      "consecuencias": "Banderbill adquirió una nueva defensa y recibió población desplazada.",
+      "personajes": [
+        "Lanther",
+        "Verawel",
+        "Érandiul"
+      ],
+      "facciones": [
+        "Imperio de Banderbill",
+        "Orcos",
+        "Elfos refugiados"
+      ],
+      "lugares": [
+        "Banderbill"
+      ],
+      "categoria": "fundacion",
+      "fuentes": [
+        {
+          "libro": "II",
+          "capitulo": "Apéndice: Cronología del Libro Segundo — Año 30",
+          "pagina": null
+        },
+        {
+          "libro": "II",
+          "capitulo": "Capítulo 30 · Lanther",
+          "pagina": null
+        }
+      ]
+    },
+    {
+      "id": "evento-023",
+      "orden": 23,
+      "anio": 33,
+      "periodo": "Nueva Era",
+      "precisionFecha": "anio",
+      "titulo": "Constitución de la Orden",
+      "descripcion": "Tras abrirse el Cofre de Bhargaras II y leerse las reglas de la ofrenda, quedó constituida la Orden bajo la fórmula «tres que saben y uno que suma».",
+      "consecuencias": "Se estableció una organización encargada de custodiar y administrar el conocimiento sobre las ofrendas.",
+      "personajes": [
+        "Lanther",
+        "Sein Vell"
+      ],
+      "facciones": [
+        "Orden"
+      ],
+      "lugares": [
+        "Banderbill"
+      ],
+      "categoria": "faccion",
+      "fuentes": [
+        {
+          "libro": "II",
+          "capitulo": "Apéndice: Cronología del Libro Segundo — Año 33",
+          "pagina": null
+        }
+      ]
+    },
+    {
+      "id": "evento-024",
+      "orden": 24,
+      "anio": 61,
+      "periodo": "Nueva Era",
+      "precisionFecha": "anio",
+      "titulo": "Desaparición de Loth y apertura de la niebla de Concordia",
+      "descripcion": "En la cúpula de Concordia, Loth entregó la séptima jarra a Lanther y se deshizo al recibir el sol. Livia Heredicus liberó a Lucius y murió. La niebla se abrió sobre Concordia.",
+      "consecuencias": "Concluyó una larga etapa vinculada al dominio de la bruma sobre Concordia.",
+      "personajes": [
+        "Loth",
+        "Lanther",
+        "Livia Heredicus",
+        "Lucius Heredicus"
+      ],
+      "facciones": [
+        "Orden"
+      ],
+      "lugares": [
+        "Concordia",
+        "Torre de la Unión"
+      ],
+      "categoria": "magia",
+      "fuentes": [
+        {
+          "libro": "II",
+          "capitulo": "Apéndice: Cronología del Libro Segundo — Año 61",
+          "pagina": null
+        }
+      ]
+    },
+    {
+      "id": "evento-025",
+      "orden": 25,
+      "anio": null,
+      "periodo": "Años 90–95 de la Nueva Era",
+      "precisionFecha": "intervalo",
+      "titulo": "Fundación del Mercado neutral del valle negro",
+      "descripcion": "Ilsa estableció un mercado en el claro de una fuente que no se helaba entre los años 90 y 95, con la regla de que nadie podía levantar un arma allí. Wenna de Pisor ejerció de fiel de la balanza.",
+      "consecuencias": "El valle negro incorporó un lugar de intercambio regido por una norma explícita de neutralidad.",
+      "personajes": [
+        "Ilsa",
+        "Wenna de Pisor"
+      ],
+      "facciones": [
+        "Mercado del valle negro"
+      ],
+      "lugares": [
+        "Valle negro"
+      ],
+      "categoria": "fundacion",
+      "fuentes": [
+        {
+          "libro": "II",
+          "capitulo": "Apéndice: Cronología del Libro Segundo — Años 90–95",
+          "pagina": null
+        },
+        {
+          "libro": "II",
+          "capitulo": "Capítulo 45 · Ilsa",
+          "pagina": null
+        }
+      ]
+    },
+    {
+      "id": "evento-026",
+      "orden": 26,
+      "anio": 134,
+      "periodo": "Nueva Era",
+      "precisionFecha": "anio",
+      "titulo": "Pacto de la Triple Alianza",
+      "descripcion": "Andriath encontró a los gnomos del archipiélago del sur y acordó una alianza entre humanos, elfos y gnomos, sellada en una playa sin documento escrito.",
+      "consecuencias": "Se creó una cooperación formal entre los tres pueblos.",
+      "personajes": [
+        "Andriath",
+        "Tibbet Tornasol"
+      ],
+      "facciones": [
+        "Humanos",
+        "Elfos",
+        "Gnomos",
+        "Triple Alianza"
+      ],
+      "lugares": [
+        "Archipiélago del sur"
+      ],
+      "categoria": "alianza",
+      "fuentes": [
+        {
+          "libro": "II",
+          "capitulo": "Apéndice: Cronología del Libro Segundo — Año 134",
+          "pagina": null
+        },
+        {
+          "libro": "II",
+          "capitulo": "Capítulo 50 · Andriath",
+          "pagina": null
+        }
+      ]
+    },
+    {
+      "id": "evento-027",
+      "orden": 27,
+      "anio": 145,
+      "periodo": "Nueva Era",
+      "precisionFecha": "anio",
+      "titulo": "Ullathorpe y Nueva Esperanza reciben sus nombres",
+      "descripcion": "Tras la Batalla del Último Campamento, en la que murió Andriath, Bhargaras VIII rebautizó el fuerte como Ullathorpe y el archipiélago como Nueva Esperanza.",
+      "consecuencias": "Quedaron fijados dos nombres territoriales de relevancia duradera.",
+      "personajes": [
+        "Andriath",
+        "Bhargaras VIII"
+      ],
+      "facciones": [
+        "Imperio de Banderbill"
+      ],
+      "lugares": [
+        "Ullathorpe",
+        "Nueva Esperanza"
+      ],
+      "categoria": "fundacion",
+      "fuentes": [
+        {
+          "libro": "II",
+          "capitulo": "Apéndice: Cronología del Libro Segundo — Año 145",
+          "pagina": null
+        },
+        {
+          "libro": "II",
+          "capitulo": "Capítulo 52 · Andriath",
+          "pagina": null
+        }
+      ]
+    },
+    {
+      "id": "evento-028",
+      "orden": 28,
+      "anio": 156,
+      "periodo": "Nueva Era",
+      "precisionFecha": "anio",
+      "titulo": "Fundación de Nix",
+      "descripcion": "Después de que Tawarsinan negara la entrada a los humanos, se fundó la ciudad de Nix.",
+      "consecuencias": "Nix pasó a integrar el conjunto de ciudades del mundo imperial.",
+      "personajes": [
+        "Lanther"
+      ],
+      "facciones": [
+        "Humanos",
+        "Elfos de Tawarsinan"
+      ],
+      "lugares": [
+        "Nix",
+        "Tawarsinan"
+      ],
+      "categoria": "fundacion",
+      "fuentes": [
+        {
+          "libro": "II",
+          "capitulo": "Apéndice: Cronología del Libro Segundo — Año 156",
+          "pagina": null
+        }
+      ]
+    },
+    {
+      "id": "evento-029",
+      "orden": 29,
+      "anio": null,
+      "periodo": "Años 178–183 de la Nueva Era",
+      "precisionFecha": "intervalo",
+      "titulo": "Creación de los Ocho Rincones",
+      "descripcion": "Entre los años 178 y 183 Bredinlo de Pisor encontró las seis hojas de una corteza dura y forjó una vara; se establecieron los Ocho Rincones, y Bredinlo quedó en el octavo con la vara.",
+      "consecuencias": "Se constituyó un sistema de enclaves secretos cuya custodia siguió influyendo en la historia.",
+      "personajes": [
+        "Bredinlo de Pisor"
+      ],
+      "facciones": [
+        "Orden"
+      ],
+      "lugares": [
+        "Ocho Rincones"
+      ],
+      "categoria": "magia",
+      "fuentes": [
+        {
+          "libro": "II",
+          "capitulo": "Apéndice: Cronología del Libro Segundo — Años 178–183",
+          "pagina": null
+        },
+        {
+          "libro": "II",
+          "capitulo": "Capítulo 57 · Bredinlo",
+          "pagina": null
+        }
+      ]
+    },
+    {
+      "id": "evento-030",
+      "orden": 30,
+      "anio": 218,
+      "periodo": "Nueva Era",
+      "precisionFecha": "anio",
+      "titulo": "Arthal se proclama emperador de las cuatro razas",
+      "descripcion": "A la muerte de Bhargaras X, Arthal se proclamó emperador de las cuatro razas. Kildo forjó una corona de oro con once cristales de Alkar y colocó dentro el antiguo aro de hierro.",
+      "consecuencias": "El poder imperial adoptó una representación explícita de varias razas y una nueva corona.",
+      "personajes": [
+        "Bhargaras X",
+        "Arthal",
+        "Kildo"
+      ],
+      "facciones": [
+        "Imperio de Banderbill"
+      ],
+      "lugares": [
+        "Banderbill"
+      ],
+      "categoria": "sucesion",
+      "fuentes": [
+        {
+          "libro": "II",
+          "capitulo": "Apéndice: Cronología del Libro Segundo — Año 218",
+          "pagina": null
+        },
+        {
+          "libro": "II",
+          "capitulo": "Capítulo 60 · Kildo",
+          "pagina": null
+        }
+      ]
+    },
+    {
+      "id": "evento-031",
+      "orden": 31,
+      "anio": null,
+      "periodo": "Años 357–358 de la Nueva Era",
+      "precisionFecha": "intervalo",
+      "titulo": "Destrucción de Nix y caída de Tawarsinan",
+      "descripcion": "El Gran Temblor del año 357 precedió al ataque de una horda organizada que destruyó Nix. Ciento treinta y nueve supervivientes se refugiaron en Tawarsinan, que cayó en el año 358.",
+      "consecuencias": "Se perdieron dos enclaves y se produjo un desplazamiento de población.",
+      "personajes": [
+        "Lindiel"
+      ],
+      "facciones": [
+        "Hordas orcas",
+        "Elfos de Tawarsinan"
+      ],
+      "lugares": [
+        "Nix",
+        "Tawarsinan",
+        "Dorck"
+      ],
+      "categoria": "catastrofe",
+      "fuentes": [
+        {
+          "libro": "II",
+          "capitulo": "Apéndice: Cronología del Libro Segundo — Años 357–358",
+          "pagina": null
+        },
+        {
+          "libro": "II",
+          "capitulo": "Capítulo 69 · Dalla Hask",
+          "pagina": null
+        },
+        {
+          "libro": "II",
+          "capitulo": "Capítulo 70 · Érandiul",
+          "pagina": null
+        }
+      ]
+    },
+    {
+      "id": "evento-032",
+      "orden": 32,
+      "anio": null,
+      "periodo": "Años 398–400 de la Nueva Era",
+      "precisionFecha": "intervalo",
+      "titulo": "Formación de la Armada Imperial y aparición de los drows",
+      "descripcion": "La Orden aprobó en el año 398 una propuesta de Sein para un ejército que pudiera sostenerse económicamente. En el año 400 desfilaron por primera vez la Armada Imperial y los maestros del subsuelo fueron aceptados por Ithil: nacieron los drows.",
+      "consecuencias": "Se consolidó una organización militar y surgió una nueva comunidad drow.",
+      "personajes": [
+        "Sein Vell",
+        "Lanther",
+        "Lindiel II",
+        "Ithil"
+      ],
+      "facciones": [
+        "Orden",
+        "Armada Imperial",
+        "Drows"
+      ],
+      "lugares": [
+        "Banderbill",
+        "Tawarsinan"
+      ],
+      "categoria": "faccion",
+      "fuentes": [
+        {
+          "libro": "II",
+          "capitulo": "Apéndice: Cronología del Libro Segundo — Años 398 y 400",
+          "pagina": null
+        },
+        {
+          "libro": "II",
+          "capitulo": "Capítulo 74 · Ithil",
+          "pagina": null
+        },
+        {
+          "libro": "II",
+          "capitulo": "Capítulo 75 · Lindiel II",
+          "pagina": null
+        }
+      ]
+    },
+    {
+      "id": "evento-033",
+      "orden": 33,
+      "anio": 417,
+      "periodo": "Nueva Era",
+      "precisionFecha": "anio",
+      "titulo": "Coronación de Arthal II y reconstrucción de Nix",
+      "descripcion": "Muerto Lindiel II, Arthal II fue coronado con el aro de hierro y llevó a la Armada hacia el sur. Despejó el antiguo campamento y reconstruyó Nix.",
+      "consecuencias": "Nix volvió a estar habitada bajo la acción militar y política de Arthal II.",
+      "personajes": [
+        "Lindiel II",
+        "Arthal II"
+      ],
+      "facciones": [
+        "Armada Imperial"
+      ],
+      "lugares": [
+        "Nix",
+        "Banderbill"
+      ],
+      "categoria": "sucesion",
+      "fuentes": [
+        {
+          "libro": "II",
+          "capitulo": "Apéndice: Cronología del Libro Segundo — Año 417",
+          "pagina": null
+        },
+        {
+          "libro": "II",
+          "capitulo": "Capítulo 76 · Arthal II",
+          "pagina": null
+        }
+      ]
+    },
+    {
+      "id": "evento-034",
+      "orden": 34,
+      "anio": 607,
+      "periodo": "Nueva Era",
+      "precisionFecha": "anio",
+      "titulo": "Caída de Arghâl y transformación del Reino en Imperio",
+      "descripcion": "Tras un cerco de casi un año, Arghâl cayó durante la noche del 2 al 3 de marzo. Brena Hask murió en la puerta norte, y Lanther descendió bajo la ciudad. El relato oficial sitúa allí el paso de Reino a Imperio.",
+      "consecuencias": "La batalla dio origen al cómputo D.bA. (después de la batalla de Arghâl) y marcó un cambio de régimen.",
+      "personajes": [
+        "Arthal II",
+        "Brena Hask",
+        "Lanther",
+        "Ithil"
+      ],
+      "facciones": [
+        "Reino de Banderbill",
+        "Imperio",
+        "Drows"
+      ],
+      "lugares": [
+        "Arghâl"
+      ],
+      "categoria": "guerra",
+      "fuentes": [
+        {
+          "libro": "III",
+          "capitulo": "Apéndice: Cronología del Libro Tercero — Año 607",
+          "pagina": null
+        },
+        {
+          "libro": "III",
+          "capitulo": "Capítulo 20 · Brena Hask",
+          "pagina": null
+        },
+        {
+          "libro": "III",
+          "capitulo": "Capítulo 22 · Arthal II",
+          "pagina": null
+        }
+      ]
+    },
+    {
+      "id": "evento-035",
+      "orden": 35,
+      "anio": 609,
+      "periodo": "Nueva Era",
+      "precisionFecha": "anio",
+      "titulo": "Expedición imperial a Rinkel",
+      "descripcion": "La Armada atravesó el gran desierto y llegó a Rinkel; Sein conoció allí a Ottherius.",
+      "consecuencias": "Se documentó una expansión de los contactos imperiales hacia Rinkel.",
+      "personajes": [
+        "Sein Vell",
+        "Ottherius"
+      ],
+      "facciones": [
+        "Armada Imperial"
+      ],
+      "lugares": [
+        "Rinkel"
+      ],
+      "categoria": "exploracion",
+      "fuentes": [
+        {
+          "libro": "III",
+          "capitulo": "Apéndice: Cronología del Libro Tercero — Año 609",
+          "pagina": null
+        },
+        {
+          "libro": "III",
+          "capitulo": "Capítulo 24 · Sein",
+          "pagina": null
+        }
+      ]
+    },
+    {
+      "id": "evento-036",
+      "orden": 36,
+      "anio": 715,
+      "periodo": "Nueva Era",
+      "precisionFecha": "anio",
+      "titulo": "Viaje al este y hallazgo del Nuevo Continente",
+      "descripcion": "Durante el viaje hacia el este se exploraron las tres islas con oasis y se alcanzó el llamado Nuevo Continente.",
+      "consecuencias": "Se amplió el mundo conocido por los expedicionarios imperiales.",
+      "personajes": [
+        "Lindos",
+        "Lanther"
+      ],
+      "facciones": [
+        "Imperio"
+      ],
+      "lugares": [
+        "Tres islas",
+        "Rhagnark"
+      ],
+      "categoria": "exploracion",
+      "fuentes": [
+        {
+          "libro": "III",
+          "capitulo": "Apéndice: Cronología del Libro Tercero — Año 715",
+          "pagina": null
+        }
+      ]
+    },
+    {
+      "id": "evento-037",
+      "orden": 37,
+      "anio": 721,
+      "periodo": "Nueva Era",
+      "precisionFecha": "anio",
+      "titulo": "Fundación de Wonder",
+      "descripcion": "La cronología oficial fecha la fundación de Wonder en el año 721 y vincula sus orígenes con la familia Tarrant.",
+      "consecuencias": "Se creó un asentamiento humano de gran importancia en el Nuevo Continente.",
+      "personajes": [
+        "Familia Tarrant"
+      ],
+      "facciones": [
+        "Imperio"
+      ],
+      "lugares": [
+        "Wonder",
+        "Rhagnark"
+      ],
+      "categoria": "fundacion",
+      "fuentes": [
+        {
+          "libro": "III",
+          "capitulo": "Apéndice: Cronología del Libro Tercero — Año 721",
+          "pagina": null
+        },
+        {
+          "libro": "III",
+          "capitulo": "Capítulo 41 · Aila Tarrant",
+          "pagina": null
+        }
+      ]
+    },
+    {
+      "id": "evento-038",
+      "orden": 38,
+      "anio": 739,
+      "periodo": "Nueva Era",
+      "precisionFecha": "anio",
+      "titulo": "Fundación de la ciudad de Lindos",
+      "descripcion": "Liminus fundó la ciudad de Lindos alrededor de un oasis. Su primera ley estableció que nadie debía tocar la poza.",
+      "consecuencias": "Se consolidó una ciudad en las islas y se protegió legalmente su fuente de agua.",
+      "personajes": [
+        "Liminus"
+      ],
+      "facciones": [
+        "Imperio"
+      ],
+      "lugares": [
+        "Lindos",
+        "Tres islas"
+      ],
+      "categoria": "fundacion",
+      "fuentes": [
+        {
+          "libro": "III",
+          "capitulo": "Apéndice: Cronología del Libro Tercero — Año 739",
+          "pagina": null
+        },
+        {
+          "libro": "III",
+          "capitulo": "Capítulo 45 · Liminus",
+          "pagina": null
+        }
+      ]
+    },
+    {
+      "id": "evento-039",
+      "orden": 39,
+      "anio": 763,
+      "periodo": "Nueva Era",
+      "precisionFecha": "anio",
+      "titulo": "Contacto con los elfos de Illiandor",
+      "descripcion": "La cronología registra Illiandor como enclave de los elfos del Este, asociados a la domesticación, y menciona a Ilwen.",
+      "consecuencias": "Illiandor quedó incorporada al relato político y geográfico del mundo conocido.",
+      "personajes": [
+        "Ilwen"
+      ],
+      "facciones": [
+        "Elfos del Este"
+      ],
+      "lugares": [
+        "Illiandor",
+        "Rhagnark"
+      ],
+      "categoria": "exploracion",
+      "fuentes": [
+        {
+          "libro": "III",
+          "capitulo": "Apéndice: Cronología del Libro Tercero — Año 763",
+          "pagina": null
+        },
+        {
+          "libro": "III",
+          "capitulo": "Capítulo 49 · Ilwen",
+          "pagina": null
+        }
+      ]
+    },
+    {
+      "id": "evento-040",
+      "orden": 40,
+      "anio": null,
+      "periodo": "Años 810–814 de la Nueva Era",
+      "precisionFecha": "intervalo",
+      "titulo": "Exploración de Annkör y fundación de Tiama",
+      "descripcion": "Entre 810 y 811 partió una expedición al continente helado; entre 811 y 814 se estableció Tiama en contacto con los enanos de Kûr, los gólems y los yetis de la región.",
+      "consecuencias": "Se abrió un asentamiento permanente en el continente helado.",
+      "personajes": [
+        "Bhargaras XI",
+        "Dalbur"
+      ],
+      "facciones": [
+        "Imperio",
+        "Enanos de Kûr"
+      ],
+      "lugares": [
+        "Annkör",
+        "Tiama",
+        "Kûr"
+      ],
+      "categoria": "fundacion",
+      "fuentes": [
+        {
+          "libro": "III",
+          "capitulo": "Apéndice: Cronología del Libro Tercero — Años 810–814",
+          "pagina": null
+        },
+        {
+          "libro": "III",
+          "capitulo": "Capítulo 52 · Dalbur",
+          "pagina": null
+        }
+      ]
+    },
+    {
+      "id": "evento-041",
+      "orden": 41,
+      "anio": 856,
+      "periodo": "Nueva Era",
+      "precisionFecha": "anio",
+      "titulo": "Descubrimiento de Orac y coronación de Asgal",
+      "descripcion": "La expedición a Orac terminó con la muerte de Bhargaras XI y de Hesper Hask. Asgal fue proclamado decimonoveno emperador con el aro de hierro.",
+      "consecuencias": "El descubrimiento de Orac coincidió con una sucesión imperial marcada por bajas importantes.",
+      "personajes": [
+        "Bhargaras XI",
+        "Hesper Hask",
+        "Asgal",
+        "Ithil"
+      ],
+      "facciones": [
+        "Imperio"
+      ],
+      "lugares": [
+        "Orac"
+      ],
+      "categoria": "sucesion",
+      "fuentes": [
+        {
+          "libro": "III",
+          "capitulo": "Apéndice: Cronología del Libro Tercero — Año 856",
+          "pagina": null
+        },
+        {
+          "libro": "III",
+          "capitulo": "Capítulo 60 · Érandiul",
+          "pagina": null
+        }
+      ]
+    },
+    {
+      "id": "evento-042",
+      "orden": 42,
+      "anio": 892,
+      "periodo": "Nueva Era",
+      "precisionFecha": "anio",
+      "titulo": "Ataque del Demonio a Banderbill",
+      "descripcion": "Mhorkvel atacó Banderbill desde el subsuelo. El muro cantó; Edran Hask murió al cerrar los agujeros con hielo. Lanther se enfrentó al agresor y el ataque fue rechazado.",
+      "consecuencias": "Banderbill resistió, pero el muro quedó marcado con sangre de Mhorkvel y murió el cronista Bastián Vell.",
+      "personajes": [
+        "Mhorkvel",
+        "Lanther",
+        "Edran Hask",
+        "Bastián Vell",
+        "Pim"
+      ],
+      "facciones": [
+        "Imperio",
+        "Fuerzas de Orac"
+      ],
+      "lugares": [
+        "Banderbill"
+      ],
+      "categoria": "guerra",
+      "fuentes": [
+        {
+          "libro": "III",
+          "capitulo": "Apéndice: Cronología del Libro Tercero — Año 892",
+          "pagina": null
+        },
+        {
+          "libro": "III",
+          "capitulo": "Capítulo 69 · Lanther",
+          "pagina": null
+        }
+      ]
+    },
+    {
+      "id": "evento-043",
+      "orden": 43,
+      "anio": 999,
+      "periodo": "Nueva Era",
+      "precisionFecha": "anio",
+      "titulo": "Muerte de Larath y coronación de Astragal",
+      "descripcion": "Murió Larath; antes había dado su ofrenda a la reina Selis. Astragal fue proclamado vigésimo segundo emperador.",
+      "consecuencias": "Comenzó el reinado de Astragal.",
+      "personajes": [
+        "Larath",
+        "Selis",
+        "Astragal"
+      ],
+      "facciones": [
+        "Imperio"
+      ],
+      "lugares": [
+        "Banderbill"
+      ],
+      "categoria": "sucesion",
+      "fuentes": [
+        {
+          "libro": "IV",
+          "capitulo": "Apéndice: Cronología del Libro Cuarto — Año 999",
+          "pagina": null
+        }
+      ]
+    },
+    {
+      "id": "evento-044",
+      "orden": 44,
+      "anio": null,
+      "periodo": "Años 1029–1031 de la Nueva Era",
+      "precisionFecha": "intervalo",
+      "titulo": "Forja del Escudo y defensa de Banderbill ante las Hordas",
+      "descripcion": "Entre 1029 y 1030 Dalbur forjó el Escudo con hierro de la veta y colocó en su interior una gota de Bhargaras IX. En 1031 tuvo lugar una gran invasión de las Hordas; el Escudo impidió traspasar las murallas.",
+      "consecuencias": "El Escudo pasó a ser decisivo para la defensa de Banderbill.",
+      "personajes": [
+        "Dalbur",
+        "Astragal",
+        "Bhargaras IX"
+      ],
+      "facciones": [
+        "Imperio",
+        "Hordas"
+      ],
+      "lugares": [
+        "Tiama",
+        "Banderbill"
+      ],
+      "categoria": "guerra",
+      "fuentes": [
+        {
+          "libro": "IV",
+          "capitulo": "Apéndice: Cronología del Libro Cuarto — Años 1029–1031",
+          "pagina": null
+        },
+        {
+          "libro": "IV",
+          "capitulo": "Capítulo 8 · Dalbur",
+          "pagina": null
+        }
+      ]
+    },
+    {
+      "id": "evento-045",
+      "orden": 45,
+      "anio": 1067,
+      "periodo": "Nueva Era",
+      "precisionFecha": "anio",
+      "titulo": "Muerte de Astragal y extinción de su línea sucesoria",
+      "descripcion": "Astragal murió sin hermanos, tíos, primos ni hijos, según la cronología oficial. El Escudo fue escondido por Tibbet en el Fuerte Abandonado.",
+      "consecuencias": "Se produjo una crisis de legitimidad sucesoria y el poder dejó de recaer en un emperador de esa línea.",
+      "personajes": [
+        "Astragal",
+        "Tibbet Tornasol"
+      ],
+      "facciones": [
+        "Imperio",
+        "Orden"
+      ],
+      "lugares": [
+        "Banderbill",
+        "Fuerte Abandonado"
+      ],
+      "categoria": "sucesion",
+      "fuentes": [
+        {
+          "libro": "IV",
+          "capitulo": "Apéndice: Cronología del Libro Cuarto — Año 1067",
+          "pagina": null
+        }
+      ]
+    },
+    {
+      "id": "evento-046",
+      "orden": 46,
+      "anio": null,
+      "periodo": "Años 1068–1112 de la Nueva Era",
+      "precisionFecha": "intervalo",
+      "titulo": "Gobierno de los Supremos Comandantes",
+      "descripcion": "Eluret fue designado Supremo Comandante en 1068. Tras su muerte, en 1112, lo sucedió el gnomo Baervan. Durante este período la cronología registra tres falsos pretendientes vinculados al linaje Bhargaras.",
+      "consecuencias": "El poder político-militar quedó bajo comandantes en un período de sucesión imperial disputada.",
+      "personajes": [
+        "Eluret",
+        "Baervan"
+      ],
+      "facciones": [
+        "Imperio",
+        "Orden"
+      ],
+      "lugares": [
+        "Banderbill"
+      ],
+      "categoria": "politica",
+      "fuentes": [
+        {
+          "libro": "IV",
+          "capitulo": "Apéndice: Cronología del Libro Cuarto — Años 1068–1112",
+          "pagina": null
+        },
+        {
+          "libro": "IV",
+          "capitulo": "Capítulo 14 · Eluret",
+          "pagina": null
+        }
+      ]
+    },
+    {
+      "id": "evento-047",
+      "orden": 47,
+      "anio": 1256,
+      "periodo": "Nueva Era",
+      "precisionFecha": "anio",
+      "titulo": "Secesión Imperial y entrega de Baervan",
+      "descripcion": "Una fuerza procedente de Orac llegó a las puertas de Banderbill. Baervan se entregó a cambio de preservar la capital, según la cronología del Libro IV.",
+      "consecuencias": "Baervan quedó cautivo en Orac y la capital evitó su destrucción inmediata.",
+      "personajes": [
+        "Baervan",
+        "Mhorkvel"
+      ],
+      "facciones": [
+        "Imperio",
+        "Hordas de Orac"
+      ],
+      "lugares": [
+        "Banderbill",
+        "Orac"
+      ],
+      "categoria": "guerra",
+      "fuentes": [
+        {
+          "libro": "IV",
+          "capitulo": "Apéndice: Cronología del Libro Cuarto — Año 1256",
+          "pagina": null
+        },
+        {
+          "libro": "IV",
+          "capitulo": "Capítulo 36 · Baervan",
+          "pagina": null
+        }
+      ]
+    },
+    {
+      "id": "evento-048",
+      "orden": 48,
+      "anio": null,
+      "periodo": "Años 1256–1257 de la Nueva Era",
+      "precisionFecha": "intervalo",
+      "titulo": "Nacimiento de Tundra Zero por el congelamiento del valle negro",
+      "descripcion": "Entre 1256 y 1257 el Guardián levantó la cabeza y el valle negro se congeló. Desde entonces recibió el nombre de Tundra Zero.",
+      "consecuencias": "El antiguo valle negro se transformó en un territorio helado de nueva importancia geográfica.",
+      "personajes": [
+        "Último Guardián"
+      ],
+      "facciones": [
+        "Imperio"
+      ],
+      "lugares": [
+        "Valle negro",
+        "Tundra Zero"
+      ],
+      "categoria": "catastrofe",
+      "fuentes": [
+        {
+          "libro": "IV",
+          "capitulo": "Apéndice: Cronología del Libro Cuarto — Años 1256–1257",
+          "pagina": null
+        },
+        {
+          "libro": "IV",
+          "capitulo": "Capítulo 36 · Baervan",
+          "pagina": null
+        }
+      ]
+    },
+    {
+      "id": "evento-049",
+      "orden": 49,
+      "anio": 1417,
+      "periodo": "Nueva Era",
+      "precisionFecha": "anio",
+      "titulo": "Traición Justiciera y coronación de Arispar",
+      "descripcion": "Murieron los cuatro integrantes del Parlamento reunidos en una cabaña al sur. Hatmie abdicó y se marchó con doce gnomos; Arispar fue coronado vigésimo tercer emperador.",
+      "consecuencias": "Se produjo un cambio de autoridad y terminó el gobierno de Hatmie.",
+      "personajes": [
+        "Hatmie",
+        "Arispar",
+        "Blash",
+        "Aemethius",
+        "Xaterix",
+        "Lord Rox"
+      ],
+      "facciones": [
+        "Imperio",
+        "Parlamento"
+      ],
+      "lugares": [
+        "Banderbill"
+      ],
+      "categoria": "sucesion",
+      "fuentes": [
+        {
+          "libro": "IV",
+          "capitulo": "Apéndice: Cronología del Libro Cuarto — Año 1417",
+          "pagina": null
+        },
+        {
+          "libro": "IV",
+          "capitulo": "Capítulo 55 · Nim",
+          "pagina": null
+        },
+        {
+          "libro": "IV",
+          "capitulo": "Capítulo 57 · Hatmie",
+          "pagina": null
+        }
+      ]
+    },
+    {
+      "id": "evento-050",
+      "orden": 50,
+      "anio": 1419,
+      "periodo": "Nueva Era",
+      "precisionFecha": "anio",
+      "titulo": "Incendio de la Biblioteca de Banderbill",
+      "descripcion": "Glokark incendió la Biblioteca. Sein y Verawel salvaron el pergamino; Sein también preservó el cuaderno de Bastián Vell.",
+      "consecuencias": "Se perdieron fondos de la Biblioteca, aunque se conservaron documentos centrales.",
+      "personajes": [
+        "Glokark",
+        "Sein Vell",
+        "Verawel",
+        "Bastián Vell"
+      ],
+      "facciones": [
+        "Hordas de Orac",
+        "Orden"
+      ],
+      "lugares": [
+        "Banderbill",
+        "Biblioteca de Banderbill"
+      ],
+      "categoria": "catastrofe",
+      "fuentes": [
+        {
+          "libro": "IV",
+          "capitulo": "Apéndice: Cronología del Libro Cuarto — Año 1419",
+          "pagina": null
+        },
+        {
+          "libro": "IV",
+          "capitulo": "Capítulo 59 · Glokark",
+          "pagina": null
+        }
+      ]
+    },
+    {
+      "id": "evento-051",
+      "orden": 51,
+      "anio": 1436,
+      "periodo": "Nueva Era",
+      "precisionFecha": "anio",
+      "titulo": "Recuperación del Escudo y pérdida de la Gema de Panbor",
+      "descripcion": "Daegor obtuvo el Escudo de Astragal; la Gema de Panbor fue localizada en las Islas Piratas, asociada a Henry Gloval y al Leviatán, pero el Imperio la perdió.",
+      "consecuencias": "Se reabrió la disputa por los Fragmentos de Alkar y el Escudo reapareció en la política militar.",
+      "personajes": [
+        "Daegor",
+        "Tibbet Tornasol",
+        "Henry Gloval"
+      ],
+      "facciones": [
+        "Imperio",
+        "Piratas"
+      ],
+      "lugares": [
+        "Fuerte Abandonado",
+        "Islas Piratas"
+      ],
+      "categoria": "magia",
+      "fuentes": [
+        {
+          "libro": "IV",
+          "capitulo": "Apéndice: Cronología del Libro Cuarto — Año 1436",
+          "pagina": null
+        },
+        {
+          "libro": "IV",
+          "capitulo": "Capítulo 63 · Tibbet",
+          "pagina": null
+        }
+      ]
+    },
+    {
+      "id": "evento-052",
+      "orden": 52,
+      "anio": 1437,
+      "periodo": "Nueva Era",
+      "precisionFecha": "anio",
+      "titulo": "Pérdida de la Gema de Migyur y de la Vara de Bredinlo",
+      "descripcion": "CeB extrajo la Gema de Migyur y Azterion la llevó al Demonio. Arispar abrió el octavo Rincón para obtener la Vara de Bredinlo, que terminó en manos de Glokark.",
+      "consecuencias": "Dos piezas de poder quedaron fuera del control imperial.",
+      "personajes": [
+        "CeB",
+        "Azterion",
+        "Arispar",
+        "Glokark"
+      ],
+      "facciones": [
+        "Imperio",
+        "Fuerzas de Orac"
+      ],
+      "lugares": [
+        "Octavo Rincón",
+        "Annkör"
+      ],
+      "categoria": "magia",
+      "fuentes": [
+        {
+          "libro": "IV",
+          "capitulo": "Apéndice: Cronología del Libro Cuarto — Año 1437",
+          "pagina": null
+        }
+      ]
+    },
+    {
+      "id": "evento-053",
+      "orden": 53,
+      "anio": 1438,
+      "periodo": "Nueva Era",
+      "precisionFecha": "anio",
+      "titulo": "Derrota de los Tres y disputa por la Espada del Destino",
+      "descripcion": "Tres generales fueron tras la Vara y cayeron; Nesturil se entregó por ellos. En otra secuencia, Van Hellsing II, Kesh, Orrin y Fenomaniac intervinieron en la historia de la Espada del Destino. El Demonio la utilizó y finalmente la entregó a Glokark.",
+      "consecuencias": "El Imperio no recuperó la Vara y la Espada quedó en manos de Glokark.",
+      "personajes": [
+        "Nesturil",
+        "Van Hellsing II",
+        "Kesh",
+        "Orrin",
+        "Fenomaniac",
+        "Glokark",
+        "Mhorkvel"
+      ],
+      "facciones": [
+        "Imperio",
+        "Fuerzas de Orac"
+      ],
+      "lugares": [
+        "Arghâl"
+      ],
+      "categoria": "guerra",
+      "fuentes": [
+        {
+          "libro": "IV",
+          "capitulo": "Apéndice: Cronología del Libro Cuarto — Año 1438",
+          "pagina": null
+        }
+      ]
+    },
+    {
+      "id": "evento-054",
+      "orden": 54,
+      "anio": 1439,
+      "periodo": "Nueva Era",
+      "precisionFecha": "anio",
+      "titulo": "Incendios y ataques de Jhark contra Nix y Ullathorpe",
+      "descripcion": "Jhark atacó e incendió Nix y Ullathorpe. Los sucesos se registran antes de la intervención de Fausto ante el emperador.",
+      "consecuencias": "Las poblaciones afectadas sufrieron daños y la crisis alimentaria y política del sur se agudizó.",
+      "personajes": [
+        "Jhark"
+      ],
+      "facciones": [
+        "Piratas",
+        "Imperio"
+      ],
+      "lugares": [
+        "Nix",
+        "Ullathorpe"
+      ],
+      "categoria": "guerra",
+      "fuentes": [
+        {
+          "libro": "IV",
+          "capitulo": "Apéndice: Cronología del Libro Cuarto — Año 1439",
+          "pagina": null
+        },
+        {
+          "libro": "IV",
+          "capitulo": "Capítulo 70 · Jhark",
+          "pagina": null
+        }
+      ]
+    },
+    {
+      "id": "evento-055",
+      "orden": 55,
+      "anio": 1439,
+      "periodo": "Nueva Era",
+      "precisionFecha": "anio",
+      "titulo": "Protesta de Fausto ante el emperador Arispar",
+      "descripcion": "Fausto, granjero de Ullathorpe, llegó al palacio para denunciar el abandono y la falta de protección de las poblaciones afectadas. Arispar ordenó que pasara una noche en el calabozo.",
+      "consecuencias": "El conflicto entre el centro imperial y sectores del sur se manifestó abiertamente ante la autoridad.",
+      "personajes": [
+        "Fausto",
+        "Arispar",
+        "Lanther"
+      ],
+      "facciones": [
+        "Imperio",
+        "Pobladores de Ullathorpe"
+      ],
+      "lugares": [
+        "Banderbill",
+        "Ullathorpe"
+      ],
+      "categoria": "politica",
+      "fuentes": [
+        {
+          "libro": "IV",
+          "capitulo": "Apéndice: Cronología del Libro Cuarto — Año 1439",
+          "pagina": null
+        },
+        {
+          "libro": "IV",
+          "capitulo": "Capítulo 70 · Jhark",
+          "pagina": null
+        }
+      ]
+    },
+    {
+      "id": "evento-056",
+      "orden": 56,
+      "anio": 1439,
+      "periodo": "Nueva Era",
+      "precisionFecha": "anio",
+      "titulo": "Enfrentamiento de Lindos y desaparición de Jhark",
+      "descripcion": "En Lindos se enfrentaron fuerzas imperiales, piratas vinculados a Jhark y Hordas de Orac. Jhark cayó a un canal y no reapareció; Arispar conservó la Lágrima del Creador.",
+      "consecuencias": "La Lágrima quedó bajo resguardo de Arispar; la muerte de Jhark no quedó acreditada por la recuperación de un cuerpo.",
+      "personajes": [
+        "Jhark",
+        "Arispar"
+      ],
+      "facciones": [
+        "Imperio",
+        "Piratas",
+        "Hordas de Orac"
+      ],
+      "lugares": [
+        "Lindos"
+      ],
+      "categoria": "guerra",
+      "fuentes": [
+        {
+          "libro": "IV",
+          "capitulo": "Apéndice: Cronología del Libro Cuarto — Año 1439",
+          "pagina": null
+        },
+        {
+          "libro": "IV",
+          "capitulo": "Capítulo 71 · Lindos",
+          "pagina": null
+        }
+      ]
+    }
+  ],
+  "acontecimientosPosterioresAlCorte": []
+}

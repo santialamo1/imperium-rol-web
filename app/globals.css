@@ -1,0 +1,82 @@
+
+@import "tailwindcss";
+
+/* ==========================================
+   IMPERIUMAO — VARIABLES GLOBALES
+========================================== */
+
+:root {
+  color-scheme: dark;
+
+  --black: #0b0908;
+  --black2: #17110d;
+
+  --gold: #cf9b46;
+  --gold-light: #f0d39a;
+  --gold-dim: #967342;
+
+  --cream: #e4d2b0;
+  --muted: #b1a38e;
+  --hairline: #453122;
+  --rust: #8d3d1f;
+  --paper: #eadbb9;
+}
+
+/* ==========================================
+   ESTILOS BASE
+========================================== */
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background-color: var(--black);
+  color: #e8ded0;
+  font-family: Arial, Helvetica, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+button,
+input,
+select {
+  font: inherit;
+}
+
+button {
+  cursor: pointer;
+}
+
+button:disabled {
+  cursor: not-allowed;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* ==========================================
+   SELECCIÓN DE TEXTO
+========================================== */
+
+::selection {
+  background-color: #7f4a2c;
+  color: #fff;
+}
+
+/* ==========================================
+   ACCESIBILIDAD
+========================================== */
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto !important;
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
