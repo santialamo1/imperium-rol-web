@@ -1,4 +1,4 @@
-## Capítulo 28 · Lanther
+# Capítulo 28 · Lanther
 
 *Banderbill. Del verano al invierno del año 30 de la Nueva Era.*
 
@@ -18,13 +18,13 @@ La sacó del agua. La sostuvo contra el pecho, contra los dos corazones.
 
 Y la piedra cantó más fuerte.
 
-* * *
+---
 
 Lanther se quedó quieta, con el agua por las rodillas y la piedra contra el pecho.
 
 Había oído cantar a las piedras desde los doce años. No como su padre oía a los muertos; distinto. Más bajo. Más quieto. Pero nunca las había oído así. Nunca así de fuerte. Era como si la piedra, al notar lo que ella llevaba dentro, el latido lento de la vida prestada, se hubiera reconocido en él. Como si fueran parientes.
 
-Todo lo que viene de abajo es de abajo, le había dicho Livia una vez. Las vetas blancas, la sal, las montañas. Lo que late. Todo es lo mismo, en distintas cantidades.
+*Todo lo que viene de abajo es de abajo*, le había dicho Livia una vez. *Las vetas* *blancas, la sal, las montañas. Lo que late. Todo es lo mismo, en distintas cantidades.*
 
 Cogió otra piedra. La puso contra la primera.
 
@@ -32,11 +32,11 @@ Cantaron las dos. Juntas. En dos notas que no eran la misma pero se llevaban bie
 
 Cogió una tercera.
 
-* * *
+---
 
 Volvió a la ciudad con siete piedras en una cesta de pescado, cargada a la espalda, con el agua chorreándole por las piernas. Las subió por la cuesta del puerto, por la calle de los toneleros, por la plaza de la fuente. La gente se apartaba para dejarla pasar y la miraba.
 
-*La princesa. La de las piedras. La que no es reina. La que se fue a la guerra vestida de hombre. La que se quedó dos días en el muelle.*
+*La princesa. La de las piedras. La que no es reina. La que se fue a la guerra* *vestida de hombre. La que se quedó dos días en el muelle.*
 
 No llegó al palacio. Se detuvo antes, en el borde norte de la ciudad, donde las últimas casas daban al campo y el campo daba a las montañas. Allí no había nada. Una zanja de cuando la empalizada, la vieja, la de madera, la que se pudrió en el año diecinueve y nadie se molestó en rehacer porque ¿para qué?, si no había enemigos en todo el continente salvo las de sal, y a las de sal no las paraba una empalizada.
 
@@ -48,7 +48,7 @@ Y debajo, muy abajo, la montaña les contestó.
 
 Lanther se sentó en la hierba y se echó a llorar.
 
-* * *
+---
 
 —Un muro —dijo Livia.
 
@@ -72,7 +72,7 @@ Lanther no supo contestar enseguida. Se sentó en la silla de Tobías, la que ya
 
 Livia dejó la pluma.
 
-—Hay algo en los papeles de Tobías —dijo—. Los de Concordia. No el libro de Corvo; los otros. Lo que copió de lo que contó Hector Tiberius de la última noche de Lucius. —Se levantó. Buscó en un montón. Lo encontró. Lo abrió por una página marcada con una cinta—. Lucius, muriéndose, hablando de la Torre de la Unión. —Leyó—. La torre está pagada. La torre es un clavo. No la saques.
+—Hay algo en los papeles de Tobías —dijo—. Los de Concordia. No el libro de Corvo; los otros. Lo que copió de lo que contó Hector Tiberius de la última noche de Lucius. —Se levantó. Buscó en un montón. Lo encontró. Lo abrió por una página marcada con una cinta—. Lucius, muriéndose, hablando de la Torre de la Unión. —Leyó—. *La* *torre está pagada. La torre es un clavo. No la saques.*
 
 Cerró los papeles.
 
@@ -86,7 +86,7 @@ Lanther la miró.
 
 —Lo acuna. —Livia cerró el libro—. Como una nana.
 
-* * *
+---
 
 El Consejo dijo que no.
 
@@ -110,7 +110,7 @@ Lanther no se sentó en ella. Se quedó de pie.
 
 Lanther abrió la boca. La cerró.
 
-No podía decirles porque las piedras cantan. No podía decirles porque lo de abajo respira más despacio. No podía decirles nada de lo que sabía, nada de lo que oía, porque en esa misma sala, hacía tres años, su hermano había firmado un edicto que decía yo no creo en la magia, y lo que no se cree, no se teme, y la mitad de la ciudad seguía creyéndolo, y la otra mitad estaba en las cuevas del norte o en un valle negro o en el fondo del mar.
+No podía decirles *porque las piedras cantan*. No podía decirles *porque lo de abajo* *respira más despacio*. No podía decirles nada de lo que sabía, nada de lo que oía, porque en esa misma sala, hacía tres años, su hermano había firmado un edicto que decía *yo no* *creo en la magia, y lo que no se cree, no se teme*, y la mitad de la ciudad seguía creyéndolo, y la otra mitad estaba en las cuevas del norte o en un valle negro o en el fondo del mar.
 
 —Porque lo digo yo —dijo.
 
@@ -118,13 +118,13 @@ Olbrecht sonrió. Con mucha educación. Con muchísima.
 
 —Con todos mis respetos, alteza —dijo—. Usted no es reina.
 
-* * *
+---
 
 Esa noche no durmió. Esa noche se la pasó en el cuarto de la torre, delante del tablero, moviendo fichas sin jugar, oyendo la ciudad.
 
 La oía entera. Era lo que más le había costado acostumbrarse: no las piedras, no la montaña, no lo de abajo. La gente. Once mil corazones. Doce mil, ya. Latiendo en sus camas, en las tabernas, en las barcas del puerto, en los establos. Y las voces debajo de los corazones. No las palabras —no oía palabras, no era eso—, sino el tono. Lo que se siente por debajo de lo que se dice. El miedo, la envidia, el cansancio, la ternura, las ganas.
 
-Oyó a Olbrecht Saur en su casa del barrio de arriba, contándole a su mujer lo que había pasado en el Consejo. Contento. Con una satisfacción redonda y rosada como su cara. Una muchacha. Una muchacha de diecinueve años que se viste de soldado y habla con las piedras. Y quieren que la coronemos.
+Oyó a Olbrecht Saur en su casa del barrio de arriba, contándole a su mujer lo que había pasado en el Consejo. Contento. Con una satisfacción redonda y rosada como su cara. *Una muchacha. Una muchacha de diecinueve años que se viste de soldado y habla* *con las piedras. Y quieren que la coronemos.*
 
 Oyó a otros. Muchos. En muchas casas. No con palabras. Con el tono.
 
@@ -138,7 +138,7 @@ No se lo había dicho. Pero Lanther lo había oído igual, en el muelle, en la �
 
 Al amanecer bajó al río.
 
-* * *
+---
 
 Bajó sola. Con la cesta de pescado.
 
@@ -156,7 +156,7 @@ A la décima, eran tres cestas.
 
 Al anochecer, eran veinte.
 
-* * *
+---
 
 Casimir llegó el tercer día. Con Sein de la mano y un cuaderno debajo del brazo.
 
@@ -180,7 +180,7 @@ Casimir sonrió. Por primera vez desde que había llegado a Banderbill en un bar
 
 —Con torres —dijo—, nueve mil. Y no sé cuántos meses. Pero tengo papel.
 
-* * *
+---
 
 Se le dio bien.
 
@@ -198,9 +198,9 @@ Y la gente le contestaba desde la zanja, riéndose, sucia, cansada:
 
 —¡Constará!
 
-* * *
+---
 
-Livia vino a verla una tarde de otoño, cuando ya el muro tenía una vara de alto por el lado norte y la gente le había puesto nombre sin que nadie se lo pusiera. El muro de la princesa. El muro de las piedras que cantan. El de Banderbill.
+Livia vino a verla una tarde de otoño, cuando ya el muro tenía una vara de alto por el lado norte y la gente le había puesto nombre sin que nadie se lo pusiera. *El muro de la* *princesa.* *El muro de las piedras que cantan.* *El de Banderbill.* Y a ella, en el río, las mujeres que cargaban cestas a su lado empezaron a llamarla de otra manera, a sus espaldas primero y luego a la cara, sin mala intención: *la Doncella*. La Doncella de Banderbill. Lanther lo oyó y no dijo nada. Le gustó más que alteza.
 
 Livia se quedó mirándolo un buen rato. Le puso la mano encima. Cerró los ojos.
 
@@ -224,7 +224,7 @@ Se miraron.
 
 —Una nana —dijo Livia.
 
-* * *
+---
 
 Casimir murió en el andamio de la puerta del norte, un día de diciembre en que nevaba un poco.
 
@@ -246,13 +246,13 @@ Y la otra debajo, cruzando las dos columnas, como cruzaba la raya del final de l
 
 *Lo que cuesta un muro: menos que una puerta.*
 
-Y más abajo, apretado, en el margen, como quien añade algo que casi se le olvida: Para Sein, que suma. Lo que me queda de nombre. No es mucho, pero no lo he usado. Vell.
+Y más abajo, apretado, en el margen, como quien añade algo que casi se le olvida: *Para Sein, que suma. Lo que me queda de nombre. No es mucho, pero no lo he usado. Vell.*
 
-* * *
+---
 
 Lo enterraron al día siguiente al pie de la puerta del norte. Lanther lo pidió así. No en el cementerio del este, el de los de Concordia, donde estaban Tobías y Ugo, y una piedra con el nombre de Orla sin Orla debajo, y la primera Custodia y los veintisiete de la primera travesía con una piedra cada uno. Al pie de la puerta. Debajo de la primera torre. Para que la gente que entrara y saliera de la ciudad pasara por encima de él todos los días.
 
-Algunos murmuraron. Era un traidor. Había abierto una puerta. Había muerto un emperador por su culpa. Que conste.
+Algunos murmuraron. Era un traidor. Había abierto una puerta. Había muerto un emperador por su culpa. *Que conste.*
 
 Lanther no les hizo caso.
 
@@ -264,7 +264,7 @@ Y Sein Vell, de once años, sin apellido hasta la víspera, de pie a su lado con
 
 —Constará.
 
-* * *
+---
 
 El muro se terminó la última semana de diciembre. Nueve mil cuatrocientas doce piedras, según el cuaderno, con dos puertas y cuatro torres. Cuatro meses y diecinueve días.
 

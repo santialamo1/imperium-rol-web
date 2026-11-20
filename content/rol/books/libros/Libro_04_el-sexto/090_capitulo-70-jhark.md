@@ -1,8 +1,8 @@
-## Capítulo 70 · Jhark
+# Capítulo 70 · Jhark
 
-*Banderbill, el palacio y el calabozo. Primavera del año 1439 de la Nueva Era (832 D.bA).*
+*Banderbill, el palacio y el calabozo. Primavera del año 1439 de la Nueva Era (832* *D.bA).*
 
-I. Jerek
+**I. Jerek**
 
 Los números no mienten. Mienten los que los cuentan.
 
@@ -10,7 +10,7 @@ Jerek lo había aprendido en Illiandor, en el gremio, con doce años, sentado en
 
 En la primavera del 1439, Jerek miraba la pared.
 
-* * *
+---
 
 Tenía la mesa en la sala de los mapas. La del fondo, la que daba al patio. Encima, los legajos. Los de Nix y los de Ullathorpe, que le subía cada semana un chico de gafas del archivo de abajo de la biblioteca sin que nadie se lo pidiera. Los de Wonder y los de Tiama, que llegaban por barco. Los de la Armada, que le pasaba el intendente.
 
@@ -26,7 +26,7 @@ Que la Armada gastaba en los Fragmentos, desde el 1436, más de lo que el Imperi
 
 Y que los Fragmentos que tenía el Imperio, en tres años, eran uno.
 
-* * *
+---
 
 —Hay que mandar tropas al Sur —le dijo al Emperador.
 
@@ -68,9 +68,9 @@ No dijo nada más. Era enano; los enanos dicen una cosa tres veces y luego se ca
 
 Y miró la pared.
 
-* * *
+---
 
-II. Fausto
+**II. Fausto**
 
 Fausto llegó a Banderbill un martes, andando, con los pies sangrando.
 
@@ -82,7 +82,7 @@ Era alto, ancho, con las manos grandes de los que cavan y la cara roja de los qu
 
 Tenía una granja. La había tenido. Hasta abril.
 
-* * *
+---
 
 Subió por la calle del puerto sin mirar nada.
 
@@ -94,7 +94,7 @@ Se paró. La miró, la naranja, en la cuneta.
 
 Siguió andando.
 
-* * *
+---
 
 La puerta de bronce del palacio estaba abierta. Lo estaba desde el 1417; tenía una llave de hierro en la cerradura, por dentro, oxidada, que nadie sacaba. Había dos guardias en la escalinata. Jóvenes. Con armaduras brillantes.
 
@@ -112,7 +112,7 @@ Nadie lo esperaba. Eso lo dijo luego el Diario, y era verdad: nadie se esperaba 
 
 Y entró.
 
-* * *
+---
 
 El Emperador estaba en el trono. Con el pergamino en las rodillas.
 
@@ -134,7 +134,7 @@ Mucho rato.
 
 Fausto le sostuvo la mirada. Con los ojos de agua de pozo.
 
-* * *
+---
 
 Y entonces el Emperador dijo una cosa que Fausto no olvidó nunca.
 
@@ -158,7 +158,7 @@ Luego el Emperador hizo un gesto a los guardias.
 
 —Una noche en el calabozo —dijo—. Por el atrevimiento. Que coma. Mañana, que se vaya.
 
-* * *
+---
 
 El calabozo del palacio estaba debajo del ala oeste. Tres celdas. Paja. Un cubo. Una rejilla alta por donde entraba luz de la calle.
 
@@ -190,7 +190,7 @@ Volvió una hora después. Con medio pan, un trozo de queso y un cubo de agua li
 
 Tobin no lo entendió.
 
-* * *
+---
 
 Lanther bajó a medianoche.
 
@@ -232,13 +232,13 @@ La miró. A la luz de la vela. La cara de dieciocho años. Los ojos, que no eran
 
 No dijo nada.
 
-* * *
+---
 
 —Hace mucho —dijo Lanther— un niño hizo una pregunta.
 
 Fausto esperó.
 
-—Era un niño de esta colina. Hijo de un Emperador. Una noche, en el 967, preguntó: ¿qué pasa cuando no quede nadie? —Lanther miraba la vela—. Se refería a la sangre. A los Emperadores. Ya no quedaban. Él iba a ser el último. Lo sabía.
+—Era un niño de esta colina. Hijo de un Emperador. Una noche, en el 967, preguntó: *¿qué pasa cuando no quede nadie?* —Lanther miraba la vela—. Se refería a la sangre. A los Emperadores. Ya no quedaban. Él iba a ser el último. Lo sabía.
 
 —¿Y qué pasó?
 
@@ -250,7 +250,7 @@ Fausto la miró.
 
 Lanther levantó la vista de la vela. Y lo miró a la cara.
 
-—Porque esta tarde has entrado en esa sala con los pies sangrando y has gritado míranos. En plural. —Hizo una pausa—. No mírame. Míranos.
+—Porque esta tarde has entrado en esa sala con los pies sangrando y has gritado *míranos*. En plural. —Hizo una pausa—. No *mírame*. *Míranos.*
 
 Fausto no dijo nada.
 
@@ -260,7 +260,7 @@ Se quedó callada.
 
 —A lo mejor la respuesta es quién queda.
 
-* * *
+---
 
 Fausto tardó en contestar.
 
@@ -286,7 +286,7 @@ Lanther se paró en el primer escalón.
 
 Y subió.
 
-* * *
+---
 
 Al día siguiente, Jerek supo lo de la Lágrima.
 
@@ -294,7 +294,7 @@ Se lo dijo un pirata. Uno de Jhark, que la Armada había cogido en la costa de N
 
 Jerek subió a la sala del trono con el pirata todavía hablando en el pasillo.
 
-Los sabios, en el ala este, habían terminado esa misma mañana el párrafo. El sexto. La Lágrima del Creador. Un hielo eterno. Quien la beba no morirá.
+Los sabios, en el ala este, habían terminado esa misma mañana el párrafo. El sexto. *La Lágrima del Creador. Un hielo eterno. Quien la beba no morirá.*
 
 En Lindos.
 
@@ -308,7 +308,7 @@ Pensó que las tropas se movían, por fin, de Banderbill. Que iban al Sur. Que p
 
 Y que no iban a pararse.
 
-* * *
+---
 
 Fausto salió del palacio a mediodía. Por la puerta de bronce. Con los pies vendados con las tiras de una camisa de Tobin.
 

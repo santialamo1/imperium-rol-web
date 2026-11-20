@@ -1,6 +1,6 @@
-## Capítulo 48 · La Espada
+# Capítulo 48 · La Espada
 
-*El Bosque Muerto, al norte de Wonder, en Rhagnark. Otoño del año 1400 de la Nueva Era (793 D.bA).*
+*El Bosque Muerto, al norte de Wonder, en Rhagnark. Otoño del año 1400 de la* *Nueva Era (793 D.bA).*
 
 No profetizo.
 
@@ -12,7 +12,7 @@ No enseño lo que va a pasar. Enseño lo que va a pasar si uno es como es.
 
 Que no es lo mismo. Aunque casi siempre sale igual.
 
-* * *
+---
 
 Fui una espada de hierro de la colina.
 
@@ -30,7 +30,7 @@ Un segundo después, pasó.
 
 Desde entonces veo.
 
-* * *
+---
 
 La raíz late.
 
@@ -46,7 +46,7 @@ Eso es lo que enseño.
 
 Casi nadie se tuerce.
 
-* * *
+---
 
 Han venido pocos. En seiscientos setenta años.
 
@@ -64,19 +64,19 @@ Un elfo de los árboles, de capa de resina, que me tocó con un dedo, un segundo
 
 Y ahora este.
 
-* * *
+---
 
 Es viejo.
 
 Muy viejo para su sangre. Un elfo. De los de Lindos, los de las pozas, los de la luz que baja por el agua. Tiene el pelo blanco hasta la cintura y los ojos claros, casi transparentes, y las manos le tiemblan. No de miedo. De dentro. De algo que se le está soltando.
 
-Ha venido solo. Ha andado tres semanas desde el sur, desde Lindos, por la costa, sin barco, y luego por el bosque rojo, y luego por el muerto, que ahora es grande, que ha crecido seiscientos pasos desde que el señor de gafas dejó de medirlo. Ha andado con un bastón. Despacio.
+Ha venido solo. Ha andado tres semanas desde el oeste, desde la costa de enfrente de Lindos, adonde le cruzó una barca de pescadores, y luego por el bosque rojo, y luego por el muerto, que ahora es grande, que ha crecido seiscientos pasos desde que el señor de gafas dejó de medirlo. Ha andado con un bastón. Despacio.
 
-Se llama Illidan.
+Se llama Aelthar.
 
-Lo sé porque se lo dice a sí mismo. En voz alta. Muchas veces. Illidan. Illidan. Me llamo Illidan. Como se dice uno el nombre cuando le da miedo olvidarlo.
+Lo sé porque se lo dice a sí mismo. En voz alta. Muchas veces. *Aelthar. Aelthar.* *Me llamo Aelthar.* Como se dice uno el nombre cuando le da miedo olvidarlo.
 
-* * *
+---
 
 Se para delante de mí.
 
@@ -98,7 +98,7 @@ Levanta la mano.
 
 Me toca.
 
-* * *
+---
 
 Su forma es rara.
 
@@ -114,7 +114,7 @@ El latido le ha estado enseñando cosas toda la vida.
 
 Y él no sabía que era el latido.
 
-* * *
+---
 
 Hago lo único que sé hacer. Sigo su forma.
 
@@ -138,9 +138,9 @@ Veo una mano. Dura. Fría. Que aprieta.
 
 Veo a los que le juraron. Uno a uno. Pagando.
 
-* * *
+---
 
-Illidan grita.
+Aelthar grita.
 
 No muy alto. Un grito corto, de los que se dan cuando uno se quema. Aparta la mano.
 
@@ -154,15 +154,15 @@ Luego dice, sin levantar la cabeza:
 
 No contesto. No sé contestar.
 
-Pero si supiera, le diría: No. Eso es lo que va a pasar si son como son.
+Pero si supiera, le diría: *No. Eso es lo que va a pasar si son como son.*
 
-Y le diría también: Casi nadie se tuerce.
+Y le diría también: *Casi nadie se tuerce.*
 
-* * *
+---
 
 Se queda en el claro tres días.
 
-Sin comer. Sentado al lado de la raíz. Hablando solo. Repitiendo lo que vio, para no olvidarlo. Una gnoma. Una puerta. Una sombra de una cocina. Una cabaña. Un balcón. Un fuego. Una mano dura como la roca. Lo repite muchas veces. Cada vez un poco distinto. Cada vez un poco más roto.
+Sin comer. Sentado al lado de la raíz. Hablando solo. Repitiendo lo que vio, para no olvidarlo. *Una gnoma. Una puerta. Una sombra de una cocina. Una cabaña. Un balcón.* *Un fuego. Una mano dura como la roca.* Lo repite muchas veces. Cada vez un poco distinto. Cada vez un poco más roto.
 
 El tercer día dice algo nuevo.
 
@@ -178,9 +178,9 @@ Pero sé que su forma, cuando lo dice, cambia un poco. Se rompe un trozo más. Y
 
 Y le gusta.
 
-* * *
+---
 
-No lo sabe Illidan. Lo sé yo.
+No lo sabe Aelthar. Lo sé yo.
 
 Lo que sube por mi raíz no es una sola cosa. Son dos. Pegadas. Como se pegan dos ríos.
 
@@ -188,15 +188,15 @@ Una late. Es vieja, muy vieja. Está abajo, lejos, en un valle que ahora es blan
 
 La otra escucha. Es más joven. Está más cerca. Se ha metido en el latido de la primera como se mete el agua de un río en el de otro, y se ha mezclado, y ahora no se sabe dónde acaba una y dónde empieza la otra. Pero no son lo mismo. La primera no habla. La segunda sí. Muy bajo. Con una voz amable.
 
-La segunda ha oído lo que ha visto Illidan.
+La segunda ha oído lo que ha visto Aelthar.
 
-Ha oído el sexto.
+Ha oído *el sexto*.
 
 Y le ha gustado mucho.
 
-* * *
+---
 
-Illidan se va el cuarto día.
+Aelthar se va el cuarto día.
 
 Se levanta despacio, con el bastón. Me mira.
 
@@ -212,7 +212,7 @@ Se ríe. Con la boca.
 
 Y se va.
 
-* * *
+---
 
 Lo veo irse entre los árboles muertos. Despacio. Con el bastón. Un elfo viejo que se está rompiendo y que lleva dentro, en los trozos rotos, algo que no es suyo.
 
@@ -234,13 +234,13 @@ Eso no lo vio.
 
 Eso se lo dijo la voz.
 
-* * *
+---
 
 No profetizo.
 
 Enseño lo que va a pasar si uno es como es.
 
-Y el que viene después, el de la cocina, el de los hombros grandes, es como es. Lo sé sin que me toque. Lo sé por la forma que tenía en lo que vio Illidan. Es de los que no se tuercen.
+Y el que viene después, el de la cocina, el de los hombros grandes, es como es. Lo sé sin que me toque. Lo sé por la forma que tenía en lo que vio Aelthar. Es de los que no se tuercen.
 
 Algún día me tocará.
 

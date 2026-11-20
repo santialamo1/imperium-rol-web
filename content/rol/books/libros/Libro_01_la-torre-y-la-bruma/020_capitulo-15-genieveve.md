@@ -1,4 +1,4 @@
-## Capítulo 15 · Genieveve
+# Capítulo 15 · Genieveve
 
 *Valle de Brann, montes de los Zelto. Año 82, primavera.*
 
@@ -6,15 +6,15 @@ La novia tenía quince años y llevaba el vestido de su madre, y cuando la emper
 
 Genieveve la vio meterse allí, entre los manteles, como un conejo en una madriguera. Vio sus pies descalzos asomando por debajo del lino blanco. Vio que temblaban.
 
-Pensó: me tiene más miedo a mí que a él.
+Pensó: *me tiene más miedo a mí que a él.*
 
-Y pensó, con la parte de ella que no dormía nunca, la que contaba los cuencos que le quedaban hasta la próxima luna: hace bien.
+Y pensó, con la parte de ella que no dormía nunca, la que contaba los cuencos que le quedaban hasta la próxima luna: *hace bien.*
 
-* * *
+---
 
 La ley se había pregonado en todas las plazas del Imperio en otoño, después de la vendimia. Genieveve la había escrito ella misma, de su puño y letra, en tres líneas, porque había aprendido de Hector que las leyes largas sirven para que los abogados coman y las cortas para que los campesinos entiendan:
 
-*Ningún señor tomará a la hija de un siervo la noche de su boda. Quien lo haga, perderá lo que usó para hacerlo. Lo ejecutará la emperatriz en persona.*
+*Ningún señor tomará a la hija de un siervo la noche de su boda. Quien lo haga,* *perderá lo que usó para hacerlo. Lo ejecutará la emperatriz en persona.*
 
 Los señores Zelto y Germa de los montes protestaron. Era un derecho antiguo, decían. Más antiguo que el Juramento, más antiguo que la Torre, más antiguo que los Heredicus. Lo habían tenido sus padres y sus abuelos, y nadie se lo había quitado: ni Lucius, que les había quitado tantas cosas, ni Hector, que les había quitado las demás. Mandaron embajadas a Concordia. Mandaron regalos. Mandaron a sus esposas a hablar con la emperatriz, porque pensaban que una mujer escucharía mejor a otras mujeres.
 
@@ -28,7 +28,7 @@ Lord Brannagh del valle de Brann. Zelto, cincuenta años, seis hijos legítimos 
 
 *Venid a buscarlo vos.*
 
-* * *
+---
 
 —Es una trampa —dijo Drolnar Arenar.
 
@@ -64,7 +64,7 @@ Genieveve se rió. Fue una risa corta, ronca, sorprendida, como la de alguien qu
 
 —Tienes razón —dijo—. Pero voy a ir de todas formas.
 
-* * *
+---
 
 El castillo de Brann era una torre de piedra negra sobre un risco, con un patio amurallado abajo donde cabían quinientas personas. Aquel día había más. Todo el valle había subido a la boda: siervos con sus mejores ropas, niños descalzos, viejos apoyados en bastones. Había mesas largas con manteles blancos, cerdos asándose en espetones, barriles de cerveza de centeno. Y en la mesa del fondo, bajo un toldo, sentado en una silla de roble tallado como un trono, lord Brannagh.
 
@@ -98,7 +98,7 @@ Genieveve lo miró. Sintió la rabia subirle desde el estómago, caliente, roja,
 
 Podía. Lo sabía. Era más fuerte que nadie en aquel patio. Más fuerte que nadie en el Imperio. Lo había demostrado treinta y dos veces en la plaza de Concordia.
 
-Y sabía de dónde venía esa fuerza. Lo sabía cada vez que levantaba el cuenco de barro. Sabía qué era lo que bebía, y de quién era, y lo que le costaba a quien se lo daban. La Madre Sahra no se lo había ocultado nunca. Aliento de niños, le había dicho la primera noche, en la posada. De los que no se pueden usar para otra cosa.
+Y sabía de dónde venía esa fuerza. Lo sabía cada vez que levantaba el cuenco de barro. Sabía qué era lo que bebía, y de quién era, y lo que le costaba a quien se lo daban. La Madre Sahra no se lo había ocultado nunca. *Aliento de niños*, le había dicho la primera noche, en la posada. *De los que no se pueden usar para otra cosa.*
 
 Genieveve de Leogrand, que había escrito la ley más justa de la historia de los pueblos jurados para que ningún señor tomara lo que no era suyo de una niña, bebía cada luna lo que le quitaban a otros niños para ser fuerte.
 
@@ -116,7 +116,7 @@ La muchacha no contestó.
 
 La muchacha la miró mucho rato. Luego, despacio, le cogió la mano.
 
-* * *
+---
 
 Genieveve no tocó a lord Brannagh aquel día. No le hizo nada. No llenó el patio de sangre.
 
@@ -138,7 +138,7 @@ Se quedó allí toda la noche. Sentada en el umbral de una cabaña de siervos, c
 
 Lord Brannagh no bajó.
 
-* * *
+---
 
 Al amanecer, Genieveve se levantó, se sacudió el polvo de la capa y subió al castillo.
 
@@ -166,7 +166,7 @@ Genieveve bajó la mano.
 
 Y se fue.
 
-* * *
+---
 
 Volvieron a Concordia por el camino del valle, al trote, en silencio. Al cabo de una hora, Drolnar se acercó con su caballo.
 
@@ -196,7 +196,7 @@ Genieveve lo miró. Drolnar Arenar, el guardia con cara de toro triste, que ten�
 
 Espoleó el caballo y se adelantó.
 
-* * *
+---
 
 Hanne, la novia del valle de Brann, tuvo su primera hija nueve meses y tres semanas después de la boda. Contó siempre las semanas con mucho cuidado, para que nadie en la aldea tuviera dudas. Le puso a la niña Genieveve.
 

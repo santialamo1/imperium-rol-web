@@ -1,4 +1,4 @@
-## Capítulo 26 · Drolnar
+# Capítulo 26 · Drolnar
 
 *Concordia. Año 104.*
 
@@ -28,7 +28,7 @@ Drolnar miró la puerta de la sala quinta. Pensó en una jaula de plata vacía.
 
 —Que vengan —dijo—. Los cabezas de las cuatro casas. Al Consejo. Dentro de un mes.
 
-* * *
+---
 
 El capitán de su Guardia, Teodor Bhargaras, llegó a verlo esa misma noche, como cada noche, para el informe de la jornada. Era un Germa de treinta y seis años, de hombros anchos y manos de herrero, que había heredado el puesto de capitán cinco años antes, cuando el viejo Kurtz se retiró, y al que Drolnar apreciaba por una razón sencilla: nunca le mentía y nunca le adulaba.
 
@@ -54,7 +54,7 @@ Drolnar cerró los ojos. Le pareció oír, muy lejos, una canción en una lengua
 
 —No lo sabe. Pero Ferrant es primo segundo de los Leogrand. De la familia de la emperatriz.
 
-* * *
+---
 
 Lo pensó durante tres días. No durmió.
 
@@ -92,9 +92,9 @@ Teodor dudó un instante. Uno solo, tan breve que cualquier otro no lo habría n
 
 Drolnar lo miró un rato más. Luego asintió, y cambió de tema, y no volvió a mencionarlo durante diecisiete años.
 
-Pero esa noche, solo en su alcoba, con la jaula de plata vacía junto a la cama, pensó en aquel instante de duda en la voz de su capitán, y en la manera en que había dicho muy callada, y se preguntó qué escondía un hombre honrado como Teodor Bhargaras. Y luego, porque era cansado y viejo y tenía un banquete con veneno dentro de tres semanas, dejó de preguntárselo.
+Pero esa noche, solo en su alcoba, con la jaula de plata vacía junto a la cama, pensó en aquel instante de duda en la voz de su capitán, y en la manera en que había dicho *muy* *callada*, y se preguntó qué escondía un hombre honrado como Teodor Bhargaras. Y luego, porque era cansado y viejo y tenía un banquete con veneno dentro de tres semanas, dejó de preguntárselo.
 
-* * *
+---
 
 El banquete de la cosecha se celebró en el gran salón, bajo la cúpula, con trescientos invitados, cuarenta platos y un cuarteto de músicos Jenon que tocaban flautas de hueso de cisne.
 
@@ -138,7 +138,7 @@ Ferrant no bebió. Se le borró la sonrisa. Y luego, en un solo movimiento, arro
 
 No llegó. Teodor lo alcanzó en diez pasos.
 
-* * *
+---
 
 Los colgó en la plaza al amanecer siguiente. A los seis.
 
@@ -172,7 +172,7 @@ Osric lo miró sin entender.
 
 —Porque ya he colgado a cinco que quizá no merecían la horca —dijo Drolnar, en voz baja—. No voy a colgar a seis.
 
-* * *
+---
 
 Gijor no se rebeló. Pero tampoco lo perdonó.
 

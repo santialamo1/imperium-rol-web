@@ -1,10 +1,10 @@
-## Capítulo 85 · Tobías
+# Capítulo 85 · Tobías
 
 *Concordia y el túnel de Lisandro. Año 412, la Noche Más Larga.*
 
-Tobías Grull, copista segundo de la biblioteca de la planta doce del palacio imperial, treinta y un años, hijo de un tonelero Laran y nieto de una vieja de los fiordos que hablaba con los ahogados, estaba copiando por cuarta vez el tratado de Ansel Kalo sobre las mareas del Mar de la Penuria cuando la niebla entró en Concordia.
+Tobías Grull, copista segundo de la biblioteca de la planta doce del palacio imperial, treinta y un años, hijo de un tonelero Laran y nieto de una vieja de los fiordos que hablaba con los ahogados, estaba copiando por cuarta vez el tratado de Ansel Kalo sobre las mareas del Mar de la Eterna Penuria cuando la niebla entró en Concordia.
 
-No lo supo enseguida. La biblioteca de la planta doce no tenía ventanas hacia el noroeste; daba al este, al río, al camino de Puerto Salobre. Y Tobías tenía la costumbre, que su maestro el bibliotecario mayor le reprochaba todos los días, de taparse los oídos con cera para copiar, porque el palacio era ruidoso y él se equivocaba con las comas.
+No lo supo enseguida. La biblioteca de la planta doce no tenía ventanas hacia el noreste; daba al sur, al río, al camino de Puerto Salobre. Y Tobías tenía la costumbre, que su maestro el bibliotecario mayor le reprochaba todos los días, de taparse los oídos con cera para copiar, porque el palacio era ruidoso y él se equivocaba con las comas.
 
 Lo supo porque la tinta se heló.
 
@@ -14,9 +14,9 @@ Se quitó la cera de los oídos.
 
 Y oyó las campanas.
 
-* * *
+---
 
-Las campanas de alarma de Concordia no habían sonado desde el Atardecer Rojo, ciento trece años antes. Tobías las conocía solo por las crónicas: tres toques largos, uno corto, tres largos. La niebla está dentro.
+Las campanas de alarma de Concordia no habían sonado desde el Atardecer Rojo, ciento trece años antes. Tobías las conocía solo por las crónicas: tres toques largos, uno corto, tres largos. *La niebla está dentro.*
 
 Sonaban todas. Las de la torre, las de los templos, las de los cuarteles. Y por debajo de las campanas, desde la ciudad, un ruido que Tobías no había oído nunca y que no olvidaría: el de cien mil personas gritando a la vez.
 
@@ -26,7 +26,7 @@ Era copista. No era soldado. No sabía usar una espada; la única vez que había
 
 Así que eso hizo.
 
-* * *
+---
 
 Lo que se llevó, en una bolsa de cuero de las que usaban los mensajeros, con la correa cruzada sobre el pecho, fue esto. Lo apuntaría más tarde, años más tarde, en la primera página de sus crónicas, para que se supiera de dónde salía lo que contaba:
 
@@ -34,7 +34,7 @@ El pergamino de Nadia Bhargaras, escrito de su puño y letra en el año ciento c
 
 El diario de Meridio Bhargaras, con las anotaciones al margen de su hermana Aremir. Que el emperador Haltair había devuelto a la biblioteca el verano anterior, cansado, diciendo que ya se lo sabía de memoria.
 
-El informe de once páginas de Ansel Kalo sobre un pasadizo debajo de la cripta. Que el emperador Haltair había pedido el otoño anterior —Tobías se lo había llevado él mismo, buscándolo durante dos días en el arcón de las notas de Lisandro— y había devuelto con una sola palabra escrita debajo de la anotación de Ansel: Gracias.
+El informe de once páginas de Ansel Kalo sobre un pasadizo debajo de la cripta. Que el emperador Haltair había pedido el otoño anterior —Tobías se lo había llevado él mismo, buscándolo durante dos días en el arcón de las notas de Lisandro— y había devuelto con una sola palabra escrita debajo de la anotación de Ansel: *Gracias.*
 
 Tres de los cuadernos de poemas de Lisandro Heredicus.
 
@@ -48,7 +48,7 @@ Apagó la lámpara. Era una tontería. Lo hizo de todas formas: el bibliotecario
 
 Y bajó.
 
-* * *
+---
 
 Bajó por la escalera de servicio, que era la que conocía, porque la usaba para ir a las cocinas a robar pan. Planta once. Planta diez. En la nueve se encontró con un guardia que subía corriendo, con la espada desenvainada y la cara blanca, que le gritó algo que no entendió y siguió subiendo. En la siete oyó gritos debajo. En la cinco, el frío era tan intenso que le dolían los dientes.
 
@@ -62,7 +62,7 @@ El muerto se volvió despacio. Tenía los ojos blancos. Lo miró. Y Tobías, que
 
 *Frío. Frío. Frío. Frío.*
 
-No supo por qué lo hizo. Más tarde pensaría que fue su abuela, la de los fiordos, que se sentaba en la playa al atardecer y les hablaba a los ahogados como quien habla con los vecinos. Hay que decirles algo, Tobi, le decía. Están solos. Se les olvida quiénes son.
+No supo por qué lo hizo. Más tarde pensaría que fue su abuela, la de los fiordos, que se sentaba en la playa al atardecer y les hablaba a los ahogados como quien habla con los vecinos. *Hay que decirles algo, Tobi*, le decía. *Están solos. Se les olvida quiénes son.*
 
 —Lo sé —le dijo Tobías al muerto, con la voz temblando—. Hace mucho frío. Lo siento mucho.
 
@@ -72,7 +72,7 @@ Tobías pasó a su lado pegado a la pared, sin respirar. El muerto no se movió.
 
 Nunca supo por qué.
 
-* * *
+---
 
 La cripta estaba llena de gente.
 
@@ -92,7 +92,7 @@ Tobías se quedó mirándola. No pudo evitarlo. Las vetas blancas brillaban con 
 
 Al pie de la piedra, con una vela caída a sus pies, había una corona de laurel.
 
-* * *
+---
 
 Entró en el túnel detrás de una mujer Mator que llevaba dos niños de la mano y un tercero a la espalda. Delante de ella, un viejo Zelto que no paraba de rezar. Detrás de Tobías, el cocinero del cucharón.
 
@@ -132,7 +132,7 @@ Tobías pensó en el pergamino de Nadia Bhargaras, que llevaba en la bolsa contr
 
 —Todavía no —dijo—. Pero lo pondrá.
 
-* * *
+---
 
 A la décima legua, el túnel empezó a subir. A la undécima, el aire cambió: dejó de oler a piedra mojada y empezó a oler a sal. A la duodécima, los que iban delante empezaron a gritar.
 
@@ -144,11 +144,11 @@ Era gris. Inmenso. Bajo un cielo de plomo. Y olía como olía la playa de su abu
 
 Se sentó en una roca. Le devolvió la niña a su madre, que lloraba. Abrió la bolsa con dedos que no le respondían y comprobó que estaba todo. El pergamino. El diario. El informe. Los poemas. La crónica. El tratado de las mareas, a medias, con una mancha de agua que había borrado medio capítulo sobre las corrientes de invierno.
 
-Se echó a reír. No pudo evitarlo. Se rió hasta que le dolió el pecho, sentado en una roca a la salida de un túnel, con el Imperio muriéndose a doce leguas a sus espaldas, porque lo único que había perdido de verdad, de todo lo que se había llevado, era el capítulo de las corrientes de invierno del Mar de la Penuria Eterna.
+Se echó a reír. No pudo evitarlo. Se rió hasta que le dolió el pecho, sentado en una roca a la salida de un túnel, con el Imperio muriéndose a doce leguas a sus espaldas, porque lo único que había perdido de verdad, de todo lo que se había llevado, era el capítulo de las corrientes de invierno del Mar de la Eterna Penuria.
 
 Que era el mar que iban a cruzar.
 
-* * *
+---
 
 Lo vio llegar a media mañana. El último.
 

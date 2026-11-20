@@ -1,10 +1,10 @@
-## Capítulo 34 · Wenna
+# Capítulo 34 · Wenna
 
-*El Mercado del valle negro. El mismo día, primavera del año 1256 de la Nueva Era (649 D.bA).*
+*El Mercado del valle negro. El mismo día, primavera del año 1256 de la Nueva* *Era (649 D.bA).*
 
-La fuente se heló a media tarde, y Wenna supo que algo se había roto en la colina antes de que llegara nadie a decírselo, porque la fuente no se había helado nunca.
+La fuente se secó a media tarde, y Wenna supo que algo se había roto en la colina antes de que llegara nadie a decírselo, porque la fuente no se había secado nunca, ni se había helado, y el agua salía de la montaña caliente desde que había montaña.
 
-En mil doscientos veintiocho años, nunca. Era lo primero que se sabía del valle negro. Antes que el Mercado, antes que la balanza, antes que las Madres. Hay una fuente que no se hiela. Por eso bajaban los tramperos en invierno. Por eso bajó Ilsa con sus veinte niñas. Por eso estaba todo lo demás.
+En mil doscientos veintiocho años, nunca. Era lo primero que se sabía del valle negro. Antes que el Mercado, antes que la balanza, antes que las Madres. *Hay una fuente* *que no se hiela.* Por eso bajaban los tramperos en invierno. Por eso bajó Ilsa con sus veinte niñas. Por eso estaba todo lo demás.
 
 Wenna estaba sentada en su silla, la de al lado de la balanza, con un chal encima de los hombros y una olla de castañas a los pies. Ya no pesaba. Pesaba Neva. Wenna miraba.
 
@@ -14,7 +14,7 @@ No dejó de salir. Se paró. El agua que caía del caño de piedra se quedó qui
 
 En el Mercado no se oyó nada.
 
-* * *
+---
 
 —Abuela —dijo Neva.
 
@@ -32,7 +32,7 @@ La de las Madres. La de siempre. La que sonaba desde antes de que hubiera Mercad
 
 Se había parado.
 
-* * *
+---
 
 Wenna se levantó de la silla.
 
@@ -44,7 +44,7 @@ Neva la miró como se mira a un árbol que echa a andar.
 
 —Llévame —dijo Wenna.
 
-* * *
+---
 
 El círculo estaba en el centro del Mercado. Veintidós figuras de sal, de pie, alrededor de un agujero. Gastadas. Con las manos un poco levantadas, como se levantan para coger a un niño que se cae.
 
@@ -58,7 +58,7 @@ Wenna llegó al borde del círculo. Con Neva sujetándola del brazo. Con las rod
 
 Y vio que las Madres se habían vuelto.
 
-* * *
+---
 
 Todas. Las veintidós.
 
@@ -76,7 +76,7 @@ Wenna no dijo nada.
 
 Miró al Guardián.
 
-* * *
+---
 
 La Custodia Ilka llegó corriendo. Con el hilo. Era vieja, más vieja que Neva, doscientos setenta y dos años, y corría como corren las viejas, de lado, con una mano en la cadera. Se arrodilló al pie del Guardián. Desenrolló el hilo. Lo puso en la grieta de la jarra, desde el borde, despacio, como lo ponía cada primavera desde hacía doscientos cincuenta años.
 
@@ -90,11 +90,11 @@ Levantó la cara hacia Wenna. Blanca.
 
 —Tres dedos —dijo.
 
-No menos un pelo.
+No *menos un pelo*.
 
 Tres dedos.
 
-* * *
+---
 
 El frío subió del agujero.
 
@@ -112,7 +112,7 @@ Esta vez estaba cerca.
 
 Esta vez no era en sueños.
 
-* * *
+---
 
 —Abuela —dijo Neva—. Abuela, ¿qué es?
 
@@ -132,7 +132,7 @@ Wenna pensó en la colina. En lo que no sabía. En lo que no había llegado toda
 
 —Porque allí abajo —dijo— la gente ha dejado de ponerse de acuerdo de golpe. Toda a la vez. —Se cerró el chal—. Y eso hace mucho ruido.
 
-* * *
+---
 
 Neva se soltó de su brazo.
 
@@ -146,7 +146,7 @@ Neva se inclinó hacia el agujero.
 
 —Te oigo —dijo. Con la voz que tenía de niña. La de Pisor. La de los pozos—. Vete.
 
-* * *
+---
 
 No se fue.
 
@@ -184,15 +184,15 @@ Wenna se acercó. Se agachó, como pudo, con las rodillas crujiendo. Le puso la 
 
 —Ya lo sé. —Wenna le apartó el pelo de la cara—. Esta vez no.
 
-* * *
+---
 
-Esa noche nevó en el valle negro.
+Esa noche cayó ceniza en el valle negro.
 
-En primavera. Nieve fina, seca, de la que no cae nunca allí, de la que cae en las montañas de Annkör. Cubrió el Mercado. Las tiendas. La balanza. La losa de la entrada del paso, Aquí no se levanta un arma. Las veintidós Madres, vueltas hacia el sur, una sin cabeza. El Guardián, con su jarra de tres dedos.
+En primavera. Ceniza fina, seca, gris, de la que no había caído nunca allí, de la que la montaña había dejado de echar antes de que hubiera Mercado. Bajaba de la boca, de arriba, del borde del cráter, sin ruido. Cubrió el Mercado. Las tiendas. La balanza. La losa de la entrada del paso, *Aquí no se levanta un arma*. Las veintidós Madres, vueltas hacia el sur, una sin cabeza. El Guardián, con su jarra de tres dedos.
 
-La fuente siguió helada.
+La fuente siguió seca.
 
-Al día siguiente no se deshizo. Al otro tampoco. Los tramperos que bajaron esa semana al Mercado se encontraron un valle blanco y una fuente de cristal, y a una vieja enorme sentada en una silla al lado de una balanza, envuelta en tres chales, mirando al sur, que no les quiso pesar nada.
+Al día siguiente no se deshizo. Al otro tampoco. Los tramperos que bajaron esa semana al Mercado se encontraron un valle gris y una fuente seca, y a una vieja enorme sentada en una silla al lado de una balanza, envuelta en tres chales, mirando al sur, que no les quiso pesar nada.
 
 Wenna esperó.
 
@@ -206,7 +206,7 @@ Que se habían ido.
 
 Que el Comandante se había ido con ellos.
 
-* * *
+---
 
 Wenna escuchó.
 
@@ -218,19 +218,35 @@ Luego se volvió hacia Neva, que estaba al lado de la balanza, sin pesar nada, c
 
 —¿Para qué?
 
-Wenna miró la fuente helada.
+Wenna miró la fuente seca.
 
 Miró las Madres, vueltas hacia el sur. El Guardián. El agujero, del que salía, despacio, sin parar, un frío que olía a sal.
 
-—Porque esto ya no se va a deshelar —dijo.
+—Porque esto ya no se va a ir —dijo.
 
-* * *
+---
 
-No se deshizo.
+No se fue.
 
-En el 1257 se heló el río del paso. En el 1260, el lago de las montañas del oeste. En el 1270, los tramperos dejaron de bajar en verano porque ya no había verano; solo un invierno largo y otro invierno corto. En el 1290, el valle negro no era negro. Era blanco. Todo. Desde el paso hasta las montañas. Con el Mercado en el centro, y la fuente de cristal, y las Madres cubiertas de escarcha, y el Guardián con barba de hielo.
+En el 1257 la ceniza cegó el río del paso. En el 1260 se heló el lago de las montañas del oeste, porque el sol ya no calentaba a través del humo. En el 1270, los tramperos dejaron de bajar en verano porque ya no había verano; solo un invierno largo y otro invierno corto, con el cielo color de plomo. En el 1290, el valle negro no era negro. Era gris. Todo. Desde el paso hasta el borde del cráter. Con el Mercado en el centro, y la fuente seca, y las Madres cubiertas de ceniza, y el Guardián con barba de ceniza.
 
-La gente siguió bajando. Wenna no sabía por qué. Bajaban con trineos, con pieles, con raquetas de nieve. A cambiar. A pesar. A que no se levantara un arma. Bajaban más que antes.
+La gente siguió bajando. Wenna no sabía por qué. Bajaban con mulas, con pieles, con pañuelos mojados en la boca, con raquetas para no hundirse en la ceniza. A cambiar. A pesar. A que no se levantara un arma. Bajaban más que antes.
+
+Bajaban y contaban cosas. Wenna las oía todas, sentada al lado de la balanza, y no se creía la mitad. La otra mitad la había visto.
+
+Que en el verano del 1258, la primera noche sin ceniza, algo había salido del cráter. Lo vio medio Mercado. Negro sobre el humo negro, tan grande que tapó la luna de un lado a otro, con las alas como el techo de una casa abierto por la mitad. Dio tres vueltas sobre el valle, sin ruido, y volvió a meterse en la boca de la montaña. Los tramperos viejos dijeron que era el Gran Dragón Negro, el de los cuentos de las abuelas, el que dormía en el volcán desde antes de las Madres, y que la montaña había echado ceniza porque se había dado la vuelta en la cama. Detrás, el verano siguiente, salió otro más pequeño, del tamaño de una barca, que no sabía volar derecho y se dio contra el borde del cráter dos veces: una cría de dragón negro. La gente del Mercado se rio. Wenna no.
+
+Que con la ceniza habían venido los zorros ígneos, los de pelo rojo con las puntas negras, que no tenían frío nunca porque les ardía algo por dentro, y que dormían en las grietas calientes de la ladera y salían de noche a robar las gallinas de las casas del borde.
+
+Que por el valle gris, de noche, iba una luz. Una sola. Blanca, sin color, a la altura de una cabeza, que se paraba si te parabas y seguía si seguías. Un fuego fatuo, decían los tramperos. De los de siempre. De los que se llevan a los que se pierden. Las Custodias de las casas del borde dejaban una vela en la ventana para que la luz tuviera algo que mirar y no viniera.
+
+Y que en el 1283, en el invierno largo, un trampero de Rinkel había visto el Behemot.
+
+No lo vio entero. Nadie lo vio entero nunca. Vio una loma de ceniza que se movía. Una loma, en mitad del valle gris, del tamaño del Mercado, que se levantaba despacio, con cuatro patas como cuatro torres y una espalda de piedra gris llena de ceniza, y que andaba hacia el oeste, hacia el desierto, tan despacio que el trampero tuvo tiempo de desatar la mula, bajarse, volverse a subir y salir corriendo. Dejó detrás un surco de una legua de largo. No mató a nadie. Pasó por encima de la casa vacía de los Orbe, la última del borde, la que llevaba diez años cerrada, y la dejó plana como una tabla, y siguió andando.
+
+Los del Mercado bajaron a ver el surco. Wenna no.
+
+—Las bestias de la ceniza —le dijo a Neva— no son cosa nuestra. Que pesen otros.
 
 Los de la colina empezaron a llamarlo de otra manera.
 

@@ -1,10 +1,10 @@
-## Capítulo 92 · Mara
+# Capítulo 92 · Mara
 
 *Banderbill. Año 6 de la Nueva Era, la noche del primer deshielo.*
 
 Mara Renod dormía con un cuchillo de destripar debajo de la almohada desde los once años, y en seis años de matrimonio con un emperador no había encontrado ningún motivo para dejar de hacerlo.
 
-—Es un cuchillo de pescado —le había dicho Bander la primera noche, en la Tozuda, cuando lo encontró al ir a abrazarla—. ¿Qué vas a hacer con un cuchillo de pescado? ¿Destripar a un asesino?
+—Es un cuchillo de pescado —le había dicho Bander la primera noche, en la *Tozuda*, cuando lo encontró al ir a abrazarla—. ¿Qué vas a hacer con un cuchillo de pescado? ¿Destripar a un asesino?
 
 —Si hace falta.
 
@@ -20,9 +20,9 @@ Mucha gente quería. Mara también iba. Se sentaba al fondo, junto a la puerta, 
 
 Por eso vio la de Joran.
 
-* * *
+---
 
-Joran Kesse era tonelero. Germa de los barrios bajos de Concordia, cuarenta años, manos enormes, callado. Había llegado a Banderbill en la tercera galera, con una hija de seis años en brazos que había muerto en el Mar de la Penuria, el día veintinueve. Bander la había nombrado. Joran no había dicho nada entonces. No había dicho casi nada en seis años. Hacía barriles, buenos barriles, y se sentaba al fondo de la casa del panadero las noches de crónica, cerca de Mara, y escuchaba.
+Joran Kesse era tonelero. Germa de los barrios bajos de Concordia, cuarenta años, manos enormes, callado. Había llegado a Banderbill en la tercera galera, con una hija de seis años en brazos que había muerto en el Mar de la Eterna Penuria, el día veintinueve. Bander la había nombrado. Joran no había dicho nada entonces. No había dicho casi nada en seis años. Hacía barriles, buenos barriles, y se sentaba al fondo de la casa del panadero las noches de crónica, cerca de Mara, y escuchaba.
 
 La noche en que Tobías leyó el capítulo de la escalera, Joran no se movió en toda la lectura. Mara lo miró. Lo vio escuchar cómo el Padre de la Bruma subía los peldaños de la Torre de la Unión, uno a uno, la Noche Más Larga, y cómo le decía a Bander que la cuarta jarra no estaba en sal sino en sangre. En la suya. En su pecho. Desde que tenía un día de vida.
 
@@ -34,7 +34,7 @@ Luego se levantó y se fue sin decir nada.
 
 Mara no durmió esa noche. Ni la siguiente.
 
-* * *
+---
 
 —Estás exagerando —le dijo Bander, el tercer día, mientras desayunaban—. Joran es un buen hombre. Me hizo la cuna para el niño de los Hennek gratis.
 
@@ -58,7 +58,7 @@ Bander la miró. No dijo nada.
 
 Esa noche, Mara metió el cuchillo de destripar debajo de la almohada, como siempre. Y por primera vez en seis años, no lo hizo por costumbre.
 
-* * *
+---
 
 Joran vino la noche del primer deshielo.
 
@@ -84,7 +84,7 @@ Mara se lanzó por encima de Bander y le clavó el cuchillo de destripar en el a
 
 Bander se despertó.
 
-* * *
+---
 
 Lo que pasó después, Mara no lo recordó nunca bien. Recordaría el peso de Joran cayéndole encima, la sangre caliente de su brazo empapándole el camisón, el formón suelto en el suelo. Recordaría a Bander levantándose de la cama de un salto, desnudo, con los ojos casi blancos brillando en la oscuridad, y cogiendo a Joran por el cuello con una sola mano, y levantándolo del suelo como si fuera un niño.
 
@@ -112,7 +112,7 @@ Se arrodilló delante de él.
 
 —La oigo…
 
-—No la oyes a ella. Oyes otra cosa. Oyes que la echas de menos. —Bander le puso una mano en el hombro—. Yo la nombré. El día veintinueve, en la cubierta de la tercera galera, mirando hacia arriba. Ebbe, hija de Joran. La sentí irse. Se fue hacia arriba, Joran. No está en el mar. No está con él. No está en ninguna parte donde nadie pueda tirar de ella.
+—No la oyes a ella. Oyes otra cosa. Oyes que la echas de menos. —Bander le puso una mano en el hombro—. Yo la nombré. El día veintinueve, en la cubierta de la tercera galera, mirando hacia arriba. *Ebbe, hija de Joran.* La sentí irse. Se fue hacia arriba, Joran. No está en el mar. No está con él. No está en ninguna parte donde nadie pueda tirar de ella.
 
 Joran lo miró con los ojos llenos de lágrimas.
 
@@ -122,9 +122,9 @@ Joran lo miró con los ojos llenos de lágrimas.
 
 Joran se quedó muy quieto. Luego, despacio, se dobló sobre sí mismo, con la frente en el suelo, y lloró. No como antes. Distinto. Como se llora al final de algo.
 
-* * *
+---
 
-La colina se enteró al amanecer. No hubo forma de evitarlo; Mara había gritado al final, cuando todo terminó, y medio barrio se había despertado. Para el mediodía, había cuarenta personas delante de la casa de Bander pidiendo la cabeza del tonelero. El tío Gorm, con un hacha. La Custodia Orla, con cara de ya os lo dije. Maese Ugo, que no pedía nada pero estaba allí.
+La colina se enteró al amanecer. No hubo forma de evitarlo; Mara había gritado al final, cuando todo terminó, y medio barrio se había despertado. Para el mediodía, había cuarenta personas delante de la casa de Bander pidiendo la cabeza del tonelero. El tío Gorm, con un hacha. La Custodia Orla, con cara de *ya os lo dije*. Maese Ugo, que no pedía nada pero estaba allí.
 
 Bander salió a la puerta. Tenía ojeras. Mara estaba detrás de él, con un vestido limpio y las manos todavía oliendo a sangre aunque se las había frotado con arena tres veces.
 

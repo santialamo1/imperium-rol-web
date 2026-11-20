@@ -1,4 +1,4 @@
-## Capítulo 4 · Varo
+# Capítulo 4 · Varo
 
 *Llanura de Askel, colinas de Mator. Año 26.*
 
@@ -12,7 +12,7 @@ Once mil hombres suyos. Catorce mil Hinur y Mator, en la llanura, al otro lado d
 
 Y una sola manera de ganar.
 
-* * *
+---
 
 —Quieres que cruce el vado del norte con la caballería —dijo Hector Tiberius, de pie junto a la entrada de la tienda, con el yelmo bajo el brazo—. A plena luz. Delante de catorce mil hombres.
 
@@ -48,7 +48,7 @@ No era un plan para matarlo. Varo se lo dijo a sí mismo muchas veces aquella no
 
 Solo cambiaba lo que pasaba después.
 
-* * *
+---
 
 Las reservas se movieron.
 
@@ -64,7 +64,7 @@ Varo se quedó mirándolo con la boca abierta.
 
 Varo dio la señal. Once mil hombres salieron del bosque.
 
-* * *
+---
 
 Fue la batalla más hermosa de su vida. Los estrategas de cuatro siglos la estudiarían en las academias con mapas y fichas de madera: la batalla de Askel, la gran maniobra de flanqueo de Varo Heredicus, el cebo en el vado norte y el martillo en el sur. La llamarían perfecta.
 
@@ -88,9 +88,9 @@ Varo miró la mano. Luego la estrechó.
 
 Fue la primera vez en su vida que estrechaba la mano de su hermanastro. Y mientras lo hacía pensó en la carta del fondo del arcón, y sintió algo en el pecho que no supo contar.
 
-* * *
+---
 
-Hubo fiesta esa noche, por supuesto. Hogueras, vino de Mator saqueado de las aldeas, canciones. Los soldados gritaban el nombre de Varo por todo el campamento. ¡Heredicus! ¡Heredicus! ¡El martillo de Askel! Algunos gritaban también el de Hector. Menos.
+Hubo fiesta esa noche, por supuesto. Hogueras, vino de Mator saqueado de las aldeas, canciones. Los soldados gritaban el nombre de Varo por todo el campamento. *¡Heredicus! ¡Heredicus! ¡El martillo de Askel!* Algunos gritaban también el de Hector. Menos.
 
 Varo bebió con sus capitanes en su tienda hasta medianoche. Luego los despidió a todos. Quería estar solo.
 
@@ -132,13 +132,13 @@ Un velo.
 
 Luego salió corriendo de la tienda.
 
-* * *
+---
 
 Varo Heredicus se quedó tumbado sobre el arcón, mirando el techo de lona, con el velo gris junto a la cara y la sangre empapándole la túnica.
 
-Eufesios, pensó. Los nómadas de la niebla. La mujer del velo. La piedra. Pensó en la profecía de la que Lisandro le había hablado una vez, borracho, en la torre, y de la que él se había reído. Tres de tu sangre darás a la guerra. Caio, en el paso de Hinurvald. Él, en su tienda. Quedaba Lisandro.
+*Eufesios*, pensó. *Los nómadas de la niebla. La mujer del velo. La piedra.* Pensó en la profecía de la que Lisandro le había hablado una vez, borracho, en la torre, y de la que él se había reído. *Tres de tu sangre darás a la guerra.* Caio, en el paso de Hinurvald. Él, en su tienda. Quedaba Lisandro.
 
-Dos, pensó. Ya van dos.
+*Dos*, pensó. *Ya van dos.*
 
 Y luego, porque era Varo, porque no podía evitarlo, porque era lo único que había hecho bien toda su vida, empezó a contar.
 
@@ -146,7 +146,7 @@ Los latidos. Cada vez más lentos.
 
 Contó hasta cuarenta y tres.
 
-* * *
+---
 
 Tullo se ahorcó al amanecer en un roble, al borde del campamento, antes de que nadie pudiera interrogarlo.
 

@@ -1,4 +1,4 @@
-## Capítulo 57 · Hatmie
+# Capítulo 57 · Hatmie
 
 *Banderbill, el palacio. Primavera del año 1417 de la Nueva Era (810 D.bA).*
 
@@ -18,7 +18,7 @@ Pell tenía veintidós años. Era el más joven de los doce. Lo había cogido Ni
 
 Pell se lo dijo.
 
-* * *
+---
 
 Hatmie se quedó arrodillada en la paja mucho rato.
 
@@ -26,7 +26,7 @@ Con la vela en la mano. Con la cera cayéndole en los dedos. No la notaba.
 
 *Cuídalos.*
 
-Lo había dicho ella. Esa mañana. Al pie de la escalera. Llévalos, Nim. Cuídalos. Había mandado a los cuatro a una cabaña en el campo, sin sus guardias, con su escolta, porque le pareció que por fin alguien quería hablar. Porque le pareció que cinco encapuchados que piden una reunión es mejor que cinco encapuchados que no la piden. Porque llevaba quince años con el palacio cerrado y la Armada partida y la colina comprando profecías en el puerto, y cualquier cosa que trajera un poco de paz le parecía mejor que nada.
+Lo había dicho ella. Esa mañana. Al pie de la escalera. *Llévalos, Nim. Cuídalos.* Había mandado a los cuatro a una cabaña en el campo, sin sus guardias, con su escolta, porque le pareció que por fin alguien quería hablar. Porque le pareció que cinco encapuchados que piden una reunión es mejor que cinco encapuchados que no la piden. Porque llevaba quince años con el palacio cerrado y la Armada partida y la colina comprando profecías en el puerto, y cualquier cosa que trajera un poco de paz le parecía mejor que nada.
 
 Y los había mandado a morir.
 
@@ -40,11 +40,11 @@ Pell no contestó.
 
 —El grande —dijo Pell—. Larien. El de las dos cintas.
 
-* * *
+---
 
 No se sorprendió.
 
-Eso fue lo peor. Que no se sorprendió. Que al oír el nombre, algo dentro de ella, algo que llevaba quince años esperando, desde la escalinata, desde ¿tú querrías?, desde no sé si querría, pero sé que no me partiría, se quedó quieto. Como se queda uno cuando por fin llega la carta que sabía que iba a llegar.
+Eso fue lo peor. Que no se sorprendió. Que al oír el nombre, algo dentro de ella, algo que llevaba quince años esperando, desde la escalinata, desde *¿tú querrías?*, desde *no* *sé si querría, pero sé que no me partiría*, se quedó quieto. Como se queda uno cuando por fin llega la carta que sabía que iba a llegar.
 
 *Que venga a pedírmela.*
 
@@ -54,7 +54,7 @@ Iba a venir a pedírsela.
 
 Con cuatro muertos en una cabaña.
 
-* * *
+---
 
 Subió al cuarto. Se vistió.
 
@@ -66,15 +66,15 @@ Se colgó la espada rota de él, en la vaina.
 
 Se colgó la llave.
 
-Sacó el cuaderno de debajo de la tabla del suelo. Lo miró. Lo abrió por la página del 1402. Hace falta alguien. Alguien fuerte. Lo cerró. Se lo metió en el bolsillo de la casaca.
+Sacó el cuaderno de debajo de la tabla del suelo. Lo miró. Lo abrió por la página del 1402. *Hace falta alguien. Alguien fuerte.* Lo cerró. Se lo metió en el bolsillo de la casaca.
 
-Miró la viga. La de Eluret. Las cosas se quedan donde se ponen. La mano tallada. Su hache de los doce años. Los tres números.
+Miró la viga. La de Eluret. *Las cosas se quedan donde se ponen.* La mano tallada. Su hache de los doce años. Los tres números.
 
 *8. No.*
 
 Bajó.
 
-* * *
+---
 
 Abrió el palacio antes del alba.
 
@@ -94,7 +94,7 @@ Dentro olía a cerrado. A polvo. A vino viejo de las bodegas. A palomas.
 
 Entró.
 
-* * *
+---
 
 Mandó llamar a los magos.
 
@@ -126,7 +126,7 @@ Ostrel bajó la cabeza.
 
 —Sí, doncella.
 
-* * *
+---
 
 Esperó de pie.
 
@@ -142,7 +142,7 @@ Gente. Soldados. Gritos. Alguien que corría. Alguien que gritaba que habían en
 
 Hatmie no se movió.
 
-* * *
+---
 
 Entró solo.
 
@@ -164,7 +164,7 @@ Los magos levantaron los bastones. Sin querer. Como se levanta la mano cuando al
 
 Los bajaron.
 
-* * *
+---
 
 —Quítate la capucha —dijo Hatmie.
 
@@ -174,7 +174,7 @@ Los bajaron.
 
 Se la quitó.
 
-* * *
+---
 
 El vestíbulo se quedó helado.
 
@@ -194,7 +194,7 @@ No tenía cara de nada.
 
 Tenía la cara de alguien que ha cogido algo que no se puede devolver y que lo está pesando.
 
-* * *
+---
 
 Y entonces él se acercó.
 
@@ -208,7 +208,7 @@ Como se había arrodillado en el sótano, delante del tercer escalón, para que 
 
 La abrazó.
 
-* * *
+---
 
 Nadie lo esperaba.
 
@@ -222,7 +222,7 @@ Muy bajo. Tan bajo que no lo oyó nadie más. Ni Ostrel, que estaba a tres pasos
 
 Ni el que escucha, que estaba en la plaza, al lado de la fuente, con una capa gris, mirando la puerta abierta.
 
-* * *
+---
 
 Lo que le dijo fue esto:
 
@@ -232,11 +232,11 @@ Hatmie no se movió.
 
 —Lo voy a traer —dijo él—. No juro. Te digo que sí.
 
-* * *
+---
 
 Hatmie se quedó quieta en sus brazos mucho rato.
 
-Pensó en la manzana. En ciento sesenta años de manzanas en una ventana. En la torre con luz. En las cuatro notas. En los dos que volvieron de la partida por tierra en el 1257. En el sargento de Tiama, en el Primer Parlamento, preguntando ¿se cumple?, y en ella diciendo no. No partidos.
+Pensó en la manzana. En ciento sesenta años de manzanas en una ventana. En la torre con luz. En las cuatro notas. En los dos que volvieron de la partida por tierra en el 1257. En el sargento de Tiama, en el Primer Parlamento, preguntando *¿se cumple?*, y en ella diciendo *no*. *No partidos.*
 
 Pensó en los cuatro de la cabaña.
 
@@ -250,7 +250,7 @@ Este, que había matado a cuatro.
 
 Este, que lo iba a traer.
 
-* * *
+---
 
 Hatmie sonrió.
 
@@ -266,7 +266,7 @@ Y le dijo, al oído, tan bajo como él:
 
 —Ya lo sé —dijo.
 
-* * *
+---
 
 Hatmie se apartó.
 
@@ -284,7 +284,7 @@ Se dio la vuelta. Fue hasta la puerta de bronce. La metió en la cerradura. Por 
 
 Y la dejó allí.
 
-* * *
+---
 
 Se fue andando.
 
@@ -312,7 +312,7 @@ Hatmie lo miró a él. Por primera vez. A la cara que no se recordaba.
 
 Y siguió andando.
 
-* * *
+---
 
 Subió al cuartel de la ladera sur. A la habitación de él. Cogió la manzana del alféizar, la de ese día, que ya estaba puesta, porque la había subido un soldado de la quinta a las seis como cada mañana desde el 1402, cuando ella dejó de poder subirla porque se pasaba las mañanas tocando una puerta.
 
@@ -324,7 +324,7 @@ Y se fue al sur. Con los doce. Por el camino del puerto. Hacia la costa. Hacia d
 
 No volvió.
 
-* * *
+---
 
 En el vestíbulo del palacio, Arispar se quedó arrodillado en la estrella de ocho puntas mucho rato.
 

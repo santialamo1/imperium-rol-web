@@ -1,6 +1,6 @@
-## Capítulo 38 · Hatmie
+# Capítulo 38 · Hatmie
 
-*Banderbill y el borde del hielo. Primavera del año 1260 de la Nueva Era (653 D.bA).*
+*Banderbill y el borde de la ceniza. Primavera del año 1260 de la Nueva Era (653 D.bA).*
 
 La manzana la ponía todas las mañanas, antes de abrir el palacio.
 
@@ -22,11 +22,11 @@ No pasaba.
 
 La manzana de cada día estaba entera al día siguiente.
 
-* * *
+---
 
 —No se ríen —le dijo a Lanther.
 
-Estaban en la tercera almena. Era por la tarde. El muro hacía tum debajo de ellas, el de siempre, lento, un golpe cada vez que Hatmie contaba hasta ciento noventa. Lo había medido. Llevaba cuarenta años midiéndolo, desde los once, desde la primera vez que la pelirroja le dijo escucha.
+Estaban en la tercera almena. Era por la tarde. El muro hacía *tum* debajo de ellas, el de siempre, lento, un golpe cada vez que Hatmie contaba hasta ciento noventa. Lo había medido. Llevaba cuarenta años midiéndolo, desde los once, desde la primera vez que la pelirroja le dijo *escucha*.
 
 Antes de la caída era ciento ochenta y cinco.
 
@@ -72,7 +72,7 @@ Lanther volvió a cerrar el ojo.
 
 —Entonces no lo digas.
 
-* * *
+---
 
 El Consejo quería que viviera en el palacio.
 
@@ -86,9 +86,9 @@ Hatmie tampoco se lo explicó. No sabía explicarlo. Sabía que el palacio era u
 
 Sería lo que hay.
 
-* * *
+---
 
-En la primavera del 1260, Lanther le dijo que tenía que ver el hielo.
+En la primavera del 1260, Lanther le dijo que tenía que ver la ceniza.
 
 —Ya lo he visto —dijo Hatmie—. Desde el paso. En el 1258.
 
@@ -108,13 +108,13 @@ Sabía que eso tampoco podía ser.
 
 No preguntó.
 
-Había aprendido, en cuarenta años de almena, que con la pelirroja se preguntaba poco. Que lo que no contaba no lo contaba, y que lo que contaba lo contaba cuando le daba la gana, y que si uno esperaba lo suficiente, a veces, en una tarde de verano, con el muro haciendo tum, le contaba una cosa que no le había contado a nadie.
+Había aprendido, en cuarenta años de almena, que con la pelirroja se preguntaba poco. Que lo que no contaba no lo contaba, y que lo que contaba lo contaba cuando le daba la gana, y que si uno esperaba lo suficiente, a veces, en una tarde de verano, con el muro haciendo *tum*, le contaba una cosa que no le había contado a nadie.
 
-* * *
+---
 
 Tardaron seis días.
 
-Subieron por el camino del norte, el de los tramperos, Lanther a caballo y Hatmie en un poni de la Armada, con dos soldados de la leva detrás que no hablaron en seis días más que para decir sí, doncella y no, doncella. Hatmie intentó hacerlos hablar. Les preguntó de dónde eran. Les preguntó si tenían novia. Les preguntó si les gustaban las manzanas.
+Subieron por el camino del norte, el de los tramperos, Lanther a caballo y Hatmie en un poni de la Armada, con dos soldados de la leva detrás que no hablaron en seis días más que para decir *sí, doncella* y *no, doncella*. Hatmie intentó hacerlos hablar. Les preguntó de dónde eran. Les preguntó si tenían novia. Les preguntó si les gustaban las manzanas.
 
 Al tercer día uno de los dos, el más alto, un chico de la ladera norte que se llamaba Bram, le contestó.
 
@@ -136,13 +136,13 @@ Hatmie se quedó callada.
 
 —No, doncella. —El chico miró al frente. Al norte. Donde el camino subía hacia el paso—. Pero no nos la comemos.
 
-* * *
+---
 
-El paso estaba blanco.
+El paso estaba gris.
 
-Hatmie lo había visto en el 1258, desde arriba, y ya entonces estaba blanco. Pero ahora el blanco había bajado. Llegaba hasta el puente de piedra del río, el que se había helado el primer invierno. Debajo del puente el río no corría. Estaba quieto. Gris. Con burbujas atrapadas dentro, como un cristal de los gnomos de las lámparas que se ha enfriado demasiado deprisa.
+Hatmie lo había visto en el 1258, desde arriba, y ya entonces estaba gris. Pero ahora el gris había bajado. Llegaba hasta el puente de piedra del río, el que la ceniza había cegado el primer invierno. Debajo del puente el río no corría. Estaba quieto. Gris, de barro de ceniza endurecido. Con burbujas atrapadas dentro, como un cristal de los gnomos de las lámparas que se ha enfriado demasiado deprisa.
 
-Del otro lado del puente, en la ladera, antes de que empezara el hielo de verdad, había casas.
+Del otro lado del puente, en la ladera, antes de que empezara la ceniza de verdad, había casas.
 
 Cuatro. De piedra, bajas, con techos de pizarra y chimeneas que echaban humo. Y alrededor de las casas, piedras. Montoncitos de piedras pequeñas, blancas, de río, en el suelo, en las ventanas, en los escalones, en todas partes.
 
@@ -156,7 +156,7 @@ Doce años. Pelo castaño, recogido. Zapatos en la mano. Los miró llegar sin mo
 
 Y entró.
 
-* * *
+---
 
 Wenna estaba dentro, al lado del fuego, en una silla de enea, debajo de los chales.
 
@@ -166,7 +166,7 @@ Hatmie no le vio la cara al principio. Vio los chales. Muchos, de todos los colo
 
 Hatmie se sentó.
 
-—Tú no, pelirroja. Tú ya sabes lo que te voy a decir. Vete a mirar el hielo.
+—Tú no, pelirroja. Tú ya sabes lo que te voy a decir. Vete a mirar la ceniza.
 
 Lanther se rio.
 
@@ -174,7 +174,7 @@ Hatmie la miró. La pelirroja se reía poco. En cuarenta años la había oído t
 
 Lanther salió.
 
-* * *
+---
 
 —Eres pequeña —dijo Wenna.
 
@@ -188,7 +188,7 @@ Lanther salió.
 
 —No. Me enseñó a leer una viga.
 
-—Es lo mismo. —Wenna se rio. Una risa de vieja, con aire—. Las cosas se quedan donde se ponen. Lo puso él. Me lo contó él, aquí, en el 1084, con las botas llenas de arena. Lo leíste tú. Es lo mismo.
+—Es lo mismo. —Wenna se rio. Una risa de vieja, con aire—. *Las cosas se quedan* *donde se ponen.* Lo puso él. Me lo contó él, aquí, en el 1084, con las botas llenas de arena. Lo leíste tú. Es lo mismo.
 
 Hatmie no dijo nada.
 
@@ -202,7 +202,7 @@ La niña de los zapatos, que se llamaba Ilka, no, Ilka era la vieja, la Custodia
 
 —¿Dónde?
 
-—Uno, aquí. —Wenna levantó una mano. Señaló afuera, a la ventana, al blanco—. Debajo. El primero que cantó. El del valle negro. Antes estaba en una ladera, en una cueva que no se veía. Ahora está debajo del hielo.
+—Uno, aquí. —Wenna levantó una mano. Señaló afuera, a la ventana, al gris—. Debajo. El primero que cantó. El del valle negro. Antes estaba en una ladera, en una cueva que no se veía. Ahora está debajo de la ceniza.
 
 —¿Y el otro?
 
@@ -216,15 +216,15 @@ Wenna tardó en contestar.
 
 —Porque el gnomo los estaba buscando —dijo—. Y no le dio tiempo. Y porque en el último que encontró él, el del bosque de Nix, había huellas. De orcos. Cuatro. Y de otro que no era orco. Que había entrado antes. —Los chales se quedaron quietos—. Alguien más los busca, muchacha. Desde hace doscientos años. Y no es de los nuestros.
 
-* * *
+---
 
 Hatmie salió de la casa cuando ya era de noche.
 
-Lanther estaba en el borde del hielo. De pie. Mirando el valle.
+Lanther estaba en el borde de la ceniza. De pie. Mirando el valle.
 
 Hatmie se puso a su lado.
 
-El valle era blanco, de punta a punta, debajo de una luna casi llena. Liso. Como una sábana tendida. Y en medio, muy lejos, en el centro del cuenco, había formas. Bultos blancos en círculo. Y en el centro del círculo, uno más grande, sentado.
+El valle era gris, de punta a punta, debajo de una luna casi llena. Liso. Como una sábana tendida. El cuenco del cráter, entero, con el borde recortado contra el cielo y una hebra de humo saliendo de arriba. Y en medio, muy lejos, en el centro del cuenco, había formas. Bultos grises en círculo. Y en el centro del círculo, uno más grande, sentado.
 
 —Las Madres —dijo Lanther—. Y el Guardián.
 
@@ -238,7 +238,7 @@ El valle era blanco, de punta a punta, debajo de una luna casi llena. Liso. Como
 
 Se quedaron calladas.
 
-Del valle subía un frío que no era de nieve. Hatmie lo notó en las rodillas, en la llave del pecho, que se puso más fría que nunca. Olía a sal.
+Del valle subía un frío que no era de ceniza ni de invierno. Hatmie lo notó en las rodillas, en la llave del pecho, que se puso más fría que nunca. Olía a sal.
 
 —Lanther.
 
@@ -264,7 +264,7 @@ La pelirroja no contestó.
 
 —Porque si piensas en la torre, vas a ir. Y si vas, el Consejo se parte. Y si el Consejo se parte, se ha cobrado lo que vino a cobrar. —Lanther se dio la vuelta para volver a las casas—. Él se fue para que no nos partiéramos, Hatmie. No le estropees eso.
 
-* * *
+---
 
 Volvieron en seis días.
 
@@ -288,7 +288,7 @@ Y dijo, con la boca llena:
 
 —Él se habría comido la podrida. Las buenas se las tiraba a los niños.
 
-* * *
+---
 
 No pasó nada en un momento muy largo.
 
@@ -304,7 +304,7 @@ Se quedó de pie en el banco, masticando lo que le quedaba, con los ojos ardiend
 
 Luego se bajó. Dejó el corazón de la manzana en la mesa del capitán Orsk. Y se fue.
 
-* * *
+---
 
 Al día siguiente, a las seis, subió al cuarto con una manzana nueva.
 

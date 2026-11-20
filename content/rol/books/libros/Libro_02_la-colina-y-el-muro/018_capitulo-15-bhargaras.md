@@ -1,4 +1,4 @@
-## Capítulo 15 · Bhargaras
+# Capítulo 15 · Bhargaras
 
 *Banderbill. El día después de la Noche del Dolor.*
 
@@ -14,9 +14,9 @@ Bhargaras lo oyó irse y se quedó de rodillas en el suelo, con las manos en el 
 
 Luego oyó todo lo demás.
 
-* * *
+---
 
-Lo escribiría su hermana, mucho tiempo después, en un cuaderno que nadie leyó en siglos, porque él no se lo contó a nadie más: Mi hermano dijo que fue como si toda su vida hubiera estado dentro de una casa con las ventanas cerradas, y alguien, de golpe, las hubiera abierto todas a la vez, en mitad de una tormenta.
+Lo escribiría su hermana, mucho tiempo después, en un cuaderno que nadie leyó en siglos, porque él no se lo contó a nadie más: *Mi hermano dijo que fue como si toda su vida* *hubiera estado dentro de una casa con las ventanas cerradas, y alguien, de golpe, las* *hubiera abierto todas a la vez, en mitad de una tormenta.*
 
 No fue exactamente eso. Fue peor. Pero se parecía.
 
@@ -38,7 +38,7 @@ Bhargaras levantó la cabeza.
 
 El hombre de pelo blanco lo estaba mirando.
 
-* * *
+---
 
 —Tú eres él —dijo Bhargaras.
 
@@ -88,7 +88,7 @@ Y que, al latir, decía algo.
 
 No con palabras. Con hambre. Una hambre que no conocía, que no había sentido nunca, que no se parecía a ninguna de las hambres que había tenido en su vida: ni la del estómago, ni la de la sed, ni la de la carne de las muchachas en verano junto al río. Era más honda. Más vieja. Era hambre de tener. De coger. De traer. De no dejar que nada se fuera.
 
-Cógelo, decía.
+*Cógelo*, decía.
 
 *Es tuyo. Es mío. Está aquí. Cógelo.*
 
@@ -130,7 +130,7 @@ Bhargaras oyó sus pasos en la escalera. Treinta y dos peldaños. Los contó sin
 
 Luego se sentó en el suelo, junto a la cama de su padre, con la espada en las rodillas, y se quedó allí hasta que vino su madre.
 
-* * *
+---
 
 Lo coronaron esa misma tarde.
 
@@ -172,7 +172,7 @@ Su madre cerró los ojos. Se quedó así un momento, con la mano de Bander en la
 
 —Madre…
 
-—Levántate, he dicho. —Era la voz de capitán. La de la Tozuda. La de la escalera —. Tu padre está muerto. Hay cuatrocientos barcos de muertos encallados en mi bahía. Hay una estatua de sal de Joran Kesse delante de la casa de la Heredicus. Hay ochenta y tres heridos en la casa del panadero y treinta niños de la escuela que no pueden hablar porque se han quedado sin voz diciendo nombres toda la noche. La Custodia Orla no se ha despertado todavía. Y ese hombre de pelo blanco que acaba de bajar por mi escalera está en algún sitio de la colina, con su muerta del velo, y no sé dónde. —Se levantó de la cama —. No tenemos tiempo para que oigas. Ya oirás mañana. Hoy te levantas.
+—Levántate, he dicho. —Era la voz de capitán. La de la *Tozuda*. La de la escalera —. Tu padre está muerto. Hay cuatrocientos barcos de muertos encallados en mi bahía. Hay una estatua de sal de Joran Kesse delante de la casa de la Heredicus. Hay ochenta y tres heridos en la casa del panadero y treinta niños de la escuela que no pueden hablar porque se han quedado sin voz diciendo nombres toda la noche. La Custodia Orla no se ha despertado todavía. Y ese hombre de pelo blanco que acaba de bajar por mi escalera está en algún sitio de la colina, con su muerta del velo, y no sé dónde. —Se levantó de la cama —. No tenemos tiempo para que oigas. Ya oirás mañana. Hoy te levantas.
 
 Bhargaras se levantó.
 
@@ -180,7 +180,7 @@ Su madre fue al arcón de la ventana. Lo abrió. Apartó el tablero de los tres 
 
 Lo sacó.
 
-Era feo. Siempre le había parecido feo. Un aro de hierro negro, sin adornos, forjado en el año uno por el herrero de la colonia, un Germa joven, con un ancla de las galeras de Meridio, y puesto en la cabeza de su padre por maese Ugo, el panadero, porque nadie más se atrevía. Tenía una inscripción por dentro, que su padre le había enseñado una vez, cuando era niño, rascando con la uña. Más que a mis ojos. Su padre nunca le había dicho qué quería decir. Su madre sí lo sabía. No lo decía.
+Era feo. Siempre le había parecido feo. Un aro de hierro negro, sin adornos, forjado en el año uno por el herrero de la colonia, un Germa joven, con un ancla de las galeras de Meridio, y puesto en la cabeza de su padre por maese Ugo, el panadero, porque nadie más se atrevía. Tenía una inscripción por dentro, que su padre le había enseñado una vez, cuando era niño, rascando con la uña. *Más que a mis ojos.* Su padre nunca le había dicho qué quería decir. Su madre sí lo sabía. No lo decía.
 
 Su madre le puso el aro en la cabeza.
 
@@ -194,7 +194,7 @@ Bhargaras se tocó el aro con los dedos.
 
 Y oyó a su padre reírse. Muy lejos. Muy arriba. Un eco.
 
-* * *
+---
 
 Bajó a la plaza al anochecer.
 
@@ -234,7 +234,7 @@ Nadie dijo nada.
 
 —Esta noche —siguió— vamos a decir su nombre. En la fuente. Todos. Hacia arriba. Como él nos enseñó. —Hizo una pausa—. Y el de Tobías Grull. Y el de Joran Kesse. Y el de los dieciocho que han muerto en la playa. Los diré yo. Los veintiuno.
 
-Hubo un murmullo. Bhargaras lo oyó, y oyó lo de debajo: sorpresa. El chico no oye. El chico no ha dicho nunca un nombre. El chico no sabe.
+Hubo un murmullo. Bhargaras lo oyó, y oyó lo de debajo: sorpresa. *El chico no* *oye. El chico no ha dicho nunca un nombre. El chico no sabe.*
 
 —Ahora oigo —dijo.
 
@@ -252,13 +252,13 @@ Y la plaza entera, de pronto, como una ola, contestó:
 
 —¡Constará!
 
-* * *
+---
 
 Dijo los nombres a medianoche.
 
 Los veintiuno. Uno a uno. Mirando hacia arriba. Con la plaza entera en silencio a su alrededor y su madre a un lado y su hermana al otro.
 
-No sabía hacerlo. Nadie se lo había enseñado nunca. Lo hizo como había visto hacerlo a su padre cada invierno desde que tenía memoria, desde la primera vez, a los cuatro años, cuando le dijo aquí no hay nadie, papá, solo hay agua. Miró hacia arriba. Pensó en cada uno. Dijo el nombre.
+No sabía hacerlo. Nadie se lo había enseñado nunca. Lo hizo como había visto hacerlo a su padre cada invierno desde que tenía memoria, desde la primera vez, a los cuatro años, cuando le dijo *aquí no hay nadie, papá, solo hay agua*. Miró hacia arriba. Pensó en cada uno. Dijo el nombre.
 
 Y los oyó irse.
 
@@ -288,7 +288,7 @@ Se quedó mucho rato mirando hacia arriba.
 
 Cuando bajó la vista, la plaza estaba llorando. Toda. Miles de personas. Su madre no. Su madre tenía la cara de piedra. Pero le temblaba la boca. La boca de los Renod.
 
-* * *
+---
 
 Al día siguiente empujó a los muertos al mar.
 
@@ -296,7 +296,7 @@ Quedaban pocos. La mayoría se había ido al alba, con el sol. Pero había algun
 
 Y los que no se iban con el sol, los empujó al agua.
 
-No los nombró. Eso lo recordaría después, durante años. Podría haberlos nombrado. Ahora oía. Ahora sabía. Pero no lo hizo. Los empujó al agua con el asta de una lanza, como se empuja a una res a un corral, y el agua salada los deshizo, y los hilos subieron, y él no les dijo te oigo. No les dijo nada.
+No los nombró. Eso lo recordaría después, durante años. Podría haberlos nombrado. Ahora oía. Ahora sabía. Pero no lo hizo. Los empujó al agua con el asta de una lanza, como se empuja a una res a un corral, y el agua salada los deshizo, y los hilos subieron, y él no les dijo *te oigo*. No les dijo nada.
 
 Hakon lo miraba hacer. No dijo nada tampoco.
 
@@ -312,7 +312,7 @@ Estaban en lo alto de la garganta, en la pared norte, donde la roca era más neg
 
 *No pases. No pases. No pases.*
 
-Están guardando algo, le dijo su padre. No su padre. El eco de su padre. El resto. Escúchalas, hijo. Escucha lo que guardan.
+*Están guardando algo*, le dijo su padre. No su padre. El eco de su padre. El resto. *Escúchalas, hijo. Escucha lo que guardan.*
 
 Bhargaras no escuchó.
 
@@ -338,7 +338,7 @@ Bhargaras las miró irse.
 
 Bhargaras lo pensó.
 
-En el pecho, la jarra latía. Lenta. Regular. Hambrienta. Cógelas, decía. Tráelas. Que no se vayan.
+En el pecho, la jarra latía. Lenta. Regular. Hambrienta. *Cógelas*, decía. *Tráelas.* *Que no se vayan.*
 
 —No —dijo—. Ahora no.
 

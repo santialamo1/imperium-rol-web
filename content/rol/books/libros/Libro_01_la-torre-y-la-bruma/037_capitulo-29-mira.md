@@ -1,4 +1,4 @@
-## Capítulo 29 · Mira
+# Capítulo 29 · Mira
 
 *Concordia, barrio Germa. Año 123.*
 
@@ -14,7 +14,7 @@ Mira volvió corriendo a casa y no dijo nada a nadie. Ni a su madre, que la mir�
 
 Pero volvió al cementerio al día siguiente. Y al otro.
 
-* * *
+---
 
 Catorce años después, Mira tenía veintitrés, un marido Zelto, capitán de la Guardia, que la quería con una devoción torpe de perro grande, una casa pequeña junto a la de su madre en el barrio Germa, un hermano que era emperador desde hacía dos años, y ningún hijo.
 
@@ -26,7 +26,7 @@ Tilde la esperaba siempre debajo del mismo sauce. No había crecido. Los muertos
 
 Mira no sabía qué contestarle.
 
-* * *
+---
 
 Aldo la siguió una tarde de otoño.
 
@@ -40,7 +40,7 @@ Se calló. Se volvió.
 
 Aldo estaba de pie a diez pasos, entre las tumbas, con la cara blanca.
 
-* * *
+---
 
 No se dijeron nada en todo el camino de vuelta.
 
@@ -80,7 +80,7 @@ Mira se echó a llorar.
 
 —Pero tienes que dejar de ir —siguió Aldo—. Al cementerio. Por favor. Si yo te he seguido, cualquiera puede seguirte.
 
-* * *
+---
 
 Mira fue a ver a su madre esa misma noche.
 
@@ -122,7 +122,7 @@ Mira lloró otra vez. Su madre la dejó llorar.
 
 —Entonces al menos no estará sola debajo de un sauce esperando a una mujer que algún día se morirá también. —Nadia sonrió, una sonrisa cansada—. Los muertos no necesitan compañía, Mira. Necesitan que los dejemos marcharse. La compañía la necesitamos nosotros.
 
-* * *
+---
 
 Fue la última tarde de otoño. Aldo la acompañó, y se quedó a cincuenta pasos, junto a la verja del cementerio, de espaldas, vigilando el camino.
 
@@ -156,7 +156,7 @@ Sintió algo soltarse en el pecho. Como un nudo. Le sangró un poco la nariz.
 
 Cuando bajó la vista, debajo del sauce no había nadie.
 
-* * *
+---
 
 Mira se quedó embarazada aquel invierno.
 
@@ -168,7 +168,7 @@ Nunca supo si una cosa tenía que ver con la otra. Probablemente no. Las cosas c
 
 —¿Por qué Helen?
 
-Mira no contestó. No le dijo que era el nombre de la madre de Tilde. Que Tilde se lo había dicho una tarde, años atrás, entre las naranjas de Pisor y la cúpula de cristal: Mi madre se llamaba Helen. Era la más guapa del barrio. No se lo dijo porque sonaba a locura, y porque no quería que su hija cargara con un muerto en el nombre.
+Mira no contestó. No le dijo que era el nombre de la madre de Tilde. Que Tilde se lo había dicho una tarde, años atrás, entre las naranjas de Pisor y la cúpula de cristal: *Mi* *madre se llamaba Helen. Era la más guapa del barrio.* No se lo dijo porque sonaba a locura, y porque no quería que su hija cargara con un muerto en el nombre.
 
 Pero esa noche, a solas, inclinada sobre la cuna, le susurró a Helen otro nombre al oído. Uno secreto. Uno que le había enseñado su madre, que lo había traído del desierto.
 

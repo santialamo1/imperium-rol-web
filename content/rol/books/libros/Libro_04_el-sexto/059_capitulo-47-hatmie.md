@@ -1,6 +1,6 @@
-## Capítulo 47 · Hatmie
+# Capítulo 47 · Hatmie
 
-*Banderbill, la explanada del cuartel y la sala del Consejo. Del año 1395 al 1399 de la Nueva Era (788 a 792 D.bA).*
+*Banderbill, la explanada del cuartel y la sala del Consejo. Del año 1395 al 1399 de* *la Nueva Era (788 a 792 D.bA).*
 
 La idea del Parlamento fue de ella, y fue lo peor que hizo en ciento cuarenta y cinco años.
 
@@ -8,7 +8,7 @@ Lo supo después. Lo supo en el 1402, con la llave en la mano, delante de la pue
 
 Porque la Armada se gritaba en la calle.
 
-* * *
+---
 
 Empezó con las cintas.
 
@@ -18,7 +18,7 @@ Luego, que uno era de los que querían ir a Orac.
 
 A buscarlo.
 
-* * *
+---
 
 Hatmie no se ató ninguna cinta.
 
@@ -28,7 +28,7 @@ Los dos tenían razón.
 
 Eso era lo malo.
 
-* * *
+---
 
 En el 1393, en la explanada, uno de la cinta le rompió la nariz a uno sin cinta.
 
@@ -44,7 +44,7 @@ Hatmie la recogió a las seis. Con las dos manos. Y se quedó mucho rato de pie 
 
 Luego fue a ver a Lanther.
 
-* * *
+---
 
 —Que voten —dijo Hatmie.
 
@@ -70,7 +70,7 @@ Tenía mil trescientos ochenta y cinco años y la cara de dieciocho. En ciento c
 
 Lanther la miró.
 
-—La doncella abre y cierra una puerta —dijo—. Lo dices tú. Llevas ciento cuarenta años diciéndolo. Soy lo que hay mientras. —Se volvió hacia el sur—. Si les das siete sillas, Hatmie, van a querer saber mientras qué.
+—La doncella abre y cierra una puerta —dijo—. Lo dices tú. Llevas ciento cuarenta años diciéndolo. *Soy lo que hay mientras.* —Se volvió hacia el sur—. Si les das siete sillas, Hatmie, van a querer saber mientras qué.
 
 Hatmie no dijo nada.
 
@@ -80,7 +80,7 @@ No terminó.
 
 Hatmie sabía cómo terminaba.
 
-* * *
+---
 
 El Consejo de los diecinueve votó doce a siete. Los siete que votaron en contra dijeron que un Parlamento de soldados era el principio de una guerra. Los doce que votaron a favor dijeron que la guerra ya había empezado, en la calle, con cintas.
 
@@ -92,7 +92,7 @@ Cuatro con cinta. Tres sin cinta.
 
 Hatmie lo supo antes de que el escribano terminara de contar. Lo supo porque cuando se anunció el cuarto nombre con cinta, la explanada se quedó en silencio, la mitad, y la otra mitad gritó. Y el silencio de la mitad que no gritaba fue más fuerte que el grito.
 
-* * *
+---
 
 El Primer Parlamento duró diez meses.
 
@@ -106,9 +106,9 @@ Hablaron de los ascensos. Tardaron tres meses. Se pusieron de acuerdo.
 
 En el octavo mes, el sargento de Tiama, que llevaba cinta, puso encima de la mesa un papel.
 
-*Propuesta. Que la Armada organice una expedición a Orac para averiguar si el Supremo Comandante Baervan está vivo, y en ese caso, rescatarlo.*
+*Propuesta. Que la Armada organice una expedición a Orac para averiguar si el* *Supremo Comandante Baervan está vivo, y en ese caso, rescatarlo.*
 
-* * *
+---
 
 Votaron en el décimo mes.
 
@@ -124,7 +124,7 @@ Al fondo. De pie.
 
 —Doncella —dijo el sargento de Tiama—. Se ha votado. ¿Se cumple?
 
-* * *
+---
 
 Hatmie no contestó.
 
@@ -132,7 +132,7 @@ Tenía la llave en el pecho. Fría. El cinturón de plata atado con la cuerda. L
 
 *No abras esa puerta hasta que yo te lo diga.*
 
-Lo había dicho él. En la plaza. En el 1256. Con la cara de treinta y uno, con la espada rota, dándole el cinturón. No abras esa puerta hasta que yo te lo diga. Entonces no la abras nunca.
+Lo había dicho él. En la plaza. En el 1256. Con la cara de treinta y uno, con la espada rota, dándole el cinturón. *No abras esa puerta hasta que yo te lo diga. Entonces no* *la abras nunca.*
 
 No se refería a esta puerta.
 
@@ -152,7 +152,7 @@ Hatmie lo miró.
 
 —No partidos —dijo.
 
-* * *
+---
 
 El Primer Parlamento se disolvió esa semana.
 
@@ -166,7 +166,7 @@ Porque ahora había dos cintas.
 
 Y una era suya.
 
-* * *
+---
 
 El Segundo Parlamento se votó en el 1398.
 
@@ -184,7 +184,7 @@ Quedaron cuatro.
 
 Y los cuatro no se ponían de acuerdo en nada.
 
-* * *
+---
 
 Hatmie los escuchaba desde el fondo de la sala. De pie. Un lunes al mes.
 
@@ -194,13 +194,13 @@ Hablaron de la paga y no se pusieron de acuerdo. De las guardias y no se pusiero
 
 Hatmie, al fondo, de pie, pensaba en una casa vieja con la tienda tapada con tablas y un sótano con una masa madre.
 
-Pensaba que en cuatro meses de gritos, nadie había dicho una sola vez la palabra pan.
+Pensaba que en cuatro meses de gritos, nadie había dicho una sola vez la palabra *pan*.
 
 Y que eso era bueno.
 
 Y que eso era lo único bueno.
 
-* * *
+---
 
 En el invierno del 1399, Hatmie bajó a la explanada a ver la instrucción.
 
@@ -256,11 +256,11 @@ El soldado tardó en contestar.
 
 —Yo no quiero que me miren, doncella —dijo—. Pero no me importaría.
 
-* * *
+---
 
 Hatmie se fue de la explanada sin decir nada más.
 
-Subió al muro. A la tercera almena. Lanther no estaba; era por la mañana. Se sentó sola, con las piernas colgando, y escuchó el tum.
+Subió al muro. A la tercera almena. Lanther no estaba; era por la mañana. Se sentó sola, con las piernas colgando, y escuchó el *tum*.
 
 Contó.
 
@@ -280,7 +280,7 @@ No sabía por qué lo pensó.
 
 Lo pensó.
 
-* * *
+---
 
 Esa noche bajó al sótano de la casa vieja. Había reunión.
 

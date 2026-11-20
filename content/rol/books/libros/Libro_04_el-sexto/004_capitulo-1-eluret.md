@@ -1,10 +1,10 @@
-## Capítulo 1 · Eluret
+# Capítulo 1 · Eluret
 
-*Las cuadras del palacio y el barrio élfico de Banderbill. Verano del año 968 de la Nueva Era (361 D.bA).*
+*Las cuadras del palacio y el barrio élfico de Banderbill. Verano del año 968 de la* *Nueva Era (361 D.bA).*
 
 El caballo se llamaba Tuerto y no era tuerto.
 
-Eso fue lo primero que Eluret le enseñó a Astragal, el verano en que los dos tenían seis años y Astragal bajó a las cuadras por primera vez, escapado de una lección de genealogía, con un libro debajo del brazo que pesaba más que él. Tuerto era el caballo de tiro más viejo del palacio, un percherón gris de patas peludas que había arrastrado la carroza del Emperador Astral en su boda y en su entierro, y que ya solo arrastraba el carro del estiércol. Le habían puesto Tuerto porque de potro se había clavado una astilla cerca del ojo izquierdo y durante un mes había ido con un parche. Luego se le curó. El nombre se quedó.
+Eso fue lo primero que Eluret le enseñó a Astragal, el verano en que Eluret tenía seis años y Astragal ocho y bajó a las cuadras por primera vez, escapado de una lección de genealogía, con un libro debajo del brazo que pesaba más que él. Tuerto era el caballo de tiro más viejo del palacio, un percherón gris de patas peludas que había arrastrado la carroza del Emperador Astral en su boda y en su entierro, y que ya solo arrastraba el carro del estiércol. Le habían puesto Tuerto porque de potro se había clavado una astilla cerca del ojo izquierdo y durante un mes había ido con un parche. Luego se le curó. El nombre se quedó.
 
 —Las cosas se quedan con el nombre de lo que les pasó una vez —le había dicho Eluret, con seis años, muy serio, porque se lo había oído a su padre—. Aunque ya no les pase.
 
@@ -12,7 +12,7 @@ Astragal había apuntado eso en el margen del libro de genealogía. Con un carbo
 
 Desde ese día, se llamaron amigos.
 
-* * *
+---
 
 Seis años después, la mañana siguiente a la noche de la almena, Tuerto seguía allí, en el último establo, más viejo, más gris, con los ojos lechosos y el labio de abajo colgando, y Eluret le estaba cepillando las crines con un cepillo de raíces cuando Astragal entró en la cuadra descalzo y con la chaqueta mal abrochada.
 
@@ -28,7 +28,7 @@ Astragal se sentó en un fardo de paja. Se quedó mirando el caballo.
 
 —Ah.
 
-Eluret no sabía qué era el frasco. Lo había visto la noche anterior, en la almena: una cosa pequeña, de cristal, con una gota dentro que no se movía. Había dicho es sangre sin pensarlo, porque era lo que parecía, y la pelirroja lo había mirado de una forma que no se le había olvidado en toda la noche. No con enfado. Con algo peor. Como se mira a alguien que ha dicho en voz alta una cosa que todos sabían y que nadie decía.
+Eluret no sabía qué era el frasco. Lo había visto la noche anterior, en la almena: una cosa pequeña, de cristal, con una gota dentro que no se movía. Había dicho *es sangre* sin pensarlo, porque era lo que parecía, y la pelirroja lo había mirado de una forma que no se le había olvidado en toda la noche. No con enfado. Con algo peor. Como se mira a alguien que ha dicho en voz alta una cosa que todos sabían y que nadie decía.
 
 —¿Qué era? —preguntó.
 
@@ -60,7 +60,7 @@ Astragal no contestó. Miró al caballo. El caballo lo miró a él, con los ojos
 
 —Ya lo sé —dijo Astragal—. Por eso me lo han dado.
 
-* * *
+---
 
 Esa tarde, la madre de Eluret le cortó el pelo.
 
@@ -124,11 +124,11 @@ Ithwen lo miró mucho rato.
 
 —Es verdad —dijo.
 
-* * *
+---
 
 Eluret no durmió esa noche.
 
-Se quedó tumbado en el jergón del cuarto de atrás, con los ojos abiertos, oyendo la parra rozar la ventana y el tum del muro, uno y otro, que en el barrio élfico se oía más que en otros sitios porque el barrio estaba pegado a la muralla. Todos los niños de Banderbill crecían oyéndolo. Nadie le hacía caso. Su madre decía que los elfos viejos sí le hacían caso, que había un elfo en el barrio, uno que llevaba ochocientos años sin salir de casa, que contaba los golpes cada noche y los apuntaba en la pared, y que la pared estaba llena de rayas, y que cuando muriera alguien tendría que contarlas.
+Se quedó tumbado en el jergón del cuarto de atrás, con los ojos abiertos, oyendo la parra rozar la ventana y el *tum* del muro, uno y otro, que en el barrio élfico se oía más que en otros sitios porque el barrio estaba pegado a la muralla. Todos los niños de Banderbill crecían oyéndolo. Nadie le hacía caso. Su madre decía que los elfos viejos sí le hacían caso, que había un elfo en el barrio, uno que llevaba ochocientos años sin salir de casa, que contaba los golpes cada noche y los apuntaba en la pared, y que la pared estaba llena de rayas, y que cuando muriera alguien tendría que contarlas.
 
 Eluret pensó en Gal, solo, sin hermanos.
 
@@ -186,7 +186,7 @@ Ithwen sonrió. Por primera vez en toda la conversación.
 
 —Ya lo sé —dijo—. Tenía que pedirlo.
 
-* * *
+---
 
 El cuartel de caballería estaba en la ladera sur de la colina, al lado del camino del puerto, y el sargento que apuntaba a los pajes era un Hask, como casi todos los sargentos de la Armada. Se llamaba Rolan Hask. Tenía cincuenta años, una cicatriz que le partía la ceja derecha y una forma de mirar a los niños como si fueran caballos que le iban a vender.
 
@@ -210,13 +210,13 @@ Miró a Eluret de arriba abajo. Se fijó en el cinturón. Se fijó en las orejas
 
 —¿Por qué quieres entrar?
 
-Eluret había preparado la respuesta toda la noche. Una respuesta buena, de soldado, con palabras como Imperio y honor y servir. La tenía en la punta de la lengua.
+Eluret había preparado la respuesta toda la noche. Una respuesta buena, de soldado, con palabras como *Imperio* y *honor* y *servir*. La tenía en la punta de la lengua.
 
 No la dijo.
 
 —Por un amigo —dijo.
 
-El sargento lo miró un momento más. Luego mojó la pluma en el tintero y escribió en el libro grande: Eluret, hijo de Doren. Paje. Caballería.
+El sargento lo miró un momento más. Luego mojó la pluma en el tintero y escribió en el libro grande: *Eluret, hijo de Doren. Paje. Caballería.*
 
 —En la Armada —dijo, sin levantar la vista— los que entran por el Imperio se cansan a los cinco años. Los que entran por honor, a los diez. Los que entran por un amigo no se cansan nunca. Lo malo es que se mueren antes.
 
@@ -232,7 +232,7 @@ Rolan Hask se rio. Fue una risa corta, de tos, que no se esperaba. Le dio a Elur
 
 —Mañana al alba. Con ese cinturón, que me gusta. Y córtate el pelo de los lados, que aquí no se esconde nada.
 
-* * *
+---
 
 Esa tarde, Eluret fue a las cuadras de palacio a decírselo a Gal.
 
@@ -304,7 +304,7 @@ Astragal asintió. Se quedó mirando a Tuerto.
 
 —Porque alguien tiene que quedarse a contarlo. Y la pelirroja no cuenta nada.
 
-* * *
+---
 
 Al alba del día siguiente, Eluret, hijo de Doren, paje de caballería, se presentó en el cuartel de la ladera sur con el pelo de los lados cortado al rape, las orejas a la vista y un cinturón de plata élfica con un agujero nuevo.
 

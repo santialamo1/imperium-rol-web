@@ -1,6 +1,6 @@
-## Capítulo 65 · Tibbet Tornasol
+# Capítulo 65 · Tibbet Tornasol
 
-*Banderbill y el camino del oeste. Años 329 a 331 de la Nueva Era.*
+*Banderbill y el camino del sur. Años 329 a 331 de la Nueva Era.*
 
 *De la Crónica de Tomas Vell, año 330. Cosechas buenas. Un puente nuevo en*
 
@@ -28,13 +28,13 @@ Sein levantó la vista, por fin. Lo miró por encima de las gafas. Mucho rato. C
 
 —¡Es completamente distinto!
 
-—Lo apunto. —Sein mojó la pluma y escribió, con su letra de niño, en la columna del haber: Un sombrero. El veintinueve. Verde. Igual que el veintiocho.
+—Lo apunto. —Sein mojó la pluma y escribió, con su letra de niño, en la columna del haber: *Un sombrero. El veintinueve. Verde. Igual que el veintiocho.*
 
 —Eso último no lo pongas.
 
 —Ya está puesto.
 
-* * *
+---
 
 Tibbet tenía doscientos setenta y siete años, la cara de uno de ciento cuatro y la nariz más grande del barrio del puerto, con la verruga en la punta, de la que estaba muy orgulloso. Olía las cosas. Todos los gnomos olían las cosas, pero Tibbet olía más, o eso decía él, y nadie se lo discutía porque discutir con un gnomo sobre narices era como discutir con un enano sobre piedras: perdías, y además te lo explicaban.
 
@@ -44,7 +44,7 @@ Y olía el oeste.
 
 Eso era nuevo. Eso no se lo había contado a nadie.
 
-* * *
+---
 
 Empezó en la tienda de lámparas.
 
@@ -74,19 +74,19 @@ Olía a sal. A huevo podrido, muy lejos, por debajo. A cueva. Y a otra cosa, al 
 
 Olía a alguien que tenía hambre.
 
-* * *
+---
 
 —Los gnomos venden lámparas desde que llegaron —dijo Sein.
 
 —Ya lo sé.
 
-—Y pólvora. Corin lo contó durante treinta y un años. —Sein abrió el cajón aparte, el de las cartas de Nueva Esperanza, sin firma, con un palote, que empezaban todas igual: Hoy no la he tocado—. Mercaderes del oeste. Que pagaban en hierro. Que no decían de dónde venían. Lo contó todo. Barril a barril. Y no pasó nada.
+—Y pólvora. Corin lo contó durante treinta y un años. —Sein abrió el cajón aparte, el de las cartas de Nueva Esperanza, sin firma, con un palote, que empezaban todas igual: *Hoy no la he tocado*—. Mercaderes del oeste. Que pagaban en hierro. Que no decían de dónde venían. Lo contó todo. Barril a barril. Y no pasó nada.
 
 —Corin se murió en el doscientos noventa y cinco.
 
 —Y no pasó nada.
 
-—Las cartas de Corin —dijo Tibbet— dejan de hablar de mercaderes del oeste en el doscientos noventa. Las he leído. Anoche. Todas. —Se subió a la silla—. Cinco años antes de morirse. Dejaron de venir. De golpe. Como si alguien hubiera dicho ya está, de momento. Y ahora vuelven.
+—Las cartas de Corin —dijo Tibbet— dejan de hablar de mercaderes del oeste en el doscientos noventa. Las he leído. Anoche. Todas. —Se subió a la silla—. Cinco años antes de morirse. Dejaron de venir. De golpe. Como si alguien hubiera dicho *ya está, de* *momento*. Y ahora vuelven.
 
 Sein se quitó las gafas. Las limpió.
 
@@ -94,7 +94,7 @@ Sein se quitó las gafas. Las limpió.
 
 —Sí.
 
-—Las sospechas no van en el debe. El debe es lo que pasó. —Se las volvió a poner —. Si apunto sospechas, el libro se llena en un año, y entonces no sirve. Lo dejó dicho Casimir: se apunta lo que se paga.
+—Las sospechas no van en el debe. El debe es lo que pasó. —Se las volvió a poner —. Si apunto sospechas, el libro se llena en un año, y entonces no sirve. Lo dejó dicho Casimir: *se apunta lo que se paga*.
 
 —Casimir también dijo que lo peor son los años sin nada.
 
@@ -108,7 +108,7 @@ La pluma goteó. Una gota. En el margen. No en la columna.
 
 —Tráeme algo que haya pasado —dijo Sein—. Y lo apunto.
 
-* * *
+---
 
 A Tibbet no le gustaba enfadarse con Sein. Le daba pereza. Sein no se enfadaba nunca; se ponía las gafas, y escuchaba, y luego decía una cosa razonable con voz de contable, y uno se quedaba con el enfado en la mano como quien se queda con un vaso vacío en una fiesta, sin saber dónde dejarlo.
 
@@ -124,7 +124,7 @@ Lo miró. Le pareció poco. Le pareció una tontería. Un gnomo de doscientos se
 
 Luego dejó de reírse. Porque el lingote, que se había llevado de la tienda de Fizzela y había dejado encima de la mesa, seguía oliendo.
 
-* * *
+---
 
 En primavera volvió el comprador.
 
@@ -146,17 +146,17 @@ El hombre estaba contento. Eso fue lo que más asustó a Tibbet. Estaba contento
 
 Subió al carro silbando.
 
-* * *
+---
 
 Lo siguió.
 
-Un gnomo de doscientos setenta y siete años, con un sombrero verde de copa alta, en una mula vieja que se llamaba Higo, siguiendo un carro de lámparas por el camino del oeste. No fue discreto. No sabía serlo. Los gnomos no se esconden; se ríen de los que se esconden. Pero el hombre del carro no se volvió ni una vez en tres días, y Tibbet pensó, al tercero, que a lo mejor no se volvía porque no le hacía falta.
+Un gnomo de doscientos setenta y siete años, con un sombrero verde de copa alta, en una mula vieja que se llamaba Higo, siguiendo un carro de lámparas por el camino del sur. No fue discreto. No sabía serlo. Los gnomos no se esconden; se ríen de los que se esconden. Pero el hombre del carro no se volvió ni una vez en tres días, y Tibbet pensó, al tercero, que a lo mejor no se volvía porque no le hacía falta.
 
 Pasaron por Ullathorpe, con su mercado de los jueves y su árbol torcido en el patio del fuerte. Pasaron por el Fuerte Novel, donde los soldados del Imperio jugaban a los dados en la muralla y le pidieron los papeles a Tibbet y se rieron de su sombrero. Pasaron los vados.
 
 Al cuarto día, el camino se puso rojo.
 
-* * *
+---
 
 En el vado de la losa vieja, al pie del primer monte rojo, había un enano sentado en una piedra.
 
@@ -164,7 +164,7 @@ Tibbet lo reconoció por la barba antes que por la cara. Gris, hasta el cinturó
 
 —Kildo —dijo Tibbet. Bajito. Bajándose de la mula.
 
-—Piedra —dijo Kildo. Sin volverse.
+—*Piedra* —dijo Kildo. Sin volverse.
 
 —¿Qué haces aquí?
 
@@ -176,7 +176,7 @@ Tibbet miró. Una roca. Roja. Como todas las de allí.
 
 Kildo tardó. Mucho. Tibbet se sentó a su lado, en la piedra, y sacó higos de la bolsa, y le dio uno. Kildo se lo comió entero, con el rabo.
 
-—Hace ciento doce años que paso por aquí —dijo al fin—. En cada viaje a la colina. Me lo pidió la chica del pelo cobrizo, en tu tienda, el año de la corona. Escúchala. No te acerques. Y si cambia, avisa. Y la escucho. Ciento doce años. Siempre igual. Como una colmena con un golpe.
+—Hace ciento doce años que paso por aquí —dijo al fin—. En cada viaje a la colina. Me lo pidió la chica del pelo cobrizo, en tu tienda, el año de la corona. *Escúchala.* *No te acerques. Y si cambia, avisa.* Y la escucho. Ciento doce años. Siempre igual. Como una colmena con un golpe.
 
 —¿Y ahora?
 
@@ -190,7 +190,7 @@ Tibbet dejó de comer.
 
 —Desde el otoño. —Kildo lo miró por primera vez—. Desde el mismo otoño que tu nariz, gnomo. Lo veo en tu cara. Tú también lo has olido.
 
-* * *
+---
 
 El carro de las lámparas pasó por delante de ellos mientras hablaban. El hombre los saludó con la mano, desde el pescante, amable, contento, y siguió. Hacia el oeste. Hacia donde el camino se metía entre los montes rojos y se perdía.
 
@@ -208,16 +208,13 @@ Pensó en el hombre del carro. Contento. Silbando. Con un olor a abrazo encima q
 
 Pensó en Lanther, en el norte, sin escribir. En Sein, en la mesa del fondo, con el debe en blanco. En Wenna, en el Mercado, que tenía doscientos setenta y ocho años y decía que estaba gorda. En el pequeño Lindiel, de ocho años, el nieto de Niestrel, que le había escrito un poema a su sombrero la semana anterior y se lo había leído en la escalera del palacio, de pie en un escalón para estar a su altura, muy serio:
 
-*El gnomo lleva una higuera*  
-*y la higuera lleva al gnomo.*  
-*Cuando el gnomo se va a casa*  
-*no se sabe quién va a lomos.*
+*El gnomo lleva una higuera* *y la higuera lleva al gnomo.* *Cuando el gnomo se va a casa* *no se sabe quién va a lomos.*
 
 Tibbet se había reído tanto que se había caído del escalón. El niño también. Se habían reído los dos en el suelo, debajo de la escalera, hasta que había llegado el aya.
 
 —Está bien —dijo. Y se levantó—. No lo sigo.
 
-* * *
+---
 
 Volvieron juntos a la colina. Kildo no tenía por qué volver; iba de camino a las montañas grises. Pero dio la vuelta con Tibbet sin decir nada, en su poni de patas cortas, al lado de Higo, y Tibbet se lo agradeció sin decir nada tampoco, que entre un gnomo y un enano es la manera más larga de dar las gracias.
 
@@ -235,7 +232,7 @@ No todo. Lo que se podía. Lo de los papeles de los viernes. Lo de los tres que 
 
 —¿A quién? —Kildo lo miró—. Nadie me preguntó.
 
-* * *
+---
 
 Lo convocaron en el sótano de la biblioteca. Alrededor del arcón de pino con el palote.
 
@@ -267,7 +264,7 @@ Cuando terminaron, hubo un silencio.
 
 —¿Quién?
 
-—Nadie. Un cuento. El hombre de sal. Si no te comes la sopa, viene el hombre de sal y te tira del nombre. —Wenna se encogió de hombros—. Lo cuentan desde siempre. Desde antes de que yo llegara al Mercado. No hay nadie.
+—Nadie. Un cuento. El hombre de sal. *Si no te comes la sopa, viene el hombre de* *sal y te tira del nombre.* —Wenna se encogió de hombros—. Lo cuentan desde siempre. Desde antes de que yo llegara al Mercado. No hay nadie.
 
 —¿Y la roca? —preguntó Kildo. Desde el barril.
 
@@ -291,7 +288,7 @@ Nadie dijo nada.
 
 —Sí —dijo Sein—. Y lleva ciento setenta y cuatro años funcionando.
 
-* * *
+---
 
 Wenna se fue al día siguiente, en el carro, quejándose de las mulas. Kildo se fue a las montañas grises, en su poni, sin despedirse, que entre los enanos es despedirse mucho.
 
@@ -303,31 +300,31 @@ Antes de irse, le dejó a Tibbet una piedra. Pequeña. Gris. Redonda. En la mesa
 
 —Ya lo veo.
 
-—No. —Kildo la tocó con un dedo—. Es una piedra que no tararea. Para que te acuerdes de cómo suenan. Ponla al lado del hierro y escucha.
+—No. —Kildo la tocó con un dedo—. Es una piedra *que no tararea*. Para que te acuerdes de cómo suenan. Ponla al lado del hierro y escucha.
 
 Tibbet no oía las piedras. Pero esa noche, solo en la cocina, con la vela, las miró las dos un rato largo. La gris y la roja. Una al lado de la otra.
 
 Y le pareció, aunque no podía ser, que la gris se había apartado un poco.
 
-* * *
+---
 
 Sein no apuntó nada en el debe. Ni ese año ni los siguientes.
 
-Tibbet no se lo reprochó. Lo entendía. Lo entendía de verdad, que era lo peor. Sein llevaba trescientos años apuntando lo que pasaba, y lo que pasaba le había costado mucho, cada línea, cada nombre, cada lo propuse yo. Un hombre así no apunta sospechas. Un hombre así espera a que le duela.
+Tibbet no se lo reprochó. Lo entendía. Lo entendía de verdad, que era lo peor. Sein llevaba trescientos años apuntando lo que pasaba, y lo que pasaba le había costado mucho, cada línea, cada nombre, cada *lo propuse yo*. Un hombre así no apunta sospechas. Un hombre así espera a que le duela.
 
-Así que Tibbet siguió con su lista. En el sombrero. Dos. Doscientas lámparas más. Doce barriles. Un hombre contento que no se vuelve.
+Así que Tibbet siguió con su lista. En el sombrero. *Dos. Doscientas lámparas más. Doce barriles. Un hombre contento que no se vuelve.*
 
 *Tres. Una roca que tararea. Lo dice Kildo. Kildo no exagera; no sabe.*
 
-*Cuatro. Los tramperos del Mercado cuentan un cuento de un hombre de sal que tira del nombre. Desde siempre, dice Wenna. Wenna lleva en el Mercado más de doscientos años. «Desde siempre» es mucho.*
+*Cuatro. Los tramperos del Mercado cuentan un cuento de un hombre de sal que* *tira del nombre. Desde siempre, dice Wenna. Wenna lleva en el Mercado más de* *doscientos años. «Desde siempre» es mucho.*
 
-*Cinco. Una piedra gris se aparta de un hierro rojo encima de mi mesa. Esto no lo digo a nadie. Se reirían. Yo también.*
+*Cinco. Una piedra gris se aparta de un hierro rojo encima de mi mesa. Esto no lo* *digo a nadie. Se reirían. Yo también.*
 
 Y al final de la página, con la letra más pequeña, porque no estaba seguro de querer escribirlo:
 
 *Seis. Sein ya no se ríe tanto cuando le enseño el sombrero.*
 
-* * *
+---
 
 En el año trescientos treinta y uno, el comprador no volvió.
 
@@ -335,7 +332,7 @@ Fizzela lo esperó toda la primavera, con las estanterías llenas. No vino. Vend
 
 Tibbet compró cuatro. Por ayudarla.
 
-Y en su lista, en el sombrero, escribió: Siete. El hombre no vuelve. Ya tiene lo que quería. O ya no hace falta que venga.
+Y en su lista, en el sombrero, escribió: *Siete. El hombre no vuelve. Ya tiene lo que quería. O ya no hace falta que venga.*
 
 Lo miró mucho rato. A la luz de una de las lámparas nuevas, blanca y tranquila, como los ojos de un gato.
 
@@ -353,6 +350,6 @@ Y no se rió. Tibbet lo notó. Lo olió. Un olor nuevo, pequeño, como de vela q
 
 —Ya —dijo Tibbet.
 
-Y se bajó de la silla. Y se fue a casa. Y no le dijo a nadie, durante trece años, lo que llevaba en el sombrero. Hasta una tarde de primavera del año trescientos cuarenta y cuatro en que Sein, en la mesa del fondo, le enseñaría el debe vacío desde el año trescientos tres, y diría eso es imposible, y Tibbet, con el sombrero treinta y uno puesto y la lista del veintinueve cosida por dentro, le preguntaría lo único que le quedaba por preguntar:
+Y se bajó de la silla. Y se fue a casa. Y no le dijo a nadie, durante trece años, lo que llevaba en el sombrero. Hasta una tarde de primavera del año trescientos cuarenta y cuatro en que Sein, en la mesa del fondo, le enseñaría el debe vacío desde el año trescientos tres, y diría *eso es imposible*, y Tibbet, con el sombrero treinta y uno puesto y la lista del veintinueve cosida por dentro, le preguntaría lo único que le quedaba por preguntar:
 
 *¿Quién lo apunta?*

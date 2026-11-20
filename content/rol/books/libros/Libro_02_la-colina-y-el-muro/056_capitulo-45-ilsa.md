@@ -1,4 +1,4 @@
-## Capítulo 45 · Ilsa
+# Capítulo 45 · Ilsa
 
 *El valle negro. Años 90 a 95 de la Nueva Era.*
 
@@ -16,7 +16,7 @@ Ilsa lo sabía desde siempre. Llevaba sesenta y dos años en el valle. Sabía qu
 
 Los tramperos no lo sabían. Los tramperos vieron humo en el valle negro desde las cumbres, en mitad de una helada que les estaba matando los dedos de los pies, y bajaron.
 
-* * *
+---
 
 Eran tres. Barbudos, sucios, con pieles de zorro y de marta atadas a la espalda, con los ojos rojos de la nieve. Bajaron por el paso del norte, el de la garganta entre los dos picos, el mismo por el que bajó Ilsa con doce años y veinte niños detrás. Se detuvieron en lo alto, al ver el valle.
 
@@ -24,7 +24,7 @@ Lo negro. Lo liso. El agujero en el centro.
 
 Las veintidós.
 
-Ilsa los oyó dudar. Los oyó desde la cabaña, a media legua: tres corazones que se paraban un instante y luego echaban a correr. Los oyó pensar en darse la vuelta. En las historias. Si las ves, no las mires. Si te miran, no te muevas. Si te tocan, ya eres de ellas.
+Ilsa los oyó dudar. Los oyó desde la cabaña, a media legua: tres corazones que se paraban un instante y luego echaban a correr. Los oyó pensar en darse la vuelta. En las historias. *Si las ves, no las mires. Si te miran, no te muevas. Si te tocan, ya eres de ellas.*
 
 Y los oyó pensar en el frío. En los dedos de los pies. En el humo.
 
@@ -36,7 +36,7 @@ Se detuvieron a veinte pasos. Como se detenía todo el mundo.
 
 —Hay sopa —dijo Ilsa.
 
-* * *
+---
 
 Se quedaron una semana. Hasta que pasó la helada.
 
@@ -64,7 +64,7 @@ Ilsa se lo pensó.
 
 —De guardia —dijo.
 
-* * *
+---
 
 Cuando se fueron, dejaron en la cabaña de los huéspedes tres pieles de marta.
 
@@ -76,7 +76,7 @@ Pero al año siguiente volvieron.
 
 Y trajeron a otros cinco.
 
-* * *
+---
 
 Al tercer año eran treinta. Tramperos, cazadores, pastores de las montañas negras, buscadores de vetas, gente de los pueblos pequeños de la costa norte que no iba nunca a Banderbill porque Banderbill estaba lejos y era grande y te miraban mal si olías a cabra. Bajaban en otoño, antes de las nieves, y en primavera, cuando se abría el paso. Traían lo que les sobraba: pieles, carne seca, miel silvestre, cuchillos de hueso, hierbas de la montaña. Se llevaban lo que les faltaba: sal, sobre todo. Y agua de la fuente en odres, porque decían que curaba los sabañones.
 
@@ -84,11 +84,11 @@ Y cambiaban entre ellos.
 
 Ilsa los veía desde la cabaña. Junto a la fuente. En el círculo de hierba verde. Un pastor que le daba a un trampero un queso a cambio de una piel de zorro. Un buscador de vetas que le daba a un cazador un cuchillo bueno a cambio de una semana de carne seca. Discutían. Regateaban. Se gritaban. Se reían.
 
-Nadie había decidido que aquello fuera un mercado. Nadie lo llamaba así. Era la fuente. Vamos a la fuente. Nos vemos en la fuente. Te lo cambio en la fuente.
+Nadie había decidido que aquello fuera un mercado. Nadie lo llamaba así. Era la fuente. *Vamos a la fuente.* *Nos vemos en la fuente.* *Te lo cambio en la fuente.*
 
 Pero era un mercado.
 
-* * *
+---
 
 El primer cuchillo se sacó el cuarto año. En primavera.
 
@@ -102,7 +102,7 @@ Y debajo, muy abajo, debajo de la fuente, debajo de las vetas de sal, debajo del
 
 Ilsa salió de la cabaña.
 
-* * *
+---
 
 Tenía setenta y nueve años. Andaba despacio, con un bastón de raíz de pino que le había hecho una de las Custodias. No corrió. No había corrido en treinta años.
 
@@ -142,11 +142,13 @@ No porque se lo dijera ella. No porque le diera miedo una vieja con un bastón. 
 
 —Lo dicen ellas —dijo Ilsa.
 
-* * *
+---
 
 Esa noche, en la cabaña grande, se reunieron las Custodias.
 
 Eran catorce. De las veinte niñas que bajaron con Ilsa el año veintiocho, quedaban cuatro, viejas, de setenta y tantos años. Las otras diez habían llegado después, a lo largo de los años, de una en una, solas, sin que nadie las mandara: muchachas de la colina, de los pueblos de la costa, de las aldeas del norte, que oían. Que oían a las montañas, o a los muertos, o a las piedras, y que no sabían qué hacer con ello, y que un día oían, además, una canción muy lejos, hacia el norte, y echaban a andar.
+
+Y no estaban solas. En las cabañas de más arriba vivían los que había echado de la colina Bhargaras VII el año veintisiete, los que oían. Habían llegado de uno en uno, siguiendo la misma canción. Se llamaban *Custodios*, como los de Concordia; y cada una de las catorce era una *Custodia*.
 
 La más joven había llegado hacía doce años. Se llamaba Wenna. Era de familia de Pisor. Tenía cuarenta y tres años, los ojos muy grandes y una manera de mirar a la gente como si les estuviera midiendo. Decía que de niña, en el mercado de Banderbill, había llamado bruja a una reina, y que la reina le había dicho que a las brujas les gustaban las coles.
 
@@ -162,7 +164,7 @@ Wenna miró a Ilsa.
 
 Ilsa estaba junto al fuego. Con el bastón en las rodillas. Con los ojos cerrados. Escuchando.
 
-—Una —dijo Ilsa—. Basta con una. Aquí no se levanta un arma. El que la levante, se va. Y no vuelve.
+—Una —dijo Ilsa—. Basta con una. *Aquí no se levanta un arma.* El que la levante, se va. Y no vuelve.
 
 —¿Y si no se va?
 
@@ -170,7 +172,7 @@ Ilsa abrió los ojos.
 
 —Se irá —dijo—. Ya lo habéis visto hoy.
 
-* * *
+---
 
 Pero Wenna tenía razón en otra cosa, y Ilsa lo supo esa misma noche, cuando las demás se fueron a dormir y ella se quedó junto al fuego.
 
@@ -178,11 +180,11 @@ No bastaba con no levantar armas. Había que saber quién tenía razón. Lo de l
 
 Hacía falta algo más. Algo que no fuera una vieja. Algo que no se muriera.
 
-Ilsa pensó en la colina. En el contable que se quedó sumando. En el niño de los palotes. Que conste. Constará.
+Ilsa pensó en la colina. En el contable que se quedó sumando. En el niño de los palotes. *Que conste. Constará.*
 
 Pensó en una balanza.
 
-* * *
+---
 
 La hizo un herrero que bajó aquel verano de las aldeas del este. Ilsa se la encargó a cambio de agua de la fuente para su mujer, que tenía las piernas mal. Era sencilla. Un brazo de hierro, una aguja en el medio, dos platos de cobre colgando de cadenas. La pusieron en el centro del círculo de hierba, en un poste de roble, a la altura de los ojos.
 
@@ -214,9 +216,9 @@ Wenna se quedó mirando la balanza.
 
 —Por eso la cuidas tú. Y no al revés.
 
-* * *
+---
 
-La llamaron la Fiel. No a la balanza; a la que la cuidaba. Fue cosa de los tramperos. Ve a ver a la Fiel. Que lo pese la Fiel. Lo que diga la Fiel. Wenna protestó al principio; le parecía un nombre de perro. Luego dejó de protestar.
+La llamaron *la Fiel*. No a la balanza; a la que la cuidaba. Fue cosa de los tramperos. *Ve a ver a la Fiel. Que lo pese la Fiel. Lo que diga la Fiel.* Wenna protestó al principio; le parecía un nombre de perro. Luego dejó de protestar.
 
 Y el mercado creció.
 
@@ -230,7 +232,7 @@ Y se cumplía.
 
 Porque cuando alguien la rompía —y la rompían, de vez en cuando, algún borracho, algún desesperado—, las veintidós giraban la cabeza. Y a la gente le temblaba la mano.
 
-* * *
+---
 
 Ilsa se murió el año noventa y cinco. A los setenta y nueve. En la cabaña, en primavera, con la ventana abierta y la fuente sonando fuera.
 
@@ -260,7 +262,7 @@ Y al subir, dejó caer algo. Un eco. Un resto. Una frase, con su voz de vieja, c
 
 *Que conste.*
 
-* * *
+---
 
 La enterraron en la ladera, al lado del agujero, a veinte pasos del borde. Donde se veía el fondo.
 

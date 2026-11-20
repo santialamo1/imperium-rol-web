@@ -1,10 +1,10 @@
-## Capítulo 11 · Mabel
+# Capítulo 11 · Mabel
 
 *La loma del espino y Banderbill. Primavera del año 585 de la Nueva Era.*
 
 A los ochenta y dos años, Mabel de la loma del espino tenía tres ovejas, una higuera que seguía sin dar higos, un saltamontes de hierro rojo colgado del cuello y una lista de nombres que no le había preguntado nadie.
 
-La lista no estaba escrita. Mabel no sabía escribir; había ido a la escuela de la colina un año, a los siete, y había aprendido las letras, y luego se le habían olvidado todas menos la eme, que era la de su nombre y la de su madre. La lista la llevaba en la cabeza. La repasaba por las noches, en la cama, cuando no podía dormir, que era casi siempre. Como se repasan las ovejas.
+La lista no estaba escrita. Mabel no sabía escribir; había ido a la escuela de la colina un año, a los siete, y había aprendido las letras, y luego se le habían olvidado todas menos la *eme*, que era la de su nombre y la de su madre. La lista la llevaba en la cabeza. La repasaba por las noches, en la cama, cuando no podía dormir, que era casi siempre. Como se repasan las ovejas.
 
 Su padre. Que bajó a la feria de la colina en el 530 con la lana y no volvió, y los de la feria dijeron que lo habían visto tomar el camino de la hondonada con un carro.
 
@@ -18,7 +18,7 @@ Ochenta y siete nombres.
 
 Mabel era la última pastora de las lomas que no se había ido.
 
-* * *
+---
 
 Grosh vino una noche de marzo.
 
@@ -28,15 +28,15 @@ Lo reconoció igual. En la puerta. Al abrir.
 
 Era un orco viejo. Muy viejo. Más que ella, de cuerpo; los orcos no duraban tanto como los humanos, y Grosh tenía ochenta y cuatro años y parecía que tuviera ciento cincuenta. Estaba encorvado, gris oscuro, casi negro, con los colmillos amarillos y rotos. Tenía los ojos amarillos, nublados. Tenía la tira de cuero en el cuello. Desatada. Como de niño.
 
-—La otra —dijo.
+—*La otra* —dijo.
 
 Mabel se tapó la boca.
 
-—La otra se murió hace sesenta años —dijo. Detrás de la mano.
+—*La otra* se murió hace sesenta años —dijo. Detrás de la mano.
 
 —Ya. —Grosh sonrió. Le faltaban dientes—. Las ovejas se mueren. Los nombres tontos no.
 
-* * *
+---
 
 Lo hizo pasar. Lo sentó junto al fuego. Le dio leche caliente, que era lo único que tenía. Grosh la bebió despacio, con las dos manos, como bebían los niños de la hondonada.
 
@@ -62,11 +62,11 @@ Mabel no entendía nada. Pero escuchaba. Lo escuchaba como lo había escuchado d
 
 —¿Y qué esperan? —dijo.
 
-* * *
+---
 
 Grosh se quedó callado mucho tiempo.
 
-—Toda la vida me lo he preguntado —dijo al fin—. Desde que te lo dije. En la vaguada. Se espera y ya está. Mi abuelo no lo sabía. Mi madre no lo sabía. Yo bajé a las minas a los quince años y piqué setenta años con bronce y cantando y no lo sabía. —Se tocó la tira del cuello—. Ahora lo sé. Lo he oído. Hace un mes. En la sala grande. Hablaba el Señor.
+—Toda la vida me lo he preguntado —dijo al fin—. Desde que te lo dije. En la vaguada. *Se espera y ya está.* Mi abuelo no lo sabía. Mi madre no lo sabía. Yo bajé a las minas a los quince años y piqué setenta años con bronce y cantando y no lo sabía. —Se tocó la tira del cuello—. Ahora lo sé. Lo he oído. Hace un mes. En la sala grande. Hablaba el Señor.
 
 —¿Quién es el Señor?
 
@@ -76,17 +76,17 @@ Grosh se quedó callado mucho tiempo.
 
 —Que la colina se olvide de mirar.
 
-* * *
+---
 
 Mabel no dijo nada.
 
-—Eso es lo que esperamos —siguió Grosh—. Que los de arriba se olviden. Que dejen de mirar arriba. Que se les olvide la palabra. Que vengan a las minas y coman pan y regalen los perros. Que cuando miren al sur, vean un mercado. Que cuando vean una muralla, digan pastores. —Le temblaba la voz—. Dijo que no hacía falta atacar. Que las ciudades no se toman, se compran. Que la colina ya es medio suya. Que cuando sea entera, cuando nadie mire arriba, abrirá la puerta él mismo. Desde dentro.
+—Eso es lo que esperamos —siguió Grosh—. Que los de arriba se olviden. Que dejen de mirar arriba. Que se les olvide la palabra. Que vengan a las minas y coman pan y regalen los perros. Que cuando miren al sur, vean un mercado. Que cuando vean una muralla, digan *pastores*. —Le temblaba la voz—. Dijo que no hacía falta atacar. Que las ciudades no se toman, se compran. Que la colina ya es medio suya. Que cuando sea entera, cuando nadie mire arriba, abrirá la puerta él mismo. Desde dentro.
 
 —¿Y si no se olvidan?
 
 —Entonces irán a por la colina. —Grosh la miró—. Con todo. Con los treinta mil. Con los blancos. Por debajo. Por los túneles. Hasta debajo de la colina, donde hay una raíz más vieja que todas. —Tosió otra vez, largo—. Dijo eso también. Que lo que quiere de verdad está debajo de la colina. Que la colina está encima de algo. Que la hondonada es la boca, y la colina es el estómago.
 
-* * *
+---
 
 Al alba, Grosh se murió.
 
@@ -110,7 +110,7 @@ Sin miedo. Sin temblar.
 
 Y se fue.
 
-* * *
+---
 
 Mabel lo enterró ella sola, esa mañana, debajo de la higuera, con la azada de su padre. Tardó todo el día. Tenía ochenta y dos años y la tierra estaba dura.
 
@@ -118,7 +118,7 @@ Al atardecer, cuando terminó, se lavó las manos en el pilón. Se puso la capa 
 
 Y echó a andar hacia la colina.
 
-* * *
+---
 
 Tardó tres días. Lo que una mujer joven habría hecho en una mañana.
 
@@ -158,7 +158,7 @@ El muchacho se quedó un momento callado.
 
 —No he cargado nunca, abuela —dijo.
 
-* * *
+---
 
 La dejaron pasar. Para que no armara jaleo.
 
@@ -172,7 +172,7 @@ Mabel la miró. La dejó en el banco de piedra.
 
 Y se fue.
 
-* * *
+---
 
 Ya era de noche cuando llegó a la biblioteca. No sabía por qué había ido allí. Le habían dicho, en la plaza, que en la biblioteca había un hombre que apuntaba cosas.
 
@@ -204,15 +204,15 @@ El gnomo asintió. Como si fuera lo más normal del mundo.
 
 —Pues venga —dijo—. Hay sopa.
 
-* * *
+---
 
-La llevó a una posada. El Tonel, en la calle de abajo de la biblioteca, que tenía chimenea y una dueña de los fiordos que no hacía preguntas. Le pidió sopa, pan, una manta y un cuarto. Pagó en plata, no en hierro. Se sentó enfrente de ella, al lado del fuego, con una libreta y un lápiz de grafito que no se gastaba.
+La llevó a una posada. *El Tonel*, en la calle de abajo de la biblioteca, que tenía chimenea y una dueña de los fiordos que no hacía preguntas. Le pidió sopa, pan, una manta y un cuarto. Pagó en plata, no en hierro. Se sentó enfrente de ella, al lado del fuego, con una libreta y un lápiz de grafito que no se gastaba.
 
 —Me llamo Tibbet —dijo—. Tibbet Tornasol. El del sombrero. Sí, es horrible. Es el sesenta y nueve. Cuénteme.
 
 Mabel le contó.
 
-Todo. Desde el principio. Desde los lingotes de hierro en la mesa de su padre, en el 512. Desde la otra. Desde Grosh y la nube. Desde los mojones rojos y el muro y las bocas de mina y el resplandor. Desde las ovejas que se iban solas en fila. Desde la patrulla del 563 y el muchacho de la capa azul que no miró arriba. Le contó lo de Grosh, de esa semana. Los túneles. Los treinta mil. Los blancos. El general con el arpa. Que la colina se olvide de mirar. La hondonada es la boca, y la colina es el estómago.
+Todo. Desde el principio. Desde los lingotes de hierro en la mesa de su padre, en el 512. Desde *la otra*. Desde Grosh y la nube. Desde los mojones rojos y el muro y las bocas de mina y el resplandor. Desde las ovejas que se iban solas en fila. Desde la patrulla del 563 y el muchacho de la capa azul que no miró arriba. Le contó lo de Grosh, de esa semana. Los túneles. Los treinta mil. Los blancos. El general con el arpa. *Que la colina se* *olvide de mirar.* *La hondonada es la boca, y la colina es el estómago.*
 
 Tibbet lo apuntaba todo. Sin interrumpir. Con el lápiz volando. Llenó dieciséis páginas.
 
@@ -234,7 +234,7 @@ Mabel lo miró.
 
 Mabel cerró los ojos.
 
-* * *
+---
 
 Esa noche se puso mala. Fiebre. Tos. Las piernas negras. La dueña de los fiordos llamó a un médico, que vino, que la miró y que le dijo a Tibbet, en la puerta, en voz baja, que era el corazón, y la edad, y el camino, y que no pasaría de la mañana.
 
@@ -262,7 +262,7 @@ Tibbet lo apuntó.
 
 —¿Y el segundo?
 
-* * *
+---
 
 Fueron ochenta y siete.
 
@@ -272,13 +272,13 @@ El ochenta y siete fue Grosh.
 
 —No se fue —dijo Mabel—. Vino. Pero apúntalo. Que conste.
 
-Tibbet levantó la vista. Un gnomo, en una posada, a las cinco de la madrugada, oyendo a una pastora de las lomas decir que conste.
+Tibbet levantó la vista. Un gnomo, en una posada, a las cinco de la madrugada, oyendo a una pastora de las lomas decir *que conste*.
 
 —Que conste —dijo.
 
-Y lo apuntó. Grosh, orco, de la hondonada. Volvió.
+Y lo apuntó. *Grosh, orco, de la hondonada. Volvió.*
 
-* * *
+---
 
 Mabel se murió al amanecer.
 
@@ -296,9 +296,9 @@ Mabel miró arriba. Por la ventana. Al cielo de la colina.
 
 Y ya no dijo nada más.
 
-* * *
+---
 
-Tibbet la enterró en el cementerio de la ladera este. Pagó él. Le puso una piedra con su nombre. Mabel de la loma del espino. Y debajo, porque no sabía qué poner y porque se lo había oído decir:
+Tibbet la enterró en el cementerio de la ladera este. Pagó él. Le puso una piedra con su nombre. *Mabel de la loma del espino.* Y debajo, porque no sabía qué poner y porque se lo había oído decir:
 
 *Miraba arriba.*
 

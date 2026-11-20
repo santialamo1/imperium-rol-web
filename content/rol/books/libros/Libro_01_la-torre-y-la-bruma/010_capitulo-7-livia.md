@@ -1,4 +1,4 @@
-## Capítulo 7 · Livia
+# Capítulo 7 · Livia
 
 *Concordia. Año 47.*
 
@@ -16,7 +16,7 @@ El mensajero parpadeó. Estaba arrodillado en el suelo del despacho de la cancil
 
 El mensajero se echó a llorar.
 
-* * *
+---
 
 Livia Heredicus tenía cuarenta y tres años, el pelo castaño de su padre recogido en una red de plata, una cicatriz pequeña en la barbilla de cuando se cayó de un caballo a los ocho años, y doce años gobernando el Imperio en nombre de un hermano que nunca estaba.
 
@@ -44,7 +44,7 @@ Livia miró la carta sellada que tenía en la mano. No la había abierto. No le 
 
 —Al capitán Aldar —dijo— no le digáis nada. Esta noche cenaré con mi marido.
 
-* * *
+---
 
 Lord Pelagio vino a verla antes de la cena. Por supuesto que vino.
 
@@ -62,7 +62,7 @@ En aquel momento la papada temblaba, los dedos tamborileaban y los labios estaba
 
 —Siéntese, lord Pelagio —dijo Livia—. En las dos sillas. Tenemos que hablar de las tierras de su primo.
 
-* * *
+---
 
 Pelagio lo contó todo en menos tiempo del que tardaba en servirse el vino.
 
@@ -82,7 +82,7 @@ Pelagio no contestó. La papada temblaba.
 
 —Dijo... —El viejo tragó saliva—. Dijo que la Canciller no aceptaría nunca. Que sois demasiado leal a vuestro hermano. Que haría falta... que haría falta que no pudierais oponeros.
 
-Livia cerró los ojos. Un hombre que se casa por encima de su sangre nunca deja de mirar hacia arriba.
+Livia cerró los ojos. *Un hombre que se casa por encima de su sangre nunca deja de mirar hacia arriba.*
 
 —¿Y por qué me lo contáis, lord Pelagio? Podíais haber callado. Podíais haber dejado que pasara.
 
@@ -96,7 +96,7 @@ Pelagio se echó a reír, una risa ahogada, de hombre que se ha quitado un peso 
 
 —Mi primo murió hace nueve años, mi señora. Llevo nueve años hablándoos de las tierras de un muerto. Era la única excusa que tenía para entrar en vuestro despacho y ver cómo gobernabais.
 
-* * *
+---
 
 Cenó con su marido aquella noche, como había dicho.
 
@@ -154,7 +154,7 @@ Livia tardó en contestar.
 
 —Te quiero —dijo—. Ese es el problema.
 
-* * *
+---
 
 Hector volvió de los fiordos tres meses después, vivo, con los Laran y los Kalo sometidos y una herida nueva en el hombro. Livia le contó que su marido había pedido el traslado a la frontera por motivos de salud. Hector la miró largamente, con aquellos ojos de león que no se perdían nada, y no hizo preguntas.
 

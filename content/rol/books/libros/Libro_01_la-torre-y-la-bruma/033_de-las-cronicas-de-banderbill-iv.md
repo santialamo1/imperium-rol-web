@@ -1,4 +1,4 @@
-## DE LAS CRÓNICAS DE BANDERBILL (IV)
+# De las Crónicas de Banderbill (IV)
 
 He discutido con Su Majestad sobre este capítulo.
 

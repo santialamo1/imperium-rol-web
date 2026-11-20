@@ -1,10 +1,10 @@
-## Capítulo 11 · Érandiul
+# Capítulo 11 · Érandiul
 
 *Banderbill. La Noche del Dolor. Año 27 de la Nueva Era.*
 
 El elfo de la familia Érandiul había decidido entrar en la ciudad de los humanos un día de sol, y por eso, como casi todo lo que decidía, lo hizo un día de lluvia.
 
-Lo había planeado con mucho cuidado durante semanas, después de lo del río y la muchacha de las piedras. Había ensayado frases delante de su árbol. Buenos días. Vengo de los fiordos. Me llamo… Me llamo Ebbo. Había elegido Ebbo porque era el nombre del juglar borracho que se cayó del escenario, y le había parecido un nombre que nadie miraría dos veces. Y la mañana elegida amaneció con un cielo limpio, azul, sin una nube. Y él se quedó en su árbol.
+Lo había planeado con mucho cuidado durante semanas, después de lo del río y la muchacha de las piedras. Había ensayado frases delante de su árbol. *Buenos días. Vengo de* *los fiordos. Me llamo… Me llamo Ebbo.* Había elegido Ebbo porque era el nombre del juglar borracho que se cayó del escenario, y le había parecido un nombre que nadie miraría dos veces. Y la mañana elegida amaneció con un cielo limpio, azul, sin una nube. Y él se quedó en su árbol.
 
 No supo por qué. Se quedó mirando la ciudad desde la rama de siempre, con el sombrero en las rodillas, toda la mañana, toda la tarde. Y al anochecer, cuando empezó a llover, una lluvia fina y fría que bajaba de las montañas en cortinas grises, se puso el sombrero, se bajó del árbol, y echó a andar hacia la colina sin pensarlo, como quien se tira al agua de golpe porque si lo piensa no se tira.
 
@@ -12,7 +12,7 @@ Llevaba veintisiete años mirándolos, que para un elfo de la familia Érandiul 
 
 Esa noche entró.
 
-* * *
+---
 
 Las calles eran de tierra, y la lluvia las había convertido en barro.
 
@@ -38,17 +38,17 @@ El hombre se echó a reír.
 
 Y se fue, riéndose, con su saco.
 
-No entendía qué había pasado. Le habían insultado —larguirucho— y luego le habían dado una palmada y le habían dicho que pasara, que se iba a calar. Las dos cosas a la vez. Con la misma voz. Como si fueran lo mismo.
+No entendía qué había pasado. Le habían insultado —*larguirucho*— y luego le habían dado una palmada y le habían dicho que pasara, que se iba a calar. Las dos cosas a la vez. Con la misma voz. Como si fueran lo mismo.
 
-Lo apuntaría esa noche, en su cuaderno. Los humanos te insultan para decirte que eres bienvenido. No sé por qué. Y debajo, más tarde, después de pensarlo mucho: Creo que es porque se insultan también a ellos mismos.
+Lo apuntaría esa noche, en su cuaderno. *Los humanos te insultan para decirte que* *eres bienvenido. No sé por qué.* Y debajo, más tarde, después de pensarlo mucho: *Creo que* *es porque se insultan también a ellos mismos.*
 
-* * *
+---
 
 Llegó a la plaza de la fuente cuando ya era de noche.
 
 Era más pequeña de cerca que desde el árbol: tierra apisonada, el palacio a un lado, la casa de libros al otro, y en el centro, la fuente.
 
-El pilón era de piedra negra. De la piedra de las montañas. El elfo se detuvo a un paso de él, de golpe, como se detiene un animal ante el fuego. Todo lo que le habían enseñado de niño le gritó que se diera la vuelta. La piedra negra es de ellas. No se toca. No se acerca uno. No se canta cerca.
+El pilón era de piedra negra. De la piedra de las montañas. El elfo se detuvo a un paso de él, de golpe, como se detiene un animal ante el fuego. Todo lo que le habían enseñado de niño le gritó que se diera la vuelta. *La piedra negra es de ellas. No se toca. No* *se acerca uno. No se canta cerca.*
 
 Los humanos habían hecho una fuente con ella.
 
@@ -80,7 +80,7 @@ Era verdad. Había dejado de llover. El elfo no se había dado cuenta.
 
 El niño lo pensó un momento, muy serio. Luego asintió, como si aquello tuviera todo el sentido del mundo, y volvió a beber.
 
-* * *
+---
 
 Fue entonces cuando sonaron las campanas.
 
@@ -106,7 +106,7 @@ El elfo se dio la vuelta. Miró hacia el norte. Hacia donde corrían los soldado
 
 Y las vio.
 
-* * *
+---
 
 Bajaban por la ladera.
 
@@ -116,7 +116,7 @@ Contó. Era lo que hacía siempre cuando tenía miedo. Contar.
 
 Veinte. Más de veinte. Veintidós, veintitrés.
 
-Las que no tienen cara. Si las ves, no las mires. Si te miran, no te muevas. Si te tocan, ya eres de ellas. Medusas, las llamaban en su pueblo. Nadie de su familia las había visto en tres generaciones. No bajaban nunca.
+Las que no tienen cara. *Si las ves, no las mires. Si te miran, no te muevas. Si te* *tocan, ya eres de ellas.* Medusas, las llamaban en su pueblo. Nadie de su familia las había visto en tres generaciones. No bajaban nunca.
 
 Ahora bajaban.
 
@@ -126,7 +126,7 @@ Eso fue lo que le llamó la atención, incluso en medio del miedo. No venían ha
 
 Iban a por ella.
 
-* * *
+---
 
 Del palacio salió un hombre.
 
@@ -134,7 +134,7 @@ El elfo lo reconoció enseguida, aunque llevaba años sin verlo de pie. El de lo
 
 Bhargaras.
 
-Salía despacio. Apoyado en el marco de la puerta. Con una espada en la mano. Llevaba la cabeza descubierta, sin el aro de hierro, y una camisa blanca de dormir, y nada más. Descalzo. En el barro. Detrás de él, desde dentro del palacio, alguien gritaba —una mujer, la que gritaba siempre, la que le daba miedo—, gritaba su nombre, ¡Bander! ¡Bander, vuelve aquí!, y él no se volvió.
+Salía despacio. Apoyado en el marco de la puerta. Con una espada en la mano. Llevaba la cabeza descubierta, sin el aro de hierro, y una camisa blanca de dormir, y nada más. Descalzo. En el barro. Detrás de él, desde dentro del palacio, alguien gritaba —una mujer, la que gritaba siempre, la que le daba miedo—, gritaba su nombre, *¡Bander!* *¡Bander, vuelve aquí!*, y él no se volvió.
 
 Y luego echó a andar hacia ellas. Solo. El primero.
 
@@ -150,15 +150,15 @@ El elfo reconoció el cuchillo.
 
 Era el suyo.
 
-La muchacha pasó corriendo por la plaza. No lo vio. Iba detrás de su padre. ¡Padre!, gritaba. ¡Padre, espera!
+La muchacha pasó corriendo por la plaza. No lo vio. Iba detrás de su padre. *¡Padre!*, gritaba. *¡Padre, espera!*
 
 Y el viejo de los ojos blancos no esperó. Siguió andando hacia las montañas, el primero, descalzo en el barro, con la espada en la mano y la sonrisa en la cara.
 
-* * *
+---
 
 El elfo no fue detrás de ellos.
 
-Lo apuntaría esa noche, también, con vergüenza. Tuve miedo. No los seguí. Se quedó en la plaza, junto a la fuente, mientras la gente corría a su alrededor, y miró. Era lo único que sabía hacer. Mirar.
+Lo apuntaría esa noche, también, con vergüenza. *Tuve miedo. No los seguí.* Se quedó en la plaza, junto a la fuente, mientras la gente corría a su alrededor, y miró. Era lo único que sabía hacer. Mirar.
 
 Miró al viejo, delante de todos, que se iba haciendo pequeño contra la ladera oscura. Miró a las figuras de sal, que seguían bajando hacia la casa sola.
 
@@ -172,11 +172,11 @@ Negras. Rotas. Cientos. Avanzando despacio entre la niebla que, por primera vez 
 
 El elfo no las vio.
 
-* * *
+---
 
 Mucho después, años después, en una casa modesta cerca del palacio, escribiría en su diario la entrada de aquel día. La escribiría deprisa, con la letra que había aprendido copiando los carteles del mercado, y con los errores de quien escribe una lengua que no es la suya. No sabía todo. No había visto todo. Escribiría lo que vio.
 
-*Hoy me cansé de subirme al árbol y mirarlos. Veintisiete años tardé en aprenderme a la perfección su lengua y sus costumbres. Tomé un sombrero que cubra mis orejas y una larga túnica y me adentré en la ciudad. Las campanas del palacio comenzaron a sonar con gran fuerza. Al principio, asustado, pensé que se debía a mi intromisión, pero pronto pude ver como a lo lejos, desde las montañas, avanzaban a toda prisa un grupo de más de veinte medusas. Bhargaras fue el primero en salir al choque contra las bestias.*
+*Hoy me cansé de subirme al árbol y mirarlos. Veintisiete años tardé en aprenderme* *a la perfección su lengua y sus costumbres. Tomé un sombrero que cubra mis orejas y una* *larga túnica y me adentré en la ciudad. Las campanas del palacio comenzaron a sonar con* *gran fuerza. Al principio, asustado, pensé que se debía a mi intromisión, pero pronto pude* *ver como a lo lejos, desde las montañas, avanzaban a toda prisa un grupo de más de* *veinte medusas. Bhargaras fue el primero en salir al choque contra las bestias.*
 
 Lo leería muchas veces, a lo largo de los siglos.
 

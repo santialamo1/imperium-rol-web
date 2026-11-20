@@ -1,4 +1,4 @@
-## Capítulo 34 · Ilka
+# Capítulo 34 · Ilka
 
 *El Mercado del valle negro. Otoño del año 680 de la Nueva Era (73 D.bA).*
 
@@ -10,7 +10,7 @@ Ilka la miraba todos los días.
 
 No ponía nada en ella.
 
-* * *
+---
 
 Tenía cuarenta años. Era nieta de Dorota, que había sido Custodia; y tataranieta de Ysra, que también; y así hacia atrás, hasta una mujer de Concordia que se llamaba Odrun y que había enseñado a escuchar a un rey. Las Custodias del Mercado eran casi siempre de la misma familia. No porque se heredara. Porque en esa familia, decían, las niñas nacían con la oreja ladeada.
 
@@ -30,7 +30,7 @@ Ilka no había dicho nada. Se había quedado mirando la balanza.
 
 —Nadie sabe. —Wenna se había levantado. Le crujieron las rodillas como le crujían desde los cincuenta y cinco, hacía seiscientos y pico años—. Ven. Te voy a enseñar las tres cosas.
 
-* * *
+---
 
 La primera cosa fue la balanza.
 
@@ -78,7 +78,7 @@ Wenna se echó a reír. Una risa enorme, de mujer enorme, que hizo que los del p
 
 —¡Y tú te las comías! —Wenna se secó las lágrimas—. Eso es la balanza. No pesa lo que es. Pesa lo que dices que es. Y lo que dices que es, si es mentira, no pesa nada.
 
-* * *
+---
 
 La segunda cosa fue el hilo.
 
@@ -90,11 +90,11 @@ El agujero. Redondo. Del tamaño de una plaza pequeña. Rodeado de piedras puest
 
 Y en la boca del agujero, de pie, encajado en el cuello de piedra, blanco de sal desde el pelo hasta las botas, el Guardián.
 
-Ilka lo había visto mil veces. Todos los niños del Mercado lo habían visto. Le tiraban piedritas por si acaso, una cada uno, cuando eran pequeños, y luego se iban corriendo. A sus pies había un montón. Miles de piedritas. Y entre ellas, castañas. Muchas. Secas, viejas, de cientos de otoños.
+Ilka lo había visto mil veces. Todos los niños del Mercado lo habían visto. Le tiraban piedritas *por si acaso*, una cada uno, cuando eran pequeños, y luego se iban corriendo. A sus pies había un montón. Miles de piedritas. Y entre ellas, castañas. Muchas. Secas, viejas, de cientos de otoños.
 
 Y una que no estaba seca.
 
-* * *
+---
 
 —Esa la puse yo —dijo Wenna.
 
@@ -140,7 +140,7 @@ Wenna la miró.
 
 —Eso es la tercera cosa —dijo.
 
-* * *
+---
 
 La tercera cosa estaba al lado de la jarra.
 
@@ -178,7 +178,7 @@ Wenna se rio otra vez.
 
 —Se fue. —Wenna asintió—. Lo vi irme yo. En el 498. Lo vimos todos. Subió y no quedó nada al lado de la jarra. Un año entero estuve viniendo a mirar. Nada. —Se rascó la barbilla—. Y una mañana de hace cuarenta años, la primavera en que un elfo salió de un árbol en el bosque del norte, vine a barrer y estaba otra vez aquí. Más fino. Mucho más fino. Como un hilo que se ha quedado enganchado en un clavo cuando se ha ido la manta. —Miró el hilo—. No sé si es él o lo que se le olvidó llevarse. Él tampoco lo sabe. Pero cuenta los mismos cuentos.
 
-* * *
+---
 
 Wenna se lo contó. Allí. Sentada en la piedra. Con el hilo gris dando vueltas despacio alrededor de las dos.
 
@@ -192,7 +192,7 @@ Wenna miró el hilo mucho rato.
 
 —Era malo —dijo—. Ya no sé lo que es. Le cuenta cuentos a los niños. Se acuerda de una risa. —Se levantó, con el bastón—. Hace doscientos años le tradujo a una Custodia, a tu tatarabuela Ysra, cuando era niña, una cosa que dijo: que abajo hay dos. Uno que duerme y uno que escucha. Lo apuntó la pelirroja. Era verdad. —Miró a Ilka—. Por eso hay que escucharlo. Porque escucha. Y lo que escucha, lo cuenta. Si le preguntas bien.
 
-* * *
+---
 
 La Orden llegó el día del solsticio.
 
@@ -204,7 +204,7 @@ Eran gente. La pelirroja se resbaló en una piedra suelta y dijo una palabrota e
 
 El elfo de la corteza tardó una hora más que los demás.
 
-* * *
+---
 
 Midieron la grieta.
 
@@ -232,7 +232,7 @@ Habló mucho rato.
 
 El hilo gris se quedó quieto. Escuchando.
 
-* * *
+---
 
 Cuando terminó, la pelirroja se volvió. Tenía los ojos secos. La cara de dieciocho años. Las manos le temblaban un poco.
 
@@ -248,7 +248,7 @@ La pelirroja miró la cara de sal.
 
 —No lo sé —dijo—. Pero el hilo sí. Y el hilo se las cuenta a los niños. Así que, de alguna manera, alguien las oye.
 
-* * *
+---
 
 Esa noche, en el puesto de la entrada, con el toldo de rayas, la reina del Mercado le dio a Ilka la balanza.
 
@@ -270,7 +270,7 @@ Wenna miró la aguja. Asintió.
 
 —Es verdad —dijo—. No sabes. —Se levantó del taburete—. Así se empieza.
 
-* * *
+---
 
 Wenna no se fue a la colina ese año. Ni el siguiente. Dijo que se iba y no se fue. Se quedó en el Mercado, en la casa de piedra de detrás del puesto, la del tejado de pizarra, y bajaba al puesto cada mañana y se sentaba en el taburete de los clientes a ver a Ilka pesar.
 

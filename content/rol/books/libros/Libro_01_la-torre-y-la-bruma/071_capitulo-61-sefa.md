@@ -1,8 +1,8 @@
-## Capítulo 61 · Sefa
+# Capítulo 61 · Sefa
 
 *Kel-Ammar y el borde de la bruma, Eufesia. Año 262.*
 
-La niña murió el día de la primera tormenta de arena del otoño, y Sefa de Kel-Ammar, que había sido criada en la casa de los Heredicus, novicia en la Academia de los Custodios y traductora de la embajada de los libres en Concordia, no pudo hacer nada por ella porque las leyes de un hombre al que había bañado de recién nacido prohibían vender corteza de sauce blanco a los eufesios.
+La niña murió el día de la primera tormenta de arena del otoño, y Sefa de Kel- Ammar, que había sido criada en la casa de los Heredicus, novicia en la Academia de los Custodios y traductora de la embajada de los libres en Concordia, no pudo hacer nada por ella porque las leyes de un hombre al que había bañado de recién nacido prohibían vender corteza de sauce blanco a los eufesios.
 
 Fiebre de los pozos. Eso era todo. Una fiebre que en Concordia se curaba con una infusión de corteza de sauce blanco de los bosques de Tiber, tres veces al día, durante una semana. Sefa lo sabía porque se lo había enseñado la señora Octavia en el jardín del barrio alto, treinta y siete años antes, cuando Sefa tenía quince años y la señora le explicaba los nombres de las plantas que curan y las que no.
 
@@ -12,7 +12,7 @@ Sefa no tenía un camello. Tenía un marido muerto en la horca de Concordia, col
 
 Ahora no tenía hija.
 
-* * *
+---
 
 La enterraron en el osario nuevo, al pie de la roca. La Madre Ysh-Talia vino al entierro. Había sucedido a su madre, la vieja Ysh-Neva, nueve años atrás, y desde entonces gobernaba los clanes libres desde Kel-Ammar con la misma mano firme y la misma tristeza en los ojos que Sefa le había visto el día que salieron juntas de Concordia con los trapos grises cosidos en las mangas. Su hijo Yared, alto, callado, con la mandíbula cuadrada de su padre, cavó la tumba. No dijo nada. Yared hablaba poco; desde que salieron de Concordia llevaba un trapo gris doblado en el bolsillo y lo tocaba a veces, sin darse cuenta.
 
@@ -34,23 +34,23 @@ Ysh-Talia retiró la mano como si se hubiera quemado.
 
 —Seren no volvió —dijo—. A Seren la trajeron. Que no es lo mismo.
 
-* * *
+---
 
 Sefa no soltó a su hija.
 
-Lo intentó. Se arrodilló junto a la tumba esa noche, cuando el viento de la tormenta se calmó, y puso las manos sobre la arena, como le habían enseñado en la Academia, en las clases de la vieja Custodia Hilde Tamm, que ya entonces estaba casi ciega y dormía con la ventana abierta hacia el oeste. Buscó el cordel. Lo encontró: muy fino, muy tenso, tirando ya hacia el oeste, hacia la niebla, como todos los cordeles de los muertos del desierto. Bastaba con decir el nombre mirando hacia arriba.
+Lo intentó. Se arrodilló junto a la tumba esa noche, cuando el viento de la tormenta se calmó, y puso las manos sobre la arena, como le habían enseñado en la Academia, en las clases de la vieja Custodia Hilde Tamm, que ya entonces estaba casi ciega y dormía con la ventana abierta hacia el este. Buscó el cordel. Lo encontró: muy fino, muy tenso, tirando ya hacia el este, hacia la niebla, como todos los cordeles de los muertos del desierto. Bastaba con decir el nombre mirando hacia arriba.
 
 Abrió la boca. Y no pudo.
 
-Porque si lo decía, Ammi se iría hacia arriba, hacia donde se iban los que soltaban los Custodios, hacia el sitio del que nadie sabía nada, y no volvería nunca. Y si no lo decía, se iría hacia el oeste, hacia la bruma, y allí estaría. Atrapada, sí. Asustada, sí. Pero estaría. En algún sitio. Donde se podía ir a buscarla.
+Porque si lo decía, Ammi se iría hacia arriba, hacia donde se iban los que soltaban los Custodios, hacia el sitio del que nadie sabía nada, y no volvería nunca. Y si no lo decía, se iría hacia el este, hacia la bruma, y allí estaría. Atrapada, sí. Asustada, sí. Pero estaría. En algún sitio. Donde se podía ir a buscarla.
 
 Sefa sabía que era un razonamiento de loca. Lo sabía con toda la parte de su cabeza que había estudiado en la Academia. Pero esa parte se había muerto con su hija aquella tarde, y la otra, la que quedaba, solo sabía una cosa: que no iba a soltarla.
 
 Cerró la boca. Se levantó. Se sacudió la arena de las rodillas.
 
-Y empezó a caminar hacia el oeste.
+Y empezó a caminar hacia el este.
 
-* * *
+---
 
 Caminó cuatro días.
 
@@ -62,7 +62,7 @@ Voces. Miles de voces. Tan bajas, tan juntas, que sonaban como el mar.
 
 Sefa se quedó parada en la arena. Le temblaban las piernas.
 
-Ammi, pensó. Estoy aquí. Ammi.
+*Ammi*, pensó. *Estoy aquí. Ammi.*
 
 Y entre todas aquellas voces, entre los miles de muertos que la bruma se había bebido en mil años, le pareció oír una. Pequeña. Asustada. Llamándola por su nombre de madre.
 
@@ -80,7 +80,7 @@ Sefa lo conocía. Lo conocían todos los niños del desierto, aunque casi ningun
 
 —La oigo.
 
-—Oyes a mil niñas. Todas llaman a su madre. Todas suenan igual desde fuera. — Su voz era tranquila, casi suave, cansada—. Tu hija todavía está en el osario de Kel-Ammar. Tirando. Llegará aquí dentro de unos días. Si entras ahora, no la encontrarás. Te perderás antes.
+—Oyes a mil niñas. Todas llaman a su madre. Todas suenan igual desde fuera. — Su voz era tranquila, casi suave, cansada—. Tu hija todavía está en el osario de Kel- Ammar. Tirando. Llegará aquí dentro de unos días. Si entras ahora, no la encontrarás. Te perderás antes.
 
 —¿Y a ti qué te importa?
 
@@ -98,11 +98,11 @@ La mujer del velo no se movió. Loth tampoco. Pero algo le pasó por la cara, r�
 
 —Sí —dijo—. Yo te digo eso.
 
-* * *
+---
 
 Sefa no volvió.
 
-Lo pensó. Durante un momento largo, de pie en la arena entre el Padre de la Bruma y la pared de voces, lo pensó de verdad. Pensó en la cabaña de adobe, en la tumba, en Ysh-Talia, en Yared y su trapo gris. Pensó en treinta años más de vida en un oasis sin sauces, mirando cada noche hacia el oeste, sabiendo que su hija estaba allí y que ella no había ido.
+Lo pensó. Durante un momento largo, de pie en la arena entre el Padre de la Bruma y la pared de voces, lo pensó de verdad. Pensó en la cabaña de adobe, en la tumba, en Ysh- Talia, en Yared y su trapo gris. Pensó en treinta años más de vida en un oasis sin sauces, mirando cada noche hacia el este, sabiendo que su hija estaba allí y que ella no había ido.
 
 Pensó en la señora Octavia, inclinada sobre la cuna, susurrándole un nombre al oído a un niño que luego hizo leyes.
 
@@ -110,7 +110,7 @@ Pensó en la señora Octavia, inclinada sobre la cuna, susurrándole un nombre a
 
 Y entró en la bruma.
 
-* * *
+---
 
 Loth se quedó en la orilla mucho tiempo, como se había quedado cuando tenía diez años.
 
@@ -132,11 +132,11 @@ Loth lo guardó.
 
 No lo usó. No entonces. Maximus estaba en Concordia, a doscientas leguas, rodeado de cuarenta mil soldados profesionales y de braseros de sal, y un nombre solo sirve a la distancia de una voz. Pero lo guardó, como se guarda una piedra en el bolsillo, y en las noches siguientes, sentado en el último peldaño del Pozo Primero, lo repetía a veces en voz baja, sin intención, como quien repasa una lección.
 
-¿Ves?, le dijo la cosa del fondo. Vienen solos. Te los traen. No tienes que hacer nada. Solo esperar.
+*¿Ves?*, le dijo la cosa del fondo. *Vienen solos. Te los traen. No tienes que hacer* *nada. Solo esperar.*
 
 Loth no contestó.
 
-* * *
+---
 
 Ammi llegó a la bruma once días después, tirada por el cordel, como él había dicho.
 

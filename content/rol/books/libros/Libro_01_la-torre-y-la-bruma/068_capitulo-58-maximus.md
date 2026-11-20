@@ -1,4 +1,4 @@
-## Capítulo 58 · Maximus
+# Capítulo 58 · Maximus
 
 *Concordia. Año 249.*
 
@@ -40,7 +40,7 @@ Octavia sonrió. Volvió a su bordado.
 
 —Bien —dijo—. Entonces vete a gobernar. El Imperio no espera.
 
-* * *
+---
 
 Maximus Heredicus gobernó cincuenta años, y los cronistas lo llamarían el Forjador.
 
@@ -48,7 +48,7 @@ No se equivocaban. Maximus encontró un Imperio que luchaba como había luchado 
 
 Y rompió la alianza con los clanes libres.
 
-No de golpe. Maximus era demasiado listo para eso. Empezó por pequeñas cosas. Un impuesto especial a los mercaderes eufesios. Una ley que prohibía a los eufesios poseer tierras en el Imperio. Otra que les prohibía casarse con ciudadanos de los pueblos jurados sin permiso del Consejo. Otra que los obligaba a llevar un distintivo gris cosido a la ropa. Cada ley se justificaba con la seguridad: los eufesios eran de la misma sangre que el Padre de la Bruma; cualquiera de ellos podía ser un espía; los muertos se levantaban de entre los eufesios igual que de entre cualquiera, pero los eufesios, al fin y al cabo, oían.
+No de golpe. Maximus era demasiado listo para eso. Empezó por pequeñas cosas. Un impuesto especial a los mercaderes eufesios. Una ley que prohibía a los eufesios poseer tierras en el Imperio. Otra que les prohibía casarse con ciudadanos de los pueblos jurados sin permiso del Consejo. Otra que los obligaba a llevar un distintivo gris cosido a la ropa. Cada ley se justificaba con la seguridad: los eufesios eran de la misma sangre que el Padre de la Bruma; cualquiera de ellos podía ser un espía; los muertos se levantaban de entre los eufesios igual que de entre cualquiera, pero los eufesios, al fin y al cabo, *oían*.
 
 Ysh-Talia, la viuda de Yaakov, se marchó de Concordia en el doscientos cincuenta y tres, con su hijo de diecinueve años y lo que quedaba de la embajada de los clanes libres. Antes de irse, pidió audiencia al emperador. Maximus se la concedió.
 
@@ -66,7 +66,7 @@ Maximus la vio marcharse. No dijo nada. Esa noche, en sus aposentos, su madre le
 
 —Porque tenía razón, madre —dijo él—. Y no soporto mirar a la gente que tiene razón.
 
-* * *
+---
 
 El Padre de la Bruma volvió en el año doscientos noventa y nueve.
 
@@ -92,7 +92,7 @@ Maximus lo supo en Concordia, tres días después. Se quedó sentado en el trono
 
 Gregorian Bhargaras no supo qué decir. Se inclinó.
 
-* * *
+---
 
 La batalla de las colinas de Askel empezó al alba del décimo día del otoño del año doscientos noventa y nueve y duró hasta el atardecer.
 

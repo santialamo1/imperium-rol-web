@@ -1,6 +1,6 @@
-## Capítulo 54 · Érandiul
+# Capítulo 54 · Érandiul
 
-*Camino del sur, y ante las puertas de Tawarsinan. Primavera y verano del año 156 de la Nueva Era.*
+*Camino del sur, y ante las puertas de Tawarsinan. Primavera y verano del año 156* *de la Nueva Era.*
 
 *Del libro de cuentas de Sein Vell, año 156. Para el viaje al sur: cuarenta elfos,*
 
@@ -16,11 +16,11 @@ Fue por una canción. La cantaba una niña de la colina en la plaza del mercado,
 
 La niña no sabía lo que quería decir. Érandiul, sentado en el pilón de la plaza con su vaso de agua con miel, la oyó y se le cayó el vaso.
 
-Quería decir los árboles que esperan.
+Quería decir *los árboles que esperan*.
 
 Era el nombre de la ciudad de su madre.
 
-* * *
+---
 
 —¿Existe? —le preguntó el rey.
 
@@ -44,21 +44,21 @@ Bhargaras se rio.
 
 —Vamos —dijo.
 
-* * *
+---
 
 Salieron en primavera. Cuarenta elfos, ciento veinte de la colina. El rey. Tibbet, en una mula, porque se negaba a andar más de una legua seguida y porque las mulas, decía, eran el único animal del mundo con su sentido del humor. Le mordía. Él le mordía a ella. Se querían mucho.
 
-Pasaron por Ullathorpe, que ya era ciudad: piedra, murallas, un mercado los jueves, el árbol torcido en el patio del fuerte con una verja alrededor para que no lo tocaran los niños. Pasaron por las montañas de los enanos, y Thrumbar Hondopico les dio cerveza negra y un guía, un enano joven que se llamaba Kildo y que no habló en todo el viaje salvo para decir piedra cada vez que veía una piedra que le gustaba. Pasaron por el último campamento orco, que ya no era nada: un círculo de piedras rojas en un valle hundido, con hierba creciendo entre las piedras.
+Pasaron por Ullathorpe, que ya era ciudad: piedra, murallas, un mercado los jueves, el árbol torcido en el patio del fuerte con una verja alrededor para que no lo tocaran los niños. Pasaron por las montañas de los enanos, y Thrumbar Hondopico les dio cerveza negra y un guía, un enano joven que se llamaba Kildo y que no habló en todo el viaje salvo para decir *piedra* cada vez que veía una piedra que le gustaba. Pasaron por el último campamento orco, que ya no era nada: un círculo de piedras rojas en un valle hundido, con hierba creciendo entre las piedras.
 
 Érandiul se detuvo en el círculo.
 
 No zumbaba. Ya no. Pero se notaba. Debajo. Como se nota el sitio donde ha estado una piedra muy pesada mucho tiempo, aunque ya no esté.
 
-Aquí murió Andriath, escribió en el cuaderno. Aquí dicen que se rió.
+*Aquí murió Andriath*, escribió en el cuaderno. *Aquí dicen que se rió.*
 
 Y siguieron.
 
-* * *
+---
 
 Desde el círculo, dos jornadas más. Hacia el sur, por el bosque viejo que los de Ullathorpe empezaban a llamar el Dorck. No eran muchas, después de tantos días y días de camino; pero se le hicieron más largas que todas las anteriores.
 
@@ -74,7 +74,7 @@ Hasta Tibbet se calló.
 
 Y era verdad. Tenía casi trescientos años y se sentía un niño.
 
-* * *
+---
 
 Las puertas de Tawarsinan no eran puertas.
 
@@ -110,9 +110,9 @@ A Tibbet, en la mula, que le estaba mordiendo la oreja a la mula.
 
 —¿Qué son? —preguntó el del centro.
 
-Érandiul abrió la boca. Y se dio cuenta de que no lo sabía decir. En la lengua de su madre no había palabra para humano. Ni para gnomo. Había una para elfo, que quería decir el que canta. Y otra para todo lo demás que andaba sobre dos piernas, que quería decir el que tiene hambre.
+Érandiul abrió la boca. Y se dio cuenta de que no lo sabía decir. En la lengua de su madre no había palabra para *humano*. Ni para *gnomo*. Había una para *elfo*, que quería decir *el que canta*. Y otra para todo lo demás que andaba sobre dos piernas, que quería decir *el* *que tiene hambre*.
 
-Era la palabra para orco.
+Era la palabra para *orco*.
 
 —Son... —empezó.
 
@@ -124,29 +124,29 @@ Era la palabra para orco.
 
 —Mi rey...
 
-—Tu rey. —El del centro lo miró por fin a él. A los ojos. Con unos ojos verdes, quietos, que habían visto caer muchas hojas—. Tú puedes entrar, Érandiul hijo de Lithiel. Puedes entrar, y quedarte, y te perdonaremos lo de tu madre, porque tú no tienes la culpa. Pero ellos no. Y si entras, no sales.
+—*Tu* rey. —El del centro lo miró por fin a él. A los ojos. Con unos ojos verdes, quietos, que habían visto caer muchas hojas—. Tú puedes entrar, Érandiul hijo de Lithiel. Puedes entrar, y quedarte, y te perdonaremos lo de tu madre, porque tú no tienes la culpa. Pero ellos no. Y si entras, no sales.
 
 Érandiul se quedó quieto.
 
-Detrás de los seis elfos, detrás de la cortina de luz verde, oyó algo. Una canción. Muy lejos. Cantada por muchas voces. La conocía. Se la cantaba su madre. Era la de hasta que los árboles vuelvan a cantar tu nombre.
+Detrás de los seis elfos, detrás de la cortina de luz verde, oyó algo. Una canción. Muy lejos. Cantada por muchas voces. La conocía. Se la cantaba su madre. Era la de *hasta* *que los árboles vuelvan a cantar tu nombre*.
 
 Se volvió.
 
 Miró al rey.
 
-* * *
+---
 
 Bhargaras VIII no había entendido una palabra. Pero había entendido.
 
 Estaba en el camino, con el aro de hierro, con la cabeza ladeada. Miró a Érandiul. Miró a los seis. Miró la cortina de luz verde.
 
-Y le hizo un gesto. Pequeño. Con la mano. Ve.
+Y le hizo un gesto. Pequeño. Con la mano. *Ve.*
 
 Érandiul se quedó mirándolo.
 
 Ciento veintiséis años. Ocho reyes. Una reina que no envejecía. Un muro que cantaba. Una biblioteca. Un sombrero regalado a un niño que se murió de viejo sobre una página tachada. Un amigo de pelo casi blanco que se había ido al oeste sin despedirse y que había vuelto y se había vuelto a ir. Un diario sin terminar.
 
-Ve, le decía el rey con la mano. Sin rencor. Escuchando. Como escuchaba siempre.
+*Ve*, le decía el rey con la mano. Sin rencor. Escuchando. Como escuchaba siempre.
 
 Érandiul se puso el sombrero.
 
@@ -154,13 +154,13 @@ Ve, le decía el rey con la mano. Sin rencor. Escuchando. Como escuchaba siempre
 
 Y volvió con los orcos.
 
-* * *
+---
 
 Acamparon al oeste. Una legua. En un claro junto a un río, al borde del bosque viejo, donde los árboles blancos se terminaban y empezaban otra vez los de hojas grandes, los que olían a casa.
 
 Esa noche, alrededor del fuego, nadie dijo nada durante mucho rato.
 
-Luego Tibbet preguntó qué había pasado. Érandiul se lo contó. Todo. Lo de la palabra. Lo de el que tiene hambre. Lo de la clase extraña de orcos.
+Luego Tibbet preguntó qué había pasado. Érandiul se lo contó. Todo. Lo de la palabra. Lo de *el que tiene hambre*. Lo de la clase extraña de orcos.
 
 Tibbet se rio tanto que se cayó del tronco.
 
@@ -174,15 +174,15 @@ Estaba mirando a Érandiul. Con la cabeza ladeada.
 
 Érandiul tardó.
 
-—Porque dijeron si entras, no sales —dijo—. Y yo he aprendido de vosotros una cosa que ellos no saben.
+—Porque dijeron *si entras, no sales* —dijo—. Y yo he aprendido de vosotros una cosa que ellos no saben.
 
 —¿Qué?
 
-—Que lo que no sale, se pudre. —Se quitó el sombrero. Le dio vueltas—. Lo dijo Livia. En el tercer cuaderno. Serás él si guardas por miedo. No lo entendí cuando lo leí. Lo he entendido hoy. Delante de la puerta.
+—Que lo que no sale, se pudre. —Se quitó el sombrero. Le dio vueltas—. Lo dijo Livia. En el tercer cuaderno. *Serás él si guardas por miedo.* No lo entendí cuando lo leí. Lo he entendido hoy. Delante de la puerta.
 
 Bhargaras asintió despacio.
 
-* * *
+---
 
 Se quedaron.
 
@@ -206,15 +206,15 @@ Al tercer mes había casas.
 
 Bhargaras levantó la mano. Se callaron todos.
 
-—¿Qué dijo el elfo? —preguntó—. El del centro. En la puerta. La última palabra. Antes de si entras, no sales.
+—¿Qué dijo el elfo? —preguntó—. El del centro. En la puerta. La última palabra. Antes de *si entras, no sales*.
 
 Érandiul lo pensó.
 
-—Dijo no pueden entrar.
+—Dijo *no pueden entrar*.
 
-—¿Y cómo se dice no en su lengua?
+—¿Y cómo se dice *no* en su lengua?
 
-—Nix.
+—*Nix.*
 
 Bhargaras sonrió. Tenía la sonrisa de su bisabuela, decían los que la habían visto, que eran muy pocos y no se morían. Torcida. Con una mitad más alta que la otra.
 
@@ -224,10 +224,10 @@ Tibbet aplaudió. La mula le mordió. Él le mordió a ella.
 
 Y Érandiul, esa noche, a la luz del fuego, abrió el diario, el que no estaba terminado, el que no le había dado a Amael, y escribió:
 
-*Año 156. Decidimos con un grupo de elfos y humanos viajar hacia el sur, en busca de nuestro pueblo, Tawarsinan.*
+*Año 156. Decidimos con un grupo de elfos y humanos viajar hacia el sur, en busca* *de nuestro pueblo, Tawarsinan.*
 
 Y luego, despacio, sin tachar nada, la verdad. Toda. La de la clase extraña de orcos.
 
-No escribió lo de nix. No escribió lo de la sonrisa del rey. No escribió que había dicho que no.
+No escribió lo de *nix*. No escribió lo de la sonrisa del rey. No escribió que había dicho que no.
 
 Hay cosas que no se apuntan. Se saben.

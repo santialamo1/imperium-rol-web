@@ -1,6 +1,6 @@
-## Capítulo 22 · Verawel
+# Capítulo 22 · Verawel
 
-*La biblioteca de Banderbill y la calle del Horno. Invierno del año 1110 de la Nueva Era (503 D.bA).*
+*La biblioteca de Banderbill y la calle del Horno. Invierno del año 1110 de la Nueva* *Era (503 D.bA).*
 
 El tercero no dijo nunca que era de la sangre. Lo dijeron por él.
 
@@ -8,7 +8,7 @@ Verawel lo vio el primer día, como lo vio todo el mundo que pasaba por la plaza
 
 Mirando hacia arriba.
 
-No a la biblioteca. No al dintel, Para que quepan todos. Más arriba. Al cielo gris de enero, por encima del tejado, donde no había nada.
+No a la biblioteca. No al dintel, *Para que quepan todos*. Más arriba. Al cielo gris de enero, por encima del tejado, donde no había nada.
 
 Verawel pasó a su lado tres mañanas seguidas, y las tres mañanas el hombre estaba igual. Al cuarto día se paró.
 
@@ -22,7 +22,7 @@ Verawel miró arriba. Por encima del tejado de la biblioteca, al otro lado de la
 
 —Es la panadería —dijo el hombre—. Cuando el humo sube así, recto, quiere decir que el horno está a punto. Y cuando está a punto, a la media hora sale el pan. —Volvió a mirar arriba—. Es martes.
 
-* * *
+---
 
 Se llamaba Abel. No tenía apellido; lo había tenido, de pequeño, en Ullathorpe, pero se le había caído en algún sitio entre Ullathorpe y la colina, entre una mujer que se murió y una casa que se quemó y un invierno que pasó en el puerto. Comía los martes. Los martes salía el carro de pan de los Ruald hacia el barrio del puerto, el que no pagaba nadie, y el hombre de la manta iba detrás del carro y cogía su hogaza. El resto de la semana comía lo que encontraba.
 
@@ -32,7 +32,7 @@ Eso fue lo que vio el consejero Marren.
 
 No el humo. La cara. La cara levantada, quieta, mirando arriba, de un hombre de ojos claros en las escaleras de la biblioteca, en la plaza del Consejo, a la vista de las ventanas de la sala grande. Una cara que, si uno no sabía lo del humo, parecía la de un Emperador en la almena.
 
-* * *
+---
 
 —Es el tercero —dijo Sein.
 
@@ -40,7 +40,7 @@ Estaban en el sótano. Verawel en la silla de las visitas, con las manos en las 
 
 —No ha dicho nada —dijo Verawel.
 
-—No hace falta. Marren ya ha dicho bastante. —Sein pasó una hoja—. Ha encontrado una partida de bautismo de Ullathorpe del 1070. De un niño que se llamaba Abel. Hijo de una criada de la posada de Joss. Padre desconocido. —Levantó la vista—. Y ha encontrado una carta de la criada, del 1069, que dice que el padre era un señor de la colina que llevaba un aro de hierro.
+—No hace falta. Marren ya ha dicho bastante. —Sein pasó una hoja—. Ha encontrado una partida de bautismo de Ullathorpe del 1070. De un niño que se llamaba Abel. Hijo de una criada de la posada de Joss. Padre desconocido. —Levantó la vista—. Y ha encontrado una carta de la criada, del 1069, que dice que el padre era *un señor de la* *colina que llevaba un aro de hierro*.
 
 —¿Es verdad?
 
@@ -54,11 +54,11 @@ Verawel se quedó callado.
 
 —Eso es lo que me da miedo. Que ya no le hace falta buscar voluntarios. Ahora se le ofrecen.
 
-* * *
+---
 
 Verawel había empezado a buscar en el 1052.
 
-En la reunión de las once sillas. Cuando preguntó ¿has mirado a las hijas? y nadie le contestó. Desde entonces había bajado a los archivos cada noche, sin pedir nada a nadie, y había mirado a las hijas. A todas. A las que se casaron con Hask y con Vell y con mercaderes de Nix y con capitanes de la Armada. A las que se murieron niñas. A las que se fueron.
+En la reunión de las once sillas. Cuando preguntó *¿has mirado a las hijas?* y nadie le contestó. Desde entonces había bajado a los archivos cada noche, sin pedir nada a nadie, y había mirado a las hijas. A todas. A las que se casaron con Hask y con Vell y con mercaderes de Nix y con capitanes de la Armada. A las que se murieron niñas. A las que se fueron.
 
 Llevaba cincuenta y ocho años. Era un elfo; tenía tiempo. Y había sido árbol; tenía paciencia. Los árboles no buscan agua: crecen hacia ella, despacio, un dedo cada año, hasta que la tocan.
 
@@ -66,7 +66,7 @@ Y había tocado algo.
 
 No el agua. La falta de agua. Un hueco.
 
-* * *
+---
 
 Lo encontró por los libros de Sein.
 
@@ -86,7 +86,7 @@ Había una.
 
 Una sola. Que se casó con un panadero.
 
-* * *
+---
 
 —Isra —dijo Verawel.
 
@@ -94,7 +94,7 @@ Sein no se movió.
 
 Estaban en el sótano, la noche siguiente a lo de Abel. La lámpara. El libro abierto. Sein con la pluma en la mano, quieta, a un dedo del papel, con una gota de tinta en la punta que no caía.
 
-—Isra, hija de Liminus —dijo Verawel—. La que se escapó. La que dijeron que se había ido a Lindos con un mercader. Se casó en el 760 con Berto Ruald. El tataranieto de la masa madre. El que tenía la panadería de la calle del Horno. —Hizo una pausa—. Los Vell apuntaron la boda en una línea. La nieta del Emperador se casa con un panadero. Hay pan para todos. Nadie más la apuntó. En el registro de la colina no está. En el del Consejo no está. Y en tus libros, el del 760 está metido hacia dentro.
+—Isra, hija de Liminus —dijo Verawel—. La que se escapó. La que dijeron que se había ido a Lindos con un mercader. Se casó en el 760 con Berto Ruald. El tataranieto de la masa madre. El que tenía la panadería de la calle del Horno. —Hizo una pausa—. Los Vell apuntaron la boda en una línea. *La nieta del Emperador se casa con un panadero. Hay pan* *para todos.* Nadie más la apuntó. En el registro de la colina no está. En el del Consejo no está. Y en tus libros, el del 760 está metido hacia dentro.
 
 La gota de tinta cayó. En el libro. Una mancha redonda, negra, en la columna del haber.
 
@@ -144,7 +144,7 @@ Verawel se quedó mucho rato callado. Sus manos le crujían en las rodillas.
 
 —Sí. —Sein abrió el libro por la hoja del año. Le enseñó la tercera columna—. Ya he dejado sitio.
 
-* * *
+---
 
 Verawel subió a la plaza esa noche. Con la manta de los árboles, que era una capa vieja de lana parda que olía todavía a resina. Se sentó en las escaleras de la biblioteca. En el sexto escalón. Al lado de Abel, que dormía allí, envuelto.
 
@@ -184,7 +184,7 @@ Verawel no dijo nada.
 
 —Que me lo diga. —Abel se tapó otra vez con la manta—. Los martes viene el pan igual.
 
-* * *
+---
 
 Al día siguiente, Abel le dijo que no al consejero Marren.
 
@@ -202,7 +202,7 @@ El consejero Marren murió en el 1117, de viejo, en su casa, con setenta y nueve
 
 Pero aguantó cansado.
 
-* * *
+---
 
 Esa noche, Verawel bajó a la mesa del pergamino.
 
@@ -210,7 +210,7 @@ El de los Fragmentos. El que había empezado en el 640, en la letra de las Madre
 
 Lo desenrolló.
 
-La espada. La lágrima. La gema de Migyur. La gema de Panbor. El pergamino de las almas. La vara. El escudo, que Mirela había apuntado a lápiz en el 954 con un signo de pregunta, y que él había pasado a tinta en el 1031, sin signo de pregunta, con una línea: Lo tiene un gnomo. Late.
+La espada. La lágrima. La gema de Migyur. La gema de Panbor. El pergamino de las almas. La vara. El escudo, que Mirela había apuntado a lápiz en el 954 con un signo de pregunta, y que él había pasado a tinta en el 1031, sin signo de pregunta, con una línea: *Lo* *tiene un gnomo. Late.*
 
 Cogió la pluma.
 
@@ -234,7 +234,7 @@ Y luego, porque se acordó del sexto escalón, y del humo, y de un hombre que no
 
 *Lo que no pasó: el tercero dijo que no. Que conste. V.*
 
-* * *
+---
 
 Lo enrolló. Lo metió en el estuche de cuero con cierre de hueso. Lo puso en la última balda.
 

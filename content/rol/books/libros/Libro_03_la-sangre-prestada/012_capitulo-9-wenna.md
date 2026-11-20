@@ -1,4 +1,4 @@
-## Capítulo 9 · Wenna
+# Capítulo 9 · Wenna
 
 *El Mercado del valle negro y la hondonada del brezo. Otoño del año 547 de la Nueva Era.*
 
@@ -6,15 +6,15 @@ La balanza del Mercado se había quedado coja una semana en el año 290, y en do
 
 Fue por un clavo. Un clavo del platillo izquierdo que se aflojó una noche de helada. Por la mañana, cuando Wenna pesó la primera lana del día, el platillo izquierdo bajó un pelo más de la cuenta. Un pelo. Nadie lo habría notado. Lo notó un tratante de lana de Pisor, un hombre bajito y desconfiado que llevaba su propia balanza de bolsillo para comprobar las de los demás, y que se lo dijo a todo el Mercado a gritos, subido en un barril.
 
-Wenna arregló el clavo en una hora. Le devolvió al de Pisor la diferencia: tres granos de plata. Le devolvió la diferencia a todos los que habían pesado esa semana: cuarenta y un granos de plata, de su bolsillo. Puso un cartel en la balanza: Ha estado coja. Ya no. Perdón.
+Wenna arregló el clavo en una hora. Le devolvió al de Pisor la diferencia: tres granos de plata. Le devolvió la diferencia a todos los que habían pesado esa semana: cuarenta y un granos de plata, de su bolsillo. Puso un cartel en la balanza: *Ha estado coja.* *Ya no. Perdón.*
 
 La gente le cambió el nombre a la posada.
 
-La Balanza Coja. Desde entonces. El dueño decía que era un homenaje. Wenna decía que era una venganza. Las dos cosas eran verdad.
+*La Balanza Coja.* Desde entonces. El dueño decía que era un homenaje. Wenna decía que era una venganza. Las dos cosas eran verdad.
 
 Por eso, cuando en el otoño del 547 una niña del Mercado le dijo que alguien en el sur estaba pesando mal, Wenna se levantó de la silla sin terminarse las castañas.
 
-* * *
+---
 
 —No pesa mal —dijo la niña—. Pesa bien. Demasiado bien.
 
@@ -34,7 +34,7 @@ Wenna dejó de pelar la castaña.
 
 —Eso dice mi tío. —Dorota se encogió de hombros—. Que pusieron su lana en un platillo y en el otro nada. Y que el hombre de la balanza le preguntó cuánto quería que pesara. Y mi tío dijo que veinte libras, por decir algo, por broma, porque era lana para diez. Y la balanza marcó veinte. —Hizo una pausa—. Y le pagaron veinte. En hierro.
 
-* * *
+---
 
 Wenna tardó tres semanas en llegar.
 
@@ -42,11 +42,11 @@ Tres semanas que antes habrían sido dos. Tenía cuatrocientos noventa y cinco a
 
 Iba en Duquesa. Duquesa segunda; la primera se había muerto en el 519, odiando a todo el mundo hasta el final. La segunda era nieta de la primera y odiaba igual.
 
-Llevaba la balanza en el cinto. La pequeña, la de viaje, la que había hecho Kildo en el 120, de bronce, con los platillos del tamaño de una mano. Llevaba un saco de castañas. Llevaba un papel de Sein, en el que Sein le pedía, con su letra pequeña y redonda, que no hiciera nada. Mira. Vuelve. Cuéntamelo. No pesas nada allí. No compras nada. No vendes nada. Que conste.
+Llevaba la balanza en el cinto. La pequeña, la de viaje, la que había hecho Kildo en el 120, de bronce, con los platillos del tamaño de una mano. Llevaba un saco de castañas. Llevaba un papel de Sein, en el que Sein le pedía, con su letra pequeña y redonda, que no hiciera nada. *Mira. Vuelve. Cuéntamelo. No pesas nada allí. No compras nada. No vendes* *nada. Que conste.*
 
 Wenna había leído el papel una vez y lo había usado para encender el fuego la primera noche.
 
-* * *
+---
 
 La hondonada ya no era una hondonada.
 
@@ -66,11 +66,11 @@ Wenna lo miró mucho rato. Luego se bajó de la mula. Le costó. Se sentó en el
 
 Y se comió dos castañas, despacio, sin pelarlas bien, porque era lo que hacía cuando no sabía qué hacer.
 
-* * *
+---
 
 Bajó al día siguiente. Por el camino.
 
-Había un camino. Ancho, empedrado, que salía de la puerta norte de la ciudad, subía por la ladera y se perdía entre las lomas hacia el noreste. Hacia el camino del oeste. Hacia la colina. Por él bajaban carros. Carros de trigo, de lana, de sal, de madera. Conducidos por hombres de la colina, de Pisor, de los fiordos, de Ullathorpe; Wenna reconoció acentos. Gente normal. Que iba a vender. Que hablaba de los precios y del tiempo.
+Había un camino. Ancho, empedrado, que salía de la puerta sur de la ciudad, subía por la ladera y se perdía entre las lomas hacia el suroeste. Hacia la colina. Por él bajaban carros. Carros de trigo, de lana, de sal, de madera. Conducidos por hombres de la colina, de Pisor, de los fiordos, de Ullathorpe; Wenna reconoció acentos. Gente normal. Que iba a vender. Que hablaba de los precios y del tiempo.
 
 En la puerta no había guardias. Había un hombre sentado en un taburete. Con una capa gris. Que sonreía.
 
@@ -84,7 +84,7 @@ Wenna se paró.
 
 —No sé qué quiere decir.
 
-—Quiere decir mercado. —El hombre se levantó. Le hizo una reverencia pequeña —. En la lengua del oeste. ¿Viene a vender o a comprar?
+—Quiere decir *mercado*. —El hombre se levantó. Le hizo una reverencia pequeña —. En la lengua del oeste. ¿Viene a vender o a comprar?
 
 —A mirar.
 
@@ -92,13 +92,13 @@ Wenna se paró.
 
 Wenna se quedó quieta. Con la mano en el cinto, en la balanza de bronce.
 
-Era su frase. La de Ilsa, la que fundó el Mercado. Aquí no se levanta un arma. Estaba escrita en una tabla de roble, a la entrada del claro del valle negro, desde el año 90. La habían copiado en Nix, en Pisor, en Ullathorpe, en los mercados de toda la costa.
+Era su frase. La de Ilsa, la que fundó el Mercado. *Aquí no se levanta un arma.* Estaba escrita en una tabla de roble, a la entrada del claro del valle negro, desde el año 90. La habían copiado en Nix, en Pisor, en Ullathorpe, en los mercados de toda la costa.
 
 Pero el hombre de la puerta la había dicho con su voz. Con la de Wenna. Exactamente con su voz. Con la de cien años, la que le salía de la tripa.
 
 Y la miraba con los ojos muy quietos.
 
-* * *
+---
 
 El mercado de Arghâl estaba en la plaza redonda, alrededor del templo sin techo.
 
@@ -136,7 +136,7 @@ Wenna dejó de masticar.
 
 Escupió la castaña en la mano.
 
-* * *
+---
 
 La mujer del brasero dejó de sonreír. Solo un instante. Luego volvió a sonreír.
 
@@ -148,7 +148,7 @@ Se fue de allí. Rápido, para su tamaño. Entre los puestos, sin mirar, hacia e
 
 Junto a las columnas de hierro había una balanza.
 
-* * *
+---
 
 Era grande. De hierro rojo. Con dos platillos del tamaño de una rueda de carro, colgados de un brazo largo, sobre un pie con forma de árbol. Delante de ella había una cola de gente. Hombres de la colina, de Pisor, de los fiordos, con sacos de lana, de trigo, de sal. Esperando para pesar.
 
@@ -198,7 +198,7 @@ El pastor cogió la bolsa. La miró. Miró la balanza. Miró al hombre.
 
 —Nada que le haga falta.
 
-* * *
+---
 
 Wenna no lo pensó. Ni un segundo. Era la Fiel del Mercado desde el año 95; llevaba cuatrocientos cincuenta y dos años pesando, y había pesado cosas que no se podían pesar, y las había pesado igual.
 
@@ -228,7 +228,7 @@ Wenna se puso roja hasta las orejas.
 
 —Lo sé. —El hombre se inclinó un poco hacia ella—. Por eso la respetamos tanto. Usted es la única persona del mundo que devolvió lo que su balanza le dio de más. —Se enderezó—. Aquí nadie lo devuelve. Aquí la balanza da lo que uno quiere, y nadie quiere devolver lo que quiere. —Ladeó la cabeza—. ¿Usted qué quiere, Fiel?
 
-* * *
+---
 
 Wenna no contestó.
 
@@ -256,7 +256,7 @@ Y luego cogió su balanza de bronce. La pequeña, la de Kildo. Y la puso en el p
 
 —Pesa esto —dijo.
 
-* * *
+---
 
 La balanza de hierro no se movió.
 
@@ -272,7 +272,7 @@ Se dio la vuelta. Se fue.
 
 Nadie la paró.
 
-* * *
+---
 
 En la puerta norte, el hombre del taburete le dijo adiós con la mano. Sonriendo.
 
@@ -286,7 +286,7 @@ Y lloró. Por primera vez desde el año 145. Mucho. Con la cara en las manos. Co
 
 Duquesa segunda la miró. Y no la mordió.
 
-* * *
+---
 
 Cuando llegó al Mercado, tres semanas después, Dorota estaba esperándola en el barreño.
 
@@ -300,7 +300,7 @@ Cuando llegó al Mercado, tres semanas después, Dorota estaba esperándola en e
 
 —Mi tío dice que pesa bien.
 
-—Tu tío es tonto. —Wenna se bajó de la mula. Le costó—. Que no vuelva a bajar allí. Ni él ni nadie del Mercado. Pon un cartel en la raya. Al sur no se pesa.
+—Tu tío es tonto. —Wenna se bajó de la mula. Le costó—. Que no vuelva a bajar allí. Ni él ni nadie del Mercado. Pon un cartel en la raya. *Al sur no se pesa.*
 
 Dorota la miró con los ojos muy abiertos.
 

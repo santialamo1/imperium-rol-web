@@ -1,4 +1,4 @@
-## Capítulo 73 · Baervan
+# Capítulo 73 · Baervan
 
 *Orac, la torre del muelle. Otoño del año 1439 de la Nueva Era (832 D.bA).*
 
@@ -12,17 +12,17 @@ No es mucho para ciento ochenta y dos años. Es una manzana cada quince días, m
 
 Es bastante.
 
-* * *
+---
 
 La ventana daba al cielo. Solo al cielo. La habían hecho así a propósito, en el 1257, cuando lo subieron: alta, estrecha, con el alféizar a la altura de los ojos de un hombre, que es la altura de la frente de un gnomo subido en una silla. Desde la silla, Baervan veía nubes, gaviotas, la luna cuando pasaba, una estrella sin nombre que salía en invierno por la esquina de abajo.
 
 No veía el mar. Lo oía. Abajo, contra el muelle, día y noche.
 
-No veía la colina. Estaba al norte, al otro lado del mar, a muchos días de barco. Pero a veces, cuando el viento venía de allí, cerraba los ojos y le parecía oír un tum.
+No veía la colina. Estaba al noroeste, al otro lado del mar, a muchos días de barco. Pero a veces, cuando el viento venía de allí, cerraba los ojos y le parecía oír un *tum*.
 
 No lo oía. Lo sabía. Es distinto.
 
-* * *
+---
 
 Esa tarde Glokark subió con la espada.
 
@@ -38,7 +38,7 @@ Glokark tuvo que agacharse. Siempre tenía que agacharse. Tenía doscientos sete
 
 Y en el cinturón, al lado de la vara de fresno, una espada.
 
-* * *
+---
 
 Se sentó en el suelo. Como siempre. Con la espalda contra la pared, con las piernas dobladas, porque la torre era pequeña y él era grande. Le dio la manzana a Baervan.
 
@@ -58,7 +58,7 @@ Baervan dejó de masticar.
 
 —Ella. —Glokark señaló la espada con la barbilla—. La que enseña. Dicen. A todos les enseña. Al chico del bosque le enseñó. Al ladrón. Al herrero. Al Señor le enseñó, y gritó, y luego dejó de gritar. —Se miró la mano derecha—. A mí no me enseña nada. La cojo y calla.
 
-* * *
+---
 
 Baervan se terminó la manzana.
 
@@ -74,7 +74,7 @@ Baervan la cogió. Por la empuñadura. Con las dos manos, porque era una espada 
 
 Y vio.
 
-* * *
+---
 
 No mucho. Un momento. Lo que tarda uno en respirar.
 
@@ -86,7 +86,7 @@ Y se vio a sí mismo.
 
 Comiendo una manzana. En un alféizar. Mirando abajo.
 
-* * *
+---
 
 Baervan soltó la espada.
 
@@ -120,7 +120,7 @@ Glokark no se movió.
 
 —Ya. —Baervan sonrió—. Eso tampoco importa.
 
-* * *
+---
 
 Se quedaron callados un rato largo.
 
@@ -146,7 +146,7 @@ Lo pensó. Era la primera vez que se lo preguntaba así.
 
 —Nada —dijo—. No tocaba nada. Comía manzanas en un alféizar y miraba la colina. —Se rio—. Tuve que venir aquí para aprender a tocar.
 
-* * *
+---
 
 La gaviota se fue.
 
@@ -160,7 +160,7 @@ Pequeño. Cónico. De hojas teñidas de añil, cosidas en espiral, de abajo arri
 
 Azul.
 
-* * *
+---
 
 Baervan se quedó muy quieto.
 
@@ -190,7 +190,7 @@ Le dio la vuelta al sombrero.
 
 Dentro, cosido al forro con hilo rojo, había un papel. Doblado en ocho.
 
-* * *
+---
 
 Baervan lo desdobló con los dedos temblando.
 
@@ -202,13 +202,13 @@ Tachada. Con una raya fina, recta, satisfecha.
 
 Y debajo:
 
-*Número 344. La torre del muelle. Una manzana. Esperar a que la doncella termine de hacer la cuenta. No falta mucho.*
+*Número 344. La torre del muelle. Una manzana. Esperar a que la doncella termine* *de hacer la cuenta. No falta mucho.*
 
-*(Ella dice que lo trae. Que lo dijo él. Que lo prometió en una oreja.) (Dice también que no le digas nada al orco. Pero el orco ya lo sabe. Siempre lo sabe.)*
+*(Ella dice que lo trae. Que lo dijo él. Que lo prometió en una oreja.)* *(Dice también que no le digas nada al orco. Pero el orco ya lo sabe. Siempre lo sabe.)*
 
 *(Ponte el sombrero. Es el de cuando no sabes. Tú ahora no sabes. Bien.)*
 
-* * *
+---
 
 Baervan levantó la vista del papel.
 
@@ -234,7 +234,7 @@ Sin volverse, dijo:
 
 Y bajó.
 
-* * *
+---
 
 Baervan lo oyó bajar. Los pasos. La pausa en el ciento cuarenta. En el ciento treinta. En el ciento catorce. En el sesenta y uno.
 

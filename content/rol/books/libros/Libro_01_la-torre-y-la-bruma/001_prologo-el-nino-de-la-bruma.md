@@ -1,4 +1,4 @@
-## Prólogo · El niño de la bruma
+# Prólogo · El niño de la bruma
 
 *Desierto de la Niebla, Eufesia. Año 80 del Primer Imperio.*
 
@@ -16,7 +16,7 @@ Ella lo había mirado entonces de una manera que Loth no supo descifrar hasta mu
 
 —Entonces olvídalos —le dijo—. Quien te nombra te tiene, mi pequeño. Y quien tú nombras, te tiene a ti.
 
-* * *
+---
 
 Las Madres eran tres. Siempre eran tres. Llevaban velos de lino gris tan largos que barrían la arena tras ellas y borraban sus propias huellas, de modo que nadie podía decir nunca de dónde venían ni hacia dónde iban. Debajo de los velos, decían los muchachos mayores del campamento para asustar a los pequeños, no tenían cara, sino un hueco por el que salía niebla. Loth no lo creía. Había visto a una de ellas beber una vez, de espaldas, apartando apenas el lino, y había visto la curva de un mentón viejo y una gota de agua resbalando por él. Eran mujeres. Viejas, sí, y terribles, pero mujeres. Eso, de algún modo, lo hacía peor.
 
@@ -44,11 +44,11 @@ La Madre del centro no respondió enseguida. Loth sintió su mirada a través de
 
 Loth miró a su madre sin entender. Ella cerró los ojos.
 
-Él no lo sabría hasta mucho más tarde —y cuando lo supo ya era demasiado tarde para que importara, porque para entonces casi nada importaba—, pero dos años antes, la noche en que la luna se tragó la poca luz que atravesaba la niebla, Nadi había nacido azul y sin aliento, y Ishra había ido de rodillas hasta la tienda de las Madres con la niña muerta en los brazos. Había suplicado. Y las Madres habían soplado en la boca de la recién nacida, y Nadi había llorado, y el precio había sido una promesa: Cuando la bruma tenga sed, vendrás.
+Él no lo sabría hasta mucho más tarde —y cuando lo supo ya era demasiado tarde para que importara, porque para entonces casi nada importaba—, pero dos años antes, la noche en que la luna se tragó la poca luz que atravesaba la niebla, Nadi había nacido azul y sin aliento, y Ishra había ido de rodillas hasta la tienda de las Madres con la niña muerta en los brazos. Había suplicado. Y las Madres habían soplado en la boca de la recién nacida, y Nadi había llorado, y el precio había sido una promesa: *Cuando la bruma tenga sed,* *vendrás.*
 
 La bruma tenía sed. Ishra iría.
 
-* * *
+---
 
 Lo hicieron al borde del campamento, donde las tiendas terminaban y empezaba el gris absoluto. Allí la niebla era tan espesa que uno podía extender el brazo y perder de vista su propia mano. Los hombres del clan formaron un semicírculo con antorchas que apenas iluminaban nada; la luz se ahogaba a un palmo de la llama, convertida en un halo enfermizo. Nadie habló. Nadie protestó. El padre de Loth había muerto dos inviernos atrás de una fiebre de los pulmones, y los hermanos de su padre miraban al suelo. Uno de ellos, el tío Oresh, le puso una mano en el hombro a Loth para retenerlo, y el chico recordaría el peso de esa mano durante cuatrocientos años.
 
@@ -66,10 +66,7 @@ Ishra le dio a Nadi a la mujer de Oresh. Luego se arrodilló delante de Loth y l
 
 Y él cantó, con la voz rota, mientras las Madres esperaban inmóviles como tres columnas de humo:
 
-*Duerme, arena, duerme ya,*  
-*la bruma viene y se va;*  
-*quien te nombra te tendrá,*  
-*quien te ama volverá.*
+*Duerme, arena, duerme ya,* *la bruma viene y se va;* *quien te nombra te tendrá,* *quien te ama volverá.*
 
 —Eso es —susurró Ishra, y le besó la frente—. Quien te ama volverá. Recuérdalo.
 
@@ -79,7 +76,7 @@ Luego acercó los labios a su oreja y le susurró una palabra. Una sola. Un nomb
 
 Luego se levantó, se soltó las trenzas, y caminó hacia la niebla.
 
-Las Madres alzaron sus faroles de sal. Comenzaron a cantar en la lengua antigua, la que nadie en el campamento entendía excepto ellas, una salmodia baja y monótona que parecía surgir del suelo. La niebla se movió. No como se mueve con el viento, sino como se mueve un animal que despierta: se hinchó, se contrajo, y luego se abrió, formando un pasillo de penumbra que se adentraba en la nada.
+Las Madres alzaron sus faroles de sal. Comenzaron a cantar en la lengua antigua, la que nadie en el campamento entendía excepto ellas, una salmodia baja y monótona que parecía surgir del suelo. La niebla se movió. No como se mueve con el viento, sino como se mueve un animal que despierta: se hinchó, se contrajo, y luego se *abrió*, formando un pasillo de penumbra que se adentraba en la nada.
 
 Ishra no miró atrás. Entró en el pasillo. La niebla se cerró a su espalda.
 

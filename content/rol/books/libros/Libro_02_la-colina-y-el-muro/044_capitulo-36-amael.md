@@ -1,4 +1,4 @@
-## Capítulo 36 · Amael
+# Capítulo 36 · Amael
 
 *Banderbill. Años 49 a 51 de la Nueva Era.*
 
@@ -12,13 +12,13 @@ La tercera era que su madre no envejecía.
 
 Eso no lo sabía nadie más. O lo sabían todos, pero no lo decían delante de él. Amael lo sabía porque lo había medido.
 
-* * *
+---
 
 Lo había medido con la puerta de la cocina del palacio.
 
-En la puerta de la cocina, en el marco de la izquierda, había rayas. Muchas. Hechas a cuchillo, con fechas al lado. La más baja decía L, año 13, y estaba a la altura de la rodilla de Amael. La siguiente, B, año 14; no, esa era de su tío, más alta. Había dos columnas de rayas, una para su tío Bhargaras, el que estaba en un agujero de un valle negro y al que no había conocido, y otra para su madre. Las de su tío se acababan en el año 23, muy arriba, más arriba de lo que llegaba Amael ni subiéndose a un taburete. Las de su madre se acababan en el año 27.
+En la puerta de la cocina, en el marco de la izquierda, había rayas. Muchas. Hechas a cuchillo, con fechas al lado. La más baja decía *L, año 13*, y estaba a la altura de la rodilla de Amael. La siguiente, *B, año 14*; no, esa era de su tío, más alta. Había dos columnas de rayas, una para su tío Bhargaras, el que estaba en un agujero de un valle negro y al que no había conocido, y otra para su madre. Las de su tío se acababan en el *año 23*, muy arriba, más arriba de lo que llegaba Amael ni subiéndose a un taburete. Las de su madre se acababan en el *año 27*.
 
-Debajo, desde hacía tres años, estaban las suyas. A, año 46. A, año 47. A, año 48. A, año 49.
+Debajo, desde hacía tres años, estaban las suyas. *A, año 46. A, año 47. A, año 48. A,* *año 49.*
 
 Un día, en el año cuarenta y nueve, le pidió a su madre que se pusiera contra el marco.
 
@@ -28,7 +28,7 @@ Un día, en el año cuarenta y nueve, le pidió a su madre que se pusiera contra
 
 Su madre se rió. Pero se puso. Descalza, con la espalda contra la madera, con la barbilla levantada como una niña. Amael se subió al taburete y le puso un cuchillo plano encima de la cabeza y miró la marca.
 
-Estaba exactamente encima de la raya del año 27.
+Estaba exactamente encima de la raya del *año 27*.
 
 Ni un pelo más alta. Ni un pelo más baja.
 
@@ -52,7 +52,7 @@ Su madre se apartó del marco. Se agachó. Le quitó el cuchillo de la mano, con
 
 Su madre lo miró mucho rato. Amael conocía esa mirada. Era la que ponía cuando él le preguntaba algo y ella oía la pregunta de debajo, la que no había hecho. La de verdad.
 
-La pregunta de debajo era: ¿Te vas a morir?
+La pregunta de debajo era: *¿Te vas a morir?*
 
 —No me voy a morir —dijo su madre.
 
@@ -70,11 +70,11 @@ Su madre no contestó a eso.
 
 Amael tenía siete años. No sabía muchas cosas. Pero sabía leer. Y sabía que cuando una frase se queda sin contestar, la contestación está escrita en el hueco.
 
-* * *
+---
 
 Esa era la cosa que sabían todos menos él. Que su madre no se iba a morir y él sí.
 
-* * *
+---
 
 La casa de libros era su sitio. No el palacio, donde había que estar callado en el Consejo y comer con cuchillo y aguantar a maese Saur, que olía a lana mojada y le pellizcaba la mejilla. No la panadería de Teo, aunque la panadería le gustaba, por el olor y porque Teo le dejaba meter la pala en el horno con su brazo bueno mientras el de sal colgaba a un lado, blanco, quieto, como el de una estatua. La casa de libros.
 
@@ -104,11 +104,11 @@ Amael miró el arcón del rincón. Livia vio que lo miraba.
 
 Livia se rió. Con una risa que Amael no entendió entonces y entendió doce años después, en el sótano de una biblioteca, con un arcón sin remitente delante.
 
-* * *
+---
 
 Lo que más le gustaba de las letras viejas era que cambiaban.
 
-Una misma letra, con el punto debajo, era una cosa; con el punto encima, otra. Lo que fue. Lo que será. Y sin punto, lo que es. Livia se lo había explicado con piedras: tres piedras en la mesa, una detrás, una delante, una en medio. Amael lo había entendido a la primera.
+Una misma letra, con el punto debajo, era una cosa; con el punto encima, otra. *Lo* *que fue. Lo que será.* Y sin punto, lo que es. Livia se lo había explicado con piedras: tres piedras en la mesa, una detrás, una delante, una en medio. Amael lo había entendido a la primera.
 
 —Entonces las palabras viajan —dijo.
 
@@ -124,19 +124,19 @@ El elfo levantó la vista de sus cortezas. Lo miró. No sonrió. Pero algo se le
 
 —Sí —dijo Verawel—. Hay que hacerla.
 
-* * *
+---
 
 Un día, a los ocho años, le preguntó a Livia qué quería decir su nombre.
 
-Lo había buscado. En la cartilla de Hilde Tamm no venía. En las cortezas de Verawel no lo había encontrado. Pero sabía que no era un nombre de la colina; los de la colina se llamaban Teo, o Tam, o Bertha, o Hakon, o Sein, nombres cortos que se gritaban bien en el puerto. Amael no se gritaba bien. Amael se decía.
+Lo había buscado. En la cartilla de Hilde Tamm no venía. En las cortezas de Verawel no lo había encontrado. Pero sabía que no era un nombre de la colina; los de la colina se llamaban Teo, o Tam, o Bertha, o Hakon, o Sein, nombres cortos que se gritaban bien en el puerto. *Amael* no se gritaba bien. *Amael* se decía.
 
 Livia se quedó callada un momento. Luego cogió una pluma. Escribió en un papel, con las letras viejas, de arriba abajo, cuatro signos. Le puso un punto encima al último.
 
-—Mael —dijo—. Es la raíz. Quiere decir palabra. O letra. O lo que se escribe. Las Madres no distinguían. Para ellas, lo que se decía y lo que se escribía era lo mismo. — Señaló el primer signo—. Y esto delante es como decir lo. Lo que. Y el punto encima…
+—*Mael* —dijo—. Es la raíz. Quiere decir *palabra*. O *letra*. O *lo que se escribe*. Las Madres no distinguían. Para ellas, lo que se decía y lo que se escribía era lo mismo. — Señaló el primer signo—. Y esto delante es como decir *lo*. Lo que. Y el punto encima…
 
 —Lo que será.
 
-—Lo que será. —Livia lo miró por encima de las gafas—. Lo que se escribirá.
+—Lo que será. —Livia lo miró por encima de las gafas—. *Lo que se escribirá.*
 
 —¿Me lo puso mi madre?
 
@@ -148,7 +148,7 @@ Livia tardó en contestar.
 
 —No —dijo al fin—. Dijo que se lo habías dicho tú.
 
-* * *
+---
 
 Hubo una cosa que encontró y que no debía.
 
@@ -166,7 +166,7 @@ Amael la leyó sin querer. Leía sin querer; era como respirar.
 
 *Duerme, Emrah, duerme ya.*
 
-No sabía qué era Emrah. Las letras no tenían punto. Ni encima ni debajo. Lo que es. Un nombre. De alguien. Un nombre de dentro: lo supo porque lo sintió en la tripa, como un tirón pequeño, como cuando se oye a alguien decir tu nombre de dentro sin querer, por casualidad, en otra conversación.
+No sabía qué era *Emrah*. Las letras no tenían punto. Ni encima ni debajo. *Lo que es.* Un nombre. De alguien. Un nombre de dentro: lo supo porque lo sintió en la tripa, como un tirón pequeño, como cuando se oye a alguien decir tu nombre de dentro sin querer, por casualidad, en otra conversación.
 
 Cerró la tapa del arcón. Puso la manta derecha. Puso la maceta encima.
 
@@ -174,7 +174,7 @@ Y cuando Livia bajó, dos días después, con la tos ya más suelta, Amael le pr
 
 —¿Quién es Emrah?
 
-* * *
+---
 
 Livia se quedó quieta en la escalera.
 
@@ -216,7 +216,7 @@ Y esa misma noche, desde la habitación de arriba, Amael oyó a Livia hablar con
 
 *Loth.*
 
-* * *
+---
 
 A los diez años, en el año cincuenta y dos, Amael le hizo a su madre una pregunta que no le había hecho nunca nadie.
 
@@ -254,7 +254,7 @@ Amael tenía diez años. No sabía muchas cosas. Pero sabía leer. Y sabía que 
 
 *Ni aunque seas tú.*
 
-* * *
+---
 
 No lloró. No delante de ella.
 

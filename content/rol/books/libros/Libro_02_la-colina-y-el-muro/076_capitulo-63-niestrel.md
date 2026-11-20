@@ -1,4 +1,4 @@
-## Capítulo 63 · Niestrel
+# Capítulo 63 · Niestrel
 
 *Banderbill. Años 289 a 291 de la Nueva Era.*
 
@@ -16,11 +16,11 @@ Por eso se dio cuenta.
 
 Cualquier otro no se habría dado cuenta.
 
-* * *
+---
 
 Empezó con el grano.
 
-En el otoño del 289 hubo mala cosecha en el sur. En Nix, en Ullathorpe, en las aldeas del bosque de las hojas grandes. Lluvias tarde, helada temprano, una plaga de algo que los elfos llamaban la boca gris y que se comía el trigo por dentro de la espiga. No era hambre todavía. Era el miedo al hambre, que en una ciudad es peor, porque el hambre llega despacio y el miedo llega en una tarde.
+En el otoño del 289 hubo mala cosecha en el sur. En Nix, en Ullathorpe, en las aldeas del bosque de las hojas grandes. Lluvias tarde, helada temprano, una plaga de algo que los elfos llamaban *la boca gris* y que se comía el trigo por dentro de la espiga. No era hambre todavía. Era el miedo al hambre, que en una ciudad es peor, porque el hambre llega despacio y el miedo llega en una tarde.
 
 Niestrel lo supo un martes, por un jinete de Nix. Se pasó la noche despierto, con los cuadernos negros abiertos en la mesa, haciendo cuentas. Cuánto grano había en los graneros imperiales de la colina. Cuánto haría falta en el sur. Cuántos barcos. Cuánto tardarían. Por la mañana tenía la orden escrita: abrir los graneros, cargar ocho barcos, mandarlos a Nix por el río en las barcas de los gnomos.
 
@@ -46,23 +46,23 @@ Y fechada el viernes.
 
 Tres días antes de que llegara el jinete.
 
-* * *
+---
 
 Niestrel no dijo nada. Le dio las gracias al intendente. Se guardó el papel en el cuaderno negro.
 
 Esa noche no durmió tampoco.
 
-Había firmado el papel. Eso era lo peor. La firma era suya. No una falsificación; la suya, con la N que hacía con un rabo hacia atrás desde que tenía nueve años. Lo había firmado. El viernes. Entre otros cuarenta papeles que le había puesto delante su secretario, como todos los viernes, papeles de puertos y de impuestos y de bodas de nobles que pedían permiso. No se acordaba. No lo había leído.
+Había firmado el papel. Eso era lo peor. La firma era suya. No una falsificación; la suya, con la *N* que hacía con un rabo hacia atrás desde que tenía nueve años. Lo había firmado. El viernes. Entre otros cuarenta papeles que le había puesto delante su secretario, como todos los viernes, papeles de puertos y de impuestos y de bodas de nobles que pedían permiso. No se acordaba. No lo había leído.
 
 Pero lo había firmado.
 
 Y alguien sabía, el viernes, que el martes iba a llegar un jinete de Nix diciendo que había mala cosecha.
 
-* * *
+---
 
 Buscó en los cuadernos.
 
-Le llevó tres meses. Por las noches. Con una vela. Sin decírselo a nadie, ni a su mujer, Ilaria, que dormía al otro lado de la cama y que una noche se despertó, lo vio rodeado de cuadernos negros abiertos por el suelo como un náufrago rodeado de tablas, y le dijo Niestrel, por los dioses, que tienes cuarenta y cuatro años, y se volvió a dormir.
+Le llevó tres meses. Por las noches. Con una vela. Sin decírselo a nadie, ni a su mujer, Ilaria, que dormía al otro lado de la cama y que una noche se despertó, lo vio rodeado de cuadernos negros abiertos por el suelo como un náufrago rodeado de tablas, y le dijo *Niestrel, por los dioses, que tienes cuarenta y cuatro años*, y se volvió a dormir.
 
 Buscó cada papel que había firmado en doce años de Emperador. Cada uno que había apuntado. Que eran todos.
 
@@ -72,11 +72,11 @@ Cuarenta y uno en doce años. Papeles que había firmado un viernes, entre otros
 
 Al enano lo cogieron a la mañana siguiente, con el veneno en la bolsa, en una casa vacía.
 
-Niestrel había leído el informe en su momento. Había pensado qué suerte.
+Niestrel había leído el informe en su momento. Había pensado *qué suerte*.
 
-Cuarenta y una veces había pensado qué suerte.
+Cuarenta y una veces había pensado *qué suerte*.
 
-* * *
+---
 
 Le preguntó a su secretario.
 
@@ -106,7 +106,7 @@ Esa noche lo apuntó en el cuaderno negro. Con su letra.
 
 *Nadie pregunta por lo que acierta.*
 
-* * *
+---
 
 Esperó al viernes siguiente. No firmó. Se llevó la pila entera a su cuarto y la leyó, papel por papel, cuarenta y tres papeles, y en el treinta y ocho encontró uno que no venía de ningún gremio ni de ningún Consejo.
 
@@ -122,19 +122,19 @@ Y por detrás, al trasluz, en la esquina de abajo, muy pequeño, había una marc
 
 Un palote.
 
-* * *
+---
 
 Lo sabía. Lo sabía todo el mundo que hubiera leído las Crónicas. Y Niestrel las había leído todas, desde los cuadernos de Livia Heredicus hasta las de Tomas Vell, el cronista de ahora, un hombre con gafas que llevaba en la biblioteca más tiempo del que nadie recordaba.
 
 El palote era la marca de los Vell.
 
-De los cronistas. De los que llevaban los libros de cuentas desde Casimir. Estaba grabado en los arcones de la biblioteca. Estaba en la piedra que recordaba a Casimir en la cripta bajo la torre. Estaba en las cartas Al que lee que habían llegado a la biblioteca durante cien años, sin firma, con un palote, y que Amael había guardado en un cajón y que ahora estaban en una vitrina.
+De los cronistas. De los que llevaban los libros de cuentas desde Casimir. Estaba grabado en los arcones de la biblioteca. Estaba en la piedra que recordaba a Casimir en la cripta bajo la torre. Estaba en las cartas *Al que lee* que habían llegado a la biblioteca durante cien años, sin firma, con un palote, y que Amael había guardado en un cajón y que ahora estaban en una vitrina.
 
 Niestrel firmó el papel. El de la guardia de la puerta.
 
 Y el martes, a las doce, se fue a la puerta este y se quedó allí, en la muralla, con su capa más vieja y la capucha puesta, para ver qué pasaba.
 
-* * *
+---
 
 No pasó nada.
 
@@ -152,7 +152,7 @@ Niestrel se acercó al carro. Abrió un tonel.
 
 Estaba lleno de pólvora gnoma. De la que usaban los gnomos para los fuegos de colores. Mucha. Suficiente para que los fuegos de colores se vieran desde la otra punta del mar.
 
-* * *
+---
 
 Fue a la biblioteca al día siguiente. Solo. Sin escolta. Sin secretario.
 
@@ -172,7 +172,7 @@ Niestrel se paró delante de la mesa.
 
 El de las gafas no dijo nada.
 
-—Y cuando era niño mi abuelo, había una cronista que se llamaba Ada Vell, la segunda de ese nombre. Y antes un tal Odric Vell. Y antes otra Ada. Y antes un Sein Vell. —Niestrel sacó el cuaderno negro—. Pero en todas las Crónicas, en todas, aunque cambie el nombre, hay un hombre de cuarenta años con gafas que trabaja en esta mesa. Ada Vell lo menciona. El de la mesa del fondo. Odric también. Bredinlo de Pisor, en el cuaderno que escribió en el Rincón, lo menciona. Un hombre de unos cuarenta años con gafas.
+—Y cuando era niño mi abuelo, había una cronista que se llamaba Ada Vell, la segunda de ese nombre. Y antes un tal Odric Vell. Y antes otra Ada. Y antes un Sein Vell. —Niestrel sacó el cuaderno negro—. Pero en todas las Crónicas, en todas, aunque cambie el nombre, hay un hombre de cuarenta años con gafas que trabaja en esta mesa. Ada Vell lo menciona. *El de la mesa del fondo.* Odric también. Bredinlo de Pisor, en el cuaderno que escribió en el Rincón, lo menciona. *Un hombre de unos cuarenta años con gafas.*
 
 —Bredinlo escribía muy bien.
 
@@ -182,7 +182,7 @@ El de las gafas se quitó las gafas. Las limpió en la manga. Tardó.
 
 —Sein —dijo—. Sein Vell. El primero.
 
-* * *
+---
 
 Hablaron hasta la noche. Niestrel lo apuntó todo, en el cuaderno negro, con su letra. Lo de Casimir. Lo de la ofrenda. Lo de la chica pelirroja que no se moría y que había sido la primera reina de la colina, su antepasada de ocho generaciones atrás. Lo de la gota en el frasco de cristal. Lo de la Orden.
 
@@ -214,7 +214,7 @@ Niestrel se quedó callado.
 
 —Porque tenía un poco de razón.
 
-* * *
+---
 
 Niestrel volvió al palacio de noche. Se sentó en su cuarto. Ilaria dormía. Abrió el cuaderno negro por una página en blanco.
 
@@ -226,17 +226,17 @@ Pensó en los cuarenta y uno.
 
 En el incendio del puerto de coral, que no llegó a la ciudad. En la crecida de Nix, que no se llevó el dique. En el embajador élfico, que seguía vivo y que le había enseñado a tocar el arpa a su hija. En la puerta este.
 
-Pensó en qué suerte.
+Pensó en *qué suerte*.
 
 Y pensó en una cosa que le había dicho Sein Vell al final, en la puerta de la biblioteca, cuando ya se iba.
 
-*No somos buenos, majestad. No crea eso. Somos pocos y no nos morimos. Eso no es lo mismo que ser buenos. Hemos matado a un niño. Hemos dejado leer a quien no debía. Hemos guardado cosas por miedo. Lo tengo todo apuntado. En el debe.*
+*No somos buenos, majestad. No crea eso. Somos pocos y no nos morimos. Eso no* *es lo mismo que ser buenos. Hemos matado a un niño. Hemos dejado leer a quien no* *debía. Hemos guardado cosas por miedo. Lo tengo todo apuntado. En el debe.*
 
 *Entonces, ¿por qué debería dejarles?*
 
-No debería. Sein se había encogido de hombros. Debería vigilarnos. Que es otra cosa.
+*No debería.* Sein se había encogido de hombros. *Debería vigilarnos. Que es otra* *cosa.*
 
-* * *
+---
 
 Niestrel escribió.
 
@@ -244,9 +244,9 @@ Niestrel escribió.
 
 Lo miró.
 
-Luego, debajo: Y detrás de la Orden, el Emperador. Que lee los papeles de los viernes. Que conste.
+Luego, debajo: *Y detrás de la Orden, el Emperador. Que lee los papeles de los viernes. Que conste.*
 
-Al día siguiente, y todos los viernes durante los doce años que le quedaban de reinado, Niestrel leyó la pila entera, papel por papel. Y cuando encontraba uno con un palote al trasluz, lo leía dos veces, y lo firmaba, y en el margen, con su letra, ponía una N con el rabo hacia atrás y una palabra.
+Al día siguiente, y todos los viernes durante los doce años que le quedaban de reinado, Niestrel leyó la pila entera, papel por papel. Y cuando encontraba uno con un palote al trasluz, lo leía dos veces, y lo firmaba, y en el margen, con su letra, ponía una *N* con el rabo hacia atrás y una palabra.
 
 *Visto.*
 
@@ -262,4 +262,4 @@ Y las dos veces, en la biblioteca, en el rincón del fondo, un hombre con gafas 
 
 Y lo dejó así.
 
-Le llamaron el Justo, después, en las Crónicas. Él habría preferido el que lee. Pero eso ya estaba cogido.
+Le llamaron *el Justo*, después, en las Crónicas. Él habría preferido *el que lee*. Pero eso ya estaba cogido.

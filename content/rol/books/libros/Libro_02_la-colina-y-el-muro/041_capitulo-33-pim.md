@@ -1,4 +1,4 @@
-## Capítulo 33 · Pim
+# Capítulo 33 · Pim
 
 *Las cuevas de la costa norte y el valle negro. Invierno del año 42 de la Nueva Era.*
 
@@ -8,9 +8,9 @@ No toda. Le quedaban los ojos, verdes todavía, aunque Bram decía que se le hab
 
 Lo demás se le había ido a trozos. El pómulo izquierdo primero, el día de Torvald, cuando aprendió. Luego el derecho. Luego la nariz, poco a poco, como se cae una pared de adobe con la lluvia. Debajo había hueso. Blanco, limpio, un poco brillante, como el de las calaveras que el mar dejaba a veces en la playa. No dolía. Al principio sí. Luego no.
 
-Los niños —que ya no eran niños, que tenían veinte años, veinticinco, alguno treinta— se reían de él cuando era pequeño. Pim Sincara, lo llamaban. Ahora no se reían. Ahora la mayoría se parecía a él.
+Los niños —que ya no eran niños, que tenían veinte años, veinticinco, alguno treinta— se reían de él cuando era pequeño. *Pim Sincara*, lo llamaban. Ahora no se reían. Ahora la mayoría se parecía a él.
 
-* * *
+---
 
 Eran sesenta y uno. De los ochenta y siete que salieron por el puente de troncos el año veintisiete con un saco de sal y el cuchillo de Gorm, quedaban sesenta y uno. Veinte se habían ido al valle con Ilsa. Los demás se habían muerto, de frío, de hambre, de la tos que se cogía en las cuevas, o se habían tirado al mar en las noches malas, o se habían ido una mañana sin decir adónde.
 
@@ -20,7 +20,7 @@ Pim les había enseñado. Al principio por los niños, como le había dicho al h
 
 Y luego, hacía tres años, cuando el hombre de pelo blanco no volvió, por rabia.
 
-* * *
+---
 
 No volvió. Eso era lo que no le perdonaba nadie.
 
@@ -42,7 +42,7 @@ Eso le habían enseñado. Eso le había enseñado Orla. Eso y nada más.
 
 Él no se iba.
 
-* * *
+---
 
 —Ella lo tiene —dijo Bram.
 
@@ -66,9 +66,9 @@ No terminó. No hizo falta.
 
 Pim miró el fuego.
 
-Pensó en el hombre de pelo blanco sentado en el suelo de esa misma cueva, hacía quince años, con la cara quemada, diciéndole ya no quiero a nadie. Pensó en él subiendo por el sendero de cabras. Pensó en el tirón, en el hueco, en el diente arrancado. Pensó en lo que decían los tramperos: que se había deshecho. En sal. Como la de las jarras.
+Pensó en el hombre de pelo blanco sentado en el suelo de esa misma cueva, hacía quince años, con la cara quemada, diciéndole *ya no quiero a nadie*. Pensó en él subiendo por el sendero de cabras. Pensó en el tirón, en el hueco, en el diente arrancado. Pensó en lo que decían los tramperos: que se había deshecho. En sal. Como la de las jarras.
 
-Lo que se deshace en sal, pensó, se puede juntar.
+*Lo que se deshace en sal*, pensó, *se puede juntar.*
 
 No lo pensó él. Lo pensó algo debajo de él. Algo que llevaba quince años aprendiendo a tirar, y que había aprendido muy bien.
 
@@ -78,7 +78,7 @@ Nadie dijo nada. Los sesenta y uno lo miraban desde el otro lado del fuego, con 
 
 —Podríamos traerlo —repitió Pim—. Lo que es de mi maestro.
 
-* * *
+---
 
 Fueron al valle primero.
 
@@ -86,13 +86,13 @@ Pim lo decidió así. No por estrategia; por una cosa que no sabía nombrar. Hab
 
 Tardaron catorce días. Con nieve. Con viento. Con dos muertos por el camino, que no nombraron, porque ya no nombraban a sus muertos; los dejaban en la nieve y seguían.
 
-El valle estaba igual que lo recordaba de los cuentos. Negro. Liso. Pulido. Con el agujero en el centro, como un ojo cerrado.
+El valle estaba igual que lo recordaba de los cuentos. Un cráter. Negro. Liso. Pulido. Con ceniza en las laderas y el agujero en el centro, como un ojo cerrado.
 
 Y alrededor del agujero, de pie, quietas, veintidós figuras de sal.
 
 Y alrededor de ellas, en el suelo, en un anillo ancho, los pedazos.
 
-Cientos. Blancos, en las piedras negras, medio cubiertos de nieve. Cabezas partidas. Brazos. Trozos de manto. Velos rotos, curvados como cáscaras de huevo. Llevaban trece años allí, desde la mañana en que los soldados del rey se pusieron a romper con martillos lo que no se defendía. Nadie los había recogido. Nadie se había atrevido.
+Cientos. Blancos, en las piedras negras, medio cubiertos de ceniza. Cabezas partidas. Brazos. Trozos de manto. Velos rotos, curvados como cáscaras de huevo. Llevaban trece años allí, desde la mañana en que los soldados del rey se pusieron a romper con martillos lo que no se defendía. Nadie los había recogido. Nadie se había atrevido.
 
 —Mira —dijo Bram. Con una voz rara.
 
@@ -102,7 +102,7 @@ En el borde del valle, en la ladera sur, junto a una fuente de la que salía vap
 
 Y una mujer bajando hacia ellos.
 
-* * *
+---
 
 Era Ilsa. Tenía veintiséis años. Pim la habría reconocido aunque tuviera cien: la misma cara seria, la misma forma de andar derecha, la misma manera de mirar a la gente como si estuviera oyendo algo detrás de ellos. Llevaba una túnica gris. La túnica gris de Orla. Le quedaba bien.
 
@@ -122,7 +122,7 @@ Ilsa miró los pedazos, en la nieve. Luego lo miró a él.
 
 —No podéis bajar con eso —dijo.
 
-Era lo mismo que le había dicho el año veintiocho, en el borde del valle, cuando se separaron. No podéis bajar con eso. Con lo que habían aprendido. Con el hambre. Pim se acordó. Le dolió algo detrás del hueso de la cara, donde antes estaba el pómulo.
+Era lo mismo que le había dicho el año veintiocho, en el borde del valle, cuando se separaron. *No podéis bajar con eso.* Con lo que habían aprendido. Con el hambre. Pim se acordó. Le dolió algo detrás del hueso de la cara, donde antes estaba el pómulo.
 
 —No vamos a bajar —dijo—. Vamos a la colina.
 
@@ -158,7 +158,7 @@ Pim se quedó quieto.
 
 —Se da la vuelta en la cama —dijo Ilsa—. Cada vez que tiráis. Se da la vuelta. No se despierta. Pero se da la vuelta. Por eso no podéis bajar con eso. —Señaló el agujero—. Ni podéis subir a la colina con eso. Porque allí también hay algo que duerme. Debajo del muro.
 
-* * *
+---
 
 No la escuchó.
 
@@ -174,7 +174,7 @@ Las veintidós de sal, alrededor del agujero, no se movieron. Ni un velo.
 
 —Pim —dijo Ilsa—. No.
 
-Pim se arrodilló junto a un pedazo. Una cabeza. Partida en dos, con el velo roto, curvado, medio lleno de nieve. Por dentro no había nada; sal blanca, maciza, sin brillo. Lo que la había movido se había ido al agujero, con el rey, hacía trece años. Solo quedaba la forma.
+Pim se arrodilló junto a un pedazo. Una cabeza. Partida en dos, con el velo roto, curvado, medio lleno de ceniza. Por dentro no había nada; sal blanca, maciza, sin brillo. Lo que la había movido se había ido al agujero, con el rey, hacía trece años. Solo quedaba la forma.
 
 La forma bastaba.
 
@@ -182,13 +182,13 @@ Le puso las dos manos encima. Cerró los ojos.
 
 Y la nombró.
 
-No con un nombre; no lo tenía. La nombró como le había enseñado el hombre de pelo blanco a nombrar lo que no tiene nombre: mirándose a sí mismo. Mirando hacia abajo. Hacia su hambre. Hacia el hueco donde antes estaba el diente. Ven. Ven. Eres mía. Ven.
+No con un nombre; no lo tenía. La nombró como le había enseñado el hombre de pelo blanco a nombrar lo que no tiene nombre: mirándose a sí mismo. Mirando hacia abajo. Hacia su hambre. Hacia el hueco donde antes estaba el diente. *Ven. Ven. Eres mía.* *Ven.*
 
 Le dolió. Siempre le dolía. Notó algo soltarse en la mandíbula, del lado derecho, como se suelta un clavo de una tabla podrida. Notó cómo se le iba un trozo más de cara.
 
 Y la sal, debajo de sus manos, se movió.
 
-* * *
+---
 
 No se levantaron todas. Muchas no. Estaban demasiado rotas, o demasiado vacías, o demasiado lejos. Pero de las cientos, se levantaron ochenta y tantas.
 
@@ -210,7 +210,7 @@ Todas a la vez.
 
 No hacia Pim. Hacia las otras. Hacia las ochenta y tantas, torcidas, de ojos grises.
 
-Y Pim oyó, por primera vez en su vida, el canto de las Madres. El de verdad. El que había oído la Heredicus la Noche del Dolor. No pases. No pases. No pases.
+Y Pim oyó, por primera vez en su vida, el canto de las Madres. El de verdad. El que había oído la Heredicus la Noche del Dolor. *No pases. No pases. No pases.*
 
 No iba dirigido a él.
 
@@ -218,7 +218,7 @@ Iba dirigido a lo que él había levantado.
 
 Como un perro que ladra a otro perro.
 
-* * *
+---
 
 Se fueron esa misma tarde. No pelearon. Las de sal no se movieron del anillo; no podían, no querían, no era su guardia. Solo cantaron. Y las otras, las de Pim, las de ojos grises, se dieron la vuelta y lo siguieron fuera del valle, torpes, crujiendo, dejando trozos por el camino.
 
@@ -234,7 +234,7 @@ Bram sí. Una vez. En lo alto del paso. Y luego dijo algo que Pim no olvidaría:
 
 —Ella. Ilsa. —Bram se tocó la media cara de hueso, sin darse cuenta—. Y la de abajo. Las dos. A la vez.
 
-* * *
+---
 
 Bajaron hacia la colina en la luna nueva de finales de invierno. Sesenta y un desterrados con caras de hueso y ochenta y tantas formas de sal torcidas con los ojos grises de su hambre.
 
@@ -258,7 +258,7 @@ Y el agua no canta.
 
 —Por ahí —dijo.
 
-Y antes de bajar, se arrodilló en la nieve y se quitó el cuchillo de Gorm del cinto. El que le había dado Mara Renod en el puente de troncos, el día del destierro. Cuídalos, Pim. A los niños. Cuídalos bien. Lo había llevado quince años. No lo había usado nunca.
+Y antes de bajar, se arrodilló en la nieve y se quitó el cuchillo de Gorm del cinto. El que le había dado Mara Renod en el puente de troncos, el día del destierro. *Cuídalos, Pim.* *A los niños. Cuídalos bien.* Lo había llevado quince años. No lo había usado nunca.
 
 Lo clavó en la nieve. Lo dejó allí.
 

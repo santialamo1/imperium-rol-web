@@ -1,4 +1,4 @@
-## Capítulo 37 · Ithil
+# Capítulo 37 · Ithil
 
 *Orac, la torre del muelle. Invierno del año 1257 de la Nueva Era (650 D.bA).*
 
@@ -10,7 +10,7 @@ Cuarenta días preguntándole qué quería.
 
 Y el gnomo, cuarenta días, riéndose.
 
-* * *
+---
 
 —Llévatelo —dijo el Señor.
 
@@ -46,7 +46,7 @@ El Señor no contestó.
 
 Se fue.
 
-* * *
+---
 
 Ithil bajó a las celdas esa noche. Con Glokark detrás, que no se lo había pedido y que fue igual, como iba a todas partes desde que tenía seis años.
 
@@ -64,11 +64,11 @@ Se le quedó mirando mucho rato.
 
 —Tú eres el que tocó la pared —dijo.
 
-* * *
+---
 
 Ithil no se movió.
 
-—En el fuerte del norte —dijo el gnomo—. En el 1080. El de la punta. Tibbet escribió una línea en su lista. Un drow que sabe que hay una pared que no es una pared. Y que no lo dice. —Se rascó la barba—. No la he leído. Me la contó él. Bajó a la colina en el 1200 y algo, a la reunión del pan, una vez, y me la contó en la escalera. Me dijo que tenías el pelo blanco y una bolsita en el cuello y que te tocaste la bolsita con dos dedos antes de irte.
+—En el fuerte del norte —dijo el gnomo—. En el 1080. El de la punta. Tibbet escribió una línea en su lista. *Un drow que sabe que hay una pared que no es una pared. Y* *que no lo dice.* —Se rascó la barba—. No la he leído. Me la contó él. Bajó a la colina en el 1200 y algo, a la reunión del pan, una vez, y me la contó en la escalera. Me dijo que tenías el pelo blanco y una bolsita en el cuello y que te tocaste la bolsita con dos dedos antes de irte.
 
 Ithil se llevó la mano al pecho. Sin querer. Con dos dedos.
 
@@ -76,7 +76,7 @@ El gnomo sonrió.
 
 —Eso —dijo.
 
-* * *
+---
 
 Lo sacó de la celda esa misma noche.
 
@@ -96,7 +96,7 @@ Le dio la llave a Glokark.
 
 —Ciérrala. —Ithil se volvió para bajar—. Pero no le quites la ventana.
 
-* * *
+---
 
 Volvió al día siguiente.
 
@@ -130,7 +130,7 @@ Ithil tardó en contestar.
 
 —Porque yo contesté una vez —dijo—. Y me quitaron lo de arriba.
 
-* * *
+---
 
 El gnomo se quedó callado.
 
@@ -156,7 +156,7 @@ Ithil no contestó.
 
 El gnomo se la contó.
 
-* * *
+---
 
 Así empezó.
 
@@ -182,9 +182,9 @@ Era la primera vez que le decía el nombre.
 
 Ithil se quedó helado.
 
-* * *
+---
 
-Sabía la regla. La sabía desde el 880. El que pregunta, tiene que contestar. Si le preguntan. Era del Señor. Más vieja que el Señor. Pero no sabía si valía para los demás. Si un gnomo le preguntaba algo a él, en una torre, en Orac, ¿tenía que contestar? ¿Y quién le preguntaría después al gnomo? ¿Y qué se le quedaría a quién?
+Sabía la regla. La sabía desde el 880. *El que pregunta, tiene que contestar. Si le* *preguntan.* Era del Señor. Más vieja que el Señor. Pero no sabía si valía para los demás. Si un gnomo le preguntaba algo a él, en una torre, en Orac, ¿tenía que contestar? ¿Y quién le preguntaría después al gnomo? ¿Y qué se le quedaría a quién?
 
 —No —dijo.
 
@@ -198,11 +198,11 @@ Ithil no contestó.
 
 —Te lo pregunto igual —dijo el gnomo—. ¿Qué tocabas?
 
-* * *
+---
 
 No era la pregunta que Ithil esperaba.
 
-Esperaba qué quieres. Esperaba qué contestaste. Esperaba por qué me has traído aquí.
+Esperaba *qué quieres*. Esperaba *qué contestaste*. Esperaba *por qué me has traído* *aquí*.
 
 —¿Qué? —dijo.
 
@@ -218,7 +218,7 @@ Las tenía quietas. Ahora. Pero el gnomo tenía razón. Lo supo al mirarlas. Lo 
 
 Le salió solo.
 
-* * *
+---
 
 No pasó nada.
 
@@ -242,7 +242,7 @@ Ithil abrió los ojos.
 
 —Mi madre tocaba el laúd mirando abajo —dijo el gnomo—. A las cuerdas. Siempre. Porque si no, se equivocaba de traste. —Se encogió de hombros—. A lo mejor la música es arriba cuando se escucha. Pero cuando se toca, es en las manos. Y las manos están aquí.
 
-* * *
+---
 
 Ithil no dijo nada en mucho rato.
 
@@ -276,13 +276,13 @@ El gnomo se quedó quieto en el suelo. Con la espalda contra la pared.
 
 —Vale —dijo—. Pregunta.
 
-Ithil pensó en la pregunta. La de siempre. La que el Señor le había hecho cuarenta días. ¿Qué quieres? La que el gnomo había contestado con risas mirando arriba. La que Ithil, si la hacía, oiría contestar, porque esa era la regla, y la que quedaría en la torre, entre los dos, para siempre.
+Ithil pensó en la pregunta. La de siempre. La que el Señor le había hecho cuarenta días. *¿Qué quieres?* La que el gnomo había contestado con risas mirando arriba. La que Ithil, si la hacía, oiría contestar, porque esa era la regla, y la que quedaría en la torre, entre los dos, para siempre.
 
 No la hizo.
 
 —¿Cómo se llamaba la estrella? —preguntó.
 
-* * *
+---
 
 El gnomo se rio.
 
@@ -304,7 +304,7 @@ Poco. Un lado de la boca. Como se le escapa la sonrisa a uno que no se acuerda d
 
 Y salió.
 
-* * *
+---
 
 Glokark estaba al pie de la escalera de la torre. Esperando. Lo había oído todo; la puerta no cerraba bien.
 

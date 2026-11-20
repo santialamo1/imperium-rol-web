@@ -1,6 +1,6 @@
-## Capítulo 10 · Joss Hask
+# Capítulo 10 · Joss Hask
 
-*Las lomas del suroeste. Invierno del año 563 de la Nueva Era.*
+*Las lomas del noreste. Invierno del año 563 de la Nueva Era.*
 
 Los Hask miraban hacia arriba antes de cargar desde el año 398, y en ciento sesenta y cinco años no habían cargado casi nunca, y Joss Hask, teniente de la Armada Imperial, veinticuatro años, nieto de la que había sido capitana general, empezaba a pensar que lo de mirar hacia arriba era una costumbre de familia, como lo de comer pescado los viernes.
 
@@ -16,11 +16,11 @@ Joss no lo había entendido.
 
 Lo entendió en el invierno del 563. En una mina.
 
-* * *
+---
 
 La orden llegó a mediados de enero. Del Consejo, no del Emperador; el Emperador estaba en Nix, como cada invierno desde que había muerto la reina Hedda, y el Consejo gobernaba la colina cuando él no estaba.
 
-*Patrulla de reconocimiento. Veinte soldados. Lomas del suroeste. Tres pastores de la loma del espino denuncian que han desaparecido ovejas. Ver si hay lobos. Volver.*
+*Patrulla de reconocimiento. Veinte soldados. Lomas del noreste. Tres pastores de* *la loma del espino denuncian que han desaparecido ovejas. Ver si hay lobos. Volver.*
 
 La firmaba maese Corbel. El hijo de maese Corbel, en realidad; el viejo se había muerto en el 551, rico y contento, y el hijo había heredado la notaría del gremio, el negocio del hierro rojo y el asiento en el Consejo, y era más gordo, más amable y más rico que el padre.
 
@@ -40,7 +40,7 @@ Durn lo miró. Con los ojos pequeños de enano, que parecen piedras.
 
 —La de los muertos. La que se dice mirando arriba. —Durn se tocó la barba—. Llévatela puesta. Como se lleva la capa.
 
-* * *
+---
 
 Salieron un martes. Veinte. Joss delante, con la capa azul de teniente y la espada al cinto, que no había desenvainado nunca más que para limpiarla. Durn detrás, con el hacha. Los dos elfos de Nix, Faer y Lisandre, a los lados, porque los elfos oyen mejor. El gnomo de las lámparas, que se llamaba Pippo y que no tenía que haber ido, pero que había ido porque el gnomo que tenía que ir se había puesto enfermo. Y quince muchachos más.
 
@@ -78,7 +78,7 @@ La mujer no contestó.
 
 —A las minas. —La mujer cerró la boca. La abrió—. A trabajar. En otoño. Para pagar el invierno. Me dijo que volvería en primavera.
 
-Joss asintió. Iba a decir algo. Algo de teniente, de consuelo, de ya volverá.
+Joss asintió. Iba a decir algo. Algo de teniente, de consuelo, de *ya volverá*.
 
 —No vayan —dijo Mabel antes.
 
@@ -86,11 +86,11 @@ Joss asintió. Iba a decir algo. Algo de teniente, de consuelo, de ya volverá.
 
 —Ya. —La mujer le miró la capa azul, la espada que no se había desenvainado nunca—. Pues miren arriba antes de bajar.
 
-* * *
+---
 
 Bajaron por la tarde.
 
-No a la ciudad. La ciudad estaba al otro lado, al suroeste, detrás de la cresta; se veía el humo. La orden decía lomas, no ciudad. La ciudad era de los del oeste, tenía papeles, tenía notaría, tenía un asiento en el Consejo por medio de maese Corbel, y la Armada no entraba en ella. Eso lo sabía cualquier teniente.
+No a la ciudad. La ciudad estaba al otro lado, al noreste, detrás de la cresta; se veía el humo. La orden decía lomas, no ciudad. La ciudad era de los del oeste, tenía papeles, tenía notaría, tenía un asiento en el Consejo por medio de maese Corbel, y la Armada no entraba en ella. Eso lo sabía cualquier teniente.
 
 Bajaron por la vaguada del este. Siguiendo las huellas de las ovejas en la escarcha. Que iban en fila. Rectas. Sin desviarse, sin pararse a comer, sin dar una vuelta. Como las de alguien que sabe adónde va.
 
@@ -100,7 +100,7 @@ Estaba en la ladera de la vaguada, entre zarzas, con una puerta de madera abiert
 
 Y una canción.
 
-* * *
+---
 
 Fue Pippo el que la oyó primero. El gnomo. Los gnomos oyen las canciones antes que los elfos, porque no las escuchan; solo las oyen.
 
@@ -130,11 +130,11 @@ Joss no contestó. Estaba oliendo el pan.
 
 —Teniente. —Durn le puso la mano en el hombro. Una mano de enano, pesada, que le apretó—. Mire arriba.
 
-* * *
+---
 
 Joss no miró.
 
-Lo pensaría después, muchas veces, durante el resto de su vida, que fue larga. Que Durn le había dicho mire arriba con la voz del sargento, la de las órdenes, la que la Armada aprendía el primer día. Que él la había oído. Que no había mirado.
+Lo pensaría después, muchas veces, durante el resto de su vida, que fue larga. Que Durn le había dicho *mire arriba* con la voz del sargento, la de las órdenes, la que la Armada aprendía el primer día. Que él la había oído. Que no había mirado.
 
 Porque olía a pan. Y él tenía veinticuatro años. Y su madre se había muerto cuando él tenía nueve.
 
@@ -142,7 +142,7 @@ Entró.
 
 Y detrás de él, porque era el teniente, porque la Armada sigue a su teniente, entraron todos.
 
-* * *
+---
 
 Dentro no había nada malo.
 
@@ -164,9 +164,9 @@ Joss se paró.
 
 Era su madre.
 
-* * *
+---
 
-No era su madre. Lo supo. Lo supo como se saben las cosas en los sueños, que se saben y no sirve de nada. Su madre estaba muerta. Su madre estaba en el cementerio de la ladera este, debajo de una piedra con su nombre, Hanne Hask, y los años, y una frase que había elegido su padre, hacía pan los domingos.
+No era su madre. Lo supo. Lo supo como se saben las cosas en los sueños, que se saben y no sirve de nada. Su madre estaba muerta. Su madre estaba en el cementerio de la ladera este, debajo de una piedra con su nombre, Hanne Hask, y los años, y una frase que había elegido su padre, *hacía pan los domingos*.
 
 Pero estaba allí. Con el delantal. Con las manos en la masa. Con el pelo recogido en un pañuelo azul. Con la cara de cuando él tenía seis años.
 
@@ -178,7 +178,7 @@ Lo miró. Le sonrió.
 
 —Siéntate. Come. Estás muy delgado.
 
-Detrás de él, oyó a los otros. Oyó a Faer, el elfo, que decía un nombre de mujer en élfico. A Pippo, el gnomo, que se reía como un niño. A un muchacho de los fiordos que lloraba y decía papá.
+Detrás de él, oyó a los otros. Oyó a Faer, el elfo, que decía un nombre de mujer en élfico. A Pippo, el gnomo, que se reía como un niño. A un muchacho de los fiordos que lloraba y decía *papá*.
 
 A Durn, no. Durn no decía nada.
 
@@ -198,7 +198,7 @@ Joss miró la hogaza.
 
 Iba a comer. Lo sabía. Tenía la boca abierta.
 
-* * *
+---
 
 Y entonces, detrás de él, alguien empezó a cantar.
 
@@ -218,7 +218,7 @@ Arriba había roca. Roja. Húmeda. Con vetas.
 
 Y la palabra le salió de la boca. Sola. Mal dicha. Con la voz de un muchacho de veinticuatro años que no sabía lo que decía.
 
-* * *
+---
 
 Su madre dejó de sonreír.
 
@@ -234,7 +234,7 @@ Joss dejó caer la hogaza.
 
 —Claro que no, cariño. —La voz era la de ella. Igual—. Tu madre está muerta. Yo soy lo que querías. ¿No es mejor?
 
-* * *
+---
 
 No supo nunca cómo salió.
 
@@ -266,7 +266,7 @@ Y se dio la vuelta. Y entró.
 
 Y la puerta de madera se cerró sola.
 
-* * *
+---
 
 Joss llegó a la colina dos días después. Andando. Solo. Sin espada; no sabía dónde la había dejado.
 
@@ -280,7 +280,7 @@ Sonrió.
 
 —Lobos —dijo.
 
-* * *
+---
 
 El Consejo lo dio por bueno. Maese Corbel el joven lo leyó en voz alta, el informe del sargento de la puerta, y dijo que era una tragedia, que había que mandar trampas a las lomas, que había que compensar a las familias. Que se compensara en hierro.
 
@@ -292,11 +292,11 @@ El teniente estaba en el cuartel. Bien. Muy bien. Hacía la guardia mejor que na
 
 Había regalado su perro.
 
-* * *
+---
 
 Pero hubo una persona que lo vio de otra manera.
 
-Fue en el verano del 563, en la muralla, al atardecer. El teniente Joss Hask hacía la guardia en la tercera almena desde la torre, mirando al suroeste, quieto, con la lanza al hombro. Y una muchacha pelirroja de dieciocho años subió la escalera de la muralla, como si fuera suya, y se puso a su lado, y miró también al suroeste.
+Fue en el verano del 563, en la muralla, al atardecer. El teniente Joss Hask hacía la guardia en la tercera almena desde la torre, mirando al noreste, quieto, con la lanza al hombro. Y una muchacha pelirroja de dieciocho años subió la escalera de la muralla, como si fuera suya, y se puso a su lado, y miró también al noreste.
 
 —¿Qué ves? —le dijo.
 

@@ -1,8 +1,8 @@
-## Capítulo 3 · Arthal II
+# Capítulo 3 · Arthal II
 
 *El palacio de Banderbill. Otoño del año 503 de la Nueva Era.*
 
-El Emperador de Banderbill tenía una norma, y era la única que había escrito de su puño y letra y mandado clavar en la puerta del comedor pequeño: Que nadie me hable de guerras antes del postre.
+El Emperador de Banderbill tenía una norma, y era la única que había escrito de su puño y letra y mandado clavar en la puerta del comedor pequeño: *Que nadie me hable de* *guerras antes del postre.*
 
 La había escrito en el 418, el primer año de su reinado, a los dieciocho años, después de una cena en la que el capitán general de la Armada le había explicado durante cuarenta minutos, con un mapa de mantel y unas migas de pan, por qué había que invadir las colinas peladas del suroeste antes del verano, y Arthal había tenido que comerse el cordero frío, y el cordero frío le daba ardor.
 
@@ -12,7 +12,7 @@ En ochenta y cinco años nadie le había hablado de guerras antes del postre. De
 
 Hasta esa noche.
 
-* * *
+---
 
 Era una cena pequeña, como todas las suyas desde que había muerto Hedda. Seis comensales. El Emperador en la cabecera, con la funda del aro en el cinto y una camisa sin bordar. A su derecha, el canciller, un hombre de Pisor de cincuenta años que se llamaba Hal Ostrander y que llevaba la cuenta de los impuestos mejor que nadie desde Casimir. A su izquierda, la capitana general de la Armada, Rauna Hask, de sesenta y tantos, bisnieta de bisnietos de aquella Dalla Hask que había enseñado a los primeros soldados a mirar hacia arriba y se había muerto en el 417. Más allá, dos consejeros del gremio de mercaderes, que eran quienes de verdad gobernaban la colina los días que el Emperador estaba en Nix, y que lo sabían, y que tenían el buen gusto de no decirlo. Y al final de la mesa, en el sitio de los invitados, un hombre de cuarenta años de cara, con gafas de cristal de gnomo, al que el Emperador conocía de toda la vida y del que no sabía casi nada.
 
@@ -24,7 +24,7 @@ Esa noche el señor Vell no había comido nada. Ni la sopa de pescado, ni el pat
 
 Esperaba el postre.
 
-* * *
+---
 
 El postre era tarta de manzana, la de la cocinera de Nix, con canela y nata. El Emperador la comía siempre despacio, con los ojos medio cerrados, porque era la tarta que hacía su madre las tardes de lluvia en el palacio, cuando él era pequeño y ella tenía todavía las manos blancas de élfica y el pelo negro, antes de que se le pusiera gris de pena, y la tarta de la cocinera de Nix era casi igual.
 
@@ -34,9 +34,9 @@ Se comió el último trozo. Se limpió la boca. Miró al señor Vell.
 
 El señor Vell se quitó las gafas.
 
-—Majestad —dijo—, hay una ciudad creciendo en las lomas del suroeste.
+—Majestad —dijo—, hay una ciudad creciendo en las lomas del noreste.
 
-* * *
+---
 
 Lo dijo así. Sin preámbulo. Con la voz que usaba para corregir sumas.
 
@@ -58,11 +58,11 @@ El Emperador no se rio.
 
 —Lo venderán.
 
-—¿A quién? Al sur de las lomas está el mar. Al oeste, los acantilados. Al este, nosotros.
+—¿A quién? Al norte de las lomas está el mar. Al este, los acantilados. Al suroeste, nosotros.
 
 Maese Corbel abrió la boca. La cerró.
 
-* * *
+---
 
 El Emperador se sirvió un poco de vino. Lo miró. No se lo bebió.
 
@@ -74,13 +74,13 @@ El Emperador se sirvió un poco de vino. Lo miró. No se lo bebió.
 
 Rauna Hask tardó en contestar. Era una mujer seca, de pocas palabras, con la cara cortada en el viento de la Punta Gris, que había mandado la Armada veinte años y que nunca había entrado en una batalla de verdad.
 
-—Patrullamos el camino del oeste —dijo—. Hasta Ullathorpe. Y la costa, hasta la Punta. Las lomas, no. No hay camino. Y no ha habido nunca nada. —Hizo una pausa—. Pasan pastores. Pastores con carros de hierro. Los paramos, a veces. Llevan hierro. No llevan armas.
+—Patrullamos el camino del sur —dijo—. Hasta Ullathorpe. Y la costa, hasta la Punta. Las lomas, no. No hay camino. Y no ha habido nunca nada. —Hizo una pausa—. Pasan pastores. Pastores con carros de hierro. Los paramos, a veces. Llevan hierro. No llevan armas.
 
 —¿Nunca llevan armas?
 
 —Nunca, majestad. —La capitana frunció el ceño—. Ni un cuchillo. Ahora que lo dice. Es raro en un pastor.
 
-* * *
+---
 
 Se hizo un silencio. De esos que se hacen en las cenas cuando alguien ha dicho algo que no se puede desdecir.
 
@@ -100,7 +100,7 @@ El Emperador dejó la copa. Se pasó la mano por el pelo, por encima de la oreja
 
 El Emperador lo miró. Mucho rato. Al hombre de cuarenta años de cara, con gafas de gnomo, que había cenado con su padre, y con su abuelo, y con el padre de su abuelo, y que tenía, en las sienes, dos canas que Arthal había visto ya a los seis años y que no habían crecido ni se habían caído.
 
-Lo sabía. Lo había sabido siempre, a medias, como se saben las cosas de la familia que nadie cuenta: con el estómago. Su madre se lo había dicho una noche, en élfico, en voz baja, la noche antes de morirse: hay gente en la colina que no se muere, hijo. No les preguntes. Escúchalos.
+Lo sabía. Lo había sabido siempre, a medias, como se saben las cosas de la familia que nadie cuenta: con el estómago. Su madre se lo había dicho una noche, en élfico, en voz baja, la noche antes de morirse: *hay gente en la colina que no se muere, hijo. No les* *preguntes. Escúchalos.*
 
 No le preguntó.
 
@@ -112,7 +112,7 @@ No le preguntó.
 
 —En usted.
 
-* * *
+---
 
 Cuando se fueron todos, el Emperador se quedó solo en el comedor pequeño. Con los platos sucios. Con la tarta acabada. Con el cartel en la puerta.
 
@@ -144,7 +144,7 @@ Se rio de sí mismo. Una risa torcida, como su sonrisa.
 
 Dejó el arpa. Se fue a dormir.
 
-* * *
+---
 
 Esa noche soñó con su tío.
 
@@ -158,7 +158,7 @@ En el sueño, su tío estaba sentado en una piedra gris, en el fondo de un plato
 
 Y la tocaba muy bien.
 
-* * *
+---
 
 Arthal se despertó antes del alba con la boca seca.
 
@@ -172,7 +172,7 @@ Se quedó un rato allí, descalzo, en camisa, con la funda del aro en la mano, p
 
 Luego volvió a la cama.
 
-Y por la mañana, en el Consejo, cuando el canciller Ostrander le presentó los impuestos del trimestre y la capitana Hask le pidió permiso para mandar una patrulla a las lomas del suroeste, a ver qué había, y los dos del gremio dijeron que eso iba a molestar a los pastores, que eran buenos clientes, y que el hierro rojo pagaba la mitad de las lámparas nuevas de la muralla, el Emperador de Banderbill, decimoquinto de su linaje, ciento tres años, medio elfo, viudo, dijo:
+Y por la mañana, en el Consejo, cuando el canciller Ostrander le presentó los impuestos del trimestre y la capitana Hask le pidió permiso para mandar una patrulla a las lomas del noreste, a ver qué había, y los dos del gremio dijeron que eso iba a molestar a los pastores, que eran buenos clientes, y que el hierro rojo pagaba la mitad de las lámparas nuevas de la muralla, el Emperador de Banderbill, decimoquinto de su linaje, ciento tres años, medio elfo, viudo, dijo:
 
 —Que vaya una patrulla. Pequeña. Sin armas a la vista. A comprar queso.
 
@@ -180,11 +180,11 @@ Y luego, porque no podía evitarlo, porque era hijo de su madre:
 
 —Y que escuchen.
 
-* * *
+---
 
 La patrulla fue. Doce soldados, sin armas a la vista, con una capitana joven de la casa Hask que se llamaba Oda y que volvió a los cuatro días con seis quesos, un cordero, un saco de higos secos y un informe de dos líneas.
 
-*Pastores. Gente amable. Ochenta y tres casas. Una charca. Nadie lleva armas. Los niños no lloran. No hemos oído nada.*
+*Pastores. Gente amable. Ochenta y tres casas. Una charca. Nadie lleva armas. Los* *niños no lloran. No hemos oído nada.*
 
 El Emperador leyó el informe dos veces. La última línea, tres.
 
@@ -192,8 +192,7 @@ Lo dobló. Se lo dio al mayordomo para que lo llevara a la biblioteca, a la mesa
 
 El señor Vell lo leyó, según contó años después Ilse Vell, que estaba barriendo, sin quitarse las gafas. Luego cogió el libro de cuentas y apuntó, debajo de la fecha:
 
-*Ha mandado a escuchar.*  
-*Que conste: es hijo de su madre.*
+*Ha mandado a escuchar.* *Que conste: es hijo de su madre.*
 
 Y luego, más abajo, con la letra más pequeña, en la columna de la izquierda:
 

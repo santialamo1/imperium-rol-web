@@ -1,4 +1,4 @@
-## Capítulo 5 · Tibbet
+# Capítulo 5 · Tibbet
 
 *Banderbill. Primavera y verano del año 520 de la Nueva Era.*
 
@@ -28,11 +28,11 @@ Sein levantó los ojos. Lo miró por encima de las gafas.
 
 —Hace cien años no lo pensaba. —Tibbet se quitó el sombrero. Lo dejó en la mesa, encima del libro de cuentas—. Ahora sí.
 
-* * *
+---
 
 En el forro del sombrero, cosido con hilo rojo, había un papel doblado muchas veces.
 
-Sein lo conocía. Lo conocía desde el 331, desde la tarde en que Tibbet había bajado al sótano de la biblioteca, a una reunión de la Orden, con el sombrero número veintinueve, de hojas de higuera, y había dicho que iba a hacer una lista, y todos se habían reído, y Sein el que más. Cosas que no han pasado, había dicho Tibbet. Las apunto para cuando pasen. Sein se había reído tanto que se le cayeron las gafas.
+Sein lo conocía. Lo conocía desde el 331, desde la tarde en que Tibbet había bajado al sótano de la biblioteca, a una reunión de la Orden, con el sombrero número veintinueve, de hojas de higuera, y había dicho que iba a hacer una lista, y todos se habían reído, y Sein el que más. *Cosas que no han pasado*, había dicho Tibbet. *Las apunto para cuando pasen.* Sein se había reído tanto que se le cayeron las gafas.
 
 En ciento ochenta y nueve años, Sein no había pedido nunca ver la lista.
 
@@ -44,21 +44,21 @@ Y luego seis líneas más. Nuevas. De este invierno. Con la tinta todavía brill
 
 Sein las leyó. Sin decir nada.
 
-* * *
+---
 
 *10. Una charca no refleja el cielo. La vio la reina. No lo apuntó nadie.*
 
-*11. Bram, el hijo del tonelero de la calle de los Cubos, se fue a trabajar a las minas del brezo en otoño. Ha vuelto en primavera. Está bien. Está muy bien. Sonríe mucho. Ha regalado su perro.*
+*11. Bram, el hijo del tonelero de la calle de los Cubos, se fue a trabajar a las minas* *del brezo en otoño. Ha vuelto en primavera. Está bien. Está muy bien. Sonríe mucho. Ha* *regalado su perro.*
 
-*12. Los herreros de la calle del Yunque dicen que el hierro rojo se deja trabajar demasiado bien. Que no protesta. Que el hierro bueno protesta. Que este parece que quiere.*
+*12. Los herreros de la calle del Yunque dicen que el hierro rojo se deja trabajar* *demasiado bien. Que no protesta. Que el hierro bueno protesta. Que este parece que* *quiere.*
 
-*13. Las abejas de las lomas no han hecho miel este año. Han hecho una cosa negra. Los colmeneros la tiran.*
+*13. Las abejas de las lomas no han hecho miel este año. Han hecho una cosa* *negra. Los colmeneros la tiran.*
 
-*14. Ya hay muralla. Baja, de piedra roja. En la hondonada. Se ve desde los acantilados si se va en barca. Lo ha dicho el pescador Ugo, de la Punta. Lo dijo en la taberna. Se rieron.*
+*14. Ya hay muralla. Baja, de piedra roja. En la hondonada. Se ve desde los* *acantilados si se va en barca. Lo ha dicho el pescador Ugo, de la Punta. Lo dijo en la* *taberna. Se rieron.*
 
 *15. Nadie ha leído esta lista en voz alta desde el año 331.*
 
-* * *
+---
 
 Sein se quitó las gafas. Las limpió con la camisa. Se las volvió a poner.
 
@@ -80,7 +80,7 @@ Sein se quitó las gafas. Las limpió con la camisa. Se las volvió a poner.
 
 Sein lo miró. Mucho rato.
 
-Tibbet esperó que se riera. Sein se reía siempre con el sombrero. Desde el número uno, de hojas de laurel, en el 146, cuando Tibbet se lo había puesto por primera vez en la muralla, con la vida de Bhargaras VIII recién recibida en el pecho, temblando, y Sein le había dicho pareces una ensalada y se habían reído los dos hasta llorar. Sein se había reído con el treinta. Con el cuarenta. Con el cuarenta y seis, el del 417, que era de hojas de vid, y que tenía racimos.
+Tibbet esperó que se riera. Sein se reía siempre con el sombrero. Desde el número uno, de hojas de laurel, en el 146, cuando Tibbet se lo había puesto por primera vez en la muralla, con la vida de Bhargaras VIII recién recibida en el pecho, temblando, y Sein le había dicho *pareces una ensalada* y se habían reído los dos hasta llorar. Sein se había reído con el treinta. Con el cuarenta. Con el cuarenta y seis, el del 417, que era de hojas de vid, y que tenía racimos.
 
 Sein no se rio.
 
@@ -88,13 +88,13 @@ Cogió la pluma. La mojó. Y en el debe, debajo de la fecha del día, escribió:
 
 *Tibbet lleva catorce cosas apuntadas. Yo, ninguna.*
 
-* * *
+---
 
 Esa tarde Tibbet fue a ver a Bram.
 
 No sabía por qué. Bueno, sí lo sabía. Lo sabía como saben los gnomos las cosas, por la nariz. Tenía la nariz más grande que nadie en la colina, después de un tal Pell que había sido conserje de la biblioteca hacía trescientos años, y la nariz le decía cosas. Le había dicho que Lanther olía a tres, siempre. Que Sein olía a tinta y a mar. Que Wenna olía a castañas incluso en verano, incluso cuando no había castañas. Que la colina, el año que se hundió Nix, había olido a ceniza durante meses, aunque el fuego estaba a semanas de camino.
 
-Desde hacía unos años, a veces, cuando el viento venía del suroeste, la colina olía a cocina.
+Desde hacía unos años, a veces, cuando el viento venía del noreste, la colina olía a cocina.
 
 No a comida. A cocina. A fogón. A hierro caliente. A algo que se está haciendo y que todavía no está hecho.
 
@@ -122,7 +122,7 @@ Tibbet lo miró. Al muchacho de veinte años, alto, guapo, con las manos grandes
 
 Tenía los ojos muy quietos.
 
-* * *
+---
 
 —¿Qué tal en las minas? —le preguntó Tibbet. Sentado en un tonel. Con los pies colgando.
 
@@ -150,7 +150,7 @@ Y la tarareó. Allí, en la puerta de la casa del tonelero, en la calle de los C
 
 La tarareó perfecta.
 
-* * *
+---
 
 —¿Y tu perro? —dijo Tibbet. Cuando pudo hablar.
 
@@ -176,11 +176,11 @@ Bram lo miró. Sonriendo.
 
 —Entonces la gente se olvida de los perros —dijo.
 
-* * *
+---
 
 Esa noche, Tibbet no durmió.
 
-Vivía en la casa de los gnomos, al pie de la muralla, en el barrio que los de la colina llamaban la Lámpara, porque había más lámparas por casa que en ninguna otra parte del mundo. Tenía un taller, una cama demasiado larga, porque se la había hecho un carpintero humano que no había querido entender las medidas, y una pared entera de estantes con sombreros. Todos los que había tenido. Del uno al cincuenta y tres. Secos. Marrones. Algunos ya polvo. Cada uno con su número cosido en el forro en hilo rojo.
+Vivía en la casa de los gnomos, al pie de la muralla, en el barrio que los de la colina llamaban *la Lámpara*, porque había más lámparas por casa que en ninguna otra parte del mundo. Tenía un taller, una cama demasiado larga, porque se la había hecho un carpintero humano que no había querido entender las medidas, y una pared entera de estantes con sombreros. Todos los que había tenido. Del uno al cincuenta y tres. Secos. Marrones. Algunos ya polvo. Cada uno con su número cosido en el forro en hilo rojo.
 
 Se sentó delante de la pared. Con una lámpara. Con la lista.
 
@@ -208,7 +208,7 @@ Diez. Once. Doce. Trece. Catorce. Quince.
 
 Cuando terminó, era de madrugada. Fuera, las lámparas de la Lámpara se estaban apagando solas, una por una, como se apagan las estrellas.
 
-Tibbet cogió el lápiz. Escribió: 16. Bram tararea la nana. Bien. Igual que la roca. Igual que el que tapa la nota.
+Tibbet cogió el lápiz. Escribió: *16. Bram tararea la nana. Bien. Igual que la roca. Igual que el que tapa la nota.*
 
 Se quedó mirándolo.
 
@@ -216,7 +216,7 @@ Luego escribió:
 
 *17. Los perros no se olvidan de la gente.*
 
-* * *
+---
 
 La Orden se reunió en el sótano de la biblioteca a principios de verano. Como siempre: alguien bajaba con un farol y los demás iban llegando.
 
@@ -230,7 +230,7 @@ Lanther bajó la penúltima. Con barro en las botas. Venía de las lomas.
 
 Sein, el último.
 
-* * *
+---
 
 —Tengo una cosa —dijo Tibbet. Antes de que nadie dijera nada—. Una lista.
 
@@ -240,7 +240,7 @@ Sein se sentó en el último escalón. Abrió el libro de cuentas. Mojó la plum
 
 —Léela —dijo.
 
-Tibbet lo miró. Esperaba otra cosa. Esperaba otra vez la lista. Esperaba una risa. Una ceja.
+Tibbet lo miró. Esperaba otra cosa. Esperaba *otra vez la lista*. Esperaba una risa. Una ceja.
 
 —Entera —dijo Sein—. En voz alta. Desde la uno.
 
@@ -250,7 +250,7 @@ Del uno al diecisiete. Despacio. Con la voz de gnomo, que es un poco aguda y se 
 
 Cuando terminó, nadie dijo nada.
 
-* * *
+---
 
 Lanther fue la que habló. Desde la pared, donde se había sentado en el suelo, como siempre, con la espalda contra la piedra.
 
@@ -278,7 +278,7 @@ Sein se quedó muy quieto.
 
 —Yo sí. —Sein apuntó algo—. Corbel tiene la notaría del gremio desde el 509.
 
-* * *
+---
 
 Hablaron hasta muy tarde. Saelith quería mandar elfos, de noche, a escuchar. Aldric, cuando habló por primera y única vez, dijo que los enanos podían cavar un túnel hasta la hondonada en dos años y ver qué había debajo, y luego se calló otra vez, como si le hubiera costado mucho. Ilse Vell no dijo nada; apuntaba.
 
@@ -306,11 +306,11 @@ Lanther tardó mucho en contestar.
 
 Nadie contestó.
 
-* * *
+---
 
 Al final, decidieron esperar. Otra vez.
 
-Sein lo apuntó. En el debe. Año 520. La Orden decide esperar. Segunda vez.
+Sein lo apuntó. En el debe. *Año 520. La Orden decide esperar. Segunda vez.*
 
 Y luego, debajo, hizo una cosa que no había hecho en cuatrocientos años de libro.
 
@@ -324,7 +324,7 @@ Tibbet lo miró. Lo leyó dos veces. Se le pusieron los ojos raros, como se le p
 
 Luego se quitó el sombrero. Y lo cosió en el forro, al lado de la lista, con hilo rojo, allí mismo, en el sótano, con la aguja que llevaba siempre en el ala, mientras todos lo miraban.
 
-* * *
+---
 
 Al salir, en la escalera, con el farol, Lanther lo paró.
 

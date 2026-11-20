@@ -1,4 +1,4 @@
-## Epílogo · Una piedra a unos kilómetros
+# Epílogo · Una piedra a unos kilómetros
 
 *Una hondonada sin nombre. Hacia el año 497 de la Nueva Era.*
 
@@ -16,7 +16,7 @@ Y aun así le dolía.
 
 —Ya lo sé —dijo Pim—. Por eso se acostumbrarán.
 
-* * *
+---
 
 Habían subido por un túnel viejo, de los que no había hecho nadie, de los que estaban allí desde siempre como las venas de un cuerpo. Tres días subiendo. Ithil delante, porque veía. Pim detrás, porque no necesitaba ver; la sal de su cuerpo notaba la sal de las paredes, y por ahí se guiaba, como se guía un ciego con la mano en el muro.
 
@@ -32,7 +32,7 @@ Lo que los orcos habían subido de Tawarsinan hacía ciento cuarenta años, en u
 
 Este era uno.
 
-* * *
+---
 
 —¿Dónde? —preguntó Ithil.
 
@@ -58,13 +58,13 @@ Eran muchas. Pequeñas. Amarillas. En una colina, o en una llanura, no se veía 
 
 Ithil se quedó mirando las luces.
 
-Se acordó de una cosa. No sabía de dónde. De una plaza, de noche, con un fuego pequeño, y un niño humano gritando ¡casas en los árboles! con toda la fuerza de sus pulmones. Y de una niña de pelo negro asomada a una barandilla.
+Se acordó de una cosa. No sabía de dónde. De una plaza, de noche, con un fuego pequeño, y un niño humano gritando *¡casas en los árboles!* con toda la fuerza de sus pulmones. Y de una niña de pelo negro asomada a una barandilla.
 
 Se le fue. Como se le iban las cosas desde hacía años. Como se va el agua de entre los dedos.
 
 Siguió andando.
 
-* * *
+---
 
 La hondonada estaba entre dos lomas bajas, cubiertas de brezo. Redonda. No muy honda. Con una charca en el fondo, negra, quieta, en la que no se reflejaba nada porque no había luna.
 
@@ -80,7 +80,7 @@ La piedra era blanca. No roja, como la gema del orco gris, que Ithil había vist
 
 Latía.
 
-* * *
+---
 
 Cavaron toda la noche. Con las manos. Con picos de hierro que habían subido de abajo. Sin cantar.
 
@@ -106,7 +106,7 @@ Pim se quedó mirándola.
 
 Ithil no dijo nada.
 
-* * *
+---
 
 Bajaron la piedra al agujero antes del alba. Entre los doce. Con cuerdas.
 
@@ -124,7 +124,7 @@ Una piedra. Para marcar el sitio.
 
 Nada más.
 
-* * *
+---
 
 —¿Esto es todo? —preguntó Ithil.
 
@@ -146,7 +146,7 @@ Ithil no dijo nada.
 
 —Cuando la vean —dijo Pim—, será tarde. Y dirán que apareció de pronto.
 
-* * *
+---
 
 Amanecía.
 
@@ -158,7 +158,7 @@ No de la niña de pelo negro. De otra cosa. Más reciente. De hacía ochenta añ
 
 Intentó acordarse de cuál.
 
-Ithil. Ese no. Ese era el de fuera.
+*Ithil.* Ese no. Ese era el de fuera.
 
 El otro. El de dentro. El que le puso su madre en una plataforma a cien varas del suelo, en una noche de luna, cantando.
 
@@ -172,7 +172,7 @@ No estaba. Se le había ido. Despacio. Sin darse cuenta. Como le había dicho Pi
 
 Ithil se quedó de pie al borde de la charca negra, con el antebrazo en los ojos, con la boca abierta, buscando una palabra que no tenía.
 
-* * *
+---
 
 —Hay que ponerle nombre —dijo Pim.
 
@@ -188,7 +188,7 @@ Pim abrió la boca.
 
 Y no habló él.
 
-* * *
+---
 
 Ithil lo oyó. Lo oyeron los doce. Lo oyó la charca negra, que volvió a hacer ondas.
 
@@ -196,7 +196,7 @@ Una voz. Que no era la de Pim. Que salió de la boca de Pim, pero no era suya, c
 
 Que tiraba.
 
-—Arghâl —dijo la voz—. Que se llame así.
+—*Arghâl* —dijo la voz—. *Que se llame así.*
 
 La piedra gris no se movió.
 
@@ -206,7 +206,7 @@ Y muy, muy abajo, al otro extremo de todas las raíces, algo que se daba la vuel
 
 Y sonreía.
 
-* * *
+---
 
 Pim cerró la boca. Se tambaleó. Se apoyó en la piedra con una mano de sal.
 
@@ -226,9 +226,9 @@ No le salió nada.
 
 Bajó.
 
-* * *
+---
 
-Muy lejos de allí, al norte, en un valle negro, al lado de un hombre de sal con cara de espanto y un montón de piedritas blancas a los pies que le llegaba ya por la cintura, una niña del Mercado que había ido a tirar la primera piedrita de la mañana se quedó quieta en la raya pintada con cal.
+Muy lejos de allí, al otro lado del estrecho, en un valle negro, al lado de un hombre de sal con cara de espanto y un montón de piedritas blancas a los pies que le llegaba ya por la cintura, una niña del Mercado que había ido a tirar la primera piedrita de la mañana se quedó quieta en la raya pintada con cal.
 
 —¿Qué? —le dijo al Guardián. O al que estaba debajo. Al gris. Al hilo—. ¿Qué dices?
 
@@ -250,7 +250,7 @@ Wenna dejó de masticar.
 
 —¿Qué?
 
-—Que ya casi se acuerda. De la señora de la s.
+—Que ya casi se acuerda. De la señora de la *s*.
 
 Wenna se quedó quieta mucho rato. Con una castaña a medio pelar en la mano.
 
@@ -258,10 +258,12 @@ Luego la dejó en el barreño.
 
 Se levantó. Le costó. Se secó los pies con el delantal. Y entró en la casa a buscar papel, una pluma, y un palote que dibujar al pie, para mandarle a una pelirroja que no se moría una nota que tardaría un mes en llegar y que diría solo tres cosas.
 
-*Algo ha echado raíces al sur.*  
-*El gris casi se acuerda.*  
+*Algo ha echado raíces al sur.* *El gris casi se acuerda.*
+
 *Ven antes de que se acuerde. No llegues tarde. Esta vez no.*
 
-— | ✦ | —
+---
 
-FIN DEL LIBRO SEGUNDO
+— —
+
+**FIN DEL LIBRO SEGUNDO**

@@ -1,12 +1,12 @@
-## Capítulo 44 · Lanther
+# Capítulo 44 · Lanther
 
-*Las tres islas. Primavera del año 734 de la Nueva Era (127 D.bA).*
+*Lindos, el oasis. Primavera del año 734 de la Nueva Era (127 D.bA).*
 
 La jarra pesaba lo mismo que hacía seiscientos setenta y tres años, y Lanther la había llevado en la bolsa todo el viaje sin decírselo a nadie.
 
 Blanca. De barro. Del tamaño de un puño. Sin una grieta. Con la tapa sellada con cera negra y un hilo de plata alrededor del cuello, atado con un nudo que nadie sabía deshacer. La séptima. La que no se abrió. La que Loth le puso en las manos en la cúpula de Concordia, en el año 61, mirando al sol, antes de deshacerse.
 
-Para cuando te canses, le había dicho. O para quien haga falta.
+*Para cuando te canses*, le había dicho. *O para quien haga falta.*
 
 Lanther no se había cansado. O sí, muchas veces; pero no de la manera que hacía falta. Y no había encontrado a quien hiciera falta.
 
@@ -16,11 +16,11 @@ Porque sabía.
 
 Desde que él lo había dicho al agua.
 
-* * *
+---
 
 Lindos tenía ciento trece años.
 
-Había hecho el viaje al nuevo continente once veces. Ida y vuelta. Por las tres islas. Siempre por las tres islas; nunca se las saltaba, aunque fuera más largo, aunque los capitanes le dijeran que con el viento de ese mes se podía ir directo. Paramos en las islas, decía. Y paraban.
+Había hecho el viaje al nuevo continente once veces. Ida y vuelta. Por el oasis. Siempre por el oasis; nunca se lo saltaba, aunque fuera más largo, aunque los capitanes le dijeran que con el viento de ese mes se podía ir directo. *Paramos en el oasis*, decía. Y paraban.
 
 Esta vez no iba a ninguna parte. Esta vez iba a las islas.
 
@@ -30,7 +30,7 @@ Lo dijo así, en Nix, en el espigón, antes de embarcar. Con la corona de once l
 
 Nadie preguntó a qué.
 
-* * *
+---
 
 Llegaron en primavera.
 
@@ -42,7 +42,7 @@ Había una casa. Pequeña. De madera roja de Wonder. Al lado de la poza. La hab�
 
 Se metió en la cama el primer día. No se levantó más.
 
-* * *
+---
 
 —No me duele nada —le dijo a Lanther, el tercer día.
 
@@ -64,7 +64,7 @@ Lindos la miró. Con los ojos de su madre, que eran los de Brena, que eran los d
 
 —¿Qué llevas ahí? —dijo.
 
-* * *
+---
 
 Lanther no contestó.
 
@@ -78,13 +78,13 @@ Lindos las miró.
 
 —La jarra la conozco —dijo—. Me la contó mi padre. La de Loth. La que se quedó sin abrir. —Miró el frasco—. ¿Y eso?
 
-—Bhargaras IX —dijo Lanther—. El pelirrojo. El de los puertos. Tu tatara-tatarabuelo, y varios tataras más. —Le tembló la voz—. No le dio su ofrenda a nadie. Dijo que no sabía a quién. Se hizo un corte en la palma la noche antes de morirse y la guardó. En esto. Para quien haga falta.
+—Bhargaras IX —dijo Lanther—. El pelirrojo. El de los puertos. Tu tataratatarabuelo, y varios tataras más. —Le tembló la voz—. No le dio su ofrenda a nadie. Dijo que no sabía a quién. Se hizo un corte en la palma la noche antes de morirse y la guardó. En esto. *Para quien haga falta.*
 
 —¿Y sirve?
 
 —No lo sabemos. Nadie lo ha probado. —Lanther miró la gota—. Es la sangre del que dijo que no. Fuera de un cuerpo. Sin nadie que sople. —Se encogió de hombros—. A lo mejor sirve. A lo mejor no.
 
-* * *
+---
 
 Lindos estuvo callado mucho rato.
 
@@ -106,13 +106,13 @@ Fuera, en la poza, se oía el agua. Saliendo del fondo. Moviendo la arena.
 
 Lanther no contestó.
 
-* * *
+---
 
 —Ya he llegado —dijo Lindos.
 
 Lo dijo despacio. Con la voz cansada, pero clara.
 
-—Ya he llegado, Lanther. Al otro lado. Lo he visto. He visto las colinas con hierba. Los árboles rojos. El barro de Wonder. A una niña encima de un banco gritando mira lo que no sabías que había. He visto una punta con pájaros negros y he escrito en la pared que no toqué una cosa que no se toca. —Sonrió—. He traído a dos mil personas a un sitio que no existía. Mi hijo va a ir más lejos. Su hijo, más. Como dijo mi padre.
+—Ya he llegado, Lanther. Al otro lado. Lo he visto. He visto las colinas con hierba. Los árboles rojos. El barro de Wonder. A una niña encima de un banco gritando *mira lo* *que no sabías que había*. He visto una punta con pájaros negros y he escrito en la pared que no toqué una cosa que no se toca. —Sonrió—. He traído a dos mil personas a un sitio que no existía. Mi hijo va a ir más lejos. Su hijo, más. Como dijo mi padre.
 
 —Tu hijo no tiene hijos.
 
@@ -122,7 +122,7 @@ Miró la jarra. El frasco.
 
 —Guárdalos —dijo—. Para quien haga falta. No soy yo.
 
-* * *
+---
 
 Lanther no lloró.
 
@@ -140,13 +140,13 @@ Guardó el frasco en la bolsa. La jarra la dejó en la mesa. No la quiso guardar
 
 Lanther miró por la ventana. A la poza.
 
-—Porque mi padre dijo una vez aquí —dijo—. Poniendo la mano en una roca, en una playa, en el año cero. Y se hizo verdad. Y luego se murió ahí. —Se cruzó de brazos—. Y mi hermano dijo yo bajo. En un valle negro. Y bajó. Y lleva setecientos años de sal. — Se le movió la cara—. Los Bhargaras decís las cosas y se hacen verdad. No me gusta. Me da miedo.
+—Porque mi padre dijo una vez *aquí* —dijo—. Poniendo la mano en una roca, en una playa, en el año cero. Y se hizo verdad. Y luego se murió ahí. —Se cruzó de brazos—. Y mi hermano dijo *yo bajo*. En un valle negro. Y bajó. Y lleva setecientos años de sal. — Se le movió la cara—. Los Bhargaras decís las cosas y se hacen verdad. No me gusta. Me da miedo.
 
 Lindos se rio. Bajito. Le costó.
 
-—Es lo único que sabemos hacer —dijo—. Decir aquí.
+—Es lo único que sabemos hacer —dijo—. Decir *aquí*.
 
-* * *
+---
 
 Murió una semana después.
 
@@ -164,11 +164,11 @@ Lindos suspiró.
 
 —Esto —dijo.
 
-* * *
+---
 
 Pidió el arpa.
 
-Liminus se la dio. Lindos se la puso en las rodillas. Los siete sedales. Las clavijas de plata gris. El nombre en la base. Elen.
+Liminus se la dio. Lindos se la puso en las rodillas. Los siete sedales. Las clavijas de plata gris. El nombre en la base. *Elen.*
 
 No tenía fuerza para tocar. Puso los dedos en los sedales. Uno. Dos. Los movió.
 
@@ -194,7 +194,7 @@ Cuando terminó, Lindos tenía los ojos cerrados.
 
 Como su padre.
 
-* * *
+---
 
 Lanther dijo la palabra. La élfica. Hacia arriba.
 
@@ -204,15 +204,15 @@ Y luego, en la oreja que tenía un poco en punta, menos que la de su padre, más
 
 El agua de la poza salía del fondo. Moviendo la arena. Como un corazón.
 
-* * *
+---
 
-Lo enterraron en la isla. En la loma. Donde Érandiul se sentaba a mirar el mar por los cuatro lados. Con el arpa. Con el aro no; el aro lo cogió Liminus, y lo miró, y no se lo puso, y lo guardó en la caja con la corona. Dijo que se lo pondría en casa. Que no se coronaba en una isla un Emperador que no había querido salir de ella.
+Lo enterraron en el oasis. En la loma. Donde Érandiul se sentaba a mirar el mar por un lado y la arena por los otros tres. Con el arpa. Con el aro no; el aro lo cogió Liminus, y lo miró, y no se lo puso, y lo guardó en la caja con la corona. Dijo que se lo pondría en casa. Que no se coronaba en un oasis un Emperador que no había querido salir de él.
 
 Esa noche, Lanther volvió a la casa de madera roja.
 
 La jarra seguía en la mesa.
 
-* * *
+---
 
 La cogió.
 
@@ -228,7 +228,7 @@ No se había cansado. No había hecho falta.
 
 Y ahora sabía para qué era.
 
-* * *
+---
 
 Metió la jarra en el agua.
 
@@ -244,7 +244,7 @@ Pasó un rato. Lo que se tarda en contar hasta cien.
 
 Y el barro se deshizo.
 
-* * *
+---
 
 No se rompió. Se deshizo. Como se deshace el azúcar en el agua. La cera negra se despegó y subió flotando. El hilo de plata se soltó y se quedó en la arena. Y el barro blanco, que había aguantado mil años sin una grieta, se ablandó, se volvió nube, una nube blanca en el agua clara, y se fue con la corriente, despacio, hacia la orilla, y desapareció.
 
@@ -256,7 +256,7 @@ Una lágrima.
 
 De hielo.
 
-* * *
+---
 
 Lanther la sacó.
 
@@ -272,7 +272,7 @@ No los de la lágrima. Los suyos. Los de Lanther. Setecientos veintitrés. Notó
 
 Que si se la ponía en la boca, se moriría. En paz. De vieja. Como se moría la gente.
 
-* * *
+---
 
 Lanther la volvió a meter en el agua.
 
@@ -300,7 +300,7 @@ Y a seiscientas leguas, en un valle negro, al lado del pecho de sal de un Guardi
 
 La Custodia Ilka lo vio. Lo apuntó. Al día siguiente el hilo volvió a contar cuentos. Pero distintos.
 
-* * *
+---
 
 Érandiul estaba en la loma. Con el diario.
 
@@ -318,11 +318,11 @@ Cuando Lanther subió, al alba, empapada hasta los codos, se sentó a su lado. N
 
 —No —dijo—. Eso no. Eso es de la Orden. —Cerró el diario—. Dentro de mil años, alguien encontrará una lágrima de hielo en el fondo de un oasis y la llamará como le parezca. Que la llame. Que no sepa de dónde viene. —Se puso el sombrero—. Algunas cosas están mejor sin explicación.
 
-—Triste noticia —dijo Lanther.
+—*Triste noticia* —dijo Lanther.
 
 —¿Qué?
 
-—Así vas a empezar. Lo sé. —Lanther sonrió. De lado—. Dura noticia en el 607. Triste noticia ahora.
+—Así vas a empezar. Lo sé. —Lanther sonrió. De lado—. *Dura noticia* en el 607. *Triste noticia* ahora.
 
 Érandiul la miró.
 
@@ -330,11 +330,11 @@ Luego, despacio, abrió el diario. Mojó la pluma. Y escribió, con la izquierda
 
 *Triste noticia.*
 
-* * *
+---
 
 En otoño fue a Nix.
 
-Sola. En la diligencia del sur, con la bolsa al hombro y el frasco de IX tintineando contra la hebilla, como diciendo todavía no. Bajó en la plaza del puerto. Fue andando por el espigón hasta el final.
+Sola. En la diligencia del sur, con la bolsa al hombro y el frasco de IX tintineando contra la hebilla, como diciendo *todavía no*. Bajó en la plaza del puerto. Fue andando por el espigón hasta el final.
 
 Las gradas de levante estaban vacías. El cobertizo seguía en pie, con el tejado de cañas medio hundido y las dos costillas de ballena dentro, solas, sin barcos. Los once carpinteros se habían muerto o se habían ido. Olía todavía un poco a brea.
 
@@ -346,13 +346,13 @@ El último, el de más abajo, recién grabado, con letras de cantero de Nix, que
 
 *Maren. Calafatera. Esperó calafateando.*
 
-* * *
+---
 
 Lanther se sentó en el noray. El último. El de aquella madrugada.
 
 Miró la piedra.
 
-—Se murió en el agua —dijo—. Con los pies en una poza. En una isla con palmeras que crecen torcidas. Mirando arriba. No quiso nada. Dijo ya he llegado.
+—Se murió en el agua —dijo—. Con los pies en una poza. En un oasis con palmeras que crecen torcidas. Mirando arriba. No quiso nada. Dijo *ya he llegado*.
 
 El agua golpeaba el espigón.
 
@@ -362,7 +362,7 @@ Se quedó callada un rato.
 
 —Llevaba el arpa. Le puso cuerdas en el este, de tripa de un pez que no sé cómo se llama. Tocaba fatal. Tocaba algo que no había oído nadie. —Se le movió la cara—. Te habría gustado. Era horrible.
 
-* * *
+---
 
 No contestó nadie. Las piedras no contestan.
 

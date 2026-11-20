@@ -1,4 +1,4 @@
-## Capítulo 77 · Odrun
+# Capítulo 77 · Odrun
 
 *Concordia, osario Zelto y Torre de la Unión. Año 401, otoño.*
 
@@ -14,7 +14,7 @@ Odrun se levantó. Se puso la bata, las zapatillas, la toquilla de lana sobre lo
 
 Sabía adónde había ido. Llevaba un mes pidiéndoselo.
 
-* * *
+---
 
 El osario Zelto estaba debajo del templo viejo del barrio Zelto, junto a la muralla, a cuarenta pies bajo tierra, en unas galerías excavadas en la roca hacía trescientos años, cuando los Zelto todavía enterraban a sus muertos en nichos de piedra apilados como colmenas. Lo habían sellado en el ciento noventa y siete, la noche de Ummat, cuando los muertos de dentro se levantaron mientras se rompía la primera jarra en el desierto e Ismena Vell, que ni siquiera era Custodia, bajó con el viejo Pell Aaro y once novicios a soltarlos. Soltaron a muchos. No a todos: eran demasiados y de la mayoría nadie sabía los nombres. Cuando la voz del desierto se calló, los que quedaban volvieron a quedarse quietos. Ismena hizo tapiar la entrada con piedra y sal, y dejó escrito en el registro de la Academia que algún día alguien tendría que bajar a terminar el trabajo.
 
@@ -40,7 +40,7 @@ Odrun le había dicho que no. Que era demasiado. Que ningún Custodio en la hist
 
 Bander la había escuchado con aquella cara tranquila que ponía cuando ya había decidido algo.
 
-* * *
+---
 
 La entrada del osario estaba abierta.
 
@@ -68,7 +68,7 @@ Odrun se quedó en la entrada de la cámara, apoyada en el bastón, con el farol
 
 Así que se quedó mirando. Y contando.
 
-* * *
+---
 
 A las cuatro de la madrugada llevaba cien.
 
@@ -106,17 +106,17 @@ Bander cerró los ojos un momento. Escuchó.
 
 —Ciento ochenta y nueve. —Volvió a abrirlos—. Pero ya es de día, ¿verdad? Lo noto. Se ponen nerviosos con el sol. Volveré esta noche.
 
-* * *
+---
 
 No le dijo nada aquella mañana. Lo llevó arriba, a la Torre, por la escalera de servicio, y lo metió en la cama, y le hizo beber leche caliente con miel aunque él protestó que no tenía sueño. Se durmió antes de terminar la taza. Durmió catorce horas.
 
 Odrun no durmió.
 
-Se sentó en su cuarto de la planta treinta y nueve, con la puerta cerrada y la ventana abierta hacia el oeste, y pensó. Pensó durante todo el día.
+Se sentó en su cuarto de la planta treinta y nueve, con la puerta cerrada y la ventana abierta hacia el este, y pensó. Pensó durante todo el día.
 
 Pensó en lo que había sentido. En el segundo latido. En el frío.
 
-Pensó en la noche en que nació el príncipe, dieciséis años atrás. Ella no estaba en la Torre; estaba en la frontera, en Kel-Dun. Pero había leído el registro de la Academia, como lo leía todo. Y en el registro, en la fecha del nacimiento, la Custodia de guardia en la Torre había escrito una nota extraña que nadie había comentado nunca: La noche siguiente al parto, a medianoche, todos los muertos de la Torre se callaron a la vez durante el tiempo que tarda en consumirse una vela. Luego volvieron. Causa desconocida.
+Pensó en la noche en que nació el príncipe, dieciséis años atrás. Ella no estaba en la Torre; estaba en la frontera, en Kel-Dun. Pero había leído el registro de la Academia, como lo leía todo. Y en el registro, en la fecha del nacimiento, la Custodia de guardia en la Torre había escrito una nota extraña que nadie había comentado nunca: *La noche siguiente al* *parto, a medianoche, todos los muertos de la Torre se callaron a la vez durante el tiempo* *que tarda en consumirse una vela. Luego volvieron. Causa desconocida.*
 
 Pensó en el don del muchacho, que no se parecía al de nadie. En sus ojos, casi blancos desde niño. En que los muertos lo buscaban como las polillas buscan una vela, y en que una vela no es una persona sino un fuego. En la voz que cantaba a lo lejos y que Bander había oído desde los cuatro años, la que según él no lo llamaba, solo cantaba, como cuando uno está solo y canta para no oír el silencio.
 
@@ -124,7 +124,7 @@ Pensó en lo que pasaría si se lo decía a Haltair.
 
 Haltair la escucharía. Haltair era el hombre más amable que había conocido. Pero Haltair era emperador, y tenía un Consejo, y un canciller, y una corte llena de gente que había crecido oyendo historias sobre el Padre de la Bruma y sus muertos. Y si alguien en esa corte llegaba a saber, o a sospechar siquiera, que el heredero del trono tenía dentro algo frío que latía a destiempo, como la piedra de la cripta...
 
-Pensó en Hedda, la de la sentencia de Drolnar. En la niña de las manos quemadas. Tocado por la niebla.
+Pensó en Hedda, la de la sentencia de Drolnar. En la niña de las manos quemadas. *Tocado por la niebla.*
 
 Al anochecer, cuando Bander se despertó, Odrun subió a su cuarto. Se sentó en el borde de la cama.
 
@@ -146,13 +146,13 @@ Odrun tardó mucho en contestar.
 
 —Lo sé, alteza. —Odrun le cogió la mano. La tenía caliente, viva, normal—. Por eso.
 
-* * *
+---
 
-Bander bajó al osario una noche de cada siete durante los seis meses siguientes. Soltó a siete cada vez. Al día siguiente tenía fiebre y le sangraba la nariz, y Odrun lo anotaba en el registro de la Academia con su letra apretada de Hinur: Siete. Fiebre. Recuperado al tercer día. Los ciento ochenta y nueve últimos muertos del osario Zelto salieron hacia arriba en la primavera del cuatrocientos dos. La Academia lo celebró con una misa. Los cronistas escribieron que el príncipe Bander había terminado, con esfuerzo heroico y a costa de su salud, el trabajo que Ismena Vell había dejado pendiente doscientos años antes.
+Bander bajó al osario una noche de cada siete durante los seis meses siguientes. Soltó a siete cada vez. Al día siguiente tenía fiebre y le sangraba la nariz, y Odrun lo anotaba en el registro de la Academia con su letra apretada de Hinur: *Siete. Fiebre.* *Recuperado al tercer día.* Los ciento ochenta y nueve últimos muertos del osario Zelto salieron hacia arriba en la primavera del cuatrocientos dos. La Academia lo celebró con una misa. Los cronistas escribieron que el príncipe Bander había terminado, con esfuerzo heroico y a costa de su salud, el trabajo que Ismena Vell había dejado pendiente doscientos años antes.
 
 No escribieron cuatrocientos doce. Nadie lo supo nunca, salvo una vieja Custodia Hinur y un muchacho que no entendía por qué tenía que fingir.
 
-Odrun Hask vivió nueve años más. Los últimos los pasó casi ciega, en sus tres habitaciones de la planta treinta y nueve, con la ventana abierta hacia el oeste. Bander subía a verla cada tarde. Le leía en voz alta. Le contaba cosas de Puerto Salobre, adonde iba cada vez más a menudo, y de una pescadora pelirroja de la que no paraba de hablar sin darse cuenta.
+Odrun Hask vivió nueve años más. Los últimos los pasó casi ciega, en sus tres habitaciones de la planta treinta y nueve, con la ventana abierta hacia el este. Bander subía a verla cada tarde. Le leía en voz alta. Le contaba cosas de Puerto Salobre, adonde iba cada vez más a menudo, y de una pescadora pelirroja de la que no paraba de hablar sin darse cuenta.
 
 En el invierno del cuatrocientos diez, un señor Heredicus de cara cansada le trajo a su hija de siete años, rubia, de ojos grises, para que la escuchara. Odrun la escuchó durante una hora con los ojos cerrados. Lo que oyó la asustó más que nada en su vida desde la noche del osario. Le dijo al padre que le diera a la niña un nombre secreto cuanto antes.
 
@@ -160,6 +160,6 @@ Murió esa primavera. La soltó Bander, que sabía su nombre secreto porque ella
 
 Le dejó una carta, que él no abrió hasta después del entierro. Era muy corta. La letra, temblorosa, de casi ciega, se salía de las líneas.
 
-*Alteza: tienes algo dentro que no es tuyo. No sé qué es. No he querido saberlo. Pero tú sí eres tuyo. No dejes que nadie te convenza de lo contrario. Ni siquiera lo que tienes dentro. — O.*
+*Alteza: tienes algo dentro que no es tuyo. No sé qué es. No he querido saberlo.* *Pero tú sí eres tuyo. No dejes que nadie te convenza de lo contrario. Ni siquiera lo que* *tienes dentro. — O.*
 
 Bander guardó la carta toda su vida. La llevaba en el jubón la Noche Más Larga, en la escalera de la Torre, cuando entendió por fin lo que la vieja había querido decir.

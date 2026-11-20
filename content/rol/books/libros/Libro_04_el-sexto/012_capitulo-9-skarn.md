@@ -1,4 +1,4 @@
-## Capítulo 9 · Skarn
+# Capítulo 9 · Skarn
 
 *Frente a las murallas de Banderbill. Otoño del año 1031 de la Nueva Era (424 D.bA).*
 
@@ -16,7 +16,7 @@ Skarn le dio una patada a una piedra. La piedra rodó por la arena hasta el agua
 
 No hizo ruido al caer.
 
-* * *
+---
 
 Eran muchos. Skarn no sabía contar más allá de cien, pero sabía que eran muchos. Más que en ninguna parte donde hubiera estado. Toda la playa al sur de la colina, desde la Punta Gris hasta la boca del río, llena de orcos y de hombres de Orac y de drow, de tiendas de piel negra, de hogueras, de estandartes con el ojo pintado. Doscientos barcos fondeados en la bahía. Trolls de las montañas, encadenados, que gruñían de noche. Unas cosas grandes con alas que nadie sabía de dónde habían salido y que dormían colgadas de las rocas.
 
@@ -30,7 +30,7 @@ Skarn no se lo creía. Las murallas no cantan. Las murallas se rompen o no se ro
 
 Esta se iba a romper. Lo había dicho el drow.
 
-* * *
+---
 
 El drow se llamaba Ithil. Era el general.
 
@@ -50,7 +50,7 @@ Y se fue.
 
 Skarn se pasó la noche pensando qué quería decir.
 
-* * *
+---
 
 Al alba sonaron los cuernos.
 
@@ -68,7 +68,7 @@ Empujaban. Se les hinchaban los músculos. Gritaban. Los pies se les hundían en
 
 Nadie contestó.
 
-* * *
+---
 
 La segunda ola fue la de las cosas con alas.
 
@@ -82,7 +82,7 @@ En la muralla, alguien se rio. Skarn lo oyó desde la playa. Una risa de muchos.
 
 Le dio rabia. Más rabia que el hambre.
 
-* * *
+---
 
 La cuarta ola salió a media mañana.
 
@@ -110,7 +110,7 @@ A su lado, en la escalera de la izquierda, Gorza también se había parado. En e
 
 Y Drub, a la derecha, el muchacho de quince años, se había bajado. Estaba al pie de la muralla, sentado en la arena, con la espalda contra la piedra, llorando. Pero ya no lloraba de miedo. Lloraba de otra cosa.
 
-* * *
+---
 
 Entonces Skarn miró arriba.
 
@@ -136,7 +136,7 @@ Luego levantó la mano derecha. Abierta. Y señaló hacia la playa. Hacia los ba
 
 *Vete.*
 
-* * *
+---
 
 Skarn bajó la escalera.
 
@@ -162,7 +162,7 @@ Gorza se rio. Una risa rara, sin dientes.
 
 —Ya. Pero hasta hoy no me importaba.
 
-* * *
+---
 
 Esa noche, en la playa, el drow vino a verlos.
 
@@ -198,7 +198,7 @@ Nadie dijo nada.
 
 Se fue.
 
-* * *
+---
 
 Se fueron al día siguiente. Todos. Doscientos barcos.
 

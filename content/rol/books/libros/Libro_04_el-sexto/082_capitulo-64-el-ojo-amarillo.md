@@ -1,6 +1,6 @@
-## Capítulo 64 · El ojo amarillo
+# Capítulo 64 · El ojo amarillo
 
-*El islote negro, al sur de Rinkel, entre la costa y las Islas Piratas. Verano del año 1436 de la Nueva Era (829 D.bA).*
+*El islote negro, al sur de Rinkel, entre la costa y las Islas Piratas. Verano del año* *1436 de la Nueva Era (829 D.bA).*
 
 Tiene un ojo.
 
@@ -10,17 +10,17 @@ Mira el mar.
 
 Lleva mirándolo desde que el agua tenía otro sabor.
 
-* * *
+---
 
-No piensa en palabras. Las palabras son cosas que hacen los pequeños con la boca, en las barcas, cuando pasan por delante. Ruidos cortos. Algunos los conoce de tanto oírlos: monstruo, ojo, no te acerques, reza. Los pequeños de las islas los repiten mucho, sobre todo reza. Le dejan cosas en la roca de la entrada. Pescado. Collares. A veces un pequeño, atado, que llora.
+No piensa en palabras. Las palabras son cosas que hacen los pequeños con la boca, en las barcas, cuando pasan por delante. Ruidos cortos. Algunos los conoce de tanto oírlos: *monstruo*, *ojo*, *no te acerques*, *reza*. Los pequeños de las islas los repiten mucho, sobre todo *reza*. Le dejan cosas en la roca de la entrada. Pescado. Collares. A veces un pequeño, atado, que llora.
 
-Al pequeño atado no se lo come. Nunca se lo ha comido. Lo deja en la roca hasta que deja de llorar y luego lo empuja con la punta de un brazo hacia el agua, hacia la barca que espera más lejos, y la barca se lo lleva y los pequeños gritan ¡lo ha devuelto! como si fuera algo.
+Al pequeño atado no se lo come. Nunca se lo ha comido. Lo deja en la roca hasta que deja de llorar y luego lo empuja con la punta de un brazo hacia el agua, hacia la barca que espera más lejos, y la barca se lo lleva y los pequeños gritan *¡lo ha devuelto!* como si fuera algo.
 
 Para él no es nada. No come cosas que lloran.
 
 Come lo que hay en el fondo. Lo que se cae.
 
-* * *
+---
 
 Lo que tiene en la cueva se lo dejaron.
 
@@ -36,7 +36,7 @@ Luego se quitó la cosa de la cabeza, la de las hojas en punta, y la dejó tambi
 
 La otra no se la comió. Porque cuando el trapo se abrió con el viento, la cosa de dentro latió.
 
-* * *
+---
 
 Fue eso lo que le hizo moverse. El latido.
 
@@ -52,13 +52,13 @@ En lo más hondo. En el hueco donde duerme.
 
 Desde entonces duerme con ella.
 
-* * *
+---
 
 Es roja. Cuando la luz entra en la cueva por la mañana, que entra poco, un rato, la cosa se pone roja por dentro, como se pone el agua cuando hay sangre. No le importa. Le gusta el latido. Le hace compañía. Cuando el latido de abajo, el grande, tarda mucho, el de la cosa pequeña sigue, y él lo nota contra el costado, y no está solo.
 
 No sabe qué es estar solo. Pero sabe que antes de la cosa el agua de la cueva era más fría.
 
-* * *
+---
 
 Este verano vienen muchos.
 
@@ -84,9 +84,9 @@ Y por debajo, más hondo, huele a otra cosa. A lo que huele el latido de abajo c
 
 A miedo.
 
-* * *
+---
 
-Hay otro en las barcas de la estrella. Un pequeño que manda a los otros. Lo oye gritar desde lejos, con una voz rota de gritar mucho, y los demás corren hacia donde él dice. Los demás lo llaman Gloval. Comandante. Henry, a veces, los que están más cerca.
+Hay otro en las barcas de la estrella. Un pequeño que manda a los otros. Lo oye gritar desde lejos, con una voz rota de gritar mucho, y los demás corren hacia donde él dice. Los demás lo llaman *Gloval*. *Comandante*. Henry, a veces, los que están más cerca.
 
 El de la voz rota no mira el ojo.
 
@@ -94,7 +94,7 @@ Mira al otro lado. Al norte. Al mar abierto. Como se mira cuando se espera algo 
 
 Tiene razón.
 
-* * *
+---
 
 Llegan de noche.
 
@@ -112,7 +112,7 @@ Rojas. Encendidas. Salen de las barcas negras como sale la lluvia de una nube ba
 
 Corren hacia él.
 
-* * *
+---
 
 No los esperaba.
 
@@ -122,7 +122,7 @@ Lo miran.
 
 Al ojo. Desde dentro. Desde atrás.
 
-Uno grita. Otro levanta una espada. Otro, el de la voz rota, Gloval, le baja la espada al que la ha levantado y le dice algo, bajo, que el agua le trae: No. No lo toques. Es lo único que tenemos entre ellos y nosotros.
+Uno grita. Otro levanta una espada. Otro, el de la voz rota, Gloval, le baja la espada al que la ha levantado y le dice algo, bajo, que el agua le trae: *No. No lo toques. Es lo único* *que tenemos entre ellos y nosotros.*
 
 Y se quedan. Contra la pared. Mirándolo. Temblando.
 
@@ -134,7 +134,7 @@ Y porque, entre ellos, contra la pared del fondo, al lado del hueco donde duerme
 
 Con la mano extendida hacia la cosa roja.
 
-* * *
+---
 
 No la toca.
 
@@ -152,7 +152,7 @@ No sabe qué es. No conoce esa palabra. Los pequeños de las islas no la dicen n
 
 Pero la mano del grande se cierra. Sin tocar la cosa. Y se aparta.
 
-* * *
+---
 
 Luego vienen los verdes.
 
@@ -174,7 +174,7 @@ Se van.
 
 Y él se queda solo con los verdes.
 
-* * *
+---
 
 Son demasiados.
 
@@ -204,7 +204,7 @@ Y dice, en la lengua de los pequeños, con una voz grave:
 
 Y pasa por debajo del ojo hacia dentro.
 
-* * *
+---
 
 Él no puede volverse. La cueva es estrecha y él está en la boca, con medio cuerpo fuera, con los brazos llenos de hierros y de fuego. Nota que el verde grande pasa. Nota que llega al hueco donde duerme. Nota que coge la cosa roja.
 
@@ -214,17 +214,17 @@ Se va del costado. Se va de la cueva. Se va por el agua, en una barca negra, hac
 
 Y el agua se queda fría.
 
-* * *
+---
 
 Los verdes se van al alba.
 
 Él se queda en la boca de la cueva. Con el ojo abierto. Con los brazos rotos, tres; con hierros clavados que no sabe quitarse; con la piel quemada. No se muere. No se muere de eso. Se muere de otras cosas, más despacio, como se muere el agua cuando se queda quieta.
 
-Los pequeños de las islas vuelven a mediodía. Los que quedan. Pocos. Se acercan en una barca. Lo miran. No le dejan pescado. Uno dice está vivo. Otro dice ya no guarda nada. Otro dice reza. Se van.
+Los pequeños de las islas vuelven a mediodía. Los que quedan. Pocos. Se acercan en una barca. Lo miran. No le dejan pescado. Uno dice *está vivo*. Otro dice *ya no guarda* *nada*. Otro dice *reza*. Se van.
 
 Él mira el mar.
 
-* * *
+---
 
 Y esa noche, tarde, cuando ya no queda nadie, nota el latido de abajo.
 
@@ -242,7 +242,7 @@ Por primera vez desde que tiene uno.
 
 Y en la oscuridad, en el hueco de la cueva donde ya no late nada, con el agua fría contra el costado, se queda escuchando el de abajo. Contándolo. Para no estar solo.
 
-* * *
+---
 
 A la mañana siguiente, en la roca de la entrada, alguien ha dejado una cosa.
 

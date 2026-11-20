@@ -1,10 +1,10 @@
-## Capítulo 35 · Érandiul
+# Capítulo 35 · Érandiul
 
 *Banderbill y el bosque del norte. Primavera del año 42 de la Nueva Era.*
 
 Quemaron a los muertos tres días seguidos, y él estuvo en las tres hogueras, y no contó a ninguno.
 
-Había aprendido a no contar. Era lo único que se había prometido después de la aldea, después de la abuela sentada debajo del árbol con la ropa de fiesta: que no contaría. Los humanos contaban. Contaban siempre, todo, los barcos, las piedras, los muertos, los días; tenían un niño en la casa de Joran que lo contaba todo en un cuaderno y lo gritaba subido a un tonel, y la gente le contestaba constará, y se quedaban tan tranquilos. A él no le tranquilizaba. A él contar le parecía una forma de tener. Y no quería tener a nadie más de los que se le morían.
+Había aprendido a no contar. Era lo único que se había prometido después de la aldea, después de la abuela sentada debajo del árbol con la ropa de fiesta: que no contaría. Los humanos contaban. Contaban siempre, todo, los barcos, las piedras, los muertos, los días; tenían un niño en la casa de Joran que lo contaba todo en un cuaderno y lo gritaba subido a un tonel, y la gente le contestaba *constará*, y se quedaban tan tranquilos. A él no le tranquilizaba. A él contar le parecía una forma de tener. Y no quería tener a nadie más de los que se le morían.
 
 Así que no contó. Echó leña. Echó aceite. Dijo la palabra para los muertos, la del sitio donde los árboles no saben tu nombre, mirando hacia arriba, hacia el humo, cada vez que echaban a uno.
 
@@ -24,11 +24,11 @@ Los de la cueva del barranco eran cuarenta y tres. De los cuarenta y tres quedab
 
 Lo contó sin querer. Se odió un poco.
 
-* * *
+---
 
 Pero hubo otra cosa. Y esa la escribió.
 
-Lo hizo la noche del tercer día, en su casa pequeña cerca del palacio, con una vela y el cuaderno de corteza. Escribió la invasión, los brujos, las medusas que volvieron. Escribió que habían luchado juntos, elfos y humanos, arduamente, una palabra que había aprendido de Livia y que le gustaba mucho porque sonaba a lo que significaba. Escribió que el último invasor había caído muerto.
+Lo hizo la noche del tercer día, en su casa pequeña cerca del palacio, con una vela y el cuaderno de corteza. Escribió la invasión, los brujos, las medusas que volvieron. Escribió que habían luchado juntos, elfos y humanos, *arduamente*, una palabra que había aprendido de Livia y que le gustaba mucho porque sonaba a lo que significaba. Escribió que el último invasor había caído muerto.
 
 Eso no era verdad, y lo sabía. Había visto a una figura sin cara meterse en el río por debajo de la reja, de madrugada, desde lo alto de la torre del norte. No había disparado. Tenía el arco tenso y la flecha en la cuerda y la figura a ochenta pasos, de espaldas, metida en el agua hasta la cintura, y no había disparado.
 
@@ -36,19 +36,19 @@ No sabía por qué. O sí lo sabía. Porque la figura lloraba, y él la había o
 
 No lo escribió.
 
-Escribió, en cambio, otra cosa. Una que le había sorprendido mientras echaba leña en la segunda hoguera, viendo a la gente de la colina pasar a su lado con los muertos en parihuelas. Hombres que tres días antes habrían cruzado la calle para no pasar junto a un elfo y que ahora le daban las parihuelas a él para que dijera la palabra del bosque. Mujeres que le habían dado las gracias. Un herrero que le había dado una palmada en el hombro, tan fuerte que casi lo tira al fuego, como la de aquel fiordeño el primer día, el de pobre de ti, hombre, con ese nombre.
+Escribió, en cambio, otra cosa. Una que le había sorprendido mientras echaba leña en la segunda hoguera, viendo a la gente de la colina pasar a su lado con los muertos en parihuelas. Hombres que tres días antes habrían cruzado la calle para no pasar junto a un elfo y que ahora le daban las parihuelas a él para que dijera la palabra del bosque. Mujeres que le habían dado las gracias. Un herrero que le había dado una palmada en el hombro, tan fuerte que casi lo tira al fuego, como la de aquel fiordeño el primer día, el de *pobre de* *ti, hombre, con ese nombre*.
 
-Ya la ciudad estaba más crecida, escribió. Los soldados más experimentados. No sería tan fácil derrotarnos.
+*Ya la ciudad estaba más crecida*, escribió. *Los soldados más experimentados. No* *sería tan fácil derrotarnos.*
 
 Se quedó mirando la última palabra.
 
 *Derrotarnos.*
 
-No derrotarlos. Derrotarnos.
+No *derrotarlos*. *Derrotarnos.*
 
 No lo tachó.
 
-* * *
+---
 
 El Consejo se reunió el cuarto día, por la mañana, en la sala grande del palacio. Él no era del Consejo; ningún elfo lo era. Pero la reina mandó a buscarlo, y a Verawel, y a otros tres de los viejos de su pueblo, y los hizo sentar en un banco al fondo, contra la pared, y nadie se atrevió a decir nada.
 
@@ -70,7 +70,7 @@ La reina no dijo nada durante un rato. Miró la mesa. Las sillas. El cojín de t
 
 Nadie contestó.
 
-—Porque yo no creo en la magia —recitó la reina. Despacio. Lo sabía de memoria. Todos lo sabían de memoria; estaba grabado en una tabla de madera en la puerta del cuartel desde hacía quince años—. Y lo que no se cree, no se teme. —Levantó la vista—. ¿Alguien de esta mesa tuvo miedo hace cuatro noches?
+—*Porque yo no creo en la magia* —recitó la reina. Despacio. Lo sabía de memoria. Todos lo sabían de memoria; estaba grabado en una tabla de madera en la puerta del cuartel desde hacía quince años—. *Y lo que no se cree, no se teme.* —Levantó la vista—. ¿Alguien de esta mesa tuvo miedo hace cuatro noches?
 
 Silencio.
 
@@ -106,7 +106,7 @@ Al fondo de la sala, en la mesa de los escribientes, un muchacho de veintitrés 
 
 —Constará.
 
-* * *
+---
 
 Olbrecht Saur se levantó.
 
@@ -138,11 +138,11 @@ La reina lo miró mucho rato.
 
 —Entonces —dijo— que aprendan a mirar de vosotros. Y a tocar de nosotros. A ver qué sale.
 
-* * *
+---
 
 Se votó. Ganó la reina. Cuatro a uno.
 
-Olbrecht votó en contra. Lo apuntaron así, en el acta, y el muchacho de los Vell lo leyó en voz alta: Votado en contra. O. S. Y alguien, al fondo, se rió, porque se acordaba de otra acta, de quince años antes, de otro edicto, en la que también había una firma pequeña al pie: Votado en contra. M. R.
+Olbrecht votó en contra. Lo apuntaron así, en el acta, y el muchacho de los Vell lo leyó en voz alta: *Votado en contra. O. S.* Y alguien, al fondo, se rió, porque se acordaba de otra acta, de quince años antes, de otro edicto, en la que también había una firma pequeña al pie: *Votado en contra. M. R.*
 
 Mara Renod había votado contra el edicto.
 
@@ -150,7 +150,7 @@ Olbrecht Saur había votado contra quitarlo.
 
 El elfo pensó que a los humanos les gustaba mucho que las cosas rimaran. Y que la vida no rimaba casi nunca. Y que cuando rimaba, era porque alguien la había empujado.
 
-* * *
+---
 
 Esa tarde lo llamó la reina al palacio. A la habitación. Sola, con el niño.
 
@@ -176,7 +176,7 @@ El elfo no contestó.
 
 La reina asintió. No pareció sorprendida. Nunca parecía sorprendida.
 
-—Era Pim —dijo—. Pim Hennek. El de la Gaviota. Le llevó pan a mi madre el día que llegaron a la playa, cuando yo no había nacido. Les dio de comer a sesenta niños en una cueva durante quince años. —Cambió al niño de pecho—. Y entró en mi cuarto para arrancarle el nombre a mi hijo.
+—Era Pim —dijo—. Pim Hennek. El de la *Gaviota*. Le llevó pan a mi madre el día que llegaron a la playa, cuando yo no había nacido. Les dio de comer a sesenta niños en una cueva durante quince años. —Cambió al niño de pecho—. Y entró en mi cuarto para arrancarle el nombre a mi hijo.
 
 —Lo sé.
 
@@ -188,7 +188,7 @@ La reina asintió. No pareció sorprendida. Nunca parecía sorprendida.
 
 Se rió. Él también, un poco.
 
-* * *
+---
 
 Fue en esa conversación, en ese rato, con la luz de la tarde entrando por la ventana, cuando el elfo se dio cuenta.
 
@@ -220,13 +220,13 @@ El elfo no supo qué decir.
 
 No se lo preguntó. Nunca. En toda su vida.
 
-Pero esa noche, en su cuaderno de corteza, en la entrada del año cuarenta y dos, al final, después de lo de no sería tan fácil derrotarnos, añadió una línea. Pequeña. En su lengua. Y luego, al pensarlo mejor, la tachó; y luego, al pensarlo mejor todavía, la volvió a escribir en otra página, más adelante, en una página en blanco que dejó reservada para cuando tuviera algo más que poner.
+Pero esa noche, en su cuaderno de corteza, en la entrada del año cuarenta y dos, al final, después de lo de *no sería tan fácil derrotarnos*, añadió una línea. Pequeña. En su lengua. Y luego, al pensarlo mejor, la tachó; y luego, al pensarlo mejor todavía, la volvió a escribir en otra página, más adelante, en una página en blanco que dejó reservada para cuando tuviera algo más que poner.
 
 *La reina no tiene canas. Verawel lo sabe. Yo no.*
 
 Dieciséis años después, en esa misma página, escribiría el resto.
 
-* * *
+---
 
 En primavera, cuando se fundió la nieve, subió al bosque del norte. A la loma. A ver su árbol.
 

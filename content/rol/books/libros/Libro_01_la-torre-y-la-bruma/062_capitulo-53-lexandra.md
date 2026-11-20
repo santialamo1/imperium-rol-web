@@ -1,12 +1,12 @@
-## Capítulo 53 · Lexandra
+# Capítulo 53 · Lexandra
 
 *Oasis de Kel-Ammar, borde de la bruma. Año 238, verano.*
 
 El mercader se llamaba Osbert Rusk, vendía sal de Pisor a los clanes libres a precio de oro y llevaba once años engañándolos con las pesas, y cuando un muchacho de los pozos del este le abrió el cuello con un cuchillo de esquilar delante de su propia caravana, la mitad del oasis pensó que se lo había buscado y la otra mitad, que iba a costarles una guerra.
 
-Lexandra Tiberius lo supo a media mañana, en su tienda, mientras intentaba conjugar el verbo escuchar en la lengua de la arena por octava vez con una niña de nueve años que le hacía de maestra y se reía de ella sin disimulo.
+Lexandra Tiberius lo supo a media mañana, en su tienda, mientras intentaba conjugar el verbo *escuchar* en la lengua de la arena por octava vez con una niña de nueve años que le hacía de maestra y se reía de ella sin disimulo.
 
-—Shem-ar —repetía la niña—. No shamar. Shamar es lo que se le dice a las cabras.
+—*Shem-ar* —repetía la niña—. No *shamar*. *Shamar* es lo que se le dice a las cabras.
 
 —Lo sé. Llevo cuatro años diciéndoselo a la Madre.
 
@@ -16,7 +16,7 @@ Entonces entró Ansel, sin llamar, con las gafas torcidas y la cara blanca.
 
 —Lex —dijo—. Han matado a un mercader del Imperio.
 
-* * *
+---
 
 El muchacho se llamaba Dan-Eli. Tenía diecisiete años. Su padre había vendido al mercader Rusk, durante once años, la lana de su rebaño a cambio de sal, y durante once años la balanza del mercader había pesado la lana de menos y la sal de más, y el padre lo sabía y no decía nada, porque Rusk era el único mercader del Imperio que se atrevía a cruzar el Ceniza hasta Kel-Ammar y sin sal las cabras se morían. Aquel invierno el padre había muerto de unas fiebres. Dan-Eli había heredado el rebaño, la deuda y la balanza.
 
@@ -30,7 +30,7 @@ Ahora estaba sentado en el suelo de la tienda grande de la Madre Ysh-Neva, con l
 
 Y fuera, en el borde del oasis, acampados junto a sus carros, cuarenta hombres de la caravana de Rusk —carreteros, guardias, mozos, casi todos Ibaro de Pisor— esperaban, con las armas en la mano, a que les entregaran al asesino.
 
-* * *
+---
 
 —Tienen derecho —dijo Ysh-Neva.
 
@@ -56,7 +56,7 @@ Las dos mujeres lo miraron.
 
 —Que no lo juzgue ni el Imperio ni los libres —dijo Ansel, subiéndose las gafas—. Que lo juzguen los dos. A la vez.
 
-* * *
+---
 
 Les costó la tarde convencer a los de la caravana. Les costó la noche convencer al consejo de clanes.
 
@@ -80,7 +80,7 @@ Gunnar Hale la miró mucho rato.
 
 —Entonces no saldremos de la tienda hasta que nos pongamos.
 
-* * *
+---
 
 El juicio se celebró al día siguiente, al mediodía, en el mercado del oasis, en el mismo sitio donde había muerto el mercader. Bajo un toldo de lino gris. Con dos taburetes, uno al lado del otro. En uno se sentó la Madre Ysh-Neva, con su collar de cuentas de sal blanca. En el otro, la antigua emperatriz Lexandra Tiberius, con la carta de su hijo sobre las rodillas y la cadera izquierda doliéndole como siempre que hacía calor.
 
@@ -98,7 +98,7 @@ Dan-Eli la miró. Tenía los ojos muy oscuros, muy jóvenes.
 
 —No lo sé, señora —dijo—. Ahora que lo he hecho, no.
 
-* * *
+---
 
 Deliberaron en la tienda de la Madre, las dos solas, durante tres horas.
 
@@ -122,7 +122,7 @@ Y el mercader Osbert Rusk, de Pisor, muerto, quedaba declarado ladrón por las d
 
 —Ya lo sé —dijo Lexandra—. Lo hemos calculado juntas.
 
-* * *
+---
 
 La multitud no aplaudió. No abucheó tampoco. Se quedó en silencio, como se quedan las multitudes cuando no saben si les han dado lo que querían.
 
@@ -142,18 +142,18 @@ Lexandra miró a Ysh-Neva. Ysh-Neva asintió despacio.
 
 —Que trabaje siete años en el mercado de este oasis —dijo Marta—. Con una balanza. Con las pesas comprobadas por la Madre. Pesando la lana de los pastores y la sal de los mercaderes que vengan del norte. Que no se pese mal ni una onza en siete años. — Volvió a mirar al muchacho—. Que se acuerde cada día, cada vez que ponga una pesa en la balanza, de por qué está ahí.
 
-* * *
+---
 
-Dan-Eli pesó lana y sal en el mercado de Kel-Ammar durante siete años. Luego, cuando se cumplió la sentencia, se quedó. Pesó durante cuarenta más. Los mercaderes del norte acabaron llamándolo el Fiel, porque su balanza era la única de todo el desierto de la que nadie había tenido nunca una queja. Y los pastores de los pozos, que habían sido estafados durante generaciones, empezaron a llevar su lana a Kel-Ammar desde cien leguas a la redonda solo para que se la pesara él.
+Dan-Eli pesó lana y sal en el mercado de Kel-Ammar durante siete años. Luego, cuando se cumplió la sentencia, se quedó. Pesó durante cuarenta más. Los mercaderes del norte acabaron llamándolo *el Fiel*, porque su balanza era la única de todo el desierto de la que nadie había tenido nunca una queja. Y los pastores de los pozos, que habían sido estafados durante generaciones, empezaron a llevar su lana a Kel-Ammar desde cien leguas a la redonda solo para que se la pesara él.
 
 Marta Rusk volvió a Pisor y no regresó nunca al desierto. Pero cada año, en el aniversario, mandaba con la primera caravana del verano un saquito de sal de Pisor para el mercado de Kel-Ammar. Sin nota. Dan-Eli lo pesaba, delante de todos, y siempre pesaba exactamente lo mismo: una libra.
 
 Lexandra Tiberius escribió a su hijo aquella misma noche. Una carta larga, en la que le contaba el juicio palabra por palabra. Al final, en una postdata, añadió:
 
-*Ansel dice que deberíamos llamarlo «el juicio de las dos sales», para que suene a algo. Yo creo que es mejor no llamarlo de ninguna manera, para que no suene a nada. Las cosas que suenan a algo se las acaba apropiando alguien. Las que no suenan a nada se quedan en los que las hicieron.*
+*Ansel dice que deberíamos llamarlo «el juicio de las dos sales», para que suene a* *algo. Yo creo que es mejor no llamarlo de ninguna manera, para que no suene a nada. Las* *cosas que suenan a algo se las acaba apropiando alguien. Las que no suenan a nada se* *quedan en los que las hicieron.*
 
-*La Madre y yo hemos discutido tres horas y hemos cedido las dos. Ninguna de las dos está contenta. Creo que eso significa que ha salido bien.*
+*La Madre y yo hemos discutido tres horas y hemos cedido las dos. Ninguna de las* *dos está contenta. Creo que eso significa que ha salido bien.*
 
 *Tu madre, que sigue sin saber conjugar «escuchar».*
 
-Treinta años después, cuando las leyes de Maximus el Forjador prohibieron el comercio con los clanes libres y cerraron los vados del Ceniza a las caravanas, el último mercader del Imperio que cruzó el río hacia el sur llevaba en su carro un saquito de sal de Pisor de una libra, sin nota, que le había dado una vieja de luto en el puerto. Se lo entregó a un pesador viejo del mercado de Kel-Ammar, que lo puso en su balanza delante de todos, lo miró mucho rato, y luego, por primera vez en treinta años, no dijo cuánto pesaba.
+Treinta años después, cuando las leyes de Maximus el Forjador prohibieron el comercio con los clanes libres y cerraron los vados del Ceniza a las caravanas, el último mercader del Imperio que cruzó el río hacia el este llevaba en su carro un saquito de sal de Pisor de una libra, sin nota, que le había dado una vieja de luto en el puerto. Se lo entregó a un pesador viejo del mercado de Kel-Ammar, que lo puso en su balanza delante de todos, lo miró mucho rato, y luego, por primera vez en treinta años, no dijo cuánto pesaba.

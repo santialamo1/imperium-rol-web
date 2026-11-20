@@ -1,24 +1,24 @@
-## Capítulo 67 · Asgal
+# Capítulo 67 · Asgal
 
 *La colina de Banderbill y la bahía. Primavera del año 892 de la Nueva Era (285 D.bA).*
 
 No entraron por la muralla.
 
-Asgal lo sabía. Lo había sabido desde el 866, desde que Sein bajó de la almena con la cuenta y Ottherius dijo por abajo. Lo había sabido desde el 881, desde la tablilla de piedra negra en la barriga de un pez: Por abajo, no por la muralla. Lo sabía mientras subía cada mañana a la cantera con el pico, treinta y cinco años, tres leguas de piedra. Lo sabía.
+Asgal lo sabía. Lo había sabido desde el 866, desde que Sein bajó de la almena con la cuenta y Ottherius dijo *por abajo*. Lo había sabido desde el 881, desde la tablilla de piedra negra en la barriga de un pez: *Por abajo, no por la muralla*. Lo sabía mientras subía cada mañana a la cantera con el pico, treinta y cinco años, tres leguas de piedra. Lo sabía.
 
 La hizo igual.
 
-Porque una muralla no es para que no entren. Se lo había dicho Dalbur, en Tiama, de niño, delante de la muralla de hielo azul. Una muralla es para que los de dentro sepan dónde está el dentro.
+Porque una muralla no es para que no entren. Se lo había dicho Dalbur, en Tiama, de niño, delante de la muralla de hielo azul. *Una muralla es para que los de dentro sepan* *dónde está el dentro.*
 
 Así que los de dentro lo sabían.
 
 Y cuando empezaron a salir del suelo, nadie corrió hacia la muralla. Corrieron hacia el muro.
 
-* * *
+---
 
 Fue antes del alba.
 
-Los barcos de la bahía llevaban toda la noche acercándose. Ochenta. Cien. Asgal dejó de contar. Barcos negros, bien hechos, con quilla, con remos, con la figura de una cara gris en la proa de cada uno, con la boca abierta. Corvo Hask salió a esperarlos con la Armada, cuarenta barcos de aquí y de Wonder, como le había enseñado el que no envejecía: en el mar, que no lleguen a la playa.
+Los barcos de la bahía llevaban toda la noche acercándose. Ochenta. Cien. Asgal dejó de contar. Barcos negros, bien hechos, con quilla, con remos, con la figura de una cara gris en la proa de cada uno, con la boca abierta. Corvo Hask salió a esperarlos con la Armada, cuarenta barcos de aquí y de Wonder, como le había enseñado el que no envejecía: *en el mar, que no lleguen a la playa*.
 
 Desde la almena se veían las luces. Se oían, de lejos, los golpes de las quillas. Los gritos. El fuego del gnomo, el de aceite, que el herrero de Lindos había enseñado a los de la colina hacía un siglo, prendiendo en las velas negras.
 
@@ -26,7 +26,7 @@ Asgal miraba el mar.
 
 Y la espada de Edran Hask, a su lado, dejó de zumbar.
 
-* * *
+---
 
 Se volvió.
 
@@ -42,7 +42,7 @@ Fuerte. No como la noche de la grieta. Fuerte. Asgal se cayó de rodillas. Las p
 
 Y en la ladera norte, en el barrio élfico, el de las casas de piedra blanca con jardines sin tapia, por encima del palacio, el suelo se abrió.
 
-* * *
+---
 
 No en un sitio. En muchos.
 
@@ -50,13 +50,13 @@ Agujeros. Redondos. Como los que dejan las raíces cuando se arranca un árbol m
 
 Y de los agujeros salieron.
 
-Los drows primero. Altos, grises, de pelo blanco, con escudos de piedra negra y lanzas largas. En filas. Callados. Como habían salido de las puertas de Orac en el 856, según Érandiul. Detrás, orcos. Muchos. Con hachas. Con los ojos amarillos fijos. Y detrás, otros. Hombres. Con ropa de pescador, de pastor, de soldado. Con los ojos quietos.
+Los drows primero. Altos, grises, de pelo blanco, con escudos de piedra negra y lanzas largas. En filas. Callados. Como habían salido de las puertas de la Isla Siniestra en el 856, según Érandiul. Detrás, orcos. Muchos. Con hachas. Con los ojos amarillos fijos. Y detrás, otros. Hombres. Con ropa de pescador, de pastor, de soldado. Con los ojos quietos.
 
-Algunos los conocía la gente. Eran de las aldeas de la costa norte. De las que no habían querido meterse detrás de la muralla. Es invierno, había dicho el Emperador. Y algunos no se habían creído que fuera el invierno.
+Algunos los conocía la gente. Eran de las aldeas de la costa norte. De las que no habían querido meterse detrás de la muralla. *Es invierno*, había dicho el Emperador. Y algunos no se habían creído que fuera el invierno.
 
 Ahora salían de debajo de la tierra con los ojos quietos.
 
-* * *
+---
 
 Asgal bajó de la almena.
 
@@ -68,7 +68,7 @@ No mirando arriba.
 
 Mirando abajo.
 
-* * *
+---
 
 La calle de los Tintoreros. La de los Cubos. La del Arroyo Seco, que no tenía arroyo desde el siglo segundo. Subiendo hacia el norte. Hacia el ruido.
 
@@ -82,7 +82,7 @@ Detrás del muro estaba todo. La biblioteca. El palacio. La calle de abajo. La c
 
 Delante del muro, ahora, los que salían de la tierra.
 
-* * *
+---
 
 Asgal llegó al muro.
 
@@ -98,7 +98,7 @@ Y no gritaban.
 
 Eso era lo peor. No gritaban. Venían callados. Como se viene a recoger algo que ya es de uno.
 
-* * *
+---
 
 —Majestad —dijo Durg. Con la voz rota—. Nos pregunta.
 
@@ -106,13 +106,13 @@ Asgal lo miró.
 
 —¿Qué?
 
-—Nos pregunta. A todos. Ahora. —Durg se tocó la cabeza—. Lo oigo. Aquí. Los de mi barrio lo oyen. ¿Qué queréis? —Le temblaba el hacha—. Y los de los ojos quietos le contestaron. Por eso tienen los ojos quietos. Le contestaron. Y él se lo quedó.
+—Nos pregunta. A todos. Ahora. —Durg se tocó la cabeza—. Lo oigo. Aquí. Los de mi barrio lo oyen. *¿Qué queréis?* —Le temblaba el hacha—. Y los de los ojos quietos le contestaron. Por eso tienen los ojos quietos. Le contestaron. Y él se lo quedó.
 
 Asgal miró a lo largo del muro. A los orcos del barrio de abajo. Algunos tenían la cabeza baja. Mirando al suelo. A la ladera. A los que venían. Con la boca abierta.
 
 A punto de contestar.
 
-* * *
+---
 
 Y Asgal hizo lo único que sabía hacer.
 
@@ -124,11 +124,11 @@ Y gritó:
 
 —¡ARRIBA!
 
-* * *
+---
 
 No sabía si funcionaría.
 
-Nadie lo sabía. Ithil lo había escrito en una tablilla. No oye a los que miran arriba. Pero nadie lo había probado con miles. En una batalla. Con la tierra temblando.
+Nadie lo sabía. Ithil lo había escrito en una tablilla. *No oye a los que miran arriba.* Pero nadie lo había probado con miles. En una batalla. Con la tierra temblando.
 
 Asgal miró arriba.
 
@@ -142,7 +142,7 @@ A lo largo del muro. Las tres leguas. Uno detrás de otro. Como se extiende el a
 
 Miles. Mirando arriba.
 
-* * *
+---
 
 Y el muro cantó.
 
@@ -150,7 +150,7 @@ No bajito. No como en el 885, la noche de Wenna y la piedra del Ojo. Más. Mucho
 
 Y abajo, en la ladera, las filas se pararon.
 
-* * *
+---
 
 No todas.
 
@@ -164,7 +164,7 @@ Y uno, en el centro, alto, joven de cara, con una cicatriz en la ceja y los colm
 
 Y miró arriba.
 
-* * *
+---
 
 Asgal no supo nunca cómo se llamaba.
 
@@ -172,7 +172,7 @@ Lo supo después Grâshka. Que estaba en uno de los barcos de la bahía, en uno 
 
 Y porque esa mañana, en el barco, mientras la Armada de la colina les prendía fuego a las velas, ella miró arriba también.
 
-* * *
+---
 
 Los drows llegaron al muro.
 
@@ -188,7 +188,7 @@ Un drow le dio con el escudo en la cara. Se cayó del muro. Por dentro. Al suelo
 
 Y volvió a subir.
 
-* * *
+---
 
 En el agujero más grande, el de debajo del roble de Verawel, seguían saliendo.
 
@@ -204,9 +204,9 @@ Asgal lo vio mirar arriba. Un momento.
 
 Y la clavó en el borde del agujero. Hasta la guarda.
 
-—¡Quieto!
+—*¡Quieto!*
 
-* * *
+---
 
 El hielo salió de la espada como el agua de una presa rota.
 
@@ -218,7 +218,7 @@ Los drows que estaban encima del hielo se quedaron quietos. Con los pies pegados
 
 Y el suelo dejó de temblar.
 
-* * *
+---
 
 Edran Hask se quedó de rodillas al borde del agujero. Con las manos en la empuñadura. Con la espada clavada.
 
@@ -238,9 +238,9 @@ Asgal le cerró los ojos.
 
 Dijo la palabra. La élfica. La que había aprendido de la pelirroja en Tiama, en el 817, cuando tenía dos años y no se acordaba. Hacia arriba.
 
-* * *
+---
 
-En la bahía, la Armada había ganado. Corvo Hask había quemado sesenta barcos negros. Los demás se habían ido. Hacia el noroeste. Con las velas ardiendo.
+En la bahía, la Armada había ganado. Corvo Hask había quemado sesenta barcos negros. Los demás se habían ido. Hacia el norte, hacia la Isla Siniestra. Con las velas ardiendo.
 
 En la ladera norte, los drows que quedaban se habían retirado. Los orcos de la primera fila, los que habían dejado caer el hacha, estaban sentados en la ladera. Muchos. Sin pelear. Mirando arriba. Algunos llorando. Nadie sabía qué hacer con ellos. Los soldados de la guarnición los rodearon. No los tocaron.
 
@@ -252,7 +252,7 @@ Le dolía todo.
 
 Y entonces vio a la pelirroja.
 
-* * *
+---
 
 Bajaba de la almena. No por la escalera. Por la ladera. Hacia la puerta norte del muro. La que daba a la ladera. La que habían cerrado al alba con tres trancas de roble.
 

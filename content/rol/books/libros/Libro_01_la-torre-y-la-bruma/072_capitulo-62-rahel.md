@@ -1,4 +1,4 @@
-## Capítulo 62 · Rahel
+# Capítulo 62 · Rahel
 
 *Oasis de Kel-Ammar. Año 269, invierno.*
 
@@ -10,9 +10,9 @@ Cuando la niña dejó de respirar, Rahel dejó de gritar. Así, sin más. Como s
 
 No volvió a hablarle a Yared en siete años.
 
-* * *
+---
 
-La enterraron al amanecer, en la arena, junto a las palmeras que la Madre Ysh-Neva había plantado una a una después de que el viejo Braco quemara las anteriores. El osario nuevo estaba al pie de la roca, pero Rahel no quiso. Allí no, dijo, con las únicas palabras que dijo aquel día. Allí están los viejos. Ella tiene miedo de los viejos.
+La enterraron al amanecer, en la arena, junto a las palmeras que la Madre Ysh-Neva había plantado una a una después de que el viejo Braco quemara las anteriores. El osario nuevo estaba al pie de la roca, pero Rahel no quiso. *Allí no*, dijo, con las únicas palabras que dijo aquel día. *Allí están los viejos. Ella tiene miedo de los viejos.*
 
 Yared cavó la tumba con sus manos. Nadie le ayudó; no lo permitió. Tenía treinta y cinco años, la mandíbula cuadrada de su padre, los ojos oscuros de su madre, y un silencio dentro que Rahel conocía desde hacía cinco años y que nunca había conseguido abrir.
 
@@ -24,7 +24,7 @@ La Madre Ysh-Talia no fue al entierro.
 
 Rahel tampoco la esperaba. Su suegra no había ido a la boda. No había ido al nacimiento. Vivía en la otra punta del oasis, en la tienda de las Madres, aunque no llevaba velo, y cuando se cruzaba con su hijo en el pozo se saludaban como dos desconocidos educados. Rahel no sabía por qué. Nadie se lo había explicado. Pero sabía que la culpa, fuera de quien fuera, la había heredado ella, como se heredan las deudas en el desierto, por casarse con quien se casó.
 
-* * *
+---
 
 La Madre vino la noche siguiente.
 
@@ -88,7 +88,7 @@ Rahel se levantó. Le temblaban las piernas.
 
 —¿Qué tengo que hacer?
 
-* * *
+---
 
 Fueron a la tumba juntas, a medianoche.
 
@@ -102,7 +102,7 @@ Rahel se arrodilló junto a ella.
 
 —Puedes. Eres su madre.
 
-Rahel miró hacia arriba. El cielo del desierto, negro, con las estrellas medio borradas por la bruma. Pensó en la niña. En su risa. En cómo se metía el pulgar en la boca para dormir, aunque Rahel le decía que se le iban a torcer los dientes. En cómo decía mamá con la m muy larga, mmmmamá, como si le costara arrancar. En el calor de su cuerpo los tres días de la fiebre, y luego en el frío.
+Rahel miró hacia arriba. El cielo del desierto, negro, con las estrellas medio borradas por la bruma. Pensó en la niña. En su risa. En cómo se metía el pulgar en la boca para dormir, aunque Rahel le decía que se le iban a torcer los dientes. En cómo decía *mamá* con la *m* muy larga, *mmmmamá*, como si le costara arrancar. En el calor de su cuerpo los tres días de la fiebre, y luego en el frío.
 
 —Neva —dijo.
 
@@ -118,7 +118,7 @@ Sintió algo. No lo vio; no tenía el oído, no tenía nada. Pero lo sintió: co
 
 Se echó a llorar. Por primera vez en todo el día. Ysh-Talia se arrodilló a su lado y la abrazó, y Rahel lloró en el hombro de su suegra hasta que se le acabaron las lágrimas, mientras la luna se movía por encima de las palmeras.
 
-* * *
+---
 
 Cuando volvieron a la tienda, Yared estaba allí.
 
@@ -156,7 +156,7 @@ Esa noche no volvió. Ni la siguiente. Volvió al tercer día, sin decir dónde 
 
 Así siguieron siete años.
 
-* * *
+---
 
 Rahel nunca supo si había hecho bien.
 
@@ -166,7 +166,7 @@ Si no hubiera soltado a Neva, ¿habría vuelto Yared a la niebla? ¿Habría vuel
 
 No lo sabía. Nadie lo sabía.
 
-Pero cuando llegaron las noticias de Kel-Dun, del Atardecer Rojo, de los muertos grises caminando por las colinas de Askel, Rahel fue a la tumba de su hija, junto a las palmeras, y se sentó en la arena, y pensó que al menos ella, la pequeña, la del pulgar en la boca y la m muy larga, no estaba allí. No caminaba en ningún ejército. No servía a nadie.
+Pero cuando llegaron las noticias de Kel-Dun, del Atardecer Rojo, de los muertos grises caminando por las colinas de Askel, Rahel fue a la tumba de su hija, junto a las palmeras, y se sentó en la arena, y pensó que al menos ella, la pequeña, la del pulgar en la boca y la *m* muy larga, no estaba allí. No caminaba en ningún ejército. No servía a nadie.
 
 Eso, al menos, lo había hecho bien.
 

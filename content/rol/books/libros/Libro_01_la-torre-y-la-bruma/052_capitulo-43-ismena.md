@@ -1,4 +1,4 @@
-## Capítulo 43 · Ismena
+# Capítulo 43 · Ismena
 
 *Concordia, Academia de los Custodios. Año 196, otoño.*
 
@@ -24,7 +24,7 @@ Braco no se rió. Pero algo, en el fondo de los ojos azules, se movió.
 
 —Vamos dentro —dijo—. No quiero hacer esto delante de los niños.
 
-* * *
+---
 
 El despacho de la rectora era pequeño, oscuro, atestado de libros. Ismena le ofreció la única silla. Braco no la aceptó. Se quedó de pie junto a la ventana, mirando el patio, con las manos a la espalda.
 
@@ -80,11 +80,11 @@ Braco dejó de reírse.
 
 —¿Eso dijo?
 
-—Eso dijo. —Ismena lo miró—. Prométeme que lo entenderás. ¿No os lo dijo a vos también?
+—Eso dijo. —Ismena lo miró—. *Prométeme que lo entenderás.* ¿No os lo dijo a vos también?
 
 El emperador no contestó. Pero se llevó la mano al mechón rubio del cuello, y lo apretó, y por un instante pareció un hombre mucho más viejo.
 
-* * *
+---
 
 Llegaron a un acuerdo al anochecer, después de tres horas y una jarra de vino que Ismena no recordaba haber pedido.
 
@@ -100,7 +100,7 @@ Braco la miró con algo parecido al respeto.
 
 —No. Eso lo he pensado yo. —Ismena se encogió de hombros—. Leo mucho.
 
-* * *
+---
 
 Ciento cuatro de los ciento veinte se presentaron voluntarios.
 
@@ -122,7 +122,7 @@ Ismena no contestó.
 
 —Pell.
 
-—¿Qué? La niña ha preguntado. Los niños de esta casa merecen la verdad. Lo dices tú siempre. —El viejo Custodio miró hacia el noroeste, hacia donde la columna se perdía en el polvo del camino—. Volverán la mitad. Y los que se quedan aquí van a tener que aprender deprisa. Porque tiene razón tu rectora, pequeña. Si encuentran lo que buscan, él va a gritar.
+—¿Qué? La niña ha preguntado. Los niños de esta casa merecen la verdad. Lo dices tú siempre. —El viejo Custodio miró hacia el noreste, hacia donde la columna se perdía en el polvo del camino—. Volverán la mitad. Y los que se quedan aquí van a tener que aprender deprisa. Porque tiene razón tu rectora, pequeña. Si encuentran lo que buscan, él va a gritar.
 
 Volvieron cuarenta y uno.
 

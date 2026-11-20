@@ -1,6 +1,6 @@
-## Prólogo · Lo que se acuerda
+# Prólogo · Lo que se acuerda
 
-*El Mercado del valle negro. Finales del invierno del año 498 de la Nueva Era (109 A.bA).*
+*El Mercado del valle negro. Finales del invierno del año 498 de la Nueva Era (109* *A.bA).*
 
 La nota tardó un mes en llegar, y Lanther tardó once días en llegar detrás de ella, y por primera vez en cuatrocientos sesenta años nadie le dijo que llegaba tarde.
 
@@ -8,11 +8,11 @@ No porque no llegara tarde. Llegaba tarde siempre; era lo único que sabía hace
 
 Lanther se quedó mirándola un rato desde la mula.
 
-Wenna de Pisor tenía cuatrocientos cuarenta y seis años, la cara de cincuenta, la voz de cien, y roncaba como roncan los barcos viejos cuando les entra el viento por las cuadernas. Llevaba la balanza colgada del cinto incluso para dormir. Tenía en el regazo un papel doblado, sujeto con una piedrita blanca, y en el papel, de su letra gorda, tres palabras: Ya era hora.
+Wenna de Pisor tenía cuatrocientos cuarenta y seis años, la cara de cincuenta, la voz de cien, y roncaba como roncan los barcos viejos cuando les entra el viento por las cuadernas. Llevaba la balanza colgada del cinto incluso para dormir. Tenía en el regazo un papel doblado, sujeto con una piedrita blanca, y en el papel, de su letra gorda, tres palabras: *Ya era hora*.
 
 La había escrito antes de dormirse. Por si acaso.
 
-Lanther se bajó de la mula. Le dolían las piernas; once días a lomo de mula le dolían igual con dieciocho años de cara que con cuatrocientos ochenta y siete de cuerpo, eso no lo arreglaba ninguna ofrenda. Cogió el papel. Lo leyó. Lo volvió a doblar. Se lo guardó en la bolsa, al lado del frasco de cristal de Bhargaras IX, que tintineó contra la hebilla como tintineaba siempre, como diciendo todavía no.
+Lanther se bajó de la mula. Le dolían las piernas; once días a lomo de mula le dolían igual con dieciocho años de cara que con cuatrocientos ochenta y siete de cuerpo, eso no lo arreglaba ninguna ofrenda. Cogió el papel. Lo leyó. Lo volvió a doblar. Se lo guardó en la bolsa, al lado del frasco de cristal de Bhargaras IX, que tintineó contra la hebilla como tintineaba siempre, como diciendo *todavía no*.
 
 Luego le quitó a Wenna la castaña de la mano, la terminó de pelar, y se la comió.
 
@@ -36,9 +36,9 @@ Wenna abrió el otro ojo. La miró de arriba abajo. La pelirroja de dieciocho a�
 
 —Pues lo pareces. —Wenna sacó los pies del barreño. Se los secó con el delantal —. Ven. Antes de que se acuerde. Lleva tres días diciendo que está a punto. Como los viejos con el estornudo.
 
-* * *
+---
 
-El valle negro olía a lo de siempre: a piedra mojada, a humo de leña, a pan de la tahona del Mercado, que se hacía con harina del sur y agua de la fuente que no se helaba. El Mercado había crecido. Lanther lo notaba cada vez que volvía, como se nota que ha crecido un sobrino: de golpe, a la vez, y con un poco de reproche, como si hubiera crecido para fastidiarla. Ahora había tres calles donde antes había una, y casas de piedra donde antes había tiendas de lona, y una escuela con un tejado azul, y una posada que se llamaba La Balanza Coja en honor a la balanza de Wenna, que no estaba coja, pero que una vez lo estuvo durante una semana, en el año 290, y nadie se lo había perdonado.
+El valle negro olía a lo de siempre: a piedra mojada, a humo de leña, a pan de la tahona del Mercado, que se hacía con harina del sur y agua de la fuente que no se helaba. El Mercado había crecido. Lanther lo notaba cada vez que volvía, como se nota que ha crecido un sobrino: de golpe, a la vez, y con un poco de reproche, como si hubiera crecido para fastidiarla. Ahora había tres calles donde antes había una, y casas de piedra donde antes había tiendas de lona, y una escuela con un tejado azul, y una posada que se llamaba *La Balanza Coja* en honor a la balanza de Wenna, que no estaba coja, pero que una vez lo estuvo durante una semana, en el año 290, y nadie se lo había perdonado.
 
 En la raya pintada con cal, al fondo del claro, estaba el Guardián.
 
@@ -54,7 +54,7 @@ Su hermano no contestó. Nunca contestaba. Llevaba cuatrocientos sesenta y nueve
 
 Pero algo, al lado de su hermano, sí contestó.
 
-* * *
+---
 
 No era una voz. Lanther lo había oído otras veces y nunca había conseguido explicar qué era. Era como cuando en una casa vacía alguien ha estado hace poco y todavía se nota; no por el olor, no por el ruido, sino porque el aire está un poco movido. Un hilo de aire movido. Gris. Al lado de la jarra agrietada, porque era la más cercana que no estaba en un pecho vivo, y lo que quedaba de Loth necesitaba estar cerca de algo que se pareciera a él.
 
@@ -78,7 +78,7 @@ Lanther no se rio. Se sentó en el suelo, en la raya, con las piernas cruzadas, 
 
 —Wenna dice que te acuerdas —dijo.
 
-* * *
+---
 
 Pasó un rato largo. Ysra escuchaba con la cabeza ladeada, muy seria, como escuchan los niños cuando les cuentan algo que no entienden pero que saben que es importante. Los gemelos Pell se habían aburrido y jugaban a tirarse piedritas.
 
@@ -86,9 +86,9 @@ Pasó un rato largo. Ysra escuchaba con la cabeza ladeada, muy seria, como escuc
 
 Lanther cerró los ojos.
 
-Cuatrocientos treinta y siete años antes, en la cúpula de Concordia, un hombre gris que llevaba seiscientos años muerto le había puesto en la mano un frasco de barro colgado de un cordón y le había dicho para cuando te canses. Y luego se había deshecho mirando al sol, y algo de él, un hilo, no había querido irse del todo. Se había quedado. Por la séptima jarra, que llevaba ella. Por la sexta, que estaba aquí. Por los cuentos de los niños. Por una mujer con velo que siempre iba detrás de él, un instante más tarde, y que no había dicho nunca nada, y que una vez, una sola, en un salón de Concordia, se había reído.
+Cuatrocientos treinta y siete años antes, en la cúpula de Concordia, un hombre gris que llevaba seiscientos años muerto le había puesto en la mano un frasco de barro colgado de un cordón y le había dicho *para cuando te canses*. Y luego se había deshecho mirando al sol, y algo de él, un hilo, no había querido irse del todo. Se había quedado. Por la séptima jarra, que llevaba ella. Por la sexta, que estaba aquí. Por los cuentos de los niños. Por una mujer con velo que siempre iba detrás de él, un instante más tarde, y que no había dicho nunca nada, y que una vez, una sola, en un salón de Concordia, se había reído.
 
-Lanther lo sabía. Lo había sabido siempre. Se lo había dicho una vez a un hombre que se estaba muriendo en la cúpula, y él le había dicho tonto, y ella le había dicho tonto tú.
+Lanther lo sabía. Lo había sabido siempre. Se lo había dicho una vez a un hombre que se estaba muriendo en la cúpula, y él le había dicho *tonto*, y ella le había dicho *tonto* *tú*.
 
 Podía decírselo ahora.
 
@@ -102,7 +102,7 @@ Wenna no dijo nada. Se sentó. Le costó. La raya era estrecha y Wenna no lo era
 
 —Pues esperamos —dijo.
 
-* * *
+---
 
 Esperaron tres días.
 
@@ -134,7 +134,7 @@ Lanther pensó. Mucho rato.
 
 —Dice que Sein las apunta en el debe y que eso no cuenta.
 
-* * *
+---
 
 La tercera noche, el hilo se calló.
 
@@ -158,7 +158,7 @@ Lanther se tapó la cara con las manos.
 
 Wenna le puso una mano en la espalda. Una mano enorme, caliente, que olía a castañas. No dijo nada. Wenna sabía, desde hacía cuatrocientos años, que había cosas que no se pesaban.
 
-* * *
+---
 
 —Dice que se va —dijo Ysra al cabo de un rato. Tenía lágrimas en la cara y no sabía por qué—. Dice que ya no tiene nada que hacer aquí. Que lo que quería era eso. Que ahora puede subir.
 
@@ -186,7 +186,7 @@ Wenna había dejado de mover la mano en la espalda de Lanther.
 
 —Dice que son del que duerme. Pero que las ha plantado el otro. —La niña señaló. Sin pensarlo. Con el brazo estirado, como señalan los niños—. Por allí. Al sur. Lejos. Dice que cerca de la colina. Cerca de donde vives. A unos... —se trabó otra vez— no sabe cuánto. Dice que lo que tarda una niña en ir andando a llevarle leche a alguien.
 
-* * *
+---
 
 Lanther se puso de pie.
 
@@ -214,7 +214,7 @@ Y después, porque se le escapó, porque era suya y no de los elfos, dijo otra c
 
 —Te oigo. Vete.
 
-* * *
+---
 
 Ysra contó después, cuando era vieja y Custodia y luego Fiel, que no pasó nada. Que no hubo luz ni ruido ni viento. Que el Guardián siguió de sal y la jarra siguió agrietada y el brasero siguió chisporroteando. Que lo único que pasó fue que el aire dejó de estar movido. Que de repente, al lado del Guardián, había solo aire. Aire normal. Frío. De valle.
 
@@ -224,7 +224,7 @@ Y que a la mañana siguiente los niños del Mercado fueron a tirar piedritas al 
 
 Y que la tiraron.
 
-* * *
+---
 
 Lanther se fue al día siguiente.
 
@@ -242,16 +242,14 @@ Wenna fue con ella. Con la balanza, con un saco de castañas y con la mula más 
 
 Lanther no contestó.
 
-Iba pensando en lo que había dicho una niña de nueve años con la voz de un muerto. Lo que tarda una niña en ir andando a llevarle leche a alguien. Iba pensando que se lo tenía que contar a Sein, y que Sein lo apuntaría en el debe, en la columna de lo que no se sabe, que era la más larga del libro. Iba pensando que Tibbet tenía una lista, una lista ridícula en el forro de un sombrero de hojas, de cosas que no habían pasado, y que hacía setenta años que nadie la leía en voz alta.
+Iba pensando en lo que había dicho una niña de nueve años con la voz de un muerto. *Lo que tarda una niña en ir andando a llevarle leche a alguien.* Iba pensando que se lo tenía que contar a Sein, y que Sein lo apuntaría en el debe, en la columna de lo que no se sabe, que era la más larga del libro. Iba pensando que Tibbet tenía una lista, una lista ridícula en el forro de un sombrero de hojas, de cosas que no habían pasado, y que hacía setenta años que nadie la leía en voz alta.
 
 Iba pensando en un hombre de sal, que no era su hermano, que una vez había tirado de ella con su nombre en un puente y había fallado. Y en dónde estaría.
 
-Y, sobre todo, iba pensando en la palabra dos.
+Y, sobre todo, iba pensando en la palabra *dos*.
 
 En el debe de Sein, en la página del año 498, entre el precio de la cebada y el de las velas, hay una línea que se escribió unas semanas más tarde, con la letra pequeña y redonda de alguien que ha aprendido a escribir con once años en el andamio de un muro.
 
-*Loth se ha ido. Ha dicho Seren. Ha dicho dos.*
-
-*Lo apunto en el haber lo primero. En el debe lo segundo. No sé en cuál va lo tercero.*
+*Loth se ha ido. Ha dicho Seren. Ha dicho dos.* *Lo apunto en el haber lo primero. En el debe lo segundo. No sé en cuál va lo tercero.*
 
 *Que conste.*

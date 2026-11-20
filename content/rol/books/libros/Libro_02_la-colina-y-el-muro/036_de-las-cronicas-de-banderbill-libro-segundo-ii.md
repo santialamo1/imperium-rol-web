@@ -1,6 +1,6 @@
-## DE LAS CRÓNICAS DE BANDERBILL, LIBRO SEGUNDO (II)
+# De las Crónicas de Banderbill, Libro Segundo (II)
 
-*Escrito por Livia Heredicus en el año 31 de la Nueva Era, la noche de la coronación de Lanther Bhargaras.*
+*Escrito por Livia Heredicus en el año 31 de la Nueva Era, la noche de la* *coronación de Lanther Bhargaras.*
 
 He escrito medusas. Es verdad. No es toda la verdad.
 
@@ -26,9 +26,9 @@ No la tacho del todo. Que se lea.
 
 Cuentas del año, a la manera de Casimir, que en paz descanse y que me lo habría exigido:
 
-Debe: un rey, Bhargaras VII, en un agujero. Una emperatriz, Mara Renod, en el mar, con el vestido de su boda. Un tonelero, Joran Kesse, en una estatua de la plaza. Un contable, Casimir Vell, debajo de la puerta del norte. Sesenta y tres soldados de sal en el valle. Una aldea de elfos. Un hombre de pelo blanco que se deshizo en mis brazos y que no sé si debo apuntar en esta columna o en la otra.
+*Debe:* un rey, Bhargaras VII, en un agujero. Una emperatriz, Mara Renod, en el mar, con el vestido de su boda. Un tonelero, Joran Kesse, en una estatua de la plaza. Un contable, Casimir Vell, debajo de la puerta del norte. Sesenta y tres soldados de sal en el valle. Una aldea de elfos. Un hombre de pelo blanco que se deshizo en mis brazos y que no sé si debo apuntar en esta columna o en la otra.
 
-Haber: un muro. Una reina. Cuarenta y tres elfos con sombrero. Un niño que suma. Un nombre de dentro para la ciudad. Una canción que dormía a los niños en la colina y que ahora duerme a algo más.
+*Haber:* un muro. Una reina. Cuarenta y tres elfos con sombrero. Un niño que suma. Un nombre de dentro para la ciudad. Una canción que dormía a los niños en la colina y que ahora duerme a algo más.
 
 No cuadra. No ha cuadrado nunca. Casimir decía que las cuentas que cuadran son las que alguien ha amañado.
 

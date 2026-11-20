@@ -1,4 +1,4 @@
-## Capítulo 17 · Sein
+# Capítulo 17 · Sein
 
 *El cerco de Arghâl. Primavera a otoño del año 606 de la Nueva Era (1 A.bA).*
 
@@ -12,21 +12,21 @@ Y lo apuntó otra vez. En la primera página del libro nuevo.
 
 Porque había empezado un libro nuevo. Por primera vez desde el 30. Un libro solo para la guerra. Para que no se mezclara con lo demás.
 
-* * *
+---
 
-*Día 1. Llegamos al alba. Doce mil cuatrocientos. Nos ven desde la muralla. No hacen nada. Hay un hombre sentado en un taburete en la puerta norte. Nos saluda con la mano.*
+*Día 1. Llegamos al alba. Doce mil cuatrocientos. Nos ven desde la muralla. No* *hacen nada. Hay un hombre sentado en un taburete en la puerta norte. Nos saluda con la* *mano.*
 
-*Día 3. Terminado el campamento. Dos mil tiendas. Cuarenta cocinas. Ocho hospitales, que de momento son almacenes. Pozo cavado en la vaguada del este; agua buena. Letrinas al sur, lejos del pozo; lo he tenido que decir cuatro veces.*
+*Día 3. Terminado el campamento. Dos mil tiendas. Cuarenta cocinas. Ocho* *hospitales, que de momento son almacenes. Pozo cavado en la vaguada del este; agua* *buena. Letrinas al sur, lejos del pozo; lo he tenido que decir cuatro veces.*
 
-*Día 7. Las ocho catapultas en la loma del cuervo. Los gnomos dicen que alcanzan la muralla. No la alcanzan. Dicen que alcanzarán cuando ajusten. Les he preguntado cuánto tardan en ajustar. Me han preguntado cuánto tardo yo en sumar. Les he dicho que nada. Me han dicho que ellos igual.*
+*Día 7. Las ocho catapultas en la loma del cuervo. Los gnomos dicen que alcanzan* *la muralla. No la alcanzan. Dicen que alcanzarán cuando ajusten. Les he preguntado* *cuánto tardan en ajustar. Me han preguntado cuánto tardo yo en sumar. Les he dicho que* *nada. Me han dicho que ellos igual.*
 
 *Día 12. Han ajustado. Alcanzan.*
 
-* * *
+---
 
 Lo que no apuntó, porque no se apuntaba, fue la cara de los muchachos el primer día.
 
-Doce mil cuatrocientos soldados que no habían visto nunca una ciudad enemiga. Que habían oído hablar de la aguja en las tabernas durante veinte años, como se oye hablar de un fantasma. Y que de pronto estaban en lo alto de una loma, al alba, con el brezo mojado hasta las rodillas, y la tenían delante.
+Doce mil cuatrocientos soldados que no habían visto nunca una ciudad enemiga. Que habían oído hablar de *la aguja* en las tabernas durante veinte años, como se oye hablar de un fantasma. Y que de pronto estaban en lo alto de una loma, al alba, con el brezo mojado hasta las rodillas, y la tenían delante.
 
 No era una aguja. Era una ciudad.
 
@@ -42,17 +42,17 @@ Brena no dijo nada. Miró arriba. Un segundo.
 
 Doce mil cuatrocientos la imitaron.
 
-* * *
+---
 
-*Día 20. Primer asalto. Por la puerta norte. Con el ariete grande. Cuatrocientos hombres de la Tercera Compañía.*
+*Día 20. Primer asalto. Por la puerta norte. Con el ariete grande. Cuatrocientos* *hombres de la Tercera Compañía.*
 
-*La puerta no se abre. El ariete se rompe al tercer golpe. La madera de la puerta es de hierro rojo por dentro. Desde la muralla no tiran nada. Ni flechas ni piedras ni aceite. Nada. Nos miran.*
+*La puerta no se abre. El ariete se rompe al tercer golpe. La madera de la puerta es* *de hierro rojo por dentro. Desde la muralla no tiran nada. Ni flechas ni piedras ni aceite.* *Nada. Nos miran.*
 
-*Volvemos. Ni un muerto. Ni un herido. Cuarenta hombres lloran sin saber por qué. Dicen que al tocar la puerta olía a pan.*
+*Volvemos. Ni un muerto. Ni un herido. Cuarenta hombres lloran sin saber por qué.* *Dicen que al tocar la puerta olía a pan.*
 
 *Día 21. Brena dice que no se toca la puerta.*
 
-* * *
+---
 
 Lanther llegó el día veintiocho.
 
@@ -74,9 +74,9 @@ Sein no levantó la vista del libro.
 
 —No he dicho que esté mal. —Sein se quitó las gafas—. He dicho que es lo que es. Lo apunto.
 
-Y lo apuntó. Día 28. Llega la reina.
+Y lo apuntó. *Día 28. Llega la reina.*
 
-* * *
+---
 
 Había estado en el valle negro. Lo sabía sin que se lo dijera; olía a castañas. Había ido a buscar a Wenna.
 
@@ -110,15 +110,15 @@ Se las quitó. Las limpió.
 
 —Constará —dijo Wenna—. Y ahora dame de comer, que llevo tres semanas comiendo castañas.
 
-* * *
+---
 
-*Día 40. Contraminas. Los enanos han encontrado tres de los cinco túneles del mapa del Emperador. Los tres van hacia la colina. Los tres están llenos de orcos picando. Los enanos los derrumban. Mueren once enanos. Son nuestros primeros muertos. Los apunto con su nombre, que me ha dado el más viejo, con su casa y con su barba, porque los enanos dicen que sin la barba no se sabe quién era.*
+*Día 40. Contraminas. Los enanos han encontrado tres de los cinco túneles del* *mapa del Emperador. Los tres van hacia la colina. Los tres están llenos de orcos picando.* *Los enanos los derrumban. Mueren once enanos. Son nuestros primeros muertos. Los* *apunto con su nombre, que me ha dado el más viejo, con su casa y con su barba, porque* *los enanos dicen que sin la barba no se sabe quién era.*
 
 *Día 41. El cuarto túnel. Derrumbado. Seis enanos.*
 
-*Día 44. El quinto no lo encuentran. Ni con el mapa. El Emperador dice que está. Que lo oye. Que se mueve.*
+*Día 44. El quinto no lo encuentran. Ni con el mapa. El Emperador dice que está.* *Que lo oye. Que se mueve.*
 
-* * *
+---
 
 Lo de la clarividencia del Rey empezó así.
 
@@ -142,7 +142,7 @@ Cavaron ahí.
 
 A la tercera palada dieron con el túnel. Lleno de orcos. Picando. Con bronce. Cantando.
 
-* * *
+---
 
 Desde ese día, el Emperador dormía en las contraminas.
 
@@ -150,31 +150,29 @@ Literalmente. Se hizo bajar un jergón a la galería principal de los enanos, de
 
 No se equivocó nunca.
 
-Los enanos empezaron a llamarlo el Oído. Luego los soldados. Luego todo el campamento. Luego, cuando los arrieros del Mercado volvieron a casa con las mulas vacías y lo contaron en las posadas del camino, toda la costa.
+Los enanos empezaron a llamarlo *el Oído*. Luego los soldados. Luego todo el campamento. Luego, cuando los arrieros del Mercado volvieron a casa con las mulas vacías y lo contaron en las posadas del camino, toda la costa.
 
 En la colina, cuando llegó la noticia, la gente dijo otra palabra. Más de crónica. Que se le ocurrió, según contaron después, a un elfo viejo con sombrero, en el pescante de un carro amarillo, mientras escribía algo con la mano izquierda en una tablilla de cera.
 
 *Clarividencia.*
 
-* * *
+---
 
 *Día 90. Segundo asalto. Con las torres. Por el oeste, donde la muralla es más baja.*
 
-*Las torres llegan a la muralla. Los nuestros suben. En lo alto de la muralla no hay nadie. Saltan dentro.*
+*Las torres llegan a la muralla. Los nuestros suben. En lo alto de la muralla no hay* *nadie. Saltan dentro.*
 
 *Dentro hay una calle. Vacía. Limpia. Con pan en las ventanas.*
 
-*Doscientos hombres saltan. Vuelven treinta. Los otros ciento setenta se han sentado a comer pan.*
+*Doscientos hombres saltan. Vuelven treinta. Los otros ciento setenta se han* *sentado a comer pan.*
 
-*Los treinta que vuelven no hablan.*  
-*Día 91. Brena dice que no se salta.*
+*Los treinta que vuelven no hablan.* *Día 91. Brena dice que no se salta.*
 
-*Día 92. Le pregunto a Brena cómo se toma una ciudad en la que no se toca la puerta y no se salta la muralla. Me dice que no lo sabe. Que por eso se lo pregunta al Emperador. El Emperador dice que lo sabe la reina. La reina dice que no lo sabe nadie todavía. Que hay que esperar a que alguien tenga hambre.*
+*Día 92. Le pregunto a Brena cómo se toma una ciudad en la que no se toca la* *puerta y no se salta la muralla. Me dice que no lo sabe. Que por eso se lo pregunta al* *Emperador. El Emperador dice que lo sabe la reina. La reina dice que no lo sabe nadie* *todavía. Que hay que esperar a que alguien tenga hambre.*
 
-*Le pregunto quién.*  
-*No me contesta.*
+*Le pregunto quién.* *No me contesta.*
 
-* * *
+---
 
 El hombre del taburete vino a verlo el día ciento doce.
 
@@ -186,7 +184,7 @@ Capa gris. Ojos quietos. Una cara que Sein no conseguía mirar del todo; se le e
 
 —Señor Vell —dijo el hombre—. ¿Qué tal las cuentas?
 
-* * *
+---
 
 Sein no se movió. No llamó a la guardia. Sabía que no serviría; lo sabía como se saben las sumas, sin hacerlas.
 
@@ -206,11 +204,11 @@ Sein no contestó.
 
 —Casimir. —El hombre asintió—. Sí. Lo decía mucho. Pero Casimir se murió en un andamio. Usted no se muere. —Sonrió—. Usted podría hacer que cuadrara.
 
-* * *
+---
 
 —¿Cómo?
 
-Sein lo preguntó sin querer. Le salió. Era la pregunta que hacía siempre, a todo el mundo, desde los once años. ¿Cómo? Delante de un número que no entendía.
+Sein lo preguntó sin querer. Le salió. Era la pregunta que hacía siempre, a todo el mundo, desde los once años. *¿Cómo?* Delante de un número que no entendía.
 
 —Diciéndome qué quiere.
 
@@ -226,7 +224,7 @@ Sein no dijo nada.
 
 —Se lo puedo arreglar —dijo el hombre—. Un poco. Un rato. Lo que pese.
 
-* * *
+---
 
 Sein se quitó las gafas.
 
@@ -250,7 +248,7 @@ Por primera vez, a Sein le pareció que la cara se le quedaba quieta. Una cara d
 
 —Eso es cuadrar —dijo Sein—. Cero es cuadrar. —Cerró el libro—. Usted no sabe sumar, señor. Usted solo sabe dar lo que falta. Y a mí no me falta nada. Me sobra. Me sobran quinientos cuarenta y ocho años de dormir al lado de alguien que me quiere como a un niño. —Se le rompió algo en la voz. Lo dejó romperse—. Es lo más que me han dado nunca. No lo cambio por lo que pese su balanza.
 
-* * *
+---
 
 El hombre se levantó.
 
@@ -266,7 +264,7 @@ En la puerta de la tienda se volvió.
 
 Y ya no estaba.
 
-* * *
+---
 
 Sein se quedó sentado mucho rato. Con el libro viejo en las rodillas. La vela se apagó.
 
@@ -284,19 +282,18 @@ Al cabo de un rato, Lanther le cogió la mano. A oscuras. Como se coge la mano a
 
 Sein no lo apuntó.
 
-* * *
+---
 
-*Día 113. Tercer asalto suspendido. Brena dice que no se asalta más. Que se cerca. Que se espera.*
+*Día 113. Tercer asalto suspendido. Brena dice que no se asalta más. Que se cerca.* *Que se espera.*
 
-*Día 120. Cerrado el cerco. Una zanja y una empalizada alrededor de toda la hondonada, a quinientos pasos de la muralla. Nueve mil pasos de zanja. Hecha en veintisiete días. Los enanos dicen que es la zanja más fea que han visto. Los gnomos dicen que es la más recta.*
+*Día 120. Cerrado el cerco. Una zanja y una empalizada alrededor de toda la* *hondonada, a quinientos pasos de la muralla. Nueve mil pasos de zanja. Hecha en* *veintisiete días. Los enanos dicen que es la zanja más fea que han visto. Los gnomos dicen* *que es la más recta.*
 
-*Día 150. No entra nada en Arghâl. No sale nada. Ni carros. Ni pastores. Ni el hombre del taburete. La luz de la torre sigue encendida.*
+*Día 150. No entra nada en Arghâl. No sale nada. Ni carros. Ni pastores. Ni el* *hombre del taburete. La luz de la torre sigue encendida.*
 
-*Día 180. El Emperador dice que el latido se ha puesto más rápido. Que el que duerme está soñando. Que dentro empiezan a tener hambre.*
+*Día 180. El Emperador dice que el latido se ha puesto más rápido. Que el que* *duerme está soñando. Que dentro empiezan a tener hambre.*
 
 *Día 200. Otoño. Las primeras nieves en las lomas.*
 
-*Cuenta total desde el día 1: cuatrocientos doce muertos. Ninguno dentro de la ciudad. Todos de los nuestros.*
+*Cuenta total desde el día 1: cuatrocientos doce muertos. Ninguno dentro de la* *ciudad. Todos de los nuestros.*
 
-*Haber: una zanja.*  
-*No cuadra. Lo dejo así.*
+*Haber: una zanja.* *No cuadra. Lo dejo así.*

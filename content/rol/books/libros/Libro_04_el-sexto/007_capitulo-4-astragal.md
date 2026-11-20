@@ -1,10 +1,10 @@
-## Capítulo 4 · Astragal
+# Capítulo 4 · Astragal
 
-*La Punta Gris, en la costa suroeste de Oderon. Otoño del año 988 de la Nueva Era (381 D.bA).*
+*La Punta Gris, en la costa suroeste de Oderon. Otoño del año 988 de la Nueva Era* *(381 D.bA).*
 
 Tardó once años en encontrar el primero, y lo encontró por los nombres.
 
-Lo había intentado de todas las formas. Con mapas: los Rincones no salían en ningún mapa, ni en los de la Armada ni en los de los Vell ni en los de los gnomos, que mapeaban hasta las madrigueras de los conejos. Con documentos: en los papeles de los viernes había dieciséis menciones a los Ocho Rincones entre los años 300 y 611, y ninguna decía dónde; decían el Rincón del sur, el Rincón de los fiordos, el segundo Rincón, como se dice la casa de mi tía, porque todo el mundo sabía dónde estaba la casa de su tía. Con preguntas: le había preguntado a Lanther, a Sein, a Wenna, a Tibbet cuando bajó de Annkör en el 979, a Mirela en la biblioteca, a Verawel en su bosque de Nix, donde estaba de pie y con hojas y contestaba despacio, con la voz de la madera, y todos le habían dicho lo mismo.
+Lo había intentado de todas las formas. Con mapas: los Rincones no salían en ningún mapa, ni en los de la Armada ni en los de los Vell ni en los de los gnomos, que mapeaban hasta las madrigueras de los conejos. Con documentos: en los papeles de los viernes había dieciséis menciones a los Ocho Rincones entre los años 300 y 611, y ninguna decía dónde; decían *el Rincón del sur*, *el Rincón de los fiordos*, *el segundo Rincón*, como se dice *la casa de mi tía*, porque todo el mundo sabía dónde estaba la casa de su tía. Con preguntas: le había preguntado a Lanther, a Sein, a Wenna, a Tibbet cuando bajó de Annkör en el 979, a Mirela en la biblioteca, a Verawel en su bosque de Nix, donde estaba de pie y con hojas y contestaba despacio, con la voz de la madera, y todos le habían dicho lo mismo.
 
 *No lo sé. Se olvidaron.*
 
@@ -26,15 +26,15 @@ No se lo preguntó. Tenía veinticuatro años y pensó que lo que había dentro 
 
 —Los otros siete se olvidaron de sí mismos. Y ya nadie sabe decirles qué eran.
 
-Astragal se había ido del sótano dándole vueltas a esa frase. Ya nadie sabe decirles qué eran.
+Astragal se había ido del sótano dándole vueltas a esa frase. *Ya nadie sabe decirles* *qué eran.*
 
 Le había costado once años darse cuenta de que era una instrucción.
 
-* * *
+---
 
 El primer Rincón estaba en la Punta Gris.
 
-Eso lo supo por un nombre. Un nombre de entre los cuatro mil doscientos once que había copiado, a mano, durante tres inviernos, de los registros de los Rincones que había encontrado en el sótano de la cárcel: unos legajos podridos, en cajas de madera, debajo de un montón de barriles viejos con un sello de un orco tonelero. Los registros no decían dónde estaba cada Rincón. Decían a quién se había llevado allí. Nombre, delito, fecha, Rincón. Tobías Grell, robo de una vaca, año 412, al del sur. Marta de los Pozos, robo de sal, año 437, al de los fiordos. Un elfo sin nombre, robo de un libro, año 501, al segundo.
+Eso lo supo por un nombre. Un nombre de entre los cuatro mil doscientos once que había copiado, a mano, durante tres inviernos, de los registros de los Rincones que había encontrado en el sótano de la cárcel: unos legajos podridos, en cajas de madera, debajo de un montón de barriles viejos con un sello de un orco tonelero. Los registros no decían dónde estaba cada Rincón. Decían a quién se había llevado allí. Nombre, delito, fecha, Rincón. *Tobías Grell, robo de una vaca, año 412, al del sur. Marta de los Pozos, robo de* *sal, año 437, al de los fiordos. Un elfo sin nombre, robo de un libro, año 501, al segundo.*
 
 Cuatro mil doscientos once ladrones. Marcados con un hierro en la mano derecha. Ladrones de por vida.
 
@@ -42,7 +42,7 @@ Astragal los había leído todos. Y se había fijado en una cosa. Que en el Rinc
 
 Los llevaban al Rincón más cercano. El más cercano, para los de la Punta Gris, hasta el 410, estaba al lado.
 
-* * *
+---
 
 Fue con Eluret.
 
@@ -54,9 +54,9 @@ Fueron solos. Dos caballos, una mula con la tienda y los legajos, una pala. Lara
 
 Astragal no lo entendió. Se lo guardó.
 
-* * *
+---
 
-La Punta Gris era lo que su nombre decía: un dedo de roca gris que se metía en el mar, al suroeste, a cuatro días de la colina por el camino del oeste y luego hacia la costa. Acantilados, gaviotas, un faro de los gnomos que llevaba cien años apagado. Las aldeas de pescadores estaban abandonadas desde la peste del 712. Quedaban las paredes, sin tejados, llenas de ortigas.
+La Punta Gris era lo que su nombre decía: un dedo de roca gris que se metía en el mar, al suroeste, a cuatro días de la colina por el camino del sur y luego hacia la costa. Acantilados, gaviotas, un faro de los gnomos que llevaba cien años apagado. Las aldeas de pescadores estaban abandonadas desde la peste del 712. Quedaban las paredes, sin tejados, llenas de ortigas.
 
 Buscaron tres días.
 
@@ -86,7 +86,7 @@ Miró hacia abajo.
 
 Y empezó a leer los nombres.
 
-* * *
+---
 
 Eluret contó después que al principio le dio vergüenza. Que su amigo, el príncipe heredero del Imperio, estaba de rodillas en una losa en medio de la noche, leyendo una lista de ladrones de pescado en voz alta, con el viento llevándose la mitad de las palabras. Que pensó que se había vuelto loco. Que estuvo a punto de ir a buscarlo.
 
@@ -96,7 +96,7 @@ Porque al nombre número cuarenta, más o menos, la losa hizo un ruido.
 
 No fuerte. Un crujido. Como hace una casa vieja cuando cambia el tiempo.
 
-Astragal no paró. Siguió leyendo. Despacio. Cada nombre con su delito y su año. Rolf el Cojo, robo de redes, año 391. Ania de la Cala Honda, robo de un anillo, año 394. Un niño sin nombre, robo de pan, año 396.
+Astragal no paró. Siguió leyendo. Despacio. Cada nombre con su delito y su año. *Rolf el Cojo, robo de redes, año 391. Ania de la Cala Honda, robo de un anillo, año 394.* *Un niño sin nombre, robo de pan, año 396.*
 
 Al nombre setenta, la losa se movió.
 
@@ -118,11 +118,11 @@ Una losa de piedra gris, sí, pero con un marco. Con bisagras de hierro negro, o
 
 Había estado ahí siempre. Habían comido encima.
 
-Astragal leyó el último nombre. El ciento cuarenta y tres. Joran, hijo de Joran, robo de un caballo, año 409.
+Astragal leyó el último nombre. El ciento cuarenta y tres. *Joran, hijo de Joran,* *robo de un caballo, año 409.*
 
 Y luego se quedó callado, de rodillas, con los legajos en las manos y la cara mojada, y no se había dado cuenta de que estaba llorando.
 
-* * *
+---
 
 —Se acordó —dijo, mucho después, cuando Eluret le dio agua—. No se había olvidado de sí misma, Eluret. Se había olvidado porque nadie se acordaba de ellos. De los que pasaron. Ciento cuarenta y tres. Si alguien se acuerda de los que pasaron por una puerta, la puerta se acuerda de que es una puerta.
 
@@ -134,7 +134,7 @@ Astragal se secó la cara.
 
 Eluret no dijo nada. No lo entendió del todo. Lo apuntó, años después, en el único libro que escribió en su vida, que no es este, y que se perdió.
 
-* * *
+---
 
 Abrieron la puerta al alba.
 
@@ -144,7 +144,7 @@ Unas escaleras bajaban a la roca. Astragal encendió una lámpara de los gnomos.
 
 Abajo había una sala. Grande, de techo bajo, excavada en la piedra gris. En el centro, una silla de hierro, con correas de cuero podrido en los brazos y en los tobillos. Al lado de la silla, un brasero frío, lleno de ceniza. Y colgado de un gancho, encima del brasero, un hierro de marcar, largo, con el mango de madera negra y en la punta, al revés, en relieve, una letra.
 
-Una L. Ladrón.
+Una L. *Ladrón.*
 
 En las paredes había pinturas. Viejas, desvaídas, en ocre y negro y rojo, hechas por alguien que no sabía pintar bien y que había querido pintar mucho. Soldados con lanzas. Hombres atados. Fuego. Una mano abierta con una L en la palma. Y otra vez. Y otra. Por las cuatro paredes, de arriba abajo, cientos de manos abiertas, con cientos de letras.
 
@@ -168,7 +168,7 @@ Astragal no contestó. Se acercó a la pared. Puso la mano abierta encima de una
 
 —Para esto —dijo.
 
-* * *
+---
 
 No se llevaron nada.
 
@@ -194,7 +194,7 @@ Luego cogió la lista. Y la pegó, con cola de pescado, en la hoja de ese año d
 
 Y debajo escribió:
 
-*Primer Rincón. Punta Gris. Abierto por el príncipe, con los nombres. Sin Vara. Sin sellar.*
+*Primer Rincón. Punta Gris. Abierto por el príncipe, con los nombres. Sin Vara. Sin* *sellar.*
 
 *Lo ha encontrado mirando abajo. Lo ha vaciado mirando arriba.*
 

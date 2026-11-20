@@ -1,6 +1,6 @@
-## Capítulo 55 · Migyur
+# Capítulo 55 · Migyur
 
-*Las cuevas de sal del glaciar de Kûr, en Annkör. Invierno del año 822 de la Nueva Era (215 D.bA).*
+*Las cuevas de sal del glaciar de Kûr, en Annkör. Invierno del año 822 de la Nueva* *Era (215 D.bA).*
 
 Hambre.
 
@@ -16,15 +16,15 @@ Los otros de la manada se habían ido. Hacia el sur. Hacia donde olía a humo y 
 
 Ahora tenía hambre.
 
-* * *
+---
 
 No tenía nombre. Los de su manada no tenían nombres. Tenían olores. El suyo era a nieve de la mañana y a leche todavía, porque era joven, un invierno solo, la cabeza a la altura del pecho de la madre.
 
-El nombre se lo pondrían otros. Más tarde. Los pequeños de pelo en la cara. Y querría decir el que se lo tragó.
+El nombre se lo pondrían otros. Más tarde. Los pequeños de pelo en la cara. Y querría decir *el que se lo tragó*.
 
 Todavía no se lo había tragado.
 
-* * *
+---
 
 Salió de la cueva. A la nieve. Al viento.
 
@@ -34,7 +34,7 @@ La madre estaba quieta.
 
 Fue.
 
-* * *
+---
 
 Había una grieta en el glaciar. Grande. Azul por fuera. Por dentro, blanca.
 
@@ -44,7 +44,7 @@ No a sal de mar. A otra. A sal de piedra. De la que se lamía en las paredes de 
 
 Entró.
 
-* * *
+---
 
 Dentro hacía menos frío.
 
@@ -60,7 +60,7 @@ Sal. Buena. Fuerte. Le picó en la lengua.
 
 Lamió más.
 
-* * *
+---
 
 Al fondo, la cueva se abría.
 
@@ -74,7 +74,7 @@ Como un pecho que respira.
 
 Como el pecho de la madre, antes. Cuando dormía. Cuando él se echaba encima y subía y bajaba con ella.
 
-* * *
+---
 
 Se acercó.
 
@@ -94,7 +94,7 @@ Tenía hambre.
 
 Se la tragó.
 
-* * *
+---
 
 Al principio, nada.
 
@@ -110,7 +110,7 @@ No el corazón. El corazón latía a un lado. Esto latía en el centro. Más des
 
 Y oyó.
 
-* * *
+---
 
 No con las orejas.
 
@@ -120,7 +120,7 @@ Que dormía.
 
 Y que, en sueños, tenía hambre. Como él.
 
-* * *
+---
 
 Y oyó otra cosa.
 
@@ -136,7 +136,7 @@ No con ojos. Con otra cosa.
 
 Y le preguntó algo.
 
-* * *
+---
 
 No entendió la pregunta.
 
@@ -154,7 +154,7 @@ Y la cosa despierta lo cogió. Lo que pensó. Como coge un cazador un pez del ag
 
 Y se lo guardó.
 
-* * *
+---
 
 Luego se fue. La cosa. Volvió a la oreja de lo que dormía. A hablarle. Como antes.
 
@@ -162,7 +162,7 @@ Pero ya no se fue del todo. Un poco se quedó. En la piedra. En el pecho. Mirán
 
 Esperando.
 
-* * *
+---
 
 Durmió en la cueva de sal. No supo cuánto. Muchos soles.
 
@@ -174,7 +174,7 @@ No mucho. Un poco. La cabeza le llegaba más arriba en la pared de sal que antes
 
 Se lo lamió. Estaba caliente.
 
-* * *
+---
 
 Salió de la grieta.
 
@@ -186,7 +186,7 @@ La madre no estaba. Se la habían llevado. Los pequeños de pelo en la cara, por
 
 Siguió el rastro.
 
-* * *
+---
 
 Lo siguió dos soles. Hacia el valle de las fumarolas. Hacia el humo.
 
@@ -200,7 +200,7 @@ Al lado, un pequeño de pelo en la cara. Con un martillo. Sentado. Con la cabeza
 
 Decía algo. Bajito. Una y otra vez. Y luego levantaba la cabeza. Y miraba arriba.
 
-* * *
+---
 
 No entendió.
 
@@ -214,7 +214,7 @@ Y la piedra del pecho latió.
 
 Fuerte.
 
-* * *
+---
 
 Y la cosa despierta, la que se había quedado un poco en la piedra, mirándolo, esperando, le dio lo que había cogido.
 
@@ -228,7 +228,7 @@ Se lo devolvió como algo que le habían quitado. Como algo que tenían ellos. L
 
 Ahora lo sabía.
 
-* * *
+---
 
 No bajó.
 
@@ -240,7 +240,7 @@ Se echó encima del agujero. Se hizo una bola.
 
 Y esperó a ser grande.
 
-* * *
+---
 
 Dalbur, abajo, en Tiama, al lado de la yeti muerta, notó algo.
 
@@ -256,9 +256,9 @@ Dalbur se quedó mirándolas mucho rato.
 
 Luego se lo contó al elfo viejo. El elfo viejo lo apuntó. No en el diario. En una hoja aparte. Para la pelirroja.
 
-*Huellas de una cría de yeti. Hacia la grieta del glaciar viejo. Más hondas en el centro. Dalbur dice que lo miraban. Dalbur dice que no oye el latido. Que lo que lo miraba, sí.*
+*Huellas de una cría de yeti. Hacia la grieta del glaciar viejo. Más hondas en el* *centro. Dalbur dice que lo miraban. Dalbur dice que no oye el latido. Que lo que lo* *miraba, sí.*
 
-* * *
+---
 
 En la grieta, en la cueva de sal, encima del agujero caliente, la cría dormía.
 

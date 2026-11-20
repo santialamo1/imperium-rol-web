@@ -1,4 +1,4 @@
-## Capítulo 53 · Bhargaras VIII
+# Capítulo 53 · Bhargaras VIII
 
 *Las montañas del sur, más allá del último campamento. Año 146 de la Nueva Era.*
 
@@ -24,7 +24,7 @@ Tibbet masticó.
 
 Bhargaras no contestó. Tibbet tenía la costumbre de separarle las razones de las excusas como quien separa las lentejas de las piedrecitas, y tenía la costumbre peor de acertar.
 
-* * *
+---
 
 Volvieron a los nueve días. Veintinueve. Uno se había caído por un barranco y se había roto las dos piernas y lo traían en unas parihuelas, cantando, borracho de algo que no era vino.
 
@@ -42,7 +42,7 @@ Volvieron a los nueve días. Veintinueve. Uno se había caído por un barranco y
 
 —En una que suena como cuando se cae un armario por una escalera, señor. — Gerda hizo una pausa—. Pero se entendía.
 
-* * *
+---
 
 Fue él mismo. Con veinte hombres, diez elfos y Tibbet, que no se lo había pedido nadie.
 
@@ -68,7 +68,7 @@ Bhargaras lo miró. Tibbet tenía la nariz arrugada. Tenía los ojos cerrados. E
 
 —Late —dijo Tibbet—. Todo. Todo esto. Late.
 
-* * *
+---
 
 Los enanos estaban al fondo. Atrincherados en una fortaleza pequeña, una más pequeña dentro de la grande, con muralla de piedra tallada y almenas, como un juguete de un niño rico. Eran pocos. Doscientos, quizá. Bhargaras vio las casas vacías al pasar por las calles de la ciudad grande y lo entendió: había sitio para veinte mil. Había doscientos.
 
@@ -112,7 +112,7 @@ El de la almena se quedó mirándolo. Muy serio.
 
 Luego echó la cabeza atrás y se rio. Una carcajada como un derrumbe.
 
-* * *
+---
 
 Se llamaba Thrumbar Hondopico, y era el rey de la ciudad, o lo que quedaba de ella, y tardó tres días en dejarlos pasar de la puerta de la fortaleza pequeña y otros tres en dejarlos sentarse en su mesa.
 
@@ -136,13 +136,13 @@ Thrumbar lo miró.
 
 —Eso creemos —dijo, despacio—. Sí.
 
-* * *
+---
 
 Los Cristales de Alkar.
 
-Así los llamaban. Por Alkar, el primero, el que bajó a la montaña hacía mil años — eso decía Thrumbar; los enanos contaban los años por picos, y Bhargaras no supo nunca si eran mil años o mil picos— y encontró la primera veta y se quedó a vivir al lado porque, decía la canción, la piedra le cantaba nanas.
+Así los llamaban. Por Alkar, el primero, el que bajó a la montaña hacía mil años — eso decía Thrumbar; los enanos contaban los años por picos, y Bhargaras no supo nunca si eran mil años o mil picos— y encontró la primera veta y se quedó a vivir al lado porque, decía la canción, *la piedra le cantaba nanas*.
 
-Los enanos picaban la veta. Desde siempre. Con cuidado. Con un cuidado que Bhargaras no había visto nunca en nadie: picos pequeños, de bronce, nunca de hierro, porque el hierro la despierta; golpes cortos; una canción, en voz baja, mientras se picaba, siempre la misma, de catorce notas. Y lo que sacaban lo tallaban. Cristales. Del tamaño de una uña. Blancos. Que brillaban solos.
+Los enanos picaban la veta. Desde siempre. Con cuidado. Con un cuidado que Bhargaras no había visto nunca en nadie: picos pequeños, de bronce, nunca de hierro, porque el hierro *la despierta*; golpes cortos; una canción, en voz baja, mientras se picaba, siempre la misma, de catorce notas. Y lo que sacaban lo tallaban. Cristales. Del tamaño de una uña. Blancos. Que brillaban solos.
 
 Y con los cristales hacían cosas.
 
@@ -168,7 +168,7 @@ Tibbet no contestó.
 
 Estaba dormido. O lo fingía.
 
-* * *
+---
 
 Firmaron la paz con los enanos el día doce, con cerveza negra y sin pergamino. Thrumbar le tocó la barba a Bhargaras con dos dedos, que fue un problema porque Bhargaras no tenía, y al final le tocó la barbilla, y los enanos se rieron, y Bhargaras se sonrojó, y Tibbet dijo que aquello había sido lo más diplomático que había visto en su vida.
 
@@ -186,7 +186,7 @@ Thrumbar lo escuchó todo, sin interrumpir, con el cuerno en la mano. Al final, 
 
 —Y se murió de viejo. Con trescientos picos. En la cama. —Thrumbar bebió—. Era un cobarde. Lo quería mucho.
 
-* * *
+---
 
 Volvió a Ullathorpe el día veinte. Su hijo había nacido el día dieciocho.
 
@@ -220,7 +220,7 @@ Y luego, despacio, tembló otra vez, y apuntó a él, y luego al niño, y luego 
 
 —Bhargaras —dijo. Al niño—. El noveno.
 
-* * *
+---
 
 Esa noche fue a buscar a Tibbet.
 

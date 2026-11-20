@@ -1,4 +1,4 @@
-## Capítulo 64 · Yared
+# Capítulo 64 · Yared
 
 *Desierto de la Niebla y río Ceniza. Años 253 a 299.*
 
@@ -6,11 +6,11 @@ El hijo de Yaakov Tiberius tenía diecinueve años la primera vez que alguien le
 
 Entre una cosa y otra pasaron cuarenta y seis años, y su madre tardó todos ellos en entender que había perdido a su hijo mucho antes de la segunda.
 
-* * *
+---
 
 Se llamaba Yared Tiberius. Tenía los ojos oscuros de su madre eufesia y la mandíbula cuadrada de su padre Suhon, y hablaba las dos lenguas sin acento, y durante los primeros diecinueve años de su vida nunca se le había ocurrido que tuviera que elegir entre ellas. Era el hijo del Vencedor de las Sombras. El nieto de Lexandra la Diplomática y de la Madre Ysh-Neva. Era, según había dicho una vez su abuela Lexandra delante de todo el Consejo, «la prueba viva de que dos pueblos pueden ser uno».
 
-Luego su padre murió envenenado en un banquete, y el hombre que se había sentado a su derecha se sentó en el trono, y cuatro años después Yared salió de Concordia con su madre y doscientos eufesios más, con un distintivo gris cosido a la manga por orden imperial, mientras los niños de las calles le tiraban piedras y le gritaban muerto, muerto, vuelve a la niebla.
+Luego su padre murió envenenado en un banquete, y el hombre que se había sentado a su derecha se sentó en el trono, y cuatro años después Yared salió de Concordia con su madre y doscientos eufesios más, con un distintivo gris cosido a la manga por orden imperial, mientras los niños de las calles le tiraban piedras y le gritaban *muerto, muerto,* *vuelve a la niebla*.
 
 En la puerta de los Juramentos, un guardia joven, Zelto, le escupió en la cara.
 
@@ -22,7 +22,7 @@ Yared no hizo nada. Su madre le apretó la mano y siguieron andando. Pero esa no
 
 Ysh-Talia no le preguntó de qué. Debería haberlo hecho.
 
-* * *
+---
 
 Los clanes libres los recibieron en Kel-Ammar, el oasis que el viejo Braco había quemado sesenta años atrás y que la Madre Ysh-Neva había reconstruido palmera a palmera. La Madre había muerto el invierno anterior; la sucedió su hija, Ysh-Talia, madre de Yared, que había vuelto del sur con las manos vacías, con un hijo medio Tiberius y con la noticia de que la alianza que su madre había construido durante treinta años estaba rota.
 
@@ -40,13 +40,13 @@ No todos los clanes se lo perdonaron.
 
 Ysh-Talia ganó la votación aquella noche. Los clanes libres se mantuvieron libres. Pero Yared vio, desde el fondo de la tienda, a cuántos hombres jóvenes se les iban los ojos hacia Hesh-Dunar mientras hablaba. Y vio, sobre todo, lo que su madre no vio: que él mismo, Yared Tiberius, hijo del Vencedor de las Sombras, tenía la mano en el bolsillo, apretando un trapo gris.
 
-* * *
+---
 
 Pasaron los años. Maximus el Forjador hizo más leyes. Los eufesios no podían poseer tierras. No podían casarse con ciudadanos jurados sin permiso. No podían entrar en Concordia después del anochecer. Los mercaderes de los clanes libres que bajaban a las ciudades del Imperio volvían contando historias: un hombre apaleado en Puerto Salobre por hablar la lengua de la arena en una taberna; una niña de los Abd arrancada de los brazos de su madre Germa por los alguaciles porque el matrimonio no tenía permiso del Consejo; una aldea de la frontera donde los vecinos habían quemado la casa de una familia eufesia porque una vaca había nacido muerta.
 
 Yared escuchaba todas las historias. Las guardaba con el trapo.
 
-A los treinta años se casó con una muchacha de los pozos del oeste, nieta de Hesh-Dunar. Ysh-Talia no fue a la boda. Él no se lo reprochó. A los treinta y dos tuvo una hija. A los treinta y cinco, la hija murió de fiebre en un invierno en que las caravanas del sur no trajeron medicinas porque Maximus había prohibido el comercio con los clanes «hasta que entregaran a los espías del Padre de la Bruma que ocultaban».
+A los treinta años se casó con una muchacha de los pozos del oeste, nieta de Hesh- Dunar. Ysh-Talia no fue a la boda. Él no se lo reprochó. A los treinta y dos tuvo una hija. A los treinta y cinco, la hija murió de fiebre en un invierno en que las caravanas del sur no trajeron medicinas porque Maximus había prohibido el comercio con los clanes «hasta que entregaran a los espías del Padre de la Bruma que ocultaban».
 
 No había espías. Ysh-Talia lo juró por los huesos de su madre en una carta al emperador. El emperador no contestó.
 
@@ -72,7 +72,7 @@ Yared metió la mano en el bolsillo. Apretó el trapo gris.
 
 —Bien —dijo la voz, sin ningún enfado—. Tengo tiempo. Mucho. Volveré a preguntarte.
 
-* * *
+---
 
 Volvió a preguntarle once veces en treinta años.
 
@@ -104,7 +104,7 @@ Yared no contestó.
 
 Ysh-Talia pensó que había ganado.
 
-* * *
+---
 
 En la primavera del año doscientos noventa y nueve, Maximus el Forjador, para reforzar las fortalezas del río Ceniza ante los rumores de que la niebla se movía, decretó una leva forzosa de trabajadores eufesios de los clanes del sur. Mil hombres. Para cargar piedra, cavar fosos, limpiar letrinas. Sin paga. Sus familias quedarían en los oasis como garantía de buena conducta.
 
@@ -118,7 +118,7 @@ Su madre lo despidió en el borde del oasis. Le cogió la cara entre las manos, 
 
 No le preguntó por el trapo. Se arrepentiría el resto de su vida.
 
-* * *
+---
 
 En Kel-Dun, Yared cargó piedra durante seis meses. Dormía en un barracón con otros cincuenta eufesios, fuera de las murallas, porque los soldados no los querían dentro de noche. Comía las sobras del rancho. Un sargento Hinur, un hombre bajito con una cicatriz que le partía el labio, le daba a veces una ración de más y le preguntaba por el desierto, por el sol que no se veía, por su madre. Era el único.
 
@@ -160,7 +160,7 @@ Luego se rió. Una risa rota, terrible, que no se parecía en nada a la de su pa
 
 —Eso es lo que hacemos todos —dijo Loth.
 
-* * *
+---
 
 La noche en que cayeron las fortalezas del río Ceniza, Yared Tiberius abrió la puerta del vado de Kel-Dun con sus propias manos. La niebla entró. Los muertos entraron.
 
@@ -180,7 +180,7 @@ Yared lo miró. El muchacho no lo miró a él.
 
 Entonces comprendió lo que había hecho.
 
-* * *
+---
 
 Ysh-Talia supo de la caída de las fortalezas por los mercaderes, una semana después. Supo de la batalla de Askel, del Atardecer Rojo, de la muerte de Maximus y de la coronación de Gregorian Bhargaras en el campo. Supo que el nuevo emperador había ordenado buscar y colgar a todos los eufesios que abrieron las puertas.
 

@@ -1,6 +1,6 @@
-## Epílogo · Seren
+# Epílogo · Seren
 
-*Puerto Salobre. Año 1 de la Nueva Era.*
+*Puerto Salobre. Año 0 de la Nueva Era.*
 
 Lleva trescientos años despierta.
 
@@ -32,13 +32,13 @@ Lucius Heredicus no está en ninguna parte.
 
 O está en un sitio que nadie ha buscado.
 
-Ella no puede decírselo. No tiene voz. Solo tiene la frase de siempre, la que repite desde hace trescientos años, la que él oye y no escucha. Pero la noche de la caída descubrió que podía decir otras. Una, al menos. Deja que se vaya. Y él la escuchó. Por primera vez en trescientos años, la escuchó, y se apartó un paso.
+Ella no puede decírselo. No tiene voz. Solo tiene la frase de siempre, la que repite desde hace trescientos años, la que él oye y no escucha. Pero la noche de la caída descubrió que podía decir otras. Una, al menos. *Deja que se vaya.* Y él la escuchó. Por primera vez en trescientos años, la escuchó, y se apartó un paso.
 
 Un paso.
 
 No es mucho. Pero es más de lo que ha conseguido nunca.
 
-El viento del este sopla desde el mar. Huele a sal. Ella levanta la cara hacia él, debajo del velo, y deja que le toque la piel gris. No lo siente. No siente nada. Pero recuerda cómo era sentirlo. Recuerda la luz pálida de los mediodías alrededor de una tienda al borde de un campamento, y a los niños haciendo sombras con las manos a la luz de los faroles de sal, y a un cantor con cólico que se reía con ella.
+El viento del sur sopla desde el mar. Huele a sal. Ella levanta la cara hacia él, debajo del velo, y deja que le toque la piel gris. No lo siente. No siente nada. Pero recuerda cómo era sentirlo. Recuerda la luz pálida de los mediodías alrededor de una tienda al borde de un campamento, y a los niños haciendo sombras con las manos a la luz de los faroles de sal, y a un cantor con cólico que se reía con ella.
 
 A su lado, él se mueve. Se vuelve hacia los muertos que esperan. Levanta una mano.
 
@@ -52,7 +52,6 @@ Ella se queda a su lado. Como siempre.
 
 Y piensa, con la voz que nadie oye, con la única palabra que todavía es suya:
 
-*No tires tanto, Emrah.*  
-*No tires tanto.*
+*No tires tanto, Emrah.* *No tires tanto.*
 
-FIN DEL LIBRO PRIMERO
+**FIN DEL LIBRO PRIMERO**

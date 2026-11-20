@@ -1,4 +1,4 @@
-## Capítulo 18 · Pim
+# Capítulo 18 · Pim
 
 *Arghâl, dentro del cerco. Invierno del año 606 al 607 de la Nueva Era.*
 
@@ -14,11 +14,11 @@ La raíz latía. Más rápido que antes. Desde el otoño latía más rápido; un
 
 Pero no oyó la raíz. Oyó al niño.
 
-Y luego a otro. En la calle del norte. Y luego a otro. Y luego a una mujer, que no lloraba, que gritaba, que decía no hay, no hay, no hay.
+Y luego a otro. En la calle del norte. Y luego a otro. Y luego a una mujer, que no lloraba, que gritaba, que decía *no hay*, *no hay*, *no hay*.
 
 Era la primera vez en ciento nueve años que alguien gritaba en Arghâl.
 
-* * *
+---
 
 Subió.
 
@@ -34,7 +34,7 @@ Pim se acercó. La miró. No tenía ojos; la miró igual.
 
 Por primera vez desde que existía, nadie se acercaba a pesar nada.
 
-* * *
+---
 
 En el centro del templo, entre las columnas, al pie de la torre, estaba la charca.
 
@@ -44,7 +44,7 @@ Una piedra roja. Del tamaño de un huevo de águila.
 
 Latía.
 
-Pim la conocía. La conocía desde el año 300. Desde la cueva de sal de las montañas rojas, donde la vio por primera vez encima de una mesa de sal, al lado de un hombre de gris que le ofreció un cuerpo. Era lo que había en la cueva. Lo que los orcos llamaban el corazón. Lo que un rey que se reía, Andriath, había dejado en el Fuerte Novel el año 133 sin saberlo, mezclado con dos sangres, en una piedra del valle con veta blanca.
+Pim la conocía. La conocía desde el año 300. Desde la cueva de sal de las montañas rojas, donde la vio por primera vez encima de una mesa de sal, al lado de un hombre de gris que le ofreció un cuerpo. Era lo que había en la cueva. Lo que los orcos llamaban *el* *corazón*. Lo que un rey que se reía, Andriath, había dejado en el Fuerte Novel el año 133 sin saberlo, mezclado con dos sangres, en una piedra del valle con veta blanca.
 
 El maestro la había traído de la cueva en el 359. Pim no supo nunca cómo. Había desaparecido de la mesa de sal de un día para otro, y la reina, que llegó a la cueva un año después siguiendo un olor que no olía a nada, solo encontró la marca.
 
@@ -52,7 +52,7 @@ Y en el 497, cuando Pim e Ithil plantaron la piedra gris, el maestro no estaba. 
 
 Arghâl latía con ella.
 
-* * *
+---
 
 —Sincara.
 
@@ -78,7 +78,7 @@ Ithil tardó.
 
 —Se rio —dijo—. Dijo que ese pan no era de trigo. Que era de lo que uno quería. Que se lo daba a los de fuera para que se quedaran. Que a los de dentro ya no les hacía falta, porque ya se habían quedado. —Ithil apretó la mandíbula—. Dijo que el que duerme no come trigo. Que no sabe lo que es. Que no puede dar lo que no conoce.
 
-* * *
+---
 
 Pim se sentó en el brocal del pozo. La sal le crujió.
 
@@ -96,7 +96,7 @@ Ithil se volvió hacia él.
 
 —Los de los ojos quietos. —Pim se tocó el hueco donde habría tenido el pecho—. El hambre los despierta. El pan que les dio era de lo que querían. No llenaba. Pero no les hacía falta llenarse, porque querían otra cosa. Ahora quieren comer. Y eso él no lo tiene. — Hizo una pausa—. Es lo único que no tiene, Ithil. Comida de verdad. Es lo único que se le escapa.
 
-* * *
+---
 
 Bajaron a los túneles. Los dos. Por la escalera de caracol, y luego por las galerías, a la luz roja de las lámparas que no se apagaban.
 
@@ -128,17 +128,17 @@ El muchacho no contestó. Miró hacia la galería del fondo. La que bajaba.
 
 Pim supo dónde estaba Drak.
 
-* * *
+---
 
 —Esto es lo que quería —dijo Ithil, más tarde, en la cueva de la raíz. Sentado en el suelo de sal. Con el arpa sin cuerdas en las rodillas—. El maestro. Esto.
 
 Pim no contestó.
 
-—Que vengan. Que se rompan contra la boca. Que se queden aquí un año. —Ithil cerró los ojos blancos—. Que se olviden de lo que tienen debajo de los pies. Lo dijo él. En mi cuarto. Hace seis años.
+—*Que vengan. Que se rompan contra la boca. Que se queden aquí un año.* —Ithil cerró los ojos blancos—. Que se olviden de lo que tienen debajo de los pies. Lo dijo él. En mi cuarto. Hace seis años.
 
 —Lo sé.
 
-—Nos ha dejado aquí. A todos. Para que miren la boca. —Ithil abrió los ojos—. No le importa que nos muramos de hambre. No le importa que se despierten. No le importa si toman la ciudad. Es una boca. Hay más. Está plantando otra en el mar del norte.
+—Nos ha dejado aquí. A todos. Para que miren la boca. —Ithil abrió los ojos—. No le importa que nos muramos de hambre. No le importa que se despierten. No le importa si toman la ciudad. Es una boca. Hay más. *Está plantando otra en el mar del norte.*
 
 —Lo sé, Ithil.
 
@@ -146,13 +146,13 @@ Pim no contestó.
 
 Pim lo miró. Con los huecos de la sal.
 
-—Porque tú lo sabías —dijo—. Desde el 400. Desde la cueva. Te lo dijo él. De nada que te haga falta. —Pim se tocó el pecho—. A mí también me lo dijo. Hace trescientos años. Los dos sabíamos qué era lo que no nos hacía falta. Y dijimos que sí.
+—Porque tú lo sabías —dijo—. Desde el 400. Desde la cueva. Te lo dijo él. *De* *nada que te haga falta.* —Pim se tocó el pecho—. A mí también me lo dijo. Hace trescientos años. Los dos sabíamos qué era lo que no nos hacía falta. Y dijimos que sí.
 
-* * *
+---
 
 El maestro vino el día doscientos sesenta.
 
-Con el silencio. Como siempre. Pim estaba en la cueva, con la mano en la raíz, contando martes, y de pronto dejó de oír al niño de la calle del este, que seguía llorando, y a la mujer que gritaba no hay, y a los orcos que se balanceaban. Dejó de oír todo.
+Con el silencio. Como siempre. Pim estaba en la cueva, con la mano en la raíz, contando martes, y de pronto dejó de oír al niño de la calle del este, que seguía llorando, y a la mujer que gritaba *no hay*, y a los orcos que se balanceaban. Dejó de oír todo.
 
 El maestro estaba sentado a su lado. En el suelo. Con las piernas cruzadas.
 
@@ -184,7 +184,7 @@ Y volvió el ruido. El niño. La mujer. Los orcos.
 
 Y Pim supo que no se había ido. Que se había ido de la cueva, pero no de la ciudad. Que seguía en algún sitio, escuchando. Sonriendo.
 
-* * *
+---
 
 El día doscientos ochenta, el herrero de la calle del este abrió la puerta de su casa, salió a la calle con su hijo en brazos y echó a andar hacia la puerta norte.
 
@@ -208,7 +208,7 @@ No supo si se había muerto o si alguien lo había cogido.
 
 No lo preguntó.
 
-* * *
+---
 
 Esa noche, Pim subió otra vez al templo. Al pozo. A la piedra roja que latía en el fondo del agua negra.
 
@@ -220,7 +220,7 @@ Latía. Rápido. Muy rápido. Caliente.
 
 Y por primera vez desde el año 300, Pim oyó lo que había dentro.
 
-No era una voz. Eran dos. Mezcladas. La del maestro, suave, de recaudador, que decía qué quieres, qué quieres, qué quieres, una vez y otra, como una cantinela. Y por debajo, muy hondo, otra. Que no decía nada. Que solo hacía un ruido. Un ruido enorme, sordo, lento, como el de una montaña dándose la vuelta.
+No era una voz. Eran dos. Mezcladas. La del maestro, suave, de recaudador, que decía *qué quieres*, *qué quieres*, *qué quieres*, una vez y otra, como una cantinela. Y por debajo, muy hondo, otra. Que no decía nada. Que solo hacía un ruido. Un ruido enorme, sordo, lento, como el de una montaña dándose la vuelta.
 
 Hambre.
 
@@ -234,7 +234,7 @@ Y se dio cuenta de que el que dormía y los de la calle del este querían lo mis
 
 Y que el maestro no se lo podía dar a ninguno.
 
-* * *
+---
 
 Al día siguiente, el día doscientos ochenta y uno, Pim fue a ver a Ithil a la torre.
 
@@ -256,7 +256,7 @@ Ithil no dijo nada.
 
 Ithil se puso rígido.
 
-—No —dijo—. Él dijo que no. A ti. Que no le hablaras. Que no le cantaras. Que no le dijeras te oigo. Que era lo único que no...
+—No —dijo—. Él dijo que no. A ti. Que no le hablaras. Que no le cantaras. Que no le dijeras *te oigo*. Que era lo único que no...
 
 —Ya lo sé lo que dijo. —Pim miró el arpa sin cuerdas. La que Ithil se había llevado de la casa en llamas con una mano mientras con la otra arrastraba a su hermana—. No le voy a hablar yo.
 
@@ -266,7 +266,7 @@ Pim no contestó.
 
 Ithil miró el arpa. Mucho rato.
 
-Luego miró hacia el noreste. Hacia la loma de la fuente, a mil pasos, donde estaba el campamento. Hacia donde, cada noche, desde una galería de enanos cavada debajo de la loma, alguien que no dormía tocaba la canción de la lluvia mansa bien.
+Luego miró hacia el suroeste. Hacia la loma de la fuente, a mil pasos, donde estaba el campamento. Hacia donde, cada noche, desde una galería de enanos cavada debajo de la loma, alguien que no dormía tocaba la canción de la lluvia mansa bien.
 
 —No sé si me oirá —dijo—. Ya no sé tocar para fuera. Solo para abajo.
 

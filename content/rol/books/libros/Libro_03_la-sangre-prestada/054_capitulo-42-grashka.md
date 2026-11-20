@@ -1,10 +1,10 @@
-## Capítulo 42 · Grâshka
+# Capítulo 42 · Grâshka
 
 *Orac y el mar. Wonder. Verano del año 729 de la Nueva Era (122 D.bA).*
 
 Grâshka tenía dos manos de inviernos y una más, y nunca había visto un árbol.
 
-En Orac no había árboles. Había piedra. Negra. Toda. La de las casas, la de las murallas, la de las calles, la de los muelles, la del suelo de la cueva grande donde vivía la raíz. La habían cortado los de piel gris, los que no ven el sol, con unas herramientas que cantaban bajito. La habían subido de debajo del mar. Era caliente al tocarla. Siempre. Hasta en invierno.
+En Orac no había árboles. Había piedra. Roja la de la tierra, del color de la herrumbre, y caliente, porque detrás, al norte, al otro lado de un brazo de mar, la montaña grande echaba humo; negra la que habían puesto encima. Toda. La de las casas, la de las murallas, la de las calles, la de los muelles, la del suelo de la cueva grande donde vivía la raíz. La habían cortado los de piel gris, los que no ven el sol, con unas herramientas que cantaban bajito. La habían subido de debajo del mar. Era caliente al tocarla. Siempre. Hasta en invierno.
 
 En Orac no había árboles porque no crecían. Lo habían intentado. Los de piel gris habían traído semillas de algún sitio y las habían puesto en tierra traída de algún sitio. Se habían muerto todas. La tierra de la isla no las quería. Decían los viejos que era porque la raíz se comía todo lo que crecía cerca.
 
@@ -12,7 +12,7 @@ Grâshka no lo sabía. Grâshka sabía que no había árboles.
 
 Y que al otro lado del mar sí.
 
-* * *
+---
 
 Se lo había contado su hermano. Gorth. Que era mayor, de tres manos de inviernos. Que había ido en los barcos de exploración, los primeros, el verano anterior, al este. Que había vuelto con los ojos raros.
 
@@ -28,7 +28,7 @@ Gorth se había callado.
 
 El Señor no decía. El Señor preguntaba.
 
-* * *
+---
 
 El Señor era alto.
 
@@ -48,7 +48,7 @@ Y el Señor sonreía. Y te lo daba.
 
 No en seguida. Luego. Cuando hacía falta.
 
-* * *
+---
 
 A Grâshka se lo había preguntado una vez. Hacía una mano de inviernos. En el muelle, al anochecer, mientras ella cargaba sacos de pescado salado.
 
@@ -66,15 +66,15 @@ El Señor la miró. Mucho rato. Con una cara que era una cara y luego otra.
 
 Luego sonrió.
 
-Qué raro, dijo. Nadie me había pedido eso. Lo guardo.
+*Qué raro*, dijo. *Nadie me había pedido eso. Lo guardo.*
 
 Y se fue.
 
-* * *
+---
 
 El verano siguiente hubo barcos.
 
-No los de exploración. Otros. Muchos. Treinta. Los hicieron en los muelles de Orac en un invierno, los orcos, con la madera de los barcos de los de pan que se hundían en el mar del norte y que el agua traía a la isla, y con la piedra negra, que flotaba si se cortaba fina, y con cuero, y con cuerdas de tripa. Eran feos. Pesados. Lentos. Hacían agua por todas partes. Los de piel gris se reían de ellos.
+No los de exploración. Otros. Muchos. Treinta. Los hicieron en los muelles de Orac en un invierno, los orcos, con la madera de los barcos de los de pan que se hundían en el mar y que el agua traía a la isla, y con la piedra negra, que flotaba si se cortaba fina, y con cuero, y con cuerdas de tripa. Eran feos. Pesados. Lentos. Hacían agua por todas partes. Los de piel gris se reían de ellos.
 
 Pero flotaban. Y llevaban cuarenta orcos cada uno.
 
@@ -84,11 +84,11 @@ Grâshka se apuntó la primera.
 
 No por la pelea. Por los árboles.
 
-* * *
+---
 
 La travesía fue mala.
 
-Tres semanas. El mar del norte no quería los barcos de Orac; los empujaba hacia atrás, los llenaba de agua, los ponía de lado. Dos se hundieron la primera semana con todos dentro. Los orcos no saben nadar. Grâshka los oyó gritar en la noche, desde el barco de al lado. Luego no los oyó.
+Tres semanas. El mar no quería los barcos de Orac; los empujaba hacia atrás, los llenaba de agua, los ponía de lado. Dos se hundieron la primera semana con todos dentro. Los orcos no saben nadar. Grâshka los oyó gritar en la noche, desde el barco de al lado. Luego no los oyó.
 
 Gorth iba en su barco. Le había dicho que se quedara cerca de él.
 
@@ -98,7 +98,7 @@ Gorth iba en su barco. Le había dicho que se quedara cerca de él.
 
 —Después. —Gorth se rio. Tenía la risa rota, de un colmillo que le faltaba—. Si quedamos, después.
 
-* * *
+---
 
 Llegaron de noche.
 
@@ -120,7 +120,7 @@ El capataz le dio un golpe en la nuca.
 
 Grâshka se agachó. Pero siguió mirando.
 
-* * *
+---
 
 Atacaron a media mañana.
 
@@ -140,7 +140,7 @@ Gorth llegó a la pared. Clavó el hacha en un tronco. Empezó a subir.
 
 Grâshka se quedó abajo, en el barro, con el escudo de Gorth, que se le había caído. Mirando arriba.
 
-* * *
+---
 
 Arriba, en lo alto de la pared, había un muchacho.
 
@@ -162,7 +162,7 @@ Y algo se fue.
 
 Grâshka lo vio. De verdad. Una cosa pequeña, blanca, que le salió de la boca al muchacho y subió. Despacio. Como sube el humo. Y se perdió en el azul.
 
-* * *
+---
 
 Grâshka se quedó en el barro.
 
@@ -180,7 +180,7 @@ Muy poco.
 
 Pero tiraba.
 
-* * *
+---
 
 Gorth bajó de la pared.
 
@@ -208,7 +208,7 @@ Y Gorth, en el barro, debajo de su mano, dejó de mirarla a ella. Miró arriba t
 
 Y se murió así.
 
-* * *
+---
 
 No salió nada blanco de la boca de Gorth.
 
@@ -222,7 +222,7 @@ Ni arriba ni abajo. Se quedaba en el barro. Quieto. Mirando el cielo.
 
 No sabía qué quería decir eso. No lo supo nunca del todo.
 
-* * *
+---
 
 Se retiraron a mediodía.
 
@@ -240,7 +240,7 @@ Grâshka cerró los ojos.
 
 Luego corrió a los barcos.
 
-* * *
+---
 
 Volvieron a Orac diecinueve barcos de treinta.
 
@@ -250,7 +250,7 @@ Miró a los orcos que bajaban. Uno a uno. Sin decir nada.
 
 Cuando llegó Grâshka, se paró.
 
-¿Has visto un árbol?, le dijo.
+*¿Has visto un árbol?*, le dijo.
 
 Grâshka se quedó quieta. Con el hacha de Gorth en la mano, que había recogido del foso.
 
@@ -266,7 +266,7 @@ El Señor la miró mucho rato.
 
 Luego sonrió. Amable. Como siempre.
 
-Te lo di, dijo. Lo que querías. Ahora me debes una cosa.
+*Te lo di*, dijo. *Lo que querías. Ahora me debes una cosa.*
 
 —¿Qué?
 
@@ -274,7 +274,7 @@ Te lo di, dijo. Lo que querías. Ahora me debes una cosa.
 
 Y se fue.
 
-* * *
+---
 
 Esa noche, en la cueva de los cachorros, que ya no era suya porque ya no era cachorra pero donde fue igual porque era donde dormía Gorth, Grâshka no durmió.
 
@@ -290,7 +290,7 @@ Y notó el otro. El de abajo. El de la raíz. Fuerte. Cerca. De siempre.
 
 Se quedó entre los dos toda la noche. Como Gorth en el barro.
 
-* * *
+---
 
 En Wonder, la alcaldesa Aila Tarrant enterró a cuarenta y tres de los suyos al día siguiente. Entre ellos, a su hijo Bram, de doce años, que había subido a la empalizada sin permiso con un casco que le estaba grande.
 
@@ -304,12 +304,12 @@ Luego dijo la palabra. Hacia arriba.
 
 Y algo, por fin, se fue.
 
-* * *
+---
 
 En el Diario hay una entrada del 729. Dice que unos navíos rústicos llegaron desde el Oeste. Que desembarcaron feroces orcos que lograron ser rechazados con lo justo. Que se decidió reforzar la ciudad, ya que los ataques provenientes desde el Oeste parecían ser constantes.
 
 Lo escribió Érandiul, que estaba en Wonder ese verano. Que había hecho el viaje el año anterior para ver la ciudad y su progreso.
 
-No escribió feroces por los orcos. Lo escribió por el mar. Que los había traído. Y que los había llevado. Y que era lo más feroz que había visto en casi novecientos años.
+No escribió *feroces* por los orcos. Lo escribió por el mar. Que los había traído. Y que los había llevado. Y que era lo más feroz que había visto en casi novecientos años.
 
-Pero eso no lo pone. Eso lo dijo una noche, en El Guiso, a un orco cocinero que le preguntó por qué había escrito feroces, si él había visto a uno mirar arriba.
+Pero eso no lo pone. Eso lo dijo una noche, en *El Guiso*, a un orco cocinero que le preguntó por qué había escrito *feroces*, si él había visto a uno mirar arriba.

@@ -1,4 +1,4 @@
-## Capítulo 32 · Sein
+# Capítulo 32 · Sein
 
 *Banderbill y Nix. Primavera y verano del año 671 de la Nueva Era (64 D.bA).*
 
@@ -16,7 +16,7 @@ Llevaba puesta una camisa de seda de Nix, de las caras, con los botones de náca
 
 —Se llamaba Doran Saur —dijo la viuda—. Era mercader de paños. Ayer cumplió treinta y ocho años.
 
-* * *
+---
 
 Sein tapó al muerto.
 
@@ -24,17 +24,13 @@ Luego se sentó. En la mesa del fondo. Y abrió el libro.
 
 No por la página del año. Por una muy atrás. Por la del cofre. Donde había copiado, en el año 33, con letra de chico de catorce, las reglas del libro de Corvo que Livia leía en voz alta junto al fuego.
 
-*Que la da la sangre del que dijo que no.*  
-*Que se da por voluntad.*  
-*Que se da a otro, nunca a uno mismo.*  
-*Que se da una vez en la vida.*  
-*Que dura lo que dura la línea.*
+*Que la da la sangre del que dijo que no.* *Que se da por voluntad.* *Que se da a otro, nunca a uno mismo.* *Que se da una vez en la vida.* *Que dura lo que dura la línea.*
 
 Y la sexta. La que Livia había leído dos veces porque no la entendía. La que nadie había probado nunca.
 
 *Que si se da con otra sangre, se da al revés.*
 
-* * *
+---
 
 —¿Qué hizo anoche? —le preguntó Sein a la viuda.
 
@@ -48,7 +44,7 @@ La viuda lo miró. Con los ojos secos.
 
 —Para no morirse nunca —dijo.
 
-* * *
+---
 
 Se llamaba Casio Aurelan. Tenía cuarenta y cinco años, una casa grande en la calle del Faro, una barba muy cuidada y una historia.
 
@@ -62,7 +58,7 @@ Y que él estaba dispuesto a darla.
 
 Por un precio.
 
-* * *
+---
 
 Sein tardó once días en encontrar el árbol de nombres.
 
@@ -78,7 +74,7 @@ La quitó en seguida.
 
 —No hay costurera. —Ottherius se encogió de hombros—. Hay un hombre que tenía hambre de otra cosa. De dinero. De que lo miraran. —Apartó la mano—. Tiene muy poco latido. Nada. No es de nadie.
 
-* * *
+---
 
 Casio Aurelan había dado su sangre a cuatro.
 
@@ -96,7 +92,7 @@ El cuarto no tenía nombre en los papeles. Tenía una fecha. Dentro de tres sema
 
 *El de Arghâl. Dice que es para su hijo.*
 
-* * *
+---
 
 —Hay que detenerlo —dijo Lanther.
 
@@ -116,7 +112,7 @@ Silencio.
 
 Nadie contestó.
 
-* * *
+---
 
 —¿Entonces? —dijo Lanther.
 
@@ -126,7 +122,7 @@ Era un hombre que sumaba. Que llevaba seiscientos cincuenta años sumando. Que t
 
 —Que desaparezca —dijo.
 
-* * *
+---
 
 Hablaron hasta el alba.
 
@@ -146,7 +142,7 @@ Votaron.
 
 Cuatro a tres.
 
-* * *
+---
 
 Lo hicieron así.
 
@@ -160,13 +156,13 @@ Lo metieron en una celda. La ciento doce. La última. La que estaba en el sótan
 
 No con su nombre. Con otro. Uno que inventó Sein en el camino.
 
-En el registro de la cárcel pone: Celda 112. Preso sin nombre. Traído por orden del Consejo en el verano del 671. Delito: robo. Pena: de por vida.
+En el registro de la cárcel pone: *Celda 112. Preso sin nombre. Traído por orden del* *Consejo en el verano del 671. Delito: robo. Pena: de por vida.*
 
-Y en la frente, una raya. Con un hierro. La marca de los Rincones, que ya no existían. Ladrón de por vida.
+Y en la frente, una raya. Con un hierro. La marca de los Rincones, que ya no existían. *Ladrón de por vida.*
 
 La hizo Wenna. Porque dijo que en el Mercado sabían hacerla y que si la hacía otro saldría torcida y dolería más.
 
-* * *
+---
 
 A Doran Saur lo enterraron con su nombre. Con su cara de noventa años. En el cementerio de la ladera norte.
 
@@ -176,13 +172,13 @@ No la de verdad. Otra. La puso en la boca de la viuda, que se la contó a las ve
 
 Funcionó.
 
-En la colina, durante cien años, a los niños que preguntaban por qué no se podía vivir siempre se les contaba la historia de Doran Saur. El que se despertó viejo. Se cantaba una canción. Los niños la cantaban saltando a la comba.
+En la colina, durante cien años, a los niños que preguntaban por qué no se podía vivir siempre se les contaba la historia de Doran Saur. *El que se despertó viejo.* Se cantaba una canción. Los niños la cantaban saltando a la comba.
 
 Nadie volvió a vender sangre.
 
 Nadie volvió a buscarla. No en cien años.
 
-* * *
+---
 
 El de Arghâl vino a la biblioteca a las tres semanas. La fecha de la nota.
 
@@ -208,7 +204,7 @@ Sein no se movió.
 
 Odo, hijo de Tam.
 
-* * *
+---
 
 Sein le devolvió el dinero. Del suyo. Del de las Cuentas de Rinkel, el cuaderno negro que no se enseñaba. Todo.
 
@@ -218,11 +214,11 @@ Drak se fue.
 
 El niño se murió en otoño.
 
-Sein lo apuntó en el debe. Hijo de Drak. Cuatro años. Fiebre de los huesos. Debajo de Odo. Al lado de Celda 112.
+Sein lo apuntó en el debe. *Hijo de Drak. Cuatro años. Fiebre de los huesos.* Debajo de Odo. Al lado de *Celda 112*.
 
 Y no lo tachó.
 
-* * *
+---
 
 Esa noche, en la habitación del arcón, Lanther lo encontró con el libro abierto por esa página. Mirándola. Sin escribir.
 
@@ -252,9 +248,9 @@ Lanther lo pensó. Mucho.
 
 —Es otra cosa —dijo. Y se fue.
 
-* * *
+---
 
-El preso de la celda ciento doce vivió veintiocho años. No habló con nadie. Se volvió loco al tercero. Al final cantaba una canción. La de los niños que saltaban a la comba. El que se despertó viejo. La oía por la ventana alta, que daba a la calle de la cárcel.
+El preso de la celda ciento doce vivió veintiocho años. No habló con nadie. Se volvió loco al tercero. Al final cantaba una canción. La de los niños que saltaban a la comba. *El que se despertó viejo.* La oía por la ventana alta, que daba a la calle de la cárcel.
 
 Murió en el 699. Lo enterraron sin nombre.
 

@@ -1,10 +1,10 @@
-## Capítulo 49 · Finderil
+# Capítulo 49 · Finderil
 
 *Ullathorpe, la posada de Joss. Invierno del año 1402 de la Nueva Era (795 D.bA).*
 
 Su padre se olvidó de su nombre un martes, en la posada, entre la segunda cerveza y la tercera, y Finderil lo supo antes que él.
 
-Lo supo porque Illidan lo miró desde el otro lado de la mesa, con los ojos claros, casi transparentes, con la jarra a medio camino de la boca, y sonrió. La sonrisa amable que se le pone a un desconocido simpático en una posada. Y le dijo:
+Lo supo porque Aelthar lo miró desde el otro lado de la mesa, con los ojos claros, casi transparentes, con la jarra a medio camino de la boca, y sonrió. La sonrisa amable que se le pone a un desconocido simpático en una posada. Y le dijo:
 
 —¿Usted también es de Lindos, joven?
 
@@ -12,11 +12,11 @@ Finderil no contestó.
 
 Joel, detrás de la barra, dejó de secar el vaso.
 
-* * *
+---
 
 Habían llegado a Ullathorpe en el otoño del 1400.
 
-No porque quisieran. Porque Illidan volvió del norte, de un viaje de tres meses que no había explicado a nadie, con los pies llenos de ampollas y la ropa rota y una cosa en los ojos que antes no tenía. Llegó a Lindos una noche de lluvia. Se sentó en la orilla de la poza grande, la de la luz, donde los elfos de Lindos se sientan a pensar desde que hay elfos en Lindos. Y se quedó allí tres días, mirando el agua, hablando solo.
+No porque quisieran. Porque Aelthar volvió del norte, de un viaje de tres meses que no había explicado a nadie, con los pies llenos de ampollas y la ropa rota y una cosa en los ojos que antes no tenía. Llegó a Lindos una noche de lluvia. Se sentó en la orilla de la poza grande, la de la luz, donde los elfos de Lindos se sientan a pensar desde que hay elfos en Lindos. Y se quedó allí tres días, mirando el agua, hablando solo.
 
 Al cuarto día le dijo a Finderil que se iban a Ullathorpe.
 
@@ -26,11 +26,11 @@ Al cuarto día le dijo a Finderil que se iban a Ullathorpe.
 
 —Yo también puedo apuntar lo que dices, padre.
 
-Illidan lo miró. Con cariño. Con una cosa detrás del cariño que Finderil no supo leer.
+Aelthar lo miró. Con cariño. Con una cosa detrás del cariño que Finderil no supo leer.
 
 —Tú no —dijo—. Tú lo vas a necesitar para otra cosa. Tú no lo apuntes nunca.
 
-* * *
+---
 
 Finderil tenía ciento sesenta años, que para un elfo de Lindos es ser joven, y era arquero. El mejor de Lindos, decían, aunque en Lindos no había guerra y los arqueros tiraban a manzanas en las ramas altas de los sauces. Tenía el pelo castaño y largo, recogido en una trenza, y un arco de madera de tejo que le había hecho su padre cuando cumplió cien años. Le habían puesto Arrowsong de apellido los humanos de Nix, porque cuando tiraba, la flecha cantaba, y él no se lo había quitado.
 
@@ -42,23 +42,23 @@ Pero su padre se sentaba cada noche en la posada de Joss, en la mesa de al lado 
 
 Y Joel apuntaba.
 
-* * *
+---
 
 Joel era viejo. Humano. Setenta años, la barriga grande, la nariz roja de cuarenta años de probar su propia cerveza para ver si estaba buena. Tenía la posada de Joss de su padre, que la tenía del suyo, que la tenía de un veterano de la Armada que la abrió hacía casi novecientos años y le puso el nombre de su teniente, un Hask que se había muerto en la tercera almena mirando una estrella. La historia estaba pintada en la pared, encima de la chimenea. Una almena. Un soldado joven boca arriba. Detrás, de pie, una mujer pelirroja con una lanza. Una estrella pequeña, al suroeste.
 
-Joel conocía a Illidan desde hacía cuarenta años. Desde que el elfo pasó por Ullathorpe camino de la colina, y se emborrachó por primera vez en su vida en esa misma mesa, y le dijo a Joel, que entonces tenía treinta años y servía las mesas de su padre, que iba a tener una hija y que se iba a llamar Rina.
+Joel conocía a Aelthar desde hacía cuarenta años. Desde que el elfo pasó por Ullathorpe camino de la colina, y se emborrachó por primera vez en su vida en esa misma mesa, y le dijo a Joel, que entonces tenía treinta años y servía las mesas de su padre, que iba a tener una hija y que se iba a llamar Rina.
 
 Joel tuvo una hija. Se llamó Rina.
 
 Desde entonces le apuntaba lo que decía.
 
-En un libro. Grande, de tapas de cuero, que guardaba debajo de la barra. Las tonterías del elfo, ponía en la primera página, con la letra de Joel, que era grande y redonda y con faltas. Debajo, cuarenta años de cosas. Que va a llover en la feria. Llovió. Que el hijo del herrero se va a ir a Nix. Se fue. Que la vaca de los Medd va a tener dos terneros. Tuvo tres; el elfo se equivocó en uno.
+En un libro. Grande, de tapas de cuero, que guardaba debajo de la barra. *Las* *tonterías del elfo*, ponía en la primera página, con la letra de Joel, que era grande y redonda y con faltas. Debajo, cuarenta años de cosas. *Que va a llover en la feria. Llovió.* *Que el* *hijo del herrero se va a ir a Nix. Se fue.* *Que la vaca de los Medd va a tener dos terneros.* *Tuvo tres; el elfo se equivocó en uno.*
 
 Joel se reía cuando las apuntaba. Se reía cuando salían bien. Se reía más cuando salían mal.
 
 Desde el otoño del 1400 no se reía.
 
-* * *
+---
 
 Porque desde el otoño del 1400 las tonterías del elfo eran otras.
 
@@ -78,11 +78,11 @@ Y de un número.
 
 *El sexto.*
 
-* * *
+---
 
 —¿Qué es el sexto, padre?
 
-Se lo preguntó una noche, a la vuelta, por la calle helada, del brazo, porque Illidan ya no andaba bien solo.
+Se lo preguntó una noche, a la vuelta, por la calle helada, del brazo, porque Aelthar ya no andaba bien solo.
 
 Su padre se paró.
 
@@ -92,13 +92,13 @@ Se quedó quieto en medio de la calle, con la nieve cayéndole en el pelo blanco
 
 —¿Quién?
 
-—Alguien. Al final. Cuando ya estaba roto. —Illidan cerró los ojos—. Una voz muy amable. Como la de un recaudador que te perdona un mes.
+—Alguien. Al final. Cuando ya estaba roto. —Aelthar cerró los ojos—. Una voz muy amable. Como la de un recaudador que te perdona un mes.
 
 Finderil sintió frío. No el de la nieve.
 
 —Padre. ¿Qué te dijo la voz?
 
-Illidan abrió los ojos.
+Aelthar abrió los ojos.
 
 Lo miró. Lo reconoció. Por última vez, aunque Finderil no lo sabía todavía, lo reconoció entero.
 
@@ -106,9 +106,9 @@ Lo miró. Lo reconoció. Por última vez, aunque Finderil no lo sabía todavía,
 
 —Entonces no lo digas.
 
-—Ya lo he dicho. —Illidan sonrió. Triste—. Se lo dije a Joel anoche. Lo ha apuntado.
+—Ya lo he dicho. —Aelthar sonrió. Triste—. Se lo dije a Joel anoche. Lo ha apuntado.
 
-* * *
+---
 
 Había un forastero en la posada.
 
@@ -118,13 +118,13 @@ El forastero no hablaba con nadie.
 
 Pero pagaba.
 
-Cada noche, cuando Illidan empezaba a hablar, el forastero levantaba un dedo. Y Joel, detrás de la barra, servía una ronda. A toda la posada. Y la apuntaba en la cuenta del forastero, que pagaba al final de la semana con monedas de plata de la colina, nuevas, brillantes, de las que no se veían en Ullathorpe.
+Cada noche, cuando Aelthar empezaba a hablar, el forastero levantaba un dedo. Y Joel, detrás de la barra, servía una ronda. A toda la posada. Y la apuntaba en la cuenta del forastero, que pagaba al final de la semana con monedas de plata de la colina, nuevas, brillantes, de las que no se veían en Ullathorpe.
 
 Y la gente se quedaba.
 
 A escuchar al elfo loco.
 
-* * *
+---
 
 Finderil se lo dijo a Joel.
 
@@ -146,27 +146,27 @@ Tenía los ojos pequeños, rojos, de setenta años de humo de chimenea y de cerv
 
 —Muchacho —dijo—. Tu padre y yo llevamos cuarenta años aquí. Él diciendo y yo apuntando. Me ha dicho cuándo iba a llover, cuándo se iba a morir mi padre, cómo se iba a llamar mi hija. —Se le quebró la voz, un poco, y lo arregló con un trago—. Si ahora tu padre se está yendo, y lo último que tiene que decir lo quiere oír media colina, yo no voy a cerrar la puerta. Que paguen quien quiera. Que lo apunten todos.
 
-* * *
+---
 
-El martes de la segunda cerveza, Illidan no lo reconoció.
+El martes de la segunda cerveza, Aelthar no lo reconoció.
 
 *¿Usted también es de Lindos, joven?*
 
 Finderil se quedó sentado. Con el agua. Sin contestar.
 
-Joel salió de detrás de la barra. Despacio. Se acercó a la mesa. Se sentó al lado de Illidan, que lo miró con la misma sonrisa amable, de desconocido simpático.
+Joel salió de detrás de la barra. Despacio. Se acercó a la mesa. Se sentó al lado de Aelthar, que lo miró con la misma sonrisa amable, de desconocido simpático.
 
-—Illidan —dijo Joel—. Soy yo.
+—Aelthar —dijo Joel—. Soy yo.
 
-—Ah. —Illidan lo miró—. ¿Le conozco?
+—Ah. —Aelthar lo miró—. ¿Le conozco?
 
 Joel no dijo nada.
 
 Le puso la mano en el hombro.
 
-Y entonces Illidan se levantó.
+Y entonces Aelthar se levantó.
 
-* * *
+---
 
 Se levantó de golpe, como se levanta un muñeco cuando tiran del hilo. Con la jarra en la mano. La cerveza se le cayó por la manga. Miró a la chimenea. A la mujer pelirroja pintada. A la estrella.
 
@@ -178,31 +178,31 @@ En la mesa de debajo de la escalera, el forastero de la capa gris levantó un de
 
 Nadie le sirvió. Nadie se movió.
 
-Illidan habló.
+Aelthar habló.
 
-* * *
+---
 
-—La era de los gnomos al mando del ejército azul llegó a su fin —dijo.
+—*La era de los gnomos al mando del ejército azul llegó a su fin* —dijo.
 
 Despacio. Con una voz que no era la suya. Más grave. Más limpia. Una voz que no temblaba.
 
-—De las sombras un nuevo guerrero asoma. Su corazón es puro, su alma noble, pero sus instintos son salvajes.
+—*De las sombras un nuevo guerrero asoma. Su corazón es puro, su alma noble,* *pero sus instintos son salvajes.*
 
 Finderil se levantó. Le cogió del brazo.
 
-Illidan no lo notó.
+Aelthar no lo notó.
 
-—La realidad se tiñe de engaños y mentiras. Lo que en un principio parecía malo, puede ser bueno.
+—*La realidad se tiñe de engaños y mentiras. Lo que en un principio parecía malo,* *puede ser bueno.*
 
 Debajo de la escalera, el forastero cerró los ojos. Como quien escucha una música que le gusta mucho.
 
-—Los llamados seguidores de la Dama, perecerán.
+—*Los llamados seguidores de la Dama, perecerán.*
 
 Joel, sentado, no apuntaba. Tenía el libro debajo de la barra, lejos. Movía los labios. Repitiendo. Para acordarse.
 
-—La mano del Sexto será dura como la roca y fría como el metal. Los que le juren lealtad pagarán con su vida la traición.
+—*La mano del Sexto será dura como la roca y fría como el metal. Los que le juren* *lealtad pagarán con su vida la traición.*
 
-Illidan se calló.
+Aelthar se calló.
 
 Dejó la jarra en la mesa. Con cuidado. Como si fuera de cristal.
 
@@ -212,13 +212,13 @@ Miró a Finderil, que le tenía cogido el brazo.
 
 —¿Usted también es de Lindos, joven? —preguntó.
 
-* * *
+---
 
 Finderil se llevó a su padre a Lindos al día siguiente.
 
 No se despidió de Joel. Joel estaba detrás de la barra, a las seis de la mañana, con el libro de tapas de cuero abierto, escribiendo con la letra grande y redonda. No levantó la vista cuando pasaron. Finderil vio, de reojo, la página. Las líneas. Las faltas.
 
-Ejercito sin tilde. Banderbil con una ele.
+*Ejercito* sin tilde. *Banderbil* con una ele.
 
 No dijo nada.
 
@@ -226,11 +226,11 @@ Debajo de la escalera, la mesa del forastero estaba vacía. Encima, una pila de 
 
 Joel no las había cogido.
 
-* * *
+---
 
-Illidan vivió dos años más.
+Aelthar vivió dos años más.
 
-En Lindos, al lado de la poza de la luz, sentado en la orilla, mirando el agua. No hablaba. No reconocía a nadie. A veces sonreía. A veces movía los labios, sin voz, y Finderil se acercaba a escuchar y no era la profecía. Eran nombres. Rina. La vaca de los Medd. Va a llover en la feria.
+En Lindos, al lado de la poza de la luz, sentado en la orilla, mirando el agua. No hablaba. No reconocía a nadie. A veces sonreía. A veces movía los labios, sin voz, y Finderil se acercaba a escuchar y no era la profecía. Eran nombres. *Rina. La vaca de los* *Medd. Va a llover en la feria.*
 
 Las tonterías del elfo.
 
@@ -238,13 +238,13 @@ Las de antes.
 
 Las buenas.
 
-Una tarde de otoño, en el 1404, Illidan metió la mano en la poza. Hasta el codo. La sacó. Tenía algo en la palma. Agua. Nada más que agua. Brillando.
+Una tarde de otoño, en el 1404, Aelthar metió la mano en la poza. Hasta el codo. La sacó. Tenía algo en la palma. Agua. Nada más que agua. Brillando.
 
 —Aquí hay una cosa —le dijo a Finderil. Reconociéndolo. Un segundo—. Abajo. En el fondo. Una lágrima. No la saques nunca.
 
 Se murió esa noche.
 
-* * *
+---
 
 Finderil volvió a Ullathorpe en el 1410. Para devolver un libro que su padre se había dejado. No era un libro importante. Uno de poemas de Nix.
 

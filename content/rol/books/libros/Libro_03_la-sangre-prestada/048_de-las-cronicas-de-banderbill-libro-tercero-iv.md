@@ -1,20 +1,20 @@
-## DE LAS CRÓNICAS DE BANDERBILL, LIBRO TERCERO (IV)
+# De las Crónicas de Banderbill, Libro Tercero (IV)
 
-*Escrito por Clara Vell, cronista de la biblioteca, en el verano del año 710 de la Nueva Era (103 D.bA). Con el sombrero puesto, porque el elfo no lo ha vuelto a pedir. Con una nota al pie en otra letra.*
+*Escrito por Clara Vell, cronista de la biblioteca, en el verano del año 710 de la* *Nueva Era (103 D.bA). Con el sombrero puesto, porque el elfo no lo ha vuelto a pedir.* *Con una nota al pie en otra letra.*
 
 Me llamo Clara. Tengo cincuenta años, el apellido desde el 688 y un problema: el Emperador no está.
 
-No es que se haya muerto. Es que no está. Se pasa la vida en Nix, en las gradas de levante, que ya no son secretas, con la corona de once libras puesta, cepillando tablas. Viene a la colina cuando le obliga el Consejo, que es dos veces al año, y se sienta en el trono con serrín en la barba y se le nota que está pensando en otra cosa. En la colina lo llaman el Emperador carpintero. Lo dicen con una mezcla de cariño y de miedo que no había oído nunca en la voz de la gente.
+No es que se haya muerto. Es que no está. Se pasa la vida en Nix, en las gradas de levante, que ya no son secretas, con la corona de once libras puesta, cepillando tablas. Viene a la colina cuando le obliga el Consejo, que es dos veces al año, y se sienta en el trono con serrín en la barba y se le nota que está pensando en otra cosa. En la colina lo llaman *el Emperador carpintero*. Lo dicen con una mezcla de cariño y de miedo que no había oído nunca en la voz de la gente.
 
 Tiene ochenta y nueve años y aparenta sesenta. Se mueve como uno de cuarenta cuando está en las gradas y como uno de cien cuando está en el trono.
 
-* * *
+---
 
 Los barcos existen.
 
 Lo escribo así porque durante dieciocho años no existieron, y ahora la gente de la colina baja al puerto los domingos a verlos, como se va a ver una cosa que no se cree.
 
-Hay cuatro terminados. Dos más en las gradas. Los cuatro terminados están anclados en la bahía de Nix y en la de Banderbill, dos y dos, y son tan grandes que los pescadores de la Punta dicen que les quitan el viento. El primero se llama Iselde, por la madre del Emperador. El segundo, Brena. El tercero, Maren, que la emperatriz no quería y el Emperador puso igual. El cuarto no tiene nombre todavía. El Emperador dice que se lo pondrá cuando sepa adónde va.
+Hay cuatro terminados. Dos más en las gradas. Los cuatro terminados están anclados en la bahía de Nix y en la de Banderbill, dos y dos, y son tan grandes que los pescadores de la Punta dicen que les quitan el viento. El primero se llama *Iselde*, por la madre del Emperador. El segundo, *Brena*. El tercero, *Maren*, que la emperatriz no quería y el Emperador puso igual. El cuarto no tiene nombre todavía. El Emperador dice que se lo pondrá cuando sepa adónde va.
 
 Los carpinteros de Nix cobran ahora del Imperio, no del silencio. El señor Vell —el otro, el de las gafas, que no es pariente mío pero que lleva el apellido desde antes que nadie — dice que es más barato. Que el silencio era lo más caro. Que ahora solo hay que pagar el roble.
 
@@ -22,7 +22,7 @@ Le he preguntado cuánto cuesta un barco. Me ha dicho que vuelva cuando sepa cu�
 
 Lo dice a todo el mundo, por lo visto. Desde hace sesenta años.
 
-* * *
+---
 
 El Consejo está preocupado.
 
@@ -36,7 +36,7 @@ El Emperador dice que este también será un año. O dos. O los que hagan falta.
 
 Nadie le cree. Ni él.
 
-* * *
+---
 
 La colina ha cambiado en estos ocho años sin que nadie se dé cuenta, que es como cambian las cosas.
 
@@ -52,7 +52,7 @@ Canta la nana. La de la roca. La de la otra nota. Sube cuatro, baja tres, se par
 
 Pero canta la nota buena.
 
-* * *
+---
 
 Le he preguntado a la pelirroja por qué canta.
 
@@ -64,7 +64,7 @@ Me ha dicho que el muro canta cuando tiene miedo. Que lo hizo una vez, en el añ
 
 No le he preguntado más. No quería saber.
 
-* * *
+---
 
 Esta crónica es corta. Lo sé. Ilse Vell escribía más. Nerea más. Pero yo tengo un Emperador en las gradas, una flota en la bahía, un muro que canta y un elfo de Rinkel que sube cada noche a una almena y llora un poco y luego le pide perdón al merlón.
 
@@ -80,13 +80,16 @@ Pero lo voy a pedir. Para que conste que lo pedí.
 
 *C. V.*
 
-— | ✦ | —
+---
+
+— —
 
 *Al pie, en otra letra, pequeña, de niño:*
 
-*Va el elfo de la silla del fondo. Lo ha pedido él. Le han dicho que sí. Tiene ochocientos cincuenta y tres años y una mano que no sirve.*
+*Va el elfo de la silla del fondo. Lo ha pedido él. Le han dicho que sí. Tiene* *ochocientos cincuenta y tres años y una mano que no sirve.*
 
 *Dice que alguien tiene que verlo. Y apuntarlo. Y luego decir que lo vio.*
 
-*Ya lo dijo una vez. Lo apunto otra.*  
+*Ya lo dijo una vez. Lo apunto otra.*
+
 *S.*

@@ -1,6 +1,6 @@
-## Capítulo 65 · Lanther
+# Capítulo 65 · Lanther
 
-*La colina de Banderbill, el muro de piedras de río. Verano del año 885 de la Nueva Era (278 D.bA).*
+*La colina de Banderbill, el muro de piedras de río. Verano del año 885 de la Nueva* *Era (278 D.bA).*
 
 La última piedra del tramo del Ojo la puso una niña de diez años que se llamaba Ada Ruald, y no cantó.
 
@@ -14,7 +14,7 @@ Ada Ruald dijo su nombre. Puso la piedra.
 
 Y el muro no cantó.
 
-* * *
+---
 
 Lanther pegó la oreja.
 
@@ -32,7 +32,7 @@ Lanther se apartó del muro.
 
 —Todavía no —dijo.
 
-* * *
+---
 
 El tramo del Ojo se llamaba así por una piedra.
 
@@ -44,11 +44,11 @@ En el año ochenta y tantos. No en el treinta, con los demás; después. Un niñ
 
 Lanther estaba en el muro ese día. Lo vio. Le preguntó qué hacía.
 
-Le pongo un ojo, le dijo el niño. Para que vea lo que viene.
+*Le pongo un ojo*, le dijo el niño. *Para que vea lo que viene.*
 
 Se llamaba Andriath.
 
-* * *
+---
 
 Andriath se había muerto en el 145. Riéndose. En un círculo de piedras rojas. Después de darle su vida a Wenna, porque la quería.
 
@@ -64,13 +64,13 @@ Pegó la oreja otra vez. A la piedra del Ojo. A la de Andriath.
 
 Nada.
 
-* * *
+---
 
 —Le falta algo.
 
 Lanther no se volvió. Conocía la voz.
 
-Wenna se sentó a su lado. Con el sombrero de ala mala, el del 95, que se le caía encima de un ojo. Olía a castañas. Siempre. Ochocientos años oliendo a castañas.
+Wenna se sentó a su lado. Con el sombrero de ala mala, el del *95*, que se le caía encima de un ojo. Olía a castañas. Siempre. Ochocientos años oliendo a castañas.
 
 —Lo sé —dijo Lanther.
 
@@ -78,13 +78,13 @@ Wenna se sentó a su lado. Con el sombrero de ala mala, el del 95, que se le ca�
 
 —Lo sé.
 
-—Él no dijo su nombre. —Wenna miró la piedra—. Cuando la puso. Me lo contaste tú, en el 140, cuando me lo contaste todo. Que el niño puso la piedra y se rio y dijo para que vea lo que viene. Pero no dijo su nombre. Porque entonces no se decía. Eso lo inventó Asgal. Lo de los nombres.
+—Él no dijo su nombre. —Wenna miró la piedra—. Cuando la puso. Me lo contaste tú, en el 140, cuando me lo contaste todo. Que el niño puso la piedra y se rio y dijo *para que vea lo que viene*. Pero no dijo su nombre. Porque entonces no se decía. Eso lo inventó Asgal. Lo de los nombres.
 
 Lanther no dijo nada.
 
 —Todas las piedras del muro tienen un nombre dicho —dijo Wenna—. Las del treinta, las dijiste tú, una por una, de los que las pusieron. Me lo contó Sein. Te sabías los nombres de todos los pescadores. Las de los sábados, las dicen los niños. —Tocó la piedra del Ojo—. Esta no. Esta es la única que no tiene nombre dicho.
 
-* * *
+---
 
 —Dilo tú —dijo Lanther.
 
@@ -104,7 +104,7 @@ Y dijo:
 
 —Andriath.
 
-* * *
+---
 
 No pasó nada.
 
@@ -122,7 +122,7 @@ Wenna apartó la mano. Se quedó mirando la piedra. Con la boca abierta.
 
 Y el muro empezó a cantar.
 
-* * *
+---
 
 No bajito. No como las otras noches.
 
@@ -138,7 +138,7 @@ Se oía, contó después Ottherius, más abajo. Mucho más abajo.
 
 Y abajo, algo se quedó quieto. Como se queda uno que duerme cuando le cantan.
 
-* * *
+---
 
 Lanther lloró.
 
@@ -148,7 +148,7 @@ Wenna se sentó otra vez a su lado. Se puso el sombrero. No dijo nada.
 
 Cantó el muro toda la noche.
 
-* * *
+---
 
 Al alba, el Emperador bajó.
 
@@ -168,7 +168,7 @@ Lanther no contestó.
 
 —Sein dice que siete. Más o menos uno. —Asgal se quitó el aro. Lo miró—. La muralla del norte está. El muro de dentro canta. La Armada está en la bahía, toda, la de aquí y la de Wonder, que la he hecho venir. Ilan Hask está en Annkör con la espada. Ithil ha mandado una tablilla en la barriga de un pez. —Se puso el aro otra vez—. Y tengo una cosa que dar que no he dado.
 
-* * *
+---
 
 Lanther se volvió.
 
@@ -184,13 +184,13 @@ Asgal no dijo nada.
 
 —Era eso. —Asgal se encogió de hombros—. Pensaba en Ilan. Pero está en Annkör. Pensaba en el capitán de la Armada. En el maestro de la muralla. —Miró el muro —. En alguien.
 
-* * *
+---
 
 —Escúchame —dijo Lanther.
 
 Se puso de rodillas. Delante de él. Como se había puesto su padre delante de un enano en una fragua.
 
-—En el 61 —dijo—, un hombre que se llamaba Loth me dio una jarra. Con una vida dentro. Para cuando te canses, me dijo. O para quien haga falta. La guardé seiscientos setenta y tres años. No la di. Ni a tu bisabuelo Lindos, que se moría en una isla. Él no la quiso. —Le cogió la mano—. ¿Sabes por qué no la di antes?
+—En el 61 —dijo—, un hombre que se llamaba Loth me dio una jarra. Con una vida dentro. *Para cuando te canses*, me dijo. *O para quien haga falta.* La guardé seiscientos setenta y tres años. No la di. Ni a tu bisabuelo Lindos, que se moría en un oasis. Él no la quiso. —Le cogió la mano—. ¿Sabes por qué no la di antes?
 
 —No.
 
@@ -204,7 +204,7 @@ Asgal la miró.
 
 —Entonces guárdala. Para después. —Le apretó la mano—. Para quien quede.
 
-* * *
+---
 
 Asgal se quedó callado mucho rato.
 
@@ -224,7 +224,7 @@ Wenna se tocó el pecho. Donde latía, debajo, la de un rey que se reía.
 
 —Que Andriath me la dio una mañana cualquiera —dijo—. En el 107. Riéndose. Sin hacer falta. Porque le dio la gana. —Se le movió la cara—. Y me pasé treinta y ocho años preguntándome por qué yo, hasta que se murió en el círculo de piedras rojas. Y entonces lo supe. Que era para eso. Para que alguien se riera de él cuando ya no estuviera. —Se encogió de hombros—. Si sabes para qué, dásela. Si no lo sabes, espera. Yo habría preferido saberlo antes.
 
-* * *
+---
 
 Asgal se levantó.
 
@@ -238,7 +238,7 @@ Se dio en la cabeza con una rama de un tilo que colgaba encima del muro. Sin que
 
 —Sein lo apuntará. —Lanther miró a la calle de abajo. Por la esquina, despacio, con el libro debajo del brazo, con las gafas, venía Sein. Como siempre. Como si lo hubiera sabido—. Ya viene.
 
-* * *
+---
 
 Esa noche, Lanther subió a la tercera almena.
 
@@ -250,7 +250,7 @@ Un puñado. Blanco. Fino. Como el de las salinas del sur. Puesto con cuidado en 
 
 Y al lado, una tablilla. De piedra negra. Con letras torcidas hechas con punzón.
 
-Lanther la leyó. Para la que dijo que no. La leyó entera. Se llama Mhorkvel. Nadie se lo había preguntado. Si le preguntas, tiene que contestar. Una vez.
+Lanther la leyó. *Para la que dijo que no.* La leyó entera. *Se llama Mhorkvel. Nadie* *se lo había preguntado. Si le preguntas, tiene que contestar. Una vez.*
 
 Cogió la sal con la mano. La olió.
 

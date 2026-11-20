@@ -1,6 +1,6 @@
-## Capítulo 13 · Tibbet
+# Capítulo 13 · Tibbet
 
-*El palacio de Banderbill, las cuevas viejas de la ladera este y el camino de la costa norte. Primavera del año 1067 de la Nueva Era (460 D.bA).*
+*El palacio de Banderbill, las cuevas viejas de la ladera este y el camino de la costa* *norte. Primavera del año 1067 de la Nueva Era (460 D.bA).*
 
 El sombrero número ciento treinta y tres era de hojas de roble, y Tibbet lo había cosido en el barco, bajando de Annkör, con los dedos helados, sabiendo para qué era.
 
@@ -30,21 +30,21 @@ Tibbet se quedó con el sombrero negro en las manos. Llevaba novecientos veinti�
 
 —Vale —dijo. Y se le quebró la voz, cosa que no le pasaba nunca.
 
-* * *
+---
 
 Había llegado esa mañana. La carta lo había encontrado en Annkör a finales del invierno, en su casa de la ladera de Tiama, al lado de la de Dalbur, donde vivía desde el 948 haciendo nada con mucho cuidado: cosiendo sombreros, contando yetis, subiendo a la cueva de cristal a llevarle cerveza a Ilan Hask y a quedarse un rato mirando la rendija con él, sin hablar. La carta era corta. De la letra del Emperador, temblona.
 
-*Tibbet. Ven. Hay una cosa que tienes que llevar. Trae un saco grande y no traigas campanilla. A.*
+*Tibbet. Ven. Hay una cosa que tienes que llevar. Trae un saco grande y no traigas* *campanilla. A.*
 
-No decía qué cosa. Tibbet lo supo igual. Lo había sabido desde el 1030, cuando el Emperador bajó de Tiama con el escudo negro a la espalda y él lo vio subir al barco desde el muelle de hielo, al lado de Dalbur, y Dalbur le dijo sin mirarlo: eso no se va a poder dejar en cualquier sitio cuando él no esté.
+No decía qué cosa. Tibbet lo supo igual. Lo había sabido desde el 1030, cuando el Emperador bajó de Tiama con el escudo negro a la espalda y él lo vio subir al barco desde el muelle de hielo, al lado de Dalbur, y Dalbur le dijo sin mirarlo: *eso no se va a poder* *dejar en cualquier sitio cuando él no esté*.
 
-Y Tibbet le había contestado: ya lo sé. Me tocará a mí.
+Y Tibbet le había contestado: *ya lo sé. Me tocará a mí.*
 
 No supo por qué lo dijo. Lo dijo como dicen los gnomos las cosas que van a pasar: sin saber cómo lo saben. Era lo único que sabía hacer bien, además de sombreros. Saber cosas que todavía no habían pasado. Por eso tenía la lista.
 
-* * *
+---
 
-La lista la llevaba siempre encima. En el bolsillo de dentro del chaleco, doblada en ocho, en papel de gnomo, que no se rompe. La había empezado en el 331, en una noche de fiebre, con un título que se le ocurrió sin pensar: Cosas que no han pasado. Y había ido apuntando, en novecientos años, lo que le venía. No profecías; no las llamaba así. Cosas. Que le venían a la cabeza mientras cosía, o mientras dormía, o mientras miraba el mar, con la certeza tonta y tranquila con la que uno sabe que mañana va a llover.
+La lista la llevaba siempre encima. En el bolsillo de dentro del chaleco, doblada en ocho, en papel de gnomo, que no se rompe. La había empezado en el 331, en una noche de fiebre, con un título que se le ocurrió sin pensar: *Cosas que no han pasado*. Y había ido apuntando, en novecientos años, lo que le venía. No profecías; no las llamaba así. Cosas. Que le venían a la cabeza mientras cosía, o mientras dormía, o mientras miraba el mar, con la certeza tonta y tranquila con la que uno sabe que mañana va a llover.
 
 Algunas habían pasado. La mayoría no. Algunas las había tachado porque ya habían pasado; otras porque se había dado cuenta de que no pasarían nunca. Verawel le había pedido una copia hacía unos años, en la biblioteca; decía que quería estudiarla. Tibbet se la había dado. No le gustaba que la estudiaran. Le daba vergüenza. Era como si alguien estudiara lo que uno dice en sueños.
 
@@ -54,7 +54,7 @@ En el barco, bajando de Annkör, con el sombrero negro a medio coser, había sac
 
 No sabía qué quería decir. Lo apuntó.
 
-* * *
+---
 
 El Emperador murió tres días después.
 
@@ -84,13 +84,13 @@ No al techo. Más arriba.
 
 Y dejó de mirar.
 
-* * *
+---
 
 Nadie dijo nada durante mucho rato.
 
 Luego Eluret abrió la ventana. Como había hecho Astragal con su padre, en el 999. Entró el aire de primavera. Olía a mar y a pan.
 
-Eluret miró hacia arriba y dijo el nombre. Astragal. Para soltarlo. Le salió entero.
+Eluret miró hacia arriba y dijo el nombre. *Astragal.* Para soltarlo. Le salió entero.
 
 Y luego, más bajo, sin que nadie más lo oyera salvo Tibbet, que tenía las orejas de gnomo y estaba a su lado:
 
@@ -98,7 +98,7 @@ Y luego, más bajo, sin que nadie más lo oyera salvo Tibbet, que tenía las ore
 
 Para soltarlo también.
 
-* * *
+---
 
 Esa noche, Tibbet se llevó el escudo.
 
@@ -110,7 +110,7 @@ Tibbet se quedó mirándolo un rato. Al Emperador, no al escudo.
 
 Luego cogió el escudo.
 
-Pesaba poco. Lo que pesa un pan. Estaba tibio. Latía. Tum. Más despacio que antes. Como si estuviera triste. Tibbet no sabía si los escudos se ponen tristes. Este sí.
+Pesaba poco. Lo que pesa un pan. Estaba tibio. Latía. *Tum.* Más despacio que antes. Como si estuviera triste. Tibbet no sabía si los escudos se ponen tristes. Este sí.
 
 Lo metió en el saco grande. Se lo echó a la espalda. Le llegaba hasta las corvas.
 
@@ -118,7 +118,7 @@ Lo metió en el saco grande. Se lo echó a la espalda. Le llegaba hasta las corv
 
 Y se fue.
 
-* * *
+---
 
 Salió por las cuevas viejas de la ladera este. Las de debajo de la cárcel, las que había descubierto él mismo en el 603, cuando maese Corbel compró cuarenta casas en la ladera y cavó los sótanos demasiado hondos. Las cuevas daban a una grieta en la roca, al pie de la colina, por el lado del norte, a un sitio donde no vigilaba nadie porque no había nada que vigilar.
 
@@ -156,7 +156,7 @@ Tibbet no entendió.
 
 —No te vas a olvidar del todo. Eres demasiado pesado. —Lanther sonrió—. Tienes ciento treinta y tres sombreros. Nadie se olvida del todo con ciento treinta y tres sombreros.
 
-* * *
+---
 
 Se lo enseñó allí, en la grieta, a la luz de la luna, en voz muy baja.
 
@@ -182,13 +182,13 @@ Luego se acordó. Las manos volvieron.
 
 Tibbet lo pensó.
 
-—Gal —dijo.
+—*Gal* —dijo.
 
 Lanther se quedó quieta.
 
 Luego asintió. Y se fue. Por la grieta. Hacia arriba.
 
-* * *
+---
 
 Tardó veintidós días en llegar a la costa norte. Andando. De noche. Con el saco a la espalda.
 
@@ -198,11 +198,11 @@ Luego al de Veril, más al oeste, que tenía todavía una torre en pie y un pozo
 
 Luego al del hielo, el Fuerte Helado, en un acantilado donde el viento del norte no paraba nunca, cubierto de escarcha hasta en verano. Otra hoja.
 
-Lo hacía porque se le había ocurrido en el camino, sin saber por qué. Como se le ocurrían las cosas de la lista. Que si alguien busca, busque en cuatro. Que no sepa en cuál.
+Lo hacía porque se le había ocurrido en el camino, sin saber por qué. Como se le ocurrían las cosas de la lista. *Que si alguien busca, busque en cuatro. Que no sepa en cuál.*
 
 Y luego fue al cuarto.
 
-* * *
+---
 
 El Fuerte Abandonado estaba en la punta más al norte de Oderon, sobre un acantilado negro, encima de un mar que no tenía nombre. Lo habían levantado en el 431 y lo habían abandonado en el 440, después de un invierno en que se murieron de frío trescientos soldados, y desde entonces no había vuelto nadie. Tenía murallas de piedra gris, una torre del homenaje sin techo, unos almacenes subterráneos excavados en la roca, y una puerta de hierro que no cerraba.
 
@@ -216,27 +216,27 @@ Tibbet las miró y tuvo una idea.
 
 Era una idea tonta. De gnomo. De las que le venían cosiendo sombreros.
 
-*Si alguien entra y ve un escudo negro, sin blasón, en una sala vacía, sabe lo que es. Si alguien entra y ve un escudo negro en medio de un montón de coronas y joyas y oro, no lo mira. Mira las coronas.*
+*Si alguien entra y ve un escudo negro, sin blasón, en una sala vacía, sabe lo que es.* *Si alguien entra y ve un escudo negro en medio de un montón de coronas y joyas y oro, no* *lo mira. Mira las coronas.*
 
 Pasó los treinta años siguientes llenando el Fuerte Abandonado de coronas.
 
-* * *
+---
 
 Pero esa primera noche no. Esa primera noche solo bajó a los almacenes de la roca, al más hondo, al que tenía el techo más bajo y el aire más quieto. Sacó el escudo del saco. Lo puso en el suelo, apoyado contra la pared, como estaba en la silla del cuarto del Emperador.
 
-Latía. Tum. Despacio.
+Latía. *Tum.* Despacio.
 
 Tibbet se sentó en el suelo, delante. Con las piernas cruzadas. Con el sombrero negro en las rodillas.
 
 Se quedó mirándolo hasta el alba.
 
-Cuando salió el sol, sacó la lista. La número trescientos doce. Un escudo que no se usa en mucho tiempo. Cuatro fuertes. Uno vacío.
+Cuando salió el sol, sacó la lista. La número trescientos doce. *Un escudo que no se* *usa en mucho tiempo. Cuatro fuertes. Uno vacío.*
 
-No la tachó. Todavía no había pasado. Mucho tiempo no había pasado todavía.
+No la tachó. Todavía no había pasado. *Mucho tiempo* no había pasado todavía.
 
 Debajo, apuntó la trescientos trece. Le vino sola, como todas.
 
-*Uno con la armadura azul que se arrodillará también, por dentro, sin saberlo. Darle el escudo. Irse.*
+*Uno con la armadura azul que se arrodillará también, por dentro, sin saberlo.* *Darle el escudo. Irse.*
 
 La miró mucho rato.
 

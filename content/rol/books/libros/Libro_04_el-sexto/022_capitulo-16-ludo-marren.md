@@ -1,10 +1,10 @@
-## Capítulo 16 · Ludo Marren
+# Capítulo 16 · Ludo Marren
 
-*La posada de Joss, en Ullathorpe, y el camino del oeste. Otoño del año 1067 y otoño del 1070 de la Nueva Era (460 y 463 D.bA).*
+*La posada de Joss, en Ullathorpe, y el camino del sur. Otoño del año 1067 y otoño* *del 1070 de la Nueva Era (460 y 463 D.bA).*
 
 El hombre de gris pagaba siempre la segunda ronda, y nunca la primera.
 
-Ludo se fijó en eso la primera noche. Se fijaba en esas cosas porque era su oficio: fijarse en lo que la gente hacía sin darse cuenta, aprenderlo y devolvérselo. Había sido cómico de feria durante veinte años, en las ferias del oeste, de Ullathorpe a Nix y de Nix a las aldeas del brezo, imitando a gente. Al alcalde. Al recaudador. Al cura del templo sin dioses. Al Emperador, una vez, en Nix, con una barba de estopa y un escudo de cartón pintado de negro, y le habían tirado tomates, y había sido su mejor noche.
+Ludo se fijó en eso la primera noche. Se fijaba en esas cosas porque era su oficio: fijarse en lo que la gente hacía sin darse cuenta, aprenderlo y devolvérselo. Había sido cómico de feria durante veinte años, en las ferias del sur, de Ullathorpe a Nix y de Nix a las aldeas del brezo, imitando a gente. Al alcalde. Al recaudador. Al cura del templo sin dioses. Al Emperador, una vez, en Nix, con una barba de estopa y un escudo de cartón pintado de negro, y le habían tirado tomates, y había sido su mejor noche.
 
 Después se había dejado la feria. Se ganaba la vida de otra forma. Se presentaba en una casa como el sobrino de alguien que había muerto lejos, con los gestos del muerto aprendidos de los vecinos, y se quedaba unos meses, y luego se iba con lo que pudiera. No era un oficio bonito. Era un oficio.
 
@@ -18,7 +18,7 @@ Y hablaban. Bajo. Mucho rato.
 
 Y el que se había sentado se iba con una cara rara. No triste. No contenta. Como la de alguien que ha vendido algo que no sabía que tenía.
 
-* * *
+---
 
 La octava noche, Ludo se sentó.
 
@@ -48,7 +48,7 @@ Ludo se rio.
 
 —Es lo mismo. —El hombre de gris dejó el vaso—. Mire. Usted, por ejemplo. ¿Qué quiere usted?
 
-Ludo iba a decir dinero. Era lo que decía siempre. Lo tenía en la boca.
+Ludo iba a decir *dinero*. Era lo que decía siempre. Lo tenía en la boca.
 
 Dijo otra cosa.
 
@@ -60,11 +60,11 @@ El hombre de gris asintió. Despacio. Como quien apunta algo.
 
 —Eso sí se puede comprar —dijo.
 
-* * *
+---
 
 Le habló durante tres noches.
 
-Del Emperador muerto, que no tenía hijos. Del trono vacío. De los dos que habían ido ya a la colina con papeles y con niños, y de cómo los habían echado. De que en la colina había gente buscando la sangre de Bhargaras con una desesperación que el hombre de gris dijo que olía desde aquí. De que esa gente no quería el trono. Quería otra cosa. Quería alguien de la sangre que les diera algo.
+Del Emperador muerto, que no tenía hijos. Del trono vacío. De los dos que habían ido ya a la colina con papeles y con niños, y de cómo los habían echado. De que en la colina había gente buscando la sangre de Bhargaras con una desesperación que el hombre de gris dijo que *olía desde aquí*. De que esa gente no quería el trono. Quería otra cosa. Quería alguien de la sangre que les diera algo.
 
 —¿El qué? —preguntó Ludo.
 
@@ -74,7 +74,7 @@ Del Emperador muerto, que no tenía hijos. Del trono vacío. De los dos que hab�
 
 —Por eso. —El hombre de gris sonrió—. Nadie lo sabe. Y usted sabe imitar.
 
-* * *
+---
 
 Le enseñó tres cosas.
 
@@ -116,7 +116,7 @@ Ludo se quedó parado. No le había oído decir eso nunca.
 
 Y le enseñó cómo.
 
-Le enseñó la barbilla un poco levantada. Los ojos quietos. La boca entreabierta. Las manos en las rodillas. Le enseñó durante una noche entera, en la posada vacía, con la vela, como un maestro de baile. Más arriba. No tanto. Los ojos más quietos. No sonría. Ellos no sonríen.
+Le enseñó la barbilla un poco levantada. Los ojos quietos. La boca entreabierta. Las manos en las rodillas. Le enseñó durante una noche entera, en la posada vacía, con la vela, como un maestro de baile. *Más arriba. No tanto. Los ojos más quietos. No sonría. Ellos no* *sonríen.*
 
 Ludo lo aprendió. Era su oficio.
 
@@ -126,7 +126,7 @@ Cuando lo tuvo, el hombre de gris se quedó mirándolo mucho rato.
 
 Y Ludo creyó notar en su voz algo que no supo qué era. Que en otro habría sido envidia.
 
-* * *
+---
 
 —¿Y usted qué gana? —le preguntó Ludo la última noche.
 
@@ -150,11 +150,11 @@ Ludo no volvió a verlo en la posada. Fue a la colina en invierno. Se sentó en 
 
 Le creyeron.
 
-* * *
+---
 
 Volvió a verlo tres años después.
 
-En el camino del oeste, en otoño, a medio día de Ullathorpe, volviendo de la colina. Ludo iba andando con la bolsa a la espalda y el pulgar todavía con la cicatriz del corte, y el hombre de gris estaba sentado en una piedra al lado del camino, en un sitio donde no había ninguna piedra la última vez que Ludo pasó por allí.
+En el camino del sur, en otoño, a medio día de Ullathorpe, volviendo de la colina. Ludo iba andando con la bolsa a la espalda y el pulgar todavía con la cicatriz del corte, y el hombre de gris estaba sentado en una piedra al lado del camino, en un sitio donde no había ninguna piedra la última vez que Ludo pasó por allí.
 
 —Le han creído —dijo el hombre de gris.
 
@@ -188,7 +188,7 @@ El hombre de gris no contestó. Se miró las manos, que eran grises también, la
 
 —Por eso. —El hombre de gris se levantó de la piedra—. A nadie se le ocurre. Es lo bueno de lo que quiere la gente. Lo quieren tanto que no preguntan qué cuesta.
 
-* * *
+---
 
 Ludo le dio un puñetazo.
 
@@ -212,7 +212,7 @@ Se fue por el camino. Hacia el oeste. Hacia donde se pone el sol.
 
 Ludo lo vio irse hasta que la figura gris se confundió con el atardecer y dejó de saber si la estaba viendo o no.
 
-* * *
+---
 
 Ludo Marren no volvió a la feria. No volvió a imitar a nadie.
 

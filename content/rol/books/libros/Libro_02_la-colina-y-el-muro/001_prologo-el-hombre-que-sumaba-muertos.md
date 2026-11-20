@@ -1,4 +1,4 @@
-## Prólogo · El hombre que sumaba muertos
+# Prólogo · El hombre que sumaba muertos
 
 *Concordia. Año 26 de la Nueva Era (438 del Primer Imperio).*
 
@@ -22,7 +22,7 @@ Era una pregunta que le había quitado el sueño durante años: si un muerto que
 
 Así consta, pensaba. Que conste.
 
-* * *
+---
 
 La Torre de la Unión seguía en pie.
 
@@ -38,7 +38,7 @@ Los muertos que había dentro estaban en paz. Eso lo había entendido Casimir co
 
 Luego bajaba. Mil cuatrocientos escalones de la Torre más los ciento doce de la cripta: los contaba todos. A los sesenta y ocho años, era lo más parecido que tenía a un paseo.
 
-* * *
+---
 
 Lo llamaban emperador.
 
@@ -60,7 +60,7 @@ Seiscientos. Casimir los había contado desde la terraza de la Torre, mientras h
 
 Casimir lo había anotado. Quinientos setenta y tres. Siempre le había gustado ese número. Era impar, era primo, no se dejaba dividir por nada. Como un hombre testarudo.
 
-* * *
+---
 
 Los muertos le traían pan.
 
@@ -76,7 +76,7 @@ Casimir le hablaba más a Brida que a nadie. Le contaba cosas de la ciudad. De l
 
 Sobre todo, en los últimos años, de los barcos.
 
-* * *
+---
 
 Eran seiscientos.
 
@@ -100,11 +100,11 @@ Pero un barco calafateado con Sal Negra, la sal que no suelta sino que ata, pod�
 
 Y Loth iba a cruzar deprisa.
 
-* * *
+---
 
 Casimir no lo veía mucho.
 
-Loth iba y venía. Pasaba temporadas en Eufesia, al sur, en el desierto, junto al pozo; temporadas en los bosques de Tiber, mirando cómo caían los árboles; temporadas en Puerto Salobre, de pie en el borde del acantilado, mirando el mar. A Concordia venía poco. Cuando venía, subía a la Torre, se quedaba mirando la Llama gris con una expresión que Casimir no sabía leer, y luego bajaba al salón del trono y se sentaba en el primer escalón del estrado, a los pies de Casimir, como un huésped educado que no quiere molestar.
+Loth iba y venía. Pasaba temporadas en Eufesia, al noreste, en el desierto, junto al pozo; temporadas en los bosques de Tiber, mirando cómo caían los árboles; temporadas en Puerto Salobre, de pie en el borde del acantilado, mirando el mar. A Concordia venía poco. Cuando venía, subía a la Torre, se quedaba mirando la Llama gris con una expresión que Casimir no sabía leer, y luego bajaba al salón del trono y se sentaba en el primer escalón del estrado, a los pies de Casimir, como un huésped educado que no quiere molestar.
 
 Siempre iba con ella. La mujer del velo. Seren. Casimir conocía su nombre porque Loth se lo había dicho una vez, sin que él preguntara, con una ternura que le había puesto la piel de gallina. Ella se quedaba de pie detrás de Loth, inmóvil, con las manos a los lados del cuerpo, y el velo gris le caía sobre la cara hasta el pecho. No se movía. No hablaba. Pero Casimir, que tenía el oficio de mirar a la gente en las audiencias y adivinar lo que quería antes de que lo pidiera, había aprendido a notar cuándo ella estaba mirando algo. Había algo en la caída del velo. Un temblor.
 
@@ -154,7 +154,7 @@ En treinta años de chancillería, Casimir había visto muchas promesas. Nunca h
 
 No dijo nada. Lo anotó.
 
-* * *
+---
 
 Al año veintiséis, en el último día del otoño, Loth volvió de Puerto Salobre y subió la escalinata del palacio sin detenerse, como no lo había hecho nunca.
 
@@ -200,7 +200,7 @@ Se volvió para irse. Seren se volvió con él, un instante más tarde, como sie
 
 —No por mucho —dijo, sin girarse.
 
-* * *
+---
 
 Casimir no durmió aquella noche.
 
@@ -218,19 +218,19 @@ Dejó el farol en el suelo. Sacó del bolsillo un cardo nuevo, uno que había co
 
 —Dos —dijo—. Que conste.
 
-* * *
+---
 
 Zarparon con la luna nueva.
 
-Casimir subió a la Penitente, que era el nombre que él le había puesto en secreto a la nave capitana, porque las naves de los muertos no tenían nombre y a él le parecía una falta de educación. Era la más grande de la flota. Tenía tres palos y una bodega honda como un pozo, sellada con brea y Sal Negra. Arriba, en cubierta, Loth había dejado un espacio libre junto al castillo de popa, con un toldo de lona y un catre de campaña y un brasero de sal común, de la blanca, de la que se usaba para frenar la niebla. Para él. Para el único vivo.
+Casimir subió a la *Penitente*, que era el nombre que él le había puesto en secreto a la nave capitana, porque las naves de los muertos no tenían nombre y a él le parecía una falta de educación. Era la más grande de la flota. Tenía tres palos y una bodega honda como un pozo, sellada con brea y Sal Negra. Arriba, en cubierta, Loth había dejado un espacio libre junto al castillo de popa, con un toldo de lona y un catre de campaña y un brasero de sal común, de la blanca, de la que se usaba para frenar la niebla. Para él. Para el único vivo.
 
-Casimir se sentó en el catre. Puso el libro de cuentas sobre las rodillas. El quinto tomo; los otros cuatro los había dejado en el trono de roble negro, con una nota encima: Para quien venga después. Están todos. Casimir Vell, canciller.
+Casimir se sentó en el catre. Puso el libro de cuentas sobre las rodillas. El quinto tomo; los otros cuatro los había dejado en el trono de roble negro, con una nota encima: *Para quien venga después. Están todos. Casimir Vell, canciller.*
 
 Seiscientas quillas negras soltaron amarras al mismo tiempo, sin una orden, sin un grito, sin un solo ruido salvo el crujido de la madera y el golpe del agua contra los cascos. Los muertos subían a los barcos en hileras ordenadas, por las pasarelas, como corderos. Ocupaban las cubiertas, las bodegas, los entrepuentes. Se quedaban de pie, apretados, hombro contra hombro, con los ojos blancos abiertos o cerrados, mirando al frente. No había espacio entre ellos para un alfiler.
 
 Casimir intentó contarlos. Al cabo de una hora tuvo que dejarlo.
 
-Las velas negras se hincharon con un viento que no venía de ninguna parte. La niebla subía por los cascos como hiedra. Y el mar, el Mar de la Penuria Eterna, el mar que ningún muerto había cruzado nunca, se abrió delante de las proas con un ruido sordo, como una boca que bosteza.
+Las velas negras se hincharon con un viento que no venía de ninguna parte. La niebla subía por los cascos como hiedra. Y el mar, el Mar de la Eterna Penuria, el mar que ningún muerto había cruzado nunca, se abrió delante de las proas con un ruido sordo, como una boca que bosteza.
 
 Casimir se mareó a las tres horas. Vomitó por la borda el pan de Brida.
 
@@ -242,7 +242,7 @@ El velo tembló otra vez. Casimir no supo si aquello era una risa o una pena. Ta
 
 Abrió el libro. Mojó la pluma en el tintero que llevaba colgado del cuello. Y escribió, con su letra de chancillería, la primera línea del quinto tomo:
 
-*Año 26 de la Nueva Era. Último día del otoño. Zarpamos. Seiscientos barcos. Un vivo. Rumbo: el este, donde sale el sol, que ellos no han visto nunca. Que conste.*
+*Año 26 de la Nueva Era. Último día del otoño. Zarpamos. Seiscientos barcos. Un* *vivo. Rumbo: el sur, hacia el sol, que ellos no han visto nunca. Que conste.*
 
 Luego, debajo, más pequeño, por si alguien lo leía algún día:
 

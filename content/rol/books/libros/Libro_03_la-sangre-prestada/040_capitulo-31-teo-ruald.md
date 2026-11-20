@@ -1,6 +1,6 @@
-## Capítulo 31 · Teo Ruald
+# Capítulo 31 · Teo Ruald
 
-*La panadería de la calle del Horno, Banderbill. Otoño del año 663 de la Nueva Era (56 D.bA).*
+*La panadería de la calle del Horno, Banderbill. Otoño del año 663 de la Nueva* *Era (56 D.bA).*
 
 La masa madre tenía seiscientos cincuenta y siete años y se llamaba Ugo, y Teo Ruald era la única persona viva que sabía por qué.
 
@@ -12,7 +12,7 @@ Un puñado de harina. Un chorro de agua. Una vuelta con la mano. Doscientas cuar
 
 Esa tampoco. Esa menos.
 
-* * *
+---
 
 A las tres de la madrugada, la calle del Horno estaba a oscuras. La panadería no.
 
@@ -28,17 +28,17 @@ Lo encontraban hecho. Siempre.
 
 Y nadie preguntaba. Porque en la casa de los Ruald, desde hacía seiscientos años, había un tío que amasaba de noche.
 
-* * *
+---
 
 Se llamaba Teo. Todos se llamaban Teo. Era la costumbre.
 
-Eso era lo que sabían los Ruald. Lo que se decían de padres a hijos, sin pensarlo mucho, como se dice que en una casa se cena a las ocho o que el perro duerme en la cocina. En esta casa siempre hay un tío Teo. Amasa de noche. No se casa. No sale. No se le molesta. Cuando se hace viejo, viene otro.
+Eso era lo que sabían los Ruald. Lo que se decían de padres a hijos, sin pensarlo mucho, como se dice que en una casa se cena a las ocho o que el perro duerme en la cocina. *En esta casa siempre hay un tío Teo. Amasa de noche. No se casa. No sale. No se* *le molesta. Cuando se hace viejo, viene otro.*
 
 Nadie había visto llegar a otro.
 
 Nadie se había dado cuenta.
 
-Era muy fácil, había descubierto Teo, que no se dieran cuenta. La gente no mira a los que trabajan de noche. Y no mira a los tíos solteros. Y la cara de un hombre de sesenta años con harina en las cejas, en una cocina oscura, a las tres de la madrugada, es la cara de cualquier hombre de sesenta años. Cada treinta años, más o menos, Teo se iba. Un invierno. Decía que se iba a Nix, a ver a un primo. Volvía en primavera con una barba distinta, y otro corte de pelo, y decía que era el sobrino del tío Teo, que el tío se había quedado en Nix, que estaba mayor. Y los niños de la casa, que ya eran mayores, decían ah. Y los niños nuevos no lo habían visto nunca de otra manera.
+Era muy fácil, había descubierto Teo, que no se dieran cuenta. La gente no mira a los que trabajan de noche. Y no mira a los tíos solteros. Y la cara de un hombre de sesenta años con harina en las cejas, en una cocina oscura, a las tres de la madrugada, es la cara de cualquier hombre de sesenta años. Cada treinta años, más o menos, Teo se iba. Un invierno. Decía que se iba a Nix, a ver a un primo. Volvía en primavera con una barba distinta, y otro corte de pelo, y decía que era el sobrino del tío Teo, que el tío se había quedado en Nix, que estaba mayor. Y los niños de la casa, que ya eran mayores, decían *ah*. Y los niños nuevos no lo habían visto nunca de otra manera.
 
 Veinte veces lo había hecho. Veinte tíos Teo.
 
@@ -46,7 +46,7 @@ Los Ruald le querían. Eso era lo raro. Le dejaban el mejor sitio junto al fuego
 
 Los niños creían que se los inventaba.
 
-* * *
+---
 
 Esa noche, a las tres y cuarto, llamaron a la puerta de atrás.
 
@@ -60,7 +60,7 @@ Un hombre con gafas. Con un libro debajo del brazo. Con una cara de hombre de tr
 
 Sein.
 
-* * *
+---
 
 Se miraron.
 
@@ -78,7 +78,7 @@ Ahora sí.
 
 Teo se apartó.
 
-* * *
+---
 
 Sein no se sentó. Se quedó de pie en medio de la cocina. Mirando. La artesa. El horno. La tinaja de Ugo en el rincón, con la tapa de madera y el trapo encima. Los estantes con el pan de la primera hornada.
 
@@ -104,7 +104,7 @@ Teo tardó en contestar.
 
 —A los que no pueden pagar —dijo—. A la cárcel, los domingos. A los de la calle de los Cubos en invierno. A los orcos de las lomas, cuando la cosecha es mala. —Se encogió de hombros—. Y una hogaza. Los martes. A la biblioteca. En la ventana de la habitación de atrás. La de la maceta.
 
-* * *
+---
 
 Sein se quitó las gafas.
 
@@ -118,7 +118,7 @@ Las limpió. Despacio. Con el pañuelo. Como hacía siempre que necesitaba no mi
 
 —Para nadie —dijo Teo—. La dejo yo. Para ella. Los martes amasaba conmigo. Cuando era reina. Después del río. —Se miró las manos—. Le salía fatal. El centeno, sobre todo. Nos reíamos.
 
-* * *
+---
 
 Sein no dijo nada en mucho rato.
 
@@ -138,7 +138,7 @@ Teo levantó la vista.
 
 —¿Lo apuntaste?
 
-—En el libro. Esa noche. En una página aparte. —Sein abrió el libro otra vez. No por la página de la harina. Por otra. Muy atrás. Con el papel amarillo, casi marrón. La buscó sin mirar; sabía dónde estaba—. Año 38. La reina y el panadero.
+—En el libro. Esa noche. En una página aparte. —Sein abrió el libro otra vez. No por la página de la harina. Por otra. Muy atrás. Con el papel amarillo, casi marrón. La buscó sin mirar; sabía dónde estaba—. *Año 38. La reina y el panadero.*
 
 Le dio la vuelta al libro. Para que Teo lo viera.
 
@@ -152,7 +152,7 @@ Teo miró la raya.
 
 —Por eso no lo vi. —Sein cerró el libro—. Lo tenía tachado. Y lo que se tacha, no se ve. Llevo seiscientos años sin verte, Teo Ruald. Comprándote el pan. Saludándote en la calle. Llevándome la hogaza de los martes a la mesa del fondo y comiéndomela yo, porque ella no se la comía, y pensando que era de ella.
 
-* * *
+---
 
 —Te la comías tú —dijo Teo.
 
@@ -168,7 +168,7 @@ No lo esperaba. Se le escapó. Una risa grande, de pecho, de panadero, que no le
 
 —Esos años amasaba ella —dijo—. Venía. Algunas noches. Todavía viene. Y le sale fatal.
 
-* * *
+---
 
 —¿Desde cuándo? —dijo Sein—. La ofrenda.
 
@@ -182,7 +182,7 @@ Sein no dijo nada.
 
 —Tenía veintiún años —siguió Teo—. Era rey desde hacía cinco. Vino una noche. Aquí. Como tú. Por la puerta de atrás. Se sentó en ese saco. Le había leído a la reina, a su madre, lo de la ofrenda. Lo del cofre. Sabía que su madre se la había dado a uno. Que tenía la suya. Que no sabía a quién darla.
 
-—A quien yo sé —dijo Sein. Bajo—. Lo tengo apuntado. La línea de Amael. En el haber. Una vida. La mía. A quien yo sé. Desde el 107. La encontré cuando se murió. No sabía qué quería decir.
+—*A quien yo sé* —dijo Sein. Bajo—. Lo tengo apuntado. La línea de Amael. En el haber. *Una vida. La mía. A quien yo sé.* Desde el 107. La encontré cuando se murió. No sabía qué quería decir.
 
 —Quería decir a su padre. —Teo sacó la mano de la tinaja. Se la miró. Tenía masa entre los dedos—. Me dijo que no quería que su madre se quedara sola. Que ella iba a vivir siempre, y que él no, y que su abuela tampoco, ni su tío, ni nadie. Que alguien tenía que quedarse. Alguien que no fuera de la Orden. Que no supiera de jarras ni de sal ni de lo que dormía. Alguien que le hiciera pan.
 
@@ -190,7 +190,7 @@ Se le quebró la voz.
 
 —Tenía veintiún años —dijo—. Y yo sesenta. Y le dije que no. Que era una tontería. Que un panadero no necesita vivir siempre. —Se secó los ojos con el dorso de la muñeca, que era la única parte de la mano que no tenía masa—. Y me puso la mano en la boca. Y me sopló en la cara. Y dijo mi nombre. Antes de que pudiera apartarme.
 
-* * *
+---
 
 Sein se sentó. En el saco de harina. El mismo.
 
@@ -210,7 +210,7 @@ Hundió los brazos en la masa.
 
 —Me lo compra. Todas las mañanas. Lo sube un chico de la casa. —Teo sonrió, sin alegría—. Le gusta el de nueces.
 
-* * *
+---
 
 Lanther llegó a las cuatro.
 
@@ -236,7 +236,7 @@ Lanther no dejó de amasar.
 
 —Porque lo tachaste —dijo—. Esa noche. Te vi desde la artesa. Te vi apuntar y te vi tachar. —Le salía mal el centeno; se le pegaba—. Y pensé que si tú lo habías tachado, era porque no querías saberlo. Y que eso era un regalo. El único que me hiciste nunca sin apuntarlo.
 
-* * *
+---
 
 Sein se quedó en el saco hasta el alba.
 
@@ -256,7 +256,7 @@ No preguntó. En la casa de los Ruald no se preguntaba al tío Teo.
 
 —Ya está —dijo Teo.
 
-* * *
+---
 
 Cuando Sein se fue, con el sol saliendo, Teo lo acompañó a la puerta de atrás.
 
@@ -282,7 +282,7 @@ Teo lo leyó. Asintió.
 
 —Sein —dijo Sein—. Seiscientos años comiéndome tu pan. Sein.
 
-* * *
+---
 
 Esa mañana, en la biblioteca, en la ventana de la habitación de atrás, había una hogaza. Redonda. De centeno. Con una cruz cortada encima.
 

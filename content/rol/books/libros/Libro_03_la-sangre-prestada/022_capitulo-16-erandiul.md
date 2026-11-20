@@ -1,6 +1,6 @@
-## Capítulo 16 · Érandiul
+# Capítulo 16 · Érandiul
 
-*El bosque del norte y la sala del Consejo de Banderbill. Otoño del año 605 y primavera del 606 de la Nueva Era (2 y 1 A.bA).*
+*El bosque del norte y la sala del Consejo de Banderbill. Otoño del año 605 y* *primavera del 606 de la Nueva Era (2 y 1 A.bA).*
 
 Los robles viejos del bosque del norte estaban a dos jornadas de la colina, y Érandiul tardó cinco, porque tenía setecientos cuarenta y ocho años, una mano cerrada y ninguna prisa por llegar a donde iba.
 
@@ -16,7 +16,7 @@ No había vuelto en doscientos cinco años.
 
 Le daba envidia. Por eso no había vuelto.
 
-* * *
+---
 
 El roble estaba en un claro. Era el más grande del bosque, el más viejo, con el tronco tan ancho que hacían falta seis elfos con los brazos abiertos para rodearlo, y la copa tan alta que tapaba el cielo del claro entero. En otoño, como ahora, las hojas se ponían de color de cobre, y caían despacio, y cubrían el suelo del claro de un tapiz que crujía.
 
@@ -30,7 +30,7 @@ O lo que quedaba de Verawel. Una forma. En la corteza. Como cuando en un tronco 
 
 No contestó nadie. Una hoja de cobre cayó despacio entre los dos.
 
-* * *
+---
 
 Estuvo allí tres días.
 
@@ -38,7 +38,7 @@ No hizo nada. Se sentó. Comió pan y queso. Bebió de un arroyo que pasaba por 
 
 Le habló. Por las noches. En élfico del bosque, la lengua de su madre, no la de Tawarsinan.
 
-Le contó la colina. Los últimos doscientos años. Los emperadores, uno a uno. El temblor. Nix. Tawarsinan. La Armada. El diario, que había dejado en la estantería. La mano. La izquierda. La pizarra. Todavía no. La aguja. El mapa en la pared del Emperador. El hombre rico que lo hizo gratis.
+Le contó la colina. Los últimos doscientos años. Los emperadores, uno a uno. El temblor. Nix. Tawarsinan. La Armada. El diario, que había dejado en la estantería. La mano. La izquierda. La pizarra. *Todavía no.* La aguja. El mapa en la pared del Emperador. El hombre rico que lo hizo gratis.
 
 Le contó que iba a haber una guerra.
 
@@ -56,7 +56,7 @@ Silencio.
 
 —Pero voy a ir. Porque alguien tiene que verlo. Y apuntarlo. Y luego decir que lo vio.
 
-* * *
+---
 
 La tercera noche, Érandiul se despertó con frío.
 
@@ -78,7 +78,7 @@ Los labios de corteza no se movieron. Pero se oyó algo. No una voz. Un crujido.
 
 *Vuelve con el diario.*
 
-* * *
+---
 
 Eso fue todo. Los ojos se cerraron. La corteza volvió a ser corteza. Al alba, Érandiul no habría sabido decir si lo había soñado.
 
@@ -94,7 +94,7 @@ Como cuando un árbol empieza a abrirse para soltar algo.
 
 Y se fue.
 
-* * *
+---
 
 La primavera del 606 llegó pronto, como llegaban ahora todas, con el brezo en flor un mes antes.
 
@@ -108,7 +108,7 @@ Había miedo. Mucho. Se olía en las calles, se oía en las tabernas. Pero habí
 
 Prisa.
 
-* * *
+---
 
 La víspera de la marcha, por la noche, Érandiul bajó a la sala del Consejo.
 
@@ -122,9 +122,9 @@ El cuchillo de Gorm. El mapa de Ada Vell. El sombrero.
 
 Érandiul se acercó.
 
-* * *
+---
 
-Lo había dejado en la mesa de la biblioteca, en el 417. No en la pared. En la mesa. Que se lo ponga el que lea. Lo había colgado allí Aren Vell a la mañana siguiente, porque no sabía qué hacer con él, y desde entonces estaba allí.
+Lo había dejado en la mesa de la biblioteca, en el 417. No en la pared. En la mesa. *Que se lo ponga el que lea.* Lo había colgado allí Aren Vell a la mañana siguiente, porque no sabía qué hacer con él, y desde entonces estaba allí.
 
 Ciento ochenta y nueve años.
 
@@ -142,7 +142,7 @@ Y se lo puso.
 
 Del todo.
 
-* * *
+---
 
 Le quedaba bien. Le sorprendió. Pensaba que se le habría quedado pequeño, o grande, que la cabeza le habría cambiado, que el fieltro se habría encogido. Pero le quedaba exactamente igual que el día que su madre se lo hizo, en la cabaña de troncos del bosque, para su primer viaje solo.
 
@@ -162,7 +162,7 @@ No dijo nada. Hizo una cosa que Érandiul no había visto hacer a ningún Bharga
 
 Se inclinó.
 
-* * *
+---
 
 —¿Viene? —dijo el Emperador, al enderezarse.
 
@@ -188,11 +188,11 @@ El Emperador asintió. Miró la pared, donde estaba el clavo vacío. Luego miró
 
 —Porque ya ha pasado.
 
-* * *
+---
 
 Salieron al alba.
 
-Doce mil cuatrocientos soldados por la puerta sur. La de los carros. En columna, de cuatro en fondo, con el Emperador delante, a caballo, con el aro de hierro, por primera vez en su vida, fuera de la funda: puesto. En la cabeza. Solo. Sin la corona de once libras. Libra y media de hierro de un ancla vieja, con Más que a mis ojos grabado por dentro, que le quedaba un poco grande y que le bailaba cuando el caballo trotaba.
+Doce mil cuatrocientos soldados por la puerta sur. La de los carros. En columna, de cuatro en fondo, con el Emperador delante, a caballo, con el aro de hierro, por primera vez en su vida, fuera de la funda: puesto. En la cabeza. Solo. Sin la corona de once libras. Libra y media de hierro de un ancla vieja, con *Más que a mis ojos* grabado por dentro, que le quedaba un poco grande y que le bailaba cuando el caballo trotaba.
 
 Detrás de él, Joss Hask, capitán general, sonriendo. Brena Hask, capitana de la Primera Compañía, con la espada de su padre. Las compañías. Los enanos con los picos. Los gnomos con las lámparas, tapadas con capuchones de fieltro. Los carros. Las máquinas.
 
@@ -206,13 +206,13 @@ Y los niños, que no sabían quiénes eran, se rieron del sombrero del gnomo.
 
 Y nadie se rio del otro.
 
-* * *
+---
 
-En la tercera almena desde la torre del suroeste, una muchacha pelirroja de dieciocho años miraba la columna salir.
+En la tercera almena desde la torre del noreste, una muchacha pelirroja de dieciocho años miraba la columna salir.
 
 No iba con ellos.
 
-No todavía. Iría después. Llegaría tarde, como siempre. Pero esa mañana se quedó en la muralla, viendo la columna serpentear entre las lomas hacia el suroeste, hacia la aguja, que a esa hora no se veía.
+No todavía. Iría después. Llegaría tarde, como siempre. Pero esa mañana se quedó en la muralla, viendo la columna serpentear entre las lomas hacia el noreste, hacia la aguja, que a esa hora no se veía.
 
 Cuando el carro amarillo de los gnomos pasó por debajo de la almena, el último, el elfo del sombrero levantó la cabeza.
 

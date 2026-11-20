@@ -1,4 +1,4 @@
-## Capítulo 59 · Maximus
+# Capítulo 59 · Maximus
 
 *Concordia. Año 256.*
 
@@ -28,11 +28,11 @@ Hale se removió en el banco.
 
 —Eso decís vos. —Hale miró al viejo—. Yo no lo sé. Nadie lo sabe. Ese es el problema.
 
-* * *
+---
 
 Maximus pensó en ello toda la tarde.
 
-Lo pensó en su despacho, con los informes de la frontera extendidos sobre la mesa. Lo pensó en el patio de armas, viendo entrenar a la Primera Legión con las ballestas de repetición que sus ingenieros habían terminado aquel invierno. Lo pensó subiendo la escalera de la torre, como hacía cada atardecer, hasta la cámara de cristal donde ardía la Llama Concorde, para mirar hacia el noroeste.
+Lo pensó en su despacho, con los informes de la frontera extendidos sobre la mesa. Lo pensó en el patio de armas, viendo entrenar a la Primera Legión con las ballestas de repetición que sus ingenieros habían terminado aquel invierno. Lo pensó subiendo la escalera de la torre, como hacía cada atardecer, hasta la cámara de cristal donde ardía la Llama Concorde, para mirar hacia el noreste.
 
 La mancha gris de Eufesia seguía allí. Inmóvil. Paciente.
 
@@ -46,7 +46,7 @@ Maximus no necesitaba que los eufesios fueran traidores. Necesitaba que no pudie
 
 Era una cuenta fea. Lo sabía. Pero era la cuenta.
 
-* * *
+---
 
 Su madre lo mandó llamar esa noche.
 
@@ -82,7 +82,7 @@ Octavia lo miró durante mucho tiempo con aquellos ojos grises que eran los suyo
 
 —Yo tampoco.
 
-* * *
+---
 
 Se quedaron en silencio un rato. Fuera, en el jardín, cantaba un grillo.
 
@@ -98,7 +98,7 @@ Lo sacó. Lo sostuvo a la luz de la vela. Se quedó quieto.
 
 No se volvió. No la miró. Siguió mirando el frasco a la luz de la vela.
 
-Podía preguntarlo. Lo había pensado siete años antes, en aquella misma casa, junto a aquella misma ventana, y había decidido no hacerlo. Nada, madre. No quiero que me digas nada. Y ella había sonreído, y había vuelto a su bordado, y no le había dicho nada, y él había ido a gobernar.
+*Podía preguntarlo.* Lo había pensado siete años antes, en aquella misma casa, junto a aquella misma ventana, y había decidido no hacerlo. *Nada, madre. No quiero que me* *digas nada.* Y ella había sonreído, y había vuelto a su bordado, y no le había dicho nada, y él había ido a gobernar.
 
 Ahora estaba vacío. Igual que entonces. Igual que siempre, según la familia.
 
@@ -118,7 +118,7 @@ Maximus guardó el frasco en el bolsillo de la capa.
 
 No lo tiró al río. No lo tiró nunca. Lo encontraron cuarenta y tres años después, en el bolsillo de esa misma capa, en las colinas de Askel, junto a su cuerpo.
 
-* * *
+---
 
 —Hay otra cosa —dijo Octavia, cuando él volvió a sentarse.
 
@@ -152,7 +152,7 @@ Maximus no contestó.
 
 Octavia Heredicus murió al amanecer, con la mano de su hijo entre las suyas. Nadie más lo supo, pero murió tranquila. Lo último que dijo, ya medio dormida, fue algo sobre una niña de ojos grises que cantaba en la cocina.
 
-* * *
+---
 
 Esa mañana, a la hora en que vencía el plazo, los once Custodios eufesios salieron de Concordia por la Puerta de los Juramentos, con los trapos grises cosidos en las mangas, a pie, con sus libros a la espalda. Jorund Vane los acompañó hasta el río. Volvió solo.
 
@@ -162,7 +162,7 @@ Pensaba en una cuenta.
 
 Once Custodios menos. Cuatro mil muertos soltados en la guerra del Vencedor. Una criada eufesia que había cantado en una cocina y que había oído, quizá, por la rendija de una puerta, un nombre que no significaba nada. Una criada que se había ido con un trapo gris cosido en la ropa tres años antes, por una ley que él había firmado.
 
-Allí no saben nada de las fortalezas, le había dicho a su madre.
+*Allí no saben nada de las fortalezas*, le había dicho a su madre.
 
 Pero allí sabían su nombre. O podían saberlo.
 

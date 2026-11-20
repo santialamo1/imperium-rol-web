@@ -1,21 +1,21 @@
 {
   "metadatos": {
     "titulo": "Cronología histórica oficial de ImperiumAO — Archivo de Rol",
-    "version": "borrador-1-revision",
-    "fechaCompilacion": "2026-11-17",
+    "version": "2.0-pdfs-oficiales-2026-11-20",
+    "fechaCompilacion": "2026-11-20",
     "estado": "pendiente_de_revision_editorial",
-    "corteHistorico": "Final del Libro IV: otoño de 1439 de la Nueva Era. El Libro V se revisó solo para delimitar el corte, sin anticipar su secuencia posterior.",
-    "calendarios": "Los años 1–412 del Primer Imperio son anteriores al año 1 de la Nueva Era. A partir de la batalla de Arghâl (607 de la Nueva Era) existe también el cómputo D.bA.",
+    "corteHistorico": "Hasta el cierre del Libro IV (otoño de 1439, convocatoria de Fausto a tomar las armas). No incluye la batalla de Ullathorpe ni el atentado del 18 de noviembre de 1439, porque no son hechos publicados aún en la línea jugable.",
+    "calendarios": "Los años 1–412 del Primer Imperio preceden al año 0 y al año 1 de la Nueva Era. El año 607 de la Nueva Era corresponde a la batalla de Arghâl y al origen del cómputo D.bA.",
     "fuentesPermitidas": [
-      "Emperadores de la Ceniza, Libro I: La Torre y la Bruma",
-      "Emperadores de la Ceniza, Libro II: La Colina y el Muro",
-      "Emperadores de la Ceniza, Libro III: La Sangre Prestada",
-      "Emperadores de la Ceniza, Libro IV: El Sexto",
-      "Emperadores de la Ceniza, Libro V: La bruma que vuelve (solo para verificar el límite de 1439)"
+      "Emperadores de la Ceniza, Libro I: La Torre y la Bruma (PDF oficial 799 páginas)",
+      "Emperadores de la Ceniza, Libro II: La Colina y el Muro (PDF oficial 900 páginas)",
+      "Emperadores de la Ceniza, Libro III: La Sangre Prestada (PDF oficial 891 páginas)",
+      "Emperadores de la Ceniza, Libro IV: El Sexto (PDF oficial 866 páginas)",
+      "Emperadores de la Ceniza, Libro V: La bruma que vuelve (PDF oficial 892 páginas; cotejado para delimitar el corte, no se anticipan hechos futuros)"
     ],
-    "origenArchivos": "Libro_01_Completo.md a Libro_05_Completo.md, versiones del lector del Archivo de Rol",
-    "criterioFuentes": "Referencias a capítulos o apéndices de los libros oficiales; el antiguo Diario independiente no se consultó. Páginas nulas porque las versiones Markdown no conservan una paginación PDF inequívoca.",
-    "totalEventos": 57
+    "origenArchivos": "Emperadores_de_la_Ceniza_Libro1(1).pdf, Libro2(1).pdf, Libro3(1).pdf, Libro4(1).pdf y Libro5(2).pdf, recibidos 2026-11-20",
+    "criterioFuentes": "Cronologías incluidas como apéndices de los PDF oficiales, cotejadas con su texto; cada fuente señala la página PDF actual y el libro. No se consultó como fuente el diario independiente de Érandiul. Las entradas narrativas de diario insertas dentro de los libros forman parte del texto canónico.",
+    "totalEventos": 89
   },
   "acontecimientosHistoricos": [
     {
@@ -42,13 +42,8 @@
       "fuentes": [
         {
           "libro": "I",
-          "capitulo": "Apéndice: Cronología del Primer Imperio — Año 1",
-          "pagina": null
-        },
-        {
-          "libro": "I",
-          "capitulo": "Capítulo 1 · Lucius",
-          "pagina": null
+          "capitulo": "Apéndice: Cronología del Primer Imperio",
+          "pagina": 783
         }
       ]
     },
@@ -75,8 +70,8 @@
       "fuentes": [
         {
           "libro": "I",
-          "capitulo": "Apéndice: Cronología del Primer Imperio — Años 3–19",
-          "pagina": null
+          "capitulo": "Apéndice: Cronología del Primer Imperio",
+          "pagina": 783
         }
       ]
     },
@@ -105,18 +100,8 @@
       "fuentes": [
         {
           "libro": "I",
-          "capitulo": "Apéndice: Cronología del Primer Imperio — Año 26",
-          "pagina": null
-        },
-        {
-          "libro": "I",
-          "capitulo": "Capítulo 4 · Varo",
-          "pagina": null
-        },
-        {
-          "libro": "I",
-          "capitulo": "Capítulo 5 · Tullo",
-          "pagina": null
+          "capitulo": "Apéndice: Cronología del Primer Imperio",
+          "pagina": 783
         }
       ]
     },
@@ -145,8 +130,8 @@
       "fuentes": [
         {
           "libro": "I",
-          "capitulo": "Apéndice: Cronología del Primer Imperio — Año 35",
-          "pagina": null
+          "capitulo": "Apéndice: Cronología del Primer Imperio",
+          "pagina": 783
         }
       ]
     },
@@ -175,8 +160,8 @@
       "fuentes": [
         {
           "libro": "I",
-          "capitulo": "Apéndice: Cronología del Primer Imperio — Año 59",
-          "pagina": null
+          "capitulo": "Apéndice: Cronología del Primer Imperio",
+          "pagina": 783
         }
       ]
     },
@@ -204,13 +189,8 @@
       "fuentes": [
         {
           "libro": "I",
-          "capitulo": "Apéndice: Cronología del Primer Imperio — Año 72",
-          "pagina": null
-        },
-        {
-          "libro": "I",
-          "capitulo": "Capítulo 12 · Genieveve",
-          "pagina": null
+          "capitulo": "Apéndice: Cronología del Primer Imperio",
+          "pagina": 784
         }
       ]
     },
@@ -242,18 +222,8 @@
       "fuentes": [
         {
           "libro": "I",
-          "capitulo": "Apéndice: Cronología del Primer Imperio — Año 88",
-          "pagina": null
-        },
-        {
-          "libro": "I",
-          "capitulo": "Capítulo 19 · Drolnar",
-          "pagina": null
-        },
-        {
-          "libro": "I",
-          "capitulo": "Capítulo 21 · Brida",
-          "pagina": null
+          "capitulo": "Apéndice: Cronología del Primer Imperio",
+          "pagina": 784
         }
       ]
     },
@@ -279,19 +249,43 @@
       "fuentes": [
         {
           "libro": "I",
-          "capitulo": "Apéndice: Cronología del Primer Imperio — Año 93",
-          "pagina": null
-        },
-        {
-          "libro": "I",
-          "capitulo": "Capítulo 23 · Drolnar",
-          "pagina": null
+          "capitulo": "Apéndice: Cronología del Primer Imperio",
+          "pagina": 784
         }
       ]
     },
     {
       "id": "evento-009",
       "orden": 9,
+      "anio": 114,
+      "periodo": "Primer Imperio",
+      "precisionFecha": "anio",
+      "titulo": "La bruma reclama a Seren y Anwe",
+      "descripcion": "La bruma se lleva a Seren y a Anwe en Sahr-Ennet. Loth devuelve a Seren, pero sin recuperar su estado anterior.",
+      "consecuencias": "La pérdida de ambas precedió a la decisión de Loth de enfrentar a las Madres y descender al Pozo Primero.",
+      "personajes": [
+        "Loth",
+        "Seren",
+        "Anwe"
+      ],
+      "facciones": [
+        "Madres Veladas"
+      ],
+      "lugares": [
+        "Sahr-Ennet"
+      ],
+      "categoria": "magia",
+      "fuentes": [
+        {
+          "libro": "I",
+          "capitulo": "Apéndice: Cronología del Primer Imperio",
+          "pagina": 784
+        }
+      ]
+    },
+    {
+      "id": "evento-010",
+      "orden": 10,
       "anio": 120,
       "periodo": "Primer Imperio",
       "precisionFecha": "anio",
@@ -312,19 +306,14 @@
       "fuentes": [
         {
           "libro": "I",
-          "capitulo": "Apéndice: Cronología del Primer Imperio — Año 120",
-          "pagina": null
-        },
-        {
-          "libro": "I",
-          "capitulo": "Capítulo 25 · Loth",
-          "pagina": null
+          "capitulo": "Apéndice: Cronología del Primer Imperio",
+          "pagina": 785
         }
       ]
     },
     {
-      "id": "evento-010",
-      "orden": 10,
+      "id": "evento-011",
+      "orden": 11,
       "anio": 149,
       "periodo": "Primer Imperio",
       "precisionFecha": "anio",
@@ -346,24 +335,14 @@
       "fuentes": [
         {
           "libro": "I",
-          "capitulo": "Apéndice: Cronología del Primer Imperio — Año 149",
-          "pagina": null
-        },
-        {
-          "libro": "I",
-          "capitulo": "Capítulo 32 · Henricus",
-          "pagina": null
-        },
-        {
-          "libro": "I",
-          "capitulo": "Capítulo 33 · Helen",
-          "pagina": null
+          "capitulo": "Apéndice: Cronología del Primer Imperio",
+          "pagina": 785
         }
       ]
     },
     {
-      "id": "evento-011",
-      "orden": 11,
+      "id": "evento-012",
+      "orden": 12,
       "anio": 165,
       "periodo": "Primer Imperio",
       "precisionFecha": "anio",
@@ -386,19 +365,14 @@
       "fuentes": [
         {
           "libro": "I",
-          "capitulo": "Apéndice: Cronología del Primer Imperio — Año 165",
-          "pagina": null
-        },
-        {
-          "libro": "I",
-          "capitulo": "Capítulo 38 · Braco",
-          "pagina": null
+          "capitulo": "Apéndice: Cronología del Primer Imperio",
+          "pagina": 785
         }
       ]
     },
     {
-      "id": "evento-012",
-      "orden": 12,
+      "id": "evento-013",
+      "orden": 13,
       "anio": 197,
       "periodo": "Primer Imperio",
       "precisionFecha": "anio",
@@ -423,25 +397,20 @@
       "fuentes": [
         {
           "libro": "I",
-          "capitulo": "Apéndice: Cronología del Primer Imperio — Año 197",
-          "pagina": null
-        },
-        {
-          "libro": "I",
-          "capitulo": "Capítulo 44 · Braco",
-          "pagina": null
+          "capitulo": "Apéndice: Cronología del Primer Imperio",
+          "pagina": 786
         }
       ]
     },
     {
-      "id": "evento-013",
-      "orden": 13,
+      "id": "evento-014",
+      "orden": 14,
       "anio": 220,
       "periodo": "Primer Imperio",
       "precisionFecha": "anio",
       "titulo": "Lexandra Tiberius asume el trono y pacta con los clanes libres",
-      "descripcion": "Tras la muerte de Braco, Lexandra Tiberius venció a once aspirantes y fue proclamada gobernante. Durante su reinado estableció un pacto con los clanes libres representados por Ysh-Neva.",
-      "consecuencias": "Comenzó el reinado de Lexandra (220–234) y se formalizó una relación con los clanes libres.",
+      "descripcion": "Tras la muerte de Braco, Lexandra Tiberius venció a once combatientes en la prueba de la plaza y fue proclamada emperatriz. Pactó con los clanes libres de Ysh-Neva.",
+      "consecuencias": "Comenzó el reinado de Lexandra (220–234) y se abrió una nueva relación con los clanes libres.",
       "personajes": [
         "Braco Arenar",
         "Lexandra Tiberius",
@@ -459,19 +428,44 @@
       "fuentes": [
         {
           "libro": "I",
-          "capitulo": "Apéndice: Cronología del Primer Imperio — Año 220",
-          "pagina": null
-        },
-        {
-          "libro": "I",
-          "capitulo": "Capítulo 47 · Lexandra",
-          "pagina": null
+          "capitulo": "Apéndice: Cronología del Primer Imperio",
+          "pagina": 786
         }
       ]
     },
     {
-      "id": "evento-014",
-      "orden": 14,
+      "id": "evento-015",
+      "orden": 15,
+      "anio": 234,
+      "periodo": "Primer Imperio",
+      "precisionFecha": "anio",
+      "titulo": "Abdicación de Lexandra y ascenso de Yaakov",
+      "descripcion": "Tras la prueba de la plaza y la intervención de Darius Heredicus en el Consejo, Lexandra abdicó para partir como embajadora a Kel-Ammar. Yaakov Tiberius asumió el trono.",
+      "consecuencias": "El poder pasó a Yaakov y Lexandra continuó su labor mediante la diplomacia.",
+      "personajes": [
+        "Lexandra Tiberius",
+        "Yaakov Tiberius",
+        "Darius Heredicus"
+      ],
+      "facciones": [
+        "Primer Imperio"
+      ],
+      "lugares": [
+        "Concordia",
+        "Kel-Ammar"
+      ],
+      "categoria": "sucesion",
+      "fuentes": [
+        {
+          "libro": "I",
+          "capitulo": "Apéndice: Cronología del Primer Imperio",
+          "pagina": 786
+        }
+      ]
+    },
+    {
+      "id": "evento-016",
+      "orden": 16,
       "anio": 245,
       "periodo": "Primer Imperio",
       "precisionFecha": "anio",
@@ -490,19 +484,14 @@
       "fuentes": [
         {
           "libro": "I",
-          "capitulo": "Apéndice: Cronología del Primer Imperio — Año 245",
-          "pagina": null
-        },
-        {
-          "libro": "I",
-          "capitulo": "Capítulo 56 · Yaakov",
-          "pagina": null
+          "capitulo": "Apéndice: Cronología del Primer Imperio",
+          "pagina": 787
         }
       ]
     },
     {
-      "id": "evento-015",
-      "orden": 15,
+      "id": "evento-017",
+      "orden": 17,
       "anio": 249,
       "periodo": "Primer Imperio",
       "precisionFecha": "anio",
@@ -525,19 +514,14 @@
       "fuentes": [
         {
           "libro": "I",
-          "capitulo": "Apéndice: Cronología del Primer Imperio — Año 249",
-          "pagina": null
-        },
-        {
-          "libro": "I",
-          "capitulo": "Capítulo 58 · Maximus",
-          "pagina": null
+          "capitulo": "Apéndice: Cronología del Primer Imperio",
+          "pagina": 787
         }
       ]
     },
     {
-      "id": "evento-016",
-      "orden": 16,
+      "id": "evento-018",
+      "orden": 18,
       "anio": 299,
       "periodo": "Primer Imperio",
       "precisionFecha": "anio",
@@ -562,19 +546,68 @@
       "fuentes": [
         {
           "libro": "I",
-          "capitulo": "Apéndice: Cronología del Primer Imperio — Año 299",
-          "pagina": null
-        },
-        {
-          "libro": "I",
-          "capitulo": "Capítulo 66 · Gregorian",
-          "pagina": null
+          "capitulo": "Apéndice: Cronología del Primer Imperio",
+          "pagina": 787
         }
       ]
     },
     {
-      "id": "evento-017",
-      "orden": 17,
+      "id": "evento-019",
+      "orden": 19,
+      "anio": 300,
+      "periodo": "Primer Imperio",
+      "precisionFecha": "anio",
+      "titulo": "Gregorian deroga la orden de caza",
+      "descripcion": "Un año después de su coronación, Gregorian Bhargaras liberó a cuarenta ahorcados de Kel-Dun y derogó la orden de caza.",
+      "consecuencias": "La nueva política imperial revirtió la persecución oficial del reinado anterior.",
+      "personajes": [
+        "Gregorian Bhargaras"
+      ],
+      "facciones": [
+        "Primer Imperio"
+      ],
+      "lugares": [
+        "Kel-Dun"
+      ],
+      "categoria": "politica",
+      "fuentes": [
+        {
+          "libro": "I",
+          "capitulo": "Apéndice: Cronología del Primer Imperio",
+          "pagina": 787
+        }
+      ]
+    },
+    {
+      "id": "evento-020",
+      "orden": 20,
+      "anio": null,
+      "periodo": "Años 331–354 del Primer Imperio",
+      "precisionFecha": "intervalo",
+      "titulo": "Reinado de Meridio Bhargaras",
+      "descripcion": "Meridio Bhargaras gobernó entre 331 y 354, desarrolló una flota y murió por envenenamiento autoinfligido en 354.",
+      "consecuencias": "Su muerte puso fin a su reinado y dio paso al gobierno de Aremir Bhargaras.",
+      "personajes": [
+        "Meridio Bhargaras"
+      ],
+      "facciones": [
+        "Primer Imperio"
+      ],
+      "lugares": [
+        "Concordia"
+      ],
+      "categoria": "sucesion",
+      "fuentes": [
+        {
+          "libro": "I",
+          "capitulo": "Apéndice: Cronología del Primer Imperio",
+          "pagina": 788
+        }
+      ]
+    },
+    {
+      "id": "evento-021",
+      "orden": 21,
       "anio": null,
       "periodo": "Años 354–386 del Primer Imperio; reformas fechadas en 370",
       "precisionFecha": "intervalo",
@@ -597,19 +630,39 @@
       "fuentes": [
         {
           "libro": "I",
-          "capitulo": "Apéndice: Cronología del Primer Imperio — Años 354–386; Año 370",
-          "pagina": null
-        },
-        {
-          "libro": "I",
-          "capitulo": "Capítulo 73 · Aremir",
-          "pagina": null
+          "capitulo": "Apéndice: Cronología del Primer Imperio",
+          "pagina": 788
         }
       ]
     },
     {
-      "id": "evento-018",
-      "orden": 18,
+      "id": "evento-022",
+      "orden": 22,
+      "anio": 385,
+      "periodo": "Primer Imperio",
+      "precisionFecha": "anio",
+      "titulo": "Nacimiento de Bander",
+      "descripcion": "Nace Bander, figura que décadas después encabezará la salida de supervivientes de Concordia y la fundación de Banderbill.",
+      "consecuencias": "La cronología documenta el nacimiento de Bander, quien posteriormente encabezó el éxodo de Concordia.",
+      "personajes": [
+        "Bander Bhargaras VI"
+      ],
+      "facciones": [
+        "Primer Imperio"
+      ],
+      "lugares": [],
+      "categoria": "sucesion",
+      "fuentes": [
+        {
+          "libro": "I",
+          "capitulo": "Apéndice: Cronología del Primer Imperio",
+          "pagina": 788
+        }
+      ]
+    },
+    {
+      "id": "evento-023",
+      "orden": 23,
       "anio": 412,
       "periodo": "Primer Imperio",
       "precisionFecha": "anio",
@@ -632,30 +685,48 @@
       "fuentes": [
         {
           "libro": "I",
-          "capitulo": "Apéndice: Cronología del Primer Imperio — Año 412",
-          "pagina": null
-        },
-        {
-          "libro": "I",
-          "capitulo": "Capítulo 82 · Haltair",
-          "pagina": null
-        },
-        {
-          "libro": "I",
-          "capitulo": "Capítulo 83 · Bander",
-          "pagina": null
+          "capitulo": "Apéndice: Cronología del Primer Imperio",
+          "pagina": 788
         }
       ]
     },
     {
-      "id": "evento-019",
-      "orden": 19,
+      "id": "evento-024",
+      "orden": 24,
+      "anio": 0,
+      "periodo": "Nueva Era",
+      "precisionFecha": "anio",
+      "titulo": "El éxodo cruza el Mar de la Eterna Penuria",
+      "descripcion": "Los supervivientes de la Noche Más Larga viajaron durante cuarenta y un días por el Mar de la Eterna Penuria y desembarcaron en los últimos días del año 0.",
+      "consecuencias": "El viaje permitió la supervivencia del grupo que fundaría Banderbill.",
+      "personajes": [
+        "Bander Bhargaras VI"
+      ],
+      "facciones": [
+        "Supervivientes de Concordia"
+      ],
+      "lugares": [
+        "Mar de la Eterna Penuria",
+        "Oderon"
+      ],
+      "categoria": "exploracion",
+      "fuentes": [
+        {
+          "libro": "I",
+          "capitulo": "Apéndice: Cronología del Primer Imperio",
+          "pagina": 789
+        }
+      ]
+    },
+    {
+      "id": "evento-025",
+      "orden": 25,
       "anio": 1,
       "periodo": "Nueva Era",
       "precisionFecha": "anio",
       "titulo": "Fundación de Banderbill y comienzo de la Nueva Era",
-      "descripcion": "Tras cuarenta y un días en el Mar de la Penuria Eterna, los supervivientes fundaron Banderbill en Oderon. Bander Bhargaras VI gobernó como emperador desde el año 1 de la Nueva Era.",
-      "consecuencias": "Se trasladó el centro político de los supervivientes a Oderon y se estableció el nuevo cómputo de los años.",
+      "descripcion": "Tras cuarenta y un días en el Mar de la Eterna Penuria, los supervivientes desembarcaron en Oderon. En el año 1 de la Nueva Era, Bander proclamó la Ley de la Playa y fundó Banderbill, asumiendo el título imperial.",
+      "consecuencias": "Banderbill pasó a ser el centro político de los supervivientes y empezó el nuevo cómputo de la Nueva Era.",
       "personajes": [
         "Bander Bhargaras VI"
       ],
@@ -671,24 +742,14 @@
       "fuentes": [
         {
           "libro": "I",
-          "capitulo": "Apéndice: Cronología del Primer Imperio — Año 1 de la Nueva Era",
-          "pagina": null
-        },
-        {
-          "libro": "I",
-          "capitulo": "Capítulo 87 · Bander",
-          "pagina": null
-        },
-        {
-          "libro": "I",
-          "capitulo": "Capítulo 88 · Ugo",
-          "pagina": null
+          "capitulo": "Apéndice: Cronología del Primer Imperio",
+          "pagina": 789
         }
       ]
     },
     {
-      "id": "evento-020",
-      "orden": 20,
+      "id": "evento-026",
+      "orden": 26,
       "anio": 27,
       "periodo": "Nueva Era",
       "precisionFecha": "anio",
@@ -711,19 +772,14 @@
       "fuentes": [
         {
           "libro": "II",
-          "capitulo": "Apéndice: Cronología del Libro Segundo — Año 27",
-          "pagina": null
-        },
-        {
-          "libro": "II",
-          "capitulo": "Capítulo 15 · Bhargaras",
-          "pagina": null
+          "capitulo": "Apéndice: Cronología del Libro Segundo",
+          "pagina": 889
         }
       ]
     },
     {
-      "id": "evento-021",
-      "orden": 21,
+      "id": "evento-027",
+      "orden": 27,
       "anio": 29,
       "periodo": "Nueva Era",
       "precisionFecha": "anio",
@@ -745,19 +801,14 @@
       "fuentes": [
         {
           "libro": "II",
-          "capitulo": "Apéndice: Cronología del Libro Segundo — Año 29",
-          "pagina": null
-        },
-        {
-          "libro": "II",
-          "capitulo": "Capítulo 23 · Bhargaras",
-          "pagina": null
+          "capitulo": "Apéndice: Cronología del Libro Segundo",
+          "pagina": 889
         }
       ]
     },
     {
-      "id": "evento-022",
-      "orden": 22,
+      "id": "evento-028",
+      "orden": 28,
       "anio": 30,
       "periodo": "Nueva Era",
       "precisionFecha": "anio",
@@ -781,19 +832,44 @@
       "fuentes": [
         {
           "libro": "II",
-          "capitulo": "Apéndice: Cronología del Libro Segundo — Año 30",
-          "pagina": null
-        },
-        {
-          "libro": "II",
-          "capitulo": "Capítulo 30 · Lanther",
-          "pagina": null
+          "capitulo": "Apéndice: Cronología del Libro Segundo",
+          "pagina": 889
         }
       ]
     },
     {
-      "id": "evento-023",
-      "orden": 23,
+      "id": "evento-029",
+      "orden": 29,
+      "anio": 31,
+      "periodo": "Nueva Era",
+      "precisionFecha": "anio",
+      "titulo": "Coronación de Lanther y despertar de Loth",
+      "descripcion": "Lanther venció en duelo a Hakon Brand y fue coronada con un aro de hierro. Ese mismo año, la quinta jarra se abrió en Eufesia y Loth despertó.",
+      "consecuencias": "La sucesión política en Banderbill coincidió con una nueva etapa de la historia de las jarras.",
+      "personajes": [
+        "Lanther",
+        "Hakon Brand",
+        "Loth"
+      ],
+      "facciones": [
+        "Banderbill"
+      ],
+      "lugares": [
+        "Banderbill",
+        "Eufesia"
+      ],
+      "categoria": "sucesion",
+      "fuentes": [
+        {
+          "libro": "II",
+          "capitulo": "Apéndice: Cronología del Libro Segundo",
+          "pagina": 889
+        }
+      ]
+    },
+    {
+      "id": "evento-030",
+      "orden": 30,
       "anio": 33,
       "periodo": "Nueva Era",
       "precisionFecha": "anio",
@@ -814,14 +890,73 @@
       "fuentes": [
         {
           "libro": "II",
-          "capitulo": "Apéndice: Cronología del Libro Segundo — Año 33",
-          "pagina": null
+          "capitulo": "Apéndice: Cronología del Libro Segundo",
+          "pagina": 889
         }
       ]
     },
     {
-      "id": "evento-024",
-      "orden": 24,
+      "id": "evento-031",
+      "orden": 31,
+      "anio": 42,
+      "periodo": "Nueva Era",
+      "precisionFecha": "anio",
+      "titulo": "Ataque de las medusas rotas y los liches",
+      "descripcion": "Banderbill sufrió un ataque de medusas rotas y de sesenta y un antiguos expulsados, transformados en liches. Hakon murió en el puente del río.",
+      "consecuencias": "La capital volvió a enfrentar una ofensiva sobrenatural y perdió a uno de sus defensores.",
+      "personajes": [
+        "Lanther",
+        "Livia Heredicus",
+        "Hakon Brand"
+      ],
+      "facciones": [
+        "Liches",
+        "Banderbill"
+      ],
+      "lugares": [
+        "Banderbill"
+      ],
+      "categoria": "guerra",
+      "fuentes": [
+        {
+          "libro": "II",
+          "capitulo": "Apéndice: Cronología del Libro Segundo",
+          "pagina": 890
+        }
+      ]
+    },
+    {
+      "id": "evento-032",
+      "orden": 32,
+      "anio": 58,
+      "periodo": "Nueva Era",
+      "precisionFecha": "anio",
+      "titulo": "Lanther abdica en Amael",
+      "descripcion": "Lanther cedió la autoridad a Amael, entregó su ofrenda a Sein y partió hacia el oeste con la Orden y el cofre.",
+      "consecuencias": "Amael asumió el gobierno mientras la Orden continuaba su viaje hacia Concordia.",
+      "personajes": [
+        "Lanther",
+        "Amael",
+        "Sein"
+      ],
+      "facciones": [
+        "Orden"
+      ],
+      "lugares": [
+        "Banderbill"
+      ],
+      "categoria": "sucesion",
+      "fuentes": [
+        {
+          "libro": "II",
+          "capitulo": "Apéndice: Cronología del Libro Segundo",
+          "pagina": 890
+        }
+      ]
+    },
+    {
+      "id": "evento-033",
+      "orden": 33,
       "anio": 61,
       "periodo": "Nueva Era",
       "precisionFecha": "anio",
@@ -845,14 +980,41 @@
       "fuentes": [
         {
           "libro": "II",
-          "capitulo": "Apéndice: Cronología del Libro Segundo — Año 61",
-          "pagina": null
+          "capitulo": "Apéndice: Cronología del Libro Segundo",
+          "pagina": 890
         }
       ]
     },
     {
-      "id": "evento-025",
-      "orden": 25,
+      "id": "evento-034",
+      "orden": 34,
+      "anio": 63,
+      "periodo": "Nueva Era",
+      "precisionFecha": "anio",
+      "titulo": "Inauguración de la Biblioteca de Banderbill",
+      "descripcion": "Se inauguró la Biblioteca de Banderbill. Érandiul todavía se negó a entregar sus escritos, por considerarlos inconclusos.",
+      "consecuencias": "La ciudad consolidó una institución destinada a reunir y conservar sus registros.",
+      "personajes": [
+        "Érandiul"
+      ],
+      "facciones": [
+        "Banderbill"
+      ],
+      "lugares": [
+        "Banderbill"
+      ],
+      "categoria": "fundacion",
+      "fuentes": [
+        {
+          "libro": "II",
+          "capitulo": "Apéndice: Cronología del Libro Segundo",
+          "pagina": 890
+        }
+      ]
+    },
+    {
+      "id": "evento-035",
+      "orden": 35,
       "anio": null,
       "periodo": "Años 90–95 de la Nueva Era",
       "precisionFecha": "intervalo",
@@ -873,19 +1035,67 @@
       "fuentes": [
         {
           "libro": "II",
-          "capitulo": "Apéndice: Cronología del Libro Segundo — Años 90–95",
-          "pagina": null
-        },
-        {
-          "libro": "II",
-          "capitulo": "Capítulo 45 · Ilsa",
-          "pagina": null
+          "capitulo": "Apéndice: Cronología del Libro Segundo",
+          "pagina": 890
         }
       ]
     },
     {
-      "id": "evento-026",
-      "orden": 26,
+      "id": "evento-036",
+      "orden": 36,
+      "anio": 132,
+      "periodo": "Nueva Era",
+      "precisionFecha": "anio",
+      "titulo": "Pacto élfico y construcción del Fuerte Novel",
+      "descripcion": "Los elfos acordaron utilizar únicamente las formas suaves, tras una votación de 49 a 14. Se levantó el Fuerte Novel.",
+      "consecuencias": "El acuerdo delimitó prácticas aceptadas entre los elfos y estableció una nueva posición fortificada.",
+      "personajes": [],
+      "facciones": [
+        "Elfos"
+      ],
+      "lugares": [
+        "Fuerte Novel"
+      ],
+      "categoria": "alianza",
+      "fuentes": [
+        {
+          "libro": "II",
+          "capitulo": "Apéndice: Cronología del Libro Segundo",
+          "pagina": 890
+        }
+      ]
+    },
+    {
+      "id": "evento-037",
+      "orden": 37,
+      "anio": 133,
+      "periodo": "Nueva Era",
+      "precisionFecha": "anio",
+      "titulo": "Caída del Fuerte Novel y aparición de la Gema de Panbor",
+      "descripcion": "Panbor arrasó el Fuerte Novel. Dos sangres fueron absorbidas por la piedra, de la que surgió la Gema de Panbor.",
+      "consecuencias": "Apareció uno de los objetos de poder que más tarde formarían parte de los Fragmentos de Alkar.",
+      "personajes": [
+        "Panbor"
+      ],
+      "facciones": [
+        "Elfos"
+      ],
+      "lugares": [
+        "Fuerte Novel",
+        "Montañas Rojas"
+      ],
+      "categoria": "magia",
+      "fuentes": [
+        {
+          "libro": "II",
+          "capitulo": "Apéndice: Cronología del Libro Segundo",
+          "pagina": 890
+        }
+      ]
+    },
+    {
+      "id": "evento-038",
+      "orden": 38,
       "anio": 134,
       "periodo": "Nueva Era",
       "precisionFecha": "anio",
@@ -909,19 +1119,14 @@
       "fuentes": [
         {
           "libro": "II",
-          "capitulo": "Apéndice: Cronología del Libro Segundo — Año 134",
-          "pagina": null
-        },
-        {
-          "libro": "II",
-          "capitulo": "Capítulo 50 · Andriath",
-          "pagina": null
+          "capitulo": "Apéndice: Cronología del Libro Segundo",
+          "pagina": 890
         }
       ]
     },
     {
-      "id": "evento-027",
-      "orden": 27,
+      "id": "evento-039",
+      "orden": 39,
       "anio": 145,
       "periodo": "Nueva Era",
       "precisionFecha": "anio",
@@ -943,19 +1148,43 @@
       "fuentes": [
         {
           "libro": "II",
-          "capitulo": "Apéndice: Cronología del Libro Segundo — Año 145",
-          "pagina": null
-        },
-        {
-          "libro": "II",
-          "capitulo": "Capítulo 52 · Andriath",
-          "pagina": null
+          "capitulo": "Apéndice: Cronología del Libro Segundo",
+          "pagina": 891
         }
       ]
     },
     {
-      "id": "evento-028",
-      "orden": 28,
+      "id": "evento-040",
+      "orden": 40,
+      "anio": 146,
+      "periodo": "Nueva Era",
+      "precisionFecha": "anio",
+      "titulo": "Contacto con los enanos y los Cristales de Alkar",
+      "descripcion": "Se produjo un encuentro con los enanos de Thrumbar Hondopico y los Cristales de Alkar. Ese año nació Bhargaras IX.",
+      "consecuencias": "Se ampliaron los contactos entre pueblos y se introdujeron los cristales en la historia documentada.",
+      "personajes": [
+        "Thrumbar Hondopico",
+        "Bhargaras IX"
+      ],
+      "facciones": [
+        "Enanos",
+        "Banderbill"
+      ],
+      "lugares": [
+        "Oderon"
+      ],
+      "categoria": "exploracion",
+      "fuentes": [
+        {
+          "libro": "II",
+          "capitulo": "Apéndice: Cronología del Libro Segundo",
+          "pagina": 891
+        }
+      ]
+    },
+    {
+      "id": "evento-041",
+      "orden": 41,
       "anio": 156,
       "periodo": "Nueva Era",
       "precisionFecha": "anio",
@@ -977,14 +1206,14 @@
       "fuentes": [
         {
           "libro": "II",
-          "capitulo": "Apéndice: Cronología del Libro Segundo — Año 156",
-          "pagina": null
+          "capitulo": "Apéndice: Cronología del Libro Segundo",
+          "pagina": 891
         }
       ]
     },
     {
-      "id": "evento-029",
-      "orden": 29,
+      "id": "evento-042",
+      "orden": 42,
       "anio": null,
       "periodo": "Años 178–183 de la Nueva Era",
       "precisionFecha": "intervalo",
@@ -1004,19 +1233,42 @@
       "fuentes": [
         {
           "libro": "II",
-          "capitulo": "Apéndice: Cronología del Libro Segundo — Años 178–183",
-          "pagina": null
-        },
-        {
-          "libro": "II",
-          "capitulo": "Capítulo 57 · Bredinlo",
-          "pagina": null
+          "capitulo": "Apéndice: Cronología del Libro Segundo",
+          "pagina": 891
         }
       ]
     },
     {
-      "id": "evento-030",
-      "orden": 30,
+      "id": "evento-043",
+      "orden": 43,
+      "anio": null,
+      "periodo": "Años 199–201 de la Nueva Era",
+      "precisionFecha": "intervalo",
+      "titulo": "Ley de las orejas y su retirada",
+      "descripcion": "La «Ley de las orejas» de Olbrecht Saur imponía restricciones a los herederos con ascendencia de distintas razas. Ada Vell descubrió dobles fondos en los graneros de Saur y la ley fue retirada.",
+      "consecuencias": "La política discriminatoria quedó revocada tras las denuncias de irregularidades asociadas a Saur.",
+      "personajes": [
+        "Olbrecht Saur",
+        "Ada Vell"
+      ],
+      "facciones": [
+        "Banderbill"
+      ],
+      "lugares": [
+        "Banderbill"
+      ],
+      "categoria": "politica",
+      "fuentes": [
+        {
+          "libro": "II",
+          "capitulo": "Apéndice: Cronología del Libro Segundo",
+          "pagina": 891
+        }
+      ]
+    },
+    {
+      "id": "evento-044",
+      "orden": 44,
       "anio": 218,
       "periodo": "Nueva Era",
       "precisionFecha": "anio",
@@ -1038,19 +1290,14 @@
       "fuentes": [
         {
           "libro": "II",
-          "capitulo": "Apéndice: Cronología del Libro Segundo — Año 218",
-          "pagina": null
-        },
-        {
-          "libro": "II",
-          "capitulo": "Capítulo 60 · Kildo",
-          "pagina": null
+          "capitulo": "Apéndice: Cronología del Libro Segundo",
+          "pagina": 891
         }
       ]
     },
     {
-      "id": "evento-031",
-      "orden": 31,
+      "id": "evento-045",
+      "orden": 45,
       "anio": null,
       "periodo": "Años 357–358 de la Nueva Era",
       "precisionFecha": "intervalo",
@@ -1073,24 +1320,42 @@
       "fuentes": [
         {
           "libro": "II",
-          "capitulo": "Apéndice: Cronología del Libro Segundo — Años 357–358",
-          "pagina": null
-        },
-        {
-          "libro": "II",
-          "capitulo": "Capítulo 69 · Dalla Hask",
-          "pagina": null
-        },
-        {
-          "libro": "II",
-          "capitulo": "Capítulo 70 · Érandiul",
-          "pagina": null
+          "capitulo": "Apéndice: Cronología del Libro Segundo",
+          "pagina": 892
         }
       ]
     },
     {
-      "id": "evento-032",
-      "orden": 32,
+      "id": "evento-046",
+      "orden": 46,
+      "anio": 375,
+      "periodo": "Nueva Era",
+      "precisionFecha": "anio",
+      "titulo": "Muerte de Lindiel y sucesión de Lindiel II",
+      "descripcion": "Lindiel murió en una emboscada en el camino de Ullathorpe, aunque el carro de grano alcanzó su destino. Lindiel II lo sucedió durante una hambruna.",
+      "consecuencias": "Se produjo un cambio de autoridad en un período de escasez.",
+      "personajes": [
+        "Lindiel",
+        "Lindiel II"
+      ],
+      "facciones": [
+        "Banderbill"
+      ],
+      "lugares": [
+        "Ullathorpe"
+      ],
+      "categoria": "sucesion",
+      "fuentes": [
+        {
+          "libro": "II",
+          "capitulo": "Apéndice: Cronología del Libro Segundo",
+          "pagina": 893
+        }
+      ]
+    },
+    {
+      "id": "evento-047",
+      "orden": 47,
       "anio": null,
       "periodo": "Años 398–400 de la Nueva Era",
       "precisionFecha": "intervalo",
@@ -1116,24 +1381,14 @@
       "fuentes": [
         {
           "libro": "II",
-          "capitulo": "Apéndice: Cronología del Libro Segundo — Años 398 y 400",
-          "pagina": null
-        },
-        {
-          "libro": "II",
-          "capitulo": "Capítulo 74 · Ithil",
-          "pagina": null
-        },
-        {
-          "libro": "II",
-          "capitulo": "Capítulo 75 · Lindiel II",
-          "pagina": null
+          "capitulo": "Apéndice: Cronología del Libro Segundo",
+          "pagina": 893
         }
       ]
     },
     {
-      "id": "evento-033",
-      "orden": 33,
+      "id": "evento-048",
+      "orden": 48,
       "anio": 417,
       "periodo": "Nueva Era",
       "precisionFecha": "anio",
@@ -1155,19 +1410,40 @@
       "fuentes": [
         {
           "libro": "II",
-          "capitulo": "Apéndice: Cronología del Libro Segundo — Año 417",
-          "pagina": null
-        },
-        {
-          "libro": "II",
-          "capitulo": "Capítulo 76 · Arthal II",
-          "pagina": null
+          "capitulo": "Apéndice: Cronología del Libro Segundo",
+          "pagina": 893
         }
       ]
     },
     {
-      "id": "evento-034",
-      "orden": 34,
+      "id": "evento-049",
+      "orden": 49,
+      "anio": null,
+      "periodo": "Hacia el año 497 de la Nueva Era",
+      "precisionFecha": "aproximada",
+      "titulo": "La primera piedra de Arghâl",
+      "descripcion": "Hacia 497 de la Nueva Era, Ithil y Pim plantaron una piedra gris en una hondonada del brezo. Una voz procedente de abajo llamó Arghâl al lugar.",
+      "consecuencias": "Quedó registrado el origen del topónimo Arghâl, antes del desarrollo del poblado y su posterior caída.",
+      "personajes": [
+        "Ithil",
+        "Pim"
+      ],
+      "facciones": [],
+      "lugares": [
+        "Arghâl"
+      ],
+      "categoria": "fundacion",
+      "fuentes": [
+        {
+          "libro": "II",
+          "capitulo": "Apéndice: Cronología del Libro Segundo",
+          "pagina": 893
+        }
+      ]
+    },
+    {
+      "id": "evento-050",
+      "orden": 50,
       "anio": 607,
       "periodo": "Nueva Era",
       "precisionFecha": "anio",
@@ -1192,24 +1468,14 @@
       "fuentes": [
         {
           "libro": "III",
-          "capitulo": "Apéndice: Cronología del Libro Tercero — Año 607",
-          "pagina": null
-        },
-        {
-          "libro": "III",
-          "capitulo": "Capítulo 20 · Brena Hask",
-          "pagina": null
-        },
-        {
-          "libro": "III",
-          "capitulo": "Capítulo 22 · Arthal II",
-          "pagina": null
+          "capitulo": "Apéndice: Cronología del Libro Tercero",
+          "pagina": 874
         }
       ]
     },
     {
-      "id": "evento-035",
-      "orden": 35,
+      "id": "evento-051",
+      "orden": 51,
       "anio": 609,
       "periodo": "Nueva Era",
       "precisionFecha": "anio",
@@ -1230,25 +1496,128 @@
       "fuentes": [
         {
           "libro": "III",
-          "capitulo": "Apéndice: Cronología del Libro Tercero — Año 609",
-          "pagina": null
-        },
-        {
-          "libro": "III",
-          "capitulo": "Capítulo 24 · Sein",
-          "pagina": null
+          "capitulo": "Apéndice: Cronología del Libro Tercero",
+          "pagina": 874
         }
       ]
     },
     {
-      "id": "evento-036",
-      "orden": 36,
+      "id": "evento-052",
+      "orden": 52,
+      "anio": 640,
+      "periodo": "Nueva Era",
+      "precisionFecha": "anio",
+      "titulo": "Verawel inicia el pergamino de los Fragmentos",
+      "descripcion": "Verawel regresó de los árboles, trabajó como bibliotecario y comenzó el pergamino de los Fragmentos.",
+      "consecuencias": "Se inició la compilación que serviría como guía para la búsqueda posterior de los Fragmentos de Alkar.",
+      "personajes": [
+        "Verawel"
+      ],
+      "facciones": [
+        "Orden"
+      ],
+      "lugares": [
+        "Banderbill"
+      ],
+      "categoria": "magia",
+      "fuentes": [
+        {
+          "libro": "III",
+          "capitulo": "Apéndice: Cronología del Libro Tercero",
+          "pagina": 875
+        }
+      ]
+    },
+    {
+      "id": "evento-053",
+      "orden": 53,
+      "anio": 655,
+      "periodo": "Nueva Era",
+      "precisionFecha": "anio",
+      "titulo": "Pim escribe el Pergamino de las Almas Caídas",
+      "descripcion": "Pim redactó un pergamino que podía devolver a cada muerto por un momento, una sola vez, para despedirse. Lo dejó en manos de Ottherius.",
+      "consecuencias": "El Pergamino de las Almas Caídas pasó a manos de Ottherius.",
+      "personajes": [
+        "Pim",
+        "Ottherius"
+      ],
+      "facciones": [],
+      "lugares": [
+        "Salinas del Sur"
+      ],
+      "categoria": "magia",
+      "fuentes": [
+        {
+          "libro": "III",
+          "capitulo": "Apéndice: Cronología del Libro Tercero",
+          "pagina": 875
+        }
+      ]
+    },
+    {
+      "id": "evento-054",
+      "orden": 54,
+      "anio": 674,
+      "periodo": "Nueva Era",
+      "precisionFecha": "anio",
+      "titulo": "La Gema de Panbor llega a manos piratas",
+      "descripcion": "En las Islas Piratas, la Gema de Panbor quedó en poder de los piratas. Tibbet perdió allí su sombrero número ochenta y nueve ante una criatura de ojo amarillo.",
+      "consecuencias": "La Gema de Panbor permaneció lejos del control imperial.",
+      "personajes": [
+        "Tibbet Tornasol"
+      ],
+      "facciones": [
+        "Piratas"
+      ],
+      "lugares": [
+        "Islas Piratas"
+      ],
+      "categoria": "magia",
+      "fuentes": [
+        {
+          "libro": "III",
+          "capitulo": "Apéndice: Cronología del Libro Tercero",
+          "pagina": 875
+        }
+      ]
+    },
+    {
+      "id": "evento-055",
+      "orden": 55,
+      "anio": 702,
+      "periodo": "Nueva Era",
+      "precisionFecha": "anio",
+      "titulo": "Muerte de Arthal II y ascenso de Lindos",
+      "descripcion": "Arthal II murió tras un reinado de trescientos dos años. Lindos fue proclamado decimosexto emperador.",
+      "consecuencias": "Comenzó el gobierno de Lindos.",
+      "personajes": [
+        "Arthal II",
+        "Lindos"
+      ],
+      "facciones": [
+        "Imperio"
+      ],
+      "lugares": [
+        "Banderbill"
+      ],
+      "categoria": "sucesion",
+      "fuentes": [
+        {
+          "libro": "III",
+          "capitulo": "Apéndice: Cronología del Libro Tercero",
+          "pagina": 875
+        }
+      ]
+    },
+    {
+      "id": "evento-056",
+      "orden": 56,
       "anio": 715,
       "periodo": "Nueva Era",
       "precisionFecha": "anio",
       "titulo": "Viaje al este y hallazgo del Nuevo Continente",
-      "descripcion": "Durante el viaje hacia el este se exploraron las tres islas con oasis y se alcanzó el llamado Nuevo Continente.",
-      "consecuencias": "Se amplió el mundo conocido por los expedicionarios imperiales.",
+      "descripcion": "En 715 la expedición imperial viajó hacia el este y llegó al oasis de Lindos, en la costa del desierto, y al territorio denominado Nuevo Continente.",
+      "consecuencias": "La expedición amplió la cartografía y el alcance de los contactos imperiales.",
       "personajes": [
         "Lindos",
         "Lanther"
@@ -1264,14 +1633,14 @@
       "fuentes": [
         {
           "libro": "III",
-          "capitulo": "Apéndice: Cronología del Libro Tercero — Año 715",
-          "pagina": null
+          "capitulo": "Apéndice: Cronología del Libro Tercero",
+          "pagina": 875
         }
       ]
     },
     {
-      "id": "evento-037",
-      "orden": 37,
+      "id": "evento-057",
+      "orden": 57,
       "anio": 721,
       "periodo": "Nueva Era",
       "precisionFecha": "anio",
@@ -1292,25 +1661,48 @@
       "fuentes": [
         {
           "libro": "III",
-          "capitulo": "Apéndice: Cronología del Libro Tercero — Año 721",
-          "pagina": null
-        },
-        {
-          "libro": "III",
-          "capitulo": "Capítulo 41 · Aila Tarrant",
-          "pagina": null
+          "capitulo": "Apéndice: Cronología del Libro Tercero",
+          "pagina": 875
         }
       ]
     },
     {
-      "id": "evento-038",
-      "orden": 38,
+      "id": "evento-058",
+      "orden": 58,
+      "anio": 734,
+      "periodo": "Nueva Era",
+      "precisionFecha": "anio",
+      "titulo": "Muerte de Lindos y origen de la Lágrima",
+      "descripcion": "Lindos murió en el oasis, con los pies en la poza. Rechazó la séptima jarra y la gota de Bhargaras IX; la jarra se deshizo en el agua y quedó la Lágrima. Liminus lo sucedió como decimoséptimo emperador.",
+      "consecuencias": "La Lágrima permaneció vinculada a la poza y comenzó el gobierno de Liminus.",
+      "personajes": [
+        "Lindos",
+        "Liminus"
+      ],
+      "facciones": [
+        "Imperio"
+      ],
+      "lugares": [
+        "Oasis de Lindos"
+      ],
+      "categoria": "magia",
+      "fuentes": [
+        {
+          "libro": "III",
+          "capitulo": "Apéndice: Cronología del Libro Tercero",
+          "pagina": 876
+        }
+      ]
+    },
+    {
+      "id": "evento-059",
+      "orden": 59,
       "anio": 739,
       "periodo": "Nueva Era",
       "precisionFecha": "anio",
       "titulo": "Fundación de la ciudad de Lindos",
-      "descripcion": "Liminus fundó la ciudad de Lindos alrededor de un oasis. Su primera ley estableció que nadie debía tocar la poza.",
-      "consecuencias": "Se consolidó una ciudad en las islas y se protegió legalmente su fuente de agua.",
+      "descripcion": "Liminus fundó la ciudad de Lindos alrededor del oasis. Su primera ley estableció que nadie debía tocar la poza.",
+      "consecuencias": "El asentamiento quedó formalmente fundado y la poza protegida por ley.",
       "personajes": [
         "Liminus"
       ],
@@ -1325,25 +1717,20 @@
       "fuentes": [
         {
           "libro": "III",
-          "capitulo": "Apéndice: Cronología del Libro Tercero — Año 739",
-          "pagina": null
-        },
-        {
-          "libro": "III",
-          "capitulo": "Capítulo 45 · Liminus",
-          "pagina": null
+          "capitulo": "Apéndice: Cronología del Libro Tercero",
+          "pagina": 876
         }
       ]
     },
     {
-      "id": "evento-039",
-      "orden": 39,
+      "id": "evento-060",
+      "orden": 60,
       "anio": 763,
       "periodo": "Nueva Era",
       "precisionFecha": "anio",
       "titulo": "Contacto con los elfos de Illiandor",
-      "descripcion": "La cronología registra Illiandor como enclave de los elfos del Este, asociados a la domesticación, y menciona a Ilwen.",
-      "consecuencias": "Illiandor quedó incorporada al relato político y geográfico del mundo conocido.",
+      "descripcion": "La cronología documenta Illiandor y el contacto con los elfos del Este, expertos en la doma; se menciona a Ilwen.",
+      "consecuencias": "Las poblaciones de Illiandor entraron en los registros de la expansión oriental del mundo conocido.",
       "personajes": [
         "Ilwen"
       ],
@@ -1358,19 +1745,42 @@
       "fuentes": [
         {
           "libro": "III",
-          "capitulo": "Apéndice: Cronología del Libro Tercero — Año 763",
-          "pagina": null
-        },
-        {
-          "libro": "III",
-          "capitulo": "Capítulo 49 · Ilwen",
-          "pagina": null
+          "capitulo": "Apéndice: Cronología del Libro Tercero",
+          "pagina": 876
         }
       ]
     },
     {
-      "id": "evento-040",
-      "orden": 40,
+      "id": "evento-061",
+      "orden": 61,
+      "anio": 800,
+      "periodo": "Nueva Era",
+      "precisionFecha": "anio",
+      "titulo": "Muerte de Liminus y coronación de Bhargaras XI",
+      "descripcion": "Liminus murió cerca de la poza de Lindos. Bhargaras XI se convirtió en el decimoctavo emperador.",
+      "consecuencias": "Una nueva sucesión imperial precedió a la exploración del continente helado.",
+      "personajes": [
+        "Liminus",
+        "Bhargaras XI"
+      ],
+      "facciones": [
+        "Imperio"
+      ],
+      "lugares": [
+        "Lindos"
+      ],
+      "categoria": "sucesion",
+      "fuentes": [
+        {
+          "libro": "III",
+          "capitulo": "Apéndice: Cronología del Libro Tercero",
+          "pagina": 876
+        }
+      ]
+    },
+    {
+      "id": "evento-062",
+      "orden": 62,
       "anio": null,
       "periodo": "Años 810–814 de la Nueva Era",
       "precisionFecha": "intervalo",
@@ -1394,25 +1804,72 @@
       "fuentes": [
         {
           "libro": "III",
-          "capitulo": "Apéndice: Cronología del Libro Tercero — Años 810–814",
-          "pagina": null
-        },
-        {
-          "libro": "III",
-          "capitulo": "Capítulo 52 · Dalbur",
-          "pagina": null
+          "capitulo": "Apéndice: Cronología del Libro Tercero",
+          "pagina": 876
         }
       ]
     },
     {
-      "id": "evento-041",
-      "orden": 41,
+      "id": "evento-063",
+      "orden": 63,
+      "anio": 816,
+      "periodo": "Nueva Era",
+      "precisionFecha": "anio",
+      "titulo": "Nombres de los tres continentes",
+      "descripcion": "En el año 816 quedan registrados los nombres Annkör, Rhagnark y Oderon en la cronología oficial.",
+      "consecuencias": "Se fijaron los nombres de los tres continentes en la cartografía histórica.",
+      "personajes": [],
+      "facciones": [],
+      "lugares": [
+        "Annkör",
+        "Rhagnark",
+        "Oderon"
+      ],
+      "categoria": "exploracion",
+      "fuentes": [
+        {
+          "libro": "III",
+          "capitulo": "Apéndice: Cronología del Libro Tercero",
+          "pagina": 877
+        }
+      ]
+    },
+    {
+      "id": "evento-064",
+      "orden": 64,
+      "anio": 846,
+      "periodo": "Nueva Era",
+      "precisionFecha": "anio",
+      "titulo": "Encierro de Migyur",
+      "descripcion": "Ilan Hask detuvo al yeti Migyur mediante una espada de hielo con la runa «Quieto» y lo encerró en la cueva de cristal del Sombrero.",
+      "consecuencias": "Migyur quedó confinado, antes de que su gema volviera a adquirir importancia siglos después.",
+      "personajes": [
+        "Ilan Hask",
+        "Migyur"
+      ],
+      "facciones": [],
+      "lugares": [
+        "Annkör",
+        "Cueva de cristal del Sombrero"
+      ],
+      "categoria": "magia",
+      "fuentes": [
+        {
+          "libro": "III",
+          "capitulo": "Apéndice: Cronología del Libro Tercero",
+          "pagina": 877
+        }
+      ]
+    },
+    {
+      "id": "evento-065",
+      "orden": 65,
       "anio": 856,
       "periodo": "Nueva Era",
       "precisionFecha": "anio",
-      "titulo": "Descubrimiento de Orac y coronación de Asgal",
-      "descripcion": "La expedición a Orac terminó con la muerte de Bhargaras XI y de Hesper Hask. Asgal fue proclamado decimonoveno emperador con el aro de hierro.",
-      "consecuencias": "El descubrimiento de Orac coincidió con una sucesión imperial marcada por bajas importantes.",
+      "titulo": "Expedición a la Isla Siniestra y coronación de Asgal",
+      "descripcion": "En 856 se documentó el descubrimiento de la Isla Siniestra. La expedición terminó con la muerte de Bhargaras XI y de Hesper Hask. Asgal fue proclamado decimonoveno emperador con el aro de hierro.",
+      "consecuencias": "La expedición provocó una sucesión imperial marcada por graves pérdidas. No debe confundirse la Isla Siniestra con Orac.",
       "personajes": [
         "Bhargaras XI",
         "Hesper Hask",
@@ -1423,25 +1880,49 @@
         "Imperio"
       ],
       "lugares": [
-        "Orac"
+        "Isla Siniestra",
+        "Annkör"
       ],
       "categoria": "sucesion",
       "fuentes": [
         {
           "libro": "III",
-          "capitulo": "Apéndice: Cronología del Libro Tercero — Año 856",
-          "pagina": null
-        },
-        {
-          "libro": "III",
-          "capitulo": "Capítulo 60 · Érandiul",
-          "pagina": null
+          "capitulo": "Apéndice: Cronología del Libro Tercero",
+          "pagina": 877
         }
       ]
     },
     {
-      "id": "evento-042",
-      "orden": 42,
+      "id": "evento-066",
+      "orden": 66,
+      "anio": 880,
+      "periodo": "Nueva Era",
+      "precisionFecha": "anio",
+      "titulo": "El nombre de Mhorkvel",
+      "descripcion": "Ithil preguntó al ser conocido como «el que escucha» cuál era su nombre. Recibió como respuesta: Mhorkvel.",
+      "consecuencias": "El nombre de Mhorkvel entró en la crónica de la Orden.",
+      "personajes": [
+        "Ithil",
+        "Mhorkvel"
+      ],
+      "facciones": [
+        "Orden"
+      ],
+      "lugares": [
+        "Orac"
+      ],
+      "categoria": "magia",
+      "fuentes": [
+        {
+          "libro": "III",
+          "capitulo": "Apéndice: Cronología del Libro Tercero",
+          "pagina": 877
+        }
+      ]
+    },
+    {
+      "id": "evento-067",
+      "orden": 67,
       "anio": 892,
       "periodo": "Nueva Era",
       "precisionFecha": "anio",
@@ -1466,19 +1947,70 @@
       "fuentes": [
         {
           "libro": "III",
-          "capitulo": "Apéndice: Cronología del Libro Tercero — Año 892",
-          "pagina": null
-        },
-        {
-          "libro": "III",
-          "capitulo": "Capítulo 69 · Lanther",
-          "pagina": null
+          "capitulo": "Apéndice: Cronología del Libro Tercero",
+          "pagina": 878
         }
       ]
     },
     {
-      "id": "evento-043",
-      "orden": 43,
+      "id": "evento-068",
+      "orden": 68,
+      "anio": 907,
+      "periodo": "Nueva Era",
+      "precisionFecha": "anio",
+      "titulo": "Muerte de Asgal y coronación de Astral",
+      "descripcion": "Tras la muerte de Asgal, Astral ascendió como vigésimo emperador.",
+      "consecuencias": "La sucesión dejó el gobierno imperial en manos de Astral.",
+      "personajes": [
+        "Asgal",
+        "Astral"
+      ],
+      "facciones": [
+        "Imperio"
+      ],
+      "lugares": [
+        "Banderbill"
+      ],
+      "categoria": "sucesion",
+      "fuentes": [
+        {
+          "libro": "III",
+          "capitulo": "Apéndice: Cronología del Libro Tercero",
+          "pagina": 878
+        }
+      ]
+    },
+    {
+      "id": "evento-069",
+      "orden": 69,
+      "anio": 952,
+      "periodo": "Nueva Era",
+      "precisionFecha": "anio",
+      "titulo": "Muerte de Astral y ascenso de Larath",
+      "descripcion": "Astral murió en el año 952 y Larath accedió al trono como vigésimo primer emperador.",
+      "consecuencias": "Se produjo la sucesión previa al período del último Bhargaras.",
+      "personajes": [
+        "Astral",
+        "Larath"
+      ],
+      "facciones": [
+        "Imperio"
+      ],
+      "lugares": [
+        "Banderbill"
+      ],
+      "categoria": "sucesion",
+      "fuentes": [
+        {
+          "libro": "III",
+          "capitulo": "Apéndice: Cronología del Libro Tercero",
+          "pagina": 879
+        }
+      ]
+    },
+    {
+      "id": "evento-070",
+      "orden": 70,
       "anio": 999,
       "periodo": "Nueva Era",
       "precisionFecha": "anio",
@@ -1500,14 +2032,14 @@
       "fuentes": [
         {
           "libro": "IV",
-          "capitulo": "Apéndice: Cronología del Libro Cuarto — Año 999",
-          "pagina": null
+          "capitulo": "Apéndice: Cronología del Libro Cuarto",
+          "pagina": 850
         }
       ]
     },
     {
-      "id": "evento-044",
-      "orden": 44,
+      "id": "evento-071",
+      "orden": 71,
       "anio": null,
       "periodo": "Años 1029–1031 de la Nueva Era",
       "precisionFecha": "intervalo",
@@ -1531,19 +2063,19 @@
       "fuentes": [
         {
           "libro": "IV",
-          "capitulo": "Apéndice: Cronología del Libro Cuarto — Años 1029–1031",
-          "pagina": null
+          "capitulo": "Apéndice: Cronología del Libro Cuarto — 1029–1030 (forja)",
+          "pagina": 850
         },
         {
           "libro": "IV",
-          "capitulo": "Capítulo 8 · Dalbur",
-          "pagina": null
+          "capitulo": "Apéndice: Cronología del Libro Cuarto — 1031 (invasión)",
+          "pagina": 851
         }
       ]
     },
     {
-      "id": "evento-045",
-      "orden": 45,
+      "id": "evento-072",
+      "orden": 72,
       "anio": 1067,
       "periodo": "Nueva Era",
       "precisionFecha": "anio",
@@ -1566,14 +2098,14 @@
       "fuentes": [
         {
           "libro": "IV",
-          "capitulo": "Apéndice: Cronología del Libro Cuarto — Año 1067",
-          "pagina": null
+          "capitulo": "Apéndice: Cronología del Libro Cuarto",
+          "pagina": 851
         }
       ]
     },
     {
-      "id": "evento-046",
-      "orden": 46,
+      "id": "evento-073",
+      "orden": 73,
       "anio": null,
       "periodo": "Años 1068–1112 de la Nueva Era",
       "precisionFecha": "intervalo",
@@ -1595,19 +2127,42 @@
       "fuentes": [
         {
           "libro": "IV",
-          "capitulo": "Apéndice: Cronología del Libro Cuarto — Años 1068–1112",
-          "pagina": null
-        },
-        {
-          "libro": "IV",
-          "capitulo": "Capítulo 14 · Eluret",
-          "pagina": null
+          "capitulo": "Apéndice: Cronología del Libro Cuarto",
+          "pagina": 851
         }
       ]
     },
     {
-      "id": "evento-047",
-      "orden": 47,
+      "id": "evento-074",
+      "orden": 74,
+      "anio": 1112,
+      "periodo": "Nueva Era",
+      "precisionFecha": "anio",
+      "titulo": "Baervan asume como Supremo Comandante",
+      "descripcion": "Tras la muerte de Eluret, el gnomo Baervan asumió el mando como Supremo Comandante en 1112.",
+      "consecuencias": "Comenzó una larga etapa de gobierno encabezada por Baervan.",
+      "personajes": [
+        "Eluret",
+        "Baervan"
+      ],
+      "facciones": [
+        "Supremos Comandantes"
+      ],
+      "lugares": [
+        "Banderbill"
+      ],
+      "categoria": "sucesion",
+      "fuentes": [
+        {
+          "libro": "IV",
+          "capitulo": "Apéndice: Cronología del Libro Cuarto",
+          "pagina": 851
+        }
+      ]
+    },
+    {
+      "id": "evento-075",
+      "orden": 75,
       "anio": 1256,
       "periodo": "Nueva Era",
       "precisionFecha": "anio",
@@ -1630,25 +2185,20 @@
       "fuentes": [
         {
           "libro": "IV",
-          "capitulo": "Apéndice: Cronología del Libro Cuarto — Año 1256",
-          "pagina": null
-        },
-        {
-          "libro": "IV",
-          "capitulo": "Capítulo 36 · Baervan",
-          "pagina": null
+          "capitulo": "Apéndice: Cronología del Libro Cuarto",
+          "pagina": 852
         }
       ]
     },
     {
-      "id": "evento-048",
-      "orden": 48,
+      "id": "evento-076",
+      "orden": 76,
       "anio": null,
       "periodo": "Años 1256–1257 de la Nueva Era",
       "precisionFecha": "intervalo",
-      "titulo": "Nacimiento de Tundra Zero por el congelamiento del valle negro",
-      "descripcion": "Entre 1256 y 1257 el Guardián levantó la cabeza y el valle negro se congeló. Desde entonces recibió el nombre de Tundra Zero.",
-      "consecuencias": "El antiguo valle negro se transformó en un territorio helado de nueva importancia geográfica.",
+      "titulo": "La ceniza transforma el valle negro en Tundra Zero",
+      "descripcion": "Entre 1256 y 1257 el Guardián levantó la cabeza y el volcán despertó; la ceniza cubrió el valle negro, que desde entonces pasó a llamarse Tundra Zero.",
+      "consecuencias": "El antiguo valle negro se transformó por la actividad volcánica y sus depósitos de ceniza, no por un congelamiento.",
       "personajes": [
         "Último Guardián"
       ],
@@ -1663,25 +2213,102 @@
       "fuentes": [
         {
           "libro": "IV",
-          "capitulo": "Apéndice: Cronología del Libro Cuarto — Años 1256–1257",
-          "pagina": null
-        },
-        {
-          "libro": "IV",
-          "capitulo": "Capítulo 36 · Baervan",
-          "pagina": null
+          "capitulo": "Apéndice: Cronología del Libro Cuarto",
+          "pagina": 852
         }
       ]
     },
     {
-      "id": "evento-049",
-      "orden": 49,
+      "id": "evento-077",
+      "orden": 77,
+      "anio": 1300,
+      "periodo": "Nueva Era",
+      "precisionFecha": "anio",
+      "titulo": "Hatmie abre el sexto Rincón",
+      "descripcion": "Hatmie abrió el sexto de los Ocho Rincones bajo la ceniza de Tundra Zero y encontró en su interior una medusa dormida.",
+      "consecuencias": "Se documentó otra apertura de los Rincones y se confirmó la presencia de una medusa bajo la ceniza.",
+      "personajes": [
+        "Hatmie"
+      ],
+      "facciones": [
+        "Orden"
+      ],
+      "lugares": [
+        "Tundra Zero"
+      ],
+      "categoria": "magia",
+      "fuentes": [
+        {
+          "libro": "IV",
+          "capitulo": "Apéndice: Cronología del Libro Cuarto",
+          "pagina": 853
+        }
+      ]
+    },
+    {
+      "id": "evento-078",
+      "orden": 78,
+      "anio": 1402,
+      "periodo": "Nueva Era",
+      "precisionFecha": "anio",
+      "titulo": "Profecía de Aelthar",
+      "descripcion": "La profecía del mago Aelthar se produjo en la posada de Joss. Ese año, Hatmie cerró el palacio con la llave de hierro.",
+      "consecuencias": "La profecía quedó incorporada a los registros históricos previos al ascenso de Arispar.",
+      "personajes": [
+        "Aelthar",
+        "Hatmie"
+      ],
+      "facciones": [],
+      "lugares": [
+        "Ullathorpe",
+        "Banderbill"
+      ],
+      "categoria": "magia",
+      "fuentes": [
+        {
+          "libro": "IV",
+          "capitulo": "Apéndice: Cronología del Libro Cuarto",
+          "pagina": 853
+        }
+      ]
+    },
+    {
+      "id": "evento-079",
+      "orden": 79,
+      "anio": 1416,
+      "periodo": "Nueva Era",
+      "precisionFecha": "anio",
+      "titulo": "Corin entrega su ofrenda a Almad",
+      "descripcion": "El 14 de diciembre, con la primera nevada, Corin Ruald dio su sangre a Almad Larien usando la navaja de pelar fruta de Astragal.",
+      "consecuencias": "La ofrenda quedó vinculada a quien después sería conocido como Arispar.",
+      "personajes": [
+        "Corin Ruald",
+        "Almad Larien"
+      ],
+      "facciones": [
+        "Orden"
+      ],
+      "lugares": [
+        "Banderbill"
+      ],
+      "categoria": "magia",
+      "fuentes": [
+        {
+          "libro": "IV",
+          "capitulo": "Apéndice: Cronología del Libro Cuarto",
+          "pagina": 854
+        }
+      ]
+    },
+    {
+      "id": "evento-080",
+      "orden": 80,
       "anio": 1417,
       "periodo": "Nueva Era",
       "precisionFecha": "anio",
       "titulo": "Traición Justiciera y coronación de Arispar",
-      "descripcion": "Murieron los cuatro integrantes del Parlamento reunidos en una cabaña al sur. Hatmie abdicó y se marchó con doce gnomos; Arispar fue coronado vigésimo tercer emperador.",
-      "consecuencias": "Se produjo un cambio de autoridad y terminó el gobierno de Hatmie.",
+      "descripcion": "En la Traición Justiciera murieron los cuatro integrantes del Parlamento reunidos en la cabaña del Sur. Hatmie abdicó y se retiró a la ciudad baja con doce gnomos de guardia; Arispar fue proclamado vigésimo tercer emperador.",
+      "consecuencias": "Arispar asumió el mando imperial. Hatmie todavía no partió al sur con Baervan, hecho posterior al corte de esta cronología.",
       "personajes": [
         "Hatmie",
         "Arispar",
@@ -1701,24 +2328,14 @@
       "fuentes": [
         {
           "libro": "IV",
-          "capitulo": "Apéndice: Cronología del Libro Cuarto — Año 1417",
-          "pagina": null
-        },
-        {
-          "libro": "IV",
-          "capitulo": "Capítulo 55 · Nim",
-          "pagina": null
-        },
-        {
-          "libro": "IV",
-          "capitulo": "Capítulo 57 · Hatmie",
-          "pagina": null
+          "capitulo": "Apéndice: Cronología del Libro Cuarto",
+          "pagina": 854
         }
       ]
     },
     {
-      "id": "evento-050",
-      "orden": 50,
+      "id": "evento-081",
+      "orden": 81,
       "anio": 1419,
       "periodo": "Nueva Era",
       "precisionFecha": "anio",
@@ -1743,19 +2360,14 @@
       "fuentes": [
         {
           "libro": "IV",
-          "capitulo": "Apéndice: Cronología del Libro Cuarto — Año 1419",
-          "pagina": null
-        },
-        {
-          "libro": "IV",
-          "capitulo": "Capítulo 59 · Glokark",
-          "pagina": null
+          "capitulo": "Apéndice: Cronología del Libro Cuarto",
+          "pagina": 854
         }
       ]
     },
     {
-      "id": "evento-051",
-      "orden": 51,
+      "id": "evento-082",
+      "orden": 82,
       "anio": 1436,
       "periodo": "Nueva Era",
       "precisionFecha": "anio",
@@ -1779,19 +2391,14 @@
       "fuentes": [
         {
           "libro": "IV",
-          "capitulo": "Apéndice: Cronología del Libro Cuarto — Año 1436",
-          "pagina": null
-        },
-        {
-          "libro": "IV",
-          "capitulo": "Capítulo 63 · Tibbet",
-          "pagina": null
+          "capitulo": "Apéndice: Cronología del Libro Cuarto",
+          "pagina": 854
         }
       ]
     },
     {
-      "id": "evento-052",
-      "orden": 52,
+      "id": "evento-083",
+      "orden": 83,
       "anio": 1437,
       "periodo": "Nueva Era",
       "precisionFecha": "anio",
@@ -1816,20 +2423,20 @@
       "fuentes": [
         {
           "libro": "IV",
-          "capitulo": "Apéndice: Cronología del Libro Cuarto — Año 1437",
-          "pagina": null
+          "capitulo": "Apéndice: Cronología del Libro Cuarto",
+          "pagina": 854
         }
       ]
     },
     {
-      "id": "evento-053",
-      "orden": 53,
+      "id": "evento-084",
+      "orden": 84,
       "anio": 1438,
       "periodo": "Nueva Era",
       "precisionFecha": "anio",
       "titulo": "Derrota de los Tres y disputa por la Espada del Destino",
-      "descripcion": "Tres generales fueron tras la Vara y cayeron; Nesturil se entregó por ellos. En otra secuencia, Van Hellsing II, Kesh, Orrin y Fenomaniac intervinieron en la historia de la Espada del Destino. El Demonio la utilizó y finalmente la entregó a Glokark.",
-      "consecuencias": "El Imperio no recuperó la Vara y la Espada quedó en manos de Glokark.",
+      "descripcion": "Tres generales fueron tras la Vara y cayeron; Nesturil se entregó por ellos. En la disputa por la Espada del Destino aparecen Aldo Harwen II, Kesh, Orrin y Cendrel. El Demonio la utilizó, gritó al hacerlo y finalmente la entregó a Glokark.",
+      "consecuencias": "El Imperio no recuperó la Vara y la Espada del Destino quedó en manos de Glokark.",
       "personajes": [
         "Nesturil",
         "Van Hellsing II",
@@ -1850,20 +2457,20 @@
       "fuentes": [
         {
           "libro": "IV",
-          "capitulo": "Apéndice: Cronología del Libro Cuarto — Año 1438",
-          "pagina": null
+          "capitulo": "Apéndice: Cronología del Libro Cuarto",
+          "pagina": 854
         }
       ]
     },
     {
-      "id": "evento-054",
-      "orden": 54,
+      "id": "evento-085",
+      "orden": 85,
       "anio": 1439,
       "periodo": "Nueva Era",
       "precisionFecha": "anio",
       "titulo": "Incendios y ataques de Jhark contra Nix y Ullathorpe",
-      "descripcion": "Jhark atacó e incendió Nix y Ullathorpe. Los sucesos se registran antes de la intervención de Fausto ante el emperador.",
-      "consecuencias": "Las poblaciones afectadas sufrieron daños y la crisis alimentaria y política del sur se agudizó.",
+      "descripcion": "Jhark atacó e incendió Nix en marzo de 1439; los relatos también registran sus ataques contra Ullathorpe. La Armada priorizó la búsqueda de los Fragmentos de Alkar.",
+      "consecuencias": "Las poblaciones del Sur sufrieron pérdidas y la falta de respuesta agravó la crisis política y alimentaria.",
       "personajes": [
         "Jhark"
       ],
@@ -1879,19 +2486,14 @@
       "fuentes": [
         {
           "libro": "IV",
-          "capitulo": "Apéndice: Cronología del Libro Cuarto — Año 1439",
-          "pagina": null
-        },
-        {
-          "libro": "IV",
-          "capitulo": "Capítulo 70 · Jhark",
-          "pagina": null
+          "capitulo": "Apéndice: Cronología del Libro Cuarto",
+          "pagina": 855
         }
       ]
     },
     {
-      "id": "evento-055",
-      "orden": 55,
+      "id": "evento-086",
+      "orden": 86,
       "anio": 1439,
       "periodo": "Nueva Era",
       "precisionFecha": "anio",
@@ -1915,51 +2517,10 @@
       "fuentes": [
         {
           "libro": "IV",
-          "capitulo": "Apéndice: Cronología del Libro Cuarto — Año 1439",
-          "pagina": null
-        },
-        {
-          "libro": "IV",
-          "capitulo": "Capítulo 70 · Jhark",
-          "pagina": null
-        }
-      ]
-    },
-    {
-      "id": "evento-056",
-      "orden": 56,
-      "anio": 1439,
-      "periodo": "Nueva Era",
-      "precisionFecha": "anio",
-      "titulo": "Enfrentamiento de Lindos y desaparición de Jhark",
-      "descripcion": "En Lindos se enfrentaron fuerzas imperiales, piratas vinculados a Jhark y Hordas de Orac. Jhark cayó a un canal y no reapareció; Arispar conservó la Lágrima del Creador.",
-      "consecuencias": "La Lágrima quedó bajo resguardo de Arispar; la muerte de Jhark no quedó acreditada por la recuperación de un cuerpo.",
-      "personajes": [
-        "Jhark",
-        "Arispar"
-      ],
-      "facciones": [
-        "Imperio",
-        "Piratas",
-        "Hordas de Orac"
-      ],
-      "lugares": [
-        "Lindos"
-      ],
-      "categoria": "guerra",
-      "fuentes": [
-        {
-          "libro": "IV",
-          "capitulo": "Apéndice: Cronología del Libro Cuarto — Año 1439",
-          "pagina": null
-        },
-        {
-          "libro": "IV",
-          "capitulo": "Capítulo 71 · Lindos",
-          "pagina": null
+          "capitulo": "Apéndice: Cronología del Libro Cuarto",
+          "pagina": 855
         }
       ]
     }
-  ],
-  "acontecimientosPosterioresAlCorte": []
+  ]
 }

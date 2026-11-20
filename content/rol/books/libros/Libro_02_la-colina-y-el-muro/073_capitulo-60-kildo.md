@@ -1,4 +1,4 @@
-## Capítulo 60 · Kildo
+# Capítulo 60 · Kildo
 
 *Las montañas grises y Banderbill. Año 218 de la Nueva Era.*
 
@@ -14,7 +14,7 @@ Kildo, hijo de Kolgrim, de la casa de Hondopico, tenía setenta y cuatro años, 
 
 *Piedra.*
 
-Las demás palabras le parecían bien. Las usaba. Había aprendido la lengua de la colina tarde, a fuerza de escuchar a los tramperos del mercado de los jueves, y ahora la hablaba casi sin acento, salvo las erres, que le salían como un derrumbe pequeño. Pero las demás palabras eran para pedir cosas, o para decir que no, o para contar lo que había pasado. Piedra era otra cosa. Piedra era lo que era. No pedía nada. No contaba nada. Estaba.
+Las demás palabras le parecían bien. Las usaba. Había aprendido la lengua de la colina tarde, a fuerza de escuchar a los tramperos del mercado de los jueves, y ahora la hablaba casi sin acento, salvo las erres, que le salían como un derrumbe pequeño. Pero las demás palabras eran para pedir cosas, o para decir que no, o para contar lo que había pasado. *Piedra* era otra cosa. *Piedra* era lo que era. No pedía nada. No contaba nada. Estaba.
 
 Por eso, cuando el mensajero de la colina entró en la sala larga de Hondopico, bajo la montaña, y dijo, delante del Consejo de las Barbas, que el nuevo rey de los hombres quería una corona de oro hecha por los enanos, Kildo no levantó la vista del trozo de cuarzo que estaba puliendo con el pulgar.
 
@@ -22,11 +22,11 @@ Y cuando el mensajero añadió que el nuevo rey quería, además, que la corona 
 
 Y dijo, en voz alta, delante de todas las barbas:
 
-—Piedra.
+—*Piedra.*
 
-Que en la lengua de Hondopico, dicho así, de golpe, por un enano joven en el Consejo, quería decir más o menos: eso no se hace.
+Que en la lengua de Hondopico, dicho así, de golpe, por un enano joven en el Consejo, quería decir más o menos: *eso no se hace*.
 
-* * *
+---
 
 Lo mandaron a él.
 
@@ -42,7 +42,7 @@ Kolgrim se tiró de la barba.
 
 —Los reyes de los hombres —dijo Kolgrim— duran cuarenta años. Las piedras no.
 
-* * *
+---
 
 El viaje a la colina duraba nueve días por el camino de Ullathorpe. Kildo lo hizo en doce, porque se paraba.
 
@@ -56,13 +56,13 @@ Kildo no les tenía miedo.
 
 A las otras sí. A las que se picaban con hierro. Esas se despertaban. Se lo había contado su abuelo, una vez, de niño, en voz muy baja: que hacía cuarenta años había habido un muchacho de la colina, de los que cantaban a las coles, que había subido a las montañas rojas con un pico de hierro y había despertado una, y que la colina había tenido que inventar los Rincones por su culpa. Kildo no sabía si era verdad. Su abuelo exageraba. Pero la roca roja del camino zumbaba igual que en el cuento.
 
-* * *
+---
 
 La colina lo recibió con fuegos de colores.
 
 No por él. Por el rey muerto. Los gnomos estaban probando los del funeral, que iba a ser al día siguiente, y uno se les escapó del puerto y estalló encima de la puerta del norte justo cuando Kildo entraba con las mulas, y la mula de los cristales se encabritó, y la del oro se sentó, y Kildo se quedó en medio del camino con una lluvia de chispas verdes cayéndole en la barba.
 
-—Piedra —dijo.
+—*Piedra* —dijo.
 
 —Perdón, perdón, perdón —dijo un gnomo, apareciendo de debajo de un carro. Llevaba un sombrero de hojas mustio y una nariz enorme con una verruga en la punta, y se estaba riendo tanto que no podía hablar—. Era el de las coles. Se ha soltado. Tenía que hacer una col. ¿Ha hecho una col?
 
@@ -70,7 +70,7 @@ Kildo miró al cielo. Quedaba una nube verde, redonda, deshaciéndose.
 
 —Una col —dijo.
 
-—¡Ha hecho una col! —El gnomo se dio la vuelta y gritó hacia el puerto—: ¡Ha hecho una col! —Luego se volvió otra vez hacia Kildo y le tendió la mano, que le llegaba a la altura del cinturón—. Tibbet. Tibbet Tornasol. Tú eres el de las piedras. El que no habla. Fuimos juntos al sur, hace sesenta y dos años. Tú tenías doce y decías piedra y yo te llevaba higos.
+—¡Ha hecho una col! —El gnomo se dio la vuelta y gritó hacia el puerto—: ¡Ha hecho una col! —Luego se volvió otra vez hacia Kildo y le tendió la mano, que le llegaba a la altura del cinturón—. Tibbet. Tibbet Tornasol. Tú eres el de las piedras. El que no habla. Fuimos juntos al sur, hace sesenta y dos años. Tú tenías doce y decías *piedra* y yo te llevaba higos.
 
 Kildo lo miró.
 
@@ -80,7 +80,7 @@ Se acordaba. Se acordaba del gnomo. No se acordaba de que tuviera la misma cara.
 
 —No. —Tibbet sonrió—. Es una larga historia. Te la cuento si me dejas ver el oro.
 
-* * *
+---
 
 El rey nuevo se llamaba Arthal, tenía dieciocho años y una oreja un poco puntiaguda que se tapaba con el pelo.
 
@@ -112,9 +112,9 @@ Arthal se rió. Corto. Le gustó. Kildo lo vio.
 
 —Eso es una corona.
 
-—Eso es un trozo de ancla. Me lo dicen los embajadores. Los de Nueva Esperanza se ríen. Los elfos de Nix no dicen nada, que es peor. Tu Consejo de las Barbas me escribe al rey de los hombres de la colina, como se escribe al alcalde de una aldea. —Arthal se levantó. Era más alto que Kildo de pie en un taburete—. Mi bisabuelo hizo la paz con los enanos y con los elfos. Mi abuelo hizo tres puertos. Mi padre casó a la colina con Nix. Hay cuatro razas en esta tierra, embajador, y las cuatro comen del mismo puerto y se casan en la misma plaza y se ríen en los mismos entierros. Eso no es una colina. Eso es un imperio.
+—Eso es un trozo de ancla. Me lo dicen los embajadores. Los de Nueva Esperanza se ríen. Los elfos de Nix no dicen nada, que es peor. Tu Consejo de las Barbas me escribe *al rey de los hombres de la colina*, como se escribe al alcalde de una aldea. —Arthal se levantó. Era más alto que Kildo de pie en un taburete—. Mi bisabuelo hizo la paz con los enanos y con los elfos. Mi abuelo hizo tres puertos. Mi padre casó a la colina con Nix. Hay cuatro razas en esta tierra, embajador, y las cuatro comen del mismo puerto y se casan en la misma plaza y se ríen en los mismos entierros. Eso no es una colina. Eso es un imperio.
 
-—Piedra —dijo Kildo. Bajito.
+—*Piedra* —dijo Kildo. Bajito.
 
 —¿Qué?
 
@@ -126,7 +126,7 @@ Kildo miró el aro.
 
 Desde la puerta, desde donde estaba, a diez pasos, lo oyó.
 
-* * *
+---
 
 No le había pasado nunca con un metal.
 
@@ -148,11 +148,11 @@ Estaba caliente.
 
 Arthal tardó.
 
-—Más que a mis ojos —dijo—. Lo eligió Mara Renod. La mujer de Bander, el primero. Nadie sabe qué quiere decir.
+—*Más que a mis ojos* —dijo—. Lo eligió Mara Renod. La mujer de Bander, el primero. Nadie sabe qué quiere decir.
 
 —Lo sabe el hierro —dijo Kildo.
 
-* * *
+---
 
 Esa noche no durmió.
 
@@ -170,13 +170,13 @@ Y Kildo, que oía las piedras, la oyó a ella.
 
 No como se oye a una persona. Como se oye una veta. Debajo de la piel, debajo de la carne, había algo que latía lento, regular, viejo, mucho más viejo que la chica. Como el aro. Como la roca roja del camino, pero sin zumbido. Tranquilo. Y colgado del cuello, en un cordón de bota, un frasquito de barro que latía también, pero distinto: como algo que espera.
 
-—Piedra —dijo Kildo. Sin querer.
+—*Piedra* —dijo Kildo. Sin querer.
 
 La chica sonrió. Torcido. Con una mitad de la boca más alta que la otra.
 
 —Me lo han dicho más veces —dijo—. ¿Puedo pasar?
 
-* * *
+---
 
 Se sentaron en el suelo los tres. El gnomo repartió higos. La chica no se quitó la capucha.
 
@@ -200,11 +200,11 @@ La chica no contestó enseguida. El gnomo dejó de comer higos.
 
 Kildo no supo qué decir. Dijo lo único que sabía.
 
-—Piedra.
+—*Piedra.*
 
 —Sí. —La chica se rió. Bajo. Con la nariz—. Eso.
 
-* * *
+---
 
 —No lo quiero fundir —dijo Kildo—. No se puede fundir. Se puede, pero no se debe. Si lo fundes, la canción se va al oro. Y el oro no la guarda. El oro no guarda nada. Es blando. Es bonito. Es como un perro que quiere a todo el mundo.
 
@@ -218,13 +218,13 @@ La chica miró a Kildo.
 
 —Lo que tú quieras —dijo—. Tú eres el herrero. Yo solo soy la que llega tarde.
 
-Kildo se quedó pensando. Pensó mucho rato, que en un enano es mucho. Pensó en el oro, blando, bonito, que no guarda nada. Pensó en los cristales dormidos. Pensó en la roca roja del camino, que zumbaba. Pensó en su padre: los reyes de los hombres duran cuarenta años. Las piedras no.
+Kildo se quedó pensando. Pensó mucho rato, que en un enano es mucho. Pensó en el oro, blando, bonito, que no guarda nada. Pensó en los cristales dormidos. Pensó en la roca roja del camino, que zumbaba. Pensó en su padre: *los reyes de los hombres duran* *cuarenta años. Las piedras no.*
 
 Pensó en una ciruela.
 
 —Como el hueso de una fruta —dijo.
 
-* * *
+---
 
 Hicieron la corona en la plaza. Delante de todos.
 
@@ -232,7 +232,7 @@ Eso lo pidió Kildo, y Arthal, que tenía dieciocho años y ganas de que lo vier
 
 Kildo trabajó nueve días. Sin hablar. Con el martillo pequeño.
 
-El oro lo batió en láminas, finas como hojas, y las dobló en una banda ancha, alta, con once puntas, una por cada lingote, una por cada piedra. Por fuera, grabado, nada: ni dragones, ni leones, ni las cosas que los hombres ponían en las coronas en los cuentos. Hojas. De castaño. Por el castaño de la plaza de arriba, el que daba sombra al Consejo en verano. Arthal preguntó por qué. Kildo dijo piedra. Arthal no volvió a preguntar.
+El oro lo batió en láminas, finas como hojas, y las dobló en una banda ancha, alta, con once puntas, una por cada lingote, una por cada piedra. Por fuera, grabado, nada: ni dragones, ni leones, ni las cosas que los hombres ponían en las coronas en los cuentos. Hojas. De castaño. Por el castaño de la plaza de arriba, el que daba sombra al Consejo en verano. Arthal preguntó por qué. Kildo dijo *piedra*. Arthal no volvió a preguntar.
 
 En cada punta, un cristal de Alkar. Dormido. Brillando apenas, como los ojos de un gato.
 
@@ -244,7 +244,7 @@ Lo midió con un hilo. Tres veces. Lo midió con los dedos. Lo midió con el oí
 
 —Para que respire —dijo Kildo.
 
-* * *
+---
 
 El último día, al atardecer, la pesaron.
 
@@ -272,7 +272,7 @@ El de las gafas se las subió a la frente.
 
 —Es un decir —dijo.
 
-* * *
+---
 
 A Arthal lo coronaron al día siguiente. Con la corona de oro de once libras y el aro de hierro dentro, como el hueso de una fruta.
 
@@ -290,7 +290,7 @@ Después abrió los ojos y dijo, a la plaza, con voz de Emperador, que había en
 
 La plaza gritó. Los gnomos soltaron una col. Los elfos de Nix no dijeron nada, pero se pusieron la mano en el pecho, que en Nix era mucho. El Consejo de las Barbas, por boca de Kildo, que no lo había preparado, dijo lo único que le salió.
 
-—Piedra.
+—*Piedra.*
 
 Arthal lo miró. Y sonrió. Y la gente que estaba cerca juró después que el Emperador había dicho algo en voz baja, al enano, que nadie oyó.
 
@@ -300,7 +300,7 @@ Lo que dijo Arthal fue:
 
 —Que se oiga.
 
-* * *
+---
 
 La chica del pelo cobrizo no fue a la coronación. O fue y no la vio nadie, que era lo mismo.
 
@@ -332,7 +332,7 @@ La chica sonrió. Torcido.
 
 —Díselo al de las gafas —dijo—. Él lo apunta.
 
-* * *
+---
 
 Kildo volvió a pasar por allí más de cien veces en los ciento doce años siguientes. En cada viaje a la colina. Siempre se paraba en el camino, al oeste del Fuerte, y escuchaba la roca roja desde lejos.
 

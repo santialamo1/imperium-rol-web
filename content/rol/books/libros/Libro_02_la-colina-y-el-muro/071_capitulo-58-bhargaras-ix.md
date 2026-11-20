@@ -1,4 +1,4 @@
-## Capítulo 58 · Bhargaras IX
+# Capítulo 58 · Bhargaras IX
 
 *Banderbill, Nix y el mar. Años 184 a 197 de la Nueva Era.*
 
@@ -14,7 +14,7 @@
 
 Tardó treinta años en terminarlos, los tres puertos que había prometido en el Consejo. Los tres.
 
-El de la colina lo llamaron Banderbill, como la ciudad, porque nadie se puso de acuerdo en otro nombre y porque, dijo un enano en el Consejo, si le ponéis otro nombre os vais a liar. Era enorme. Tres rompeolas. Cuarenta muelles. Una torre con un fuego arriba que los gnomos habían hecho con un cristal que brillaba solo y que se veía desde treinta millas de mar.
+El de la colina lo llamaron Banderbill, como la ciudad, porque nadie se puso de acuerdo en otro nombre y porque, dijo un enano en el Consejo, *si le ponéis otro nombre os* *vais a liar*. Era enorme. Tres rompeolas. Cuarenta muelles. Una torre con un fuego arriba que los gnomos habían hecho con un cristal que brillaba solo y que se veía desde treinta millas de mar.
 
 El de Nix lo hicieron en el río, a una legua de la ciudad. Pequeño. Para barcas. Y en tres años Nix creció hasta el río, y el río se llenó de casas, y Nix, que había sido un campamento de orcos de una clase extraña al lado de una puerta que no se abría, se convirtió en la segunda ciudad de las cuatro razas.
 
@@ -30,7 +30,7 @@ El de las islas lo hicieron los gnomos. Solos. No dejaron que los ayudara nadie.
 
 Se cayó al bajar.
 
-* * *
+---
 
 En treinta años hubo paz.
 
@@ -48,7 +48,7 @@ Y la paz, descubrió Bhargaras, era un trabajo. El más aburrido del mundo. El m
 
 —Ya lo sé. —Tibbet se comió un higo—. Él también se quejaba.
 
-* * *
+---
 
 En el año 196 se puso enfermo.
 
@@ -58,7 +58,7 @@ Tardó un año en morirse. Le dio tiempo a todo. A casar a su hijo, Bhargaras X,
 
 Y a llamar a la chica pelirroja.
 
-* * *
+---
 
 Vino de noche. Por la ventana. Como venía siempre que venía, que no era mucho; Bhargaras la había visto cuatro veces en su vida. En la coronación de su padre. En el entierro de su padre. En el juicio de Bredinlo. Y ahora.
 
@@ -96,7 +96,7 @@ Bhargaras la miró. Con los ojos grises. Los de ella.
 
 —No sé a quién dársela —dijo.
 
-* * *
+---
 
 Lanther tardó mucho en contestar.
 
@@ -108,7 +108,7 @@ Lanther tardó mucho en contestar.
 
 —Tú eres de todas partes. Llevas ciento ochenta años mirando. —Bhargaras le cogió la mano. La tenía fría. La de ella—. Tú sabrás a quién le hace falta. Dentro de cien años. Dentro de doscientos. Cuando yo ya no esté. Cuando ni siquiera esté mi nieto.
 
-—Las reglas dicen que se da a otro. A uno. Con su nombre. Mirándolo.
+—Las reglas dicen que se da *a otro*. A uno. Con su nombre. Mirándolo.
 
 —Pues dámela a mí para que se la des tú. —Bhargaras sonrió—. O guárdala. O lo que sea que hacéis. Lo que sea que hace tu Orden. Esa que no existe.
 
@@ -118,11 +118,11 @@ Lanther lo miró.
 
 —Prueba.
 
-* * *
+---
 
 Se pudo. Más o menos.
 
-Lanther sacó del cinto el cuchillo de Mara, el que Bhargaras VIII le había devuelto en su lecho de muerte, para que vuelva a quien empezó. El de destripar pescado. Viejo, gastado, con el mango de hueso amarillento. Bhargaras se hizo un corte en el pulgar. Una gota. Roja.
+Lanther sacó del cinto el cuchillo de Mara, el que Bhargaras VIII le había devuelto en su lecho de muerte, *para que vuelva a quien empezó*. El de destripar pescado. Viejo, gastado, con el mango de hueso amarillento. Bhargaras se hizo un corte en el pulgar. Una gota. Roja.
 
 Y Lanther sacó de la bolsa una cosa que Bhargaras no había visto nunca. Un frasquito. De cristal. De los gnomos. Pequeño como un dedal. Vacío.
 
@@ -142,7 +142,7 @@ Lanther tapó el frasquito.
 
 Y se rio. Y le dio tos. Y Lanther le pasó el paño.
 
-* * *
+---
 
 Se murió dos días después. Por la mañana. Con Alys roncando en la silla a su lado y la ventana abierta para que entrara el ruido del puerto.
 
@@ -150,7 +150,7 @@ Tibbet organizó los fuegos.
 
 En la colina, en la biblioteca, en el rincón del fondo, un hombre de unos cuarenta años con gafas abrió el libro de cuentas por la última página, la del recuento, y escribió, debajo de la línea de Amael, que seguía sin nombre:
 
-*Bhargaras IX. Una vida. Sin dueño. En un frasco de cristal que lleva Lanther en la bolsa. Pendiente de nombre.*
+*Bhargaras IX. Una vida. Sin dueño. En un frasco de cristal que lleva Lanther en la* *bolsa. Pendiente de nombre.*
 
 Lo miró un rato.
 
@@ -158,7 +158,6 @@ Luego añadió:
 
 *Es el primero que se la da a la Orden. No a una persona. A la Orden.*
 
-*Me da miedo.*  
-*No sé si eso es lo que somos.*
+*Me da miedo.* *No sé si eso es lo que somos.*
 
 Y no lo tachó.

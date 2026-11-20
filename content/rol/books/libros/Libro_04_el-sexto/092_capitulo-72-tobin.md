@@ -1,6 +1,6 @@
-## Capítulo 72 · Tobin
+# Capítulo 72 · Tobin
 
-*Ullathorpe, la guarnición y la posada de Joss. Otoño del año 1439 de la Nueva Era (832 D.bA).*
+*Ullathorpe, la guarnición y la posada de Joss. Otoño del año 1439 de la Nueva Era* *(832 D.bA).*
 
 La armadura pesaba diecinueve libras.
 
@@ -16,7 +16,7 @@ Tobin no entendió qué quería decir.
 
 Lo entendió en septiembre.
 
-* * *
+---
 
 En septiembre no había sacos.
 
@@ -32,7 +32,7 @@ Eso era lo peor. Tobin lo sabía. Lo sabían los cuarenta de la guarnición. Com
 
 Se veía.
 
-* * *
+---
 
 Tobin le llevaba la mitad de su ración a su madre.
 
@@ -44,19 +44,19 @@ En septiembre empezó a llevar la ración entera.
 
 Su sargento lo vio. No dijo nada. El sargento llevaba la mitad de la suya a una mujer del barrio de los tintes que no era su mujer.
 
-* * *
+---
 
 La gente lo miraba.
 
 Por la calle. Cuando bajaba con el paño. Con la armadura de diecinueve libras brillando al sol de otoño. Lo miraban las mujeres de las puertas, los niños de los portales, los viejos sentados en los poyos. No decían nada. Miraban la armadura. Miraban el paño. Miraban su cara, que estaba redonda, porque comía.
 
-Dicen que para que la gente vea una armadura, le había dicho a aquel granjero, en el calabozo de la colina, en primavera.
+*Dicen que para que la gente vea una armadura*, le había dicho a aquel granjero, en el calabozo de la colina, en primavera.
 
-Que no la vean mucho, había dicho el granjero.
+*Que no la vean mucho*, había dicho el granjero.
 
 Tobin lo entendía ahora.
 
-* * *
+---
 
 El granjero había vuelto en mayo.
 
@@ -68,11 +68,11 @@ Había empezado a hablar.
 
 No en la plaza. En los campos. En las casas. En los cobertizos de los molinos quemados. En voz baja, primero; luego no. Hablaba de lo que había visto en la capital. Las naranjas en la cuneta. La cúpula dorada. Los guardias con armaduras brillantes. El hombre del trono, que no lo había mirado.
 
-Míranos, decía que le había dicho. Y no nos miró.
+*Míranos*, decía que le había dicho. *Y no nos miró.*
 
 La gente escuchaba.
 
-* * *
+---
 
 Tobin lo vio una vez. En agosto. Desde lejos. En los campos de arriba, en una era vacía, hablando a cincuenta, a sesenta. De pie en una carreta. Alto, ancho, con las manos grandes.
 
@@ -90,7 +90,7 @@ Tobin levantó la suya.
 
 Y siguió andando hacia el molino.
 
-* * *
+---
 
 A finales de septiembre se murió el primer niño de la calle del mercado.
 
@@ -100,7 +100,7 @@ Tobin estaba allí. Había llevado la ración entera.
 
 No llegó a tiempo.
 
-* * *
+---
 
 Lo enterraron en el cementerio del río. No había madera para caja. Lo envolvieron en un saco de harina, de los de cincuenta, vacío, con la marca de los Ruald.
 
@@ -122,11 +122,11 @@ Tobin la miró.
 
 —Que no se te olvide lo que pesa cada cosa —dijo su madre.
 
-* * *
+---
 
 La posada de Joss estaba en la plaza vieja.
 
-Era la más antigua de Ullathorpe. Tenía la puerta grande de las de antes, la que se hizo para que pasaran soldados con armadura. Dentro, encima de la chimenea, un cuadro ennegrecido de un soldado en una almena. Detrás de la barra, la nieta de Joel, Maren, que tenía cincuenta años y el pelo blanco, y que guardaba debajo de la barra, al lado del libro de deudas de su abuelo, una nota en un marco: Para que no tenga hambre mientras calla.
+Era la más antigua de Ullathorpe. Tenía la puerta grande de las de antes, la que se hizo para que pasaran soldados con armadura. Dentro, encima de la chimenea, un cuadro ennegrecido de un soldado en una almena. Detrás de la barra, la nieta de Joel, Maren, que tenía cincuenta años y el pelo blanco, y que guardaba debajo de la barra, al lado del libro de deudas de su abuelo, una nota en un marco: *Para que no tenga hambre mientras calla.*
 
 No servía comida desde agosto. No había. Servía agua, y cerveza aguada, y sitio. La gente iba por el sitio. Por estar juntos. Por oír.
 
@@ -134,7 +134,7 @@ En octubre, la posada de Joss estaba llena todas las noches.
 
 Y los de la guarnición tenían orden de no entrar.
 
-* * *
+---
 
 Tobin entró la noche del catorce de octubre.
 
@@ -148,7 +148,7 @@ Tobin se paró en la puerta.
 
 Y entró.
 
-* * *
+---
 
 Se hizo el silencio.
 
@@ -162,17 +162,17 @@ Fausto estaba al fondo. Al lado de la chimenea. Debajo del cuadro.
 
 Se levantó.
 
-* * *
+---
 
 Lo que pasó después no lo contó nadie igual.
 
-Unos dijeron que Tobin echó mano a la espada. No es verdad. Tenía las manos vacías; se las había limpiado en la camisa, del barro del cementerio, antes de entrar. Otros dijeron que alguien gritó ¡espía!. Puede ser. Otros, que fue un hombre del barrio de los tintes, al que se le había muerto la mujer en septiembre y la hija en octubre, que llevaba tres días sin hablar y que se levantó de la mesa de al lado de la puerta con un cuchillo de cortar cuero.
+Unos dijeron que Tobin echó mano a la espada. No es verdad. Tenía las manos vacías; se las había limpiado en la camisa, del barro del cementerio, antes de entrar. Otros dijeron que alguien gritó *¡espía!*. Puede ser. Otros, que fue un hombre del barrio de los tintes, al que se le había muerto la mujer en septiembre y la hija en octubre, que llevaba tres días sin hablar y que se levantó de la mesa de al lado de la puerta con un cuchillo de cortar cuero.
 
 Eso es verdad.
 
 El hombre de los tintes no dijo nada. Se levantó. Dio un paso. Y le clavó el cuchillo a Tobin en el cuello, por encima de la armadura, por el único sitio donde la armadura de diecinueve libras no tapaba nada.
 
-* * *
+---
 
 Tobin se cayó de rodillas.
 
@@ -204,7 +204,7 @@ Fausto se quedó quieto.
 
 Tobin sonrió.
 
-* * *
+---
 
 Murió en el suelo de la posada de Joss, debajo del cuadro del soldado de la almena, con la cabeza en las rodillas de Fausto, a las once de la noche del catorce de octubre del 1439.
 
@@ -226,7 +226,7 @@ Miraba la cara de Tobin. Redonda. Tranquila.
 
 —Ya lo sé —dijo Maren—. Mañana vienen igual.
 
-* * *
+---
 
 Fausto se levantó.
 

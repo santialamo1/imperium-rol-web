@@ -1,4 +1,4 @@
-## II. El sótano
+# Ii. el sótano
 
 Sein estaba despierto cuando volvió.
 
@@ -20,21 +20,21 @@ Mirela se paró en la puerta.
 
 Le enseñó el libro.
 
-La página Lo que se debe a los que no saben. La que había empezado en el 1410. Tenía ya once nombres. Mirela los leyó, de arriba abajo, en la letra pequeña de niño de Sein, que no había cambiado en mil cuatrocientos años.
+La página *Lo que se debe a los que no saben*. La que había empezado en el 1410. Tenía ya once nombres. Mirela los leyó, de arriba abajo, en la letra pequeña de niño de Sein, que no había cambiado en mil cuatrocientos años.
 
 El primero no estaba escrito. Era una raya.
 
-Luego: Corin Ruald. Imane Ruald. Nel Ruald. Daegor. Ilan Hask. La cría. Orrin, de Illiandor. Doce mil de Arghâl (siete mil se fueron). Un chico de Ullathorpe que le dio pan a un granjero en un calabozo.
+Luego: *Corin Ruald. Imane Ruald. Nel Ruald. Daegor. Ilan Hask. La cría. Orrin,* *de Illiandor. Doce mil de Arghâl (siete mil se fueron). Un chico de Ullathorpe que le dio* *pan a un granjero en un calabozo.*
 
 Y el último, esa misma noche, con la tinta todavía brillante:
 
 *Tobin. Diecinueve años. Diecinueve libras.*
 
-* * *
+---
 
 —¿Por qué diecinueve libras? —preguntó Mirela.
 
-—Lo que pesaba la armadura. —Sein se volvió a poner las gafas—. Me lo dijo un carretero que bajó esta tarde de Ullathorpe con la noticia. Que la madre del chico la había pesado en una báscula de molino. Que lo iba diciendo por las calles: diecinueve libras, un saco de cincuenta, un niño de catorce. —Miró la página—. Lo apunté. No sé en qué columna va.
+—Lo que pesaba la armadura. —Sein se volvió a poner las gafas—. Me lo dijo un carretero que bajó esta tarde de Ullathorpe con la noticia. Que la madre del chico la había pesado en una báscula de molino. Que lo iba diciendo por las calles: *diecinueve libras, un* *saco de cincuenta, un niño de catorce*. —Miró la página—. Lo apunté. No sé en qué columna va.
 
 Mirela miró la página mucho rato.
 
@@ -62,7 +62,7 @@ Sein la miró por encima de las gafas.
 
 —Él empezó antes —dijo—. Él no ha hecho otra cosa nunca.
 
-* * *
+---
 
 Mirela se sentó en la silla de enfrente.
 
@@ -74,23 +74,23 @@ La última hoja decía lo que decía desde hacía quinientos cuarenta y siete a�
 
 Y nada más. La pluma se había ido. Una raya hacia abajo, hacia el borde de la hoja, donde se le cayó la mano.
 
-* * *
+---
 
 Mirela lo había leído miles de veces.
 
-Había probado todas las palabras. Todas. En quinientos cuarenta y siete años. Las había probado en voz alta, en el sótano, de noche, una detrás de otra. Fue una trampa. Fue una matanza. Fue un error. Fue un sacrificio. Fue una lección. Fue un precio. Ninguna. Ninguna cabía. Todas eran palabras de cronista. Servían.
+Había probado todas las palabras. Todas. En quinientos cuarenta y siete años. Las había probado en voz alta, en el sótano, de noche, una detrás de otra. *Fue una trampa. Fue* *una matanza. Fue un error. Fue un sacrificio. Fue una lección. Fue un precio.* Ninguna. Ninguna cabía. Todas eran palabras de cronista. Servían.
 
 Y la frase seguía sin acabar porque su padre no era cronista de palabras que sirven.
 
 Su padre era Vell. Contaba.
 
-* * *
+---
 
 Lo pensó entonces. Allí. Con el cuaderno al lado del libro de Sein.
 
-En la noche del 892, en la muralla, con un cubo de agua, porque a las hijas de los cronistas en las guerras les dan cubos. En lo que vio desde la muralla, que no había contado nunca, ni en su crónica ni en ninguna parte. En que los de abajo no pelearon: se dejaron matar en orden. Uno, y otro, y otro. Como se pasa una cuenta. En que el de gris no peleó tampoco: se quedó en la playa, de pie, contando. En que el muro hizo tum toda la noche, y su padre, en la escalera, con la pluma, estaba contando los tum, porque estaba apuntando la hora de cada muerto.
+En la noche del 892, en la muralla, con un cubo de agua, porque a las hijas de los cronistas en las guerras les dan cubos. En lo que vio desde la muralla, que no había contado nunca, ni en su crónica ni en ninguna parte. En que los de abajo no pelearon: se dejaron matar en orden. Uno, y otro, y otro. Como se pasa una cuenta. En que el de gris no peleó tampoco: se quedó en la playa, de pie, contando. En que el muro hizo *tum* toda la noche, y su padre, en la escalera, con la pluma, estaba contando los *tum*, porque estaba apuntando la hora de cada muerto.
 
-En los cuarenta años de Hatmie contando el tum en la sala del muro. Ciento noventa. Ciento noventa y seis. Doscientos cinco.
+En los cuarenta años de Hatmie contando el *tum* en la sala del muro. Ciento noventa. Ciento noventa y seis. Doscientos cinco.
 
 En Tibbet y sus listas numeradas. En los rabos de manzana de Baervan, de diez en diez, en una caja. En Ilan Hask contando copos para no oír. En las cerraduras de Orrin, ciento cuarenta y cuatro. En los sabios del ala este leyendo letra a letra. En los legajos de Jerek. En una gnoma que pesaba lo que decía. En Wenna con su balanza de especias.
 
@@ -102,7 +102,7 @@ Alguien llevando la cuenta.
 
 Y alguien, debajo, esperando a que la cuenta saliera.
 
-* * *
+---
 
 Mojó la pluma.
 
@@ -116,13 +116,13 @@ Y escribió, con la letra pequeña de los Vell, la de abajo arriba, la que sube:
 
 *una cuenta.*
 
-* * *
+---
 
 *No fue una pelea. Fue una cuenta.*
 
 Lo miró.
 
-Era la letra de su padre y luego la suya. Se notaba el cambio. Se notaba la tinta, más nueva. Se notaban quinientos cuarenta y siete años entre Fue y una.
+Era la letra de su padre y luego la suya. Se notaba el cambio. Se notaba la tinta, más nueva. Se notaban quinientos cuarenta y siete años entre *Fue* y *una*.
 
 Pero cabía.
 
@@ -134,7 +134,7 @@ Mirela no lo supo.
 
 Sein sí. Lo supo porque, en el libro abierto, en la tercera columna, la tinta del nombre de Tobin dejó de brillar. Se secó. De golpe. Como se secan las cosas cuando por fin se han dicho.
 
-* * *
+---
 
 —Ya está —dijo Sein.
 
@@ -146,4 +146,4 @@ Luego lo volvió a abrir.
 
 Por la primera hoja. La que estaba en blanco.
 
-* * *
+---

@@ -1,4 +1,4 @@
-## Capítulo 39 · Baervan
+# Capítulo 39 · Baervan
 
 *Orac, la torre del muelle. Otoño del año 1270 de la Nueva Era (663 D.bA).*
 
@@ -36,7 +36,7 @@ Glokark se encogió de hombros. Abrió las dos manos a la vez. Negra en la izqui
 
 —Escucho dónde quieres que esté —dijo—. Y la pongo en la otra.
 
-* * *
+---
 
 Baervan se quedó mirándolo.
 
@@ -62,7 +62,7 @@ Tardó en contestar.
 
 —Contra él no juego —dijo—. Él no quiere que esté en ningún sitio. Así no se puede.
 
-* * *
+---
 
 La torre tenía una habitación. Redonda. Seis pasos de un lado a otro, que Baervan había contado tantas veces que podía contarlos dormido, y a veces lo hacía, en sueños, de noche, caminando sin moverse de la cama.
 
@@ -78,7 +78,7 @@ Lo entendió al tercer mes. Que Ithil lo había puesto en el único sitio de Ora
 
 No se lo había dicho a Ithil. Ithil tampoco. Eso era lo que hacían.
 
-* * *
+---
 
 El arpa la trajo Glokark en el 1266.
 
@@ -116,7 +116,7 @@ Tocó una cuerda. Una sola. Con un dedo.
 
 Sonó.
 
-* * *
+---
 
 Baervan la oyó. Una nota ronca, sorda, de tripa mal curtida, de madera de barco que no era de arpa. Fea. Desafinada. Una nota que se quedó en el aire de la torre un momento y se fue.
 
@@ -130,9 +130,9 @@ Ithil se quedó con el dedo en la cuerda.
 
 —Un golpe en una cuerda. —Ithil apartó el dedo—. Ruido.
 
-—Vale. —Baervan se levantó de la cama. Se acercó a la mesa. Se puso al lado de Ithil, a dos palmos, sin tocarlo—. Yo he oído una nota. Grave. Más o menos un re, pero mal, un poco por debajo. Mi madre diría que hay que subir la clavija un cuarto de vuelta.
+—Vale. —Baervan se levantó de la cama. Se acercó a la mesa. Se puso al lado de Ithil, a dos palmos, sin tocarlo—. Yo he oído una nota. Grave. Más o menos un *re*, pero mal, un poco por debajo. Mi madre diría que hay que subir la clavija un cuarto de vuelta.
 
-—No sé qué es un re.
+—No sé qué es un *re*.
 
 —Sí lo sabes. En las manos.
 
@@ -142,7 +142,7 @@ Ithil no dijo nada.
 
 Ithil la tocó. Otro golpe. Otro sonido ronco.
 
-—Esa es más alta —dijo Baervan—. Esa es más o menos un mi. También baja. Sube la clavija.
+—Esa es más alta —dijo Baervan—. Esa es más o menos un *mi*. También baja. Sube la clavija.
 
 Ithil buscó la clavija. Con los dedos. Sin mirar. La encontró al primer intento.
 
@@ -156,15 +156,15 @@ La giró más.
 
 Ithil la tocó.
 
-Sonó un mi. Limpio. Pequeño. Un mi de verdad, en una tabla de barco, en una torre de Orac, por primera vez en no se sabía cuántos siglos.
+Sonó un *mi*. Limpio. Pequeño. Un *mi* de verdad, en una tabla de barco, en una torre de Orac, por primera vez en no se sabía cuántos siglos.
 
-—Eso es un mi —dijo Baervan.
+—Eso es un *mi* —dijo Baervan.
 
 Ithil no lo oyó.
 
 Pero los dedos sí. Baervan lo vio. Vio cómo se le quedaban los dedos quietos en la cuerda después de tocarla, sin apartarse, sintiendo la vibración. Vio cómo se le movía algo en la cara. No una sonrisa. Algo antes. Algo que estaba debajo de donde se ponen las sonrisas.
 
-* * *
+---
 
 Desde entonces, cada noche, una hora.
 
@@ -172,7 +172,7 @@ Ithil se sentaba en la silla con la tabla en las rodillas. Baervan en la cama. I
 
 Así afinaron las nueve cuerdas. Tardaron un año.
 
-Luego Baervan le cantó una canción. Una de las islas, de las que cantaba su madre con el laúd, de cuatro notas nada más, que se repetían. Re, mi, sol, mi. Re, mi, sol, la. Una canción de pescadores para remar. Se la cantó despacio. Le dijo qué cuerdas eran. Ithil las buscó.
+Luego Baervan le cantó una canción. Una de las islas, de las que cantaba su madre con el laúd, de cuatro notas nada más, que se repetían. *Re, mi, sol, mi.* *Re, mi, sol, la.* Una canción de pescadores para remar. Se la cantó despacio. Le dijo qué cuerdas eran. Ithil las buscó.
 
 *Re. Mi. Sol. Mi.*
 
@@ -194,7 +194,7 @@ Pero la tocaba.
 
 Y Glokark, abajo, al pie de la escalera, cada noche, sentado en el último escalón con la espalda contra la puerta, la escuchaba entera.
 
-* * *
+---
 
 El Señor subía una vez al año.
 
@@ -210,7 +210,7 @@ Trece veces. Trece otoños. La misma pregunta, la misma risa, la misma cara del 
 
 El otoño del 1270 fue distinto.
 
-* * *
+---
 
 El Señor entró. Se sentó. De espaldas a la ventana. Con la capa gris, con la cara amable, la de recaudador, la que se ponía para empezar.
 
@@ -230,7 +230,7 @@ No dijo nada de ella.
 
 —Ni uno.
 
-—Eso es interesante. —La cara cambió. Un poco. Una sombra que pasó por debajo —. Porque lo que te sujeta, gnomo, es una vida que no es tuya. Lo sé. Lo noto. Hueles a otro. Hueles a uno que se murió en una cama en el 1066 y que te dejó lo que le quedaba. — Se inclinó hacia delante—. Y esa vida dura lo que dura una sangre. Y la sangre, en tu colina, se acabó con él. Eso dijeron. Eso dijo todo el mundo. El último. Lo escribieron en un Diario.
+—Eso es interesante. —La cara cambió. Un poco. Una sombra que pasó por debajo —. Porque lo que te sujeta, gnomo, es una vida que no es tuya. Lo sé. Lo noto. Hueles a otro. Hueles a uno que se murió en una cama en el 1066 y que te dejó lo que le quedaba. — Se inclinó hacia delante—. Y esa vida dura lo que dura una sangre. Y la sangre, en tu colina, se acabó con él. Eso dijeron. Eso dijo todo el mundo. *El último.* Lo escribieron en un Diario.
 
 Baervan no dijo nada.
 
@@ -244,7 +244,7 @@ Baervan miró arriba. A la ventana. A la tarde de otoño, gris, con una gaviota.
 
 —Hay una gaviota —dijo.
 
-* * *
+---
 
 El Señor no se volvió.
 
@@ -256,7 +256,7 @@ El Señor no se volvió.
 
 Baervan se rio.
 
-* * *
+---
 
 Se rio mirando arriba. Como en la plaza. Como cada otoño.
 
@@ -272,7 +272,7 @@ No pensó en ella.
 
 Contó estrellas.
 
-* * *
+---
 
 El Señor se quedó mirándolo mucho rato.
 
@@ -290,7 +290,7 @@ Baervan no contestó.
 
 Y se fue.
 
-* * *
+---
 
 Esa noche, Ithil subió a la hora de siempre.
 
@@ -336,8 +336,7 @@ Baervan se volvió por fin. Con la cara mojada.
 
 Ithil tocó.
 
-*Re. Mi. Sol. Mi.*  
-*Re. Mi. Sol. La.*
+*Re. Mi. Sol. Mi.* *Re. Mi. Sol. La.*
 
 Abajo, al pie de la escalera, Glokark lo oyó entero. Y luego, cuando terminó, se quedó sentado en el último escalón, con la espalda contra la puerta, con dos piedras en el puño, una blanca y una negra.
 

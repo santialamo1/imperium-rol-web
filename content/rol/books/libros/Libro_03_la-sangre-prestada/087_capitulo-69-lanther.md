@@ -1,6 +1,6 @@
-## Capítulo 69 · Lanther
+# Capítulo 69 · Lanther
 
-*La ladera norte de la colina de Banderbill, delante de la puerta del muro de dentro. Mediodía y tarde del año 892 de la Nueva Era (285 D.bA).*
+*La ladera norte de la colina de Banderbill, delante de la puerta del muro de dentro.* *Mediodía y tarde del año 892 de la Nueva Era (285 D.bA).*
 
 Arriba había un cielo de primavera, azul, con dos nubes pequeñas que se movían hacia el este, y un pájaro.
 
@@ -12,7 +12,7 @@ Lanther miró la golondrina mucho rato.
 
 Pensó en su hermano.
 
-No en el de sal. En el de antes. En el muchacho de diecisiete años, con la mandíbula cuadrada y los ojos grises, que en el año veintinueve, en un valle negro, con el suelo temblando, le había dicho yo bajo. Y le había puesto la mano en la boca. Y le había soplado en la cara. Y había dicho su nombre. Lanther. Y había bajado.
+No en el de sal. En el de antes. En el muchacho de diecisiete años, con la mandíbula cuadrada y los ojos grises, que en el año veintinueve, en un valle negro, con el suelo temblando, le había dicho *yo bajo*. Y le había puesto la mano en la boca. Y le había soplado en la cara. Y había dicho su nombre. *Lanther.* Y había bajado.
 
 Ochocientos sesenta y tres años.
 
@@ -22,7 +22,7 @@ Lo había notado. A medianoche. En la almena. Un tirón. Debajo del corazón. Co
 
 Como alguien que se agarra a una cuerda con la punta de los dedos.
 
-* * *
+---
 
 Bajó la vista.
 
@@ -52,9 +52,9 @@ Lanther no contestó.
 
 —No es lo mismo. Yo pregunto siempre.
 
-—Lo sé. —Lanther se cruzó de brazos—. Pero tú tienes una regla. Me la contó un general con manos de arpista. El que pregunta tiene que contestar. No dice nada de que el que contesta tenga que contestar. —Se encogió de hombros—. Así que no te contesto. Y ahora te pregunto yo.
+—Lo sé. —Lanther se cruzó de brazos—. Pero tú tienes una regla. Me la contó un general con manos de arpista. *El que pregunta tiene que contestar.* No dice nada de que el que contesta tenga que contestar. —Se encogió de hombros—. Así que no te contesto. Y ahora te pregunto yo.
 
-* * *
+---
 
 El hombre de gris se quedó quieto.
 
@@ -78,11 +78,11 @@ Luego se cerró.
 
 —Te lo preguntó Ithil. Y se lo diste. —Lanther dio un paso. Uno. Hacia él—. Lo que se da, se da. Tú lo sabes mejor que nadie. Tienes los bolsillos llenos de cosas que te dieron.
 
-* * *
+---
 
 —Mhorkvel —dijo—. ¿Qué quieres tú?
 
-* * *
+---
 
 Silencio.
 
@@ -112,7 +112,7 @@ Siguió.
 
 —Entonces me oye —dijo—. Por fin. Llevo desde que llegué hablándole al oído. Y no me oye. Duerme. Y cuando se despierte, lleno, me oirá. Y sabrá que fui yo. Que se lo traje. —La cara se le quedó en una. Gris. Cansada. De escribano que lleva mucho tiempo escribiendo una carta que no le contesta nadie—. Quiero que alguien me oiga.
 
-* * *
+---
 
 Lanther no dijo nada.
 
@@ -124,7 +124,7 @@ Pensó que todos querían lo mismo. Que alguien los oyera.
 
 —Te oigo —dijo.
 
-* * *
+---
 
 El hombre de gris se quedó quieto.
 
@@ -136,11 +136,11 @@ Y ella levantó la cabeza. Y miró arriba. Y lo dijo entero. Como se dice a los 
 
 —Te oigo. Vete.
 
-* * *
+---
 
 No fue una pelea.
 
-Bastián Vell lo escribió así, en el muro, deprisa, en la última hoja: No fue una pelea. Y lo subrayó.
+Bastián Vell lo escribió así, en el muro, deprisa, en la última hoja: *No fue una* *pelea.* Y lo subrayó.
 
 Fue otra cosa.
 
@@ -160,7 +160,7 @@ Y le cortó la mano. A él. La que le sujetaba la suya.
 
 No mucho. Un corte. En la palma. Como se corta uno para dar.
 
-* * *
+---
 
 La sangre de él cayó al suelo.
 
@@ -184,7 +184,7 @@ Y miró a Lanther. Que lo miraba a él. Con la mano izquierda sangrando. Con el 
 
 Con la cabeza alta.
 
-* * *
+---
 
 Dio un paso atrás.
 
@@ -198,13 +198,13 @@ Otro.
 
 Lanther se miró la palma. Sangraba. No mucho.
 
-—Porque no era una pregunta —dijo—. Era una cuenta. Me has preguntado mil veces. Yo te he contestado una: no. Y hoy otra: te oigo, vete. —Se encogió de hombros—. Lo demás te lo debía. Por lo que te oí.
+—Porque no era una pregunta —dijo—. Era una cuenta. Me has preguntado mil veces. Yo te he contestado una: *no*. Y hoy otra: *te oigo, vete*. —Se encogió de hombros—. Lo demás te lo debía. Por lo que te oí.
 
 —Eso no es…
 
 —No es tuyo, Mhorkvel. Nada de lo que tienes es tuyo. —Lanther cerró la mano—. Ni esto.
 
-* * *
+---
 
 El hombre de gris se quedó quieto mucho rato. En la ladera. Con la mano cortada. Con la sangre de ella en la boca. Mirándola.
 
@@ -222,7 +222,7 @@ No desapareció. Se fue andando. Ladera abajo. Entre los orcos sentados, que se 
 
 Hacia el norte. Hacia los agujeros helados. Hacia la costa.
 
-* * *
+---
 
 Al pasar por delante del muro, se paró.
 
@@ -240,7 +240,7 @@ Y Bastián Vell, sin levantar la vista, sin pensarlo, con el lápiz en la mano, 
 
 —Acabar la frase.
 
-* * *
+---
 
 El hombre de gris se lo guardó.
 
@@ -252,7 +252,7 @@ Luego se sentó. Despacio. En las piedras. Con la espalda contra el muro, que ca
 
 Y se quedó quieto.
 
-* * *
+---
 
 Lanther llegó a él corriendo. Subió al muro. Se arrodilló.
 
@@ -270,7 +270,7 @@ No contestó.
 
 Se murió al anochecer. Sin moverse. Con los ojos abiertos. Con la frase sin acabar.
 
-* * *
+---
 
 Lanther le cerró los ojos.
 
@@ -282,9 +282,9 @@ Y luego, en voz alta, al muro que cantaba, a la colina, a la golondrina que segu
 
 —Que conste.
 
-* * *
+---
 
-En la bahía, los últimos barcos negros desaparecían hacia el noroeste.
+En la bahía, los últimos barcos negros desaparecían hacia el norte.
 
 En la ladera, los orcos sentados seguían mirando arriba. Muchos. Algunos se habían quedado dormidos así, sentados, con la cara al cielo, como niños.
 

@@ -1,6 +1,6 @@
-## Capítulo 31 · Glokark
+# Capítulo 31 · Glokark
 
-*Orac, el patio de armas y la ladera norte. Otoño del año 1250 de la Nueva Era (643 D.bA).*
+*Orac, el patio de armas y la ladera norte. Otoño del año 1250 de la Nueva Era* *(643 D.bA).*
 
 Glokark tenía ochenta y siete años y la cara de treinta, y no sabía por qué, y no lo preguntaba.
 
@@ -10,7 +10,7 @@ Y a ese drow no le había preguntado nunca por qué no se hacía viejo.
 
 Porque lo sabía.
 
-* * *
+---
 
 Lo supo en el 1190. Diez años después de colgarse la bolsita del cuello. Se dio cuenta mirando a los otros. A los que habían estado con él en los fosos, los que había mordido, los que le habían roto la nariz dos veces. Tenían treinta años y la cara de treinta. Él tenía veintisiete y la cara de diecisiete.
 
@@ -18,13 +18,13 @@ En el 1210, los otros tenían cincuenta. Él, la de veinte.
 
 En el 1250, los que quedaban vivos de los fosos eran viejos. Orcos viejos, con los colmillos gastados y las rodillas malas, que se sentaban al sol en el muelle a ver pasar los barcos negros y que se callaban cuando pasaba él. Él tenía la cara de treinta. Y la bolsita en el cuello. Con un pellizco de sal gris, gruesa, que no se gastaba nunca, que olía a mar y a cueva y a algo muy viejo, y que de noche, cuando la apretaba, estaba un poco caliente.
 
-Era un hombre, le había dicho el general. Uno que se llamaba Pim.
+*Era un hombre*, le había dicho el general. *Uno que se llamaba Pim.*
 
 Glokark no sabía qué era un hombre de sal. Pero sabía que la sal de un hombre que se ha quedado mucho tiempo sin morirse se pega. Y que se le había pegado a él.
 
 No se lo dijo a nadie. Ni al general. Los dos lo sabían. Era lo mismo.
 
-* * *
+---
 
 El patio de armas de Orac era una explanada de roca negra al pie de la ladera, del tamaño de veinte plazas de la colina. Glokark no había visto nunca la colina, pero el general se lo había dicho: veinte plazas. Y en la explanada, cada mañana, desde hacía ciento treinta años, se entrenaba el ejército.
 
@@ -42,7 +42,7 @@ No miraban arriba. Ninguno.
 
 Ninguno menos él.
 
-* * *
+---
 
 —Mañana empezamos a marchar —dijo el general.
 
@@ -64,7 +64,7 @@ Glokark no entendió.
 
 —Porque es lo que tarda la gente en dejar de hablar de una fiesta y en empezar a aburrirse.
 
-* * *
+---
 
 El de gris lo llamó esa noche.
 
@@ -102,9 +102,9 @@ Glokark no le había visto nunca la cara de cerca. De lejos parecía la de cualq
 
 —A que el gnomo venga a ofrecerse —dijo el de gris.
 
-* * *
+---
 
-—Vendrá —dijo el de gris—. Es lo que hace. Se ríe y luego dice lo que nadie dice. Y lo que nadie dirá esa noche es me entrego yo si os vais. Lo dirá él. Lo sé porque lo quiere. Lleva doscientos años queriendo una cosa que no sabe que quiere: que alguien le deje pagar a él. —Se le movió la cara—. Se lo voy a dar.
+—Vendrá —dijo el de gris—. Es lo que hace. Se ríe y luego dice lo que nadie dice. Y lo que nadie dirá esa noche es *me entrego yo si os vais*. Lo dirá él. Lo sé porque lo quiere. Lleva doscientos años queriendo una cosa que no sabe que quiere: que alguien le deje pagar a él. —Se le movió la cara—. Se lo voy a dar.
 
 —¿Y luego?
 
@@ -114,7 +114,7 @@ Glokark no dijo nada.
 
 —Se pelearán —dijo el de gris—. Por quién se sienta. Por quién tiene la culpa. Por si había que haber tenido más soldados. Por si había que haber tenido menos fiestas. Los del norte contra los del sur. Los que quieren sangre contra los que quieren al gnomo de vuelta. Se partirán. —Volvió a mirar el agua—. Eso es lo que como, chico. No ciudades. Ciudades me sobran. Lo que pasa entre la gente cuando deja de fiarse.
 
-* * *
+---
 
 Glokark tenía una pregunta.
 
@@ -140,7 +140,7 @@ El de gris lo vio. Se le movió la cara. Un poco. Como un animal que oye un ruid
 
 Y se fue. Por el muelle. Sin ruido.
 
-* * *
+---
 
 —Te ha visto abrir la mano —dijo el general.
 
@@ -178,7 +178,7 @@ El general tardó mucho en contestar.
 
 —Yo me encargo de él. —El general cerró los ojos, que no le servían para dormir —. Alguien que se ríe tanto tiempo merece a alguien que no le pida que deje de reírse.
 
-* * *
+---
 
 La marcha empezó al alba del día siguiente.
 

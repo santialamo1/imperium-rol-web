@@ -1,10 +1,10 @@
-## Epílogo · Cuando no quede nadie
+# Epílogo · Cuando no quede nadie
 
 *La colina de Banderbill. Invierno del año 967 de la Nueva Era (360 D.bA).*
 
 La sala de la cárcel estaba preparada desde el mediodía.
 
-Era la sala de abajo de la cárcel de la ladera este, la del dintel donde dice Aquí viene quien rompe la ley. Y el emperador, el primero. La Orden la usaba desde el 618 para lo que no se podía hacer en otra parte. Tenía una mesa. Seis sillas. Una estantería con la piedra gris de Arghâl encima, que nadie miraba. Una chimenea que tiraba mal. Y una ventana pequeña, alta, con barrotes, por donde se veía un trozo de cielo del tamaño de una mano.
+Era la sala de abajo de la cárcel de la ladera este, la del dintel donde dice *Aquí viene* *quien rompe la ley. Y el emperador, el primero*. La Orden la usaba desde el 618 para lo que no se podía hacer en otra parte. Tenía una mesa. Seis sillas. Una estantería con la piedra gris de Arghâl encima, que nadie miraba. Una chimenea que tiraba mal. Y una ventana pequeña, alta, con barrotes, por donde se veía un trozo de cielo del tamaño de una mano.
 
 Sein había puesto el libro en la mesa. Abierto por el debe. Con la pluma al lado, mojada.
 
@@ -20,7 +20,7 @@ El cuchillo curvo estaba en la mesa. Envuelto en un trapo.
 
 Faltaba Astragal.
 
-* * *
+---
 
 Llegó tarde.
 
@@ -34,7 +34,7 @@ Un momento. Miró el dintel. El suelo del otro lado. A los que estaban dentro.
 
 Luego entró.
 
-* * *
+---
 
 —Siéntate, alteza —dijo Sein.
 
@@ -48,19 +48,19 @@ Miró la mesa. El libro. La pluma. El trapo con el cuchillo. Miró a Corvo Hask,
 
 —¿Por qué?
 
-* * *
+---
 
 Se lo explicaron.
 
 Sein, sobre todo. Con el libro. Porque era lo que hacía.
 
-Que los Hask llevaban casi seiscientos años en la Armada. Que Corvo era nieto del almirante Corvo, sobrino nieto de la reina Brena, la abuela de Astragal: primo de su padre, de la misma sangre de mar. Que era serio. Que era valiente. Que había subido al mástil mayor del Tessa II en una tormenta, a los quince, para soltar una vela que se había enredado, y que se había caído al bajar, y que se había roto la nariz, y que había vuelto a subir. Que la Armada necesitaba alguien que no se muriera. Que desde Hesper no había nadie de la Armada en la Orden. Hesper había muerto en Orac. El único Hask que quedaba con una vida prestada, Ilan, estaba en Tiama, delante de una rendija, y no veía el mar desde hacía cuarenta años. La Armada no tenía a nadie que se acordara.
+Que los Hask llevaban casi seiscientos años en la Armada. Que Corvo era nieto del almirante Corvo, sobrino nieto de la reina Brena, la abuela de Astragal: primo de su padre, de la misma sangre de mar. Que era serio. Que era valiente. Que había subido al mástil mayor del *Tessa II* en una tormenta, a los quince, para soltar una vela que se había enredado, y que se había caído al bajar, y que se había roto la nariz, y que había vuelto a subir. Que la Armada necesitaba alguien que no se muriera. Que desde Hesper no había nadie de la Armada en la Orden. Hesper había muerto en Orac. El único Hask que quedaba con una vida prestada, Ilan, estaba en Tiama, delante de una rendija, y no veía el mar desde hacía cuarenta años. La Armada no tenía a nadie que se acordara.
 
 Que Corvo había dicho que sí.
 
 Que estaba todo preparado.
 
-* * *
+---
 
 Astragal escuchó.
 
@@ -76,7 +76,7 @@ Sein parpadeó detrás de las gafas.
 
 —Me has dicho para qué lo queréis. —Astragal no levantó la voz—. No para qué sirve. A él. A Corvo. ¿Qué le pasa?
 
-* * *
+---
 
 Se lo dijo Wenna.
 
@@ -88,24 +88,19 @@ Luego preguntó otra cosa.
 
 —¿Quién la dio antes? La mía. La de mi sangre. ¿A quién se la dieron?
 
-* * *
+---
 
 Sein le leyó el libro.
 
 En voz alta. Desde el principio. Desde la primera hoja del primer libro, que tenía novecientos años y se deshacía en los bordes y que Sein había subido de la estantería esa mañana sin decirle a nadie por qué.
 
-*Bhargaras VII, a Lanther. Para que alguien se acuerde.*  
-*Lanther, a Sein. Para que alguien sume.*  
-*Amael, a quien yo sé.*  
-*Andriath, a Wenna. Porque la quería.*  
-*Bhargaras VIII, a Tibbet. Porque lo quería.*  
-*IX, a nadie. A un frasco.*
+*Bhargaras VII, a Lanther. Para que alguien se acuerde.* *Lanther, a Sein. Para que alguien sume.* *Amael, a quien yo sé.* *Andriath, a Wenna. Porque la quería.* *Bhargaras VIII, a Tibbet. Porque lo quería.* *IX, a nadie. A un frasco.*
 
 Y así. Arthal II, a Ottherius. Lindos, a Verawel. Liminus, a Hesper. XI, a Dalbur. Asgal, a Mirela. Astral, a Ilan.
 
 Astragal escuchó todos los nombres. Contó con los dedos. Sin que nadie lo viera. O eso creyó.
 
-* * *
+---
 
 —¿Y quién se ha muerto aun así? —preguntó.
 
@@ -121,7 +116,7 @@ Sein no contestó.
 
 Contestó Mirela Vell. Porque era la cronista, y los cronistas apuntan lo que hay.
 
-—Hesper Hask —dijo—. En Orac. En el 856. En la nieve, con una herida en el costado. —Se tocó el cuaderno del pecho—. Y mi padre no la tenía, pero se murió igual, en el muro, sin acabar una frase. Y el Guardián la tenía, o algo parecido, y está de sal en un valle. Y Edran Hask no la tenía y se murió con los ojos llenos de escarcha. —Respiró—. La ofrenda no para el hierro, alteza. Ni el frío. Ni la pena.
+—Hesper Hask —dijo—. En la Isla Siniestra. En el 856. En la nieve, con una herida en el costado. —Se tocó el cuaderno del pecho—. Y mi padre no la tenía, pero se murió igual, en el muro, sin acabar una frase. Y el Guardián la tenía, o algo parecido, y está de sal en un valle. Y Edran Hask no la tenía y se murió con los ojos llenos de escarcha. —Respiró—. La ofrenda no para el hierro, alteza. Ni el frío. Ni la pena.
 
 —Entonces no sirve para que no te mueras.
 
@@ -129,7 +124,7 @@ Contestó Mirela Vell. Porque era la cronista, y los cronistas apuntan lo que ha
 
 Astragal se quedó pensando.
 
-* * *
+---
 
 Corvo Hask seguía de pie. Al lado de la silla. No se había vuelto a sentar.
 
@@ -149,7 +144,7 @@ Corvo tragó saliva. Miró a Sein. A Wenna. A Lanther, que estaba en la puerta y
 
 —No lo sé —dijo.
 
-* * *
+---
 
 Astragal asintió. Despacio.
 
@@ -165,7 +160,7 @@ Nadie se movió.
 
 —Hoy no —dijo Astragal—. Todavía no sé a quién.
 
-* * *
+---
 
 Sein se quitó las gafas.
 
@@ -177,7 +172,7 @@ Sein se quitó las gafas.
 
 —Es vuestra razón —dijo Astragal—. No la mía.
 
-* * *
+---
 
 Lanther habló desde la puerta.
 
@@ -195,7 +190,7 @@ Y se echó a reír. Bajito. Con alivio. Con la cara entre las manos.
 
 —Gracias, alteza —dijo. Entre las manos—. De verdad. Gracias.
 
-* * *
+---
 
 Sein miró el libro. Abierto por el debe. Con la pluma mojada al lado, que se había secado.
 
@@ -203,7 +198,7 @@ No escribió nada.
 
 Lo cerró.
 
-* * *
+---
 
 Esa noche, Lanther subió a buscarlo.
 
@@ -227,7 +222,7 @@ Estaban comiendo castañas. De Wenna.
 
 Astragal no contestó. Le dio una castaña.
 
-* * *
+---
 
 Lanther se sentó al otro lado.
 
@@ -241,7 +236,7 @@ Eluret se quedó muy quieto. La conocía; todos los niños de la colina la conoc
 
 Eluret se quedó.
 
-* * *
+---
 
 Lanther se metió la mano en la bolsa. La de siempre.
 
@@ -257,13 +252,13 @@ Astragal lo miró. Lo levantó hacia la luna. La gota no se movió.
 
 —¿Qué es?
 
-—Su vida. Fuera de él. Se cortó y la guardó aquí. No la quiso dar a nadie. Me la dio a mí. Para quien haga falta.
+—Su vida. Fuera de él. Se cortó y la guardó aquí. No la quiso dar a nadie. Me la dio a mí. *Para quien haga falta*.
 
 —¿Y ha hecho falta?
 
 —Todavía no.
 
-* * *
+---
 
 Astragal se quedó mirando el frasco mucho rato.
 
@@ -299,13 +294,13 @@ Y preguntó.
 
 —¿Y cuando no quede nadie?
 
-* * *
+---
 
 Nadie contestó.
 
 Lanther no contestó. Eluret no contestó; tenía once años y no sabía que la pregunta era de las que no se contestan. El viento del norte no contestó. Las estrellas, las que no se mueven, no contestaron.
 
-Debajo de ellos, debajo de la almena, debajo de la piedra, el muro hizo tum.
+Debajo de ellos, debajo de la almena, debajo de la piedra, el muro hizo *tum*.
 
 Uno.
 
@@ -313,7 +308,7 @@ Y otro.
 
 Lanther lo oyó. Astragal no; todavía no. Pero se le quedó la cara quieta, un instante, como si algo le hubiera rozado.
 
-* * *
+---
 
 Lanther le cerró la mano sobre el frasco. Con la suya. La izquierda, la de la cicatriz del 892, la que no se le había cerrado del todo.
 
@@ -327,7 +322,7 @@ Astragal asintió. Se lo guardó en el bolsillo del pecho. Encima del latido.
 
 Pesaba nada. Lo que pesa un pan.
 
-* * *
+---
 
 Abajo, en el sótano de la biblioteca, Sein abrió el libro.
 
@@ -335,7 +330,7 @@ No por el debe. Ni por el haber. Ni por la tercera columna. Por la primera hoja 
 
 Ahí estaba. Lo único que había escrito en un margen en novecientos años, hasta el 952. En letra muy pequeña. La noche de las tres monedas de cobre.
 
-*Lanther lleva setecientos años diciéndonos que no a todos. Que no se dan para servir. Que no se dan por miedo. Que no se dan porque toca. Un día alguien de la sangre le dirá que no a ella. Y ese será el que lo haya entendido.*
+*Lanther lleva setecientos años diciéndonos que no a todos. Que no se dan para* *servir. Que no se dan por miedo. Que no se dan porque toca. Un día alguien de la sangre* *le dirá que no a ella. Y ese será el que lo haya entendido.*
 
 Sein lo leyó tres veces.
 
@@ -351,7 +346,7 @@ Luego cerró el libro. Con cuidado. Y lo dejó encima del cuaderno de Bastián V
 
 *No fue una pelea. Fue*
 
-* * *
+---
 
 Wenna subió la última.
 
@@ -379,7 +374,7 @@ Wenna tardó.
 
 Lanther cerró los ojos.
 
-* * *
+---
 
 Abajo, muy abajo, en el sitio donde no llega la luz, algo que escuchaba se dio la vuelta.
 
@@ -391,7 +386,7 @@ Pero había oído el silencio de después. El de nadie contestando.
 
 Y le había gustado.
 
-* * *
+---
 
 En la almena, Wenna apretó la mano en la espalda de Lanther.
 
@@ -409,6 +404,6 @@ Abajo, algo se quedó quieto.
 
 Y por esa noche, se fue.
 
-* * *
+---
 
 *Fin del Libro Tercero.*

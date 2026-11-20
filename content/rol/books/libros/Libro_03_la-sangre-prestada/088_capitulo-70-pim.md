@@ -1,6 +1,6 @@
-## Capítulo 70 · Pim
+# Capítulo 70 · Pim
 
-*La tercera almena de la colina de Banderbill. La noche después del ataque, año 892 de la Nueva Era (285 D.bA).*
+*La tercera almena de la colina de Banderbill. La noche después del ataque, año* *892 de la Nueva Era (285 D.bA).*
 
 Pim subió a la almena porque era el único sitio de la colina donde nadie iba a buscarlo, y porque ella estaría allí.
 
@@ -28,7 +28,7 @@ Ella no se volvió.
 
 —Yo no.
 
-* * *
+---
 
 Estuvieron callados mucho rato.
 
@@ -38,13 +38,13 @@ Abajo, en la colina, alguien lloraba. Lejos. En la calle de los Tintoreros. Una 
 
 Lanther se volvió.
 
-—Me puse delante de él —dijo Pim—. A diez pasos. Esperando que me preguntara. Como siempre. Desde el año 300. ¿Qué quieres? Y no me preguntó. —Se tocó el hueco de la cara—. Dijo que ya no sabía qué contestaría. Que me había perdido. Hace siete años. Una noche que miré arriba en la calle de abajo, debajo de esta almena, porque tú mirabas arriba y yo no sabía qué otra cosa hacer.
+—Me puse delante de él —dijo Pim—. A diez pasos. Esperando que me preguntara. Como siempre. Desde el año 300. *¿Qué quieres?* Y no me preguntó. —Se tocó el hueco de la cara—. Dijo que ya no sabía qué contestaría. Que me había perdido. Hace siete años. Una noche que miré arriba en la calle de abajo, debajo de esta almena, porque tú mirabas arriba y yo no sabía qué otra cosa hacer.
 
 Lanther no dijo nada.
 
 —Me perdió —dijo Pim—. Él a mí. Seiscientos años siendo suyo. Y me perdió por mirar arriba una noche.
 
-* * *
+---
 
 —¿Y qué contestarías? —dijo Lanther.
 
@@ -56,13 +56,13 @@ Lanther se rio. Bajito. Le dolió; se tocó las costillas.
 
 —Ithil también —dijo.
 
-—Ithil me enseñó. —Pim miró al norte—. En Arghâl. En el 606. Me dijo que él le había contestado que no me olviden. Y que desde entonces no podía tocar un arpa. Que lo único que podía hacer era no contestar más. Que no se le había ocurrido preguntar. — Crujió la sal—. Se le ocurrió en el 880. Tardó cuatrocientos años.
+—Ithil me enseñó. —Pim miró al norte—. En Arghâl. En el 606. Me dijo que él le había contestado *que no me olviden*. Y que desde entonces no podía tocar un arpa. Que lo único que podía hacer era no contestar más. Que no se le había ocurrido preguntar. — Crujió la sal—. Se le ocurrió en el 880. Tardó cuatrocientos años.
 
 —Y te mandó la tablilla.
 
 —Me la trajo un orco. Durg. Que no sabía por qué.
 
-* * *
+---
 
 Lanther sacó el rollo gris del cinturón.
 
@@ -82,7 +82,7 @@ Pim no dijo nada.
 
 —Y no se fue. Porque Wenna y Verawel le cantaron hacia abajo a lo que tiene debajo. Una nana que Verawel aprendió de unos elfos que no se acordaban de nada más. —Lanther se tapó la cara con la mano buena—. Y la grieta se paró. A un pelo. Y él se quedó.
 
-* * *
+---
 
 —Me alegro —dijo Pim.
 
@@ -98,21 +98,21 @@ Lanther cogió el rollo. Lo apretó.
 
 —¿Y a quién se le fue a ti alguien sin decirle adiós?
 
-* * *
+---
 
 Pim no contestó.
 
 No porque no quisiera. Porque no lo sabía.
 
-Llevaba seiscientos años de sal. Antes de la sal había habido otra cosa: un cuerpo que se pudría, una escuela en una cueva, sesenta niños, unas tablillas de cera. Y antes, una barca. Y antes, una playa. Pim se acordaba de eso a trozos, como se acuerda uno de una casa en la que vivió de pequeño, por el olor de una escalera. Pero había algo más atrás. Más dentro. Algo que había dado. En la cueva, en el año 300, al hombre de gris. De nada que te haga falta, le había dicho el hombre de gris. Dame lo que no te haga falta y te doy un cuerpo que no tenga hambre. Y Pim, que tenía hambre, que se moría de hambre en una cueva de sal de las montañas rojas, le dio la cara.
+Llevaba seiscientos años de sal. Antes de la sal había habido otra cosa: un cuerpo que se pudría, una escuela en una cueva, sesenta niños, unas tablillas de cera. Y antes, una barca. Y antes, una playa. Pim se acordaba de eso a trozos, como se acuerda uno de una casa en la que vivió de pequeño, por el olor de una escalera. Pero había algo más atrás. Más dentro. Algo que había dado. En la cueva, en el año 300, al hombre de gris. *De nada* *que te haga falta*, le había dicho el hombre de gris. *Dame lo que no te haga falta y te doy* *un cuerpo que no tenga hambre.* Y Pim, que tenía hambre, que se moría de hambre en una cueva de sal de las montañas rojas, le dio la cara.
 
 Y con la cara se fue lo que había detrás.
 
-El nombre de dentro. No Pim. Pim se lo decía todo el mundo, desde siempre, en la costa, en la Gaviota, en la colina. El otro. El de antes de Pim. El que nadie decía.
+El nombre de dentro. No *Pim*. *Pim* se lo decía todo el mundo, desde siempre, en la costa, en la Gaviota, en la colina. El otro. El de antes de Pim. El que nadie decía.
 
 —No me acuerdo —dijo.
 
-* * *
+---
 
 Lanther se quedó mirándolo.
 
@@ -132,7 +132,7 @@ No el de ahora. Otro. Viejo. El más viejo. Con las tapas de piel de cabra gasta
 
 *I.*
 
-* * *
+---
 
 —El primero —dijo Sein—. Del 30 al 52. Lo he subido de la estantería esta tarde. Después de lo de la puerta. —Pasó las hojas. Con cuidado. Se le deshacían en los bordes —. Llevo la cuenta de los muertos de cada invierno desde el año 30. De los que se mueren y de los que se pierden. De los que no vuelven. Los que no sé si están muertos los pongo aparte. En una columna. Por si vuelven.
 
@@ -144,7 +144,7 @@ Levantó la vista. Miró a Pim. A la cara que no tenía.
 
 —No lo he tachado nunca —dijo—. Porque no ha vuelto. Hasta hoy.
 
-* * *
+---
 
 Pim no se movió.
 
@@ -152,9 +152,9 @@ Pim no se movió.
 
 Sein se quitó las gafas. Se las limpió. Se las puso. Y leyó. Despacio. Con la voz de los números.
 
-—Pim Hennek. De la Gaviota. De los once de las barcas. Le ha dicho la reina que se vaya y se ha ido por el río, llorando. No sé si está muerto. Apuntado aparte. Que vuelva.
+—*Pim Hennek. De la Gaviota. De los once de las barcas. Le ha dicho la reina que* *se vaya y se ha ido por el río, llorando. No sé si está muerto. Apuntado aparte. Que* *vuelva.*
 
-* * *
+---
 
 —Le falta una cosa —dijo Lanther.
 
@@ -166,7 +166,7 @@ Pim se quedó quieto.
 
 —El viejo se llamaba Torvald —dijo Lanther—. Torvald Hennek. Mi padre lo nombró en la playa, al pie del espigón, la noche que se ahogó. Hacia arriba. Con tu padre, Arn, y con tu tío, Bjorn. Tú se los dijiste.
 
-* * *
+---
 
 No pasó nada.
 
@@ -184,7 +184,7 @@ De muchacho. De catorce años. Con el pelo claro de los Kalo pegado a la frente,
 
 Llorando.
 
-* * *
+---
 
 —Torvald —dijo Lanther.
 
@@ -202,7 +202,7 @@ Sein no supo qué decir.
 
 Lanther sí.
 
-* * *
+---
 
 —Ven —dijo.
 
@@ -218,7 +218,7 @@ El muchacho miró la playa.
 
 —Mira arriba, Torvald —dijo Lanther.
 
-* * *
+---
 
 Lo hizo.
 
@@ -234,7 +234,7 @@ El cielo de la colina. La noche después de la batalla. Con estrellas. Con la lu
 
 —No sé. —Se le cayó una lágrima. De sal. Que se deshizo antes de llegar al suelo —. Algo. Que no pregunta.
 
-* * *
+---
 
 Lanther le puso la mano en la frente. La de sal.
 
@@ -244,11 +244,11 @@ Y luego, en la oreja que no tenía, que empezaba a tener, que se le deshacía:
 
 —Te oigo, Torvald Hennek. Vete.
 
-* * *
+---
 
 No se rompió. Se deshizo.
 
-Como el barro de la jarra de Loth en la poza. Como el azúcar en el agua. La sal se soltó. Desde los pies. Grano a grano. Y el viento de la noche, que soplaba del sur, del mar, de las montañas rojas, se la llevó.
+Como el barro de la jarra de Loth en la poza. Como el azúcar en el agua. La sal se soltó. Desde los pies. Grano a grano. Y el viento de la noche, que soplaba del suroeste, de las montañas rojas, se la llevó.
 
 Hacia arriba.
 
@@ -256,7 +256,7 @@ Un poco se quedó. En el merlón. Un puñado. Blanco. Con la forma de una mano a
 
 Y en el suelo de la almena, donde había estado sentado, un rollo de hilo de cáñamo, viejo, de los que usaban los salineros para atar los sacos. Que Sein no había visto nunca y que Lanther sí. En el año 300. Atado a la muñeca de un muchacho que pasó por la calle de abajo con su madre, cantando.
 
-* * *
+---
 
 Sein tachó la línea.
 
@@ -282,7 +282,7 @@ Luego miró al norte. A donde se había ido el hombre de gris. Con la sangre de 
 
 —Ya hay alguien —dijo.
 
-* * *
+---
 
 A la mañana siguiente, en la ladera norte, entre los drows heridos que se habían quedado pegados al hielo, los soldados encontraron a uno que no estaba herido.
 

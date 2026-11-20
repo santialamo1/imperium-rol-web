@@ -1,4 +1,4 @@
-## Capítulo 73 · Aremir
+# Capítulo 73 · Aremir
 
 *Concordia. Año 370.*
 
@@ -18,7 +18,7 @@ Teo se volvió. Era el mayor de los hijos de Meridio, treinta y ocho años, guap
 
 —No. —Aremir se levantó, despacio, apoyándose en el bastón—. Voy a recibirla en la cripta.
 
-* * *
+---
 
 La cripta de la Torre de la Unión estaba fría como siempre, y oscura, y llena de murmullos que Aremir oía como un eco lejano, débil, porque su oído era de los débiles. Lo justo para saber que estaban ahí. Lo justo para que le doliera.
 
@@ -36,11 +36,11 @@ Aremir se detuvo.
 
 Aremir no dijo nada. Pero se apoyó un poco más en el bastón.
 
-Sefa. Lo había leído en el diario de Meridio. Su hermano lo había apuntado, una noche de las peores, con letra temblorosa: La voz dice que le dieron el nombre del Forjador una criada y una niña muerta. Que entró en la bruma cantándolo. Que todavía se oye cantar.
+Sefa. Lo había leído en el diario de Meridio. Su hermano lo había apuntado, una noche de las peores, con letra temblorosa: *La voz dice que le dieron el nombre del* *Forjador una criada y una niña muerta. Que entró en la bruma cantándolo. Que todavía* *se oye cantar.*
 
-—Mi madre decía que la vecina de Sefa le dio la mano en el borde del oasis — siguió Ysh-Rahna—, y que Sefa se soltó y dijo: Que mi niña no esté sola. Nada más. Nadie lo anotó en ningún libro, majestad. Los libros del sur no anotan a las mujeres eufesias que se mueren de pena. Por eso no lo sabíais.
+—Mi madre decía que la vecina de Sefa le dio la mano en el borde del oasis — siguió Ysh-Rahna—, y que Sefa se soltó y dijo: *Que mi niña no esté sola.* Nada más. Nadie lo anotó en ningún libro, majestad. Los libros del sur no anotan a las mujeres eufesias que se mueren de pena. Por eso no lo sabíais.
 
-* * *
+---
 
 Hablaron tres horas, sentadas en el banco de piedra frente a la Sal Negra, como dos viejas en una plaza.
 
@@ -78,7 +78,7 @@ Aremir no se movió.
 
 —Buscáis una página.
 
-* * *
+---
 
 La emperatriz tardó mucho en contestar. En la cripta, los muertos murmuraban. La Sal Negra, a tres pasos, parecía absorber la luz de las lámparas.
 
@@ -88,7 +88,7 @@ La emperatriz tardó mucho en contestar. En la cripta, los muertos murmuraban. L
 
 —Lo sé.
 
-—Lo que no sabéis es lo que dicen las Madres viejas, las que todavía oyen. —Ysh-Rahna bajó la voz—. Que la jarra que guarda Yared no es la única que queda. Quedan cuatro: eso lo sabe todo el mundo desde Askel. Pero las Madres dicen que el Padre de la Bruma ya no las guarda todas en el desierto. Que después de Askel tuvo miedo. Que comprendió que los del sur encontraban sus jarras una tras otra, porque los del sur tienen la sangre de su hermana y su hermana lo oye. Y que decidió esconder una donde nadie la buscaría.
+—Lo que no sabéis es lo que dicen las Madres viejas, las que todavía oyen. —Ysh- Rahna bajó la voz—. Que la jarra que guarda Yared no es la única que queda. Quedan cuatro: eso lo sabe todo el mundo desde Askel. Pero las Madres dicen que el Padre de la Bruma ya no las guarda todas en el desierto. Que después de Askel tuvo miedo. Que comprendió que los del sur encontraban sus jarras una tras otra, porque los del sur tienen la sangre de su hermana y su hermana lo oye. Y que decidió esconder una donde nadie la buscaría.
 
 —¿Dónde?
 
@@ -96,17 +96,17 @@ La emperatriz tardó mucho en contestar. En la cripta, los muertos murmuraban. L
 
 Aremir sintió un frío que no venía de la cripta.
 
-Pensó en la página arrancada. Dijo que había una jarra que no rompería nadie. Que la había puesto donde nadie la buscaría. Que la había puesto…
+Pensó en la página arrancada. *Dijo que había una jarra que no rompería nadie.* *Que la había puesto donde nadie la buscaría. Que la había puesto…*
 
 —¿Por qué me contáis esto?
 
 —Porque si no lo sabéis vos, no lo sabrá nadie. Y alguien tiene que saberlo antes de que sea tarde. —Ysh-Rahna se levantó—. Esa es la tercera cosa, majestad. Que sepáis que no estáis buscando una página. Estáis buscando un sitio. Y que tengáis cuidado de lo que encontráis.
 
-* * *
+---
 
 Aremir Bhargaras derogó las leyes de Maximus el Forjador el primer día del verano del año trescientos setenta.
 
-No pasó por el Consejo. Lo hizo por decreto, con su sello, leído en voz alta en la plaza de Concordia por ella misma, de pie en la tribuna a pesar de la cadera, con Ysh-Rahna a su lado. Todas. La de las tierras, la de los matrimonios, la de la noche, la del trapo gris. Mandó jinetes a cada fortaleza del río Ceniza con una copia sellada y la orden de leerla en el patio de armas delante de toda la guarnición. Mandó colgar en cada plaza de la frontera una tablilla con el texto.
+No pasó por el Consejo. Lo hizo por decreto, con su sello, leído en voz alta en la plaza de Concordia por ella misma, de pie en la tribuna a pesar de la cadera, con Ysh- Rahna a su lado. Todas. La de las tierras, la de los matrimonios, la de la noche, la del trapo gris. Mandó jinetes a cada fortaleza del río Ceniza con una copia sellada y la orden de leerla en el patio de armas delante de toda la guarnición. Mandó colgar en cada plaza de la frontera una tablilla con el texto.
 
 El Consejo protestó. Tres señores dimitieron. Su sobrino Teo le dijo, a gritos, en sus aposentos, que estaba loca, que los eufesios eran el pueblo del monstruo, que su hermano Meridio había muerto por oír su voz.
 
@@ -116,13 +116,13 @@ Teo salió dando un portazo. Una semana después, Aremir lo nombró gobernador d
 
 Él aceptó. No le quedaba otra.
 
-* * *
+---
 
 La embajada de los clanes libres se abrió en otoño, en una casa del barrio Germa, cerca del cementerio. Aremir eligió la casa ella misma. Era la casa donde, doscientos años atrás, una mujer morena de ojos grises había servido leche con miel a su hijo el emperador y, una noche de otoño, a su hermano el monstruo.
 
 Ysh-Rahna no lo sabía. Aremir no se lo dijo.
 
-Esa noche, a solas en su despacho, con el diario de Meridio en el regazo, la Restauradora leyó por milésima vez la frase que no terminaba. Que la había puesto…
+Esa noche, a solas en su despacho, con el diario de Meridio en el regazo, la Restauradora leyó por milésima vez la frase que no terminaba. *Que la había puesto…*
 
 Donde nadie se atrevería a buscarla. Pocos sitios así en el sur.
 

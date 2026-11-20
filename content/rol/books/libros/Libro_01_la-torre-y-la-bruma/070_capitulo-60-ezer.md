@@ -1,4 +1,4 @@
-## Capítulo 60 · Ezer
+# Capítulo 60 · Ezer
 
 *Concordia, Academia de los Custodios, y fortaleza de Kel-Mar. Año 256, otoño.*
 
@@ -30,11 +30,11 @@ No terminó. No hizo falta.
 
 —Sí. Pero no.
 
-* * *
+---
 
 Salieron por la puerta de los Juramentos al alba, los once, con los hatillos al hombro y una escolta de veinte soldados de la Primera Legión que tenían orden de acompañarlos hasta el Ceniza y ni un paso más.
 
-Había gente en las calles. No mucha. Algunos tiraron cosas: fruta podrida, una piedra, un orinal. Un niño gritó ¡muertos, muertos!, que era lo que gritaban los niños de Concordia a los eufesios desde que empezaron las leyes. Pero había otros. Una vieja Germa del barrio de los herreros salió a su puerta y le puso a Ezer en la mano un pan todavía caliente, sin decir nada. Un tabernero Ibaro le dio a Dov una bota de vino. En la plaza del Ombligo, al pie de la Torre, esperaban treinta novicios de la Academia, en fila, con las camisas grises de la llama blanca, en silencio.
+Había gente en las calles. No mucha. Algunos tiraron cosas: fruta podrida, una piedra, un orinal. Un niño gritó *¡muertos, muertos!*, que era lo que gritaban los niños de Concordia a los eufesios desde que empezaron las leyes. Pero había otros. Una vieja Germa del barrio de los herreros salió a su puerta y le puso a Ezer en la mano un pan todavía caliente, sin decir nada. Un tabernero Ibaro le dio a Dov una bota de vino. En la plaza del Ombligo, al pie de la Torre, esperaban treinta novicios de la Academia, en fila, con las camisas grises de la llama blanca, en silencio.
 
 Jorund Vane, el Custodio mayor, estaba delante de ellos. Tenía setenta y un años y las uñas grises hasta la segunda falange, y se había arrodillado el día anterior ante el emperador para pedir la vida de once hombres, y había conseguido once vidas y ni una más.
 
@@ -44,13 +44,13 @@ Ninguno dijo nada. La ley prohibía las despedidas públicas a los expulsados. P
 
 Ezer no se volvió. Si se volvía, no sería capaz de seguir andando.
 
-* * *
+---
 
 Tardaron doce días en llegar al Ceniza. Los soldados de la escolta no hablaban con ellos, salvo para dar órdenes. Dormían aparte. Comían aparte. El sargento, un Zelto de bigote rojo, los miraba como se mira a perros de una raza que muerde.
 
 La duodécima noche llegaron a Kel-Mar.
 
-Era la fortaleza más vieja del Ceniza, reconstruida desde que el Padre de la Bruma se la tragó en tiempos de Corvo Bhargaras, y la que tenía peor fama. Los soldados la llamaban la casa de las voces. Había demasiados muertos enterrados debajo de sus muros, de demasiadas caídas, y algunas noches, decían, se los oía.
+Era la fortaleza más vieja del Ceniza, reconstruida desde que el Padre de la Bruma se la tragó en tiempos de Corvo Bhargaras, y la que tenía peor fama. Los soldados la llamaban *la casa de las voces*. Había demasiados muertos enterrados debajo de sus muros, de demasiadas caídas, y algunas noches, decían, se los oía.
 
 Esa noche se los oyó.
 
@@ -90,7 +90,7 @@ El sargento miró la torre. Miró a Ezer. Se retorció el bigote rojo.
 
 Y se fue hacia las letrinas.
 
-* * *
+---
 
 Subieron Ezer y Dov. Los otros nueve se quedaron en el patio, sentados en círculo, con los ojos cerrados, cantando en voz baja los nombres de los muertos de Kel-Mar que se sabían, los que estaban en las listas de la Academia, para debilitar el enjambre desde abajo.
 
@@ -114,25 +114,25 @@ Ezer se arrodilló junto al muchacho. Le puso la mano en la frente. Estaba helad
 
 Y empezó a preguntar.
 
-* * *
+---
 
 Tardaron toda la noche.
 
-Uno por uno. Ezer preguntaba: ¿cómo te llamas? Y uno de entre los cientos contestaba, a veces enseguida, a veces después de mucho rato, a veces solo con un trozo de nombre, una sílaba, un mote. Dov lo repetía en voz alta, hacia la escalera, y los nueve del patio lo repetían, y los doscientos soldados de la guarnición, que al principio miraban sin entender, empezaron a repetirlo también, porque alguien —el comandante joven, quizá— se dio cuenta de que funcionaba.
+Uno por uno. Ezer preguntaba: *¿cómo te llamas?* Y uno de entre los cientos contestaba, a veces enseguida, a veces después de mucho rato, a veces solo con un trozo de nombre, una sílaba, un mote. Dov lo repetía en voz alta, hacia la escalera, y los nueve del patio lo repetían, y los doscientos soldados de la guarnición, que al principio miraban sin entender, empezaron a repetirlo también, porque alguien —el comandante joven, quizá— se dio cuenta de que funcionaba.
 
 Funcionaba porque no hacía falta quererlos. Eso era lo que Ezer había aprendido en treinta años y no estaba en los libros de Ismena Vell. Hacía falta que alguien los mirara. Que alguien dijera su nombre como se dice el nombre de una persona y no el de una cosa. Doscientos soldados que no los conocían, repitiendo sus nombres a gritos en un patio helado, con las antorchas en alto, no era amor. Pero se le parecía bastante.
 
-Haldor. Haldor el tonelero. —¡Haldor el tonelero!— Y algo se iba.
+*Haldor. Haldor el tonelero.* —¡Haldor el tonelero!— Y algo se iba.
 
-Mina. Hija de Ulf. —¡Mina, hija de Ulf!— Y algo se iba.
+*Mina. Hija de Ulf.* —¡Mina, hija de Ulf!— Y algo se iba.
 
-No me acuerdo. Me llamaban Rojo. —¡Rojo!— Y algo, despacio, como a regañadientes, se iba también.
+*No me acuerdo. Me llamaban Rojo.* —¡Rojo!— Y algo, despacio, como a regañadientes, se iba también.
 
 Al amanecer quedaban once. Once que no recordaban sus nombres, ni sus motes, ni nada. Solo el frío. Ezer los sentía, apretados contra el muchacho, que ya no temblaba tanto.
 
 —Once —dijo Dov. Tenía la cara gris de cansancio y las uñas grises hasta la primera falange—. Como nosotros.
 
-Ezer no contestó. Puso las dos manos sobre la cabeza del muchacho y dijo, en la lengua de la arena, la oración que las Madres libres decían por los muertos sin nombre en el borde de la bruma. Os soltamos sin saber quiénes sois. Que os reconozca quien os espera. No sabía si funcionaría. Nunca lo había intentado con tantos.
+Ezer no contestó. Puso las dos manos sobre la cabeza del muchacho y dijo, en la lengua de la arena, la oración que las Madres libres decían por los muertos sin nombre en el borde de la bruma. *Os soltamos sin saber quiénes sois. Que os reconozca quien os* *espera.* No sabía si funcionaría. Nunca lo había intentado con tantos.
 
 El sol salió por detrás de las colinas.
 
@@ -140,7 +140,7 @@ Y el muchacho de la guardia, en el rincón, levantó la cabeza, parpadeó y dijo
 
 —¿Mamá?
 
-* * *
+---
 
 Se fueron de Kel-Mar esa misma mañana. El comandante joven bajó al patio a despedirlos, con la armadura bien abrochada esta vez. No dijo nada; la ley lo prohibía. Pero se quitó del cuello una cadena con una medalla de plata de la Primera Legión y se la puso a Ezer en la mano.
 
@@ -166,7 +166,7 @@ El sargento de la escolta los acompañó hasta el vado. Allí, en la orilla del 
 
 —Supongo.
 
-* * *
+---
 
 Cruzaron el vado los once. Al otro lado, a media legua, en un oasis de palmeras secas, los esperaba un hombre.
 
@@ -184,7 +184,7 @@ El hombre sonrió.
 
 —Eso dicen todos al principio.
 
-Nueve de los once siguieron hacia el sur, hacia Kel-Ammar, hacia la Madre Ysh-Talia y los clanes libres, que los recibirían con desconfianza y luego, poco a poco, con algo parecido al cariño.
+Nueve de los once siguieron hacia el sur, hacia Kel-Ammar, hacia la Madre Ysh- Talia y los clanes libres, que los recibirían con desconfianza y luego, poco a poco, con algo parecido al cariño.
 
 Dos se quedaron en el oasis de las palmeras secas.
 

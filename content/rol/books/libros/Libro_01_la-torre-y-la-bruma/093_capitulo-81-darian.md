@@ -1,4 +1,4 @@
-## Capítulo 81 · Darian
+# Capítulo 81 · Darian
 
 *Concordia. Año 411 y la Noche Más Larga del 412.*
 
@@ -16,7 +16,7 @@ Darian miró a su hija. Rubia, delgada, con los ojos grises de la familia, frío
 
 —Tú sí —dijo—. Yo cada vez menos.
 
-* * *
+---
 
 La casa Heredicus del barrio alto, la de Octavia, la de Darius, la de la herrería cerrada por orden imperial ciento ochenta años antes, se había ido vendiendo habitación por habitación a lo largo de dos siglos. Ahora la familia ocupaba solo la planta baja: tres cuartos, una cocina, un jardín abandonado donde todavía crecían, en la esquina más umbría, unas plantas que nadie se atrevía a arrancar porque la abuela de Darian decía que eran venenosas. Darian tenía cuarenta y cuatro años, una espada que había sido de Maximus el Forjador y que no había desenvainado nunca más que para limpiarla, un título que no servía para nada y una viudez de seis años.
 
@@ -24,7 +24,7 @@ Y una hija que oía cosas.
 
 No muertos. Eso era lo raro. Los Heredicus no oían a los muertos; nunca los habían oído. No era su don. Pero Livia, desde los cinco años, decía a veces, en mitad de la cena o al despertarse, que alguien la había llamado. Desde abajo. Desde muy lejos. Por su nombre.
 
-Livia, decía la voz, según ella. Livia. Livia. Como quien llama a un perro.
+*Livia*, decía la voz, según ella. *Livia. Livia.* Como quien llama a un perro.
 
 Darian la había llevado a los Custodios. Odrun Hask, la vieja Hinur que había criado al príncipe Bander, la había escuchado durante una hora con los ojos cerrados y luego le había dicho a Darian, a solas, en voz muy baja, que no era un muerto. Que no sabía lo que era. Y que le diera a la niña un nombre secreto cuanto antes, si no se lo había dado ya.
 
@@ -32,7 +32,7 @@ Darian no se lo había dado. Los Heredicus habían abandonado aquella costumbre 
 
 Así que Livia no tenía abrigo. Y algo, desde muy lejos, la llamaba.
 
-* * *
+---
 
 Casimir Vell era encantador. Todo el mundo lo decía, y era verdad.
 
@@ -70,7 +70,7 @@ Casimir no contestó. Siguió sonriendo.
 
 —Pensadlo —dijo—. No hay prisa. Todavía.
 
-* * *
+---
 
 Darian no se lo contó a nadie.
 
@@ -80,19 +80,19 @@ Y luego Haltair habría llamado a Casimir, y Casimir habría sonreído, y habrí
 
 Eso fue lo que se dijo. Era verdad, a medias.
 
-La otra mitad era que, durante un momento, sentado en aquella mesa con aquel vino caro en la boca, Darian Heredicus había pensado en la corona. En la vieja corona de tres puntas, en la cabeza de una niña rubia de ojos grises. La última sangre del Fundador. Lo había pensado solo un momento. Lo suficiente para que le diera vergüenza contárselo a nadie.
+La otra mitad era que, durante un momento, sentado en aquella mesa con aquel vino caro en la boca, Darian Heredicus había pensado en la corona. En la vieja corona de tres puntas, en la cabeza de una niña rubia de ojos grises. *La última sangre del Fundador.* Lo había pensado solo un momento. Lo suficiente para que le diera vergüenza contárselo a nadie.
 
 Los Heredicus no olvidan. Esa era la maldición de la familia. No que no olvidaran las ofensas, sino que no podían olvidar lo que habrían podido ser.
 
-* * *
+---
 
 La Noche Más Larga del año cuatrocientos doce, Darian Heredicus estaba despierto, sentado en la cocina, cuando oyó que cambiaban la guardia de la Puerta de los Juramentos.
 
 Lo oyó porque la casa del barrio alto estaba a cuatrocientos pasos de la puerta, y porque llevaba veinte años oyendo el cambio de guardia a medianoche, siempre a la misma hora, con el mismo toque de corneta. Esa noche fue a las once. Una hora antes. Sin corneta.
 
-Darian se levantó. Fue a la ventana. Miró hacia el noroeste.
+Darian se levantó. Fue a la ventana. Miró hacia el noreste.
 
-Las antorchas de la Puerta de los Juramentos se alejaban por la muralla hacia el este. Todas. En fila. Y en la puerta no quedaba nadie.
+Las antorchas de la Puerta de los Juramentos se alejaban por la muralla hacia el oeste. Todas. En fila. Y en la puerta no quedaba nadie.
 
 *Habrá que decidir quién queda.*
 
@@ -112,9 +112,9 @@ Livia lo miró con aquellos ojos grises, muy abiertos.
 
 Darian no contestó. Cogió la espada de Maximus de la pared. Salió a la calle.
 
-Detrás de él, desde el noroeste, llegaba el frío.
+Detrás de él, desde el noreste, llegaba el frío.
 
-* * *
+---
 
 La cripta estaba llena cuando llegó. Las campanas habían empezado a sonar a medio camino. La gente corría por las calles en camisa de dormir, gritando. Los Custodios metían a los que llegaban en fila por una boca redonda del muro este. Una muchacha morena de pelo negro, con una antorcha en la mano, daba órdenes con voz de capitán.
 
@@ -146,7 +146,7 @@ La besó en la frente.
 
 Se fue.
 
-* * *
+---
 
 Darian Heredicus, el último de su nombre, llegó a la plaza de Concordia a medianoche, con la espada de Maximus el Forjador en la mano y la niebla entrando por la calle de los Herreros.
 
@@ -172,4 +172,4 @@ En la boca del túnel, la niña rubia de ojos grises esperó a su padre hasta qu
 
 Esperó todavía un poco más. Hasta que bajó por la escalera de caracol un hombre enorme, cubierto de sangre, que apenas se tenía en pie.
 
-Fue él quien, días después, en un barco, en mitad del Mar de la Penuria, le ofreció un nombre.
+Fue él quien, días después, en un barco, en mitad del Mar de la Eterna Penuria, le ofreció un nombre.

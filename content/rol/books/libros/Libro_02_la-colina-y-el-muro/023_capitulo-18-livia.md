@@ -1,4 +1,4 @@
-## Capítulo 18 · Livia
+# Capítulo 18 · Livia
 
 *El collado del círculo, sobre Banderbill. Otoño del año 27.*
 
@@ -10,11 +10,11 @@ El círculo estaba a media mañana de camino desde su casa, por encima de la gar
 
 Estaba vacío. Siempre había estado vacío.
 
-Las piedras tenían escritura. En las cuatro caras. Tobías las había copiado todas en el año cinco, con una escalera y un farol, y había tardado once años en descifrar seis de las siete. Las seis contaban, a trozos, lo que Tobías llamó en su crónica la llegada de las que trajeron lo que sobraba: una marcha por el mar, una carga, un peso, unas mujeres que no podían soltarla, un sitio donde dejarla. La séptima no la había entendido nunca. Tenía menos escritura que las otras. Solo una cara. Y en esa cara, repetida de arriba abajo, siempre la misma, rodeada de signos que Tobías no había conseguido leer, una palabra.
+Las piedras tenían escritura. En las cuatro caras. Tobías las había copiado todas en el año cinco, con una escalera y un farol, y había tardado once años en descifrar seis de las siete. Las seis contaban, a trozos, lo que Tobías llamó en su crónica *la llegada de las que* *trajeron lo que sobraba*: una marcha por el mar, una carga, un peso, unas mujeres que no podían soltarla, un sitio donde dejarla. La séptima no la había entendido nunca. Tenía menos escritura que las otras. Solo una cara. Y en esa cara, repetida de arriba abajo, siempre la misma, rodeada de signos que Tobías no había conseguido leer, una palabra.
 
 La de la mano de Joran.
 
-* * *
+---
 
 Trabajó con tres libros abiertos.
 
@@ -36,7 +36,7 @@ Ningún punto: presente.
 
 Un punto encima: lo que será.
 
-Livia lo descubrió el día trigésimo de trabajo, de madrugada, a la luz de una vela, en su casa al pie de la montaña, con las tres obras abiertas en la mesa y el cuaderno de corteza lleno de tachones. Lo descubrió por una palabra pequeña, en el margen del libro de Corvo, en la página de los dibujos de la cuna y la mujer que sopla: naw, con un punto debajo, y al lado, en lengua de Concordia, con la letra de Neri: respiró. Y dos líneas más abajo, la misma palabra, naw, con un punto encima, y al lado: respirará.
+Livia lo descubrió el día trigésimo de trabajo, de madrugada, a la luz de una vela, en su casa al pie de la montaña, con las tres obras abiertas en la mesa y el cuaderno de corteza lleno de tachones. Lo descubrió por una palabra pequeña, en el margen del libro de Corvo, en la página de los dibujos de la cuna y la mujer que sopla: *naw*, con un punto debajo, y al lado, en lengua de Concordia, con la letra de Neri: *respiró*. Y dos líneas más abajo, la misma palabra, *naw*, con un punto encima, y al lado: *respirará*.
 
 Luego cogió el carbón y copió otra vez la letra de la mano de Joran. Y la letra de la séptima piedra. Las puso una al lado de otra.
 
@@ -44,7 +44,7 @@ Y vio el punto.
 
 Encima.
 
-* * *
+---
 
 Subió al collado al amanecer del día cuarenta y tres, con la escalera de Tobías al hombro, el cuaderno, un farol y una cuerda. Subió sola. No se lo había dicho a nadie.
 
@@ -56,11 +56,11 @@ Como la marca en la palma de Joran.
 
 Y encima de cada una de las catorce palabras, en las catorce, había un punto.
 
-Tobías lo había copiado. Livia lo comprobó después en las copias del año cinco: estaba. Un punto pequeño, encima de cada palabra. Tobías había pensado que era un adorno. O una marca de separación. O un defecto de la piedra. Había puesto en el margen de su copia, con su letra redonda, ¿punto? ¿mancha?, y no había vuelto a pensar en él.
+Tobías lo había copiado. Livia lo comprobó después en las copias del año cinco: estaba. Un punto pequeño, encima de cada palabra. Tobías había pensado que era un adorno. O una marca de separación. O un defecto de la piedra. Había puesto en el margen de su copia, con su letra redonda, *¿punto? ¿mancha?*, y no había vuelto a pensar en él.
 
 No era un adorno.
 
-Livia leyó la palabra en voz alta. Despacio. Como la había leído en las notas de Neri, con el acento en la segunda sílaba y la w soplada, casi sin sonido, como un aliento.
+Livia leyó la palabra en voz alta. Despacio. Como la había leído en las notas de Neri, con el acento en la segunda sílaba y la *w* soplada, casi sin sonido, como un aliento.
 
 —Anwe.
 
@@ -70,23 +70,25 @@ Una. Tres respiraciones y media. Una.
 
 Y Livia bajó de la escalera, se sentó en la roca, en el borde del hueco vacío del centro del círculo, con las piernas colgando dentro, y abrió el cuaderno de corteza, y escribió lo que había descubierto. Con tinta. Con la letra pequeña e inclinada de copista. Sin tachones.
 
-* * *
+---
 
 *Año 27. Otoño. El collado.*
 
-*La palabra de la séptima piedra es «anwe». Es la misma que la de la mano de Joran. Es la misma que me puso Bander en la cubierta de la Tozuda. Es la misma que puso Seren de Sahr-Ennet a su hija, según el pergamino de Nadia, en el año ciento trece.*
+*La palabra de la séptima piedra es «anwe». Es la misma que la de la mano de* *Joran. Es la misma que me puso Bander en la cubierta de la Tozuda. Es la misma que puso* *Seren de Sahr-Ennet a su hija, según el pergamino de Nadia, en el año ciento trece.*
 
-*Tobías la tradujo como «la que respira». Lo sacó del pergamino de Nadia, donde Nadia escribe que su cuñada le puso a la niña «un nombre que quería decir la que respira». No se equivocó. Nadia tampoco. Pero no estaba entero.*
+*Tobías la tradujo como «la que respira». Lo sacó del pergamino de Nadia, donde* *Nadia escribe que su cuñada le puso a la niña «un nombre que quería decir la que* *respira». No se equivocó. Nadia tampoco. Pero no estaba entero.*
 
-*La raíz es «naw»: respirar. Con la a delante, «anaw», es la que respira, el que respira, lo que respira. Así lo dicen la cartilla de Hilde y el pergamino. Pero la lengua antigua, la de las Madres, la que está en las piedras, no dice «anaw». Dice «anwe». Y la e del final, según las notas de Neri, es la que se pone a los verbos que vuelven: a la marea, a la estación, al aliento, que sale y entra. Lo que se va y regresa.*
+*La raíz es «naw»: respirar. Con la a delante, «anaw», es la que respira, el que* *respira, lo que respira. Así lo dicen la cartilla de Hilde y el pergamino. Pero la lengua* *antigua, la de las Madres, la que está en las piedras, no dice «anaw». Dice «anwe». Y la e* *del final, según las notas de Neri, es la que se pone a los verbos que vuelven: a la marea, a* *la estación, al aliento, que sale y entra. Lo que se va y regresa.*
 
-*Y encima de cada «anwe» de la piedra hay un punto.*  
-*No es «la que respira». No es «la que vuelve».*  
+*Y encima de cada «anwe» de la piedra hay un punto.*
+
+*No es «la que respira». No es «la que vuelve».*
+
 *Es «volverá».*
 
-*O, si se quiere decir entera, como la decían las Madres en la canción: «la que volverá». O «lo que volverá». La lengua no distingue. No distingue entre una persona y una cosa, entre una hija y un trozo. Para ellas era lo mismo. Lo que se va, y respira, y vuelve.*
+*O, si se quiere decir entera, como la decían las Madres en la canción: «la que* *volverá». O «lo que volverá». La lengua no distingue. No distingue entre una persona y* *una cosa, entre una hija y un trozo. Para ellas era lo mismo. Lo que se va, y respira, y* *vuelve.*
 
-*La nana dice, en la versión de Nadia: «duerme, arena, duerme ya, quien te ama volverá». No es una traducción. Es la palabra. La última palabra de la canción es «anwe». Volverá. Las Madres la pusieron en la séptima piedra catorce veces. Para cuando volviera.*
+*La nana dice, en la versión de Nadia: «duerme, arena, duerme ya, quien te ama* *volverá». No es una traducción. Es la palabra. La última palabra de la canción es* *«anwe». Volverá.* *Las Madres la pusieron en la séptima piedra catorce veces. Para cuando volviera.*
 
 *¿Quién?*
 
@@ -94,11 +96,11 @@ Dejó de escribir. Miró el hueco.
 
 Vacío. Del tamaño de un barril. Liso. Pulido.
 
-Lo que sobraba, había escrito Tobías, traduciendo las otras seis. Las que trajeron lo que sobraba. Unas mujeres que no podían soltarla. Un sitio donde dejarla.
+*Lo que sobraba*, había escrito Tobías, traduciendo las otras seis. *Las que trajeron lo* *que sobraba.* Unas mujeres que no podían soltarla. Un sitio donde dejarla.
 
-Y la de sal, la noche de Joran, con la cara rota: Todavía no. La otra mitad duerme. Si la tocas ahora, despierta. Si despierta ahora, os bebe. Vuelve a dormir, Anwe. Cuando sea la hora, te llamaremos.
+Y la de sal, la noche de Joran, con la cara rota: *Todavía no. La otra mitad duerme.* *Si la tocas ahora, despierta. Si despierta ahora, os bebe. Vuelve a dormir, Anwe. Cuando* *sea la hora, te llamaremos.*
 
-Y Loth. Lo que le había contado Bander, lo que había escrito Tobías: la voz del pozo le prometía a Loth, desde hacía cuatrocientos años, te devolveré a Anwe.
+Y Loth. Lo que le había contado Bander, lo que había escrito Tobías: la voz del pozo le prometía a Loth, desde hacía cuatrocientos años, *te devolveré a Anwe*.
 
 Volvió a escribir. Más despacio.
 
@@ -106,18 +108,19 @@ Volvió a escribir. Más despacio.
 
 *Loth entendió: a su hija. La que se llamaba Anwe. La que respiraba.*
 
-*Pero en la lengua de las Madres, que es la lengua de la cosa del pozo, porque fue a las Madres a quienes se lo dijo primero, «te devolveré a Anwe» no quiere decir «te devolveré a tu hija».*
+*Pero en la lengua de las Madres, que es la lengua de la cosa del pozo, porque fue a* *las Madres a quienes se lo dijo primero, «te devolveré a Anwe» no quiere decir «te* *devolveré a tu hija».*
 
 *Quiere decir: «te devolveré lo que volverá».*
 
-*Y lo que volverá —lo que las Madres trajeron, lo que sobraba, lo que dejaron aquí, en este hueco, o debajo de él, o en esta montaña— es la otra mitad de ella misma.*
+*Y lo que volverá —lo que las Madres trajeron, lo que sobraba, lo que dejaron aquí,* *en este hueco, o debajo de él, o en esta montaña— es la otra mitad de ella misma.*
 
-*Nunca le prometió a su hija. Le prometió su propio trozo. Y lo dijo con la palabra que él quería oír, porque sabía que él la oiría mal.*
+*Nunca le prometió a su hija. Le prometió su propio trozo. Y lo dijo con la palabra* *que él quería oír, porque sabía que él la oiría mal.*
 
-*No le mintió. Hizo algo peor.*  
+*No le mintió. Hizo algo peor.*
+
 *Le dijo la verdad en una lengua que él había olvidado.*
 
-* * *
+---
 
 Lanther la encontró allí a mediodía.
 
@@ -169,13 +172,13 @@ Lanther se quedó callada mucho rato. Cogió una piedrecita del borde del hueco 
 
 —Algo del tamaño de un barril. —Livia miró la séptima piedra—. Algo que volverá.
 
-* * *
+---
 
 Bajaron juntas al atardecer.
 
-Livia le contó a Lanther lo de la palabra. No todo. Lo de los puntos, lo de los verbos, lo de volverá. No le contó lo de la cosa del pozo y la promesa a Loth. Eso no. Eso lo guardó. Lo guardó en el cuaderno de corteza, en el fondo del zurrón, y se lo guardó en el pecho, y lo guardó por amor, como le había dicho Tobías, porque no sabía qué haría Lanther con ello, y porque Lanther tenía dieciséis años y un hermano que llevaba dentro un trozo del que tira y en el bolsillo un trozo más, y no quería que lo supiera todavía.
+Livia le contó a Lanther lo de la palabra. No todo. Lo de los puntos, lo de los verbos, lo de *volverá*. No le contó lo de la cosa del pozo y la promesa a Loth. Eso no. Eso lo guardó. Lo guardó en el cuaderno de corteza, en el fondo del zurrón, y se lo guardó en el pecho, y lo guardó por amor, como le había dicho Tobías, porque no sabía qué haría Lanther con ello, y porque Lanther tenía dieciséis años y un hermano que llevaba dentro un trozo del que tira y en el bolsillo un trozo más, y no quería que lo supiera todavía.
 
-O eso se dijo. Escribiría después, en el cuaderno, esa misma noche: Lo guardé por amor. O por miedo. No sé distinguirlos todavía. Tobías decía que se aprende. No sé cuándo.
+O eso se dijo. Escribiría después, en el cuaderno, esa misma noche: *Lo guardé por* *amor. O por miedo. No sé distinguirlos todavía. Tobías decía que se aprende. No sé* *cuándo.*
 
 En el camino, cuando ya se veía la colina, Lanther se detuvo.
 
@@ -183,7 +186,7 @@ En el camino, cuando ya se veía la colina, Lanther se detuvo.
 
 —¿Sí?
 
-—Si anwe quiere decir volverá… —Lanther frunció el ceño—. Tu nombre secreto. El que te puso mi padre. Quiere decir eso.
+—Si *anwe* quiere decir *volverá*… —Lanther frunció el ceño—. Tu nombre secreto. El que te puso mi padre. Quiere decir eso.
 
 —Sí.
 
@@ -195,7 +198,7 @@ Livia no contestó.
 
 —No lo sé.
 
-—Las de sal te llamaron así. Has vuelto antes de tiempo. —Lanther la miró—. Creen que eres tú. Lo que vuelve. Lo que esperaban.
+—Las de sal te llamaron así. *Has vuelto antes de tiempo.* —Lanther la miró—. Creen que eres tú. Lo que vuelve. Lo que esperaban.
 
 —Creen que soy la mano —dijo Livia—. La que puede tocar el clavo. O esto. Lo que sea esto. —Señaló hacia atrás, hacia el collado, hacia la montaña—. Creen que la mano es lo que vuelve. Y que ha vuelto antes de tiempo.
 
@@ -203,7 +206,7 @@ Livia no contestó.
 
 Livia se lo pensó. De verdad. Con el método de Lisandro.
 
-—No lo sé —dijo—. Tu padre me puso el nombre sin saber qué quería decir. Lo oyó en la cripta. Los muertos de la cripta lo murmuraban. Llevaban mil años murmurándolo, debajo de la torre, encima de la piedra negra. —Hizo una pausa—. Creo que lo murmuraban porque es lo que dice la piedra. Lo que dice la otra mitad. Lo que espera. Volverá. Volverá. Volverá. Como una nana. Como alguien que se canta a sí mismo para no olvidarse de algo.
+—No lo sé —dijo—. Tu padre me puso el nombre sin saber qué quería decir. Lo oyó en la cripta. Los muertos de la cripta lo murmuraban. Llevaban mil años murmurándolo, debajo de la torre, encima de la piedra negra. —Hizo una pausa—. Creo que lo murmuraban porque es lo que dice la piedra. Lo que dice la otra mitad. Lo que espera. *Volverá. Volverá. Volverá.* Como una nana. Como alguien que se canta a sí mismo para no olvidarse de algo.
 
 Lanther no dijo nada.
 
@@ -219,9 +222,9 @@ Lanther se rió. A su pesar. Una risa corta, rota.
 
 —Lo hizo con amor —dijo Livia—. Que no siempre es lo mismo que hacerlo bien.
 
-* * *
+---
 
-Esa noche, en la casa al pie de la montaña, Livia abrió otra vez el libro de Corvo. Por la página de los dibujos. La cuna. La mujer que sopla. La palabra naw con su punto debajo y su punto encima.
+Esa noche, en la casa al pie de la montaña, Livia abrió otra vez el libro de Corvo. Por la página de los dibujos. La cuna. La mujer que sopla. La palabra *naw* con su punto debajo y su punto encima.
 
 Y en el margen, al lado, con la letra fina de Neri, inclinada hacia la izquierda, que Livia había leído treinta veces sin fijarse, una frase en lengua de Concordia:
 

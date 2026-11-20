@@ -1,26 +1,26 @@
-## Capítulo 40 · Hatmie
+# Capítulo 40 · Hatmie
 
-*Tundra Zero, el antiguo valle negro. Invierno del año 1300 de la Nueva Era (693 D.bA).*
+*Tundra Zero, el antiguo valle negro, en el cráter. Invierno del año 1300 de la* *Nueva Era (693 D.bA).*
 
 Lo encontró Neva por la respiración.
 
-No la de ella. La de alguien que dormía debajo del hielo, en la ladera norte del valle, a media legua del Mercado, desde hacía seiscientos ochenta y ocho años.
+No la de ella. La de alguien que dormía debajo de la ceniza, en la ladera norte del valle, a media legua del Mercado, desde hacía seiscientos ochenta y ocho años.
 
 —Respira cada mucho —dijo Neva—. Una vez cada tres días. Muy hondo. Como los osos.
 
-Estaban en la cocina de la primera casa del borde, con el fuego encendido y las ventanas tapadas con pieles. Afuera soplaba. Hacía cuarenta años que en el borde del valle soplaba siempre, día y noche, un viento que bajaba del hielo y que olía a sal.
+Estaban en la cocina de la primera casa del borde, con el fuego encendido y las ventanas tapadas con pieles. Afuera soplaba. Hacía cuarenta años que en el borde del valle soplaba siempre, día y noche, un viento que bajaba del borde del cráter y que olía a azufre y a sal.
 
 Neva tenía doscientos once años y la cara de sesenta. Había llegado al Mercado con once, descalza, en el 1100, y no se había ido nunca. Era Custodia desde el 1180. Tenía el pelo blanco cortado a cuchillo y las manos llenas de grietas del frío, y una costumbre que Hatmie había notado la primera vez y que no le había preguntado: mientras hablaba, ladeaba la cabeza. Hacia abajo. Como quien escucha a alguien bajito.
 
 —¿Desde cuándo lo oyes?
 
-—Desde siempre. Desde que llegué. —Neva removió el caldo—. Antes lo tapaba el otro. El de debajo del Guardián. Que hace más ruido. Pero desde que el valle se heló, el otro está más callado, o más lejos, o más hondo, no lo sé. Y ahora se oye este.
+—Desde siempre. Desde que llegué. —Neva removió el caldo—. Antes lo tapaba el otro. El de debajo del Guardián. Que hace más ruido. Pero desde que el valle se cubrió de ceniza, el otro está más callado, o más lejos, o más hondo, no lo sé. Y ahora se oye este.
 
 —¿Y por qué no lo has dicho?
 
 Neva la miró.
 
-—Porque nadie me ha preguntado qué oigo —dijo—. En doscientos años. Me preguntan si se ha movido la grieta. Si ha bajado el frío. Si han vuelto los pájaros. Nadie me ha preguntado qué oyes, Neva.
+—Porque nadie me ha preguntado qué oigo —dijo—. En doscientos años. Me preguntan si se ha movido la grieta. Si ha bajado el frío. Si han vuelto los pájaros. Nadie me ha preguntado *qué oyes, Neva*.
 
 Hatmie se quedó callada.
 
@@ -28,21 +28,21 @@ Hatmie se quedó callada.
 
 La Custodia sonrió. Le faltaban tres dientes.
 
-—A alguien que duerme y que no tiene frío —dijo—. Debajo de cuarenta varas de hielo. En la ladera norte. Al lado de una roca con forma de mano.
+—A alguien que duerme y que no tiene frío —dijo—. Debajo de cuarenta varas de ceniza. En la ladera norte. Al lado de una roca con forma de mano.
 
-* * *
+---
 
 Tardaron cuarenta y un días en llegar.
 
-Hatmie había traído veinte zapadores de la Armada. Enanos, la mitad, de los que habían bajado de Tiama en el 1260 para la leva. Picos, palas, braseros. Cuerdas. Un toldo de lona encerada de los del puerto, para cubrir el agujero y que no se llenara de nieve por la noche. Lanther no había querido venir con los zapadores. Había dicho que llegaría cuando estuviera abierto. Que antes no hacía falta.
+Hatmie había traído veinte zapadores de la Armada. Enanos, la mitad, de los que habían bajado de Tiama en el 1260 para la leva. Picos, palas, braseros. Cuerdas. Un toldo de lona encerada de los del puerto, para cubrir el agujero y que no se llenara de ceniza por la noche. Lanther no había querido venir con los zapadores. Había dicho que llegaría cuando estuviera abierto. Que antes no hacía falta.
 
-Cavaron en espiral. Era lo que había dicho Dorn, el jefe de los enanos, un enano viejo con la barba trenzada en tres: que en hielo no se cava recto, que se cava en espiral, como baja el agua por un desagüe, para que las paredes se apoyen las unas en las otras. Cavaron cuarenta y un días en espiral, con los braseros encendidos al fondo para ablandar el hielo, que no se ablandaba. Era un hielo raro. No era hielo de agua. Era hielo de frío. Lo decía Dorn. Que el hielo de agua se derrite con el fuego y este no; este se ponía blando, un poco, como cera, y luego, en cuanto se apartaba el brasero, se volvía a poner duro, más duro que antes, como si se acordara.
+Cavaron en espiral. Era lo que había dicho Dorn, el jefe de los enanos, un enano viejo con la barba trenzada en tres: que en ceniza no se cava recto, que se cava en espiral, como baja el agua por un desagüe, para que las paredes se apoyen las unas en las otras. Cavaron cuarenta y un días en espiral, con los braseros encendidos al fondo para ablandar la ceniza, que se había apelmazado como piedra y no se ablandaba. Era una ceniza rara. No era ceniza de fuego. Era ceniza de frío. Lo decía Dorn. Que la ceniza de fuego se deshace con el calor y esta no; esta se ponía blanda, un poco, como cera, y luego, en cuanto se apartaba el brasero, se volvía a poner dura, más dura que antes, como si se acordara.
 
-Hatmie bajaba cada día. Con Neva. Neva se ponía al fondo del agujero, se arrodillaba, apoyaba la oreja en el hielo, y decía: más a la izquierda. Más abajo. Ahí. Ahí no. Ahí.
+Hatmie bajaba cada día. Con Neva. Neva se ponía al fondo del agujero, se arrodillaba, apoyaba la oreja en la ceniza, y decía: *más a la izquierda*. *Más abajo*. *Ahí. Ahí* *no. Ahí*.
 
 El día cuarenta y uno, el pico de Dorn dio en piedra.
 
-* * *
+---
 
 Era una roca con forma de mano.
 
@@ -60,11 +60,11 @@ Lo había tallado alguien antes. Mucho antes. Alguien que sabía que las cosas s
 
 Estaba arriba. En el borde del agujero. Había llegado esa mañana sin que nadie la viera llegar, y se había sentado en el borde, con las piernas por delante, a esperar a que el pico diera en la piedra.
 
-* * *
+---
 
 Bajó al fondo del agujero ella sola.
 
-Hatmie la siguió. Los zapadores se quedaron arriba; Lanther se lo había pedido sin pedirlo, con una mirada a Dorn, y Dorn había asentido y se había llevado a los enanos a fumar al toldo. Neva se quedó en la escalera de hielo, a mitad de camino. Con la cabeza ladeada.
+Hatmie la siguió. Los zapadores se quedaron arriba; Lanther se lo había pedido sin pedirlo, con una mirada a Dorn, y Dorn había asentido y se había llevado a los enanos a fumar al toldo. Neva se quedó en la escalera de ceniza, a mitad de camino. Con la cabeza ladeada.
 
 La mano de piedra era más grande de cerca. Lanther le puso la suya en la palma. La de carne, con la cicatriz. Pequeña, en la palma de piedra.
 
@@ -84,7 +84,7 @@ No tuvo miedo. Tuvo frío. Mucho. Un frío que le subió por el brazo hasta la l
 
 —Ahora le cantamos.
 
-* * *
+---
 
 Lanther le había enseñado la canción en cuarenta años.
 
@@ -96,7 +96,7 @@ Era lo que había tardado Odelia en cada una. Tres días para que se olvidara. T
 
 Hatmie y Lanther cantaron tres días.
 
-Por turnos. Una cantaba mientras la otra dormía, envuelta en pieles, al pie de la mano de piedra, en el fondo de un agujero de cuarenta varas de hielo, con un brasero que no calentaba y un toldo arriba que crujía con el viento. Neva les bajaba caldo. Dorn les bajaba carbón. Nadie hablaba.
+Por turnos. Una cantaba mientras la otra dormía, envuelta en pieles, al pie de la mano de piedra, en el fondo de un agujero de cuarenta varas de ceniza, con un brasero que no calentaba y un toldo arriba que crujía con el viento. Neva les bajaba caldo. Dorn les bajaba carbón. Nadie hablaba.
 
 Cantaban bajito. La música de Odelia no se canta fuerte. Es una música de corteza blanda, de esas que los elfos de los bosques cantan a los árboles cuando quieren que crezcan hacia un lado; no tiene palabras. Tiene notas largas. Muy largas. Que bajan y suben despacio como la savia.
 
@@ -104,7 +104,7 @@ Hatmie no sabía cantar. Lo dijo el primer día. Lanther le dijo que no hacía f
 
 No pararon.
 
-* * *
+---
 
 La tercera noche, la mano de piedra cerró un dedo.
 
@@ -124,19 +124,19 @@ Se puso blanca.
 
 —La primera —dijo—. La primera que hizo.
 
-* * *
+---
 
 Dentro hacía calor.
 
-Era lo primero. Hatmie lo notó al empujar la puerta, que se abrió sin ruido, como si la hubieran engrasado esa mañana. Un calor seco, de verano, de habitación cerrada al sol. Después de cuarenta y cuatro días de hielo, le dolió en la cara.
+Era lo primero. Hatmie lo notó al empujar la puerta, que se abrió sin ruido, como si la hubieran engrasado esa mañana. Un calor seco, de verano, de habitación cerrada al sol. Después de cuarenta y cuatro días de ceniza y de frío, le dolió en la cara.
 
-Era una habitación. No un sótano, ni una celda, ni una cueva. Una habitación. Con las paredes de madera clara, de abedul, pulidas. Con el suelo de tablas. Con una ventana — una ventana, debajo de cuarenta varas de hielo— por la que entraba una luz de tarde, dorada, de una tarde que no existía.
+Era una habitación. No un sótano, ni una celda, ni una cueva. Una habitación. Con las paredes de madera clara, de abedul, pulidas. Con el suelo de tablas. Con una ventana — una ventana, debajo de cuarenta varas de ceniza— por la que entraba una luz de tarde, dorada, de una tarde que no existía.
 
 En el centro, una cama.
 
 Y en la cama, durmiendo, una mujer.
 
-* * *
+---
 
 Hatmie se acercó.
 
@@ -154,7 +154,7 @@ Hatmie se paró a dos pasos de la cama.
 
 El pelo no era pelo. Eran serpientes. Pequeñas, finas, grises, del color de la piel, cientos, enroscadas sobre la almohada como un nido. Dormidas, todas. Con los ojos cerrados. Con las cabezas metidas debajo de las otras. Respirando. Una vez cada tres días, muy hondo, todas a la vez.
 
-* * *
+---
 
 —Medusa —dijo Lanther. Desde la puerta. Muy bajito.
 
@@ -164,7 +164,7 @@ Hatmie no se movió.
 
 —¿Odelia la encontró?
 
-—Odelia la encerró. En la primera puerta. Con los ojos tapados. —Lanther apretó el marco—. No me acuerdo, Hatmie. No me acuerdo de nada. Pero ahora sé por qué me tiembla la mano cada vez que alguien dice valle negro.
+—Odelia la encerró. En la primera puerta. Con los ojos tapados. —Lanther apretó el marco—. No me acuerdo, Hatmie. No me acuerdo de nada. Pero ahora sé por qué me tiembla la mano cada vez que alguien dice *valle negro*.
 
 Hatmie miró a la medusa.
 
@@ -188,7 +188,7 @@ Lanther abrió los ojos.
 
 —No —dijo—. No se le puede quitar la venda a una medusa para preguntarle nada. Y no se la puede despertar con la venda puesta, porque se la quita.
 
-* * *
+---
 
 Hatmie se quedó al lado de la cama un rato.
 
@@ -198,7 +198,7 @@ Una sola página escrita.
 
 Lanther se lo leyó desde la puerta, sin entrar, sin acercarse, con los ojos entornados para ver las letras desde lejos:
 
-—Primera. Valle negro. 612. Una. No tiene nombre; no lo dice. No es mala. Tiene miedo. Mira para que no se acerquen, porque lo de abajo la llama y ella no quiere ir. La he dormido con los ojos tapados para que no tenga que mirar más. Le he dejado una ventana con una tarde. Que no se despierte hasta que haya alguien que pueda mirarla sin quedarse de piedra. O hasta que lo de abajo deje de llamar. Lo que pase primero. O.
+—*Primera. Valle negro. 612. Una. No tiene nombre; no lo dice. No es mala. Tiene* *miedo. Mira para que no se acerquen, porque lo de abajo la llama y ella no quiere ir. La* *he dormido con los ojos tapados para que no tenga que mirar más. Le he dejado una* *ventana con una tarde. Que no se despierte hasta que haya alguien que pueda mirarla sin* *quedarse de piedra. O hasta que lo de abajo deje de llamar. Lo que pase primero. O.*
 
 Hatmie cerró el cuaderno.
 
@@ -210,11 +210,11 @@ Hatmie cerró el cuaderno.
 
 Lanther no contestó.
 
-* * *
+---
 
 Lo dejaron todo como estaba.
 
-El registro en la mesa. La medusa en la cama. La puerta cerrada. Lanther cantó la música al derecho, la de olvidar, que no sabía; la cantó mal, a trozos, con los ojos cerrados, y la mano de piedra no se abrió, pero la puerta empezó a parecer otra vez roca, un poco, por los bordes. Hatmie le dijo que parara. Que no hacía falta. Que el hielo la tapaba mejor que ninguna canción.
+El registro en la mesa. La medusa en la cama. La puerta cerrada. Lanther cantó la música al derecho, la de olvidar, que no sabía; la cantó mal, a trozos, con los ojos cerrados, y la mano de piedra no se abrió, pero la puerta empezó a parecer otra vez roca, un poco, por los bordes. Hatmie le dijo que parara. Que no hacía falta. Que la ceniza la tapaba mejor que ninguna canción.
 
 Subieron.
 
@@ -226,7 +226,7 @@ Arriba, Dorn y los enanos esperaban en el toldo. Neva estaba en la escalera, don
 
 —La que duerme. Cuando habéis cerrado la puerta. Se ha dado la vuelta en la cama. Hacia la pared. —Neva se cerró el chal—. Como se da la vuelta uno cuando le han tapado.
 
-* * *
+---
 
 Esa noche, en la cocina del borde, Wenna pidió que le contaran.
 
@@ -246,13 +246,13 @@ Al final, cuando Hatmie terminó, la balanza que tenía en el regazo se movió. 
 
 —Ya lo sé. —Wenna sonrió por debajo de los chales; se le notó en la voz—. Eso es lo que pesa, muchacha. Que no se os ocurrió.
 
-* * *
+---
 
 Hatmie mandó a los enanos que taparan el agujero.
 
-Con hielo. Con el mismo hielo que habían sacado, a paladas, en espiral, al revés. Tardaron once días. Dorn dijo que en un invierno no se notaría. Que el hielo de frío se acordaba de dónde había estado y volvía.
+Con ceniza. Con la misma ceniza que habían sacado, a paladas, en espiral, al revés. Tardaron once días. Dorn dijo que en un invierno no se notaría. Que la ceniza de frío se acordaba de dónde había estado y volvía.
 
-No puso nada en el registro de la Armada. Ni en el del Consejo. En el informe del año escribió: Patrulla al borde de Tundra Zero. Sin novedad. Veinte zapadores. Un toldo perdido.
+No puso nada en el registro de la Armada. Ni en el del Consejo. En el informe del año escribió: *Patrulla al borde de Tundra Zero. Sin novedad. Veinte zapadores. Un toldo* *perdido.*
 
 Sein le preguntó, en la biblioteca, en la primavera, por qué había perdido un toldo.
 

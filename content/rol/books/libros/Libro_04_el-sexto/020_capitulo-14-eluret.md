@@ -1,6 +1,6 @@
-## Capítulo 14 · Eluret
+# Capítulo 14 · Eluret
 
-*La sala del Consejo y las murallas de Banderbill. Primavera y verano del año 1068 de la Nueva Era (461 D.bA).*
+*La sala del Consejo y las murallas de Banderbill. Primavera y verano del año 1068* *de la Nueva Era (461 D.bA).*
 
 La silla del Supremo Comandante tenía brazos, y Eluret no sabía dónde poner los suyos.
 
@@ -12,7 +12,7 @@ Estaba enfadado. Pero no quería parecerlo.
 
 Al final las puso en la mesa. Delante. Una encima de la otra. Como las ponía Gal.
 
-* * *
+---
 
 El Consejo eran diecinueve. Doce humanos, cuatro elfos, dos enanos y un gnomo. Representaban a los gremios, a los barrios, a las ciudades del Imperio que mandaban representante, que eran Nix, Ullathorpe y Wonder, y a los pueblos que vivían en la colina. Se reunían los martes y los viernes en la sala grande del palacio, la de los ventanales, alrededor de una mesa en forma de herradura, y hablaban.
 
@@ -26,7 +26,7 @@ Esa mañana, la primera de verdad, hablaron de la décima.
 
 —Eso es absurdo —dijo un elfo.
 
-—Es la ley —dijo Orvil Dask—. La décima es para la corona. Lo pone así. Para la corona. Y la corona está en un cojín.
+—Es la ley —dijo Orvil Dask—. La décima es *para la corona*. Lo pone así. *Para la* *corona.* Y la corona está en un cojín.
 
 Todo el mundo miró a Eluret.
 
@@ -58,7 +58,7 @@ No era la forma. Lo supo en el pasillo. Los gnomos de las lámparas, en la galer
 
 Wonder pagó la semana siguiente.
 
-* * *
+---
 
 —No era la forma —dijo Baervan.
 
@@ -84,13 +84,13 @@ Eluret se rio. Sin querer. Era la primera vez que se reía desde el entierro.
 
 Baervan lo miró de lado. Y siguió comiendo.
 
-* * *
+---
 
 En junio vinieron los barcos.
 
 No a la colina. A Annkör. A la costa sur de Annkör, donde había tres aldeas de pescadores de bacalao y una de cazadores de focas, a nueve días de Tiama y a doce de Banderbill. Diecisiete barcos negros. Desembarcaron al alba. Quemaron las cuatro aldeas. Se llevaron a ciento cuarenta personas, casi todas mujeres y niños. Se fueron antes de mediodía.
 
-La noticia tardó once días en llegar a la colina. La trajo un barco de Tiama, con una carta de Dalbur que decía solo: Han venido. Se han ido. Ciento cuarenta. Mando a mi gente a buscarlos. No los encontraremos. D.
+La noticia tardó once días en llegar a la colina. La trajo un barco de Tiama, con una carta de Dalbur que decía solo: *Han venido. Se han ido. Ciento cuarenta. Mando a mi* *gente a buscarlos. No los encontraremos. D.*
 
 Eluret leyó la carta en voz alta en el Consejo.
 
@@ -124,7 +124,7 @@ Eluret no contestó enseguida. Miró a Baervan, que estaba de pie detrás de él
 
 —La muralla no es la Armada.
 
-—La muralla ha parado al Demonio en persona. —Eluret puso las manos en la mesa. Una encima de la otra—. Y la colina tiene cinco mil hombres. Y tiene a la gente. Y tiene... —No dijo lo que iba a decir. Y tiene a los del sótano. No lo dijo—. Y la colina es la única ciudad del Imperio que no ha perdido a nadie este año.
+—La muralla ha parado al Demonio en persona. —Eluret puso las manos en la mesa. Una encima de la otra—. Y la colina tiene cinco mil hombres. Y tiene a la gente. Y tiene... —No dijo lo que iba a decir. *Y tiene a los del sótano.* No lo dijo—. Y la colina es la única ciudad del Imperio que no ha perdido a nadie este año.
 
 —Precisamente por eso —dijo Orvil Dask— hay que mantenerla así.
 
@@ -134,15 +134,15 @@ Eluret lo miró.
 
 Detrás de él, Baervan bajó la ceja.
 
-* * *
+---
 
 El Consejo votó en contra. Once a ocho.
 
 Eluret mandó a la Armada igual.
 
-No era la forma. Lo sabía. Lo hizo igual. Firmó las órdenes esa misma noche, en el despacho, con Baervan al lado sosteniéndole la lámpara. Eluret, de la Armada. Diecinueve órdenes. Para diecinueve capitanes.
+No era la forma. Lo sabía. Lo hizo igual. Firmó las órdenes esa misma noche, en el despacho, con Baervan al lado sosteniéndole la lámpara. *Eluret, de la Armada.* Diecinueve órdenes. Para diecinueve capitanes.
 
-—Le van a llamar dudoso —dijo Baervan—. El mandato dudoso. Ya lo están diciendo en las tabernas.
+—Le van a llamar dudoso —dijo Baervan—. *El mandato dudoso.* Ya lo están diciendo en las tabernas.
 
 —Que lo digan.
 
@@ -164,7 +164,7 @@ Luego bajó la lámpara. Y se rio, bajito, por la nariz.
 
 —De que le ha llamado «el mejor de todos». —Baervan se encogió de hombros—. Usted. Que le llamaba Gal.
 
-* * *
+---
 
 Esa noche, Eluret subió a la muralla.
 
@@ -230,7 +230,7 @@ El barco negro, a dos millas, se dio la vuelta y se fue.
 
 No se rio. O Eluret no lo oyó.
 
-* * *
+---
 
 Los de Annkör encontraron a veintitrés de los ciento cuarenta. En una isla rocosa al sur de Orac, abandonados, medio muertos de hambre, con los ojos vendados. Los demás no aparecieron nunca.
 
@@ -254,11 +254,11 @@ No se rio.
 
 Eluret asintió.
 
-Esa noche, en su cuarto, sacó un cuaderno que no había usado nunca, con tapas de cuero, que le había regalado Gal en el 1012, el día de la boda, para que apuntes lo que veas, que yo no voy a estar en todos los sitios. Lo abrió. Mojó la pluma.
+Esa noche, en su cuarto, sacó un cuaderno que no había usado nunca, con tapas de cuero, que le había regalado Gal en el 1012, el día de la boda, *para que apuntes lo que* *veas, que yo no voy a estar en todos los sitios*. Lo abrió. Mojó la pluma.
 
 Escribió veintitrés nombres. Los que tenían nombre. La niña no.
 
-Luego escribió debajo: Una niña sin nombre, seis años, de la costa de Annkör. Se me durmió encima.
+Luego escribió debajo: *Una niña sin nombre, seis años, de la costa de Annkör. Se* *me durmió encima.*
 
 Y miró hacia arriba.
 

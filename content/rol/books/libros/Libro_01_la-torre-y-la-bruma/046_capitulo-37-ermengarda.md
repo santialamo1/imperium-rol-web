@@ -1,4 +1,4 @@
-## Capítulo 37 · Ermengarda
+# Capítulo 37 · Ermengarda
 
 *Concordia, barrio alto y Torre de la Unión. Año 158, invierno.*
 
@@ -14,7 +14,7 @@ En la calle hacía frío. Nevaba un poco, una nieve fina y sucia que se convert�
 
 Su hijo había muerto en el Vado de las Cenizas.
 
-* * *
+---
 
 Se llamaba Aldric. Tenía treinta y un años, una mujer, una hija de pocos meses y una risa que se oía desde la otra punta de la casa. No era soldado. Era el heredero de los viñedos, el que llevaba las cuentas de las cosechas y discutía con los capataces sobre el precio de las cubas. Fue al Vado porque el emperador Henricus llamó a los señores a llevar a sus hombres, y los Varga no se negaban nunca a una llamada imperial, porque los Varga recordaban siempre lo que se les debía y procuraban que se les debiera mucho.
 
@@ -26,11 +26,11 @@ Luego subió a la casa y empezó a contar.
 
 Contó lo que había pasado en el Vado. Contó quién estaba en la primera línea y quién en la segunda. Contó quién había diseñado el despliegue: una muchacha de veinticinco años, sobrina del emperador, que había leído todos los tratados de estrategia de la biblioteca imperial y que había propuesto poner a los señores y sus mesnadas en la orilla, donde el emperador quería tener a la nobleza «para que se viera que los señores dan la cara». Contó quién había sobrevivido: la muchacha. De pie en la orilla, mientras la mujer del velo se acercaba. Y el hombre de gris, en lugar de matarla, le había hablado. Y se había ido.
 
-No mientras ella viva, había dicho. Lo sabía todo el ejército. Nadie sabía de quién hablaba.
+*No mientras ella viva*, había dicho. Lo sabía todo el ejército. Nadie sabía de quién hablaba.
 
 La muchacha se llamaba Helen Dorian. Un mes después se sentó en el trono.
 
-* * *
+---
 
 Ermengarda no era tonta. Sabía que el despliegue no lo había decidido Helen sola. Sabía que el emperador Henricus había aprobado el plan, y que Henricus había muerto en la misma orilla, liberando a doscientos muertos con su propia voz. Sabía que en la guerra muere la gente, y que su hijo podía haber muerto igual en la segunda línea, o en la tercera, o de unas fiebres en el campamento.
 
@@ -46,7 +46,7 @@ Eso fue lo que les dijo a los otros, aquel verano, en su casa de los viñedos, c
 
 No sabía si era verdad. Pero era una historia mejor que la otra. La otra era que su hijo había muerto por nada.
 
-* * *
+---
 
 Fueron a Kel-Mar en otoño, a ver al príncipe Corvo, que había renunciado al trono y tenía tres mil hombres leales en el Ceniza. Corvo los echó. Fue cortés, pero los echó, y les dijo que no se lo contaría a su prima porque no quería que tuviera que colgarlos.
 
@@ -56,7 +56,7 @@ Ermengarda no esperó.
 
 Si no había ejército, no hacía falta ejército. Hacía falta un copero.
 
-* * *
+---
 
 El copero de la emperatriz se llamaba Lisle. Era un Ibaro joven, de buena familia arruinada, con deudas de juego y una madre enferma en Pisor. Ermengarda tardó dos semanas en encontrarlo y una tarde en comprarlo: doscientas monedas de oro, la mitad por adelantado, y la promesa de un puesto de administrador en los viñedos de Tiber, lejos de Concordia, cuando todo hubiera terminado.
 
@@ -72,7 +72,7 @@ Lisle se guardó el frasco en el jubón. Le temblaban las manos. A Ermengarda le
 
 Se equivocaba. Pero eso no lo supo hasta la noche de la luna nueva.
 
-* * *
+---
 
 La noche de la luna nueva, Ermengarda Varga estaba en su casa del barrio alto, sentada junto a la chimenea, con su nieta dormida en el regazo, esperando oír las campanas de la Torre.
 
@@ -120,7 +120,7 @@ Helen tardó mucho en contestar.
 
 Ermengarda no la creyó. No del todo. Pero algo, dentro de ella, en el sitio donde llevaba nueve años guardando la cuenta, se agrietó.
 
-* * *
+---
 
 —¿Qué vais a hacer conmigo? —preguntó.
 
@@ -144,7 +144,7 @@ Se fue. Sin escolta. Por la nieve. Ermengarda la vio alejarse por la ventana, un
 
 Luego se quedó toda la noche junto al fuego, con su nieta en el regazo. No durmió. Le contó a la niña dormida, en voz muy baja, cosas de su padre. Que se reía muy fuerte. Que discutía con los capataces por el precio de las cubas. Que llevaba un jubón verde con un racimo bordado.
 
-* * *
+---
 
 La colgaron al amanecer del día siguiente, junto a lord Hadric Venn, en la plaza del Ombligo, delante de la Torre de la Unión. Hubo mucha gente. Ermengarda subió al patíbulo con la espalda recta, la toca de lino bien puesta y la nariz ganchuda de los Varga levantada hacia el cielo gris. No dijo nada. No pidió perdón. Los Varga no pedían perdón en público.
 

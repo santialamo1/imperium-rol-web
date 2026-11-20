@@ -1,4 +1,4 @@
-## III. La última entrada
+# Iii. la última entrada
 
 Érandiul llegó al alba.
 
@@ -18,7 +18,7 @@ Mirela miró la página.
 
 Luego cogió la pluma. Y un pliego nuevo. Y empezó a copiar. Tal como estaba. Con la letra de la mano izquierda. Con las faltas.
 
-* * *
+---
 
 Fuera, en la colina, se oía al ejército bajar al puerto.
 
@@ -26,10 +26,10 @@ Miles. Con las armaduras brillantes, con la estrella en el pecho, con los caball
 
 No a dar de comer.
 
-Arriba, en el muro, un tum. Y debajo de la colina, muy debajo, más abajo de los túneles, más abajo de donde llega nadie, un tarareo que subía cuatro, bajaba tres, se paraba en el tum para respirar, y seguía.
+Arriba, en el muro, un *tum*. Y debajo de la colina, muy debajo, más abajo de los túneles, más abajo de donde llega nadie, un tarareo que subía cuatro, bajaba tres, se paraba en el *tum* para respirar, y seguía.
 
 Sube cuatro.
 
 Mirela copiaba.
 
-* * *
+---

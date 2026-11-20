@@ -1,4 +1,4 @@
-## Capítulo 4 · Mabel
+# Capítulo 4 · Mabel
 
 *Las lomas del brezo. Verano del año 512 de la Nueva Era.*
 
@@ -8,9 +8,9 @@ La que no tenía nombre era negra. Había nacido negra en una camada de blancas,
 
 Mabel no le puso nombre. Le cogió cariño igual.
 
-La llamaba la otra.
+La llamaba *la otra*.
 
-* * *
+---
 
 Los de Mabel eran pastores de las lomas desde siempre. Desde antes de la colina, decía su abuela, que había nacido en la loma del espino y que se moriría en ella, y que no había bajado a Banderbill más que dos veces en su vida, una para casarse y otra para ver al Emperador nuevo en el 417, y que decía que el Emperador nuevo tenía las orejas de liebre y que eso no podía traer nada bueno.
 
@@ -20,7 +20,7 @@ Ese verano no subieron.
 
 Los pastos altos ya no eran suyos.
 
-* * *
+---
 
 —Los ha comprado la gente del oeste —dijo su padre, una noche de mayo, al volver de la feria—. Toda la vaguada grande. Y las dos lomas de detrás. Y la fuente.
 
@@ -48,23 +48,23 @@ Su padre tardó mucho en contestar.
 
 —Porque el que me los dio —dijo— sonreía muy bien.
 
-* * *
+---
 
 Mabel no subió a los pastos altos ese verano, pero eso no quería decir que no fuera.
 
-Iba sola. Con la otra. Por las vaguadas, por donde no la veía nadie, por donde el brezo le llegaba al cuello. Iba porque estaba prohibido y porque tenía nueve años, que son dos razones que bastan, y porque quería ver los mojones rojos. Y porque desde la loma de detrás de la fuente se veía la hondonada grande, la del plato, la de la charca negra, y en la hondonada estaban haciendo casas.
+Iba sola. Con *la otra*. Por las vaguadas, por donde no la veía nadie, por donde el brezo le llegaba al cuello. Iba porque estaba prohibido y porque tenía nueve años, que son dos razones que bastan, y porque quería ver los mojones rojos. Y porque desde la loma de detrás de la fuente se veía la hondonada grande, la del plato, la de la charca negra, y en la hondonada estaban haciendo casas.
 
 Muchas. Más cada vez que iba. Casas bajas, de piedra, con tejados de brezo, en círculo alrededor de la charca, como se ponen los niños alrededor de un fuego. Y debajo de las casas, en las laderas, agujeros. Bocas de cueva, negras, con una puerta de madera cada una. Por los agujeros entraba y salía gente con capas grises, con la capucha puesta, aunque fuera verano. Sacaban piedras. Sacaban tierra roja. Metían cosas en sacos.
 
 Por la noche, desde la loma, se veía un resplandor. Rojo. Muy bajo. Que salía de los agujeros como sale el calor de un horno.
 
-Mabel lo miraba tumbada en el brezo, con la otra al lado, mascando brezo, y no tenía miedo. Tenía nueve años. Le parecía bonito.
+Mabel lo miraba tumbada en el brezo, con *la otra* al lado, mascando brezo, y no tenía miedo. Tenía nueve años. Le parecía bonito.
 
-* * *
+---
 
 Al chico lo encontró en julio.
 
-Lo encontró porque la otra se escapó. Se escapó loma abajo, hacia la hondonada, persiguiendo un saltamontes, que era lo único que la otra perseguía en el mundo, y Mabel corrió detrás, y se cayó, y rodó, y cuando paró de rodar estaba al fondo de una vaguada que no conocía, con las rodillas sangrando y brezo en el pelo, y había un chico sentado en una piedra, mirándola.
+Lo encontró porque *la otra* se escapó. Se escapó loma abajo, hacia la hondonada, persiguiendo un saltamontes, que era lo único que *la otra* perseguía en el mundo, y Mabel corrió detrás, y se cayó, y rodó, y cuando paró de rodar estaba al fondo de una vaguada que no conocía, con las rodillas sangrando y brezo en el pelo, y había un chico sentado en una piedra, mirándola.
 
 Era un orco.
 
@@ -72,7 +72,7 @@ Mabel no había visto nunca un orco. Los había visto en dibujos, en el libro de
 
 Este era grisáceo, más que verde. Tenía los colmillos pequeños, de chico, como dientes de leche que se le hubieran salido para fuera. Tenía los ojos amarillos. Tenía una tira de cuero, sí, pero no en la frente: en el cuello, colgando, desatada. Llevaba una capa gris como las de la hondonada, con la capucha bajada. No llevaba hacha. Tenía en la mano un saltamontes.
 
-La otra estaba a su lado, mirando el saltamontes con mucho interés.
+*La otra* estaba a su lado, mirando el saltamontes con mucho interés.
 
 —¿Es tuya? —dijo el orco.
 
@@ -82,19 +82,19 @@ Hablaba la lengua de la colina. Con un acento raro, del oeste, que arrastraba la
 
 —¿Cómo se llama?
 
-—No se llama. Es la otra.
+—No se llama. Es *la otra*.
 
 El orco pensó un momento.
 
 —Qué nombre más tonto —dijo.
 
-* * *
+---
 
 Se llamaba Grosh. Tenía once años. Vivía en la hondonada, en una de las cuevas, con su madre y sus tres hermanos y su abuelo, que estaba ciego. Habían llegado en primavera, por la noche, con otras cuarenta familias, en carros tapados, desde muy lejos, desde el otro lado de las montañas rojas. Les habían dicho que aquí había trabajo y comida y que no habría guerra. Que solo había que picar y esperar.
 
 —¿Esperar qué?
 
-Grosh se encogió de hombros. Le dio el saltamontes a la otra, que se lo comió.
+Grosh se encogió de hombros. Le dio el saltamontes a *la otra*, que se lo comió.
 
 —Eso no lo dicen —dijo—. Se espera y ya está. Mi abuelo dice que los orcos llevamos doscientos años esperando y que ya ni nos acordamos de qué.
 
@@ -112,11 +112,11 @@ Grosh tardó. Luego señaló hacia la hondonada. Hacia la charca. Hacia el centr
 
 —Vive debajo —dijo—. Debajo de la piedra.
 
-* * *
+---
 
 Volvieron a verse. Al día siguiente, y al otro, y todos los días de ese verano, en la vaguada del saltamontes, que pasó a llamarse así. Mabel llevaba pan y queso, porque Grosh siempre tenía hambre. Grosh llevaba cosas de la hondonada: una piedrita roja que brillaba de noche, un trozo de hierro con forma de pájaro, una vez una manzana, que no se sabía de dónde la había sacado porque en las lomas no había manzanos.
 
-Jugaban a lo que juegan los niños cuando no tienen nada. A tirar piedras. A ver quién aguantaba más sin respirar. A buscar saltamontes para la otra. A mercaderes, porque Mabel solo sabía jugar a eso, como todos los niños de la colina ese siglo; Grosh no sabía lo que era un mercader y Mabel se lo explicó y a Grosh le pareció un oficio muy raro, comprar cosas para venderlas a otros que también podían comprarlas.
+Jugaban a lo que juegan los niños cuando no tienen nada. A tirar piedras. A ver quién aguantaba más sin respirar. A buscar saltamontes para *la otra*. A mercaderes, porque Mabel solo sabía jugar a eso, como todos los niños de la colina ese siglo; Grosh no sabía lo que era un mercader y Mabel se lo explicó y a Grosh le pareció un oficio muy raro, comprar cosas para venderlas a otros que también podían comprarlas.
 
 —¿Y por qué no se las compran directamente al otro?
 
@@ -130,7 +130,7 @@ Grosh pensó mucho tiempo.
 
 —Entonces el abuelo de sal es mercader —dijo.
 
-* * *
+---
 
 Un día, a finales de agosto, Mabel le preguntó por qué tenía los ojos amarillos.
 
@@ -144,7 +144,7 @@ Un día, a finales de agosto, Mabel le preguntó por qué tenía los ojos amaril
 
 —Porque no has estado en una guerra.
 
-Mabel se tumbó a su lado. La otra se tumbó al lado de Mabel. Encima de ellos había un cielo de verano, muy alto, muy azul, con una sola nube, blanca, larga, que se movía hacia el mar.
+Mabel se tumbó a su lado. *La otra* se tumbó al lado de Mabel. Encima de ellos había un cielo de verano, muy alto, muy azul, con una sola nube, blanca, larga, que se movía hacia el mar.
 
 —¿Ves esa nube? —dijo Mabel.
 
@@ -190,7 +190,7 @@ Grosh no dijo nada.
 
 No le soltó la mano.
 
-* * *
+---
 
 En septiembre, la madre de Grosh lo encontró en la vaguada del saltamontes.
 
@@ -206,7 +206,7 @@ Un segundo. Al cielo. A ninguna nube. Al cielo entero.
 
 Luego su madre tiró de él y desaparecieron.
 
-* * *
+---
 
 Mabel volvió a la vaguada todos los días de ese otoño. Grosh no volvió.
 
@@ -214,11 +214,11 @@ En noviembre fue a la loma de detrás de la fuente, a mirar la hondonada. Había
 
 Uno de ellos la vio. Se volvió hacia ella. Desde muy lejos.
 
-Mabel se tiró al brezo. Se quedó allí, con la cara en la tierra, con la otra temblando a su lado, hasta que se hizo de noche.
+Mabel se tiró al brezo. Se quedó allí, con la cara en la tierra, con *la otra* temblando a su lado, hasta que se hizo de noche.
 
 Cuando volvió a casa, su padre la estaba esperando en la puerta, con un farol, con la cara blanca. No le pegó. La abrazó. Muy fuerte. Y luego le dijo que no volviera nunca más a los pastos altos, nunca, nunca, y Mabel le dijo que no, y era la primera vez en su vida que le decía a su padre que no a algo con la intención de cumplirlo.
 
-* * *
+---
 
 En la primavera del 513, alguien dejó una cosa en la puerta de la casa de la loma del espino.
 

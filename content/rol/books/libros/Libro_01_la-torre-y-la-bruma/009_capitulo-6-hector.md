@@ -1,4 +1,4 @@
-## Capítulo 6 · Hector
+# Capítulo 6 · Hector
 
 *Torre de la Unión. Año 35.*
 
@@ -6,7 +6,7 @@ Los físicos decían que era el corazón. Los sacerdotes Ibaro decían que era e
 
 Lucius Heredicus agonizaba en la cámara más alta de la torre, justo debajo de la cúpula de cristal donde ardía la Llama Concorde. Había pedido que lo subieran allí. Trescientas varas de escalera de caracol, cuatro porteadores turnándose con la litera, toda una mañana de subida. Los físicos se habían opuesto. Lucius los había mirado y habían dejado de oponerse.
 
-Desde la ventana se veía todo el Imperio. Al norte, el mar verde oscuro de los bosques de Tiber. Al sur, las dos cordilleras nevadas, Pisor y Gijor, separadas por el gran valle por donde bajaban las caravanas de sal. Al este, la línea plateada de la costa y, más allá, el Mar de la Penuria Eterna, que nadie había cruzado nunca y que, según los marineros Renod, terminaba en una catarata que caía al vacío. Y al noroeste, la mancha gris.
+Desde la ventana se veía todo el Imperio. Al norte, el mar verde oscuro de los bosques de Tiber. Al sur, las dos cordilleras nevadas, Pisor y Gijor, separadas por el gran valle por donde bajaban las caravanas de sal, y detrás de ellas, muy lejos, la línea plateada de la costa y, más allá, el Mar de la Eterna Penuria, que nadie había cruzado nunca y que, según los marineros Renod, terminaba en una catarata que caía al vacío. Y al noreste, la mancha gris.
 
 —Sigue ahí —dijo Lucius con un hilo de voz.
 
@@ -46,7 +46,7 @@ Le contó cómo, tras la muerte de Lisandro, había mandado buscar a Ysh-Amara. 
 
 —Porque las Madres de la niebla no son una sola cosa, Hector. Están divididas. Unas quieren que eso despierte. Otras quieren que duerma para siempre. Ysh-Amara era de las segundas. Y una piedra que late necesita un clavo encima para no moverse. —Lucius soltó una risa amarga que se convirtió en tos—. Yo creí que estaba fundando un imperio. Ella me usó para construir una tapa. Y lo peor es que funcionó. Mientras la torre esté en pie y la llama arda, lo que hay debajo dormirá, y la niebla no saldrá de Eufesia, y los tres pueblos jurados sobre la piedra no podrán romper la paz sin sentirla en el pecho.
 
-Hector se quedó mucho rato callado. Miró hacia el noroeste. La mancha gris parecía, por primera vez, no una nube sino un ojo entrecerrado.
+Hector se quedó mucho rato callado. Miró hacia el noreste. La mancha gris parecía, por primera vez, no una nube sino un ojo entrecerrado.
 
 —¿Por qué me lo cuentas a mí? —dijo al fin—. Livia es tu sangre. Ella debería...
 
@@ -64,7 +64,7 @@ Hector pensó en el sillar con la veta negra, en el andamio, en el latido.
 
 —Padre, odio la corte. Odio el Consejo. Odio a los señores, a los escribas, a los recaudadores, a los embajadores, a los...
 
-—Por eso. —La sonrisa, esta vez, fue clara—. Un hombre que quiere el poder es un hombre que el poder ya posee. Lisandro lo sabía. Él te eligió antes que yo. Él no es de tu sangre, y por eso será el único que pueda sostener lo que construiste sin que lo devore. Eso escribió. Y Lisandro... Lisandro siempre tuvo razón. Era insoportable.
+—Por eso. —La sonrisa, esta vez, fue clara—. Un hombre que quiere el poder es un hombre que el poder ya posee. Lisandro lo sabía. Él te eligió antes que yo. *Él no es de tu* *sangre, y por eso será el único que pueda sostener lo que construiste sin que lo devore.* Eso escribió. Y Lisandro... Lisandro siempre tuvo razón. Era insoportable.
 
 Hector sintió que se le cerraba la garganta.
 
@@ -88,7 +88,7 @@ Cuando se giró de nuevo, el Fundador del Imperio había muerto.
 
 Arriba, en la cúpula de cristal, la Llama Concorde parpadeó. Una sola vez. Como un ojo que pestañea.
 
-* * *
+---
 
 Coronaron a Hector Tiberius siete días después, en la gran plaza de Concordia, ante cien mil personas de los tres pueblos.
 
@@ -102,6 +102,6 @@ Livia, a su lado en la tribuna, tenía treinta y un años y los ojos rojos de ll
 
 Cuando el sumo sacerdote le puso la corona en la cabeza, Hector sintió un peso que no tenía nada que ver con el hierro. Miró hacia la torre. La llama ardía en la cúspide, blanca, tranquila.
 
-La torre es un clavo, pensó. Y yo soy el martillo que lo sujeta.
+*La torre es un clavo*, pensó. *Y yo soy el martillo que lo sujeta.*
 
 Gobernó treinta y siete años.

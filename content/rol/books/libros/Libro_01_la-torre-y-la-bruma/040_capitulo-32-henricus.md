@@ -1,10 +1,10 @@
-## Capítulo 32 · Henricus
+# Capítulo 32 · Henricus
 
 *Vado de las Cenizas, frontera de Eufesia. Año 149.*
 
 Los rumores empezaron en el año ciento treinta y ocho, y al principio nadie los creyó.
 
-Caravanas que desaparecían en las colinas peladas del noroeste. Aldeas fronterizas que amanecían vacías, sin rastro de lucha, con la comida todavía en las mesas y las puertas abiertas. Pastores que juraban haber visto a sus vecinos muertos caminar por los páramos al anochecer, grises, silenciosos, con los ojos blancos. Soldados de las guarniciones de la frontera que desertaban en masa contando historias de una niebla que avanzaba de noche y se retiraba de día, cada vez un poco más lejos, cada vez un poco más cerca.
+Caravanas que desaparecían en las colinas peladas del noreste. Aldeas fronterizas que amanecían vacías, sin rastro de lucha, con la comida todavía en las mesas y las puertas abiertas. Pastores que juraban haber visto a sus vecinos muertos caminar por los páramos al anochecer, grises, silenciosos, con los ojos blancos. Soldados de las guarniciones de la frontera que desertaban en masa contando historias de una niebla que avanzaba de noche y se retiraba de día, cada vez un poco más lejos, cada vez un poco más cerca.
 
 Henricus Bhargaras, emperador de los pueblos jurados desde hacía diecisiete años, oyó los rumores en el Consejo y no dijo nada. Pero esa noche no durmió.
 
@@ -18,11 +18,11 @@ Desde el año ciento treinta y ocho, los muertos de Concordia hablaban de otra c
 
 *El que tira. El que tira. Viene el que tira.*
 
-* * *
+---
 
 En el año ciento cuarenta y nueve, la niebla llegó al río Ceniza.
 
-El río marcaba la frontera desde los tiempos de Hector. Al este, las colinas de los pueblos jurados; al oeste, los páramos que bajaban hacia el Desierto de la Niebla. Había un vado, el único en cincuenta leguas, protegido por una fortaleza de piedra gris que Hector había mandado construir y que se llamaba, como el río, la Torre de Ceniza. Tenía una guarnición de cuatrocientos hombres.
+El río marcaba la frontera desde los tiempos de Hector. Al oeste, las colinas de los pueblos jurados; al este, los páramos que bajaban hacia el Desierto de la Niebla. Había un vado, el único en cincuenta leguas, protegido por una fortaleza de piedra gris que Hector había mandado construir y que se llamaba, como el río, la Torre de Ceniza. Tenía una guarnición de cuatrocientos hombres.
 
 En la primavera del ciento cuarenta y nueve, la guarnición dejó de enviar mensajes.
 
@@ -44,13 +44,13 @@ Henricus la miró. Tenía los ojos llenos de lágrimas.
 
 Henricus no le prometió nada. Pero tampoco le dijo que no.
 
-* * *
+---
 
 La Torre de Ceniza estaba vacía cuando llegaron. Completamente vacía. Las puertas, abiertas. Las armas, en los armeros. La comida, en las mesas. Ni un cuerpo. Ni una gota de sangre.
 
 Y al otro lado del río, la niebla.
 
-No era como Henricus la había imaginado. No era una nube. Era una pared. Una pared gris, inmóvil, que se alzaba desde la orilla oeste del río hasta perderse en el cielo, tan alta como la Torre de la Unión, tan espesa que parecía sólida. No se movía con el viento. No se movía con nada. Esperaba.
+No era como Henricus la había imaginado. No era una nube. Era una pared. Una pared gris, inmóvil, que se alzaba desde la orilla este del río hasta perderse en el cielo, tan alta como la Torre de la Unión, tan espesa que parecía sólida. No se movía con el viento. No se movía con nada. Esperaba.
 
 —Está viva —dijo Helen, a su lado, en voz baja.
 
@@ -64,7 +64,7 @@ Henricus miró la pared gris.
 
 —Lo cruzarán —dijo—. Para eso estamos aquí.
 
-* * *
+---
 
 Lo cruzaron a medianoche.
 
@@ -84,7 +84,7 @@ La batalla del Vado de las Cenizas duró toda la noche.
 
 Los cronistas imperiales la contarían de mil maneras, casi todas falsas. Dirían que los muertos eran diez mil, cien mil, un millón. Dirían que la niebla escupía monstruos. Dirían que el emperador luchó como un dios. La verdad era más sencilla y más terrible. Los muertos eran unos seis mil, todos ellos súbditos del Imperio, todos de las aldeas y guarniciones de la frontera que habían desaparecido en los últimos once años. No sentían dolor. No sentían miedo. No se cansaban. Y no morían, porque ya estaban muertos: podías cortarles un brazo y seguían avanzando, podías atravesarles el corazón y seguían avanzando. Solo se detenían si les cortabas la cabeza, o si los quemabas, y aun así, a veces, los cuerpos decapitados seguían arrastrándose por la hierba durante un rato, buscando.
 
-Y lo peor: los soldados imperiales los conocían. A sus vecinos. A sus hermanos. A sus padres. Henricus vio a un muchacho Hinur de dieciséis años soltar la lanza y caer de rodillas delante de una mujer gris con delantal, gritando madre, madre, y vio a la mujer clavarle una hoz en el cuello.
+Y lo peor: los soldados imperiales los conocían. A sus vecinos. A sus hermanos. A sus padres. Henricus vio a un muchacho Hinur de dieciséis años soltar la lanza y caer de rodillas delante de una mujer gris con delantal, gritando *madre, madre*, y vio a la mujer clavarle una hoz en el cuello.
 
 La línea imperial empezó a ceder antes de la segunda hora.
 
@@ -92,7 +92,7 @@ Henricus estaba en primera fila. No tenía que estar allí; Helen se lo había d
 
 Debajo del estruendo de la batalla, debajo de los gritos y el chocar del acero, oía a los muertos. No a los de la otra orilla. A estos. A los que tenía delante. Cada uno de ellos tenía dentro una voz, pequeña, aterrorizada, atrapada en el fondo de un cuerpo que ya no era suyo, gritando en silencio. Y cada voz gritaba su propio nombre, una y otra vez, como un náufrago que grita para no olvidar quién es.
 
-*Bertram. Bertram Hulle. Soy Bertram Hulle, nieto de Bertram Hulle, sargento de la Torre de Ceniza...*
+*Bertram. Bertram Hulle. Soy Bertram Hulle, nieto de Bertram Hulle, sargento de la* *Torre de Ceniza...*
 
 El sargento Hulle, el muerto gris, levantó su espada sobre Henricus.
 
@@ -112,7 +112,7 @@ Henricus se quedó mirándolo. A su alrededor, la batalla seguía. Pero a su alr
 
 *Nómbrame. Nómbrame a mí. Por favor. Nómbrame.*
 
-* * *
+---
 
 Liberó a doscientos.
 
@@ -170,7 +170,7 @@ No terminó. Porque en ese momento, uno de los arqueros imperiales, un muchacho 
 
 El hombre no gritó. Ni siquiera pareció sentirla. Pero la mujer del velo, la que caminaba detrás de él, sí reaccionó. Se movió más deprisa de lo que nada humano debería moverse. Cruzó los veinte pasos en un parpadeo. Y le hundió a Henricus Bhargaras una daga de sal negra en el costado, entre las placas de la armadura, hasta la empuñadura.
 
-* * *
+---
 
 Henricus cayó de espaldas en la hierba.
 
@@ -186,19 +186,17 @@ El hombre de gris se arrodilló junto a él. Tenía la flecha todavía clavada e
 
 Henricus lo miró. El hombre tenía los ojos oscuros. Humanos. Muy tristes.
 
-Si es él, había dicho su madre. Tráemelo.
+*Si es él*, había dicho su madre. *Tráemelo.*
 
 Pensó en ella. En la casita del barrio Germa. En la cocina, el fuego. En las noches de su infancia, cuando tenía miedo de los muertos que hablaban y ella se sentaba en el borde de su cama y le cantaba hasta que se dormía.
 
 Abrió la boca. No para contestar. Para cantar. Era lo único que se le ocurría hacer. Lo único que le apetecía hacer, en ese momento, con el cielo tan bonito y el frío subiéndole por el pecho.
 
-*Duerme, arena, duerme ya,*  
-*la bruma viene y se va...*
+*Duerme, arena, duerme ya,* *la bruma viene y se va...*
 
 El hombre de gris se quedó completamente inmóvil.
 
-*... quien te nombra te tendrá,*  
-*quien te ama volverá.*
+*... quien te nombra te tendrá,* *quien te ama volverá.*
 
 Henricus tomó aire. Le costaba. Le quedaba poco. Pero quería terminar la canción, como hacía siempre su madre, con el verso del final, el que ella decía que había inventado ella misma, de pequeña, para no olvidar a alguien.
 

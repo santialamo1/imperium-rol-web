@@ -1,6 +1,6 @@
-## Capítulo 29 · Sein
+# Capítulo 29 · Sein
 
-*El sótano de la biblioteca y el sótano de la panadería de los Ruald. Verano del año 1212 de la Nueva Era (605 D.bA).*
+*El sótano de la biblioteca y el sótano de la panadería de los Ruald. Verano del año* *1212 de la Nueva Era (605 D.bA).*
 
 Sumó el siglo en tres noches y no le cuadró.
 
@@ -8,9 +8,9 @@ No era la primera vez que algo no le cuadraba. En mil ciento cincuenta y cuatro 
 
 Pero esta vez no le cuadraba al revés.
 
-* * *
+---
 
-El Consejo le había pedido un balance. Para las fiestas. Cien años de Baervan: lo que ha ganado el Imperio. Un pergamino grande, con letra bonita, para leer en la plaza el día de los farolillos. Sein lo hizo. En dos noches. Era fácil.
+El Consejo le había pedido un balance. Para las fiestas. *Cien años de Baervan: lo* *que ha ganado el Imperio.* Un pergamino grande, con letra bonita, para leer en la plaza el día de los farolillos. Sein lo hizo. En dos noches. Era fácil.
 
 Haber: cien años sin guerra grande. Once batallas pequeñas, todas ganadas. Trescientos doce muertos de la Armada en un siglo, que era menos de los que se morían en un mes en tiempos de Bhargaras IX. La décima rebajada dos veces. Nix, rica. Ullathorpe, rica. El puerto, el doble de grande. Cuatro escuelas nuevas. Un teatro nuevo en Nix. La patrulla del grano a los orcos del desierto. Dos Rincones abiertos y un niño pastor devuelto a su madre.
 
@@ -22,23 +22,21 @@ Luego, la tercera noche, Sein abrió su libro. El de verdad. El centésimo septu
 
 Esta vez con la tercera columna.
 
-* * *
+---
 
-En la tercera columna de los últimos cien años había cosas que no estaban en el balance. 1120. No viene nadie de Orac. Los del desierto dicen que se ha cerrado una puerta.
+En la tercera columna de los últimos cien años había cosas que no estaban en el balance. *1120. No viene nadie de Orac. Los del desierto dicen que se ha cerrado una puerta.*
 
-*1131. Pip, el pastor. Siete años dentro. Su madre tiene el pelo blanco. 1149. Huellas en el quinto Rincón. Cuatro orcos y un drow. Se llevaron el registro.*
+*1131. Pip, el pastor. Siete años dentro. Su madre tiene el pelo blanco.* *1149. Huellas en el quinto Rincón. Cuatro orcos y un drow. Se llevaron el registro.*
 
 *1160. Ochocientos licenciados. Un Hask se va a Tiama a subir el pan.*
 
-*1176. Ilan escribe que lo que duerme sueña más.*
+*1176. Ilan escribe que lo que duerme sueña más.* *1190. La Madre del norte del círculo del Mercado tiene una grieta en el cuello.*
 
-*1190. La Madre del norte del círculo del Mercado tiene una grieta en el cuello.*
+*1201. Se perdona la décima en sal. El Consejo vota dieciséis a tres. Nadie pregunta* *para qué sirve una Armada que ya no cobra.*
 
-*1201. Se perdona la décima en sal. El Consejo vota dieciséis a tres. Nadie pregunta para qué sirve una Armada que ya no cobra.*
+*1205. Los Ruald: dieciocho de la sangre. En 1112 eran veintidós. En 1050,* *veintiséis. Se casan fuera. Se van a Nix. Se agua.*
 
-*1205. Los Ruald: dieciocho de la sangre. En 1112 eran veintidós. En 1050, veintiséis. Se casan fuera. Se van a Nix. Se agua.*
-
-*1210. Tibbet escribe desde el fuerte. Dice que ha cosido el sombrero doscientos. Dice que no sabe qué hacer con el doscientos uno. Dice que tiene miedo de llegar al doscientos treinta y tres.*
+*1210. Tibbet escribe desde el fuerte. Dice que ha cosido el sombrero doscientos.* *Dice que no sabe qué hacer con el doscientos uno. Dice que tiene miedo de llegar al* *doscientos treinta y tres.*
 
 Sein lo leyó todo. Una vez. Dos.
 
@@ -54,7 +52,7 @@ Y se dio cuenta de otra cosa, peor, que llevaba un rato oyendo sin escuchar.
 
 Alguien estaba bajando la escalera del sótano. Con pasos que no hacían ruido.
 
-* * *
+---
 
 Ottherius no bajaba nunca a la colina. Llevaba casi trescientos años sin bajar. Desde el 940, cuando volvió a Rinkel con el pergamino de Pim en un arcón y dijo que la colina hacía demasiado ruido para un elfo que oye. Vivía en Rinkel. Fingía estar loco. Los de Rinkel le llevaban comida y se la dejaban en la puerta, como a un santo.
 
@@ -72,7 +70,7 @@ Se paró delante de la mesa de Sein. Delante del libro.
 
 Lo tocó.
 
-* * *
+---
 
 No lo abrió. Puso la mano encima de las tapas. La palma. Plana. Como se pone la mano en el lomo de un caballo para saber si tiene fiebre.
 
@@ -88,9 +86,9 @@ Luego la quitó. Se la miró. Abrió los ojos. Eran grises, muy claros, casi bla
 
 Sein no se movió.
 
-—Lo sabes —dijo Ottherius—. Lo sabes desde hace mucho. Lo dijo él. En el 880. Lo que se apunta, se oye. Lo dijo en Orac, delante del general blanco, delante de un plano de esta colina con tu nombre. El que suma. —Sonrió, sin ganas—. Tú no estabas. Pero yo lo oí. Lo oigo todo, Sein. Por eso no bajo.
+—Lo sabes —dijo Ottherius—. Lo sabes desde hace mucho. Lo dijo él. En el 880. *Lo que se apunta, se oye.* Lo dijo en Orac, delante del general blanco, delante de un plano de esta colina con tu nombre. *El que suma.* —Sonrió, sin ganas—. Tú no estabas. Pero yo lo oí. Lo oigo todo, Sein. Por eso no bajo.
 
-* * *
+---
 
 —¿Todo? —preguntó Sein.
 
@@ -114,11 +112,11 @@ Sein cerró los ojos.
 
 —Desde entonces se oye —dijo Ottherius—. Poco. No las palabras. No el sitio. Se oye que hay algo. Como se oye que hay alguien en una casa aunque no se le oiga hablar. Una casa. Pan. Una hija. —Se le movió la mano, sola, hacia el libro, y la apartó—. Él no sabe qué es. Pero sabe que en esta colina hay algo que vosotros escondéis y que tiene que ver con pan.
 
-* * *
+---
 
 Sein tardó mucho en hablar.
 
-Pensó en el plano de la colina en Orac, que no había visto nunca y que Ottherius había oído. El panadero, que creen que no sé. Pensó en el 1052, en la vela gastada, en la letra pequeña y clara de hacía trescientos años. Lo apunto y lo olvido. Pensó que lo había vuelto a leer porque tenía miedo de habérselo inventado, y que no se lo había inventado, y que al comprobarlo lo había despertado.
+Pensó en el plano de la colina en Orac, que no había visto nunca y que Ottherius había oído. *El panadero, que creen que no sé.* Pensó en el 1052, en la vela gastada, en la letra pequeña y clara de hacía trescientos años. *Lo apunto y lo olvido.* Pensó que lo había vuelto a leer porque tenía miedo de habérselo inventado, y que no se lo había inventado, y que al comprobarlo lo había despertado.
 
 Pensó en que mil años de apuntar las cosas para que no se olvidaran habían sido mil años de hablar en voz alta en una casa donde alguien escuchaba detrás de la puerta.
 
@@ -126,7 +124,7 @@ Pensó en que mil años de apuntar las cosas para que no se olvidaran habían si
 
 —Porque no me lo preguntaste. —Ottherius se encogió de hombros—. Y porque antes no importaba. Antes había un Emperador. Mientras hay alguien en la silla, el de gris mira la silla. No mira las panaderías. —Miró la mesa—. Ahora la silla lleva ciento cuarenta y cinco años vacía. Y él tiene hambre. Y cuando uno tiene hambre, se pone a buscar por los rincones.
 
-* * *
+---
 
 —¿Qué hago? —dijo Sein.
 
@@ -144,7 +142,7 @@ Ottherius lo miró. Mucho rato. Con los ojos casi blancos.
 
 —Donde está el pan. —Ottherius sonrió—. Que es donde siempre ha estado.
 
-* * *
+---
 
 Esa noche, Sein arrancó la hoja.
 
@@ -164,7 +162,7 @@ Y la quemó.
 
 La ceniza se la llevó el viento. Hacia el este. Hacia el mar.
 
-* * *
+---
 
 La Orden se reunió la semana siguiente.
 
@@ -174,13 +172,13 @@ El de la panadería de la calle del Horno. Bajando por la trampilla de la trasti
 
 Teo los esperaba. Había puesto sillas. Siete. Había hecho pan.
 
-Vinieron siete. Lanther, que bajó la primera, con las piernas por delante, y se sentó en el suelo en vez de en la silla, al lado de la repisa. Verawel, con su capa de resina, que se quedó de pie porque las sillas le parecían raíces cortadas. Mirela, con la cara de treinta y uno y los ojos de trescientos. Baervan, que se sentó en la escalera, en el tercer escalón, con los pies colgando, comiéndose una manzana. Selis, la reina madre, con su bastón de marfil, con doscientos noventa y tres años y la cara de ochenta, que no era de la Orden pero tenía una vida prestada, y a la que Teo bajó en brazos. Y Sein.
+Vinieron siete. Lanther, que bajó la primera, con las piernas por delante, y se sentó en el suelo en vez de en la silla, al lado de la repisa. Verawel, con su capa de resina, que se quedó de pie porque las sillas le parecían raíces cortadas. Mirela, con la cara de cuarenta y uno y los ojos de trescientos sesenta. Baervan, que se sentó en la escalera, en el tercer escalón, con los pies colgando, comiéndose una manzana. Selis, la reina madre, con su bastón de marfil, con doscientos noventa y tres años y la cara de ochenta, que no era de la Orden pero tenía una vida prestada, y a la que Teo bajó en brazos. Y Sein.
 
 Y Teo. Que no se sentó. Que se quedó al lado del horno, que no era horno sino la pared de abajo del horno, caliente, con la espalda apoyada.
 
 Wenna no vino; estaba vieja para el camino del valle y mandó una castaña con Baervan. Tibbet no vino; estaba en el fuerte. Ottherius no vino; había vuelto a Rinkel y había dicho que la colina le dolía en los dientes. Dalbur e Ilan, en Tiama.
 
-* * *
+---
 
 —A partir de hoy —dijo Sein— lo de esta casa no se escribe.
 
@@ -188,7 +186,7 @@ Nadie dijo nada.
 
 —Ni en mis libros. Ni en el pergamino. Ni en las crónicas. Ni en una carta. Ni en un margen. —Miró a Verawel—. Tu línea del 1110. La de la letra de las Madres.
 
-—La sangre. En la casa del pan. Todavía. —Verawel bajó la vista—. Está escrita mirando arriba. La letra de las Madres sube. Él no la puede leer.
+—*La sangre. En la casa del pan. Todavía.* —Verawel bajó la vista—. Está escrita mirando arriba. La letra de las Madres sube. Él no la puede leer.
 
 —¿Seguro?
 
@@ -204,7 +202,7 @@ Verawel no contestó.
 
 Verawel lo miró. Baervan sonrió. Nadie se rio.
 
-* * *
+---
 
 —Entonces, ¿cómo lo llevamos? —preguntó Lanther. Desde el suelo. Sin levantar la vista—. Lo de los Ruald. Cuántos son. Quién se casa. Quién se va. Si se agua.
 
@@ -236,7 +234,7 @@ Sein no se rio. Pero se puso las gafas, y miró la masa madre, y dijo:
 
 —Vale.
 
-* * *
+---
 
 Esa fue la primera reunión de la Orden en el sótano de los Ruald. Hubo muchas más. Cada pocos años, al principio. Luego cada año. Luego, en los tiempos malos, cada mes.
 
@@ -250,7 +248,7 @@ Teo lo había comprobado hacía siglos. Desde el callejón no se entendía nada.
 
 Desde el callejón, no.
 
-* * *
+---
 
 En el libro centésimo septuagésimo tercero, en la hoja del 1212, en la tercera columna, hay una línea. La última sobre ese asunto. Con la letra pequeña y clara de siempre.
 
@@ -258,4 +256,4 @@ En el libro centésimo septuagésimo tercero, en la hoja del 1212, en la tercera
 
 Y debajo, otra, que no es sobre ese asunto, y que es la que Sein subrayó dos veces:
 
-*El balance de cien años da el mayor haber de la historia. No me lo creo. Lo apunto para que conste que no me lo creo. El debe está en otro libro. Algún día nos lo pasarán.*
+*El balance de cien años da el mayor haber de la historia. No me lo creo. Lo apunto* *para que conste que no me lo creo. El debe está en otro libro. Algún día nos lo pasarán.*

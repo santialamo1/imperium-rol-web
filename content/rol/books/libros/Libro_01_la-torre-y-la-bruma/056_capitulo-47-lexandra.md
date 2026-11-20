@@ -1,4 +1,4 @@
-## Capítulo 47 · Lexandra
+# Capítulo 47 · Lexandra
 
 *Concordia. Año 220.*
 
@@ -46,7 +46,7 @@ Braco había sonreído.
 
 —Esa es la pregunta, ¿verdad? Yo creo que no se gana con espadas. Se gana con algo que yo nunca supe hacer. —Había cerrado los ojos—. Hablar.
 
-* * *
+---
 
 Hubo once.
 
@@ -54,7 +54,7 @@ No treinta y dos, como en los tiempos de Genieveve. Once. La mayoría eran seño
 
 —¿Cuenta?
 
-El Consejo deliberaba. El decreto decía hasta que no quede más que uno en pie. Un hombre desarmado y en el suelo no estaba en pie. Contaba.
+El Consejo deliberaba. El decreto decía *hasta que no quede más que uno en pie*. Un hombre desarmado y en el suelo no estaba en pie. Contaba.
 
 La multitud abucheó el primer día. El segundo, menos. El tercero, cuando Lexandra desarmó a un gigante Ibaro con un movimiento tan rápido que nadie lo vio, y luego le tendió la mano para ayudarle a levantarse, la plaza entera estalló en aplausos.
 
@@ -80,7 +80,7 @@ Se volvió hacia la tribuna.
 
 Contaba.
 
-* * *
+---
 
 La coronaron en verano. Lexandra Tiberius, octava emperatriz de los pueblos jurados.
 
@@ -98,7 +98,7 @@ Y lo primero que hizo, la primera semana, para escándalo del Consejo y horror d
 
 El Consejo se quedó en silencio.
 
-* * *
+---
 
 La embajada volvió a los seis meses. Con ella venía una mujer.
 

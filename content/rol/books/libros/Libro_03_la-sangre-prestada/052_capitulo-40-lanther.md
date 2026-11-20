@@ -1,4 +1,4 @@
-## Capítulo 40 · Lanther
+# Capítulo 40 · Lanther
 
 *La costa norte del nuevo continente. Otoño del año 715 de la Nueva Era (108 D.bA).*
 
@@ -12,7 +12,7 @@ Pequeña. De piedra gris. Con una puerta, una ventana y nada más. Con el tejado
 
 Y alrededor, en las rocas, en el tejado, en el aire, cientos de pájaros negros. Con el pico rojo. Gritando.
 
-* * *
+---
 
 —¿Qué es? —dijo Lindos.
 
@@ -22,7 +22,7 @@ Hacía cuatrocientos cincuenta años.
 
 —El octavo Rincón —dijo.
 
-* * *
+---
 
 Lindos se quedó quieto.
 
@@ -38,7 +38,7 @@ Los tres siguieron solos. Por la lengua de roca. Con el mar rompiendo a los dos 
 
 —Porque lo guardo yo.
 
-* * *
+---
 
 Se lo contó por el camino. Despacio. Al ritmo de los pasos sobre la roca resbaladiza.
 
@@ -66,7 +66,7 @@ Lanther se paró. Delante de la puerta de la casa.
 
 —Luego, en el 607, uno de gris se fue al mar del norte —dijo—. Y plantó una raíz en una isla. Justo en medio del paso. —Puso la mano en la puerta—. Desde entonces no se puede ir por el norte. La última vez que vine fue en el 600.
 
-* * *
+---
 
 La puerta no tenía cerradura. Nunca la había tenido.
 
@@ -80,7 +80,7 @@ Escritas enteras. Del suelo al techo. Con carbón, con tiza, con la punta de un 
 
 Y en la pared del fondo, apoyada, una vara.
 
-* * *
+---
 
 De fresno. Recta. Del alto de un hombre. Con la madera gris de los años, pulida en el centro, donde se agarra. Y en la punta, encajada en un nudo de la madera, una piedra blanca. Del tamaño de un puño de niño. Con vetas grises dentro. Como un trozo de hueso muy viejo.
 
@@ -98,7 +98,7 @@ Lindos se paró.
 
 —No la toques. No te acerques más. No la mires mucho rato. —Lanther no apartó la mano—. Le gusta que la miren.
 
-* * *
+---
 
 Se quedaron en la puerta. Los tres. Mirando.
 
@@ -116,7 +116,7 @@ Se quedaron en la puerta. Los tres. Mirando.
 
 —Ya no.
 
-* * *
+---
 
 Lindos estuvo callado mucho rato.
 
@@ -126,34 +126,31 @@ Lanther lo dejó.
 
 Leyó despacio. Las letras de pescador. Las fórmulas, que no entendía. Las cosas que no eran fórmulas. Las que Bredinlo había escrito en cuarenta y un años, cuando no estaba escribiendo fórmulas.
 
-*Hoy ha llovido. La fuente sabe más dulce cuando llueve.*  
-*He soñado con Pell. Barría. No me miraba.*
+*Hoy ha llovido. La fuente sabe más dulce cuando llueve.* *He soñado con Pell. Barría. No me miraba.*
 
 *Los pájaros tienen nombre. Le he puesto Pell al más grande. No le gusta.*
 
 *La vara late más deprisa cuando estoy triste. No voy a estar triste.*
 
-*Hoy ha venido la pelirroja con el de las gafas. Me han traído papel. No lo uso. Me gusta la pared.*
+*Hoy ha venido la pelirroja con el de las gafas. Me han traído papel. No lo uso. Me* *gusta la pared.*
 
-*Otra vez.*  
-*Otra vez.*  
-*Otra vez.*
+*Otra vez.* *Otra vez.* *Otra vez.*
 
-* * *
+---
 
-—¿Qué quiere decir otra vez? —dijo Lindos.
+—¿Qué quiere decir *otra vez*? —dijo Lindos.
 
 —No lo sé —dijo Lanther—. Lo escribió en la primera página de su cuaderno. Y en las paredes. Muchas veces. Sein cree que quería decir que se le venía a la cabeza otra vez. Lo de Pell. Cada día. —Se encogió de hombros—. Yo creo que quería decir que no lo iba a hacer otra vez. Que cada día decidía no hacerlo otra vez.
 
 —¿No usarla?
 
-—No usarla. Para salir. Para nada. —Lanther miró la vara—. Cuarenta y un años con ella al lado. Y la última frase que escribió fue mañana, la cuarta.
+—No usarla. Para salir. Para nada. —Lanther miró la vara—. Cuarenta y un años con ella al lado. Y la última frase que escribió fue *mañana, la cuarta*.
 
 —¿La cuarta qué?
 
 —La cuarta forma suave. La lluvia mansa. La que se enseña a los niños de diez años. —Lanther sonrió. De lado. Con media boca—. Estaba aprendiendo a hacer llover encima de la fuente. Para que el agua supiera más dulce.
 
-* * *
+---
 
 Érandiul se sentó en el suelo. En la puerta. Con la espalda contra el marco.
 
@@ -171,13 +168,13 @@ Lanther lo miró.
 
 —¿Por qué?
 
-—Porque lo hemos descubierto. —Lanther se cruzó de brazos—. Él. Lindos. Ha cruzado el mar por donde no había cruzado nadie. Por el sur. Por las tres islas. Ha encontrado esta tierra por su camino. Por el que no pasa por la isla del de gris. —Miró al Emperador—. Eso no lo había hecho nadie. Eso es suyo. Yo conocía esta punta. No conocía el camino.
+—Porque lo hemos descubierto. —Lanther se cruzó de brazos—. Él. Lindos. Ha cruzado el mar por donde no había cruzado nadie. Por el sur. Por el oasis. Ha encontrado esta tierra por su camino. Por el que no pasa por la isla del de gris. —Miró al Emperador —. Eso no lo había hecho nadie. Eso es suyo. Yo conocía esta punta. No conocía el camino.
 
-* * *
+---
 
 Lindos se volvió. Desde la pared.
 
-—¿Por qué me lo enseñas? —dijo—. Podías no haberlo hecho. Habría vuelto a la colina sin saberlo. Habría escrito nuevo continente y me habría quedado tan ancho.
+—¿Por qué me lo enseñas? —dijo—. Podías no haberlo hecho. Habría vuelto a la colina sin saberlo. Habría escrito *nuevo continente* y me habría quedado tan ancho.
 
 Lanther tardó en contestar.
 
@@ -199,7 +196,7 @@ Lanther no contestó.
 
 —Ya lo había dicho. —Lindos sonrió—. Antes de que tú llegaras. Se lo dije al agua.
 
-* * *
+---
 
 Lanther cerró los ojos.
 
@@ -217,13 +214,13 @@ Como la que había grabado en la piedra de la tumba de Hakon Brand, al pie de la
 
 —Una cuenta —dijo Lanther—. Una de las mías. Para acordarme de que vine contigo.
 
-* * *
+---
 
 Lindos le pidió el cuchillo.
 
 Se lo dio.
 
-Lindos fue a la pared. Al lado de la raya de Lanther. Y grabó, con letras torcidas, de carpintero, como había grabado Fría en la popa de un barco:
+Lindos fue a la pared. Al lado de la raya de Lanther. Y grabó, con letras torcidas, de carpintero, como había grabado *Fría* en la popa de un barco:
 
 *Lindos. 715. Por el sur.*
 
@@ -239,7 +236,7 @@ Lanther lo miró. Luego miró la pared. Las dos líneas.
 
 —Lo descubrimos, Emperador —dijo—. Que conste.
 
-* * *
+---
 
 Esa noche, en la hoguera del arranque de la punta, con los soldados dormidos y los pájaros callados por fin, Érandiul escribió en el diario.
 
@@ -253,16 +250,16 @@ Cuando terminó, Érandiul cerró el diario. No se lo enseñó.
 
 —¿Qué has puesto?
 
-—Lo que les hace falta. —Érandiul se puso el sombrero—. Que había tres islas con un oasis. Que había una tierra grande. Que nos reabastecimos. Que exploramos un poco. Que Lindos decidió volver. —Se encogió de hombros—. Que paramos otra vez en las islas.
+—Lo que les hace falta. —Érandiul se puso el sombrero—. Que había una costa de desierto con un oasis. Que había una tierra grande. Que nos reabastecimos. Que exploramos un poco. Que Lindos decidió volver. —Se encogió de hombros—. Que paramos otra vez en el oasis.
 
 —Todavía no hemos parado.
 
 —Pararemos. —Érandiul miró al Emperador, que dormía al otro lado del fuego, con el arpa de siete sedales abrazada como se abraza a un niño—. Él siempre va a parar en las islas.
 
-* * *
+---
 
 En el pergamino de los Fragmentos, en la línea de la vara, Verawel añadió, un año después, cuando se lo contaron, con la letra que subía:
 
-*Ahora se llega también por el sur. Por tres islas con un oasis frío. Lo sabe un Emperador. Escribió en la pared que no la tocó.*
+*Ahora se llega también por el sur. Por una costa de desierto con un oasis frío. Lo* *sabe un Emperador. Escribió en la pared que no la tocó.*
 
 *Cuesta un camino nuevo.*

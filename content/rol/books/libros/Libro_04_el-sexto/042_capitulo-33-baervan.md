@@ -1,6 +1,6 @@
-## Capítulo 33 · Baervan
+# Capítulo 33 · Baervan
 
-*Banderbill. La noche del 14 al 15 de la primavera del año 1256 de la Nueva Era (649 D.bA).*
+*Banderbill. La noche del 14 al 15 de la primavera del año 1256 de la Nueva Era* *(649 D.bA).*
 
 Las campanas empezaron a las seis y diez de la mañana, y Baervan supo, al oír la primera, que había llegado tarde ciento cuarenta y cuatro años.
 
@@ -14,13 +14,13 @@ Baervan se quedó con la manzana en la mano.
 
 No se cayó del alféizar. Le faltó poco.
 
-* * *
+---
 
 Subió a la torre del cuartel por la escalera de dentro, de dos en dos, con sus piernas cortas, con el corazón de manzana todavía en el puño porque se le había olvidado tirarlo. Arriba estaba el vigía, un muchacho de diecinueve años, blanco, señalando hacia el norte con el brazo extendido sin poder decir nada.
 
 Baervan miró.
 
-En las lomas del norte, las de detrás de la muralla vieja, donde empezaba el camino del valle negro, había algo negro.
+En las lomas del este, las de detrás de la muralla vieja, donde empezaba el camino del valle negro, había algo negro.
 
 No una mancha. Una línea. Que iba de una loma a la otra, y a la siguiente, y a la siguiente, hasta donde se perdía la vista. Quieta. Sin humo. Sin banderas. Sin ruido. Como si alguien hubiera trazado con tinta el borde de la colina.
 
@@ -40,7 +40,7 @@ Baervan miró la línea negra. Luego el mar. Por el norte, donde la costa hacía
 
 —Han venido andando de noche —dijo—. Sin antorchas. Sin parar. Desde la costa del norte. Por eso no los ha visto nadie. —Tiró el corazón de manzana—. Se han parado ahí para que los veamos.
 
-* * *
+---
 
 Tres mil cuatrocientos.
 
@@ -76,7 +76,7 @@ Tenía setenta y seis años y la cara de veinticinco. Llevaba una bolsita de cue
 
 Hatmie se quedó mirándolo un segundo de más. Luego se volvió y gritó la orden.
 
-* * *
+---
 
 El Consejo se reunió a las siete. Diecinueve consejeros en camisa de dormir.
 
@@ -108,7 +108,7 @@ La sala se quedó callada.
 
 Baervan no contestó.
 
-Lo sabía porque se acordaba de una cosa que le había dicho Sein, hacía cuarenta años, en un sótano que olía a vinagre y a manzana: el debe está en otro libro. Algún día nos lo pasarán. Lo sabía porque se acordaba de las huellas en el quinto Rincón. De la puerta de Orac que se había cerrado en el 1120. De ciento treinta años de nadie. Lo sabía porque se acordaba de su propia voz, en el alféizar, diciéndole a un cronista: a lo mejor me equivoco. Apúntalo.
+Lo sabía porque se acordaba de una cosa que le había dicho Sein, hacía cuarenta años, en un sótano que olía a vinagre y a manzana: *el debe está en otro libro. Algún día* *nos lo pasarán.* Lo sabía porque se acordaba de las huellas en el quinto Rincón. De la puerta de Orac que se había cerrado en el 1120. De ciento treinta años de nadie. Lo sabía porque se acordaba de su propia voz, en el alféizar, diciéndole a un cronista: *a lo mejor me* *equivoco. Apúntalo.*
 
 —¿Por qué no lo dijo? —preguntó alguien. Una consejera de la colina, joven, con los ojos rojos—. Si lo sabía. ¿Por qué nos dejó bajar la Armada?
 
@@ -116,7 +116,7 @@ Baervan la miró.
 
 —Porque se lo votasteis —dijo—. Y yo me reía.
 
-* * *
+---
 
 Atacaron a las nueve.
 
@@ -140,7 +140,7 @@ Miró hacia el oeste. A la tercera almena. La vio. Pequeña, lejos. Sentada. Con
 
 Baervan no contestó.
 
-* * *
+---
 
 Los de abajo se pararon delante del canto. Todos. Miles. Con los pies quietos. Mirando la muralla con unas caras que no tenían nada, que no tenían miedo ni rabia ni ganas, que solo estaban.
 
@@ -156,7 +156,7 @@ Y la línea negra se movió.
 
 No contra el canto. Por debajo.
 
-* * *
+---
 
 Habían cavado.
 
@@ -172,9 +172,9 @@ Luego la ladera este. Luego el barrio de los enanos. Luego la calle del Horno.
 
 Luego la plaza del Consejo.
 
-* * *
+---
 
-Baervan bajó de la torre cuando le llegó el aviso. Un cadete de catorce años, sin casco, con la cara manchada de hollín, que llegó corriendo y se cayó en la escalera y se levantó y dijo por dentro, Comandante, están por dentro, y se puso a llorar.
+Baervan bajó de la torre cuando le llegó el aviso. Un cadete de catorce años, sin casco, con la cara manchada de hollín, que llegó corriendo y se cayó en la escalera y se levantó y dijo *por dentro, Comandante, están por dentro*, y se puso a llorar.
 
 Bajó con la Segunda. Con Hatmie delante. Por las calles del barrio norte hacia el centro, hacia la plaza, donde subía humo.
 
@@ -188,7 +188,7 @@ No se paraban a robar. No se paraban a matar a los que huían. Pasaban a su lado
 
 Como si buscaran otra cosa.
 
-* * *
+---
 
 La Segunda peleó en la calle de los Tintes. Hatmie delante, con la espada que había sido demasiado grande. Peleó bien. Baervan lo vio. Peleaba como le había enseñado alguien que no peleaba: poniéndose delante y no yéndose. Los de negro llegaban, y ella estaba, y no se iba, y los de negro se cansaban antes. No del cuerpo, que no se cansaba. De otra cosa. Se cansaban de que no se fuera.
 
@@ -198,7 +198,7 @@ Baervan les sabía los nombres.
 
 Los iba diciendo. En voz baja. Mientras peleaba. Mientras caían. Uno por uno. Para el cuaderno.
 
-* * *
+---
 
 A media tarde, la colina era de ellos.
 
@@ -226,7 +226,7 @@ Mirándolo a él.
 
 Y Baervan lo supo.
 
-* * *
+---
 
 Lo supo como se saben las cosas que no han pasado. Como las sabía Tibbet. Sin que nadie se lo dijera. Con el cuerpo antes que con la cabeza.
 
@@ -244,7 +244,7 @@ Que llevaba ciento cuarenta y cuatro años sentado al lado de una silla vacía, 
 
 Que sabía una cosa que no decía.
 
-* * *
+---
 
 —Teniente —dijo Baervan.
 

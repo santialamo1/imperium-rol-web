@@ -1,4 +1,4 @@
-## Capítulo 75 · Ilaria
+# Capítulo 75 · Ilaria
 
 *Concordia. Año 389.*
 
@@ -36,7 +36,7 @@ Bander se volvió hacia el viejo de la armadura.
 
 Ilaria se desmayó.
 
-* * *
+---
 
 —Es el don —le dijo la Custodia mayor a la mañana siguiente, en el despacho de Haltair, con la puerta cerrada—. Lo tiene. Más que ninguno de los que hemos visto.
 
@@ -50,7 +50,7 @@ Se llamaba Odrun Hask. Era Hinur, de sesenta años, flaca y seca como una rama d
 
 —Y anoche soltó a siete muertos de la cripta. Siete. Sin que nadie le enseñara. Sin cansarse. Sin que le sangrara la nariz. —Odrun Hask la miró con sus ojos claros de Hinur —. Majestad, yo tardé once años de estudio en soltar al primero. Y estuve una semana en cama.
 
-Haltair no dijo nada. Estaba de pie junto a la ventana, mirando hacia el noroeste, como hacía su madre.
+Haltair no dijo nada. Estaba de pie junto a la ventana, mirando hacia el noreste, como hacía su madre.
 
 —¿Qué queréis? —preguntó Ilaria.
 
@@ -60,9 +60,9 @@ La Custodia dudó.
 
 —¿Alguien como quién?
 
-Odrun Hask no contestó. No hizo falta. Todos en el despacho miraron, sin querer, hacia la ventana. Hacia el noroeste.
+Odrun Hask no contestó. No hizo falta. Todos en el despacho miraron, sin querer, hacia la ventana. Hacia el noreste.
 
-* * *
+---
 
 Ilaria se negó.
 
@@ -84,13 +84,13 @@ Haltair la miró durante mucho tiempo.
 
 Ilaria no contestó enseguida.
 
-Pensó en la vieja Aremir, en su lecho de muerte, tres años antes, cogiéndole la mano con sus dedos de ochenta y un años, fríos como raíces. ¿Le has dado un nombre secreto?, le había preguntado. Ilaria le había dicho que sí. Dale otro. Y otro más. Tres. Y que no los sepa nadie. Ni tú cuál usas. Mézclalos.
+Pensó en la vieja Aremir, en su lecho de muerte, tres años antes, cogiéndole la mano con sus dedos de ochenta y un años, fríos como raíces. *¿Le has dado un nombre* *secreto?*, le había preguntado. Ilaria le había dicho que sí. *Dale otro. Y otro más. Tres. Y* *que no los sepa nadie. Ni tú cuál usas. Mézclalos.*
 
 Ilaria lo había hecho. No uno. Tres. Tres palabras inventadas, susurradas en tres noches distintas al oído de un niño dormido. Y luego, siguiendo el consejo de la vieja, se había obligado a olvidarlas. A no pensar en ellas. A no recordar cuál era la primera, cuál la segunda, cuál la tercera. Le había costado meses. A veces, de madrugada, todavía se le escapaba una sílaba. Ilaria apretaba los dientes y pensaba en otra cosa.
 
 —Entonces —dijo— que lo encuentre en casa de su madre. Y que se encuentre conmigo primero.
 
-* * *
+---
 
 Al final, como siempre, fue Haltair quien encontró la manera.
 
@@ -106,9 +106,9 @@ La vieja Custodia no contestó. Le untó otra rebanada de miel.
 
 Ilaria escuchaba desde la puerta. Cada mañana. Durante años.
 
-* * *
+---
 
-Cuando Bander tenía ocho años, una tarde de verano, Ilaria lo encontró en la cámara de cristal, en lo alto de la torre, junto a la Llama Concorde, solo, sentado en el suelo con las piernas cruzadas, mirando hacia el noroeste.
+Cuando Bander tenía ocho años, una tarde de verano, Ilaria lo encontró en la cámara de cristal, en lo alto de la torre, junto a la Llama Concorde, solo, sentado en el suelo con las piernas cruzadas, mirando hacia el noreste.
 
 —¿Qué haces aquí? Te estábamos buscando.
 

@@ -1,4 +1,4 @@
-## Capítulo 69 · Meridio
+# Capítulo 69 · Meridio
 
 *Concordia. Año 340.*
 
@@ -18,7 +18,7 @@ Silencio.
 
 —Yo tampoco —dijo Meridio—. Pero alguien lo sabrá. Y a ese, quizá, sí lo ahorquemos.
 
-* * *
+---
 
 Después del Consejo, el canciller Orvane lo esperaba en el pasillo, con una carpeta bajo el brazo y aquella sonrisa amable que tenía siempre, como si todo en el mundo tuviera arreglo y él llevara el arreglo en la carpeta.
 
@@ -52,7 +52,7 @@ Meridio lo pensó. Tenía sentido. Todo lo que decía Orvane tenía siempre sent
 
 —Hay varias. Os prepararé una lista.
 
-* * *
+---
 
 Aremir encontró la lista en el escritorio de su hermano aquella noche, mientras él cenaba con el embajador de las islas, y para cuando Meridio volvió a su despacho ella estaba sentada en su silla, con los pies encima de la mesa y la lista en la mano.
 
@@ -116,7 +116,7 @@ Era una broma. Él se rió.
 
 Nueve años después, cuando la otra voz empezó, la que no era de ningún muerto de la torre, Meridio recordaría aquella noche y no se reiría.
 
-* * *
+---
 
 La compañía que eligió Aremir reconstruyó el puerto de Pisor en seis años. Bajo presupuesto. Los salineros volvieron a trabajar. Lord Orl murió de una pulmonía en la embajada de las islas, dos inviernos después, y nadie fue a su entierro salvo su perro.
 

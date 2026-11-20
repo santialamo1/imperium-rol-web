@@ -1,4 +1,4 @@
-## Capítulo 23 · Bhargaras
+# Capítulo 23 · Bhargaras
 
 *El valle negro. Primavera del año 29.*
 
@@ -24,7 +24,7 @@ Era Hakon. A su lado. Con la cara roja del viento.
 
 —Hay gente ahí abajo.
 
-* * *
+---
 
 Bhargaras ya lo sabía. Los había oído también, por debajo de todo lo demás, desde hacía dos días. Pequeños. Débiles. Veinte latidos humanos en el borde del valle, en la ladera oeste, alrededor de un fuego que no era azul sino naranja, de arbustos secos. Veinte personas que oían. Que oían mucho.
 
@@ -42,7 +42,7 @@ Y junto al agua, de pie, esperándolos, una muchacha de trece años con una tún
 
 No lo dijo a nadie en particular. Lo dijo mirándolo a él.
 
-* * *
+---
 
 La conocía. No de nombre. De vista. Era una de las de la escuela. Una de las treinta. La había visto en la plaza la noche que salieron, con la luna nueva, hacía dos años, con la túnica gris doblada debajo del brazo, delante de los carros. Alta para su edad. Con los ojos casi blancos.
 
@@ -72,7 +72,7 @@ Y de los refugios fueron saliendo los otros. Diecinueve. Niños de la escuela, m
 
 —¿Dónde está Pim? —preguntó Bhargaras.
 
-—En la costa. En las cuevas. Con él. —La muchacha no dijo quién era él. No hacía falta—. Aprendiendo a tirar. Nosotros no quisimos. Nos vinimos aquí.
+—En la costa. En las cuevas. Con él. —La muchacha no dijo quién era *él*. No hacía falta—. Aprendiendo a tirar. Nosotros no quisimos. Nos vinimos aquí.
 
 —¿Él está en la costa?
 
@@ -82,11 +82,11 @@ Y de los refugios fueron saliendo los otros. Diecinueve. Niños de la escuela, m
 
 —Porque llevas eso —dijo la muchacha, y señaló, sin dudarlo, el bolsillo de la derecha de su jubón. Donde estaba la jarra agrietada—. Y él lo oye. Desde donde esté. Igual que lo oigo yo. Igual que lo oye lo de abajo. —Bajó la mano—. Por eso no podéis bajar con eso. Si lo bajas al agujero, se despierta.
 
-* * *
+---
 
 Esa noche acamparon en el borde del valle, a una legua del agujero.
 
-Bhargaras no dejó que los soldados se acercaran a los refugios de los brujos. Tampoco los echó. No supo por qué. El edicto decía que no vuelvan, y no habían vuelto. Estaban lejos. Estaban en el valle negro, donde no había nadie. Y había una muchacha de trece años que le había dicho, sin miedo, mirándolo a la cara, que lo oía oír.
+Bhargaras no dejó que los soldados se acercaran a los refugios de los brujos. Tampoco los echó. No supo por qué. El edicto decía *que no vuelvan*, y no habían vuelto. Estaban lejos. Estaban en el valle negro, donde no había nadie. Y había una muchacha de trece años que le había dicho, sin miedo, mirándolo a la cara, que lo oía oír.
 
 Nadie le había dicho nunca eso.
 
@@ -122,7 +122,7 @@ Lo miró. Con aquellos ojos grises, de copista, que medían todo. Le miró el pe
 
 —¿Qué pasa?
 
-—No lo sé. —Livia miró el agujero—. Las de sal sí lo saben. Por eso bajaron la Noche del Dolor. Por eso me llaman antes de tiempo. No quieren que se junte. Llevan… no sé cuánto. Siglos. Miles de años. Guardando que no se junte.
+—No lo sé. —Livia miró el agujero—. Las de sal sí lo saben. Por eso bajaron la Noche del Dolor. Por eso me llaman *antes de tiempo*. No quieren que se junte. Llevan… no sé cuánto. Siglos. Miles de años. Guardando que no se junte.
 
 —Podrías dármela —dijo Livia—. La del bolsillo. Me la llevo yo. Lejos. A la colina. Al mar. Al fondo del mar.
 
@@ -150,7 +150,7 @@ No le habló esa noche. No porque no quisiera. Porque el mulero del sombrero est
 
 Lo hizo.
 
-* * *
+---
 
 Al amanecer, Livia bajó al valle.
 
@@ -168,7 +168,7 @@ Todas a la vez. Veintidós velos girando en el mismo instante. Y el canto, el de
 
 Y del agujero salieron más.
 
-* * *
+---
 
 No eran veintidós.
 
@@ -198,7 +198,7 @@ Bhargaras levantó la espada.
 
 —¡Braseros! —gritó—. ¡Adelante!
 
-* * *
+---
 
 Bajaron.
 
@@ -232,7 +232,7 @@ Y los oía irse. A los que se volvían sal. Un hilo blanco de cada boca abierta.
 
 Uno. Diez. Veinte.
 
-* * *
+---
 
 Cargó.
 
@@ -258,7 +258,7 @@ No necesitaban la cara. Los ojos no estaban en la cara. Estaban dentro. En toda 
 
 El brillo azul lo miró.
 
-* * *
+---
 
 Lo notó en los pies primero.
 
@@ -278,7 +278,7 @@ Bhargaras lo notó volverse sal debajo de él. Las patas primero. Luego el vient
 
 Y la sal seguía subiendo.
 
-Alrededor de él, la batalla seguía. Oía a Hakon gritar órdenes. Oía a los soldados. Oía los braseros. Oía a las de sal crujir. Oía a los que se volvían estatuas, uno a uno, y a los que se iban hacia arriba. Oía a su hermana, en algún sitio, a la derecha, en la tercera compañía, gritando su nombre. ¡Bhargaras! ¡Bhargaras!
+Alrededor de él, la batalla seguía. Oía a Hakon gritar órdenes. Oía a los soldados. Oía los braseros. Oía a las de sal crujir. Oía a los que se volvían estatuas, uno a uno, y a los que se iban hacia arriba. Oía a su hermana, en algún sitio, a la derecha, en la tercera compañía, gritando su nombre. *¡Bhargaras! ¡Bhargaras!*
 
 Con amor.
 

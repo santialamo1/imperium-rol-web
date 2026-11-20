@@ -1,8 +1,8 @@
-## Capítulo 51 · Ansel
+# Capítulo 51 · Ansel
 
 *Torre de la Unión. Año 230.*
 
-Ansel Kalo, consorte de la emperatriz, doctor en astronomía por la escuela de Puerto Salobre, autor de un tratado en tres volúmenes sobre las mareas del Mar de la Penuria Eterna que había leído un total de nueve personas, llevaba diez años viviendo en un palacio y todavía se perdía en él.
+Ansel Kalo, consorte de la emperatriz, doctor en astronomía por la escuela de Puerto Salobre, autor de un tratado en tres volúmenes sobre las mareas del Mar de la Eterna Penuria que había leído un total de nueve personas, llevaba diez años viviendo en un palacio y todavía se perdía en él.
 
 Aquella mañana se perdió dos veces antes del desayuno. La primera, buscando la biblioteca de la planta doce, acabó en las cocinas. La segunda, buscando las cocinas para pedir perdón por haber pisado una bandeja de pasteles, acabó en la armería, donde un sargento Germa de bigote enorme lo miró con una mezcla de lástima y ternura y lo acompañó personalmente hasta la puerta de los aposentos imperiales.
 
@@ -10,7 +10,7 @@ Aquella mañana se perdió dos veces antes del desayuno. La primera, buscando la
 
 —Ya lo intenté —dijo Ansel—. Se lo comió el perro de lord Varnis.
 
-* * *
+---
 
 Lexandra se rió tanto cuando se lo contó que tuvo que sentarse.
 
@@ -34,7 +34,7 @@ Una estrella de seis puntas. El sello de los canteros de Lisandro.
 
 Ansel no sabía qué significaba. Pero se lo apuntó.
 
-* * *
+---
 
 La Madre Ysh-Neva llegó al día siguiente con su séquito.
 
@@ -46,11 +46,11 @@ Ansel los vio desde una ventana. A su hijo, que se había quitado las gafas y ha
 
 Suspiró. Se apuntó eso también.
 
-* * *
+---
 
 La ceremonia era sencilla. Lexandra la había diseñado así.
 
-Diez años antes, al firmar el pacto, la Madre Ysh-Neva se había negado a jurar sobre la Sal Negra. Mi pueblo no jura sobre la piedra que bebe almas, había dicho. Ya tenemos bastante con la bruma. Lexandra lo había aceptado, contra la opinión de todo el Consejo. Y en su lugar habían acordado esto: una vez cada diez años, la Madre de los libres bajaría a la cripta con su gente, y se pondría delante de la piedra, sin tocarla, y diría en voz alta, en su lengua, los nombres de los eufesios muertos por el Imperio. Y la emperatriz diría después los nombres de los imperiales muertos por la bruma. Y luego se darían la mano.
+Diez años antes, al firmar el pacto, la Madre Ysh-Neva se había negado a jurar sobre la Sal Negra. *Mi pueblo no jura sobre la piedra que bebe almas*, había dicho. *Ya* *tenemos bastante con la bruma.* Lexandra lo había aceptado, contra la opinión de todo el Consejo. Y en su lugar habían acordado esto: una vez cada diez años, la Madre de los libres bajaría a la cripta con su gente, y se pondría delante de la piedra, sin tocarla, y diría en voz alta, en su lengua, los nombres de los eufesios muertos por el Imperio. Y la emperatriz diría después los nombres de los imperiales muertos por la bruma. Y luego se darían la mano.
 
 Nada más. Ningún juramento. Ninguna sangre. Solo nombres.
 
@@ -70,7 +70,7 @@ Ansel se quedó muy quieto.
 
 —Nada, majestad. Salió con las manos vacías. —El sargento lo miró—. Por eso me extrañó. Uno no entra a escondidas en un sitio para no llevarse nada.
 
-* * *
+---
 
 Ansel tardó tres horas en entenderlo. Y otras dos en convencerse de que no estaba loco.
 
@@ -78,13 +78,13 @@ Lo entendió con los planos de la torre extendidos en el suelo de la biblioteca,
 
 Pero la otra mitad hablaba de la piedra.
 
-La piedra no distingue, había escrito Lisandro, en la página ciento cuarenta y tres. No sabe quién jura ni por qué. Solo sabe si hay sangre en las manos y hierro escondido cuando se habla de paz delante de ella. Mi padre cree que juzga. No juzga. Cuenta. El que esconde un arma delante de la Sal Negra mientras se pronuncian palabras de concordia, cae gris. Da igual que haya jurado o no. Da igual que sepa que lleva el arma.
+*La piedra no distingue*, había escrito Lisandro, en la página ciento cuarenta y tres. *No sabe quién jura ni por qué. Solo sabe si hay sangre en las manos y hierro escondido* *cuando se habla de paz delante de ella. Mi padre cree que juzga. No juzga. Cuenta. El que* *esconde un arma delante de la Sal Negra mientras se pronuncian palabras de concordia,* *cae gris. Da igual que haya jurado o no. Da igual que sepa que lleva el arma.*
 
 *Da igual que sepa que lleva el arma.*
 
 Ansel se levantó tan deprisa que tiró una vela. Apagó el fuego con los pies, pisando un plano de doscientos años, y salió corriendo de la biblioteca, y se perdió tres veces en el camino hacia el ala de invitados.
 
-* * *
+---
 
 Era casi medianoche cuando llegó, sin aliento, con las gafas torcidas y un tobillo torcido también, a la puerta de los aposentos de la Madre Ysh-Neva.
 
@@ -106,7 +106,7 @@ La Madre de los libres se quedó en silencio. Detrás de ella, en la penumbra de
 
 —Pasad —dijo Ysh-Neva.
 
-* * *
+---
 
 Lo encontraron a las tres de la madrugada.
 
@@ -130,7 +130,7 @@ Ansel no contestó enseguida. Miró la hoja. El acero de Gijor. El hilo gris, de
 
 El sello de la herrería de los Heredicus. La del barrio alto.
 
-* * *
+---
 
 Lexandra lo escuchó todo al amanecer, en su alcoba, sentada en la cama, sin interrumpir ni una vez.
 
@@ -168,7 +168,7 @@ Lexandra se volvió. Lo miró. Y por primera vez en toda la noche, sonrió.
 
 —Lo sospechaba. Por las pruebas.
 
-* * *
+---
 
 No lo colgó.
 
@@ -184,13 +184,13 @@ Ansel no estaba seguro de que hubiera sido lo correcto. Se lo dijo a Lexandra aq
 
 —Yo tampoco —dijo ella—. Pero es lo que hay. Un trono ganado es solo tuyo, me dijo Braco. Y los errores también.
 
-* * *
+---
 
 Ansel bajó a la cripta tres veces más aquel invierno, solo, con una vela y una palanca. Levantó la losa de la estrella de seis puntas. Debajo había un hueco y, en el hueco, el arranque de un túnel estrecho, a medio excavar, que se perdía en la oscuridad hacia el este.
 
 Lo dibujó. Lo midió. Escribió un informe de once páginas que nadie leyó, salvo Lexandra, y luego Yaakov, y luego nadie durante ciento ochenta años.
 
-Lo guardó en el arcón de las notas de Lisandro, en la biblioteca de la planta doce, con una anotación al margen: Para quien necesite salir.
+Lo guardó en el arcón de las notas de Lisandro, en la biblioteca de la planta doce, con una anotación al margen: *Para quien necesite salir.*
 
 Lo encontraría, en el año cuatrocientos once, un emperador llamado Haltair Bhargaras, el Amable, que también se perdía en el palacio y que buscaba otra cosa.
 

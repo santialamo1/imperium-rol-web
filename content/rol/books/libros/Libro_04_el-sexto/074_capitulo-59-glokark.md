@@ -1,4 +1,4 @@
-## Capítulo 59 · Glokark
+# Capítulo 59 · Glokark
 
 *Banderbill, la plaza de la Biblioteca. Otoño del año 1419 de la Nueva Era (812 D.bA).*
 
@@ -30,7 +30,7 @@ Se paró en la puerta.
 
 —No la toques tú, general. Ni la busques. Si ves a alguien salir con un papel enrollado, déjalo pasar.
 
-* * *
+---
 
 Ithil no dijo nada en la sala.
 
@@ -52,7 +52,7 @@ Glokark no contestó.
 
 —Porque así sabrás que la has tirado tú.
 
-* * *
+---
 
 Glokark tenía doscientos cincuenta y seis años y la cara de treinta.
 
@@ -62,7 +62,7 @@ No había perdido nunca nada.
 
 Iba a quemar una biblioteca.
 
-* * *
+---
 
 El viaje duró once días.
 
@@ -76,19 +76,19 @@ Que él no iba a estar en el último escalón.
 
 Era la primera vez en ciento cincuenta años.
 
-* * *
+---
 
-Desembarcaron en la costa del este, de noche, a una legua de la colina, donde el muro no llegaba.
+Desembarcaron en la costa del noreste, de noche, a una legua de la colina, donde el muro no llegaba.
 
 No por el puerto. El puerto tenía campanas, y la Armada, desde el 1417, desde el balcón, desde que el grande se había puesto debajo, era otra vez una. Siete mil quinientos. Juntos. Sin cintas. Sin cuerdas. Con un hombre que no se reía mandando desde un palacio abierto.
 
-Glokark lo sabía. Lo sabía todo Orac. Lo había dicho el Señor, en la sala de los escribas, con la cara contenta: Se ha puesto debajo. Como en la comedia. Y ahora la colina está de pie. Toda. Juntos. Se había reído. Durante un tiempo.
+Glokark lo sabía. Lo sabía todo Orac. Lo había dicho el Señor, en la sala de los escribas, con la cara contenta: *Se ha puesto debajo. Como en la comedia. Y ahora la colina* *está de pie. Toda. Juntos.* Se había reído. *Durante un tiempo.*
 
 Así que no fueron por el puerto.
 
 Fueron por los Barrios Bajos.
 
-* * *
+---
 
 Los Barrios Bajos estaban al este de la colina, fuera del muro viejo, dentro del nuevo. Casas de madera. Callejones. Talleres de curtidores, de tintoreros, de los que hacían cuerdas para los barcos. Gente pobre. Gente que no subía nunca a la plaza.
 
@@ -108,7 +108,7 @@ Glokark lo vio.
 
 No hizo nada.
 
-* * *
+---
 
 La puerta del muro viejo cayó al alba.
 
@@ -120,7 +120,7 @@ La colina estaba despierta. Las campanas sonaban. Las del puerto. Seis y diez. L
 
 La de la biblioteca.
 
-* * *
+---
 
 Era grande. Más grande de lo que Glokark había imaginado. Una plaza cuadrada, empedrada, con una fuente en medio que no echaba agua. Y en un lado, ocupándolo todo, el edificio.
 
@@ -136,7 +136,7 @@ Mil cuatrocientos años de cosas apuntadas.
 
 Que el Señor oía.
 
-* * *
+---
 
 Sabía cuál era la ventana.
 
@@ -156,7 +156,7 @@ Glokark se volvió.
 
 Se la dieron.
 
-* * *
+---
 
 Y entonces miró arriba.
 
@@ -168,7 +168,7 @@ Y en el humo, arriba, una gaviota.
 
 Glokark la miró.
 
-Pensó en la torre del muelle. En una ventana que solo daba al cielo. En un gnomo que le contaba al general lo que se veía. Hay una gaviota.
+Pensó en la torre del muelle. En una ventana que solo daba al cielo. En un gnomo que le contaba al general lo que se veía. *Hay una gaviota.*
 
 Pensó en un hombre de sal, en una playa, en el 892, que miró arriba antes de deshacerse, y del que él llevaba un pellizco en el cuello.
 
@@ -178,7 +178,7 @@ Pensó que si tiraba la antorcha, la tiraba él.
 
 No el Señor. No el general. Él.
 
-* * *
+---
 
 En la plaza, en la esquina de la calle de los Escribanos, había un elfo.
 
@@ -192,7 +192,7 @@ Glokark no supo quién era. Supo, como sabía las piedras, que el elfo iba a apu
 
 Glokark lo dejó mirar.
 
-* * *
+---
 
 Bajó la cara.
 
@@ -208,7 +208,7 @@ Luego otra.
 
 Luego el ruido.
 
-* * *
+---
 
 No sabía que el papel hiciera ruido al arder.
 
@@ -228,7 +228,7 @@ Y al otro lado del mar, en Orac, en la sala de los escribas, Glokark lo supo, el
 
 Como quien escucha una música que le gusta mucho.
 
-* * *
+---
 
 La biblioteca ardió hasta el mediodía.
 
@@ -242,7 +242,7 @@ No se lo había dicho el Señor.
 
 Lo había hecho él.
 
-* * *
+---
 
 A media mañana, por la puerta de atrás de la biblioteca, la que daba al callejón de los encuadernadores, salieron dos.
 
@@ -272,7 +272,7 @@ No de miedo.
 
 De pena.
 
-* * *
+---
 
 Se retiraron a mediodía.
 
@@ -290,7 +290,7 @@ Se llevó dos dedos a la bolsita del cuello. Como el general.
 
 Y se fue.
 
-* * *
+---
 
 En el barco, de vuelta, abrió el puño.
 

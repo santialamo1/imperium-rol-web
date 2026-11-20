@@ -1,4 +1,4 @@
-## Capítulo 50 · Andriath
+# Capítulo 50 · Andriath
 
 *El Mar del Sur y el archipiélago. Años 134 a 140 de la Nueva Era.*
 
@@ -12,9 +12,9 @@ No sabía nadar. Era lo único de lo que se avergonzaba.
 
 Su abuela, decían, no se habría casado nunca con un hombre que no supiera nadar. Lo había decidido a los once años después de sacar a un mercader de Gijor del río de una oreja. Andriath lo sabía porque su padre lo contaba en la biblioteca, riéndose, y lo había escrito Livia en el primer cuaderno. Y Andriath, que había nacido en una colina sobre el mar y que había pasado su infancia en el patio del cuartel y no en la playa, se hundía como una piedra.
 
-Así que se subió al Hakon, el barco grande, el de tres palos que habían construido los carpinteros del puerto copiando los dibujos de un tal Tam que se guardaban en la biblioteca, y se agarró a la borda, y no se soltó en cuarenta días.
+Así que se subió al *Hakon*, el barco grande, el de tres palos que habían construido los carpinteros del puerto copiando los dibujos de un tal Tam que se guardaban en la biblioteca, y se agarró a la borda, y no se soltó en cuarenta días.
 
-* * *
+---
 
 La idea había sido de los elfos. De Aerith, el de la cicatriz en la cara, uno de los diez que salieron vivos de Novel.
 
@@ -30,7 +30,7 @@ Aerith señaló hacia el sur. Hacia el mar.
 
 —Las del sur —tradujo Sein—. Dice que nadie las ha visto. Que están en las canciones.
 
-Andriath se quedó mirando el mapa que había en la mesa del Consejo. Lo había dibujado un cartógrafo de la biblioteca, un muchacho muy serio que se llamaba Odric y que había copiado la costa de los informes de los pescadores. La colina estaba arriba. El valle negro, al norte. El fuerte quemado, abajo, al sur, con una cruz roja. Y luego el mar. Azul. Vacío. Hasta el borde del pergamino.
+Andriath se quedó mirando el mapa que había en la mesa del Consejo. Lo había dibujado un cartógrafo de la biblioteca, un muchacho muy serio que se llamaba Odric y que había copiado la costa de los informes de los pescadores. La colina estaba arriba, a la izquierda. El valle negro, a la derecha, al otro lado del estrecho, en el cráter de la montaña que humea. El fuerte quemado, abajo, al sur, con una cruz roja. Y luego el mar. Azul. Vacío. Hasta el borde del pergamino.
 
 —Las canciones —dijo.
 
@@ -40,9 +40,9 @@ Andriath suspiró.
 
 —¿Cuántos barcos tenemos?
 
-* * *
+---
 
-Cuatro. El Hakon, el Casimir, el Mara y el Odo, que era otro Odo, no el de Tam; el de Tam seguía en la Punta Gris, decían, varado en la cala, con la quilla cubierta de algas, esperando a nadie. Doscientos hombres de la colina. Ochenta elfos del sur, que sabían leer las estrellas. Sein, con el cuaderno. Y Andriath, agarrado a la borda.
+Cuatro. El *Hakon*, el *Casimir*, el *Mara* y el *Odo*, que era otro *Odo*, no el de Tam; el de Tam seguía en la Punta Gris, decían, varado en la cala, con la quilla cubierta de algas, esperando a nadie. Doscientos hombres de la colina. Ochenta elfos del sur, que sabían leer las estrellas. Sein, con el cuaderno. Y Andriath, agarrado a la borda.
 
 Dejó a su hijo en la colina. Bhargaras VIII. Veintiséis años. Con el aro de regente.
 
@@ -64,7 +64,7 @@ Bhargaras se rió. Tenía la risa de su bisabuela, decían; Andriath la había v
 
 —Vuelve, padre. Que si no, me toca a mí. Y yo soy peor con la espada.
 
-* * *
+---
 
 Navegaron hacia el sur cuarenta días.
 
@@ -76,7 +76,7 @@ Se torció hacia el oeste, y ellos siguieron hacia el sur. Mar abierto. Azul. Co
 
 Andriath vomitó catorce días seguidos.
 
-—Tu bisabuelo también vomitaba —le dijo Sein, que no vomitaba nunca, que no se mareaba, que estaba sentado en la cubierta con el cuaderno en las rodillas como si estuviera en la biblioteca—. En la Tozuda. La primera travesía. Lo pone Tobías. Catorce días también.
+—Tu bisabuelo también vomitaba —le dijo Sein, que no vomitaba nunca, que no se mareaba, que estaba sentado en la cubierta con el cuaderno en las rodillas como si estuviera en la biblioteca—. En la *Tozuda*. La primera travesía. Lo pone Tobías. Catorce días también.
 
 —Mi bisabuelo tenía siete heridas.
 
@@ -86,13 +86,13 @@ Andriath vomitó catorce días seguidos.
 
 —No. —Sein pasó una página—. Es peor.
 
-* * *
+---
 
 El día treinta y uno vieron un pájaro.
 
 El día treinta y cuatro, algas.
 
-El día treinta y ocho, un elfo de los del sur, encaramado al palo mayor del Hakon, se puso a gritar en su lengua y a señalar algo con el brazo. Sein tradujo: verde.
+El día treinta y ocho, un elfo de los del sur, encaramado al palo mayor del *Hakon*, se puso a gritar en su lengua y a señalar algo con el brazo. Sein tradujo: *verde*.
 
 El día cuarenta, al amanecer, Andriath soltó la borda.
 
@@ -100,7 +100,7 @@ Era una isla. Luego eran muchas. Un collar de islas, verdes, altas, con montaña
 
 Y en la playa de la isla más grande, gente.
 
-* * *
+---
 
 No eran elfos.
 
@@ -124,7 +124,7 @@ Y le contestó. En la lengua de la colina. Con un acento rarísimo, como si la h
 
 —De ti —dijo—. Te has caído del bote.
 
-* * *
+---
 
 Se llamaban gnomos. Eso lo supo el primer día. Lo demás tardó años en entenderlo.
 
@@ -144,7 +144,7 @@ El del sombrero de hojas —se llamaba Tibbet, Tibbet Tornasol, y era, por lo qu
 
 —Nada. —Tibbet sonrió—. Por eso. Os oíamos desde aquí. A los grandes. Peleándoos. Gritando. Muriéndoos. Haciendo muros. —Se rascó una oreja—. Era muy entretenido. No queríamos estropearlo.
 
-* * *
+---
 
 Les contó lo de los orcos al tercer día.
 
@@ -186,7 +186,7 @@ Tibbet se puso el sombrero.
 
 —Porque lo que bebe —dijo— luego tiene hambre de más.
 
-* * *
+---
 
 La Triple Alianza se firmó en la playa, al día siguiente, al amanecer, sin pergamino.
 
@@ -220,9 +220,9 @@ Andriath se la estrechó. Tuvo que agacharse.
 
 Sein lo apuntó.
 
-*Año 134. Triple Alianza. Elfos, gnomos, humanos. Sin pergamino. Firmado con un apretón de manos, en una playa, con el rey agachado. Que conste que el rey estaba agachado.*
+*Año 134. Triple Alianza. Elfos, gnomos, humanos. Sin pergamino. Firmado con un* *apretón de manos, en una playa, con el rey agachado. Que conste que el rey estaba* *agachado.*
 
-* * *
+---
 
 Volvieron en treinta y dos días. Las barcas de los gnomos iban contra el viento y tiraban de los barcos de la colina con cuerdas, riéndose.
 

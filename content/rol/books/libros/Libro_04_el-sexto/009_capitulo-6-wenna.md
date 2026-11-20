@@ -1,6 +1,6 @@
-## Capítulo 6 · Wenna
+# Capítulo 6 · Wenna
 
-*El Mercado del valle negro y los fiordos del norte de Oderon. Primavera del año 1003 de la Nueva Era (396 D.bA).*
+*El Mercado del valle negro y los fiordos del norte de Oderon. Primavera del año* *1003 de la Nueva Era (396 D.bA).*
 
 El Guardián tenía un pájaro en la cabeza.
 
@@ -22,7 +22,7 @@ Luego se fue volando hacia el sur. Hacia la colina.
 
 —Ya viene alguien —dijo Wenna.
 
-* * *
+---
 
 Venía el Emperador.
 
@@ -48,7 +48,7 @@ Wenna lo esperaba al otro lado. Con los pies mojados y una castaña en la mano.
 
 Wenna se rio. Le dio la castaña.
 
-* * *
+---
 
 Le habló de los fiordos en la casa de al lado de la balanza, sentados a la mesa de la cocina, con una olla de castañas en el fuego y los legajos abiertos sobre el mantel.
 
@@ -60,7 +60,7 @@ Wenna dejó de pelar castañas.
 
 —¿Y qué?
 
-—Que en todos los demás sí pone. En los cuatrocientos noventa y siete. Entró tal día, marcado, salió tal día. Tres días, cuatro, una semana. Es lo que se tardaba en marcar y curar. —Astragal puso el dedo en el legajo—. Marta de los Pozos entró la víspera. Al día siguiente vino Odelia a cantar. Tres días cantando. Y luego el Rincón se olvidó de sí mismo.
+—Que en todos los demás sí pone. En los cuatrocientos noventa y siete. *Entró tal* *día, marcado, salió tal día.* Tres días, cuatro, una semana. Es lo que se tardaba en marcar y curar. —Astragal puso el dedo en el legajo—. Marta de los Pozos entró la víspera. Al día siguiente vino Odelia a cantar. Tres días cantando. Y luego el Rincón se olvidó de sí mismo.
 
 —Con ella dentro.
 
@@ -82,7 +82,7 @@ Astragal no contestó enseguida.
 
 —Porque nadie la sacó —dijo al fin—. Ni viva ni muerta. Nadie dijo su nombre después. Nadie la soltó. —Miró a Wenna—. Lanther dice que tú oyes cosas abajo. Que llevas seiscientos años oyéndolas. Quiero que vengas. Quiero que, si hay algo, lo oigas.
 
-* * *
+---
 
 Fueron cinco: Wenna, Astragal, dos mulas y una Custodia.
 
@@ -112,7 +112,7 @@ Al fondo del fiordo. Al agua verde, quieta, muy honda.
 
 —Ahí abajo —dijo—. Algo respira.
 
-* * *
+---
 
 No se podía bajar. El agua estaba helada y el fondo del fiordo a cuarenta brazas, según la sonda que Wenna había traído por costumbre, porque ella llevaba siempre una sonda, una balanza y castañas, por si acaso.
 
@@ -138,7 +138,7 @@ Luego se arrodilló. Miró abajo. Abrió el legajo.
 
 Y empezó a leer.
 
-* * *
+---
 
 Wenna lo oía desde arriba, a medias, a través del viento y del agua. Nombre tras nombre. Cuatrocientos noventa y ocho. Tardó toda la tarde. Se le fue la voz dos veces y las dos veces se paró, bebió agua de la cantimplora, y siguió.
 
@@ -152,13 +152,13 @@ Leyó el último.
 
 —Marta de los Pozos. Robo de sal. Año 613. Veintiséis años.
 
-Y luego, sin cerrar el legajo, sin levantarse, se inclinó hacia la puerta, que ahora era una puerta, con su marco de hierro y su argolla y sus letras gastadas, RINCÓN DE LOS FIORDOS, y dijo, muy bajo, hacia abajo:
+Y luego, sin cerrar el legajo, sin levantarse, se inclinó hacia la puerta, que ahora era una puerta, con su marco de hierro y su argolla y sus letras gastadas, *RINCÓN DE LOS* *FIORDOS*, y dijo, muy bajo, hacia abajo:
 
 —Marta. Te estamos buscando. Ha pasado mucho tiempo.
 
 Y la puerta se abrió sola.
 
-* * *
+---
 
 Lo que había dentro, Wenna no lo vio hasta que la sacaron.
 
@@ -192,7 +192,7 @@ Abrió la boca. Le salió un hilo de voz.
 
 —¿Ya me han curado?
 
-* * *
+---
 
 Marta de los Pozos vivió treinta y un años más.
 
@@ -222,9 +222,9 @@ No había cambiado. Pero se quedó mucho rato con los dedos encima, sintiendo la
 
 —Te oigo —le dijo Wenna.
 
-No le dijo vete. A ese no. A ese nunca se lo decía.
+No le dijo *vete*. A ese no. A ese nunca se lo decía.
 
-* * *
+---
 
 En el sótano de la biblioteca, cuando Astragal volvió, Sein le preguntó si había encontrado la Vara.
 
@@ -240,8 +240,8 @@ Sein dejó la pluma.
 
 Luego la cogió y escribió:
 
-*Segundo Rincón. Los fiordos. Abierto por el Emperador con los nombres. Sin Vara. Una viva: Marta de los Pozos. Al Mercado.*
+*Segundo Rincón. Los fiordos. Abierto por el Emperador con los nombres. Sin Vara.* *Una viva: Marta de los Pozos. Al Mercado.*
 
-Y en la tercera columna: Lo que se olvida no se muere. Se queda esperando a que alguien diga su nombre.
+Y en la tercera columna: *Lo que se olvida no se muere. Se queda esperando a que alguien diga su nombre.*
 
 *Apuntarlo para cuando me haga falta.*

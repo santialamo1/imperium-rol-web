@@ -1,4 +1,4 @@
-## Capítulo 44 · Amael
+# Capítulo 44 · Amael
 
 *Banderbill. Años 75 a 77 de la Nueva Era.*
 
@@ -10,7 +10,7 @@
 
 La primera carta llegó el año que murió Teo, y no la firmaba nadie.
 
-Llegó en un barco de Pisor, entre sacos de sal, con el sello de cera roto y sin dirección. Solo un nombre en el pliego de fuera, con una letra que Amael no conocía, una letra de mano izquierda o de alguien que escribía con la otra mano para que no lo reconocieran: Al que lee.
+Llegó en un barco de Pisor, entre sacos de sal, con el sello de cera roto y sin dirección. Solo un nombre en el pliego de fuera, con una letra que Amael no conocía, una letra de mano izquierda o de alguien que escribía con la otra mano para que no lo reconocieran: *Al que lee.*
 
 El capitán del barco no sabía quién se la había dado. Se la había dado un pescador de la costa oeste, que se la había dado un pastor, que la había encontrado en la puerta de su cabaña con dos monedas de cobre encima y una piedra para que no se volara. Así contaban siempre: de mano en mano, hacia atrás, hasta que el hilo se perdía en algún sitio del oeste donde no vivía nadie.
 
@@ -24,7 +24,7 @@ Amael la leyó en la biblioteca, de pie, junto a la mesa larga. La leyó cuatro 
 
 Esa primavera el río se desbordó. Se llevó once casas en la orilla de abajo, las que los de Gijor estaban levantando fuera del muro. Ninguna de las que Amael había prohibido construir en otoño, sin que nadie entendiera por qué.
 
-* * *
+---
 
 Teo murió en invierno, en la panadería, en la artesa grande, la que no cojeaba.
 
@@ -46,7 +46,7 @@ Teo se quedó callado.
 
 Amael no contestó.
 
-* * *
+---
 
 La última noche, Teo le pidió que dejara de leer.
 
@@ -88,9 +88,9 @@ Se quedó dormido así, con la mano de su hijo en la suya, en la artesa grande, 
 
 No se despertó.
 
-* * *
+---
 
-Amael le dijo su nombre. El de fuera. Mirando hacia arriba, hacia las vigas negras de la panadería, como le había enseñado su madre a los cuatro años en la fuente. Teo. No sabía el de dentro. Nadie lo sabía ya; se había muerto con sus padres.
+Amael le dijo su nombre. El de fuera. Mirando hacia arriba, hacia las vigas negras de la panadería, como le había enseñado su madre a los cuatro años en la fuente. *Teo.* No sabía el de dentro. Nadie lo sabía ya; se había muerto con sus padres.
 
 No vio nada. Amael no veía nada nunca. Pero le pareció que el olor del pan, que llevaba semanas apagado, volvía un momento. Y se iba por la ventana.
 
@@ -104,9 +104,9 @@ Al día siguiente, a las cinco de la mañana, el rey de Banderbill bajó a las c
 
 Al otro día le salió un poco mejor.
 
-* * *
+---
 
-La segunda carta llegó a los tres meses. Al que lee. La misma letra de mano izquierda. El mismo palote.
+La segunda carta llegó a los tres meses. *Al que lee.* La misma letra de mano izquierda. El mismo palote.
 
 *Lo siento. Lo oí desde aquí. Que conste que lo oí.*
 
@@ -116,15 +116,15 @@ Amael se sentó en la escalera del sótano con la carta en la mano. Mucho rato. 
 
 No sabía adónde mandarla. Escribió igual.
 
-*Mamá: he hecho pan. Me sale mal. Ya mejorará. La masa tiene setenta años. Dice el tío Sein en su cuaderno —no, perdona, no sé lo que dice el tío Sein en su cuaderno, eso me lo invento— que se apunta en el haber. Me caso en primavera. Se llama Maren. Es copista. Tiene una letra más bonita que la mía y no le importa que lea en la cama. Ven a la boda. O no vengas. Ya sé que no vendrás. Pero que conste que te he invitado.*
+*Mamá: he hecho pan. Me sale mal. Ya mejorará. La masa tiene setenta años. Dice* *el tío Sein en su cuaderno —no, perdona, no sé lo que dice el tío Sein en su cuaderno, eso* *me lo invento— que se apunta en el haber. Me caso en primavera. Se llama Maren. Es* *copista. Tiene una letra más bonita que la mía y no le importa que lea en la cama. Ven a la* *boda. O no vengas. Ya sé que no vendrás. Pero que conste que te he invitado.*
 
-La dobló. La selló. Escribió en el pliego de fuera: A la que no se muere.
+La dobló. La selló. Escribió en el pliego de fuera: *A la que no se muere.*
 
 Y se la dio al capitán del primer barco que salía hacia Pisor, con dos monedas de cobre, y le dijo que se la diera a un pescador de la costa oeste, que se la diera a un pastor, que la dejara en la puerta de su cabaña con una piedra encima para que no se volara.
 
 El capitán lo miró como se mira a un loco. Pero era el rey.
 
-* * *
+---
 
 No vino a la boda.
 
@@ -146,7 +146,7 @@ Amael se sentó en el escalón. Con la hogaza en las manos. En camisa. Descalzo.
 
 Y se la comió entera, a pellizcos, como se la comía su madre en la artesa de la panadería sentada al lado de un hombre con harina en las cejas, mientras amanecía sobre una ciudad que tenía ya casas fuera del muro.
 
-* * *
+---
 
 Andriath nació al año siguiente, en primavera. En el año setenta y siete.
 
@@ -188,18 +188,19 @@ El niño cerró los ojos y se durmió.
 
 La comadrona lo apuntó.
 
-* * *
+---
 
-Esa noche, en la biblioteca, en el libro de registro, debajo de Año 63. Primer día. Libros: once, que ya estaba muy lejos, en una página de muchas páginas después, Amael escribió:
+Esa noche, en la biblioteca, en el libro de registro, debajo de *Año 63. Primer día.* *Libros: once*, que ya estaba muy lejos, en una página de muchas páginas después, Amael escribió:
 
-*Año 77. Nace Andriath. Sano. Grande. Le he dicho un nombre que no sé de dónde ha salido.*
+*Año 77. Nace Andriath. Sano. Grande. Le he dicho un nombre que no sé de dónde* *ha salido.*
 
 *Debe: un panadero, hace dos años. Haber: la masa madre sigue viva.*
 
-*Le he dado a Maren la vasija. Ella sabe más que yo de esto.*  
+*Le he dado a Maren la vasija. Ella sabe más que yo de esto.*
+
 *Que conste.*
 
-Y al día siguiente llegó la tercera carta. Al que lee. Con un palote.
+Y al día siguiente llegó la tercera carta. *Al que lee.* Con un palote.
 
 *Andriath. Bonito. Yo no te lo he dicho.*
 

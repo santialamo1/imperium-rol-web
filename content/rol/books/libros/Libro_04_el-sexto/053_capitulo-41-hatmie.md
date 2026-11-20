@@ -1,6 +1,6 @@
-## Capítulo 41 · Hatmie
+# Capítulo 41 · Hatmie
 
-*Las montañas rojas, al sur del desierto del este. Verano del año 1320 de la Nueva Era (713 D.bA).*
+*Las montañas rojas, al oeste de Ullathorpe. Verano del año 1320 de la Nueva Era* *(713 D.bA).*
 
 Los carros de los Ruald salían de Rinkel los lunes, con la primera luz, y llegaban a las minas de las montañas rojas el viernes por la tarde.
 
@@ -22,7 +22,7 @@ Bruno se rio. Era una risa de los Ruald, que Hatmie conocía sin saber de qué: 
 
 —Y no me quejo.
 
-—Eso no lo sé. —Bruno se rascó la barba—. El viaje es malo. Cinco días de desierto. Hay orcos que no son de Orac y que no saben que no deben atacarnos. Hay arena que se mete por todas partes. Hay un tramo, el último día, que se sube por un camino de cabras con los carros atados con cuerdas, y si se rompe una cuerda se va el carro, y el mulo, y lo que vaya dentro.
+—Eso no lo sé. —Bruno se rascó la barba—. El viaje es malo. Cinco días de páramo, pasado Ullathorpe, hacia el oeste. Hay orcos que no son de Orac y que no saben que no deben atacarnos. Hay arena que se mete por todas partes. Hay un tramo, el último día, que se sube por un camino de cabras con los carros atados con cuerdas, y si se rompe una cuerda se va el carro, y el mulo, y lo que vaya dentro.
 
 —¿Se ha roto alguna vez?
 
@@ -38,7 +38,7 @@ Hatmie le dijo la verdad. O casi.
 
 —A buscar una puerta.
 
-* * *
+---
 
 Lanther no fue.
 
@@ -66,11 +66,11 @@ Hatmie la miró.
 
 La pelirroja no abrió los ojos.
 
-* * *
+---
 
-El desierto fue como dijo Bruno.
+El páramo fue como dijo Bruno.
 
-Cinco días. Arena en los dientes, en las orejas, en la llave del pecho, que se le puso caliente por primera vez en sesenta años y le dejó una marca roja en la piel. Diez carros, treinta mulos, veinte hombres, dos mujeres que guisaban, un perro. Y Hatmie, sentada encima de los sacos vacíos del tercer carro, con un sombrero de paja de Tibbet —el ciento cuarenta y uno, que le había mandado él por correo desde el Fuerte cuando se enteró del viaje, con una nota: Para el sol. No para la arena. Para la arena no hay sombrero.— tapándole la cara.
+Cinco días. Arena en los dientes, en las orejas, en la llave del pecho, que se le puso caliente por primera vez en sesenta años y le dejó una marca roja en la piel. Diez carros, treinta mulos, veinte hombres, dos mujeres que guisaban, un perro. Y Hatmie, sentada encima de los sacos vacíos del tercer carro, con un sombrero de paja de Tibbet —el ciento cuarenta y uno, que le había mandado él por correo desde el Fuerte cuando se enteró del viaje, con una nota: *Para el sol. No para la arena. Para la arena no hay sombrero.*— tapándole la cara.
 
 Los carreteros no le hablaban. La miraban de lado. Por la noche, alrededor del fuego, se callaban cuando ella se sentaba.
 
@@ -88,7 +88,7 @@ Hatmie le dijo que sí.
 
 Ulmo se rio. Los otros se rieron. Y desde esa noche, al fuego, le hablaron.
 
-* * *
+---
 
 El último día subieron el camino de cabras.
 
@@ -98,7 +98,7 @@ Hatmie subió andando. Con el sombrero. Detrás del último carro.
 
 A mitad del camino, la montaña empezó a cantar.
 
-* * *
+---
 
 No era una canción.
 
@@ -124,13 +124,13 @@ Ulmo la miró. Luego miró a la montaña. Luego otra vez a ella.
 
 —¿Qué muro?
 
-—El de la colina. Hace tum.
+—El de la colina. Hace *tum*.
 
 Ulmo se quedó callado. Luego siguió empujando el carro.
 
 —El muro de la colina no hace nada, doncella —dijo sin volverse—. Es un muro.
 
-* * *
+---
 
 Las minas estaban en un valle alto, entre dos picos, como una taza.
 
@@ -162,7 +162,7 @@ Estuvieron un rato callados.
 
 Hatmie abrió los ojos.
 
-* * *
+---
 
 Era una grieta.
 
@@ -182,13 +182,13 @@ No sabía por qué.
 
 —Aquí —dijo.
 
-* * *
+---
 
 Cantó tres días.
 
 Sola. Bruno mandó los carros de vuelta sin ella y se quedó. No se lo pidió nadie. Se sentó en una roca, a veinte pasos, y le llevó agua, y comida, y una manta por la noche, y no le preguntó nada.
 
-Hatmie cantó la música al revés. La de Odelia. La que había practicado veinte años en la puerta del cuarto de los arreos. Mal, al principio. Con la voz rota del desierto. Luego mejor. Las notas largas, que bajaban y subían despacio como la savia, como el zumbido de la montaña, que había vuelto, y que ahora, al cantar ella, parecía que la acompañaba. Por debajo. Como un bajo.
+Hatmie cantó la música al revés. La de Odelia. La que había practicado veinte años en la puerta del cuarto de los arreos. Mal, al principio. Con la voz rota del páramo. Luego mejor. Las notas largas, que bajaban y subían despacio como la savia, como el zumbido de la montaña, que había vuelto, y que ahora, al cantar ella, parecía que la acompañaba. Por debajo. Como un bajo.
 
 La tercera noche, la grieta se abrió.
 
@@ -200,7 +200,7 @@ La puerta no se movió.
 
 Estaba abierta ya. Solo que la habían vuelto a cerrar. Desde dentro.
 
-* * *
+---
 
 Dentro estaba oscuro.
 
@@ -214,7 +214,7 @@ En el camastro, un montón de polvo gris con forma de hombre.
 
 Y en el suelo, huellas.
 
-* * *
+---
 
 Hatmie se arrodilló.
 
@@ -242,7 +242,7 @@ Y debajo de las dos, una piedra.
 
 Pequeña. Del tamaño de una avellana. Blanca.
 
-* * *
+---
 
 Se llevó el cuaderno a la colina.
 
@@ -252,7 +252,7 @@ Lanther lo abrió.
 
 Leyó la letra élfica en voz alta. Despacio.
 
-—Séptima. Montañas rojas. 618. Uno. Un hombre de sal que se escapó del otro, del que escucha, y que no se quiere morir porque si se muere vuelve con él. Lo he dormido aquí, donde canta lo de abajo, para que no oiga la voz del otro. Es la última que hago. Me ha costado el nombre. No me acuerdo de cómo me llamo. Hay una más, que no he cantado yo, que guarda ella, y que no tiene que encontrar nadie. Ella sabe. Yo ya no.
+—*Séptima. Montañas rojas. 618. Uno. Un hombre de sal que se escapó del otro,* *del que escucha, y que no se quiere morir porque si se muere vuelve con él. Lo he dormido* *aquí, donde canta lo de abajo, para que no oiga la voz del otro. Es la última que hago. Me* *ha costado el nombre. No me acuerdo de cómo me llamo. Hay una más, que no he cantado* *yo, que guarda ella, y que no tiene que encontrar nadie. Ella sabe. Yo ya no.*
 
 —Ella eres tú —dijo Hatmie.
 
@@ -268,9 +268,9 @@ Se quedó mucho rato mirándola.
 
 La pelirroja no contestó enseguida. Le temblaba la mano. La de la cicatriz.
 
-—Pone Ya lo sé —dijo.
+—Pone *Ya lo sé* —dijo.
 
-* * *
+---
 
 Hatmie se quedó callada.
 
@@ -308,7 +308,7 @@ Se paró en el primer escalón.
 
 —Él ya sabe que existe. Eso es bastante. Que no sepa también que tenemos miedo.
 
-* * *
+---
 
 Esa noche Hatmie no durmió.
 
@@ -318,9 +318,7 @@ Luego sacó la navaja de su abuela.
 
 Y debajo de la hache, en la viga, muy pequeño, rayó:
 
-*6. Hielo. Una que no quería mirar.*  
-*7. Sal. Uno que no quería volver.*  
-*8. No.*
+*6. Hielo. Una que no quería mirar.* *7. Sal. Uno que no quería volver.* *8. No.*
 
 Dejó la piedra blanca en el alféizar del cuarto. Al lado de la manzana.
 

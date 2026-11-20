@@ -1,4 +1,4 @@
-## Capítulo 50 · Hatmie
+# Capítulo 50 · Hatmie
 
 *Banderbill, el palacio. Verano del año 1402 de la Nueva Era (795 D.bA).*
 
@@ -10,11 +10,11 @@ Clac.
 
 Y se volvió hacia la plaza.
 
-* * *
+---
 
 Lo de la profecía llegó a la colina en la primavera.
 
-Lo trajeron los soldados de permiso que volvían de Ullathorpe. Lo trajeron los carreteros de los Ruald. Lo trajo un actor de El juglar que había estado en la posada de Joss en enero y que, la primera noche de la temporada, en medio de Arispar, cuando el chico de la cocina se ponía debajo de la montaña, se salió del papel, se volvió al público y dijo, con voz de viejo loco: De las sombras un nuevo guerrero asoma.
+Lo trajeron los soldados de permiso que volvían de Ullathorpe. Lo trajeron los carreteros de los Ruald. Lo trajo un actor de El juglar que había estado en la posada de Joss en enero y que, la primera noche de la temporada, en medio de *Arispar*, cuando el chico de la cocina se ponía debajo de la montaña, se salió del papel, se volvió al público y dijo, con voz de viejo loco: *De las sombras un nuevo guerrero asoma.*
 
 El teatro se calló.
 
@@ -22,19 +22,19 @@ Luego aplaudió. Mucho. De pie.
 
 Al día siguiente lo decía toda la colina.
 
-* * *
+---
 
 *El sexto.*
 
-Hatmie lo oyó en la explanada. En el mercado. En la escalera de la biblioteca. Lo oyó a los niños del puerto, que jugaban a el sexto como antes jugaban a la aguja: uno se ponía en medio, con los brazos levantados, sujetando una montaña invisible, y los demás le tiraban cosas, y el que aguantaba más sin bajar los brazos era el sexto. Lo oyó en el Parlamento.
+Hatmie lo oyó en la explanada. En el mercado. En la escalera de la biblioteca. Lo oyó a los niños del puerto, que jugaban a *el sexto* como antes jugaban a la aguja: uno se ponía en medio, con los brazos levantados, sujetando una montaña invisible, y los demás le tiraban cosas, y el que aguantaba más sin bajar los brazos era el sexto. Lo oyó en el Parlamento.
 
 Sobre todo en el Parlamento.
 
 Porque cada uno de los cuatro creía que era él.
 
-* * *
+---
 
-—La era de los gnomos al mando del ejército azul llegó a su fin —leyó Lord Rox en voz alta. En la sala de los diecinueve. El primer lunes de mayo. Con un papel en la mano, una copia de la copia de lo que Joel había apuntado, que alguien había vendido en el puerto por dos monedas—. La era de los gnomos. El gnomo. Baervan. Y la gnoma.
+—*La era de los gnomos al mando del ejército azul llegó a su fin* —leyó Lord Rox en voz alta. En la sala de los diecinueve. El primer lunes de mayo. Con un papel en la mano, una copia de la copia de lo que Joel había apuntado, que alguien había vendido en el puerto por dos monedas—. *La era de los gnomos.* El gnomo. Baervan. Y la gnoma.
 
 Miró al fondo. A Hatmie. De pie.
 
@@ -62,7 +62,7 @@ Hatmie no dijo nada.
 
 Y Blash se levantó.
 
-* * *
+---
 
 Hatmie había visto pelear a mucha gente. En la Armada, en la explanada, en las tabernas del puerto. Había visto pelear a orcos en la plaza, en el 1256, desde la ventana del palacio, con la llave en el pecho. Sabía cómo empezaban las peleas. Empezaban siempre con alguien que se levantaba.
 
@@ -74,7 +74,7 @@ Cinta. Cuerda. Cinta.
 
 Uno de los de la cinta echó mano a la espada.
 
-* * *
+---
 
 No hubo muertos.
 
@@ -98,7 +98,7 @@ Se pararon por él.
 
 Y Hatmie, en medio de la sala, con la espada levantada, entendió que llevaba ciento cuarenta y seis años mandando con algo que no era suyo.
 
-* * *
+---
 
 Los sacó a todos de la sala.
 
@@ -108,7 +108,7 @@ Los sacó a la plaza.
 
 Y luego, sola, recorrió el palacio.
 
-* * *
+---
 
 Tardó dos horas.
 
@@ -134,7 +134,7 @@ Mucho. De golpe. Un miedo frío que le subió por el brazo hasta la llave.
 
 No sabía por qué.
 
-* * *
+---
 
 Salió por la puerta grande.
 
@@ -148,7 +148,7 @@ Se volvió hacia la puerta.
 
 Sacó la llave.
 
-* * *
+---
 
 Clac.
 
@@ -170,7 +170,7 @@ Lo dijo sin rabia. Como se dice que llueve.
 
 —No soy yo.
 
-* * *
+---
 
 Bajó la escalinata.
 
@@ -192,7 +192,7 @@ No sabía por qué.
 
 El soldado no dijo nada.
 
-—Nadie manda porque nadie quiere que le miren. —Hatmie se tocó la llave—. Yo tampoco. Ciento cuarenta y seis años y no he querido nunca que me miren. Me miraban por él.
+—*Nadie manda porque nadie quiere que le miren.* —Hatmie se tocó la llave—. Yo tampoco. Ciento cuarenta y seis años y no he querido nunca que me miren. Me miraban por él.
 
 —Ya lo sé, doncella.
 
@@ -208,7 +208,7 @@ Hatmie se quedó un momento más.
 
 Luego siguió andando.
 
-* * *
+---
 
 Esa noche no bajó al sótano. Había reunión. No bajó.
 
@@ -240,13 +240,13 @@ La pelirroja no contestó.
 
 Hatmie no dijo nada.
 
-El muro hizo tum.
+El muro hizo *tum*.
 
 Contó.
 
 Ciento noventa y ocho.
 
-* * *
+---
 
 Tenía un cuaderno.
 
@@ -260,18 +260,17 @@ Escribió:
 
 *1402. He cerrado el palacio.*
 
-*La Armada se pelea en la sala del Consejo. Hay sangre en el mármol. Hay cintas y cuerdas, y una de las dos es mía, y no la quiero. Los que mandan no saben mandar, y yo tampoco, y lo que hay mientras se está gastando.*
+*La Armada se pelea en la sala del Consejo. Hay sangre en el mármol. Hay cintas y* *cuerdas, y una de las dos es mía, y no la quiero. Los que mandan no saben mandar, y yo* *tampoco, y lo que hay mientras se está gastando.*
 
-*Hace falta alguien. Alguien fuerte. Que mande sin partirse. Que garantice la paz y lo que juramos cuando entramos en la Armada, que era defender al que no se puede defender, y no a una cinta. Alguien que sujete esto.*
+*Hace falta alguien. Alguien fuerte. Que mande sin partirse. Que garantice la paz y* *lo que juramos cuando entramos en la Armada, que era defender al que no se puede* *defender, y no a una cinta. Alguien que sujete esto.*
 
 *No soy yo. No sé quién es.*
 
-*Él se reiría. Diría que hace falta alguien que se ría. A lo mejor tiene razón. Pero él no está.*
+*Él se reiría. Diría que hace falta alguien que se ría. A lo mejor tiene razón. Pero él* *no está.*
 
-*Que conste.*  
-*H.*
+*Que conste.* *H.*
 
-* * *
+---
 
 Guardó el cuaderno debajo de la tabla.
 

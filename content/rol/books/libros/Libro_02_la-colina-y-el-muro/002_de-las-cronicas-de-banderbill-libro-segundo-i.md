@@ -1,6 +1,6 @@
-## DE LAS CRÓNICAS DE BANDERBILL, LIBRO SEGUNDO (I)
+# De las Crónicas de Banderbill, Libro Segundo (I)
 
-*Escrito por Livia Heredicus en el año 27 de la Nueva Era, la noche después del entierro de maese Tobías Grull.*
+*Escrito por Livia Heredicus en el año 27 de la Nueva Era, la noche después del* *entierro de maese Tobías Grull.*
 
 Tobías dijo que el segundo lo escribiría otro. No dijo que sería yo.
 

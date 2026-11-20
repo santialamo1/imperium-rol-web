@@ -1,4 +1,4 @@
-## Capítulo 66 · Jonas Vell
+# Capítulo 66 · Jonas Vell
 
 *Banderbill. Año 341 de la Nueva Era.*
 
@@ -18,7 +18,7 @@ En la biblioteca. En una mesa junto a la ventana, la que tenía más luz, con la
 
 Y desde la mesa de la ventana, aunque no lo veía bien, sabía que en la mesa del fondo, la pequeña, pegada a la pared, siempre había el mismo hombre.
 
-* * *
+---
 
 —Usted es Tomas Vell —le dijo un día. A los diecisiete. Plantado delante de la mesa del fondo con un libro debajo del brazo, porque había reunido valor durante tres semanas y si no lo decía ese día no lo decía nunca.
 
@@ -42,7 +42,7 @@ El hombre de las gafas se quitó las gafas. Las miró. Miró a Jonas. Mucho rato
 
 —Siéntate —dijo—. Es una suma.
 
-* * *
+---
 
 La suma era esta.
 
@@ -58,7 +58,7 @@ Jonas abrió la boca.
 
 —El jueves —dijo Sein—. Si no llueve.
 
-* * *
+---
 
 El entierro de Tomas Vell fue el más concurrido que se recordaba en la colina desde el de Niestrel el Justo, y el único en la historia de las cuatro razas en el que el muerto asistió en persona.
 
@@ -82,7 +82,7 @@ Lo organizó Tibbet. Nadie se lo pidió. Se presentó en la biblioteca el martes
 
 —Lloraste en mi imaginación. Muy fuerte.
 
-* * *
+---
 
 El ataúd era de pino, de los buenos, y dentro iban cuarenta y dos libros de cuentas viejos de la Intendencia que nadie iba a echar de menos, porque Sein dijo que un muerto de la biblioteca tenía que pesar lo que pesa un hombre y que un hombre de la biblioteca pesa lo que pesan cuarenta y dos libros de cuentas. Lo pesó él. En la balanza de tendero. Dos veces.
 
@@ -96,7 +96,7 @@ Y a su lado, de pie, con unas gafas distintas, redondas, de montura de cobre, y 
 
 —Es la que había —le susurró Sein.
 
-* * *
+---
 
 Tibbet hizo el discurso subido a una silla. Era muy bonito. Habló de un hombre que había apuntado setenta y ocho años de cosas que pasaron y de cosas que no, y que no había perdido nunca una cifra, ni un saco, ni una piedra de muro, ni un sombrero. Habló de que los Vell no tenían hijos sino aprendices, y de que se les daba el apellido con el cuaderno, y de que eso era más difícil que tener hijos porque a un hijo no hay que enseñarle a sumar desde el primer día.
 
@@ -126,7 +126,7 @@ Jonas se quedó muy quieto. Contó. Con los labios. Hacia atrás. Llevaba cinco 
 
 —Trescientos treinta —dijo Sein—. Y se ríe en los entierros. Eso se lo enseñaron los gnomos. Lo demás lo trae de casa.
 
-* * *
+---
 
 Después del entierro, en la biblioteca, ya sin barba, Sein le dio a Jonas tres cosas.
 
@@ -142,13 +142,13 @@ Jonas lo pensó. Lo pensó de verdad, delante de Sein, durante un rato largo. Pe
 
 —¿Mi padre podrá seguir llamándome Brill?
 
-—Tu padre te puede llamar como quiera. —Sein casi sonrió—. A mí no me llamaba nadie. Mi madre se murió en el cabo sur cuando yo era pequeño, y después, en la colonia, me llamaban eh, tú. —Se quitó las gafas—. Casimir me dio el apellido. Me lo dio porque se lo pedí. Yo tenía once años y no tenía nada más que pedir.
+—Tu padre te puede llamar como quiera. —Sein casi sonrió—. A mí no me llamaba nadie. Mi madre se murió en el cabo sur cuando yo era pequeño, y después, en la colonia, me llamaban *eh, tú*. —Se quitó las gafas—. Casimir me dio el apellido. Me lo dio porque se lo pedí. Yo tenía once años y no tenía nada más que pedir.
 
 —Lo quiero —dijo Jonas.
 
 —Lo apunto.
 
-* * *
+---
 
 La tercera cosa fueron unas gafas.
 
@@ -156,7 +156,7 @@ Las de Sein. Las viejas. Las de montura de hierro, finas, que llevaba en la punt
 
 Y Jonas vio.
 
-No todo. No del todo bien. Las gafas eran de otro, y eran viejas, y estaban graduadas para unos ojos que llevaban trescientos años leyendo columnas a la luz de una vela. Pero vio. Vio la biblioteca, de lejos, entera, por primera vez en su vida: las estanterías hasta el techo, el polvo en los rayos de sol, las vitrinas con las cartas Al que lee, la mesa del fondo. Vio la cara de Sein. Una cara de cuarenta años, corriente, con los ojos cansados.
+No todo. No del todo bien. Las gafas eran de otro, y eran viejas, y estaban graduadas para unos ojos que llevaban trescientos años leyendo columnas a la luz de una vela. Pero vio. Vio la biblioteca, de lejos, entera, por primera vez en su vida: las estanterías hasta el techo, el polvo en los rayos de sol, las vitrinas con las cartas *Al que lee*, la mesa del fondo. Vio la cara de Sein. Una cara de cuarenta años, corriente, con los ojos cansados.
 
 Vio que tenía una peca en la sien izquierda. Nadie se la había visto nunca, pensó. Nadie se había acercado tanto.
 
@@ -166,7 +166,7 @@ Vio que tenía una peca en la sien izquierda. Nadie se la había visto nunca, pe
 
 —Mañana te llevo al de los cristales, al del puerto, y que te haga unas tuyas. Esas son para que veas hoy. —Sein se puso otras, las de montura de cobre del entierro—. Y para que sepas lo que se ve desde la mesa del fondo. Mira bien. Un día te sentarás allí.
 
-* * *
+---
 
 Esa noche, la primera, Jonas no fue a tapar lámparas. Fue su padre solo, por el barrio del puerto, con la escalera, y le dijo a todo el mundo que su hijo era cronista, y que llevaba gafas, y que lo había dicho Tomas Vell antes de morirse, y la gente le daba la enhorabuena y el pésame a la vez y nadie sabía muy bien qué decir.
 
@@ -176,7 +176,7 @@ Sein le enseñó el libro de cuentas. El de la biblioteca, primero, el de los sa
 
 Jonas lo hojeó con las gafas viejas, despacio, con la nariz a cuatro dedos, que era el doble que antes.
 
-Leyó el debe. Lo propuse yo. Lo propuse yo. Lo propuse yo. Nombres. Cifras. Una niña que había nacido con la cara rota. Un hombre que barría y que no se encontró nunca. Un pueblo de pescadores en el año doscientos once que se quedó sin trigo porque un papel de los viernes se equivocó de puerto. Trescientos años de cosas que habían salido mal, apuntadas con una letra de niño que no había mejorado nunca.
+Leyó el debe. *Lo propuse yo. Lo propuse yo. Lo propuse yo.* Nombres. Cifras. Una niña que había nacido con la cara rota. Un hombre que barría y que no se encontró nunca. Un pueblo de pescadores en el año doscientos once que se quedó sin trigo porque un papel de los viernes se equivocó de puerto. Trescientos años de cosas que habían salido mal, apuntadas con una letra de niño que no había mejorado nunca.
 
 Y luego llegó al año trescientos tres.
 
@@ -214,7 +214,7 @@ Lo dejó muy despacio, en la mesa, sin hacer ruido. Y se quedó mirando a Jonas 
 
 Jonas lo apuntó. Despacio, con la nariz a cuatro dedos, con las gafas viejas resbalándole.
 
-*Año 341. Primera entrada de Jonas Vell. Tomas Vell se murió el jueves. No dolió. En el libro de cuentas no sale nada mal desde hace treinta y ocho años. No sé si eso es una noticia.*
+*Año 341. Primera entrada de Jonas Vell. Tomas Vell se murió el jueves. No dolió.* *En el libro de cuentas no sale nada mal desde hace treinta y ocho años. No sé si eso es una* *noticia.*
 
 Sein lo leyó. Asintió. No dijo nada.
 

@@ -1,6 +1,6 @@
-## Capítulo 35 · Tomás Hask
+# Capítulo 35 · Tomás Hask
 
-*La cueva de cristal del Sombrero, en Tiama. La misma noche, primavera del año 1256 de la Nueva Era (649 D.bA).*
+*La cueva de cristal del Sombrero, en Annkör, sobre el Pasaje Norte. La misma* *noche, primavera del año 1256 de la Nueva Era (649 D.bA).*
 
 Tomás subía el pan desde los once años, como su padre, como su abuelo Damián, y aquella tarde llegó tarde porque se le había roto la correa de la raqueta en el segundo repecho y tuvo que atarla con el cordón de la bolsa.
 
@@ -12,7 +12,7 @@ Tomás se paró en la entrada de la sala azul.
 
 El tío Ilan estaba de pie.
 
-* * *
+---
 
 No lo había visto nunca de pie. En diecinueve años de subir el pan. El tío Ilan estaba siempre sentado en su piedra, la de la izquierda, con la capa de oso, con el gato —el cuarto gato, o el quinto; los gatos de la cueva se llamaban todos Copo— en las rodillas, con la espada de hielo apoyada en el hombro. Mirando la rendija. Hablando bajito.
 
@@ -32,7 +32,7 @@ El tío Ilan no contestó. Tomás miró la rendija.
 
 Y vio el ojo.
 
-* * *
+---
 
 Era amarillo.
 
@@ -44,11 +44,11 @@ Y lo miraba a él.
 
 No al tío. A él. Tomás lo supo como se sabe que alguien te mira por la espalda en una taberna.
 
-—Abuelo —dijo Tomás. Le salió solo. Era lo que decían los niños de Tiama cuando tenían miedo: abuelo, como le decían al gólem de las fumarolas, el que estaba parado con el brazo levantado desde antes de que hubiera ciudad.
+—Abuelo —dijo Tomás. Le salió solo. Era lo que decían los niños de Tiama cuando tenían miedo: *abuelo*, como le decían al gólem de las fumarolas, el que estaba parado con el brazo levantado desde antes de que hubiera ciudad.
 
 —No es tu abuelo —dijo el tío Ilan—. Es una cría.
 
-* * *
+---
 
 El hielo crujió.
 
@@ -66,13 +66,13 @@ No la clavó.
 
 —Tío, si se...
 
-—Calla, Tomás.
+—*Calla*, Tomás.
 
 El tío Ilan estaba hablando. No a él. Bajo. Muy bajo. Tomás tardó en entender qué decía.
 
 Estaba contando.
 
-* * *
+---
 
 —Treinta y uno, treinta y dos —decía el tío Ilan—. Treinta y tres copos en la ventana de arriba esta tarde. Treinta y cuatro. El gato ha cazado un ratón de hielo y no se lo ha comido. Treinta y cinco. Hay un barco en la costa sur con las velas rojas. Treinta y seis. Tomás ha llegado tarde porque se le ha roto la raqueta. Treinta y siete.
 
@@ -84,7 +84,7 @@ Tomás no entendió nada.
 
 —Porque hay alguien hablando. Abajo. —El tío Ilan apretó la espada—. Y si no contamos, lo vamos a oír.
 
-* * *
+---
 
 Tomás contó.
 
@@ -100,15 +100,15 @@ No le hablaba a él.
 
 Le hablaba al ojo.
 
-Ahora, decía. Ahora. ¿Lo oyes? Se han partido. Al sur. Lo oyes. Se oye. Como el hielo del glaciar viejo. Ahora, cría. Mira.
+*Ahora*, decía. *Ahora. ¿Lo oyes? Se han partido. Al sur. Lo oyes. Se oye. Como el* *hielo del glaciar viejo. Ahora, cría. Mira.*
 
 Y el ojo miraba.
 
-* * *
+---
 
 Tomás no supo nunca cuánto tiempo estuvieron así.
 
-Su madre le dijo luego que había bajado al amanecer. Que había estado toda la noche fuera. Él no se acordaba de la noche. Se acordaba del ojo, y de contar, y de la voz de debajo, y de una cosa que pasó al final, y que no le contó a nadie más que a su madre, y su madre a nadie.
+Su madre le dijo luego que había vuelto al anochecer del día siguiente, dormido en el trineo del correo de los enanos. Que había estado toda la noche en la cueva. Él no se acordaba de la noche. Se acordaba del ojo, y de contar, y de la voz de debajo, y de una cosa que pasó al final, y que no le contó a nadie más que a su madre, y su madre a nadie.
 
 Que el ojo, al final, se movió.
 
@@ -118,7 +118,7 @@ Y se quedó mirándolo.
 
 Y el tío Ilan bajó la espada.
 
-* * *
+---
 
 —Ya lo sé —dijo el tío Ilan.
 
@@ -138,9 +138,9 @@ Estaba pegado a la rendija. Con la cara a un palmo del hielo. A un palmo del ojo
 
 El ojo se quedó quieto.
 
-—Ella no quería que miraras —dijo el tío Ilan—. Ella te empujaba con el hocico para que no fueras al glaciar viejo. Allí no. ¿Te acuerdas? Allí no.
+—Ella no quería que miraras —dijo el tío Ilan—. Ella te empujaba con el hocico para que no fueras al glaciar viejo. *Allí no.* ¿Te acuerdas? *Allí no.*
 
-* * *
+---
 
 El ojo se cerró.
 
@@ -160,7 +160,7 @@ Luego se sentó. En la piedra. Despacio. Como si le doliera todo.
 
 —¿Has traído cerveza?
 
-* * *
+---
 
 Bebieron los dos. De la jarra. Sin vasos. Sentados en las dos piedras, la del abuelo y la del bisabuelo, delante de la rendija, con la línea blanca nueva al lado, de una mano de ancha, de arriba abajo.
 
@@ -178,11 +178,11 @@ El tío Ilan tardó mucho en contestar.
 
 —No lo sé —dijo—. Me gusta pensar que por su madre. —Acarició al gato—. Pero a lo mejor es que ya había mirado bastante. A lo mejor ya ha hecho lo que le pedían. A lo mejor lo de abajo ya se ha dado la vuelta.
 
-* * *
+---
 
-Tomás bajó al amanecer.
+Tomás bajó al amanecer. Los enanos del correo lo subieron al trineo al pie del Sombrero y lo llevaron por el Pasaje Norte todo el día.
 
-Su madre lo estaba esperando en la puerta de casa, en la ladera de Tiama, al lado de la de Dalbur. Con los brazos cruzados y la cara blanca. Le había visto bajar desde lejos.
+Su madre lo estaba esperando en la puerta de casa, en la ladera de Tiama, al lado de la de Dalbur. Con los brazos cruzados y la cara blanca. Le había visto llegar desde lejos.
 
 Le preguntó qué había pasado.
 
@@ -200,11 +200,11 @@ Dejó la suya encima.
 
 Y miró hacia arriba. Hacia la montaña. Hacia el Sombrero.
 
-* * *
+---
 
-*Carta de Ilan Hask a la biblioteca de Banderbill. Llegó en el verano del 1256. Mirela Vell la copió en el pergamino de los Fragmentos, en la línea de la gema de Migyur, al lado de las fechas del 892 y el 954.*
+*Carta de Ilan Hask a la biblioteca de Banderbill. Llegó en el verano del 1256.* *Mirela Vell la copió en el pergamino de los Fragmentos, en la línea de la gema de Migyur,* *al lado de las fechas del 892 y el 954.*
 
-*Ha abierto el ojo. Cuarta vez. La noche del catorce al quince de primavera. No lo ha abierto él. Lo de abajo le ha dicho que mirara, y ha mirado. Una noche entera.*
+*Ha abierto el ojo. Cuarta vez. La noche del catorce al quince de primavera.* *No lo ha abierto él. Lo de abajo le ha dicho que mirara, y ha mirado. Una noche entera.*
 
 *El hielo se ha rajado. Una mano. Lo he medido.*
 

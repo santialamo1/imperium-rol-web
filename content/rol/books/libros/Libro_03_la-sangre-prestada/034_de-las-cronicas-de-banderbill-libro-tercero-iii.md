@@ -1,6 +1,6 @@
-## DE LAS CRÓNICAS DE BANDERBILL, LIBRO TERCERO (III)
+# De las Crónicas de Banderbill, Libro Tercero (III)
 
-*Escrito por Nerea Vell, cronista de la biblioteca, en la primavera del año 625 de la Nueva Era (18 D.bA). Con el sombrero puesto. Con una nota al pie en otra letra.*
+*Escrito por Nerea Vell, cronista de la biblioteca, en la primavera del año 625 de la* *Nueva Era (18 D.bA). Con el sombrero puesto. Con una nota al pie en otra letra.*
 
 Escribo con un sombrero que no es mío y que me queda grande, y me he acostumbrado a ver el papel por debajo del ala.
 
@@ -10,7 +10,7 @@ Yo creo que han pasado muchas cosas. Pero no sé cuáles le hacen falta a un elf
 
 Así que las escribo yo.
 
-* * *
+---
 
 Hace cuatro años nació el príncipe.
 
@@ -20,7 +20,7 @@ Tiene las orejas un poco en punta. Menos que su padre. Más que su madre, que no
 
 Lo primero que hizo el príncipe, cuando aprendió a andar, fue ir a la ventana del cuarto que da al puerto y quedarse mirando los barcos. Se queda horas. No llora. No quiere que lo saquen. Su madre dice que es la sangre de Nix, que su bisabuela tenía un primo carpintero de ribera. Su padre dice que es otra cosa y no dice cuál.
 
-* * *
+---
 
 El Imperio está aprendiendo a serlo.
 
@@ -36,13 +36,13 @@ En el lugar donde estaba, ahora, algunas noches, hay otra luz. Blanca. Pequeña.
 
 No sé por qué lo hace. Nadie se lo ha pedido. Pregunté. Me dijeron que es para mirar arriba.
 
-* * *
+---
 
 La cárcel tiene veintitrés presos. Ninguno de ellos es el Emperador, aunque el dintel lo dice. Maese Corbel el joven se murió en el 617, en la celda primera, mirando la ventana. Le hicieron un entierro pequeño. Fue el Emperador. Nadie entendió por qué. Yo creo que sí lo entiendo.
 
 En el vestíbulo hay una piedra gris en un pedestal. Los presos le escupen cuando entran. Los carceleros les dejan. La reina del Mercado dice que está bien, que a una piedra se le puede escupir, que a una persona no.
 
-* * *
+---
 
 Joss Hask tiene ochenta y seis años y sigue subiendo a la tercera almena.
 
@@ -56,7 +56,7 @@ Le he preguntado a la pelirroja. Me ha dicho que no tiene ninguna libreta. Que l
 
 No le he preguntado dónde.
 
-* * *
+---
 
 La maestra de las formas sigue en la Escuela. Enseña la lluvia mansa a los niños de diez años. Por las mañanas, el gnomo del sombrero se asoma a la puerta y le dice su nombre. Ella le da las gracias.
 
@@ -64,7 +64,7 @@ No sé qué le pasó en los Rincones. Nadie me lo dice. Sé que los Rincones ya 
 
 Lo apunto para que conste que fui. No me acuerdo de más.
 
-* * *
+---
 
 Esto es lo que he visto en los dieciocho años que hace que hay Imperio.
 
@@ -80,11 +80,12 @@ Me ha mirado mucho rato. Luego me ha dicho que por eso existo yo.
 
 *N. V.*
 
-— | ✦ | —
+---
 
-*Al pie, en otra letra, pequeña, de niño:*
+— — *Al pie, en otra letra, pequeña, de niño:*
 
-*El orco de la lámpara se llama Drak. Lo capturó Brena Hask en el 598, en las cuevas viejas, cuando era un cachorro. Lo soltaron. Volvió a Arghâl. Estaba en la plaza la noche del 3 de marzo, sentado en la nieve. Ahora sube cuatrocientos escalones cada noche.*
+*El orco de la lámpara se llama Drak. Lo capturó Brena Hask en el 598, en las* *cuevas viejas, cuando era un cachorro. Lo soltaron. Volvió a Arghâl. Estaba en la plaza la* *noche del 3 de marzo, sentado en la nieve. Ahora sube cuatrocientos escalones cada* *noche.*
 
-*Lo apunto en el haber. Con el nombre de ella al lado.*  
+*Lo apunto en el haber. Con el nombre de ella al lado.*
+
 *S.*

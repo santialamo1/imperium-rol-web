@@ -1,4 +1,4 @@
-## Capítulo 46 · Esdras
+# Capítulo 46 · Esdras
 
 *Concordia. Año 219, invierno.*
 
@@ -10,7 +10,7 @@ Esdras se sentó. La silla crujió. Él también: tenía setenta y cuatro años,
 
 Ahora el capitán tenía ochenta y siete y se estaba muriendo, y Esdras había venido a hablarle de la sucesión.
 
-* * *
+---
 
 —No voy a nombrar heredero —dijo Braco.
 
@@ -42,7 +42,7 @@ Esdras se puso rojo.
 
 —Son personas. —Braco abrió los ojos—. Ahí está el problema. Me ha costado ochenta y siete años darme cuenta.
 
-* * *
+---
 
 Esdras salió de la alcoba con la cara roja y la rodilla de madera chirriando, y se encontró en el pasillo con la secretaria del emperador.
 
@@ -76,17 +76,17 @@ Esdras la miró con desprecio.
 
 —Algunos. —Lexandra se encogió de hombros—. Como algunos de los nuestros quieren la suya. Pero el emperador quemó once oasis en los últimos treinta años, general. Once. Y de los once, solo en tres había muertos levantados. En los otros ocho había gente viva que se fue al sur con lo puesto y que todavía no ha vuelto. —Hizo una pausa—. Esa gente no está con el Padre de la Bruma. Está entre él y nosotros. Y no los hemos mirado nunca.
 
-* * *
+---
 
 Braco murió en primavera. Con el mechón de pelo rubio en el puño, como habían dicho que moriría las doncellas de palacio, que sabían más que los cronistas.
 
-No nombró heredero. Pero en su última semana, según contó después la escribiente Lexandra Tiberius a quien quiso escucharla, le dijo algo. Que la fuerza elija. Un trono ganado es solo tuyo. Y otra cosa, al final, con la voz casi perdida: Hablar. La guerra se gana hablando.
+No nombró heredero. Pero en su última semana, según contó después la escribiente Lexandra Tiberius a quien quiso escucharla, le dijo algo. *Que la fuerza elija. Un trono* *ganado es solo tuyo.* Y otra cosa, al final, con la voz casi perdida: *Hablar. La guerra se* *gana hablando.*
 
 El Consejo se reunió de urgencia. Hubo gritos, como siempre. Y luego, como siempre, alguien sacó el viejo decreto de Hector Tiberius de los archivos y lo leyó en voz alta, y se abrieron las listas de la plaza.
 
 Esdras Vanth estuvo dos días delante de las listas. Con la pluma en la mano. Mirando los nombres.
 
-Darius Heredicus, veinticinco años. Una docena de señores jóvenes. Un campeón Ibaro gigantesco de los lagos. Y, la última, con una letra pequeña y apretada de escribiente de archivo, Lexandra Tiberius, Suhon, de los bosques del norte.
+Darius Heredicus, veinticinco años. Una docena de señores jóvenes. Un campeón Ibaro gigantesco de los lagos. Y, la última, con una letra pequeña y apretada de escribiente de archivo, *Lexandra Tiberius, Suhon, de los bosques del norte*.
 
 Esdras sabía que la ganaría. No en la plaza; en la plaza no tenía nada que hacer, con su rodilla de madera, contra muchachos de veinte años. Pero sabía que si se inscribía, la mitad de los generales se inscribirían detrás de él para apoyarlo, o retirarían a sus propios candidatos para darle sus votos en el Consejo, y la plaza se convertiría en otra cosa: en una guerra entre facciones, como en tiempos de Genieveve. Y la escribiente, que no tenía a nadie detrás salvo un marido miope de Pisor y un niño de ocho años, se quedaría sola.
 
@@ -98,7 +98,7 @@ Al tercero, dejó la pluma en la mesa del heraldo sin haber escrito nada.
 
 —No —dijo Esdras—. Soy demasiado viejo para que me rompan la muñeca.
 
-* * *
+---
 
 Fue a ver los combates. Los once. Desde la tribuna de los generales, con la rodilla de madera estirada sobre un taburete.
 
@@ -114,7 +114,7 @@ Pero cuando la emperatriz le contestó, mirándolo a los ojos, que Braco se hab�
 
 No volvió a levantarse en el Consejo contra ella.
 
-Murió seis años después, en su casa del barrio alto, de viejo. En su testamento dejó dicho que lo enterraran en la frontera, en el oasis de Kel-Ammar, al pie de la roca alta donde había ardido el osario en tiempos de Braco. Nadie entendió por qué. La Madre Ysh-Neva, a quien le llegó la petición por la embajada, tardó un mes en contestar.
+Murió seis años después, en su casa del barrio alto, de viejo. En su testamento dejó dicho que lo enterraran en la frontera, en el oasis de Kel-Ammar, al pie de la roca alta donde había ardido el osario en tiempos de Braco. Nadie entendió por qué. La Madre Ysh- Neva, a quien le llegó la petición por la embajada, tardó un mes en contestar.
 
 Luego dijo que sí.
 

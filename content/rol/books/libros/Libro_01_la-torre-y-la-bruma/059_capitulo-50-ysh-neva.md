@@ -1,4 +1,4 @@
-## Capítulo 50 · Ysh-Neva
+# Capítulo 50 · Ysh-Neva
 
 *Concordia, Academia de los Custodios. Año 226, primavera.*
 
@@ -16,7 +16,7 @@ La mayor de las niñas, de once años, flaca y seria, con los ojos oscuros de su
 
 Doce. Ysh-Neva había elegido el número a propósito. Lo había elegido para que nadie en Concordia pudiera olvidar el otro.
 
-* * *
+---
 
 Le había costado tres años convencer a las madres.
 
@@ -50,7 +50,7 @@ La mujer estuvo callada mucho tiempo. Tenía otra hija. De siete años. Que tamb
 
 La niña de siete años era la que estaba ahora en el patio de la Academia, agarrada a la túnica de un muchacho de doce que se llamaba Ezer y que la había llevado de la mano los doce días de camino sin que nadie se lo pidiera.
 
-* * *
+---
 
 —No puedo admitirlos a todos —dijo Arvid Stenn aquella tarde, en su despacho de la planta alta—. La Academia tiene sesenta plazas. Están todas ocupadas. Y el Consejo no ha aprobado los fondos.
 
@@ -78,7 +78,7 @@ Stenn no contestó.
 
 —Entonces será porque les habréis dado razones para irse —dijo Ysh-Neva—. Él solo llama. Somos los demás los que abrimos la puerta.
 
-* * *
+---
 
 No fue Stenn quien decidió. Fue una vieja.
 
@@ -114,7 +114,7 @@ Hubo un silencio al otro lado de la puerta.
 
 —Y el oído derecho muerto y una cadera que no sirve. —Hilde sonrió—. Pero me queda el izquierdo. Y con ese oigo a esos críos mejor que tú a tus novicios.
 
-* * *
+---
 
 Esa noche Ysh-Neva no fue a dormir a la embajada. Se quedó en las habitaciones de Hilde Tamm, sentada en el suelo, entre doce jergones, oyendo respirar a los niños.
 
@@ -136,11 +136,11 @@ Hilde también lo oía. Ysh-Neva le vio la cara.
 
 —Esdras —dijo la vieja.
 
-* * *
+---
 
 El general Esdras Vanth había muerto aquella tarde, en su casa del barrio alto, a los ochenta y un años, de un ataque al corazón, mientras discutía a gritos con su cocinera sobre la sal de la sopa. Ysh-Neva se enteraría por la mañana. En aquel momento solo sabía que había un muerto viejo, muy viejo, enfadado y perdido, que había cruzado media ciudad en la oscuridad siguiendo algo que no entendía, y que ahora estaba de pie al otro lado de la puerta, entre los fantasmas de los novicios, con una rodilla de madera que no hacía ruido.
 
-¿Dónde estoy?, decía. ¿Qué es esto? ¿Quiénes son esos críos? Son de la arena. Huelen a arena. ¿Qué hacen críos de la arena en la Academia?
+*¿Dónde estoy?*, decía. *¿Qué es esto? ¿Quiénes son esos críos? Son de la arena.* *Huelen a arena. ¿Qué hacen críos de la arena en la Academia?*
 
 Ysh-Neva lo había visto una sola vez, en el Consejo, seis años antes. Era el viejo que había gritado que los eufesios eran la misma raza que el monstruo. Que había estado en Ummat. Que había enterrado a Braco con sus propias manos en el oasis de Kel-Ammar, entre las palmeras quemadas que él mismo había ayudado a quemar.
 
@@ -152,7 +152,7 @@ Ysh-Neva lo había visto una sola vez, en el Consejo, seis años antes. Era el v
 
 Ysh-Neva no contestó enseguida. Escuchó al muerto. Estaba furioso, y asustado, y tenía frío, y debajo de todo eso había otra cosa. Algo que Ysh-Neva reconoció porque lo había oído en su madre durante toda su infancia.
 
-Las palmeras ardían, decía el muerto, más bajo. Ardían como antorchas. Y él lloraba. El viejo. Lloraba con el pelo de la chica en el puño, y me dijo que lo enterrara allí. Allí. Entre las palmeras que quemamos. Para que lo vieran. Para que supieran que lo sentía. Una pausa. Yo no lo sentía. Yo nunca lo sentí. ¿Por qué lo enterré allí, entonces?
+*Las palmeras ardían*, decía el muerto, más bajo. *Ardían como antorchas. Y él* *lloraba. El viejo. Lloraba con el pelo de la chica en el puño, y me dijo que lo enterrara* *allí. Allí. Entre las palmeras que quemamos. Para que lo vieran. Para que supieran que lo* *sentía.* Una pausa. *Yo no lo sentía. Yo nunca lo sentí. ¿Por qué lo enterré allí, entonces?*
 
 —No —dijo Ysh-Neva—. Lo suelto yo.
 
@@ -166,7 +166,7 @@ Se levantó. Fue hasta la puerta. No la abrió; no hacía falta. Se arrodilló d
 
 El muerto se quedó callado mucho tiempo.
 
-No lo entiendo, dijo al fin.
+*No lo entiendo*, dijo al fin.
 
 —Lo sé. —Ysh-Neva apoyó la palma de la mano en la madera—. No hace falta que lo entiendas. Vete. Hacia arriba. Tu emperador te está esperando. Y si ves a una vieja de los pozos con las manos llenas de cuentas de sal, dile que su nieta te ha mandado. A lo mejor no te escupe.
 
@@ -192,12 +192,12 @@ El niño se tumbó. Pero no se durmió enseguida. Ysh-Neva lo oyó dar vueltas m
 
 Treinta años después, en la torre norte de Kel-Mar, expulsado, con un trapo gris en la manga y doscientos soldados del Imperio repitiendo nombres a gritos en un patio helado, se acordaría.
 
-* * *
+---
 
-Hilde Tamm enseñó a leer a los doce. Tardó dos años. Murió en el doscientos veintiocho, en su sillón junto a la chimenea, con la manta sobre las rodillas y un libro abierto en el regazo: una cartilla de la lengua de la arena que había escrito ella misma, a sus ochenta y un años, con la ayuda de su alumna favorita, Ysh-Talia, de trece años, que le corregía las faltas y que le preguntó una noche por qué dormía siempre con la ventana abierta hacia el oeste.
+Hilde Tamm enseñó a leer a los doce. Tardó dos años. Murió en el doscientos veintiocho, en su sillón junto a la chimenea, con la manta sobre las rodillas y un libro abierto en el regazo: una cartilla de la lengua de la arena que había escrito ella misma, a sus ochenta y un años, con la ayuda de su alumna favorita, Ysh-Talia, de trece años, que le corregía las faltas y que le preguntó una noche por qué dormía siempre con la ventana abierta hacia el este.
 
 La soltó Ezer, que tenía catorce. Sin que nadie se lo pidiera. Con su nombre secreto, que la vieja le había dicho una noche, en voz baja, para que alguien lo supiera cuando llegara el momento: el de una niña de Pisor que se ahogó en los pantanos de Pisor un día de verano, setenta y cinco años antes, y que la estaba esperando.
 
-En el registro de la Academia, junto a su nombre, Arvid Stenn escribió con su letra pulcra de Suhon: Custodia mayor emérita. Dos mil seiscientos muertos soltados. Doce vivos enseñados.
+En el registro de la Academia, junto a su nombre, Arvid Stenn escribió con su letra pulcra de Suhon: *Custodia mayor emérita. Dos mil seiscientos muertos soltados. Doce* *vivos enseñados.*
 
 Luego lo tachó y lo volvió a escribir al revés.

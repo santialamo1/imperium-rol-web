@@ -1,4 +1,4 @@
-## Capítulo 54 · Yaakov
+# Capítulo 54 · Yaakov
 
 *Talleres de fundición de Hinurvald, montes del norte. Año 240, invierno.*
 
@@ -16,28 +16,27 @@ Yaakov miró el espejo. Tres varas de alto por dos de ancho, en el suelo de pied
 
 —Ahora probamos con menos estaño —dijo.
 
-* * *
+---
 
 Hacía cuatro años que le daba vueltas. Desde la noche en que su padre, Ansel Kalo, le escribió desde Kel-Ammar una carta de nueve pliegos con dibujos en los márgenes.
 
 Ansel tenía entonces sesenta años y llevaba dos viviendo en una tienda en el borde de la bruma con la madre de Yaakov, y era, según Lexandra, más feliz que en toda su vida, porque nadie lo echaba de ninguna sala y las viejas de los pozos le contaban cosas que no estaban en ningún libro. Una de esas cosas era lo del ojo.
 
-Los libres creen, escribía Ansel, con su letra apretada y llena de tachones, que la niebla no se puede secar con el sol porque el sol no llega. La niebla está demasiado alta y demasiado espesa. El ojo del cielo la mira desde arriba, pero no puede atravesarla. Eso dicen. Pero la Madre Ysh-Neva me ha contado otra cosa. Me ha contado que en Ummat, cuando se rompió la primera jarra, la niebla se abrió durante un instante. Un agujero. Y que por el agujero entró el sol. Y que donde tocó el sol, los muertos cayeron.
+*Los libres creen*, escribía Ansel, con su letra apretada y llena de tachones, *que la* *niebla no se puede secar con el sol porque el sol no llega. La niebla está demasiado alta y* *demasiado espesa. El ojo del cielo la mira desde arriba, pero no puede atravesarla. Eso* *dicen. Pero la Madre Ysh-Neva me ha contado otra cosa. Me ha contado que en Ummat,* *cuando se rompió la primera jarra, la niebla se abrió durante un instante. Un agujero. Y* *que por el agujero entró el sol. Y que donde tocó el sol, los muertos cayeron.*
 
-*Así que el sol sí puede. Lo que no puede es entrar.*  
-*Hijo, he estado pensando.*
+*Así que el sol sí puede. Lo que no puede es entrar.* *Hijo, he estado pensando.*
 
 Lo que había estado pensando ocupaba los ocho pliegos siguientes. Un tratado de astronomía de la Gran Biblioteca, de los tiempos de Lisandro Heredicus, que explicaba cómo los astrónomos Zelto de las montañas concentraban la luz de las estrellas con espejos cóncavos de bronce pulido para verlas mejor. Una nota de Lisandro en el margen de sus planos de la Torre, que nadie había leído en doscientos años, sobre la Llama Concorde y cómo su luz blanca, la del fuego de sal, hacía retroceder la niebla de los muertos de la ciudad. Un cálculo, lleno de errores que el propio Ansel corregía en el margen con otra tinta, de cuánta luz haría falta para abrir un agujero en un techo de niebla de mil varas de espesor.
 
 Y al final, un dibujo. Un espejo enorme, montado en un armazón con ruedas, con poleas y engranajes para inclinarlo en cualquier dirección. Y delante, un brasero de sal.
 
-Primero la sal abre la puerta, había escrito Ansel debajo. Luego el sol entra. Luego los espejos lo cogen y lo llevan donde haga falta.
+*Primero la sal abre la puerta*, había escrito Ansel debajo. *Luego el sol entra. Luego* *los espejos lo cogen y lo llevan donde haga falta.*
 
-*Harían falta muchos. Cientos. No sé si es posible. Probablemente no. Pero la Madre dice que tú siempre has pensado en el ojo, desde que eras niño. Así que te lo mando a ti.*
+*Harían falta muchos. Cientos. No sé si es posible. Probablemente no. Pero la* *Madre dice que tú siempre has pensado en el ojo, desde que eras niño. Así que te lo mando* *a ti.*
 
 *Tu padre, que ya no ve bien sus propios dibujos.*
 
-* * *
+---
 
 El segundo espejo no se rajó. Se combó.
 
@@ -61,7 +60,7 @@ Yaakov se sentó en un banco del taller. Estaba cansado. Llevaba seis semanas en
 
 Pensó en la carta de su padre. En el dibujo del espejo. En el brasero de sal.
 
-Pensó en Ysh-Neva, cuando él tenía doce años, sentada en el suelo de su cuarto en la Torre, contándole historias del desierto. El ojo siempre está ahí arriba. Aunque no lo veas.
+Pensó en Ysh-Neva, cuando él tenía doce años, sentada en el suelo de su cuarto en la Torre, contándole historias del desierto. *El ojo siempre está ahí arriba. Aunque no lo* *veas.*
 
 —Maese Brokk —dijo—. ¿Cómo hacéis las campanas?
 
@@ -77,7 +76,7 @@ Maese Brokk se quedó callado un momento.
 
 —¿Y si no fuera plano?
 
-* * *
+---
 
 Tardaron tres meses más.
 
@@ -107,27 +106,27 @@ Yaakov miró el espejo. El número diecisiete. Que no se había rajado, ni comba
 
 —Para abrir una puerta —dijo.
 
-* * *
+---
 
 Esa noche escribió a su padre. No le contó lo del granero. Le contó lo de las campanas, los nervios de bronce, la concavidad de un dedo. Le dijo que el diecisiete funcionaba, y que maese Brokk calculaba que, con todos los talleres del clan trabajando, podrían hacer sesenta espejos al año.
 
 Trescientos, en cinco años.
 
-Si los hacemos, escribió, tendré que llevarlos al corazón del desierto. Donde está él. Donde está la niebla más espesa. Y tendré que esperar a que salga con todo lo que tiene, porque si no sale con todo, no merecerá la pena. Y si sale con todo y los espejos no funcionan, moriremos todos.
+*Si los hacemos*, escribió, *tendré que llevarlos al corazón del desierto. Donde está* *él. Donde está la niebla más espesa. Y tendré que esperar a que salga con todo lo que* *tiene, porque si no sale con todo, no merecerá la pena. Y si sale con todo y los espejos no* *funcionan, moriremos todos.*
 
 *No sé si tengo derecho a apostar así.*
 
-*Pero me acuerdo de lo que me dijo Ysh-Neva cuando era niño. Que el ojo siempre está ahí arriba. Que es lo primero que aprenden los libres y lo último que olvidaron las Madres. Y pienso que tú, que no eres libre ni eres Madre, te pasaste dos años en una tienda escuchando a las viejas hasta que lo entendiste. Así que algo habrá.*
+*Pero me acuerdo de lo que me dijo Ysh-Neva cuando era niño. Que el ojo siempre* *está ahí arriba. Que es lo primero que aprenden los libres y lo último que olvidaron las* *Madres. Y pienso que tú, que no eres libre ni eres Madre, te pasaste dos años en una* *tienda escuchando a las viejas hasta que lo entendiste. Así que algo habrá.*
 
-*Dile a madre que el niño ya monta solo. Y que le ha puesto a su caballo de madera el nombre de Brokk, porque dice que relincha como un fundidor.*
+*Dile a madre que el niño ya monta solo. Y que le ha puesto a su caballo de madera* *el nombre de Brokk, porque dice que relincha como un fundidor.*
 
 La respuesta llegó dos meses después. Era muy corta. La letra de Ansel temblaba tanto que costaba leerla.
 
-*Hazlos. Y cuando vayas, no te fíes solo de los espejos. Fíate también de la gente que esté a tu lado. Los espejos cogen la luz. Pero alguien tiene que decidir hacia dónde apuntarlos.*
+*Hazlos. Y cuando vayas, no te fíes solo de los espejos. Fíate también de la gente* *que esté a tu lado. Los espejos cogen la luz. Pero alguien tiene que decidir hacia dónde* *apuntarlos.*
 
-*Tu padre, que se está quedando ciego y lo encuentra muy gracioso, dadas las circunstancias.*
+*Tu padre, que se está quedando ciego y lo encuentra muy gracioso, dadas las* *circunstancias.*
 
-* * *
+---
 
 Ansel Kalo murió en Kel-Ammar el invierno siguiente, en el doscientos cuarenta y uno, en su tienda, con Lexandra a su lado y un tratado de astronomía abierto sobre el pecho que ya no podía leer. Lo enterraron los libres en el borde de la bruma, con cuentas de sal blanca en las manos, y la Madre Ysh-Neva dijo su nombre hacia arriba.
 
@@ -137,7 +136,7 @@ Pero en la batalla, en lo alto de la duna, cuando el sol entró y los tresciento
 
 Y fue la mujer del velo, y no los espejos, la que decidió el final.
 
-Yaakov se acordó entonces de la carta de su padre. Fíate también de la gente que esté a tu lado. No supo nunca si Ansel lo había dicho por Ysh-Neva, o por los soldados, o por algo que había oído contar a las viejas de los pozos sobre una mujer que llevaba ciento treinta años al lado de un hombre sin decir una palabra.
+Yaakov se acordó entonces de la carta de su padre. *Fíate también de la gente que* *esté a tu lado.* No supo nunca si Ansel lo había dicho por Ysh-Neva, o por los soldados, o por algo que había oído contar a las viejas de los pozos sobre una mujer que llevaba ciento treinta años al lado de un hombre sin decir una palabra.
 
 Se lo preguntó a su madre, años después. Lexandra se rió.
 

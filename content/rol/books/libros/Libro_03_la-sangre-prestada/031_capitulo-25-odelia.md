@@ -1,4 +1,4 @@
-## Capítulo 25 · Odelia
+# Capítulo 25 · Odelia
 
 *La colina de Banderbill y los Rincones. Años 611 a 618 de la Nueva Era (4 a 11 D.bA).*
 
@@ -14,7 +14,7 @@ Se la había enseñado su abuela. En Tawarsinan. En el bosque de los árboles qu
 
 Odelia tenía cuatrocientos doce años cuando el Emperador se la pidió. Y llevaba trescientos ochenta sin cantarla.
 
-* * *
+---
 
 Fue en la Escuela de las Formas. En el aula de la planta de arriba, la que tenía las ventanas sopladas por los gnomos, que hacían la luz verde. Odelia enseñaba allí desde el 300. La lluvia mansa a los niños de diez años. La col a los de doce. El corte, que era la quinta, a los de catorce, que siempre se cortaban un dedo la primera vez. La cuerda que no se rompe a los que querían ser marineros.
 
@@ -26,7 +26,7 @@ Los niños se levantaron. Él les hizo un gesto para que se sentaran.
 
 —Maestra Odelia —dijo—. Necesito que olvide unas puertas.
 
-* * *
+---
 
 Se lo explicó en el jardín. Debajo del castaño. Que era otro castaño, el nieto del primero, pero que estaba en el mismo sitio.
 
@@ -54,7 +54,7 @@ Odelia se encogió de hombros. Era una elfa alta, de pelo castaño, con las mano
 
 —Siete —dijo una voz detrás de ellos—. El octavo lo guardo yo.
 
-* * *
+---
 
 Era Lanther.
 
@@ -66,7 +66,7 @@ Estaba apoyada en el tronco del castaño, con los brazos cruzados. Con la espada
 
 —Que me encuentre a mí primero.
 
-* * *
+---
 
 La cárcel se empezó a construir en la primavera del 611.
 
@@ -76,7 +76,7 @@ El Emperador fue todas las semanas a ver las obras. Con la corona de once libras
 
 El último día de las obras, en el otoño del 613, el maestro de obras le preguntó qué quería que pusiera en el dintel de la puerta.
 
-Era costumbre. En la colina, todos los edificios del Imperio tenían una frase en el dintel. La biblioteca decía Para que quepan todos, que había dicho un niño. La Escuela de las Formas decía Las suaves. El cuartel de la Armada decía Hacia arriba.
+Era costumbre. En la colina, todos los edificios del Imperio tenían una frase en el dintel. La biblioteca decía *Para que quepan todos*, que había dicho un niño. La Escuela de las Formas decía *Las suaves*. El cuartel de la Armada decía *Hacia arriba*.
 
 El Emperador pensó.
 
@@ -84,7 +84,7 @@ Luego le pidió al maestro de obras el cincel. Y lo grabó él mismo. Despacio. 
 
 *Aquí viene quien rompe la ley. Y el emperador, el primero.*
 
-* * *
+---
 
 Esa noche, el Emperador durmió en la primera celda.
 
@@ -102,7 +102,7 @@ El carcelero le abrió. El Emperador estaba sentado en el catre. Despeinado. Con
 
 —No. —Se levantó. Le crujieron las rodillas. Tenía doscientos trece años—. Pero ahora sé lo que es. Una noche. —Recogió la corona del suelo—. Los que vengan aquí van a pasar muchas. Quiero acordarme de una.
 
-* * *
+---
 
 El primer preso de verdad llegó la semana siguiente.
 
@@ -120,7 +120,7 @@ El carcelero no contestó.
 
 Corbel se quedó en esa celda hasta que se murió, cuatro años después. Dicen que todas las noches miraba por la ventana alta. Arriba. Dicen que al final aprendió. Nadie lo sabe seguro.
 
-* * *
+---
 
 La piedra gris de Arghâl la puso Lanther en el vestíbulo de la cárcel.
 
@@ -144,7 +144,7 @@ No era un latido. Era una raíz. Esperando.
 
 No dijo nada. No ese día.
 
-* * *
+---
 
 El primer Rincón fue el del valle negro. Más allá del Mercado. En la primavera del 612.
 
@@ -156,19 +156,19 @@ Luego Odelia se puso delante de la reja.
 
 Y cantó.
 
-* * *
+---
 
 Las ocho primeras notas fueron fáciles. Eran como la lluvia mansa: suaves, redondas, de las que se cantan con la garganta abierta. Subían y bajaban. Odelia las cantó despacio, con los ojos cerrados, como las había cantado su abuela debajo del roble.
 
 Y la reja, delante de ella, empezó a cambiar.
 
-No a moverse. A dejar de ser. No había otra manera de decirlo. La reja seguía allí. Los barrotes seguían allí. Pero de repente, mirándolos, uno no sabía qué eran. Uno no sabía que eran una reja. Uno los veía y los olvidaba, al mismo tiempo, como se olvida una palabra que se tiene en la punta de la lengua. Y detrás de la reja, la cueva. Y la ladera. Todo se iba volviendo una cosa que no se podía mirar dos veces.
+No a moverse. A *dejar de ser*. No había otra manera de decirlo. La reja seguía allí. Los barrotes seguían allí. Pero de repente, mirándolos, uno no sabía qué eran. Uno no sabía que eran una reja. Uno los veía y los olvidaba, al mismo tiempo, como se olvida una palabra que se tiene en la punta de la lengua. Y detrás de la reja, la cueva. Y la ladera. Todo se iba volviendo una cosa que no se podía mirar dos veces.
 
 Luego la novena.
 
 La cantó.
 
-* * *
+---
 
 Al terminar, Odelia abrió los ojos.
 
@@ -192,7 +192,7 @@ Y se rio. De alivio.
 
 —Ha funcionado.
 
-* * *
+---
 
 Esa noche, en la posada del camino del Mercado, Odelia intentó acordarse de su abuela.
 
@@ -208,11 +208,11 @@ Pero lo apuntó. En un cuaderno pequeño. Con letra clara.
 
 *Primer Rincón. El valle negro. La cara de la abuela.*
 
-* * *
+---
 
 Iselde Hask tenía veinticinco años cuando se casó con el Emperador, y le dijo que sí en la segunda frase.
 
-La primera fue no.
+La primera fue *no*.
 
 Odelia lo vio. Estaba en la colina en el verano del 615, entre el cuarto Rincón y el quinto, y el Emperador le había pedido que cantara la lluvia mansa en la boda, si la había. Así que estaba en el jardín del palacio, debajo de la higuera, la tarde en que el Emperador se lo preguntó.
 
@@ -236,7 +236,7 @@ Iselde Hask lo miró mucho rato.
 
 —Sí —dijo.
 
-* * *
+---
 
 Se casaron en otoño. En la plaza. Sin la corona de once libras, porque Iselde dijo que no se casaba con una corona, y con el aro de hierro, que Iselde dijo que sí.
 
@@ -250,28 +250,27 @@ Dentro había una piedra blanca. Pequeña. Pulida. De las del muro.
 
 Que no latía.
 
-* * *
+---
 
 Los Rincones siguieron.
 
-El de las islas, en el 613. El de las montañas grises, en el 614. El del bosque viejo cerca de Nix, en el 615. El del mar, que era un islote con una torre, en el 616. El del desierto del este, en el 617, a tres días de Rinkel, con un elfo loco que vino a verlos desde la ciudad y que tocó la reja antes de que Odelia cantara y dijo aquí lloró mucha gente y luego dejó de llorar.
+El de las islas, en el 613. El de las montañas grises, en el 614. El del bosque viejo cerca de Nix, en el 615. El del mar, que era un islote con una torre, en el 616. El del desierto del este, en el 617, a tres días de Rinkel, con un elfo loco que vino a verlos desde la ciudad y que tocó la reja antes de que Odelia cantara y dijo *aquí lloró mucha gente y* *luego dejó de llorar*.
 
 Y el de las montañas rojas, en el 618. El último.
 
 El cuaderno de Odelia decía:
 
-*Primer Rincón. El valle negro. La cara de la abuela.*  
+*Primer Rincón. El valle negro. La cara de la abuela.*
+
 *Segundo. Las islas. El color de mi primera casa.*
 
 *Tercero. Las montañas grises. El nombre de mi primer alumno.*
 
-*Cuarto. El bosque viejo. El olor de Tawarsinan.*  
-*Quinto. El mar. Por qué vine a la colina.*  
-*Sexto. El desierto. La voz de mi madre.*
+*Cuarto. El bosque viejo. El olor de Tawarsinan.* *Quinto. El mar. Por qué vine a la colina.* *Sexto. El desierto. La voz de mi madre.*
 
 Y no decía nada más. Porque el séptimo se lo llevó de otra manera.
 
-* * *
+---
 
 Fue en una cueva alta. En las montañas rojas. Donde el aire olía a huevo podrido y salía humo de las grietas.
 
@@ -289,7 +288,7 @@ Lanther no se movió. Odelia cantó.
 
 Las nueve notas.
 
-* * *
+---
 
 Cuando terminó, Odelia abrió los ojos.
 
@@ -303,7 +302,7 @@ Lo que no sabía era su nombre.
 
 —¿Cómo me llamo? —dijo.
 
-* * *
+---
 
 Lanther se secó la cara con la manga.
 
@@ -327,22 +326,22 @@ Lanther tardó en contestar.
 
 —Desde siempre —dijo—. Te lo vamos a decir todas las mañanas. Hasta que te lo creas.
 
-* * *
+---
 
 Se lo dijeron.
 
-Tibbet, todas las mañanas, en la Escuela de las Formas, a la hora de la lluvia mansa, se asomaba a la puerta del aula y decía buenos días, maestra Odelia. Con su voz de puerta. Durante doscientos años.
+Tibbet, todas las mañanas, en la Escuela de las Formas, a la hora de la lluvia mansa, se asomaba a la puerta del aula y decía *buenos días, maestra Odelia*. Con su voz de puerta. Durante doscientos años.
 
-Ella contestaba buenos días, Tibbet. Que de Tibbet sí se acordaba.
+Ella contestaba *buenos días, Tibbet*. Que de Tibbet sí se acordaba.
 
-Tardó veinte años en contestar buenos días sin mirarse la palma de la mano.
+Tardó veinte años en contestar *buenos días* sin mirarse la palma de la mano.
 
-* * *
+---
 
 En el Diario no hay nada de esto. El Diario de esos años está en blanco. Érandiul no escribió entre el 609 y el 702.
 
 En el registro de la biblioteca, el de Amael, hay una línea del 618, con la letra de Nerea Vell:
 
-*Ha vuelto la maestra de las formas de un viaje largo. Le ha preguntado a Érandiul por su nombre. Él se lo ha dicho. Ella le ha dado las gracias como si le hubiera prestado un libro.*
+*Ha vuelto la maestra de las formas de un viaje largo. Le ha preguntado a Érandiul* *por su nombre. Él se lo ha dicho. Ella le ha dado las gracias como si le hubiera prestado* *un libro.*
 
-Y en el cuaderno de Odelia, debajo del sexto Rincón, con otra letra —la de una pelirroja que escribía cuidadoso, como le había enseñado un niño de once años— hay una línea más: Séptimo. Las montañas rojas. Su nombre. Se lo devolvemos cada mañana. Que conste.
+Y en el cuaderno de Odelia, debajo del sexto Rincón, con otra letra —la de una pelirroja que escribía cuidadoso, como le había enseñado un niño de once años— hay una línea más: *Séptimo. Las montañas rojas. Su nombre. Se lo devolvemos cada mañana. Que conste.*

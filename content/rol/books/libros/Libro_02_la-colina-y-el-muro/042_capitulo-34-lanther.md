@@ -1,10 +1,10 @@
-## Capítulo 34 · Lanther
+# Capítulo 34 · Lanther
 
 *Banderbill. La noche del último día de invierno del año 42 de la Nueva Era.*
 
 Se puso de parto a medianoche, y a medianoche y cuarto oyó que algo entraba por el río.
 
-Las dos cosas a la vez. Como en un mal cuento de juglar. Lo pensó entre dos dolores, tumbada en la cama grande del palacio, la de su madre, con las manos agarradas a los barrotes de la cabecera y la comadrona de Pisor diciéndole que respirara, que empujara todavía no, que respirara: lo pensó con una claridad absurda. Si esto lo escribiera Livia, nadie se lo creería.
+Las dos cosas a la vez. Como en un mal cuento de juglar. Lo pensó entre dos dolores, tumbada en la cama grande del palacio, la de su madre, con las manos agarradas a los barrotes de la cabecera y la comadrona de Pisor diciéndole que respirara, que empujara todavía no, que respirara: lo pensó con una claridad absurda. *Si esto lo escribiera Livia,* *nadie se lo creería.*
 
 Luego vino el dolor y no pensó nada.
 
@@ -22,11 +22,11 @@ La había oído una vez, la mañana del destierro, en el puente de troncos, entr
 
 —Que llamen a Hakon.
 
-* * *
+---
 
 Nadie sabía quién era el padre. Eso decía la ciudad, y la ciudad lo decía con gusto.
 
-Lo habían sabido en otoño, cuando ya no se podía esconder: la reina, la de las piedras, la que no envejecía, la que no se casaba, estaba preñada. Y no había marido. Y no había prometido. Y no había, que se supiera, nadie. Las tabernas del puerto habían echado las cuentas hacia atrás, como las echan siempre las tabernas, y habían llegado a la primavera, y en primavera había habido un desfile de la Guardia por el aniversario del duelo, y habían decidido que era un soldado. Uno cualquiera. Uno de los que desfilaron. Un desconocido. Así lo decían, con un guiño. Un soldado desconocido. Y como cada uno se imaginaba al que quería, todo el mundo estaba contento.
+Lo habían sabido en otoño, cuando ya no se podía esconder: la reina, la de las piedras, la que no envejecía, la que no se casaba, estaba preñada. Y no había marido. Y no había prometido. Y no había, que se supiera, nadie. Las tabernas del puerto habían echado las cuentas hacia atrás, como las echan siempre las tabernas, y habían llegado a la primavera, y en primavera había habido un desfile de la Guardia por el aniversario del duelo, y habían decidido que era un soldado. Uno cualquiera. Uno de los que desfilaron. Un desconocido. Así lo decían, con un guiño. *Un soldado desconocido.* Y como cada uno se imaginaba al que quería, todo el mundo estaba contento.
 
 Olbrecht Saur había dicho en el Consejo que era una vergüenza. Una reina. Sin marido. Como una moza de taberna. Lanther lo había mirado desde la cabecera de la mesa, con la mano en la tripa, y había dicho:
 
@@ -36,13 +36,13 @@ Olbrecht se había puesto del color de un jamón cocido.
 
 —Pues entonces —había dicho Lanther— no hay más que hablar.
 
-Lo sabían cuatro. Ella. Teo. Livia, que lo había oído en la manera en que Lanther pronunciaba la palabra pan. Y Sein, que lo había visto y lo había tachado.
+Lo sabían cuatro. Ella. Teo. Livia, que lo había oído en la manera en que Lanther pronunciaba la palabra *pan*. Y Sein, que lo había visto y lo había tachado.
 
 Teo estaba ahora en la puerta del dormitorio. Fuera. Con el delantal puesto todavía, porque había venido corriendo desde la panadería en cuanto le dijeron que la reina se había puesto de parto, y nadie se había extrañado, porque Teo Ruald le llevaba el pan al palacio todas las mañanas desde hacía diez años. Estaba en el pasillo, sentado en un banco, con las manos llenas de harina entre las rodillas, como Tam en el escalón de la casa de libros.
 
 Lanther lo oía. Lo oía latir. Tenía más miedo que ella.
 
-* * *
+---
 
 Hakon llegó al cuarto de hora. Viejo ya: cincuenta y cinco años, la barba trenzada en dos y casi blanca, la cicatriz de la ceja medio perdida entre las arrugas. Seguía siendo capitán de la Guardia porque nadie se atrevía a decirle que no lo era.
 
@@ -78,7 +78,7 @@ Lanther lo oyó bajar las escaleras. Despacio, por las rodillas. Lo oyó cruzar 
 
 No lo oyó nunca más subirlas.
 
-* * *
+---
 
 La ciudad se despertó a trozos.
 
@@ -96,13 +96,13 @@ Hacia la plaza.
 
 Hacia la gente.
 
-Y la gente no sabía qué hacer. Porque la gente que sabía qué hacer, la que sabía decir te oigo, vete mirando hacia arriba, la que lo había hecho la Noche del Dolor en las playas con los braseros, se había ido. La había echado su hermano. La tenía ahora Pim. Era la que tiraba.
+Y la gente no sabía qué hacer. Porque la gente que sabía qué hacer, la que sabía decir *te oigo, vete* mirando hacia arriba, la que lo había hecho la Noche del Dolor en las playas con los braseros, se había ido. La había echado su hermano. La tenía ahora Pim. Era la que tiraba.
 
 —Empuje —dijo la comadrona—. Ahora sí, majestad. Ahora. Empuje.
 
 Lanther empujó.
 
-* * *
+---
 
 Los elfos salieron de sus casas los primeros. Lo oyó también.
 
@@ -112,7 +112,7 @@ Y sabían lo que era un muerto.
 
 Lanther oyó a Érandiul. Su voz. Gritando algo en su lengua, en la del bosque, desde lo alto de la torre de la puerta norte. Y oyó a los elfos contestarle desde las calles, desde los tejados. Y oyó lo que hacían.
 
-No decían te oigo, vete. No sabían esa fórmula. Pero sabían otra. La de su pueblo. La palabra para los muertos. El sitio donde los árboles no saben tu nombre. La decían mirando hacia arriba, hacia las estrellas, con aquella voz baja, de bosque, que hacía llorar a la gente cuando tocaban las flautas de hueso.
+No decían *te oigo, vete*. No sabían esa fórmula. Pero sabían otra. La de su pueblo. La palabra para los muertos. *El sitio donde los árboles no saben tu nombre.* La decían mirando hacia arriba, hacia las estrellas, con aquella voz baja, de bosque, que hacía llorar a la gente cuando tocaban las flautas de hueso.
 
 Y los muertos grises se detenían. Levantaban la cabeza. Miraban hacia arriba también, desconcertados, como quien oye su nombre en una lengua que no conoce y lo reconoce igual.
 
@@ -122,19 +122,19 @@ No todos. No deprisa. Pero se iban.
 
 Y donde los elfos no llegaban, llegaba Livia.
 
-La oyó en la plaza de la fuente. Su voz de cincuenta y un años, ronca, de maestra de escuela. Gritando. No a los muertos: a la gente. ¡Mirad hacia arriba! ¡Decidles su nombre! ¡Su nombre de fuera, el que sepáis! ¡Hacia arriba! ¡Con cariño! ¡Como en la víspera del día más corto! ¡Como en la fuente!
+La oyó en la plaza de la fuente. Su voz de cincuenta y un años, ronca, de maestra de escuela. Gritando. No a los muertos: a la gente. *¡Mirad hacia arriba! ¡Decidles su nombre!* *¡Su nombre de fuera, el que sepáis! ¡Hacia arriba! ¡Con cariño! ¡Como en la víspera del* *día más corto! ¡Como en la fuente!*
 
 Y la gente, la de la colina, la que llevaba doce años yendo a la fuente la víspera del día más corto a decir los nombres de sus muertos mirando hacia arriba, sin saber por qué, porque era una costumbre, porque lo hacía la reina, porque lo hacía su padre, se acordó.
 
 Y empezó a decirlos.
 
-Lanther lo oyó subir desde la plaza. Cientos de voces. Torpes. Asustadas. Diciendo nombres. Mamá. Abuelo. Hilde. Tío Arnulf. Mi niña. Mi Nella. Mirando hacia arriba, hacia las estrellas, hacia el humo de los incendios, hacia donde fuera que estuviera arriba aquella noche.
+Lanther lo oyó subir desde la plaza. Cientos de voces. Torpes. Asustadas. Diciendo nombres. *Mamá. Abuelo. Hilde. Tío Arnulf. Mi niña. Mi Nella.* Mirando hacia arriba, hacia las estrellas, hacia el humo de los incendios, hacia donde fuera que estuviera arriba aquella noche.
 
-Su hermano los había echado a todos. A los que oían. Había prohibido la magia. Lo que no se cree, no se teme.
+Su hermano los había echado a todos. A los que oían. Había prohibido la magia. *Lo* *que no se cree, no se teme.*
 
 No había podido prohibir la fuente.
 
-* * *
+---
 
 Pim entró en el palacio cuando la cabeza ya estaba fuera.
 
@@ -146,7 +146,7 @@ Teo se levantó. Lanther lo oyó levantarse. Lo oyó coger algo; no tenía espad
 
 —No —dijo Teo.
 
-Pim lo miró. Lanther no lo veía, pero lo oyó mirar. Lo oyó reconocerlo. El hijo del panadero. El de Ruald. El que tenía cuatro años cuando yo lo llevaba a hombros en la playa.
+Pim lo miró. Lanther no lo veía, pero lo oyó mirar. Lo oyó reconocerlo. *El hijo del* *panadero. El de Ruald. El que tenía cuatro años cuando yo lo llevaba a hombros en la* *playa.*
 
 —Apártate, Teo.
 
@@ -158,7 +158,7 @@ Pim lo miró. Lanther no lo veía, pero lo oyó mirar. Lo oyó reconocerlo. El h
 
 Lanther empujó.
 
-* * *
+---
 
 No supo nunca lo que pasó en el pasillo. Lo oyó. No lo vio. Lo oyó como se oye una tormenta desde dentro de una casa: el golpe, el grito, el ruido de la pala contra la piedra. Teo gritando. Pim sin gritar. Un tirón, hondo, el de una raíz que se arranca, pero no hacia Teo: hacia otro sitio. Hacia el cementerio. Hacia el pozo del patio. Hacia algo muerto que había por allí cerca.
 
@@ -188,11 +188,11 @@ Lanther lo miró. Desde la cama. Con las piernas abiertas, empapada de sudor y d
 
 Pim levantó la mano.
 
-* * *
+---
 
 La nombró.
 
-Lanther lo notó. Notó el tirón. No en el cuerpo; más adentro. En el sitio donde se tiene el nombre. Lanther. Con hambre. Con la boca vuelta hacia sí mismo. Lanther, ven. Ven. Eres mía.
+Lanther lo notó. Notó el tirón. No en el cuerpo; más adentro. En el sitio donde se tiene el nombre. *Lanther.* Con hambre. Con la boca vuelta hacia sí mismo. *Lanther, ven.* *Ven. Eres mía.*
 
 Y el nombre se le cayó.
 
@@ -210,7 +210,7 @@ Lanther lo vio entenderlo. Lo vio en la calavera: un temblor, una duda. El tiró
 
 Y entonces miró al niño.
 
-* * *
+---
 
 Lo supo antes de que lo hiciera. Lo oyó decidirlo. En el sitio por debajo de las palabras.
 
@@ -222,11 +222,11 @@ El de Lanther no había salido del todo.
 
 Y Pim levantó la mano otra vez. Hacia la cama. Hacia abajo. Hacia el niño. Y abrió la boca sin labios.
 
-*Si no puedo tener lo que lleva ella, tendré lo que lleva él. Que es lo mismo. Que es la misma sangre.*
+*Si no puedo tener lo que lleva ella, tendré lo que lleva él. Que es lo mismo. Que es* *la misma sangre.*
 
 Lanther empujó.
 
-Con todo. Con los dos corazones. Con un grito que no supo que tenía, que salió de ella como había salido la palabra basta en el valle negro, y que llenó el palacio de pared a pared y bajó por las escaleras y llegó al patio y a la plaza y a la fuente.
+Con todo. Con los dos corazones. Con un grito que no supo que tenía, que salió de ella como había salido la palabra *basta* en el valle negro, y que llenó el palacio de pared a pared y bajó por las escaleras y llegó al patio y a la plaza y a la fuente.
 
 Y el niño salió.
 
@@ -242,7 +242,7 @@ No lo había pensado. No lo tenía pensado. Le salió entero, como le salían la
 
 Lo que será.
 
-* * *
+---
 
 Pim nombró al niño en el mismo instante.
 
@@ -274,7 +274,7 @@ Y le dijo, mirando hacia arriba, hacia el techo, hacia el cielo que había detr�
 
 —Te oigo, Pim. Vete.
 
-* * *
+---
 
 No era un muerto. No se fue al sol. No se fue a ningún sitio de los que van los muertos.
 
@@ -292,13 +292,13 @@ Los que no se rindieron, cayeron.
 
 Hasta el último.
 
-Eso lo escribió el elfo en su cuaderno. Luchamos arduamente, elfos y humanos, hasta que el último invasor cayó muerto al suelo.
+Eso lo escribió el elfo en su cuaderno. *Luchamos arduamente, elfos y humanos,* *hasta que el último invasor cayó muerto al suelo.*
 
 No era verdad. El último no cayó. El último se fue por el río, sin cara, llorando. Lanther lo supo y no se lo dijo a nadie. A la mañana siguiente, en la orilla del río, encontraron un cadáver con la cara de hueso, quemado, irreconocible, y la ciudad decidió que era el jefe de los brujos.
 
 Era Bram.
 
-* * *
+---
 
 Teo entró en la habitación cuando ya amanecía. Con un brazo de sal.
 
@@ -322,13 +322,13 @@ Este no.
 
 —Amael —dijo.
 
-Teo lo repitió, bajito. Amael. Le gustó; Lanther lo oyó gustarle.
+Teo lo repitió, bajito. *Amael.* Le gustó; Lanther lo oyó gustarle.
 
 —¿Qué quiere decir?
 
 —No lo sé —dijo Lanther—. Me lo ha dicho él.
 
-* * *
+---
 
 Hakon Brand murió aquella noche en el puente del río. El de piedra, el que cruzaba el cauce justo donde entraba en la ciudad bajo el muro. Lo encontraron por la mañana, sentado en el pretil, con la espada del oso en la mano y una pierna de sal hasta la rodilla. Tenía alrededor nueve formas de sal rotas y cuatro desterrados muertos. Lo había matado uno de los muertos grises del cementerio, de los que tiraban los de Pim, con una piedra de tumba, por la espalda.
 

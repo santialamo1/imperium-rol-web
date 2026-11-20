@@ -1,22 +1,22 @@
-## Capítulo 7 · Bander
+# Capítulo 7 · Bander
 
 *La torre cuadrada del palacio de Banderbill. Primavera del año 27.*
 
 Los muertos le hablaban más alto por la noche, y por eso Bander Bhargaras había dejado de dormir de noche hacía veinte años.
 
-Dormía de día. A ratos. Con la cara vuelta hacia la ventana, para que el sol le diera en los párpados y le enrojeciera la oscuridad, porque había descubierto, en la cubierta de la Tozuda, en el primer amanecer después de la Garganta, que cuando el sol le daba en la cara los muertos se callaban un poco. No del todo. Un poco. Como se calla una plaza cuando pasa alguien importante. Luego volvían. Pero en ese silencio pequeño, de unas pocas horas, conseguía dormir.
+Dormía de día. A ratos. Con la cara vuelta hacia la ventana, para que el sol le diera en los párpados y le enrojeciera la oscuridad, porque había descubierto, en la cubierta de la *Tozuda*, en el primer amanecer después de la Garganta, que cuando el sol le daba en la cara los muertos se callaban un poco. No del todo. Un poco. Como se calla una plaza cuando pasa alguien importante. Luego volvían. Pero en ese silencio pequeño, de unas pocas horas, conseguía dormir.
 
 Por la noche escuchaba.
 
 Escuchaba a los muertos de la colina, que eran pocos, porque en Banderbill se decían los nombres cada invierno, y casi todos los que morían se iban hacia arriba en la primera víspera del día más corto. Pero siempre quedaba alguno. Un niño que se ahogaba en el río en verano y cuya madre no podía decir su nombre sin romperse. Un viejo fiordeño que había muerto solo en su casa y al que nadie había echado de menos hasta la primavera. Esos se quedaban. Rondaban. Venían a la torre cuadrada como venían a él desde que tenía cuatro años, como las polillas a la vela, y se sentaban en el suelo junto a su cama, y le contaban cosas.
 
-Él los escuchaba. Les decía te oigo. Y cuando estaban listos, les decía vete.
+Él los escuchaba. Les decía *te oigo*. Y cuando estaban listos, les decía *vete*.
 
 Escuchaba también a los del mar, a los que estaban más allá de la bahía desde hacía siglos. Esos no venían. Pero se les oía, de noche, como se oye el mar desde dentro de una caracola: un murmullo enorme, triste, sin palabras.
 
 Y escuchaba, desde hacía veintisiete años, otra cosa.
 
-Una voz. Una sola. Lejos, muy lejos, al otro lado del mar, en el oeste. Una voz de hombre, cansada, que no le hablaba a él pero que él oía, igual que se oye en una casa a alguien que habla solo en otra habitación. No entendía las palabras. Casi nunca. A veces, muy de tarde en tarde, se le escapaba alguna. Un nombre. Seren. Una frase. No sé qué hago aquí.
+Una voz. Una sola. Lejos, muy lejos, al otro lado del mar, en el norte. Una voz de hombre, cansada, que no le hablaba a él pero que él oía, igual que se oye en una casa a alguien que habla solo en otra habitación. No entendía las palabras. Casi nunca. A veces, muy de tarde en tarde, se le escapaba alguna. Un nombre. *Seren.* Una frase. *No sé qué hago* *aquí.*
 
 Desde el otoño, la voz estaba más cerca.
 
@@ -24,7 +24,7 @@ Desde hacía una semana, la oía todas las noches. Y había cambiado. Ya no habl
 
 Contaba barcos.
 
-* * *
+---
 
 —Siéntate —le dijo a su hijo—. Y cierra la puerta.
 
@@ -58,7 +58,7 @@ Era un pliego viejo de papel de trapo de Concordia, gastado por los dobleces, co
 
 Bhargaras lo cogió. Lo desdobló con cuidado. Lo leyó en voz baja, moviendo los labios, como leía siempre, porque le había costado mucho aprender a leer y nunca había llegado a hacerlo deprisa.
 
-*Alteza: tienes algo dentro que no es tuyo. No sé qué es. No he querido saberlo. Pero tú sí eres tuyo. No dejes que nadie te convenza de lo contrario. Ni siquiera lo que tienes dentro. — O.*
+*Alteza: tienes algo dentro que no es tuyo. No sé qué es. No he querido saberlo.* *Pero tú sí eres tuyo. No dejes que nadie te convenza de lo contrario. Ni siquiera lo que* *tienes dentro. — O.*
 
 Levantó los ojos.
 
@@ -66,19 +66,19 @@ Levantó los ojos.
 
 —Odrun Hask. Una Custodia de la Academia, en Concordia. La que me enseñó a escuchar. —Bander se acomodó en la almohada—. Me dejó esa carta debajo de la puerta la noche antes de que yo saliera de la torre por primera vez. Tenía dieciséis años. Me iba a escuchar a los muertos de las escaleras de servicio, a escondidas, y ella lo sabía. Llevaba doce años sabiéndolo. No me lo impidió. Me dejó eso. —Hizo una pausa—. La mató la niebla once años después. En el patio de la Academia. Diciendo nombres.
 
-—Tienes algo dentro que no es tuyo —leyó—. ¿Qué quería decir?
+—*Tienes algo dentro que no es tuyo* —leyó—. ¿Qué quería decir?
 
 Bander no contestó enseguida.
 
 Fuera, el sol se estaba poniendo sobre el mar y sobre la hilera de braseros azules de Mara, encendidos ya aunque todavía era de día, porque Mara no se fiaba de nada.
 
-Iba a decírselo. Lo había decidido esa mañana. Lo había decidido muchas mañanas, durante muchos años, y luego, cada vez, al ver la cara de su hijo, se había echado atrás. No oye, se decía. No lo va a entender. No lo va a creer. Le va a dar miedo, y él no sabe qué hacer con el miedo, solo sabe ponerle una espada delante. Así que se había callado.
+Iba a decírselo. Lo había decidido esa mañana. Lo había decidido muchas mañanas, durante muchos años, y luego, cada vez, al ver la cara de su hijo, se había echado atrás. *No* *oye*, se decía. *No lo va a entender. No lo va a creer. Le va a dar miedo, y él no sabe qué* *hacer con el miedo, solo sabe ponerle una espada delante.* Así que se había callado.
 
 Pero los barcos estaban cerca. La voz contaba. Y la piedra de hielo del costado estaba cada noche un poco más fría.
 
 —Quería decir —dijo— que llevo un trozo del que tira.
 
-* * *
+---
 
 Se lo contó todo. O casi todo. Lo que se podía contar en una tarde, a un hijo que no oye, desde una cama.
 
@@ -140,7 +140,7 @@ Bhargaras no se sentó. Pero se quedó quieto.
 
 —Por la carta.
 
-—Tú sí eres tuyo —dijo Bander—. Eso es lo que importa, hijo. No lo que llevas dentro. Todos llevamos algo dentro que no es nuestro. Tu madre lleva a su tía Brenna, que se murió de vieja en una casa de troncos mirando al mar, y a su padre, que se ahogó por idiota, y a su tío Gorm, que se murió de viejo, y los lleva tan dentro que a veces, cuando grita, grita con la voz de Gorm. Tobías lleva a su abuela de los fiordos. Livia lleva a Lucius, que se murió hace mil años. Tú me llevarás a mí. —Sonrió—. Lo que llevas dentro no decide quién eres. Decides tú. Eso es lo único que me enseñó Odrun que de verdad importaba. Lo demás, lo de los nombres, lo de escuchar, lo de soltar, todo eso lo podía haber aprendido de cualquiera. Eso no.
+—*Tú sí eres tuyo* —dijo Bander—. Eso es lo que importa, hijo. No lo que llevas dentro. Todos llevamos algo dentro que no es nuestro. Tu madre lleva a su tía Brenna, que se murió de vieja en una casa de troncos mirando al mar, y a su padre, que se ahogó por idiota, y a su tío Gorm, que se murió de viejo, y los lleva tan dentro que a veces, cuando grita, grita con la voz de Gorm. Tobías lleva a su abuela de los fiordos. Livia lleva a Lucius, que se murió hace mil años. Tú me llevarás a mí. —Sonrió—. Lo que llevas dentro no decide quién eres. Decides tú. Eso es lo único que me enseñó Odrun que de verdad importaba. Lo demás, lo de los nombres, lo de escuchar, lo de soltar, todo eso lo podía haber aprendido de cualquiera. Eso no.
 
 Luego Bhargaras se agachó. Recogió el taburete del suelo. Lo puso derecho. Se sentó.
 
@@ -154,7 +154,7 @@ Dobló la carta en cuatro, por los dobleces de siempre, con mucho cuidado. Se la
 
 Bhargaras se quedó mirando el papel doblado un rato largo. Luego lo guardó en el jubón, en el bolsillo interior, el de la izquierda. Encima del corazón.
 
-* * *
+---
 
 —Juega conmigo —dijo Bander.
 

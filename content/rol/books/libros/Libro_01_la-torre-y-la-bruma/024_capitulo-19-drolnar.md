@@ -1,4 +1,4 @@
-## Capítulo 19 · Drolnar
+# Capítulo 19 · Drolnar
 
 *Concordia. Año 88.*
 
@@ -10,7 +10,7 @@ La había conocido en el otoño del año ochenta y seis, como había anunciado e
 
 Pero Genieveve se arrodilló delante de Ilse, a su altura, y le preguntó qué estaba leyendo.
 
-—Las Fábulas del Bosque, majestad —dijo Ilse, que no tenía miedo de nada—. La del zorro que engaña al oso. Pero me parece que el zorro es un tramposo y que el oso tendría que haberle partido la cara.
+—Las *Fábulas del Bosque*, majestad —dijo Ilse, que no tenía miedo de nada—. La del zorro que engaña al oso. Pero me parece que el zorro es un tramposo y que el oso tendría que haberle partido la cara.
 
 Genieveve se echó a reír. Una risa limpia, sorprendida, que Drolnar no le había oído nunca en doce años.
 
@@ -22,7 +22,7 @@ Drolnar no tenía valentía. Pero no lo dijo.
 
 En las noches, en su cuarto del ala de los guardias, miraba a su hija dormir con el vestido azul colgado en la silla y el pájaro cantor en su jaula de plata, y pensaba en las otras jaulas, las de madera, las de las manos pequeñas y morenas. Y no sabía qué pensar. Y le pedía consejo a Merin, y Merin no contestaba.
 
-* * *
+---
 
 La noche del catorce de la luna de los vientos del año ochenta y ocho, Ilse no volvió a casa.
 
@@ -92,7 +92,7 @@ Ella sonrió. Una sonrisa extraña, agotada, casi aliviada.
 
 Drolnar Arenar le clavó la espada en el pecho, bajo el esternón, hasta la empuñadura.
 
-Ella no gritó. Se aferró a sus hombros, como Ilse se aferraba a él cuando tenía pesadillas. Exhaló. Una exhalación larga, muy larga, mucho más larga de lo que un cuerpo humano puede exhalar, y Drolnar vio salir de su boca un hilo de vapor blanco, lechoso, que se elevó hacia la cúpula del salón, y se arremolinó, y luego, como si algo invisible tirara de él, salió por una ventana alta y se alejó hacia el noroeste. Hacia la niebla.
+Ella no gritó. Se aferró a sus hombros, como Ilse se aferraba a él cuando tenía pesadillas. Exhaló. Una exhalación larga, muy larga, mucho más larga de lo que un cuerpo humano puede exhalar, y Drolnar vio salir de su boca un hilo de vapor blanco, lechoso, que se elevó hacia la cúpula del salón, y se arremolinó, y luego, como si algo invisible tirara de él, salió por una ventana alta y se alejó hacia el noreste. Hacia la niebla.
 
 La emperatriz de los Treinta y Dos cayó sobre los escalones del trono, junto a la niña que había matado.
 

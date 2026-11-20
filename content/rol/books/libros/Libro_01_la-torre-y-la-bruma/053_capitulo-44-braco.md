@@ -1,4 +1,4 @@
-## Capítulo 44 · Braco
+# Capítulo 44 · Braco
 
 *Desierto de la Niebla, Eufesia. Año 197.*
 
@@ -10,13 +10,13 @@ La segunda era que ganar costaba más de lo que cualquier hombre decente deberí
 
 Y la tercera, la que lo despertaba por las noches con el mechón rubio apretado en el puño, era que él estaba dispuesto.
 
-* * *
+---
 
 —Otra —dijo el capitán Esdras, señalando con la barbilla hacia el sur.
 
 Braco no necesitó mirar. Ya olía el humo.
 
-Era el oasis de Kel-Sahim, o lo había sido hasta esa mañana. Un puñado de palmeras enanas, tres pozos, cuarenta tiendas de pelo de camello. Un clan eufesio de los que Braco había aprendido a llamar libres: los que no seguían al Padre de la Bruma, los que habían huido de él hacia el sur, hacia el borde del desierto, donde la niebla era más fina y el ojo del cielo se dejaba ver algunos mediodías. No eran enemigos. No eran aliados. Eran gente.
+Era el oasis de Kel-Sahim, o lo había sido hasta esa mañana. Un puñado de palmeras enanas, tres pozos, cuarenta tiendas de pelo de camello. Un clan eufesio de los que Braco había aprendido a llamar *libres*: los que no seguían al Padre de la Bruma, los que habían huido de él hacia el sur, hacia el borde del desierto, donde la niebla era más fina y el ojo del cielo se dejaba ver algunos mediodías. No eran enemigos. No eran aliados. Eran gente.
 
 Y eran un problema, porque los muertos los usaban.
 
@@ -36,15 +36,15 @@ Y la guerra no espera a los que pelean.
 
 Esdras no contestó. No hizo falta. El humo hablaba por él.
 
-Braco cerró los ojos. Vio, como cada noche, la cara de Helen Dorian. Prométeme que lo entenderás.
+Braco cerró los ojos. Vio, como cada noche, la cara de Helen Dorian. *Prométeme* *que lo entenderás.*
 
 Lo había entendido. Ese era el problema. Lo entendía todo. Entendía a los clanes libres que no querían abandonar a sus muertos. Entendía al Padre de la Bruma, que solo quería que le devolvieran a los suyos. Entendía a sus propios soldados, que habían visto a sus hermanos levantarse grises de entre los muertos y que ya no distinguían entre un eufesio libre y uno muerto, porque todos hablaban la misma lengua y todos tenían el mismo acento cantarín.
 
 Entenderlo todo no lo hacía más fácil. Lo hacía imposible. Y aun así, cada mañana, se levantaba y daba la orden.
 
-—Salad los pozos —dijo—. Seguimos hacia el oeste.
+—Salad los pozos —dijo—. Seguimos hacia el este.
 
-* * *
+---
 
 La Marcha de la Sal, la llamarían después los cronistas. Veinte mil hombres adentrándose en el corazón del Desierto de la Niebla, donde ningún ejército del sur había entrado jamás.
 
@@ -60,7 +60,7 @@ No eran como el emperador Henricus. Ninguno lo era. Ninguno podía liberar a dos
 
 Al decimosexto día, llegaron a Ummat.
 
-* * *
+---
 
 El pozo de Ummat era el más antiguo del desierto, después del Pozo Primero. Los pergaminos de Nadia lo mencionaban: allí había defendido Loth el último agua dulce de la región, ochenta y tres años atrás, mientras las Madres se llevaban a su mujer y a su hija.
 
@@ -110,7 +110,7 @@ La Custodia dio un paso adelante. Cerró los ojos. Escuchó. Durante un largo ra
 
 —Excepto él. —Hilde abrió los ojos. Estaban llenos de lágrimas—. Majestad, ella... ella está ahí dentro. Está despierta. Lleva despierta todo este tiempo. Y lo único que dice, lo único, es...
 
-—No tires tanto —dijo Braco.
+—*No tires tanto* —dijo Braco.
 
 Hilde lo miró con asombro. Braco no explicó cómo lo sabía. Los pergaminos de Nadia. Los había leído tantas veces.
 
@@ -118,7 +118,7 @@ La mujer del velo levantó la daga.
 
 Y la niebla, alrededor del círculo de columnas, explotó.
 
-* * *
+---
 
 Salieron de todas partes. De la arena, del pozo, de detrás de las columnas. No eran miles. Eran decenas de miles. Todo el ejército de la niebla, el que Braco llevaba treinta y dos años diezmando, el que había estado esperando en el corazón del desierto a que el viejo emperador llegara hasta allí, hasta la jarra, hasta el cebo.
 
@@ -136,7 +136,7 @@ Ella ladeó la cabeza.
 
 La mujer del velo no contestó. Pero Hilde Tamm, a su lado, gritó.
 
-—¡Majestad! ¡El oeste! ¡Lo oigo! ¡Está en el oeste! Está... —La Custodia se llevó las manos a la cabeza—. Está cantando. Está llamando. Está llamando a los muertos de... de...
+—¡Majestad! ¡El este! ¡Lo oigo! ¡Está en el este! Está... —La Custodia se llevó las manos a la cabeza—. Está cantando. Está llamando. Está llamando a los muertos de... de...
 
 —¿De dónde?
 
@@ -178,9 +178,9 @@ Hilde Tamm cogió la jarra de sal negra con las dos manos. Estaba tibia. Latía 
 
 Y la estrelló contra el brocal del pozo.
 
-* * *
+---
 
-En el oeste, a dos leguas de distancia, en lo alto de una duna envuelta en niebla, Loth Sahr-Ennet dejó de cantar y gritó.
+En el este, a dos leguas de distancia, en lo alto de una duna envuelta en niebla, Loth Sahr-Ennet dejó de cantar y gritó.
 
 No era un grito humano. Era el grito de la bruma, el aullido inmenso que había hecho temblar el desierto la noche en que tiró de Seren por primera vez. Lo oyeron en el campamento imperial, a dos leguas. Lo oyeron en los oasis libres del sur. Lo oyeron, según contarían después, hasta en las aldeas de la frontera del río Ceniza, donde los perros se pusieron a aullar y los niños se despertaron llorando.
 
@@ -190,11 +190,11 @@ Todos a la vez. Decenas de miles. Con las armas alzadas, a mitad de un golpe. In
 
 Los demás retrocedieron hacia la niebla. Despacio. Sin dar la espalda.
 
-La mujer del velo fue la última. Antes de desaparecer en el gris, se volvió hacia Braco. Y por segunda vez en su vida, Braco Arenar la vio sacudir levemente la cabeza bajo el velo. Pero esta vez, le pareció, no decía no. Decía otra cosa. Algo que no supo descifrar hasta mucho después, cuando ya era un anciano sentado en un trono, contándole la historia a una muchacha Tiberius de pelo negro que le haría muchas preguntas.
+La mujer del velo fue la última. Antes de desaparecer en el gris, se volvió hacia Braco. Y por segunda vez en su vida, Braco Arenar la vio sacudir levemente la cabeza bajo el velo. Pero esta vez, le pareció, no decía *no*. Decía otra cosa. Algo que no supo descifrar hasta mucho después, cuando ya era un anciano sentado en un trono, contándole la historia a una muchacha Tiberius de pelo negro que le haría muchas preguntas.
 
-Le pareció que decía: gracias.
+Le pareció que decía: *gracias*.
 
-* * *
+---
 
 Braco Arenar no fue al Pozo Primero.
 

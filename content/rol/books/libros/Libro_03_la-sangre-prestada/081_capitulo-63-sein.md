@@ -1,6 +1,6 @@
-## Capítulo 63 · Sein
+# Capítulo 63 · Sein
 
-*La colina de Banderbill, sótano de la biblioteca. Otoño del año 866 de la Nueva Era (259 D.bA).*
+*La colina de Banderbill, sótano de la biblioteca. Otoño del año 866 de la Nueva* *Era (259 D.bA).*
 
 La cuenta tardó diez años y salió un martes, a las cuatro de la madrugada, con una vela que goteaba, y cuando salió Sein la repasó once veces porque no quería que fuera verdad.
 
@@ -8,7 +8,7 @@ Salió igual las once.
 
 *Año 892.*
 
-* * *
+---
 
 Empezó en el 856. La noche que Érandiul desdobló la manga.
 
@@ -24,7 +24,7 @@ Y luego un hueco. Y luego otro número, más grande, rodeado con un círculo.
 
 *3.*
 
-* * *
+---
 
 Sein tardó un año en saber lo que eran.
 
@@ -36,13 +36,13 @@ Y le enseñó el registro. Un rollo de piel de cabra. Con las medidas. Desde Wen
 
 Sein lo leyó.
 
-Año 498: un dedo. Año 600: un dedo y un tercio. Año 680: dos dedos y un tercio. Ilka, en el 680, con el de las gafas mirando. Él mismo. Que entonces había dicho: mil cuatrocientos años para que se rompa.
+*Año 498: un dedo. Año 600: un dedo y un tercio. Año 680: dos dedos y un tercio.* Ilka, en el 680, con el de las gafas mirando. Él mismo. Que entonces había dicho: *mil* *cuatrocientos años para que se rompa*.
 
 Había hecho la cuenta con la velocidad de antes.
 
 Siguió leyendo.
 
-*Año 720: dos dedos y medio. Año 780: dos dedos y dos tercios. Año 840: dos dedos y cinco sextos. Año 856: dos dedos y casi seis sextos.*
+*Año 720: dos dedos y medio. Año 780: dos dedos y dos tercios. Año 840: dos dedos* *y cinco sextos. Año 856: dos dedos y casi seis sextos.*
 
 Sein se quitó las gafas.
 
@@ -50,15 +50,15 @@ Las limpió.
 
 Se las puso.
 
-* * *
+---
 
-—¿Qué pasa? —dijo Wenna. Estaba a su lado. Con el sombrero de ala mala, el que le había hecho Tibbet al final, en el 761, con el 95 torcido.
+—¿Qué pasa? —dijo Wenna. Estaba a su lado. Con el sombrero de ala mala, el que le había hecho Tibbet al final, en el 761, con el *95* torcido.
 
 —Que va más deprisa.
 
 —¿El qué?
 
-—La grieta. —Sein señaló el rollo—. Del 498 al 600, un tercio de dedo en cien años. Del 600 al 680, un dedo en ochenta. Del 680 al 856, otro dedo y casi dos tercios en ciento setenta y seis… —Se calló. Miró los números. Los volvió a mirar—. No. No es así. Va más deprisa a saltos. Hay años que no crece. Y hay años que crece de golpe.
+—La grieta. —Sein señaló el rollo—. Del 498 al 600, un tercio de dedo en cien años. Del 600 al 680, un dedo en ochenta. Del 680 al 856, otro dedo y casi dos tercios en ciento setenta y seis… —Se calló. Miró los números. Los volvió a mirar—. No. No es así. Va más deprisa *a saltos*. Hay años que no crece. Y hay años que crece de golpe.
 
 —¿Qué años?
 
@@ -72,19 +72,19 @@ Sein lo apuntó. Lo supo después, por una carta de Ilan Hask: una cría de yeti
 
 —El 856 —dijo Sein—. Medio dedo. En un año. Medio. —Se le movió la cara—. La isla. La raíz de la plaza.
 
-* * *
+---
 
 Y entonces miró la manga.
 
-La columna de números del margen. 1. 1⅓. 1⅔. 2. 2⅓. Y un hueco. Y un 3 con un círculo.
+La columna de números del margen. *1. 1⅓. 1⅔. 2. 2⅓.* Y un hueco. Y un *3* con un círculo.
 
 Eran las medidas de la grieta.
 
 No las de la Custodia. Las de él. Del que escucha. Que también la medía. Desde lejos. Desde Orac. Que sabía cuánto crecía. Que había apuntado, en el margen del plano del valle negro, con la letra de un escribano paciente, los mismos números que apuntaban las Custodias en un rollo de piel de cabra.
 
-Y que había rodeado el 3 con un círculo.
+Y que había rodeado el *3* con un círculo.
 
-* * *
+---
 
 Sein volvió a la colina.
 
@@ -92,7 +92,7 @@ Tardó nueve años más en hacer la cuenta.
 
 No porque fuera difícil. Porque los saltos no tenían regla. Había que saber cuándo iban a pasar cosas para saber cuándo iba a saltar la grieta. Y nadie sabía cuándo iban a pasar cosas.
 
-Así que hizo otra cuenta. Al revés. No cuándo iban a pasar. Cuándo tenían que pasar para que la grieta llegara a tres dedos.
+Así que hizo otra cuenta. Al revés. No cuándo iban a pasar. Cuándo *tenían* que pasar para que la grieta llegara a tres dedos.
 
 Y se dio cuenta de que el que escucha no esperaba a que la grieta llegara a tres.
 
@@ -104,7 +104,7 @@ Y el que escucha daba golpes en la mesa.
 
 Con paciencia. Uno cada pocos años. Midiendo.
 
-* * *
+---
 
 Esa noche, la del martes, a las cuatro de la madrugada, con la vela goteando, Sein tuvo la cuenta.
 
@@ -120,7 +120,7 @@ Y si la jarra se rompía, lo que había dentro salía.
 
 Y lo que había dentro no era una vida. Era otra cosa. Era lo que la jarra tapaba.
 
-* * *
+---
 
 Bajó al sótano a las cinco. No había nadie.
 
@@ -140,7 +140,7 @@ Ottherius no sabía leer números. Sabía leer cosas. Puso las manos encima del 
 
 Estuvo así mucho rato.
 
-* * *
+---
 
 —Tienes miedo —dijo al fin—. Mucho. Y no te lo crees. Lo has hecho once veces.
 
@@ -168,11 +168,11 @@ Sein se quedó callado.
 
 —Sí.
 
-—Y a Ilan Hask, a Annkör, que tiene una espada que se llama quieto.
+—Y a Ilan Hask, a Annkör, que tiene una espada que se llama *quieto*.
 
 Ottherius no dijo nada.
 
-* * *
+---
 
 —Hay otra cosa —dijo Ottherius. Al rato.
 
@@ -202,7 +202,7 @@ Ottherius tardó en contestar.
 
 —Una vez por cada muerto. Una sola vez cada uno. Un rato. —Ottherius volvió a meterlo en el arcón—. Y la mancha de la esquina es sangre del que escucha. Si la toca otra vez, arde. Así que él no lo puede tocar. Ni leer. Ni oír. Lo escribió con la palabra de arriba.
 
-* * *
+---
 
 Sein miró el arcón.
 
@@ -220,11 +220,11 @@ Luego abrió el libro. El cuadragésimo sexto. Por la columna tercera.
 
 Escribió:
 
-*Año 866. Pergamino de las Almas Caídas, escrito por P. en las salinas en el 655. Lo tiene O. Para L., para el día del Guardián. Una vez por muerto. No decírselo hasta que haga falta.*
+*Año 866. Pergamino de las Almas Caídas, escrito por P. en las salinas en el 655.* *Lo tiene O. Para L., para el día del Guardián. Una vez por muerto. No decírselo hasta que* *haga falta.*
 
 *Hará falta en el 892. Más o menos un año.*
 
-* * *
+---
 
 Subieron juntos a la tercera almena. Al alba. Ella estaba allí.
 
@@ -258,9 +258,9 @@ La pelirroja lo miró.
 
 —No —dijo Sein—. Pero lo apunto. Que hace falta.
 
-Y lo apuntó. Allí mismo. En la almena. Con el libro en las rodillas. En la columna del debe. Debe la colina: un muro que cante en el 892. Al que lo haga cantar. Fecha abierta.
+Y lo apuntó. Allí mismo. En la almena. Con el libro en las rodillas. En la columna del debe. *Debe la colina: un muro que cante en el 892. Al que lo haga cantar. Fecha abierta.*
 
-* * *
+---
 
 Ottherius se quedó en la almena cuando se fueron. Solo. Mirando el norte.
 

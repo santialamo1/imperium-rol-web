@@ -1,10 +1,10 @@
-## DEL DIARIO DE LA FAMILIA ÉRANDIUL (XVII)
+# Del Diario de la familia Érandiul (XVII)
 
-*Años 1417 y 1419. Copiado tal como está, con la letra de la mano izquierda. Las faltas son del original.*
+*Años 1417 y 1419. Copiado tal como está, con la letra de la mano izquierda. Las* *faltas son del original.*
 
 Año 1417 (o 810 D.bA) De la Traición Justiciera y la coronación de Arispar, el sexto.
 
-El rumor de una conspiración era moneda corriente en Banderbill. Se hablaba de un grupo de cinco misteriosos encapuchados, que se escabullían por las noches en los Bosques de Banderbill y que cinco noches atrás habían partido desde Ullathorpe con rumbo incierto. También llegó la noticia de que Joel, en su borrachera, comenzó a exclamar que el Sexto estaba caminando entre los ciudadanos y que la profecía de Illidan se cumpliría.
+El rumor de una conspiración era moneda corriente en Banderbill. Se hablaba de un grupo de cinco misteriosos encapuchados, que se escabullían por las noches en los Bosques de Banderbill y que cinco noches atrás habían partido desde Ullathorpe con rumbo incierto. También llegó la noticia de que Joel, en su borrachera, comenzó a exclamar que el Sexto estaba caminando entre los ciudadanos y que la profecía de Aelthar se cumpliría.
 
 El Parlamento comenzó a tomar en serio estos rumores y decidió tomar cartas en el asunto. Los miembros del consejo enviaron sin éxito escuadrones de soldados a buscar por todo el continente a éstos encapuchados.
 
@@ -20,7 +20,7 @@ La noticia de la abdicación de Hatmie recorrió todo el Imperio e inmediatament
 
 Finalmente, leyó un fragmento del diario de la Doncella de Banderbil. Allí, ella expresaba la necesidad de encontrar un líder fuerte que garantice la paz y los valores del glorioso ejército de la Armada Imperial. Así fue como Almad "Arispar" Larien se declaró Comandante de la Armada y vigésimo tercer Emperador de Banderbill. La profecía se había cumplido. El Sexto, finalmente, se sentó en el trono dorado para dictar el orden y conducir al Imperio a un nuevo destino, que espero sea el correcto.
 
-*(Nota de la copista: «que espero sea el correcto». Es la primera vez en todo el Diario que Érandiul escribe lo que espera. Lo he buscado. No hay otra. Y donde dice «los cuatro soldados» debería decir «los cuatro parlamentarios»; no lo corrijo. Sé quién los mató y cómo, y que no fueron los gnomos, y que nadie los encerró: la puerta de la cabaña se quedó abierta, y en el umbral había cuatro piedrecitas blancas, de río. Érandiul no lo sabe. Lo dejo como él lo sabe. Tampoco corrijo «las viejas dispuestas»: dijo «disputas». Yo estaba en la plaza. — M. V.)*
+*(Nota de la copista: «que espero sea el correcto». Es la primera vez en todo el* *Diario que Érandiul escribe lo que espera. Lo he buscado. No hay otra. Y donde dice «los* *cuatro soldados» debería decir «los cuatro parlamentarios»; no lo corrijo. Sé quién los* *mató y cómo, y que no fueron los gnomos, y que nadie los encerró: la puerta de la cabaña* *se quedó abierta, y en el umbral había cuatro piedrecitas blancas, de río. Érandiul no lo* *sabe. Lo dejo como él lo sabe. Tampoco corrijo «las viejas dispuestas»: dijo «disputas».* *Yo estaba en la plaza. — M. V.)*
 
 Año 1419 (o 812 D.bA). Del incendio de la Biblioteca.
 
@@ -30,4 +30,4 @@ Los caóticos lograron hacerse rápidamente con el control estratégico de Barri
 
 El bibliotecario, Zanaier, viejo amigo mío, derramó sus lágrimas sobre las cenizas de cientos y cientos de libros, escritos, estudios y poesías escritas hacía siglos que ya jamás volverían a ser leídas. Pero yo que lo conocía, sabía que en su interior, se lamentó aún más por la pérdida de un manuscrito muy peculiar y extraño. Triste y enfadado, se dirigió hacia el Palacio para informarle al Emperador el significado de la pérdida de tal pergamino. Al llegar, encontró a Arispar sentado en su trono, leyendo un papel enrollado amarillento. Al verlo, Zanaier se alegró y sonrió. Por obra del destino o vaya a saber uno que razón, Arispar había tomado el pergamino de los Fragmentos de Alkar.
 
-*(Nota de la copista: el trono es de roble. Siempre lo fue. Érandiul lo llama dorado desde esta entrada, y no sé por qué; a lo mejor porque esa tarde entraba el sol por la ventana alta y le daba de lleno. Tampoco se llamaba todavía «de los Fragmentos de Alkar»: ese nombre se lo pusieron los sabios años después, cuando consiguieron leer la primera línea; Érandiul lo añadió encima, con otra tinta. Y dice «vaya a saber uno». Lo dice en el Diario. En la parte de atrás del cuaderno, en las hojas que no se copian, pone otra cosa. Me las dejó leer en el 1438. No las copio. — M. V.)*
+*(Nota de la copista: el trono es de roble. Siempre lo fue. Érandiul lo llama dorado* *desde esta entrada, y no sé por qué; a lo mejor porque esa tarde entraba el sol por la* *ventana alta y le daba de lleno. Tampoco se llamaba todavía «de los Fragmentos de* *Alkar»: ese nombre se lo pusieron los sabios años después, cuando consiguieron leer la* *primera línea; Érandiul lo añadió encima, con otra tinta. Y dice «vaya a saber uno». Lo* *dice en el Diario. En la parte de atrás del cuaderno, en las hojas que no se copian, pone* *otra cosa. Me las dejó leer en el 1438. No las copio. — M. V.)*

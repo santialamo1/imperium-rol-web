@@ -1,4 +1,4 @@
-## Capítulo 33 · Tibbet
+# Capítulo 33 · Tibbet
 
 *El mar del sur y las Islas Piratas. Verano del año 674 de la Nueva Era (67 D.bA).*
 
@@ -10,7 +10,7 @@ Y el sombrero, al ver lo que vio, se fue volando por la borda y se tiró al agua
 
 Tibbet lo entendió. Él también habría querido tirarse.
 
-* * *
+---
 
 Empezó con Ottherius, como empezaban ya casi todas las cosas raras en la Orden.
 
@@ -30,7 +30,7 @@ Tibbet estaba con él. A veces subía. No a mirar arriba; él miraba arriba siem
 
 —Hacia nosotros. —Ottherius se volvió. Tenía los ojos muy abiertos—. No. Hacia algo que hay entre ella y nosotros. Algo grande. Que también tiene hambre.
 
-* * *
+---
 
 La Orden discutió tres semanas.
 
@@ -44,9 +44,9 @@ Tibbet, porque era gnomo, y los gnomos de las islas tenían barcos que no necesi
 
 —De nada —dijo Sein.
 
-* * *
+---
 
-Salieron de Nix en la Paciencia. El barco de los gnomos. El que no tenía velas sino una cosa que zumbaba en la popa.
+Salieron de Nix en la *Paciencia*. El barco de los gnomos. El que no tenía velas sino una cosa que zumbaba en la popa.
 
 La cosa que zumbaba era un cristal de Alkar. Uno de los que había traído Thrumbar Hondopico en el 146. Metido en una caja de cobre, con unas aspas, debajo del agua. Zumbaba y las aspas giraban y el barco andaba. Nadie más que los gnomos sabía cómo. Los gnomos tampoco lo sabían del todo; se lo había enseñado un enano y lo hacían como les había dicho, cantando una canción que no entendían.
 
@@ -58,23 +58,23 @@ Ottherius se pasó los tres primeros días pidiéndole perdón al cristal.
 
 —Ya. Pero este la echa de menos.
 
-* * *
+---
 
 Bajaron por la costa. Hacia el sur. Pasaron las islas de los gnomos, donde Tibbet saludó a cuarenta y tres primos y se probó once sombreros. Pasaron el sitio donde, según Lanther, se había dado la vuelta su padre, en el año diez; Tibbet lo reconoció porque no había nada.
 
 Siguieron.
 
-Al decimocuarto día vieron tierra al este. Una costa amarilla, de arena, sin árboles. El desierto. Que llegaba hasta el mar. Que se metía en el mar.
+Al decimocuarto día, ya rumbo al este, vieron tierra al norte. Lejos. Una costa amarilla, de arena, sin árboles. El desierto. Que llegaba hasta el mar. Que se metía en el mar.
 
-—Rinkel está ahí detrás —dijo Ottherius. Señalando—. A seis días. Hacia dentro. Donde estaba el mar antes.
+—Rinkel está ahí arriba —dijo Ottherius. Señalando al norte—. En la costa del oeste de ese desierto. A seis días de vela. Con el mar en la puerta y la arena en la espalda.
 
 —¿Y la gema?
 
-Ottherius se volvió. Hacia el sur. Hacia el mar abierto.
+Ottherius se volvió. Hacia el sureste. Hacia el mar abierto.
 
 —Ahí.
 
-* * *
+---
 
 Las Islas Piratas eran nueve.
 
@@ -92,7 +92,45 @@ Bix lo miró. Luego miró el sombrero de paja de ala ancha con la cinta azul.
 
 —Eso dicen —dijo Tibbet. Y señaló a Ottherius—. Él más.
 
-* * *
+---
+
+Atracaron donde atracaba todo el mundo, en la Cueva Pirata.
+
+Así la llamaban, sin más, porque no hacía falta otro nombre: la boca grande de la isla mayor, en la cara del sur, tan alta que entraban los barcos con los palos puestos, y tan honda que dentro cabían cuarenta. Los piratas tenían allí el puerto, el astillero, el mercado y la horca, todo en la misma agua quieta, a la luz de unas antorchas metidas en agujeros de la roca. Por las paredes subían pasarelas de tablas hasta unas casas colgadas como nidos de golondrina.
+
+En la entrada, en unas rocas que hacían de muelle, había cangrejos de playa a miles, rojos y pequeños, que se apartaban de los pies como una alfombra que se mueve; y entre ellos, más despacio, cangrejos ermitaños metidos en conchas que no eran suyas, algunos en cráneos de cabra, uno en una jarra de barro con el asa todavía puesta. Tibbet quiso llevarse el de la jarra. Bix le dijo que no.
+
+Los piratas de la puerta eran de dos clases. Los arqueros piratas, en las pasarelas de arriba, con arcos cortos de cuerno y pañuelos en la cabeza, que miraban todo lo que entraba. Y los guerreros piratas, abajo, en el muelle, con alfanjes y pendientes y ningún zapato. Y había otros, que no estaban con los demás, sentados aparte en el muelle del fondo, con la piel de un gris verdoso y las uñas negras, y que no se reían de nada: guerreros piratas corruptos y arqueros piratas corruptos, los llamó Bix en voz baja, los que habían servido con Ferro en *La Madrugadora*, cerca de la piedra roja, demasiados años. Comían como diez. No dormían. Los otros piratas no se sentaban con ellos.
+
+—Y no miréis al fondo —dijo Bix.
+
+Tibbet miró al fondo.
+
+La Cueva Pirata no se acababa donde se acababan los barcos. Seguía. Detrás del último muelle el agua se iba poniendo azul, de un azul que no era el del mar, que brillaba un poco, como brilla el agua donde hay algo vivo debajo. Y del fondo, de muy lejos, de donde no llegaban las antorchas, venía de vez en cuando un viento. Un viento húmedo, frío, salado, que apagaba las antorchas del último muelle y hacía crujir los barcos.
+
+—Es la respiración —dijo Bix. Como quien habla del tiempo—. Del Gran Dragón Azul. Duerme ahí dentro desde antes de los piratas. Los piratas le dan de comer. Una vaca cada luna, en una balsa, empujada hacia dentro con la marea. Y él no sale. Es el trato. Nadie lo firmó. Pero funciona.
+
+—¿Y si un día no le dan la vaca?
+
+Bix se encogió de hombros.
+
+—Hace sesenta años se olvidaron. Salió. No el grande. La cría. Una cría de dragón azul, del tamaño de un bote, que se comió tres barcas y a un cocinero y se volvió a meter. Desde entonces no se olvidan.
+
+Ottherius estaba con la cabeza ladeada. Escuchando.
+
+—No es él —dijo—. Lo que tiene hambre. El azul duerme. Está lleno. Lo que tiene hambre está en otro sitio. Más al fondo de otra isla.
+
+Bix lo miró como se mira a un loco. Pero escupió al agua, por si acaso.
+
+---
+
+Esa noche, en la cubierta de la *Paciencia*, amarrada en la Cueva Pirata, Tibbet no durmió. Oyó cosas. Oyó cantar desde el agua de fuera, en las rocas de la boca, unas voces de mujer sin palabras que los piratas de guardia no quisieron oír y se taparon las orejas con cera: sirenas, dijo el gnomo del timón, de las de los arrecifes del sur, que suben cuando hay barcos nuevos. Y oyó, más tarde, por encima del mar, hacia el oeste, un trueno que no venía de ninguna nube. Uno de los viejos de la guardia se santiguó a su manera, que era tocándose el pendiente.
+
+—Un espíritu de tormenta —dijo—. Anda suelto. Mañana no sale nadie.
+
+No salió nadie. Al día siguiente hubo tormenta todo el día. Tibbet la pasó en la taberna.
+
+---
 
 Los piratas no les hicieron daño.
 
@@ -104,7 +142,7 @@ Una gema roja. Del tamaño de un huevo. Que late.
 
 Dejaron de reírse.
 
-* * *
+---
 
 —¿Quién os ha hablado de eso? —dijo el tabernero. Era un hombre tuerto, con un parche de cuero y un loro muerto disecado en el hombro—. ¿Quién?
 
@@ -112,7 +150,7 @@ Dejaron de reírse.
 
 Ottherius estaba con la mano puesta en la barra. Con los ojos cerrados.
 
-—Esta barra —dijo— era la cubierta de un barco que se llamaba La Madrugadora. Su capitán se llamaba Ferro. Compró una piedra roja a un joyero de Rinkel, uno con ocho dedos, hace sesenta y cinco años. Se la colgó al cuello. —Abrió los ojos—. No se murió nunca de nada. Le cortaron un brazo y le volvió a crecer la carne, no el brazo, pero la carne. Lo apuñalaron cuatro veces. Lo ahorcaron una. Se cerraba solo. —Miró al tabernero —. Usted era su grumete.
+—Esta barra —dijo— era la cubierta de un barco que se llamaba *La Madrugadora*. Su capitán se llamaba Ferro. Compró una piedra roja a un joyero de Rinkel, uno con ocho dedos, hace sesenta y cinco años. Se la colgó al cuello. —Abrió los ojos—. No se murió nunca de nada. Le cortaron un brazo y le volvió a crecer la carne, no el brazo, pero la carne. Lo apuñalaron cuatro veces. Lo ahorcaron una. Se cerraba solo. —Miró al tabernero —. Usted era su grumete.
 
 El tabernero se puso blanco.
 
@@ -122,11 +160,11 @@ El tabernero se puso blanco.
 
 —Y una noche el agua le contestó.
 
-* * *
+---
 
 El tabernero se llamaba Mungo. Les contó el resto esa noche. En la cueva de atrás. Con una botella de ron de las islas, que Tibbet probó y escupió y Ottherius no tocó.
 
-El capitán Ferro se había vuelto loco con la gema. Hacía cuarenta años. Había hundido su propio barco, La Madrugadora, en la cala de la isla del medio, porque decía que el agua quería el barco. Se había ido a vivir a una cueva. La más honda. La que entraba debajo de la isla, con el mar, hasta muy dentro.
+El capitán Ferro se había vuelto loco con la gema. Hacía cuarenta años. Había hundido su propio barco, *La Madrugadora*, en la cala de la isla del medio, porque decía que el agua quería el barco. Se había ido a vivir a una cueva. La más honda. La que entraba debajo de la isla, con el mar, hasta muy dentro.
 
 Y algo había empezado a venir.
 
@@ -148,7 +186,7 @@ Fue Ottherius.
 
 —A comer —dijo—. A que la gema le dé de comer. Hambre con hambre. Se juntan.
 
-* * *
+---
 
 Fueron a la cueva.
 
@@ -160,7 +198,7 @@ La boca de la cueva era enorme. Más alta que el muro de la colina. Negra. Con e
 
 Entraron.
 
-* * *
+---
 
 Dentro estaba oscuro y caliente.
 
@@ -168,7 +206,7 @@ El agua era negra. Las paredes, negras. El techo, que no se veía. La lámpara d
 
 Remaron mucho rato. La cueva bajaba. Se notaba en las orejas.
 
-Y luego Ottherius dijo para.
+Y luego Ottherius dijo *para*.
 
 Bix paró.
 
@@ -182,7 +220,7 @@ Tibbet levantó la lámpara.
 
 Y vio lo que había alrededor de la roca.
 
-* * *
+---
 
 Al principio pensó que era la pared de la cueva. Negra. Curva. Con placas, como escamas, del tamaño de puertas. Que rodeaba la roca entera, en círculo, a ras del agua.
 
@@ -202,7 +240,7 @@ Ottherius tardó en contestar.
 
 —No tiene nombre —dijo—. Nadie se lo ha puesto. Es del mar.
 
-* * *
+---
 
 El sombrero se tiró al agua en ese momento.
 
@@ -218,7 +256,7 @@ Amarillo. Del tamaño de una rueda de carro. Con la pupila vertical, roja. Que m
 
 Y el sombrero desapareció. Hacia dentro. Hacia abajo. Sin ruido.
 
-* * *
+---
 
 —Atrás —dijo Ottherius. Sin voz—. Atrás, atrás, atrás.
 
@@ -232,11 +270,11 @@ Tardaron una hora en salir de la cueva. Cuando salieron, era de día. Bix vomit�
 
 —Ochenta y nueve —dijo—. Perdido en el mar. Que conste.
 
-* * *
+---
 
 No la cogieron. No intentaron cogerla.
 
-Lo hablaron en la Paciencia, de vuelta, una noche, en la cubierta, con el cristal de Alkar zumbando debajo y Ottherius pidiéndole perdón.
+Lo hablaron en la *Paciencia*, de vuelta, una noche, en la cubierta, con el cristal de Alkar zumbando debajo y Ottherius pidiéndole perdón.
 
 —No se puede coger —dijo Tibbet—. La guarda eso.
 
@@ -250,17 +288,17 @@ Lo hablaron en la Paciencia, de vuelta, una noche, en la cubierta, con el crista
 
 —Porque no quiere nada. Ni siquiera la gema. Solo tiene hambre. —Ottherius sonrió, triste—. Él compra lo que quieres. A eso no le puede comprar nada.
 
-* * *
+---
 
-En el pergamino de los Fragmentos, Verawel tachó la línea de la gema, que decía en el mar del sur, camino de unas islas, o en ellas, y escribió debajo, con la letra que subía:
+En el pergamino de los Fragmentos, Verawel tachó la línea de la gema, que decía *en el mar del sur, camino de unas islas, o en ellas*, y escribió debajo, con la letra que subía:
 
-*Está en las Islas Piratas. En una cueva, en una roca. La guardan los piratas sin saberlo, y una cosa del mar que no tiene nombre y que tiene un ojo amarillo. La cosa no se va. Quien vaya a por la gema tendrá que pasar por ella.*
+*Está en las Islas Piratas. En una cueva, en una roca. La guardan los piratas sin* *saberlo, y una cosa del mar que no tiene nombre y que tiene un ojo amarillo. La cosa no se* *va. Quien vaya a por la gema tendrá que pasar por ella.*
 
 *Cuesta un sombrero.*
 
 Lo último lo escribió porque Tibbet insistió. Se puso muy pesado. Al final Verawel lo escribió, y Tibbet lo miró mucho rato, en la letra de las Madres, que no sabía leer, y le preguntó qué ponía exactamente.
 
-Cuesta un sombrero, le dijo Verawel.
+*Cuesta un sombrero*, le dijo Verawel.
 
 —¿Y pone de qué número?
 
@@ -270,8 +308,8 @@ Cuesta un sombrero, le dijo Verawel.
 
 Verawel no lo puso.
 
-* * *
+---
 
-A la cosa del mar la llamaron los piratas, años después, el Leviatán. Por una palabra de un libro que nadie había leído. Les gustó cómo sonaba.
+A la cosa del mar la llamaron los piratas, años después, *el Leviatán*. Por una palabra de un libro que nadie había leído. Les gustó cómo sonaba. Los viejos, los que habían conocido a Ferro, le añadían otra: *el Leviatán Maldito*. Y escupían al agua.
 
-Tibbet le puso otro nombre, en su lista. En el reverso. En Cosas que han pasado. 6. Un ojo amarillo se ha comido el ochenta y nueve. Lo miró antes. Creo que le gustó.
+Tibbet le puso otro nombre, en su lista. En el reverso. En *Cosas que han pasado*. *6. Un ojo amarillo se ha comido el ochenta y nueve. Lo miró antes. Creo que le gustó.*

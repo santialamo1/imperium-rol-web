@@ -1,4 +1,4 @@
-## Capítulo 62 · Corin
+# Capítulo 62 · Corin
 
 *Banderbill, la calle del Horno. Otoño del año 1419 de la Nueva Era (812 D.bA).*
 
@@ -14,9 +14,9 @@ Lo notaba desde el invierno del 1416. Desde la noche de la primera nevada, en la
 
 Desde entonces, cada mes, un poco más.
 
-No le había dicho nada a nadie. A Imane no. A la mujer de abajo, la vieja de la Orden, la de la cara de treinta y uno, sí; ella le había preguntado, una tarde, en la puerta del horno, ¿te cansas?, y él había dicho que sí, y ella había asentido y no había dicho nada más. Como quien ya lo sabe.
+No le había dicho nada a nadie. A Imane no. A la mujer de abajo, la vieja de la Orden, la de la cara de treinta y uno, sí; ella le había preguntado, una tarde, en la puerta del horno, *¿te cansas?*, y él había dicho que sí, y ella había asentido y no había dicho nada más. Como quien ya lo sabe.
 
-* * *
+---
 
 La mañana del fuego estaba en el horno.
 
@@ -34,7 +34,7 @@ Era lo que decía su padre. Lo que decía el padre de su padre. En la casa del h
 
 Siguieron amasando.
 
-* * *
+---
 
 A las seis oyeron pasos en la calle.
 
@@ -58,7 +58,7 @@ Guardando.
 
 —No lo sé.
 
-* * *
+---
 
 Al fondo de la calle, en la esquina de la plaza, había otro.
 
@@ -66,7 +66,7 @@ Más grande. Mucho más. Con el pelo blanco, trenzado. Con un brazo lleno de cic
 
 Estaba quieto. Mirando hacia la plaza de la biblioteca, desde donde venía el humo.
 
-Corin lo había visto una vez. Hacía muchos años. De chico, en el 1380, desde el tejado, en uno de los ataques: un orco grande, de pelo negro todavía, en la playa, de pie entre los muertos, mirando la colina. Su padre le había dicho que era el general. El que no se va nunca.
+Corin lo había visto una vez. Hacía muchos años. De chico, en el 1380, desde el tejado, en uno de los ataques: un orco grande, de pelo negro todavía, en la playa, de pie entre los muertos, mirando la colina. Su padre le había dicho que era el general. *El que no* *se va nunca.*
 
 Ahora tenía el pelo blanco.
 
@@ -74,7 +74,7 @@ Y estaba en la esquina de la calle del Horno, a cincuenta pasos de la puerta.
 
 Mirando el humo.
 
-* * *
+---
 
 Corin hizo una cosa que luego no supo explicar. Ni a Imane ni a nadie.
 
@@ -98,7 +98,7 @@ Los veinte se dieron la vuelta otra vez. De espaldas.
 
 Y el grande vino.
 
-* * *
+---
 
 Andaba despacio. Como andan los muy viejos, o los muy grandes. Cuando llegó, a dos pasos de la puerta, Corin tuvo que levantar la cabeza para mirarlo.
 
@@ -128,7 +128,7 @@ Corin no entendió.
 
 El orco se dio la vuelta. Volvió a su esquina. Se quedó allí, mirando el humo, hasta media mañana, cuando dio la orden y se fueron todos, calle abajo, hacia el puerto, sin tocar una puerta.
 
-* * *
+---
 
 Imane llegó de noche.
 
@@ -164,7 +164,7 @@ Imane lo miró un rato más. Luego miró la mesa. Luego la cocina, el horno apag
 
 —No me digas que no. Lo vi. Estaba en la escalera. —Se le quebró la voz, un poco, y la enderezó—. Te cortaste el dedo y se lo diste. Y él dejó de envejecer. Y tú... —Lo miró —. Tú empezaste.
 
-* * *
+---
 
 Corin se quedó callado mucho rato.
 
@@ -176,7 +176,7 @@ La puso en la mesa, delante de Imane.
 
 Imane lo miró sin entender.
 
-—Dijo: para él. Para cuando vuelva.
+—Dijo: *para él. Para cuando vuelva.*
 
 —¿Para quién?
 
@@ -184,7 +184,7 @@ Imane lo miró sin entender.
 
 Se quedaron los dos mirando la hogaza.
 
-* * *
+---
 
 —No me arrepiento —dijo Corin al final.
 

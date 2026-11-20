@@ -1,6 +1,6 @@
-## Capítulo 68 · El que escucha (II)
+# Capítulo 68 · El que escucha (II)
 
-*Visto por Pim. La puerta norte del muro de dentro, en la colina de Banderbill. Mediodía del mismo día del año 892.*
+*Visto por Pim. La puerta norte del muro de dentro, en la colina de Banderbill.* *Mediodía del mismo día del año 892.*
 
 Pim lo vio llegar porque estaba en el tejado de la torre de la puerta norte, y porque desde el 607 no había dejado de mirar hacia donde podía aparecer.
 
@@ -12,7 +12,7 @@ En la ladera, entre los orcos sentados que miraban arriba y los hombres caídos 
 
 Y nadie lo había visto llegar.
 
-* * *
+---
 
 Pim no tenía cara.
 
@@ -26,7 +26,7 @@ Y en esos seiscientos años, había visto al hombre de gris muchas veces. En la 
 
 Nunca lo había visto así.
 
-* * *
+---
 
 Así: quieto.
 
@@ -44,7 +44,7 @@ A ninguno.
 
 Estaba sordo. En medio de la colina que había venido a tomar. Sordo. Rodeado de un silencio que no entendía. Y la cara, sin nada que oír, no sabía qué cara poner.
 
-* * *
+---
 
 Pim bajó del tejado.
 
@@ -60,7 +60,7 @@ El hombre de gris lo miró.
 
 —Pim.
 
-* * *
+---
 
 El hombre de gris tardó en contestar.
 
@@ -74,13 +74,13 @@ El hombre de gris tardó en contestar.
 
 El hombre de gris no dijo nada.
 
-Pim esperó. Que llegara la pregunta. Que llegara siempre. ¿Qué quieres? La había oído en el año 300, en la cueva. La había oído en el 606, en la plaza, y había contestado que te vayas, y el hombre de gris se lo había guardado, y había sonreído, y no se había ido.
+Pim esperó. Que llegara la pregunta. Que llegara siempre. *¿Qué quieres?* La había oído en el año 300, en la cueva. La había oído en el 606, en la plaza, y había contestado *que te vayas*, y el hombre de gris se lo había guardado, y había sonreído, y no se había ido.
 
 No llegó.
 
 El hombre de gris no le preguntó nada.
 
-* * *
+---
 
 —No me preguntas —dijo Pim.
 
@@ -104,7 +104,7 @@ Pim se encogió de hombros. Crujió.
 
 —Escribí una cosa —dijo—. En el 655. En las salinas. Con la palabra de arriba dentro. Para alguien. —Miró hacia la almena—. Y luego esperé doscientos treinta y siete años a que la usara.
 
-* * *
+---
 
 El hombre de gris se quedó quieto.
 
@@ -126,7 +126,7 @@ Miró al suelo.
 
 —No del todo —dijo—. Pero lo suficiente.
 
-* * *
+---
 
 Pim no sabía eso. Nada de eso.
 
@@ -140,7 +140,7 @@ A un pelo de irse.
 
 —Lo ha notado. —El hombre de gris miró la puerta—. Esta noche, a medianoche. Un tirón. Viene. Y viene cansada.
 
-* * *
+---
 
 —¿Para qué has venido? —dijo Pim.
 
@@ -158,13 +158,15 @@ Pim esperó.
 
 —No.
 
-—Tiembla la tierra y miran arriba. Se mueren y miran arriba. Un orco que es mío, que nació en Orac, que me dijo la colina cuando le pregunté, deja caer el hacha y mira arriba. —Se le movió la cara. Muchas caras. Deprisa. Luego quieta—. No sé qué hay. No lo he sabido nunca. Y ellos no lo saben tampoco. Lo hacen igual.
+—Tiembla la tierra y miran arriba. Se mueren y miran arriba. Un orco que es mío, que nació en Orac, que me dijo *la colina* cuando le pregunté, deja caer el hacha y mira arriba. —Se le movió la cara. Muchas caras. Deprisa. Luego quieta—. No sé qué hay. No lo he sabido nunca. Y ellos no lo saben tampoco. Lo hacen igual.
 
 Se quedó callado.
 
+—Abajo, de donde vengo, también miraban arriba —dijo después—. En Kerthon. Cuando les dije que había que repartir. Me miraban a mí, que estaba en lo alto de la escalera del templo, y me seguían. Por eso los quise. —Se encogió de hombros—. Luego lo repartí todo y me lo quedé todo. Y dejaron de mirar. Aquí no miran nunca. Miran más arriba que yo.
+
 —He venido a ver —dijo— y no veo nada.
 
-* * *
+---
 
 En la puerta norte, detrás de Pim, se oyó una tranca.
 
@@ -182,7 +184,7 @@ Se quedó en la puerta. Miró a Pim. Luego al hombre de gris.
 
 Y detrás de ella, en el muro, en el tramo del Ojo, de pie, un hombre de cincuenta y cinco años con un cuaderno y un lápiz, escribiendo deprisa, sin levantar la vista, porque era un Vell y los Vell no se van; se quedan y apuntan.
 
-* * *
+---
 
 El hombre de gris la miró.
 
@@ -206,7 +208,7 @@ Seguía latiendo.
 
 Pero más débil. Como el de alguien que ha estado a punto de soltar una cuerda y la ha vuelto a agarrar con la punta de los dedos.
 
-* * *
+---
 
 —Lanther —dijo el hombre de gris.
 
@@ -214,7 +216,7 @@ Era la primera vez que Pim le oía decir su nombre.
 
 —¿Qué quieres?
 
-* * *
+---
 
 Pim no oyó lo que ella contestó. No en ese momento. Lo supo después.
 

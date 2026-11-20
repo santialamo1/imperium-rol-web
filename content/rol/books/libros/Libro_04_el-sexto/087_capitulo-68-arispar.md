@@ -1,16 +1,16 @@
-## Capítulo 68 · Arispar
+# Capítulo 68 · Arispar
 
 *Arghâl, en las lomas del brezo. Verano del año 1438 de la Nueva Era (831 D.bA).*
 
 La luna estaba roja.
 
-Arispar la miró desde el camino de las lomas, a caballo, con cuatro mil hombres detrás y Arghâl delante, y pensó que su madre habría dicho que era mal día para amasar. Lia lo decía de las lunas rojas. Con luna roja la masa no sube; se queda mirando. Se reía al decirlo. Él tenía siete años y no sabía si era verdad.
+Arispar la miró desde el camino de las lomas, a caballo, con cuatro mil hombres detrás y Arghâl delante, y pensó que su madre habría dicho que era mal día para amasar. Lia lo decía de las lunas rojas. *Con luna roja la masa no sube; se queda mirando.* Se reía al decirlo. Él tenía siete años y no sabía si era verdad.
 
 Lo había comprobado después. De mayor. Una noche de luna roja, en la cocina de los Ruald, con Corin. La masa subió igual.
 
 Pero se quedó mirando. Eso sí.
 
-* * *
+---
 
 Arghâl no era la de los cuentos.
 
@@ -26,7 +26,7 @@ Arispar la miró desde las lomas y supo que esa noche la iba a perder para siemp
 
 Lo había decidido en Banderbill. En la sala de los mapas. Con Jerek al lado.
 
-* * *
+---
 
 —Necesita que mire a otro sitio —había dicho Jerek—. Un rato. Lo que tardan los hechiceros en abrir la puerta y lo que tardan los Tres en entrar y salir.
 
@@ -52,13 +52,13 @@ Luego dijo que sí.
 
 Y esa noche, como todas, cuando se acostó, oyó a su madre diciendo que con luna roja la masa se queda mirando.
 
-* * *
+---
 
 Bajaron a la carga a medianoche.
 
-No hubo nada que contar. Lo cuenta el Diario, que lo contará como una batalla; Érandiul estaba en la loma, detrás, con su cuaderno, y verá lo que ve un cronista. Imperiales y caóticos morían por doquier. Es verdad. Es lo que pasa.
+No hubo nada que contar. Lo cuenta el Diario, que lo contará como una batalla; Érandiul estaba en la loma, detrás, con su cuaderno, y verá lo que ve un cronista. *Imperiales y caóticos morían por doquier.* Es verdad. Es lo que pasa.
 
-Arispar peleó delante. Siempre lo hacía. Desde la primera, en las islas, cuando un soldado le había preguntado en la cueva por qué lo hacía y él había contestado porque si no, no sé si lo merezco. Peleó en la puerta del río. En el mercado. En la calle de los graneros, que ardía. Mató a muchos. No contó; había dejado de contar en el Dungeon Cristal, cuando un chico de Wonder le tarareó cuatro notas.
+Arispar peleó delante. Siempre lo hacía. Desde la primera, en las islas, cuando un soldado le había preguntado en la cueva por qué lo hacía y él había contestado *porque si* *no, no sé si lo merezco*. Peleó en la puerta del río. En el mercado. En la calle de los graneros, que ardía. Mató a muchos. No contó; había dejado de contar en el Dungeon Cristal, cuando un chico de Wonder le tarareó cuatro notas.
 
 Glokark estaba en la otra punta de la ciudad.
 
@@ -66,7 +66,7 @@ Lo vio una vez. De lejos. En lo alto de la muralla del puerto. Grande, con el pe
 
 Mirando arriba, a ratos.
 
-* * *
+---
 
 Y luego, a las tres de la mañana, la batalla se paró.
 
@@ -76,23 +76,23 @@ Y los suyos, los de la estrella, también. Sin que nadie se lo mandara. Se apart
 
 Por la calle venía andando un hombre.
 
-* * *
+---
 
 Un hombre normal. Con ropa gris, de escribano, limpia, sin una mancha de hollín en una plaza llena de hollín. Con las manos a la espalda.
 
 Arispar lo había visto.
 
-No en persona. En las crónicas de los Vell, en el sótano, a los quince años, a escondidas, leyendo lo del 1256: un hombre de gris en la boca de la calle, entre el humo. En los cuadernos de Hatmie, que tenía en la mesa del trono, debajo del pergamino, y que leía cuando no podía dormir: tú no. En los ojos de Wenna, la vieja, la de la cara de ochenta, la única de la Orden que no le hablaba, cuando lo miraba en la plaza.
+No en persona. En las crónicas de los Vell, en el sótano, a los quince años, a escondidas, leyendo lo del 1256: *un hombre de gris en la boca de la calle, entre el humo*. En los cuadernos de Hatmie, que tenía en la mesa del trono, debajo del pergamino, y que leía cuando no podía dormir: *tú no*. En los ojos de Wenna, la vieja, la de la cara de ochenta, la única de la Orden que no le hablaba, cuando lo miraba en la plaza.
 
 Y antes. Mucho antes. En sueños. Desde los seis años.
 
-Un hombre de gris que se sentaba a los pies de la cama y le decía, con una voz amable, escríbelo. Escríbelo todo. Así no se te olvida.
+Un hombre de gris que se sentaba a los pies de la cama y le decía, con una voz amable, *escríbelo. Escríbelo todo. Así no se te olvida.*
 
 Él lo había escrito todo. Nueve años. En un cuaderno de miedo. Hasta los dieciocho, cuando lo quemó en el horno de los Ruald y el hombre de gris dejó de venir.
 
 No lo había olvidado nunca.
 
-* * *
+---
 
 El hombre de gris se paró en el centro de la plaza.
 
@@ -106,7 +106,7 @@ Lia. Con harina en las manos. Con la cara de cuando él tenía seis años y se h
 
 Arispar sonrió.
 
-* * *
+---
 
 No era valor. Lo sabía. Lo supo luego, cuando lo pensó, en el barco, de vuelta. No era valor ni desprecio ni astucia.
 
@@ -122,7 +122,7 @@ Alivio.
 
 Y sonrió. Porque era lo único que no le había enseñado nunca a hacer el hombre de gris: sonreír de alivio delante de él.
 
-* * *
+---
 
 El hombre de gris dejó de tener la cara de Lia.
 
@@ -146,11 +146,11 @@ Lo encontró. Claro. Siempre lo encontraba.
 
 Pero lo que encontró no era el miedo que buscaba.
 
-* * *
+---
 
 Era otro. Uno nuevo. Pequeño. De esa misma noche.
 
-El miedo de que en la Tundra Marabel, a cuarenta leguas al norte, en un círculo de piedras quemadas donde siete hechiceros llevaban tres horas cantando, no se abriera la puerta a tiempo. El miedo de que Finderil, Ardan y Seliel, que habían vuelto de Lindos con los ojos rojos y una nota en el carcaj pidiéndole que los dejara ir a por ella, que no se lo había pedido nadie nunca así, de rodillas, en el salón del trono, bajaran por la luz y no subieran.
+El miedo de que en la Tundra Marabel, al otro lado de Banderbill, al suroeste, entre ciénagas, en un círculo de piedras quemadas donde siete hechiceros llevaban tres horas cantando, no se abriera la puerta a tiempo. El miedo de que Finderil, Ardan y Seliel, que habían vuelto de Lindos con los ojos rojos y una nota en el carcaj pidiéndole que los dejara ir a por ella, que no se lo había pedido nadie nunca así, de rodillas, en el salón del trono, bajaran por la luz y no subieran.
 
 Ese miedo no era de él. No era de Arispar. Era de ellos. De Nesturil. De una princesa que le había ganado al tablero de piedras ciento doce veces seguidas, que era su récord de pelota, y que se lo había dicho riéndose.
 
@@ -158,11 +158,11 @@ El hombre de gris lo oyó.
 
 Y lo entendió.
 
-Arispar lo vio entender. Lo vio volverse, despacio, hacia el norte. Hacia la tundra. Hacia lo que no estaba mirando.
+Arispar lo vio entender. Lo vio volverse, despacio, hacia el suroeste. Hacia la tundra. Hacia lo que no estaba mirando.
 
 Tarde.
 
-* * *
+---
 
 Arispar subió a la torre del palacio del gobernador a la carrera.
 
@@ -172,7 +172,7 @@ Gritó.
 
 —¡Hemos logrado desviar la mirada del Demonio! ¡Su atención no está más sobre Nesturil! ¡Soldados, rápido al palacio! ¡Allí nos esperan los hechiceros que nos transportarán al Infierno para rescatarla!
 
-No era del todo verdad. Los hechiceros estaban en la tundra, no en el palacio. Pero en el sótano del palacio del gobernador había otros tres, de Wonder, con un círculo de tiza preparado desde hacía una semana, por si acaso. Jerek lo había llamado la puerta de atrás.
+No era del todo verdad. Los hechiceros estaban en la tundra, no en el palacio. Pero en el sótano del palacio del gobernador había otros tres, de Wonder, con un círculo de tiza preparado desde hacía una semana, por si acaso. Jerek lo había llamado *la puerta de atrás*.
 
 Los hombres subieron.
 
@@ -180,7 +180,7 @@ Todos. Los cuatro mil, o los que quedaban de los cuatro mil. Por la escalera del
 
 Arispar el último.
 
-* * *
+---
 
 Abajo hacía calor.
 
@@ -198,7 +198,7 @@ Se la llevaban por un pasillo que subía.
 
 Hacia Arghâl.
 
-* * *
+---
 
 Subió detrás.
 
@@ -214,7 +214,7 @@ Y en la orilla de la charca seca, de pie, con las manos a la espalda, el hombre 
 
 Esperando.
 
-* * *
+---
 
 Los orcos le llevaban a Nesturil.
 
@@ -232,7 +232,7 @@ Se apartó.
 
 Un paso. A un lado. Como se aparta uno de una puerta para dejar pasar.
 
-* * *
+---
 
 Los cincuenta cargaron.
 
@@ -248,7 +248,7 @@ Una piedra. Gris. Del tamaño de un pan. Con una veta blanca.
 
 Arispar no la cogió.
 
-* * *
+---
 
 En el barco de vuelta, Nesturil durmió dos días.
 
@@ -266,13 +266,13 @@ Arispar no contestó.
 
 Nesturil lo miró mucho rato. Con los ojos de quien ha ganado ciento doce partidas seguidas.
 
-—Porque quiere que me tengas —dijo—. Que me tengas tú. Que lo sepa todo el mundo. La Dama del Emperador. La que bajó al Infierno por él. —Cerró los ojos—. Los que me sigan perecerán. Lo dijo Illidan. Lo vende Joel a dos monedas en Ullathorpe. Lo sabe él mejor que nadie.
+—Porque quiere que me tengas —dijo—. Que me tengas tú. Que lo sepa todo el mundo. *La Dama del Emperador. La que bajó al Infierno por él.* —Cerró los ojos—. Los que me sigan perecerán. Lo dijo Aelthar. Lo vende Joel a dos monedas en Ullathorpe. Lo sabe él mejor que nadie.
 
 —No lo voy a permitir.
 
 —No es tuyo permitirlo.
 
-* * *
+---
 
 En Banderbill los esperaba la colina entera.
 
@@ -288,7 +288,7 @@ La plaza gritó.
 
 Y Arispar, en el balcón, con la mano levantada, pensó en una piedra gris en el barro seco de una charca, y en doce mil personas, y en que no le había dicho a nadie que el Demonio se había apartado.
 
-* * *
+---
 
 Esa noche hubo fiesta en el Mesón Hostigado. Hasta el alba. Con vino de Tiama y cerdo asado y la canción de remar, que alguien empezó y nadie supo de dónde venía.
 

@@ -1,4 +1,4 @@
-## Capítulo 62 · Grâshka
+# Capítulo 62 · Grâshka
 
 *Orac. Invierno del año 860 de la Nueva Era (253 D.bA).*
 
@@ -10,7 +10,7 @@ Grâshka tenía entonces sesenta y nueve, y la cara de cuarenta.
 
 No le dijo nada. Se comió el guiso.
 
-* * *
+---
 
 En Orac nadie se moría a su tiempo.
 
@@ -20,7 +20,7 @@ Pero de viejos, no. O muy tarde. Cerca de la raíz, el tiempo iba despacio. Los 
 
 Nadie había firmado ese trato. Pero todos lo tenían.
 
-* * *
+---
 
 Su hijo se llamaba Thrak.
 
@@ -30,13 +30,13 @@ Era soldado del Señor.
 
 No soldado como los de antes, que eran capataces con hachas. Soldado de verdad. De los nuevos. De los que los drows entrenaban en la cueva de abajo, en filas, con escudos de piedra negra y lanzas largas, y que aprendían a mirar el hombro. Porque los drows habían aprendido a mirar el hombro de los hombres de la colina, en el 856, en la plaza de la raíz. Y se lo enseñaban.
 
-Thrak había estado en la plaza. En el 856. Con veintidós años de cara y cuarenta y dos de inviernos. Había matado a tres hombres de la colina. Se lo había contado a su madre esa noche, orgulloso, con la sangre todavía en las manos.
+Thrak había estado en la plaza. En el 856. No en Orac: en la otra isla, la negra, la que el Señor había levantado en mitad del Mar de la Eterna Penuria para mirar a las dos orillas, la que los de la colina llamaban ya la Isla Siniestra. Con veintidós años de cara y cuarenta y dos de inviernos. Había matado a tres hombres de la colina. Se lo había contado a su madre esa noche, orgulloso, con la sangre todavía en las manos.
 
 Grâshka no le había dicho nada.
 
 Había estado en la ladera norte.
 
-* * *
+---
 
 No se lo había contado a nadie. Ni a Thrak.
 
@@ -50,9 +50,9 @@ Era el mismo. Ochenta años después. La misma cara. La misma nariz rota. El pel
 
 El que la había sacado del agua.
 
-* * *
+---
 
-En el 782 ella iba en la proa del último barco. No para pelear. Para mirar. El Señor se lo había pedido, después del primer viaje, en el 729, después del árbol: Me debes una cosa. Te diré cuál. Y en el 782 se la dijo. Ve. Mira al de la nariz rota. Mírale bien. Y vuelve y dime qué ves.
+En el 782 ella iba en la proa del último barco. No para pelear. Para mirar. El Señor se lo había pedido, después del primer viaje, en el 729, después del árbol: *Me debes una* *cosa. Te diré cuál.* Y en el 782 se la dijo. *Ve. Mira al de la nariz rota. Mírale bien. Y* *vuelve y dime qué ves.*
 
 Fue. Lo miró. Desde la proa. Mientras el barco del almirante se les echaba encima y sus soldados les rompían la quilla y el mar entraba.
 
@@ -68,11 +68,11 @@ Le miró el hombro. Luego la cara.
 
 —¿Qué quieres? —le dijo.
 
-* * *
+---
 
 Grâshka se acuerda de eso más que de nada.
 
-Que se lo preguntó él. Con las mismas palabras. ¿Qué quieres? Pero no como el Señor. El Señor lo preguntaba bajo, tranquilo, como un recaudador, y esperaba, y lo que le dabas se lo quedaba. El de la nariz rota lo preguntó con la voz ronca, mojado, cansado, como se le pregunta a alguien que acabas de sacar del agua si tiene hambre.
+Que se lo preguntó él. Con las mismas palabras. *¿Qué quieres?* Pero no como el Señor. El Señor lo preguntaba bajo, tranquilo, como un recaudador, y esperaba, y lo que le dabas se lo quedaba. El de la nariz rota lo preguntó con la voz ronca, mojado, cansado, como se le pregunta a alguien que acabas de sacar del agua si tiene hambre.
 
 Y no esperó. No se quedó con nada.
 
@@ -90,7 +90,7 @@ El de la nariz rota miró arriba.
 
 —Porque una vez seguí a unos como tú a un bosque —dijo— y se me murió uno que no tenía que morirse. Y desde entonces no sé muy bien a quién le debo qué. —Se encogió de hombros—. Así que lo voy repartiendo.
 
-* * *
+---
 
 Tardó dos meses en volver a Orac. Casi se muere. No se murió.
 
@@ -108,13 +108,13 @@ El Señor sonrió. La cara se le movió. Otra cara. Amable.
 
 —Yo tampoco —dijo el Señor. Y la sonrisa se le quedó un momento más de lo que se le quedaban las sonrisas, como si se le hubiera olvidado quitarla—. Eso es lo que te pedí. Que lo vieras. No que lo entendieras. Ya me has pagado.
 
-Grâshka no supo qué había pagado. Pero notó que algo se iba. De dentro. Pequeño. Lo de la barca. Lo del guiso. Lo de lo voy repartiendo. Lo notó irse. Como se va el agua de una mano cerrada.
+Grâshka no supo qué había pagado. Pero notó que algo se iba. De dentro. Pequeño. Lo de la barca. Lo del guiso. Lo de *lo voy repartiendo*. Lo notó irse. Como se va el agua de una mano cerrada.
 
 No del todo. Un poco se quedó.
 
 Lo guardó. Donde no mirara el Señor.
 
-* * *
+---
 
 En la nieve, en el 856, el de la nariz rota la reconoció.
 
@@ -132,7 +132,7 @@ El de la nariz rota sonrió. Tenía sangre en los dientes.
 
 Y entonces llegó el Señor.
 
-* * *
+---
 
 No llegó. Estaba. Como estaba siempre. De pronto, al lado de la roca. Con la ropa gris. Con la cara que no se quedaba. Con las manos a la espalda.
 
@@ -148,7 +148,7 @@ El almirante cerró los ojos.
 
 —¿Qué quieres? —dijo el Señor.
 
-* * *
+---
 
 Grâshka lo vio.
 
@@ -156,13 +156,13 @@ Vio que el almirante abría los ojos. Que miraba al Señor. Que abría la boca.
 
 Y que no contestaba.
 
-Que levantaba la cabeza. Despacio. Le costaba; se le veía en el cuello. Y miraba arriba. Al cielo de Orac, que estaba gris, cargado de nieve, sin nada.
+Que levantaba la cabeza. Despacio. Le costaba; se le veía en el cuello. Y miraba arriba. Al cielo de la isla negra, que estaba gris, cargado de nieve, sin nada.
 
 Y se quedaba así. Mirando arriba. Con la boca abierta. Sin decir nada.
 
 Hasta que dejó de respirar.
 
-* * *
+---
 
 El Señor se quedó agachado mucho rato.
 
@@ -190,7 +190,7 @@ No era una pregunta. Grâshka no contestó.
 
 Y se fue.
 
-* * *
+---
 
 No lo llevó a la raíz.
 
@@ -208,7 +208,7 @@ Y dijo:
 
 El mar se lo llevó al alba.
 
-* * *
+---
 
 Eso fue en el 856.
 
@@ -230,7 +230,7 @@ Thrak dejó de reírse.
 
 Grâshka no dijo nada.
 
-* * *
+---
 
 Esa noche fue a la cueva grande. A la de la raíz.
 
@@ -246,7 +246,7 @@ Estaba caliente. Como la piedra de Orac. Como todo en Orac. Y latía. Y en el la
 
 Y que, en sueños, tenía hambre.
 
-* * *
+---
 
 Apartó la mano.
 
@@ -260,7 +260,7 @@ Y pensó, por primera vez en ciento cuarenta y seis inviernos, una cosa que no h
 
 Que a lo mejor lo que había que querer no era lo que decían todos.
 
-* * *
+---
 
 Ithil la encontró al salir.
 
@@ -288,13 +288,13 @@ Grâshka pensó en el árbol.
 
 Ithil se quedó muy quieto.
 
-Grâshka se dio cuenta de lo que había dicho. En voz alta. En Orac. En la boca de la cueva de la raíz. No quiero.
+Grâshka se dio cuenta de lo que había dicho. En voz alta. En Orac. En la boca de la cueva de la raíz. *No quiero.*
 
 Esperó a que el Señor estuviera. De pronto. Al lado. Como siempre.
 
 No estuvo.
 
-* * *
+---
 
 —No lo digas otra vez —dijo Ithil. Muy bajo—. Aquí no.
 

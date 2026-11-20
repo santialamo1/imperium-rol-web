@@ -1,4 +1,4 @@
-## Capítulo 64 · Ithil
+# Capítulo 64 · Ithil
 
 *Orac, la sala de los escribas. Invierno del año 880 de la Nueva Era (273 D.bA).*
 
@@ -6,7 +6,7 @@ En cuatrocientos años de servirle, Ithil no le había preguntado nunca nada, y 
 
 Todos le contestaban. Nadie le preguntaba.
 
-* * *
+---
 
 Ithil había nacido debajo de la tierra, en las ciudades de los drows, al sur, donde no llega la luz y la piedra canta bajito cuando se la corta con las herramientas buenas. Había tallado arpas de joven. Diecisiete. Con madera traída de arriba a escondidas, porque en las ciudades de abajo no había árboles y tallar madera era un vicio de los que miraban demasiado hacia la superficie.
 
@@ -16,7 +16,7 @@ Se la dio.
 
 Fue lo último que hizo antes de conocer al de sal.
 
-* * *
+---
 
 Eso fue hacía cuatrocientos años. Más.
 
@@ -44,7 +44,7 @@ No lo olvidaban.
 
 Y no sabía tocar un arpa.
 
-* * *
+---
 
 Esa noche, en el 880, el Señor lo mandó llamar a la sala de los escribas.
 
@@ -62,7 +62,7 @@ Nombres de calles. De casas. De gente.
 
 Ithil se acercó a mirar.
 
-Biblioteca. Sótano. Siete. El que suma. La de las castañas. El gnomo. El que oye. El de corteza. El panadero, que creen que no sé. Y una silla dibujada con un sombrero encima. El elfo viejo. Mil veinticinco. No escribe.
+*Biblioteca. Sótano. Siete. El que suma. La de las castañas. El gnomo. El que oye. El* *de corteza. El panadero, que creen que no sé.* Y una silla dibujada con un sombrero encima. *El elfo viejo. Mil veinticinco. No escribe.*
 
 *Tercera almena. Ella.*
 
@@ -70,7 +70,7 @@ Y debajo, en otro color, en rojo oscuro, la raíz más vieja. La de la colina. L
 
 Y al lado del círculo, la palabra que no se podía leer.
 
-* * *
+---
 
 —Doce años —dijo el Señor.
 
@@ -86,11 +86,11 @@ Ithil no dijo nada.
 
 —Y yo —dijo el Señor— iré también.
 
-* * *
+---
 
 Ithil se volvió.
 
-En cuatrocientos años, el Señor no había salido de Orac. Nunca. Paseaba por Orac. Estaba en la plaza de la raíz, en el muelle, en la cueva, en la nieve de la ladera norte delante de un almirante muerto. Pero no salía. Mandaba. Preguntaba. Guardaba.
+En cuatrocientos años, el Señor no había salido de sus islas. Nunca. Paseaba por Orac, por el muelle, por la cueva de la raíz. Iba por la raíz, por debajo del mar, a la otra, a la negra, a la Siniestra, y estaba en su plaza, o en la nieve de su ladera norte delante de un almirante muerto. Pero no salía. Mandaba. Preguntaba. Guardaba.
 
 No salía.
 
@@ -98,7 +98,7 @@ No salía.
 
 Y se dio cuenta de lo que había hecho.
 
-* * *
+---
 
 Había preguntado.
 
@@ -112,7 +112,7 @@ Y en los ojos, algo que Ithil no le había visto nunca.
 
 Sorpresa.
 
-* * *
+---
 
 —Me has preguntado —dijo el Señor.
 
@@ -128,13 +128,13 @@ El Señor no dijo nada en mucho rato. Los escribas seguían escribiendo. Las plu
 
 Ithil se quedó helado.
 
-—No lo sabía nadie —dijo el Señor—. Porque no me preguntaba nadie. En toda la vida. Ni los orcos, ni los tuyos, ni los de sal, ni la pelirroja en la plaza. Ella me dijo no. Eso no es preguntar. —Lo miró—. Tú me has preguntado por qué.
+—No lo sabía nadie —dijo el Señor—. Porque no me preguntaba nadie. En toda la vida. Ni los orcos, ni los tuyos, ni los de sal, ni la pelirroja en la plaza. Ella me dijo *no*. Eso no es preguntar. —Lo miró—. Tú me has preguntado *por qué*.
 
 —Sí.
 
 —Y te tengo que contestar.
 
-* * *
+---
 
 —Porque no oigo —dijo el Señor.
 
@@ -146,13 +146,13 @@ Miró el plano de la colina.
 
 —Así que tengo que ir. En persona. Con los ojos. A mirarlos de cerca. Cuando la colina tiemble y tengan miedo y se olviden de mirar arriba. —La cara se le movió otra vez. Volvió la amable—. Porque cuando tienen miedo, miran abajo. Todos. Al suelo que tiembla. Y entonces los oigo.
 
-* * *
+---
 
 Ithil no dijo nada.
 
 Pensó en el almirante. En la nieve. Mirando arriba. Con la boca abierta. Sin contestar.
 
-Pensó en Grâshka. En la boca de la cueva. No quiero. Mirando arriba.
+Pensó en Grâshka. En la boca de la cueva. *No quiero.* Mirando arriba.
 
 Pensó en una niña de catorce años que le preguntó qué hacía.
 
@@ -168,7 +168,7 @@ El Señor esperó.
 
 —¿Cómo te llamas?
 
-* * *
+---
 
 Silencio.
 
@@ -190,9 +190,15 @@ Y luego una que no era de nadie. Gris. Lisa. Sin nada.
 
 Ithil esperó.
 
-El Señor miró al suelo. Abajo. Hacia donde latía la raíz. Hacia lo que dormía.
+El Señor miró al suelo. Abajo. Hacia donde latía la raíz. Y más abajo todavía.
 
-—Él me llamaba de una manera —dijo—. Al principio. Cuando llegué. Cuando me puse al lado. Cuando todavía oía un poco. No con palabras. Con un ruido. Como el que hace uno que duerme cuando alguien le molesta. —Se tocó la oreja—. Un ruido. Así.
+—Allí me llamaban de una manera —dijo—. Antes. Debajo de abajo. Debajo de esto hay otro sitio, general. Se llamaba el Inframundo. Lo mandaba uno que se llamaba Garveloth, desde un templo, con una piedra en la mano. Era mi maestro. Me lo enseñó todo. —Se le movió la cara. Una sola vez—. Yo dije que había que repartir. Que la piedra era de todos. Lo dije en una ciudad que se llamaba Kerthon, a los que no tenían nada: a los que beben sangre, a los que cambian de piel con la luna. Me siguieron. Ciento cuatro años de guerra. Gané. Y a él lo metí dentro de la piedra, para que no mandara más.
+
+—¿Y repartiste?
+
+El Señor no contestó a eso.
+
+—Luego subí —dijo—. Aquí. Lo de abajo de aquí, el fuego, los niveles, lo que vosotros llamáis el Infierno, eso lo hice yo. Y la piedra la partí en cuatro, para que nadie la pudiera juntar. Y me puse al lado del que duerme, y escuché, hasta que ya no fui otra cosa. *El que escucha.* Eso soy aquí. —Se tocó la oreja—. Pero allí tenía nombre. Me lo puso él, el primer día. Así.
 
 Y lo hizo.
 
@@ -200,7 +206,7 @@ Con la garganta. Bajo. Ronco. Un sonido como de piedra que se arrastra y luego s
 
 *Mhor-kvel.*
 
-* * *
+---
 
 Ithil lo repitió. Sin pensar. Con la garganta.
 
@@ -212,7 +218,7 @@ Uno. Pequeño. Pero atrás.
 
 Ithil no lo había visto nunca dar un paso atrás.
 
-—No lo digas —dijo el Señor. Con la voz amable otra vez. Con la cara amable—. No lo digas, general. Es mío. Es lo único que tengo que no me ha dado nadie.
+—No lo digas —dijo el Señor. Con la voz amable otra vez. Con la cara amable—. No lo digas, general. Es mío. Es lo único que me queda de antes.
 
 —Me lo has dado tú.
 
@@ -222,9 +228,9 @@ Se dio la vuelta. Y se fue. No desapareció, como hacía siempre. Se fue andando
 
 Los escribas volvieron a escribir.
 
-* * *
+---
 
-Ithil se quedó en la sala mucho rato. Mirando el plano. Tercera almena. Ella.
+Ithil se quedó en la sala mucho rato. Mirando el plano. *Tercera almena. Ella.*
 
 Luego salió. Fue a la boca de la cueva grande. Grâshka estaba allí. Con el cubo de agua. Como siempre.
 
@@ -248,7 +254,7 @@ Grâshka lo repitió. Mirando arriba también.
 
 No pasó nada.
 
-* * *
+---
 
 Esa noche, Ithil escribió una carta.
 
@@ -258,13 +264,15 @@ La escribió en una tablilla de piedra negra, con un punzón. Para que no ardier
 
 *Para la que dijo que no.*
 
-*Doce años. Cuando tiemble. Por abajo, no por la muralla. Viene él. En persona. Tiene que mirarlos de cerca porque no oye a los que miran arriba.*
+*Doce años. Cuando tiemble. Por abajo, no por la muralla. Viene él. En persona.* *Tiene que mirarlos de cerca porque no oye a los que miran arriba.*
 
-*Se llama Mhorkvel. Nadie se lo había preguntado.*  
-*Si le preguntas, tiene que contestar. Una vez.*  
+*Se llama Mhorkvel. Nadie se lo había preguntado.*
+
+*Si le preguntas, tiene que contestar. Una vez.*
+
 *I.*
 
-* * *
+---
 
 La tablilla tardó un año en llegar a la colina.
 

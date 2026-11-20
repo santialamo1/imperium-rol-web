@@ -1,4 +1,4 @@
-## Capítulo 26 · Lanther
+# Capítulo 26 · Lanther
 
 *El valle negro y el camino de vuelta. Año 29 de la Nueva Era.*
 
@@ -32,7 +32,7 @@ Livia se sentó en las piedras negras. Así, sin más. Como se sienta una mujer 
 
 Lanther se levantó.
 
-* * *
+---
 
 Las de sal estaban quietas.
 
@@ -40,7 +40,7 @@ Todas. Las cientos. Alrededor del borde del agujero, en un anillo de tres o cuat
 
 Lanther las oyó.
 
-No era un canto. No era no pases. Era un zumbido muy bajo, muy parejo, como el de las piedras. Como si se hubieran vuelto piedras ellas también.
+No era un canto. No era *no pases*. Era un zumbido muy bajo, muy parejo, como el de las piedras. Como si se hubieran vuelto piedras ellas también.
 
 Caminó hacia el borde.
 
@@ -54,7 +54,7 @@ Llegó al borde. Se asomó.
 
 Y lo vio.
 
-* * *
+---
 
 Estaba a la profundidad de dos hombres. De pie, encajado en el cuello de la botella, con la espalda contra la piedra negra y los brazos pegados al cuerpo. Todo blanco. Blanco de sal, de arriba abajo, desde el pelo hasta las botas, como esas figuras de azúcar que hacía Teo Ruald para las bodas. La espada fea en la mano derecha, blanca también, la punta hacia abajo. El pecho hinchado de un nudo de cristal, del lado derecho, donde había estado el bolsillo.
 
@@ -76,7 +76,7 @@ Un tapón en una botella.
 
 Un guardián.
 
-* * *
+---
 
 Hakon llegó corriendo con veinte hombres detrás, con las espadas desnudas, gritando. Se detuvo a diez pasos de las de sal. Los hombres se detuvieron detrás de él.
 
@@ -88,7 +88,7 @@ Hakon llegó corriendo con veinte hombres detrás, con las espadas desnudas, gri
 
 —No hacen nada, capitán. Están quietas. Están…
 
-No supo cómo decirlo. Están de guardia. Están rezando. Están llorando. No era ninguna de las tres cosas y eran las tres.
+No supo cómo decirlo. *Están de guardia*. *Están rezando*. *Están llorando*. No era ninguna de las tres cosas y eran las tres.
 
 —Están muertas —dijo alguien, detrás de Hakon. Un muchacho. Uno de Gijor, de los del primer día, de los que se habían reído de su cuchillo en el poste—. Mírelas, capitán. No se mueven. ¡Están muertas! ¡El rey las ha matado!
 
@@ -96,7 +96,7 @@ No supo cómo decirlo. Están de guardia. Están rezando. Están llorando. No er
 
 Pero ya se movían.
 
-* * *
+---
 
 Fue como el agua que rompe un dique. Primero uno, el de Gijor, con un martillo de herrero que llevaba colgado del cinto para clavar las estacas de las tiendas. Pasó por delante de Hakon antes de que Hakon pudiera cogerlo. Llegó a la primera de sal, la que tenía más cerca, una de la fila de fuera, y le dio con el martillo en la cabeza.
 
@@ -112,11 +112,11 @@ Lanther lo vio. Sal. Solo sal, blanca, maciza, sin brillo azul, sin ojos. Como s
 
 Y entonces se movieron todos.
 
-* * *
+---
 
 No pudo pararlos.
 
-Lo intentó. Se levantó del borde, corrió hacia ellos, gritó. Gritó basta, gritó no, gritó quietos, gritó son mías, sin saber por qué gritaba eso. Le agarró el brazo a uno, a otro. Le dio un empujón a un tercero que lo tiró al suelo. No la oían. Llevaban dos años de cuevas y de mordiscos y de amigos convertidos en piedra, llevaban una mañana entera viendo cómo las de sal salían de un agujero en el suelo a cientos y convertían en estatuas a los hombres con los que habían compartido el pan, y ahora se rompían, ahora no se movían, ahora se podía; y los hombres, cuando de pronto se puede, no oyen.
+Lo intentó. Se levantó del borde, corrió hacia ellos, gritó. Gritó *basta*, gritó *no*, gritó *quietos*, gritó *son mías*, sin saber por qué gritaba eso. Le agarró el brazo a uno, a otro. Le dio un empujón a un tercero que lo tiró al suelo. No la oían. Llevaban dos años de cuevas y de mordiscos y de amigos convertidos en piedra, llevaban una mañana entera viendo cómo las de sal salían de un agujero en el suelo a cientos y convertían en estatuas a los hombres con los que habían compartido el pan, y ahora se rompían, ahora no se movían, ahora se podía; y los hombres, cuando de pronto se puede, no oyen.
 
 Con martillos. Con los pomos de las espadas. Con piedras. Con las manos.
 
@@ -128,7 +128,7 @@ Rompieron la fila de fuera. Y la de en medio. Llegaban a la de dentro, a la del 
 
 Delante de la de la cara rota.
 
-* * *
+---
 
 —Basta.
 
@@ -172,7 +172,7 @@ Hakon asintió. Se volvió a sus hombres.
 
 —Ya la habéis oído —dijo—. Basta. Las que quedan, se quedan.
 
-* * *
+---
 
 Quedaban veintidós.
 
@@ -190,7 +190,7 @@ Lanther se sentó en las piedras negras, entre los pedazos blancos, y se echó a
 
 Hakon no entendió. No hacía falta.
 
-* * *
+---
 
 Livia se levantó. Caminó entre los pedazos, despacio, mirando dónde ponía los pies, como se camina por una cocina en la que se ha roto una vajilla. Llegó hasta Lanther. Se quedó de pie a su lado.
 
@@ -212,7 +212,7 @@ El zumbido seguía saliendo de los pedazos. Más bajo. Cada vez más bajo. Como 
 
 —Estas guardan desde arriba.
 
-* * *
+---
 
 Esa noche acamparon en el borde del valle, junto a la fuente de hierba verde de las niñas de Pim. Ilsa bajó de las cabañas de piedra con las demás. Doce. Se habían escondido en la cueva de arriba toda la mañana, como Livia les había dicho, y lo habían visto todo.
 
@@ -232,7 +232,7 @@ Luego se lo pensó mejor y se lo pidió de vuelta.
 
 Ilsa se rió.
 
-* * *
+---
 
 Los soldados contaban la historia alrededor de los fuegos. La oyó toda la noche, sin querer, porque lo oía todo. Una historia que crecía de fuego en fuego, como crecen las historias. El rey había levantado la espada. Habían corrido hacia el agujero. Habían salido de dentro las medusas, cientos, miles. Habían luchado con gran fuerza. Habían matado hasta la última.
 
@@ -260,7 +260,7 @@ El mulero se quedó a su lado sin decir nada. Olía a mula y a hojas. Tenía los
 
 —Por su propio pie. —El mulero se miró las manos—. Aunque lo llevaran.
 
-* * *
+---
 
 Volvieron en ocho días. Uno menos que a la ida. Las mulas iban más ligeras: faltaban sesenta y tres hombres, que se habían quedado en el valle de pie, blancos, mirando al agujero, con las caras de lo que habían visto. La de Tozuda no; Tozuda volvió, y mordió a su mulero dos veces.
 
@@ -280,7 +280,7 @@ Lo lloraron igual.
 
 Lanther lo oyó, y no lo entendió, y lo entendió.
 
-* * *
+---
 
 Mara la esperaba en el balcón del palacio.
 
@@ -316,7 +316,7 @@ Mara cerró los ojos.
 
 Y se echó a llorar, por primera vez en dos años, apoyada en su hija, con el aro de hierro en la mano, mientras abajo, en la ciudad, la gente seguía llorando a un rey que no había entendido nunca.
 
-* * *
+---
 
 Esa noche Lanther subió a la torre. Al cuarto de su hermano.
 

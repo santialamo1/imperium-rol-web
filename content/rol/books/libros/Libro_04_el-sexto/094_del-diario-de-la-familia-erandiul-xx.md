@@ -1,6 +1,6 @@
-## DEL DIARIO DE LA FAMILIA ÉRANDIUL (XX)
+# Del Diario de la familia Érandiul (XX)
 
-*Año 1439, primera entrada. Copiado tal como está, con la letra de la mano izquierda. Las faltas son del original.*
+*Año 1439, primera entrada. Copiado tal como está, con la letra de la mano* *izquierda. Las faltas son del original.*
 
 Año 1439 (o 832 D.bA). Del sexto Fragmento de Alkar, la Lágrima del Creador.
 
@@ -18,4 +18,4 @@ La batalla fue dura, y Jhark fue eliminado. Las dos tropas de ambas facciones su
 
 ¿La lágrima del Creador? Al parecer Arispar la ha bebido, pero nunca ha confirmado nada.
 
-*(Nota de la copista: «esta pirata». Era una mujer y se llamaba Jhark, y nadie ha encontrado su cuerpo; encontraron una casaca roja en una raíz. «Jerek se enteró»: se enteró por un pirata con fiebre. Y «las dos tropas de ambas facciones sufrimos grandes pérdidas por igualdad»: Érandiul no estaba en Lindos, pero escribe «sufrimos». Lo dejo. Es la primera vez que se pone del lado de alguien. «Al parecer Arispar la ha bebido, pero nunca ha confirmado nada.» Tampoco a mí. Pero lo he visto llevarse la mano al pecho, a la izquierda, por dentro de la casaca, cuando cree que no lo mira nadie. Como se toca uno una cosa fría para saber que sigue ahí. Lo de Fausto en el palacio lo vi yo. Dejó huellas de sangre en la estrella del vestíbulo. Las fregaron esa misma tarde. Yo había copiado ya una, en un papel, con carbón, por encima. La tengo. — M. V.)*
+*(Nota de la copista: «esta pirata». Era una mujer y se llamaba Jhark, y nadie ha* *encontrado su cuerpo; encontraron una casaca roja en una raíz. «Jerek se enteró»: se* *enteró por un pirata con fiebre. Y «las dos tropas de ambas facciones sufrimos grandes* *pérdidas por igualdad»: Érandiul no estaba en Lindos, pero escribe «sufrimos». Lo dejo.* *Es la primera vez que se pone del lado de alguien. «Al parecer Arispar la ha bebido, pero* *nunca ha confirmado nada.» Tampoco a mí. Pero lo he visto llevarse la mano al pecho, a* *la izquierda, por dentro de la casaca, cuando cree que no lo mira nadie. Como se toca uno* *una cosa fría para saber que sigue ahí. Lo de Fausto en el palacio lo vi yo. Dejó huellas* *de sangre en la estrella del vestíbulo. Las fregaron esa misma tarde. Yo había copiado ya* *una, en un papel, con carbón, por encima. La tengo. — M. V.)*

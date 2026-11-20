@@ -1,4 +1,4 @@
-## Capítulo 74 · Ithil
+# Capítulo 74 · Ithil
 
 *Bajo las ruinas de Tawarsinan. Año 400 de la Nueva Era.*
 
@@ -26,7 +26,7 @@ Lo bastante.
 
 Y cuando los orcos se fueron, Ithil bajó por el agujero.
 
-* * *
+---
 
 Al principio bajó solo.
 
@@ -40,7 +40,7 @@ Al cabo de veinte años eran trescientos.
 
 Al cabo de cuarenta, más. Ya no los contaba. Los elfos no contaban. Ithil había dejado de ser elfo, en eso, hacía mucho.
 
-* * *
+---
 
 Abajo no había nada.
 
@@ -60,15 +60,15 @@ Ithil había perdido a cuarenta así.
 
 Por eso había ido a buscar a la que olía a tres.
 
-* * *
+---
 
 No se la había dado.
 
 Ithil se acordaba de su cara. Pelirroja. De dieciocho años. En la cueva de sal de las montañas rojas, al lado de una mesa vacía. Con una espada de hierro negro y un frasquito de barro colgado del cuello. Con unos ojos grises que lo miraban como lo miraba su madre cuando era niño y hacía algo que no debía.
 
-Lo que se coge con hambre tira, le había dicho. El que baja a buscar a los que enseñan a no mirar acaba aprendiendo a no mirar.
+*Lo que se coge con hambre tira*, le había dicho. *El que baja a buscar a los que* *enseñan a no mirar acaba aprendiendo a no mirar.*
 
-Ya lo sé, le había contestado él.
+*Ya lo sé*, le había contestado él.
 
 *Entonces, ¿por qué bajas?*
 
@@ -76,9 +76,9 @@ Ithil no le había contestado a eso.
 
 Se lo contestó a sí mismo, después, muchas veces, en la oscuridad.
 
-*Porque Elen gritó un nombre hacia arriba. Con todas sus fuerzas. Y se cayó la plataforma igual.*
+*Porque Elen gritó un nombre hacia arriba. Con todas sus fuerzas. Y se cayó la* *plataforma igual.*
 
-* * *
+---
 
 El de la cara de niño vino a buscarlo en el año 400.
 
@@ -98,7 +98,7 @@ Y detrás de la mano, una cara.
 
 La de un niño de doce años. Blanca. Lisa. Con los ojos verdes.
 
-* * *
+---
 
 Ithil se levantó. Con el cuchillo.
 
@@ -122,7 +122,7 @@ Ithil se quedó con el mango en la mano. Jadeando. Delante de un niño de sal qu
 
 En la lengua vieja. La de Tawarsinan. Bien dicha.
 
-* * *
+---
 
 —Me llamo Pim —dijo—. Siéntate.
 
@@ -146,7 +146,7 @@ Ithil no dijo nada.
 
 Ithil se sentó.
 
-* * *
+---
 
 Hablaron mucho tiempo. En la oscuridad. Con la luz blanca de la mano de sal entre los dos como una vela. Los trescientos escuchaban desde la oscuridad, sin moverse.
 
@@ -168,7 +168,7 @@ Ithil se rio. Le salió raro. No se reía desde Tawarsinan.
 
 Ithil se quedó quieto.
 
-* * *
+---
 
 —Los orcos son míos —dijo Pim—. Los he enseñado yo. Cien años. Y no me importan. Son un pico. Una pala. Lo que sirvo los usa para picar, y ya han picado lo que tenían que picar. —Señaló las paredes negras de la sala—. Ya lo tiene. El trozo. La otra mitad. Lo bastante. —Se encogió de hombros—. Ahora los orcos sobran. Se van a quedar en el sur, peleando con los de la colina, durante años, porque no saben hacer otra cosa. Y alguien tendrá que matarlos.
 
@@ -190,7 +190,7 @@ Pim ladeó la cabeza.
 
 —Al revés —dijo—. Él guarda para que no salga. Tú guardarías para que no entren.
 
-* * *
+---
 
 Ithil lo pensó.
 
@@ -200,7 +200,7 @@ Pensó en Nimrath. En la orilla del río. Con los pies en el agua fría. Que no 
 
 Pensó en Elen.
 
-Pensó en lo que le había dicho la pelirroja. Acaba aprendiendo a no mirar.
+Pensó en lo que le había dicho la pelirroja. *Acaba aprendiendo a no mirar.*
 
 —¿Qué cuesta? —preguntó.
 
@@ -218,7 +218,7 @@ Se acordó de su nombre de dentro. Se lo había puesto su madre en una plataform
 
 —Sí —dijo.
 
-* * *
+---
 
 Los maestros vinieron de abajo.
 
@@ -238,17 +238,17 @@ Se tocó el pelo. Le caía por la espalda, largo, como siempre. Lo cogió. Lo mi
 
 Era blanco.
 
-* * *
+---
 
 En la superficie, en el año 400, en una ciudad de humanos a la que habían ido a parar los elfos que se quedaron, un viejo con un sombrero que le quedaba grande abrió un diario al que le quedaban once hojas y escribió una entrada.
 
-*La caída de la ciudad dividió a los elfos supervivientes. Algunos solo deseábamos reconstruirlo todo, mientras que otros, cegados por el horror, deseaban la aniquilación de los orcos.*
+*La caída de la ciudad dividió a los elfos supervivientes. Algunos solo deseábamos* *reconstruirlo todo, mientras que otros, cegados por el horror, deseaban la aniquilación de* *los orcos.*
 
-Se detuvo. Buscó una palabra. Para los que se fueron. Para los que bajaron. Una palabra que no fuera elfo.
+Se detuvo. Buscó una palabra. Para los que se fueron. Para los que bajaron. Una palabra que no fuera *elfo*.
 
-La encontró en la lengua de su madre. Una palabra vieja. Que no se usaba. Que quería decir el que mira hacia abajo. Que se decía, en Tawarsinan, hacía tres mil años, del niño que dijo el nombre que no había que decir.
+La encontró en la lengua de su madre. Una palabra vieja. Que no se usaba. Que quería decir *el que mira hacia abajo*. Que se decía, en Tawarsinan, hacía tres mil años, del niño que dijo el nombre que no había que decir.
 
-Estos elfos, que apodamos «Drows», escribió, nos abandonaron y nos acusaron de débiles.
+*Estos elfos, que apodamos «Drows»*, escribió, *nos abandonaron y nos acusaron de* *débiles.*
 
 La miró mucho rato.
 

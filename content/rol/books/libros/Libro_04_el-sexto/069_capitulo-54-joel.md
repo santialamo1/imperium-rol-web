@@ -1,4 +1,4 @@
-## Capítulo 54 · Joel
+# Capítulo 54 · Joel
 
 *Ullathorpe, la posada de Joss. Primavera del año 1417 de la Nueva Era (810 D.bA).*
 
@@ -20,7 +20,7 @@ El primero entró un lunes. Alto. Flaco. Pidió una habitación para cinco. Pag�
 
 No dijo su nombre. Joel no se lo preguntó. Llevaba cincuenta años detrás de esa barra; sabía cuándo no se pregunta.
 
-* * *
+---
 
 Los otros vinieron a lo largo de la semana.
 
@@ -30,7 +30,7 @@ El quinto vino el sábado.
 
 Joel lo vio entrar y se le cayó el vaso que estaba secando.
 
-* * *
+---
 
 No porque lo conociera. No lo conocía. O sí. No sabía.
 
@@ -46,7 +46,7 @@ Luego se volvió hacia la barra. Hacia Joel. Y Joel, por debajo de la capucha, l
 
 Lo había visto antes.
 
-* * *
+---
 
 En el 1412.
 
@@ -70,7 +70,7 @@ Y se fue.
 
 No volvió.
 
-* * *
+---
 
 Hasta ese sábado.
 
@@ -86,7 +86,7 @@ Estaba vacía.
 
 Era la primera noche en quince años que estaba vacía.
 
-* * *
+---
 
 Los cinco estuvieron dos semanas.
 
@@ -104,7 +104,7 @@ Pero esa noche no bebió. Por primera vez en mucho tiempo. Se quedó detrás de 
 
 *De las sombras un nuevo guerrero asoma.*
 
-* * *
+---
 
 La mesa de debajo de la escalera estuvo vacía las dos semanas.
 
@@ -116,7 +116,7 @@ Ahora lo echaba de menos.
 
 Era raro. Como echar de menos un dolor de muelas.
 
-* * *
+---
 
 La última noche, el grande bajó a la barra.
 
@@ -150,7 +150,7 @@ El grande se quedó un momento callado.
 
 —Por no decir nada.
 
-* * *
+---
 
 Joel miró la bolsa.
 
@@ -168,7 +168,7 @@ El grande no se movió.
 
 —¿El qué?
 
-—El del libro. —A Joel le temblaba la voz y no sabía por qué—. El del elfo. Su corazón es puro, su alma noble...
+—El del libro. —A Joel le temblaba la voz y no sabía por qué—. El del elfo. *Su* *corazón es puro, su alma noble...*
 
 El grande se levantó del taburete.
 
@@ -178,7 +178,7 @@ Cogió la capucha. Se la echó.
 
 Y subió la escalera.
 
-* * *
+---
 
 Joel no cogió la bolsa esa noche.
 
@@ -188,7 +188,7 @@ Luego cogió una jarra. La llenó. Se la bebió.
 
 Luego otra.
 
-* * *
+---
 
 Se fueron antes del alba. Joel los oyó. Los cinco pares de botas en la escalera. La puerta de la cuadra. Los caballos. Cinco. Hacia el este.
 
@@ -196,7 +196,7 @@ No se asomó.
 
 Se quedó detrás de la barra, con la cabeza en los brazos, con la jarra vacía, con la bolsa de cuero sin abrir. Hasta que salió el sol.
 
-* * *
+---
 
 Por la noche, la posada estaba llena.
 
@@ -216,7 +216,7 @@ Miró a Joel.
 
 Y levantó un dedo.
 
-* * *
+---
 
 Joel no sirvió la ronda.
 
@@ -224,7 +224,7 @@ Se quedó quieto detrás de la barra. Mirándolo. Con el vaso en la mano.
 
 El de gris no bajó el dedo.
 
-Joel pensó en la bolsa de cuero. En el grande. En no lo diga. En el elfo, sentado en la mesa de la chimenea, con la jarra en la mano, con la voz que no era suya.
+Joel pensó en la bolsa de cuero. En el grande. En *no lo diga*. En el elfo, sentado en la mesa de la chimenea, con la jarra en la mano, con la voz que no era suya.
 
 Pensó en que llevaba quince años contando lo que había dicho el elfo. Cada noche. A gente que pagaba otro. Y en que esa gente se iba contándolo. Y en que la colina entera lo sabía, lo recitaba, lo compraba a dos monedas en el puerto.
 
@@ -232,7 +232,7 @@ Y en que el que lo había hecho posible, el que había pagado las rondas para qu
 
 Esperando.
 
-* * *
+---
 
 Joel se subió a la barra.
 
@@ -254,7 +254,7 @@ Nadie más.
 
 Y se cayó de la barra.
 
-* * *
+---
 
 Lo recogió Mira. Y un carretero. Lo sentaron en una silla. Le echaron agua en la cara.
 
@@ -274,17 +274,17 @@ Encima, una pila de monedas de plata de la colina. Nuevas. Brillantes.
 
 Muchas más que nunca.
 
-* * *
+---
 
 Al día siguiente lo sabía todo Ullathorpe.
 
 A los tres días, la colina.
 
-*Joel, el de la posada, el del libro del elfo, borracho, subido a la barra, gritando que el sexto ha dormido en su casa. Que camina entre nosotros. Con capucha.*
+*Joel, el de la posada, el del libro del elfo, borracho, subido a la barra, gritando* *que el sexto ha dormido en su casa. Que camina entre nosotros. Con capucha.*
 
 *Y que eran cinco.*
 
-* * *
+---
 
 Joel no abrió nunca la bolsa de cuero del grande.
 

@@ -1,4 +1,4 @@
-## Capítulo 68 · Érandiul
+# Capítulo 68 · Érandiul
 
 *Nix. Otoño del año 356 de la Nueva Era.*
 
@@ -10,21 +10,21 @@
 
 El aire se puso pesado un jueves, y Érandiul lo notó antes que nadie porque era el único en Nix que todavía se acordaba de cómo pesaba el aire el año 30.
 
-Estaba en el mercado. En el de los jueves, el del puerto del río, donde las barcas de los gnomos descargaban fruta de las islas y los enanos vendían cazos que no se abollaban y los elfos de Nix, que ya no eran del sur ni del norte, que eran de Nix, vendían miel. Tenía un vaso de agua con miel en la mano. Lo tenía siempre. Doscientos años de agua con miel; los humanos del mercado lo llamaban el viejo de la miel y le guardaban un taburete.
+Estaba en el mercado. En el de los jueves, el del puerto del río, donde las barcas de los gnomos descargaban fruta de las islas y los enanos vendían cazos que no se abollaban y los elfos de Nix, que ya no eran del sur ni del norte, que eran de Nix, vendían miel. Tenía un vaso de agua con miel en la mano. Lo tenía siempre. Doscientos años de agua con miel; los humanos del mercado lo llamaban *el viejo de la miel* y le guardaban un taburete.
 
 Y el aire se puso pesado.
 
-No mucho. Un poco. Como cuando se cierra una puerta en otra habitación y cambia la presión y te zumban los oídos. Nadie más lo notó. Un gnomo que vendía lámparas se rascó una oreja. Un perro se puso a ladrar al este. Nada más.
+No mucho. Un poco. Como cuando se cierra una puerta en otra habitación y cambia la presión y te zumban los oídos. Nadie más lo notó. Un gnomo que vendía lámparas se rascó una oreja. Un perro se puso a ladrar al norte. Nada más.
 
 Érandiul dejó el vaso en el suelo.
 
-Miró al este.
+Miró al norte.
 
 El cielo estaba azul. Limpio. De otoño.
 
 Pero en el horizonte, muy lejos, por encima del bosque de las hojas grandes, había una raya. Fina. Gris oscura. Como una línea de tinta en el borde de un papel.
 
-* * *
+---
 
 Tenía quinientos años. Más o menos. Los elfos no contaban bien los años; contaban las veces que habían visto florecer un árbol concreto, y el de Érandiul había sido el castaño de la aldea de su madre, el que quemaron los orcos en el año 30, y desde entonces no tenía árbol y había perdido la cuenta. Quinientos. Por ahí.
 
@@ -34,7 +34,7 @@ Escribía todavía. El diario. El que no estaba terminado.
 
 Le quedaban treinta hojas.
 
-* * *
+---
 
 Esa noche no durmió. Se sentó en la ventana de su casa, que estaba en lo alto de la ciudad, en el barrio élfico, en un árbol —los elfos de Nix vivían en los árboles, como los de Tawarsinan, pero en árboles normales, de hojas grandes, que se doblaban con el viento y no llegaban a las nubes—, y miró al este toda la noche.
 
@@ -50,13 +50,13 @@ Y luego, en una línea, de norte a sur, a lo largo de leguas, cien.
 
 No eran hogueras. Las hogueras se encienden despacio. Estas se encendían de golpe, enteras, como si alguien hubiera prendido fuego a los árboles desde dentro. Y no se apagaban.
 
-Algunos bosques desaparecieron bajo unas llamas que salen de ninguna parte, escribió a la mañana siguiente. Con la mano temblando.
+*Algunos bosques desaparecieron bajo unas llamas que salen de ninguna parte*, escribió a la mañana siguiente. Con la mano temblando.
 
-* * *
+---
 
 Fue a ver al capitán. Al del Batallón de Nix, que era una mujer de cuarenta años, de Ullathorpe, que se llamaba Drusa Vane y que tenía un caballo blanco al que le hablaba como a un hijo.
 
-—Fuegos —le dijo—. Al este. En el bosque. Cien.
+—Fuegos —le dijo—. Al norte. En el bosque. Cien.
 
 Drusa lo escuchó. Con respeto; todos lo escuchaban con respeto, al viejo de la miel. Era el elfo que había fundado Nix. Lo decían los libros. El que se negó a entrar en Tawarsinan.
 
@@ -84,7 +84,7 @@ Drusa tardó en contestar.
 
 —Ninguno, maestro —dijo—. Ni yo. Hace doscientos años que no hay contra quién.
 
-* * *
+---
 
 Los seis jinetes volvieron a los dos días. Cinco.
 
@@ -100,7 +100,7 @@ El sexto no volvió. Los otros cinco no sabían dónde estaba. Se habían separa
 
 —En el Dorck.
 
-El Bosque Dorck. El de los orcos. El de antes. El que empezaba en la linde este de Nix y se alargaba hacia el norte, dos jornadas, hasta el último campamento, el círculo de piedras rojas con hierba entre las piedras, donde se rio un rey. Hacía doscientos años que era un bosque sin más. Los niños de Nix iban a coger setas a la linde.
+El Bosque Dorck. El de los orcos. El de antes. El que empezaba en la linde norte de Nix y se alargaba hacia el norte, dos jornadas, hasta el último campamento, el círculo de piedras rojas con hierba entre las piedras, donde se rio un rey. Hacía doscientos años que era un bosque sin más. Los niños de Nix iban a coger setas a la linde.
 
 Érandiul se volvió hacia Drusa.
 
@@ -120,7 +120,7 @@ El Bosque Dorck. El de los orcos. El de antes. El que empezaba en la linde este 
 
 —Capitana —dijo—. Ahora los tocan porque quieren que los oigamos.
 
-* * *
+---
 
 El sexto jinete volvió al día siguiente. Solo. A pie.
 
@@ -224,7 +224,7 @@ Sein se quitó las gafas.
 
 —Porque el miedo llega en una tarde —dijo Sein—. Y ellos tienen tiempo.
 
-* * *
+---
 
 Esa noche escribió en el diario.
 
@@ -234,35 +234,37 @@ Una carta.
 
 *A la que no se muere.*
 
-Se la había visto escribir a Amael. Al que lee. Cartas sin firmar, con un palote. Él nunca había escrito ninguna. Los elfos no escribían cartas; escribían cortezas, y las cortezas eran para todos, no para uno.
+Se la había visto escribir a Amael. *Al que lee.* Cartas sin firmar, con un palote. Él nunca había escrito ninguna. Los elfos no escribían cartas; escribían cortezas, y las cortezas eran para todos, no para uno.
 
 Esta era para una.
 
-*No sé dónde estás. Hace doce años que te fuiste al oeste a ver con tus ojos. El gnomo dice que hueles lejos. El de las gafas dice que no ha llegado ningún papel con un palote en seis años.*
+*No sé dónde estás. Hace doce años que te fuiste al oeste a ver con tus ojos. El* *gnomo dice que hueles lejos. El de las gafas dice que no ha llegado ningún papel con un* *palote en seis años.*
 
-*Aquí el aire pesa. Como en el 30. ¿Te acuerdas? Tú tenías diecinueve años y yo me quité el sombrero en una puerta a medio hacer. Y tú me dijiste que ya lo sabías. Que tenías a una mujer que se iba a enamorar de mí. No se enamoró de mí. Se enamoró de Verawel. Tenías razón a medias. Como siempre.*
+*Aquí el aire pesa. Como en el 30. ¿Te acuerdas? Tú tenías diecinueve años y yo me* *quité el sombrero en una puerta a medio hacer. Y tú me dijiste que ya lo sabías. Que tenías* *a una mujer que se iba a enamorar de mí.* *No se enamoró de mí. Se enamoró de Verawel. Tenías razón a medias. Como siempre.*
 
-*Se oyen tambores en el Dorck. Hay fuegos que salen de ninguna parte. Hay ochocientos soldados que no han peleado nunca y una capitana que le habla a su caballo.*
+*Se oyen tambores en el Dorck. Hay fuegos que salen de ninguna parte. Hay* *ochocientos soldados que no han peleado nunca y una capitana que le habla a su caballo.*
 
-*No sé qué hacer. No soy guerrero. Soy el que apunta.*  
-*Si lees esto, ven.*  
+*No sé qué hacer. No soy guerrero. Soy el que apunta.*
+
+*Si lees esto, ven.*
+
 *Si no lo lees, da igual. Lo he escrito. Que conste.*
 
 Lo firmó.
 
 No con un palote. Con un sombrero. Pequeño. Dibujado.
 
-* * *
+---
 
 Al día siguiente vinieron las nubes.
 
-Negras. Desde el este. Altas, enormes, con la panza roja de los fuegos de debajo, rodando por encima del bosque de las hojas grandes como rueda una ola sobre la arena. Con viento. Un viento fuerte, caliente, que olía a azufre y a pelo quemado y que arrancaba las tejas de las casas del barrio del puerto y las tiraba al río.
+Negras. Desde el norte. Altas, enormes, con la panza roja de los fuegos de debajo, rodando por encima del bosque de las hojas grandes como rueda una ola sobre la arena. Con viento. Un viento fuerte, caliente, que olía a azufre y a pelo quemado y que arrancaba las tejas de las casas del barrio del puerto y las tiraba al río.
 
 Nix entera salió a la calle a mirarlas.
 
 Nadie decía nada.
 
-Érandiul estaba en su ventana, en el árbol, con el sombrero en la mano, porque el viento se lo había querido llevar dos veces. Miraba las nubes. Y debajo de las nubes, en el borde del bosque, al este, donde empezaba el Dorck, vio una cosa que nadie más vio, porque nadie más en Nix tenía ojos de elfo.
+Érandiul estaba en su ventana, en el árbol, con el sombrero en la mano, porque el viento se lo había querido llevar dos veces. Miraba las nubes. Y debajo de las nubes, en el borde del bosque, al norte, donde empezaba el Dorck, vio una cosa que nadie más vio, porque nadie más en Nix tenía ojos de elfo.
 
 Un estandarte.
 
@@ -282,7 +284,7 @@ Lo miró un rato.
 
 No lo tachó. Los elfos no tachaban.
 
-* * *
+---
 
 Esa noche, en la puerta de su casa, tres golpes.
 
@@ -306,7 +308,7 @@ Era un hombre de unos cuarenta años con gafas. Con la capa llena de barro. Con 
 
 —No he mandado ninguna carta.
 
-—Ya. Por eso. —Sein se puso las gafas—. Dice que hueles a carta sin mandar. Que es peor.
+—Ya. Por eso. —Sein se puso las gafas—. Dice que hueles a carta *sin mandar*. Que es peor.
 
 Entró. Se sentó en la silla de la mesa. Miró el diario, abierto, con el círculo con una raya.
 
@@ -324,7 +326,7 @@ Y al lado:
 
 *La piedra del orco gris. Dicen los diez de Novel que era así.*
 
-* * *
+---
 
 Esa noche no durmió ninguno de los dos.
 

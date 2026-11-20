@@ -1,10 +1,10 @@
-## Capítulo 29 · Érandiul
+# Capítulo 29 · Érandiul
 
 *El bosque del norte y la puerta a medio hacer. Otoño del año 30 de la Nueva Era.*
 
 Volvió a casa para contarlo todo, y no quedaba nadie a quien contárselo.
 
-Lo había ensayado por el camino. Once días de camino, desde la colina hasta la loma del árbol, a pie, sin la mula, porque Tozuda se había negado en redondo a salir de la cuadra del cuartel y él no había tenido valor para discutir con ella. Once días ensayando. He vivido entre ellos. He comido su pan. He ido a su guerra. He visto morir a su rey. He visto lo que hay debajo de las montañas. Las sin cara no son lo que decía la abuela. No muerden. Guardan. Lo decía en voz alta, a los árboles, en su lengua, y los árboles le contestaban con su murmullo de siempre, y él cambiaba una palabra aquí y otra allá, como quien pule una piedra con el pulgar.
+Lo había ensayado por el camino. Once días de camino, desde la colina hasta la loma del árbol, a pie, sin la mula, porque Tozuda se había negado en redondo a salir de la cuadra del cuartel y él no había tenido valor para discutir con ella. Once días ensayando. *He vivido entre ellos. He comido su pan. He ido a su guerra. He visto morir a su rey. He* *visto lo que hay debajo de las montañas. Las sin cara no son lo que decía la abuela. No* *muerden. Guardan.* Lo decía en voz alta, a los árboles, en su lengua, y los árboles le contestaban con su murmullo de siempre, y él cambiaba una palabra aquí y otra allá, como quien pule una piedra con el pulgar.
 
 *Abuela, me equivoqué. Mirar sin tocar no basta.*
 
@@ -12,7 +12,7 @@ Esa era la frase con la que pensaba empezar. La tenía muy pensada. Era una fras
 
 No la dijo nunca.
 
-* * *
+---
 
 Lo olió antes de verlo.
 
@@ -24,7 +24,7 @@ Eso fue lo peor. Lo recordaría siempre. No el olor, no el humo. Que los árbole
 
 Echó a correr.
 
-* * *
+---
 
 No quedaba nada.
 
@@ -48,7 +48,7 @@ No lo habían cortado. Tenía marcas de hacha en el tronco, muchas, a la altura 
 
 Debajo, sentada con la espalda contra el tronco, estaba su abuela.
 
-* * *
+---
 
 Tenía los ojos abiertos. Miraba el río, abajo, a lo lejos, entre los árboles que ya no estaban. Tenía las manos en el regazo, una encima de otra. Tenía la ropa de los días de fiesta, la gris con bordados de hojas plateadas, la que se ponía para los nacimientos y para los muertos.
 
@@ -60,9 +60,9 @@ Y cuando acabaron de cortar y de quemar, cuando se fueron, se había muerto de m
 
 Le cerró los ojos.
 
-No pudo decirle la frase. Abuela, me equivoqué. Mirar sin tocar no basta. La tenía en la garganta. No le salió. Le pareció cruel, de pronto. Decírsela ahora. A ella. Que había mirado hasta morirse.
+No pudo decirle la frase. *Abuela, me equivoqué. Mirar sin tocar no basta.* La tenía en la garganta. No le salió. Le pareció cruel, de pronto. Decírsela ahora. A ella. Que había mirado hasta morirse.
 
-Le dijo otra cosa, en su lengua, bajito, con la palabra que se usaba para los muertos. El sitio donde los árboles no saben tu nombre.
+Le dijo otra cosa, en su lengua, bajito, con la palabra que se usaba para los muertos. *El sitio donde los árboles no saben tu nombre.*
 
 Y luego, sin saber por qué —porque lo había visto hacer cien veces en la colina, en la fuente, la víspera del día más corto—, le dijo su nombre. El de dentro. El que solo se dice una vez.
 
@@ -70,7 +70,7 @@ Mirando hacia arriba.
 
 No pasó nada. No vio nada. No era de los que ven. Pero el árbol, encima de él, el pino viejo lleno de heridas, se estremeció entero de la copa a la raíz, sin viento, y soltó una lluvia de agujas secas que le cayó encima como cae la nieve.
 
-* * *
+---
 
 Encontró a los vivos al anochecer.
 
@@ -92,7 +92,7 @@ Lo miraron llegar como se mira a un fantasma.
 
 —Un poco —dijo.
 
-* * *
+---
 
 Le contaron lo que habían visto. Pocos lo habían visto bien; había sido de noche, y rápido, y con fuego. Grandes, decían. Más grandes que un hombre. Grises, o verdes, o del color del barro. Con colmillos. Con ojos amarillos que brillaban en la oscuridad como los de los lobos. Con hachas de piedra y de hierro malo, mal forjado, de las que se rompen y se vuelven a forjar. Muchos. Cien. Doscientos. No sabían.
 
@@ -106,11 +106,11 @@ Nadie contestó.
 
 Él no dijo nada tampoco. Pero pensó en el valle negro. En el agujero. En la cosa que había estado despierta una mañana entera, hambrienta, gritando por debajo de la piedra, hasta que un muchacho de veintidós años bajó a taparla con su pecho.
 
-Las sin cara bajarían de las montañas, decía la abuela.
+*Las sin cara bajarían de las montañas*, decía la abuela.
 
 Y quizá no fueran las únicas que oyeron el grito.
 
-* * *
+---
 
 Se lo dijo esa misma noche, a los cuarenta y tres, junto a un fuego pequeño en la boca de la cueva.
 
@@ -136,7 +136,7 @@ Silencio.
 
 —No sé si son buenos —dijo—. No lo sé. Llevo treinta años mirándolos y no lo sé. Pero sé que tienen un muro. Y nosotros ya no tenemos árboles.
 
-* * *
+---
 
 Se levantó un elfo del fondo de la cueva.
 
@@ -148,7 +148,7 @@ Lo miraron todos.
 
 —Verawel —dijo su prima, con un tono que no supo leer—. Tú no tienes por qué. Tú no eres de aquí.
 
-—No. —Verawel se ajustó las correas del cofre—. Soy de más al oeste. De los que guardan las cortezas. —Vio la cara que ponía él, que conocía a los de la colina y sabía que para ellos el oeste era el mar, y suspiró—. La costa de los de la colina corre de norte a sur. Al suroeste, más allá de la Punta Gris, la tierra vuelve a salir al mar y se mete hacia el poniente, leguas y leguas, con valles y ríos y montañas rojas. Ahí detrás. Ahí es mi oeste. —Se volvió hacia él—. Llegué hace un mes a vuestro pueblo, buscando a tu abuela. Porque era la última que se acordaba de las letras viejas. Las de las piedras de las montañas. Las de las sin cara. —Hizo una pausa—. Se acordaba de catorce. Me las enseñó. Antes de que vinieran.
+—No. —Verawel se ajustó las correas del cofre—. Soy de más al oeste. De los que guardan las cortezas. —Vio la cara que ponía él, que conocía a los de la colina y sabía que para ellos el oeste era el mar, y suspiró—. La costa de los de la colina corre de norte a sur; detrás, al norte, solo hay mar. Al suroeste, más allá de la Punta Gris, la tierra vuelve a salir al mar y se mete hacia el poniente, leguas y leguas, con valles y ríos y montañas rojas. Ahí detrás. Ahí es mi oeste. —Se volvió hacia él—. Llegué hace un mes a vuestro pueblo, buscando a tu abuela. Porque era la última que se acordaba de las letras viejas. Las de las piedras de las montañas. Las de las sin cara. —Hizo una pausa—. Se acordaba de catorce. Me las enseñó. Antes de que vinieran.
 
 —¿Las letras de las sin cara?
 
@@ -162,7 +162,7 @@ Verawel no sonrió. No era de los que sonríen. Pero algo se le movió en la car
 
 —Entonces —dijo— vamos a llegar tarde.
 
-* * *
+---
 
 Fueron once días, otra vez. Más lentos, con los viejos y los niños. Comiendo raíces y lo que cazaban. Durmiendo en los huecos de los árboles. Mirando atrás. Siempre mirando atrás.
 
@@ -174,11 +174,11 @@ Al sur, lejos, más allá del bosque. Una columna gris. Luego otra. Luego, por l
 
 El octavo día oyeron los tambores.
 
-No sabían que eran tambores. No tenían tambores en su pueblo. Era un ruido sordo, rítmico, que venía de detrás, de los bosques, de muy lejos, y que se notaba más en los pies que en los oídos. Bum. Bum. Bum. Como un corazón enorme latiendo debajo de la tierra.
+No sabían que eran tambores. No tenían tambores en su pueblo. Era un ruido sordo, rítmico, que venía de detrás, de los bosques, de muy lejos, y que se notaba más en los pies que en los oídos. *Bum. Bum. Bum.* Como un corazón enorme latiendo debajo de la tierra.
 
 Apretaron el paso.
 
-* * *
+---
 
 Llegaron a la colina por el norte, un día de finales de noviembre, con el cielo gris y la primera nieve en el aire.
 
@@ -198,7 +198,7 @@ Lo oyó desde allí. Desde media legua. No como oía los árboles: más bajo, m�
 
 —No. —Se rió. Tenía los ojos llenos de lágrimas, y no supo bien de qué—. No, sola no. Nadie hace nada solo aquí. Se ve que es una costumbre.
 
-* * *
+---
 
 La puerta del norte no tenía puerta.
 
@@ -228,7 +228,7 @@ Volvió a mirar a Hakon.
 
 Y se quitó el sombrero.
 
-* * *
+---
 
 Fue un gesto pequeño. Lo había hecho mil veces, para rascarse, para secarse el sudor, para dormir. Lo había hecho debajo de un árbol, once días antes, sin saber por qué, delante de su abuela muerta. Ahora lo hizo despacio, con las dos manos, y se lo quitó y lo sostuvo contra el pecho, como sostenían los humanos los sombreros en los funerales.
 
@@ -246,7 +246,7 @@ No supo qué pedir. No tenía palabras en la lengua de los humanos. En la suya t
 
 —Os pido el muro —dijo.
 
-* * *
+---
 
 Hakon tardó mucho en contestar. Lo vio pensar. Lo vio mirar las orejas, y la cara, y el sombrero, y los cuarenta y tres, y la nieve, y el bosque, y otra vez las orejas.
 
@@ -276,7 +276,7 @@ No parecía sorprendida en absoluto.
 
 —Ya lo sabía —dijo.
 
-* * *
+---
 
 Bajó del andamio por la escala, sin prisa, con la piedra todavía en las manos. Atravesó el arco. Pasó entre los hombres de Hakon, que se apartaron. Llegó hasta él. Se detuvo delante.
 
@@ -318,21 +318,21 @@ Y se volvió hacia la ciudad, con la piedra en las manos, y levantó la voz para
 
 —¡Pasad! ¡Hay sopa! ¡Y al que no le guste, que me lo diga a mí!
 
-* * *
+---
 
 Esa noche, desde su casa pequeña cerca del palacio, que seguía siendo suya porque había pagado el alquiler de un año entero antes de irse, Érandiul abrió el cuaderno de corteza que llevaba escribiendo desde el año veintisiete y escribió, a la luz de una vela, en su lengua, con las letras de su pueblo:
 
-*Éste fue el día en que los elfos y los humanos se conocieron. Creo que es un día que quedará para siempre en la memoria de ambos pueblos.*
+*Éste fue el día en que los elfos y los humanos se conocieron. Creo que es un día* *que quedará para siempre en la memoria de ambos pueblos.*
 
 Lo leyó. Le pareció solemne. Le pareció bonito. Le pareció un poco mentira.
 
-No escribió que los humanos se los habían quedado mirando como a fantasmas. No escribió que un soldado había dejado caer la espada. No escribió que la muchacha de las piedras le había dicho ya lo sabía. No escribió que la nieve caía y la gente lloraba y que una niña con una cesta se había acercado a su prima y le había dado un pan sin decir nada. No escribió nada de su abuela.
+No escribió que los humanos se los habían quedado mirando como a fantasmas. No escribió que un soldado había dejado caer la espada. No escribió que la muchacha de las piedras le había dicho *ya lo sabía*. No escribió que la nieve caía y la gente lloraba y que una niña con una cesta se había acercado a su prima y le había dado un pan sin decir nada. No escribió nada de su abuela.
 
 Pensó en añadirlo. Tenía la pluma mojada.
 
 No lo añadió.
 
-Lo escribo todo, había dicho la mujer de la tinta en la nariz, la de las letras, la que según la princesa se iba a enamorar de Verawel. Y luego decido qué guardo.
+*Lo escribo todo*, había dicho la mujer de la tinta en la nariz, la de las letras, la que según la princesa se iba a enamorar de Verawel. *Y luego decido qué guardo.*
 
 Él no. Él no lo escribía todo. Lo guardaba antes de escribirlo.
 

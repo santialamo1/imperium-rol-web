@@ -1,6 +1,6 @@
-## Capítulo 10 · Aira Dunmar
+# Capítulo 10 · Aira Dunmar
 
-*El ala de las reinas, palacio de Banderbill. Invierno del año 1040 de la Nueva Era (433 D.bA).*
+*El ala de las reinas, palacio de Banderbill. Invierno del año 1040 de la Nueva Era* *(433 D.bA).*
 
 Lo oyó por primera vez en una tienda de telas, en el 1017, y lo oyó por última vez el día que dejó de salir a la calle.
 
@@ -12,11 +12,11 @@ Aira no se movió. Siguió mirando el lino. Era azul, de un azul pálido, como e
 
 Seguían colgadas veintitrés años después. Nadie las había descolgado. Nadie había entrado en ese cuarto en diez años, salvo una criada gnoma que lo barría los lunes y que había dejado de preguntar por qué.
 
-* * *
+---
 
 Lanther tenía razón. Lo dijeron.
 
-Lo dijeron en las tabernas del puerto y en las cocinas del palacio y en los pasillos del Consejo y en los salones de las casas de los gremios. Lo dijeron con pena y con burla y con rabia y con esa satisfacción pequeña y fea que tiene la gente cuando algo que no le gusta sale mal. Lo dijeron de mil formas. La cómica. La de las tablas. La de las botas. La que se metía en una tina. Una mujer así no es para eso. Una mujer así está para que la miren, no para que dé hijos. ¿Qué esperaban de una que se pinta la cara?
+Lo dijeron en las tabernas del puerto y en las cocinas del palacio y en los pasillos del Consejo y en los salones de las casas de los gremios. Lo dijeron con pena y con burla y con rabia y con esa satisfacción pequeña y fea que tiene la gente cuando algo que no le gusta sale mal. Lo dijeron de mil formas. *La cómica. La de las tablas. La de las botas. La* *que se metía en una tina. Una mujer así no es para eso. Una mujer así está para que la* *miren, no para que dé hijos. ¿Qué esperaban de una que se pinta la cara?*
 
 Lo dijeron un año, y otro, y otro.
 
@@ -26,7 +26,7 @@ Aira lo oyó todo. Lanther le había dicho que lo oiría y lo oyó, y Lanther le
 
 Se lo repetía. A veces se lo creía.
 
-* * *
+---
 
 Fue a todos los médicos. A los humanos de la colina, que le dieron hierbas amargas y le dijeron que comiera hígado. A los elfos del barrio, que le cantaron las formas suaves sobre el vientre durante siete noches seguidas y luego le dijeron, con mucha delicadeza, que el vientre estaba bien y que no sabían. A los gnomos de Nueva Esperanza, que le hicieron preguntas que ninguna mujer debería contestar y apuntaron las respuestas en tablas. A una vieja de Ullathorpe que leía las tripas de los gallos y que le dijo que el problema no era ella.
 
@@ -38,7 +38,7 @@ La vieja miró las tripas del gallo mucho rato.
 
 Aira le pagó el doble. No sabía por qué. Volvió a la colina llorando, en el carruaje, y no supo si lloraba de pena o de alivio.
 
-* * *
+---
 
 En el invierno del 1040, Aira cumplió cincuenta años.
 
@@ -60,7 +60,7 @@ Se sentó en la cama. Se quitó las botas.
 
 —Te he traído una cosa.
 
-Le dio un paquete pequeño, envuelto en papel de la biblioteca. Aira lo abrió. Era un libro. Pequeño, viejo, de tapas de piel gastadas. La niña de las botas de río. El texto de la obra. La primera copia, la de maese Odo, con sus anotaciones al margen, con las frases subrayadas, con una mancha de agua en la página del segundo acto.
+Le dio un paquete pequeño, envuelto en papel de la biblioteca. Aira lo abrió. Era un libro. Pequeño, viejo, de tapas de piel gastadas. *La niña de las botas de río*. El texto de la obra. La primera copia, la de maese Odo, con sus anotaciones al margen, con las frases subrayadas, con una mancha de agua en la página del segundo acto.
 
 —Odo me lo dejó cuando murió —dijo Astragal—. Dijo que era para ti. Que esperara a que fueras vieja.
 
@@ -70,7 +70,7 @@ Aira se rio. Luego se echó a llorar. Luego se rio otra vez.
 
 —Ya lo sé. No he podido esperar.
 
-* * *
+---
 
 Después, mucho después, cuando él ya estaba tumbado y la vela casi consumida, Aira le dijo lo que llevaba un año sin atreverse a decirle.
 
@@ -92,7 +92,7 @@ Astragal no se movió.
 
 Se calló.
 
-* * *
+---
 
 Astragal se incorporó en la cama. Despacio. Le crujieron las rodillas.
 
@@ -120,13 +120,13 @@ Aira lo miraba sin pestañear.
 
 —La cadena se acaba —dijo Aira. Muy despacio.
 
-—Para todo el mundo. Sí. Se acaba. Eso dirán. El linaje de Bhargaras llega a su fin. Lo escribirán en los libros. Lo llorarán en las tabernas. Y la Orden se volverá loca buscando, y no encontrará nada, porque no sabrá dónde mirar. Porque nunca ha mirado a las hijas.
+—Para todo el mundo. Sí. Se acaba. Eso dirán. *El linaje de Bhargaras llega a su* *fin.* Lo escribirán en los libros. Lo llorarán en las tabernas. Y la Orden se volverá loca buscando, y no encontrará nada, porque no sabrá dónde mirar. Porque nunca ha mirado a las hijas.
 
 —Y ellos se quedarán tranquilos.
 
 —Ellos se quedarán haciendo pan.
 
-* * *
+---
 
 La vela se apagó. Ninguno de los dos se movió para encender otra.
 
@@ -154,7 +154,7 @@ Astragal tardó.
 
 Silencio.
 
-—Porque si te lo decía —dijo Astragal al fin— lo sabrías. Y lo sabrías siempre. Y un día, en una tienda de telas, alguien diría una cómica, qué esperaban, y tú pensarías: yo sé una cosa que vosotros no sabéis. Y se te notaría. En la cara. En cómo andas. Y alguien se preguntaría qué sabe la reina. Y alguien preguntaría. —Hizo una pausa—. La Orden lleva mil años viendo lo que la gente sabe por cómo anda.
+—Porque si te lo decía —dijo Astragal al fin— lo sabrías. Y lo sabrías siempre. Y un día, en una tienda de telas, alguien diría *una cómica, qué esperaban*, y tú pensarías: *yo* *sé una cosa que vosotros no sabéis*. Y se te notaría. En la cara. En cómo andas. Y alguien se preguntaría qué sabe la reina. Y alguien preguntaría. —Hizo una pausa—. La Orden lleva mil años viendo lo que la gente sabe por cómo anda.
 
 Aira no contestó.
 
@@ -164,11 +164,11 @@ Aira no contestó.
 
 —Porque ahora tienes que callártela tú también.
 
-* * *
+---
 
 Aira se quedó despierta hasta el alba.
 
-Pensó en el cuarto de las cortinas azules. En las veintitrés veces que había entrado allí sola y se había sentado en la cuna vacía. En los médicos. En la vieja del gallo: la llave no está en esta casa.
+Pensó en el cuarto de las cortinas azules. En las veintitrés veces que había entrado allí sola y se había sentado en la cuna vacía. En los médicos. En la vieja del gallo: *la llave* *no está en esta casa*.
 
 Pensó en una niña que miraba hacia arriba en una panadería.
 
@@ -178,13 +178,13 @@ Le dio rabia. Mucha. Durante una hora.
 
 Luego dejó de darle rabia.
 
-Porque se dio cuenta de que él había hecho lo mismo que hacía ella en el teatro. Lo que le había enseñado maese Odo el primer día. El público no existe. Tú haces tu papel como si nadie supiera el final. Aunque lo sepan todos. Aunque lo sepas tú.
+Porque se dio cuenta de que él había hecho lo mismo que hacía ella en el teatro. Lo que le había enseñado maese Odo el primer día. *El público no existe. Tú haces tu papel* *como si nadie supiera el final. Aunque lo sepan todos. Aunque lo sepas tú.*
 
 Él había hecho su papel. El del último. Treinta años. Sin que se le notara.
 
 Y ella había hecho el suyo. El de la reina sin hijos. Sin saber que era un papel.
 
-* * *
+---
 
 Al alba, se levantó. Se vistió. Fue al cuarto de las cortinas azules.
 
@@ -210,13 +210,13 @@ Aira lo pensó.
 
 —Obras. —Aira sonrió. Por primera vez en mucho tiempo, de verdad—. De las de los domingos. Para niños. Ya no hay nadie que las escriba, desde que se murió Odo. Las cómicas, ya se sabe, solo sirven para que las miren.
 
-* * *
+---
 
 Escribió diecinueve. Entre el 1040 y el 1060, el año que murió, de una fiebre de invierno, a los setenta, en la cama de roble negro, con Astragal al lado.
 
 Se representaron todas en «El juglar». Los domingos por la tarde. Algunas se siguen representando.
 
-Una de ellas se llama La panadera que no quiso ser princesa. Es una obra pequeña, de un acto, sobre una niña que se escapa de un palacio con una cesta de pan y se casa con un panadero y no le dice nunca a nadie quién es. Al final, la niña, ya vieja, le dice a su nieta, que le pregunta por qué no volvió nunca al palacio:
+Una de ellas se llama *La panadera que no quiso ser princesa*. Es una obra pequeña, de un acto, sobre una niña que se escapa de un palacio con una cesta de pan y se casa con un panadero y no le dice nunca a nadie quién es. Al final, la niña, ya vieja, le dice a su nieta, que le pregunta por qué no volvió nunca al palacio:
 
 —Porque en el palacio todo el mundo me miraba para ver qué iba a ser. Y en la panadería solo me miraban para ver si el pan estaba hecho.
 

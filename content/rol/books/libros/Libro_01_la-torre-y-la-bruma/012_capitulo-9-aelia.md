@@ -1,4 +1,4 @@
-## Capítulo 9 · Aelia
+# Capítulo 9 · Aelia
 
 *Torre de la Unión. Año 62.*
 
@@ -40,7 +40,7 @@ Hector se echó a reír. No pudo evitarlo. Su madre rió también, una risa seca
 
 Hector se quedó muy quieto.
 
-* * *
+---
 
 La cámara estaba en la planta cuarenta de la torre, en las habitaciones que Lisandro había diseñado para la familia imperial y que Aelia había ocupado desde la muerte de Lucius, porque desde allí se veía el norte, los bosques de Tiber, el río Hinur donde había muerto su primer marido. Fuera soplaba el viento de otoño. La vela temblaba.
 
@@ -58,7 +58,7 @@ El viento golpeó los postigos.
 
 —No puedes saber eso.
 
-—Leí sus cartas. Una criada mía las copiaba. —Aelia se encogió levemente de hombros bajo la manta—. Una de ellas, a un capitán de Mator, decía: Cuando el viejo caiga, el Tiberius caerá con él. Que parezca la peste. La quemé después, para que nunca la encontraras. Me arrepiento de eso. Ahora no tengo pruebas, y vas a tener que creerme.
+—Leí sus cartas. Una criada mía las copiaba. —Aelia se encogió levemente de hombros bajo la manta—. Una de ellas, a un capitán de Mator, decía: *Cuando el viejo* *caiga, el Tiberius caerá con él. Que parezca la peste.* La quemé después, para que nunca la encontraras. Me arrepiento de eso. Ahora no tengo pruebas, y vas a tener que creerme.
 
 Hector se levantó. Cojeó hasta la ventana. Miró hacia el norte, hacia la oscuridad donde estaban los bosques.
 
@@ -68,7 +68,7 @@ Hector se levantó. Cojeó hasta la ventana. Miró hacia el norte, hacia la oscu
 
 —Le hiciste creer que la profecía se cumplía.
 
-—La profecía se cumplía, hijo. —Aelia cerró los ojos—. Eso es lo que he tardado treinta años en entender. Tres de tu sangre darás a la guerra. Varo murió en la guerra, aunque fuera en su tienda y por mi oro. La guerra no está solo en los campos de batalla. Está en todas partes. Está en una viuda con un frasco en el dobladillo. Lisandro lo sabía. Lo escribió.
+—La profecía se cumplía, hijo. —Aelia cerró los ojos—. Eso es lo que he tardado treinta años en entender. *Tres de tu sangre darás a la guerra.* Varo murió en la guerra, aunque fuera en su tienda y por mi oro. La guerra no está solo en los campos de batalla. Está en todas partes. Está en una viuda con un frasco en el dobladillo. Lisandro lo sabía. Lo escribió.
 
 Hector se volvió. Su madre parecía muy pequeña entre los almohadones.
 
@@ -80,7 +80,7 @@ Hector se volvió. Su madre parecía muy pequeña entre los almohadones.
 
 —No. —Aelia sonrió, muy cansada—. No es verdad. Me arrepiento cada día. Pero lo volvería a hacer. Las dos cosas a la vez, hijo. Como el agua y la arena en el fondo de un cuenco. Eso es lo que nadie te cuenta de la venganza: que no se elige una cosa u otra. Se carga con las dos.
 
-* * *
+---
 
 Hector se quedó con ella hasta el amanecer. No hablaron más del asunto. Ella le pidió que le leyera algo, y él le leyó, con su voz ronca de soldado, uno de los poemas de Lisandro, el que hablaba de una torre que crecía como un árbol y de las raíces que nadie ve. Aelia escuchó con los ojos cerrados.
 

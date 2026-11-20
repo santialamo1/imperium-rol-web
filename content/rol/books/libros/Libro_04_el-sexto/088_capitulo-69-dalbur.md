@@ -1,4 +1,4 @@
-## Capítulo 69 · Dalbur
+# Capítulo 69 · Dalbur
 
 *Tiama y el camino helado del sur. Otoño del año 1438 de la Nueva Era (831 D.bA).*
 
@@ -6,7 +6,7 @@ Hay cosas que no se funden.
 
 Dalbur lo sabía desde los cuarenta años, que en un enano es ser un niño. Lo aprendió en la fragua de su padre, Dalgrim, bajo el glaciar de Kûr, antes de que llegaran los altos, antes de que hubiera Tiama. Un día su padre echó al crisol una piedra que había traído un minero de muy abajo, de más abajo que nadie, y la piedra no se fundió. El fuego blanco, el de las tres fuelles. Tres días. La piedra salió del crisol igual que había entrado, fría, gris, con una veta blanca.
 
-Hay cosas que no se funden, le dijo su padre. No las fuerces. Guárdalas.
+*Hay cosas que no se funden*, le dijo su padre. *No las fuerces. Guárdalas.*
 
 Dalbur guardó muchas. En ochocientos años.
 
@@ -18,7 +18,7 @@ Solo se guardan.
 
 O se pierden.
 
-* * *
+---
 
 La carta de Orrin llegó a Tiama a finales del verano.
 
@@ -26,21 +26,21 @@ En un cuervo. Los de Illiandor usaban cuervos, negros, grandes, que cruzaban el 
 
 La carta era corta.
 
-*Maestro. Me han traído la espada. La del bosque. Un hombre de las minas, de los que saquean. Dice que la cogió de las manos de un muerto. No miente; tiene sangre seca hasta el codo. Quiere que le haga una vaina que la tape, porque dice que de noche le habla. No le habla. Le enseña.*
+*Maestro. Me han traído la espada. La del bosque. Un hombre de las minas, de los* *que saquean. Dice que la cogió de las manos de un muerto. No miente; tiene sangre seca* *hasta el codo. Quiere que le haga una vaina que la tape, porque dice que de noche le* *habla. No le habla. Le enseña.*
 
 *La he tocado. Sin querer. Por la empuñadura.*
 
-*Maestro, la llevo a Tiama. A usted. Usted sabrá qué hacer. Salgo mañana. No le diga a nadie que voy. Ni a los de la colina.*
+*Maestro, la llevo a Tiama. A usted. Usted sabrá qué hacer. Salgo mañana. No le* *diga a nadie que voy. Ni a los de la colina.*
 
 *Orrin.*
 
-* * *
+---
 
 Orrin había sido su aprendiz doscientos años.
 
 Enano de Illiandor, de los de las forjas del sur, de manos finas para un enano, que hacía bisagras y cerraduras y cosas pequeñas que nadie más sabía hacer. Había llegado a Tiama con setenta años, que en un enano es tener la barba corta, porque había oído que en Tiama había un maestro que sabía templar el hielo. Dalbur lo tuvo en la forja doscientos años. No le enseñó lo del hielo. Le enseñó todo lo demás.
 
-Luego Orrin volvió a Illiandor. Abrió su propia forja, en la calle del puerto, la de los cuervos. Hacía las cerraduras de la mitad de las casas ricas del Este. Mandaba una carta cada invierno: Maestro. Hace frío. He hecho una cerradura que no abre nadie. Dígame si está bien. Y una cerradura dentro, envuelta en lana. Dalbur las tenía todas en un estante. Ciento cuarenta y tres. Ninguna la había abierto.
+Luego Orrin volvió a Illiandor. Abrió su propia forja, en la calle del puerto, la de los cuervos. Hacía las cerraduras de la mitad de las casas ricas del Este. Mandaba una carta cada invierno: *Maestro. Hace frío. He hecho una cerradura que no abre nadie. Dígame si* *está bien.* Y una cerradura dentro, envuelta en lana. Dalbur las tenía todas en un estante. Ciento cuarenta y tres. Ninguna la había abierto.
 
 Orrin no sabía de la Orden. No sabía que su maestro tenía la vida de un Emperador muerto. Sabía que su maestro era muy viejo y que no se moría, y nunca le había preguntado por qué, porque los enanos no preguntan esas cosas.
 
@@ -48,13 +48,13 @@ Pero había oído hablar de la espada.
 
 Todo el Este había oído hablar de la espada.
 
-* * *
+---
 
 Dalbur conocía la historia mejor que nadie.
 
-Sabía dónde estaba la espada desde que estaba. En el Bosque Muerto, en Rhagnark, al norte de Wonder, clavada en una raíz. La había dejado allí un soldado de Wonder, Edran Vos, en el 729, persiguiendo orcos detrás de Hesper Hask: la clavó en una raíz blanca para no caerse y no la pudo sacar, y el bosque creció alrededor. Desde entonces enseñaba. A un tal Corwin, entre el 838 y el 843, le enseñó lo que pasaría si era como era, y Corwin no lo fue, y un niño que se llamaba Pol vivió. Los de la Orden lo sabían. Lo apuntaba Verawel en el pergamino, en la letra de las Madres: La espada. En el bosque que no crece. Enseña. Y debajo, en la de él: No se toca.
+Sabía dónde estaba la espada desde que estaba. En el Bosque Muerto, en Rhagnark, al norte de Wonder, clavada en una raíz. La había dejado allí un soldado de Wonder, Edran Vos, en el 729, persiguiendo orcos detrás de Hesper Hask: la clavó en una raíz blanca para no caerse y no la pudo sacar, y el bosque creció alrededor. Desde entonces enseñaba. A un tal Corwin, entre el 838 y el 843, le enseñó lo que pasaría si era como era, y Corwin no lo fue, y un niño que se llamaba Pol vivió. Los de la Orden lo sabían. Lo apuntaba Verawel en el pergamino, en la letra de las Madres: *La espada. En el bosque que no crece. Enseña.* Y debajo, en la de él: *No se toca.*
 
-Sabía que un mago de Lindos, Illidan, la había tocado en el 1400 y que había vuelto loco. No loco: lleno. Lleno de lo que había visto. Que había muerto en el 1404 en Lindos, al lado de una poza, diciendo que había visto a seis.
+Sabía que un mago de Lindos, Aelthar, la había tocado en el 1400 y que había vuelto loco. No loco: lleno. Lleno de lo que había visto. Que había muerto en el 1404 en Lindos, al lado de una poza, diciendo que había visto a seis.
 
 Y sabía, porque se lo dijeron los cuervos de Illiandor y las caravanas de Wonder, lo que había pasado ese verano.
 
@@ -66,15 +66,33 @@ Dalbur lo oyó y se rio, en la forja, solo, con una risa que asustó al cuervo.
 
 *Claro. Los manda a los dos al mismo sitio. Para que se maten encima.*
 
-* * *
+---
 
 Se mataron encima.
 
-En el Bosque Muerto, a finales de la primavera. La Armada por el sur, Orac por el norte. Y en medio, porque el ruido de una batalla llega lejos y los que viven de lo que se cae lo oyen antes que nadie, una horda de saqueadores de las minas de Rhagnark. Hombres sin bandera. De los que bajan a las minas abandonadas a sacar lo que queda y suben a los campos de batalla a sacar lo que queda.
+En el Bosque Muerto, a finales de la primavera. La Armada por el sur, Orac por el oeste. Y en medio, porque el ruido de una batalla llega lejos y los que viven de lo que se cae lo oyen antes que nadie, una horda de saqueadores de las minas de Rhagnark. Hombres sin bandera. De los que bajan a las minas abandonadas a sacar lo que queda y suben a los campos de batalla a sacar lo que queda.
 
 Murieron muchos. De los tres.
 
-La espada la encontró un caballero de la Armada. Van Hellsing, se llamaba; el segundo de su nombre. De Wonder. Joven. Había tropezado con la raíz en la oscuridad del bosque, mientras huía de un orco, y había alargado la mano para no caerse, y la mano había cerrado sobre una empuñadura.
+Y murieron más por lo que salió de debajo.
+
+Eso no lo cuenta el Diario. Lo contaron los pocos de Wonder que volvieron — Wonder, que entonces todavía se llamaba así—, y Dalbur lo oyó años después, en la forja, de boca de un sargento con media cara quemada que no quería hablar de ello y habló toda una noche.
+
+Que a la segunda noche de la batalla, en lo más oscuro del Bosque Muerto, los muertos se levantaron. No los de la batalla. Otros. Más viejos. Que estaban enterrados allí desde antes, en hoyos sin cruz entre las raíces, y que salieron de la tierra con la tierra todavía encima. Grises de piel, podridos, con las venas negras por debajo, como ramas de invierno pintadas en el cuerpo. Andaban despacio. No hablaban. No sentían el hierro. El hierro les resbalaba, como resbala en la piel de una anguila, y había que darles muchas veces en el mismo sitio para abrirles algo.
+
+Los de Wonder los llamaban zombis. Una palabra de las aldeas del bosque, de las abuelas, para los que la tierra devuelve. No eran los muertos grises de las historias del norte; esos eran otra cosa, y el sargento lo dijo dos veces, como si importara. Estos estaban *hechos*. Alguien los había hecho. Con un oficio. Con el mismo oficio, dijo el sargento, que el de los muertos de las historias viejas, los de antes de la colina, los que andaban con las venas negras y a los que el agua salada soltaba. Nadie sabía quién. Los habían hecho hacía poco, eso sí: la carne aún no se les había caído del todo. Unos años. No más. Y luego los habían dejado allí, debajo de las raíces, esperando, como se deja un perro atado a la puerta de una casa vacía.
+
+Entre ellos iban otros peores. Los zombis lóbregos, los llamó el sargento: más altos, más negros, con las venas por fuera de la piel y los ojos llenos de un barro oscuro, que corrían cuando los demás andaban y que no se paraban aunque se les partiera la cabeza, hasta que alguien les clavaba la cabeza al suelo. Y uno, uno solo, que no andaba con los demás sino detrás, quieto, con una corona de raíces en la cabeza y una capa podrida de terciopelo, y al que los muertos miraban antes de moverse. Los soldados de Wonder, que se reían hasta de eso, le pusieron nombre esa misma noche, con la palabra de los gnomos para los señores: el Lord Zombie.
+
+No se rieron mucho rato.
+
+Pelearon contra ellos los tres. La Armada, Orac y los saqueadores de minas. Sin ponerse de acuerdo, cada uno por su lado, espalda contra espalda con el que una hora antes le quería abrir la cabeza. Hasta el alba. Al alba, un orco de Orac se acordó de lo que decían las historias: que el agua salada los soltaba. Se les echaba agua de mar de los odres, la que llevaban los de Orac para lavarse las heridas, y se caían. Se quedaban en el suelo, quietos, muertos del todo, con las venas negras volviéndose grises.
+
+El Lord Zombie no se cayó. Se fue. Andando hacia atrás, hacia lo más hondo del bosque, con su corona de raíces, despacio, sin darse la vuelta. Nadie lo siguió.
+
+Y después de eso, como si no hubiera pasado nada, los tres volvieron a matarse entre ellos por la espada.
+
+La espada la encontró un caballero de la Armada. Aldo Harwen, se llamaba; el segundo de su nombre. De Wonder. Joven. Había tropezado con la raíz en la oscuridad del bosque, mientras huía de un orco, y había alargado la mano para no caerse, y la mano había cerrado sobre una empuñadura.
 
 Dicen que gritó.
 
@@ -88,7 +106,7 @@ Lo mató por la espalda. Con un pico de minero.
 
 Y cogió la espada por la hoja, con un trapo, porque había visto lo que le pasaba al que la cogía por la empuñadura.
 
-* * *
+---
 
 El saqueador se llamaba Kesh. Eso lo supo Dalbur después.
 
@@ -102,7 +120,7 @@ Kesh no quería verlo. Por eso fue a Illiandor. A la forja de los cuervos. Al he
 
 *Hazme una vaina que no se abra.*
 
-* * *
+---
 
 Orrin le hizo la vaina. De hierro negro, con una cerradura dentro de la empuñadura que solo él sabía abrir. Kesh se la llevó contento.
 
@@ -118,11 +136,11 @@ Sin querer. Por la empuñadura. Para apartarla del umbral.
 
 Y vio.
 
-* * *
+---
 
 Dalbur no supo nunca qué vio Orrin. La carta no lo decía.
 
-Pero decía la llevo a Tiama. A usted. Y Dalbur entendió.
+Pero decía *la llevo a Tiama. A usted.* Y Dalbur entendió.
 
 Orrin había visto lo que haría si seguía siendo Orrin. Y lo que haría era eso: llevársela a su maestro. Por el camino del sur. Por el estrecho helado. Solo, sin decírselo a nadie, en pleno otoño.
 
@@ -130,7 +148,7 @@ Y lo que pasaba después, Orrin lo había visto también.
 
 Y la llevaba igual.
 
-* * *
+---
 
 Dalbur salió de Tiama al día siguiente de llegar la carta.
 
@@ -142,7 +160,7 @@ Ochocientos años. Las piernas no eran las de antes.
 
 Anduvo cuatro días.
 
-* * *
+---
 
 Lo encontró al quinto.
 
@@ -156,7 +174,7 @@ Tenía una herida en el costado. Fina. De estoque, no de hacha. Limpia.
 
 No tenía la espada.
 
-* * *
+---
 
 Dalbur se arrodilló a su lado.
 
@@ -170,7 +188,7 @@ Una cerradura. Pequeña. De latón. Del tamaño de una nuez. Sin llave.
 
 La ciento cuarenta y cuatro.
 
-* * *
+---
 
 Lo oyó entonces.
 
@@ -178,13 +196,13 @@ Lejos. Hacia el sur. Por el camino del estrecho. Una voz que cantaba.
 
 Bien. Muy bien. Una voz de bardo, de las que se oyen en las cortes, limpia, alta, con un laúd detrás. Cantaba una canción que Dalbur no conocía y que hablaba de un herrero que llevaba una espada a su maestro y no llegaba. Cantaba con alegría. Como se canta cuando se ha hecho bien un trabajo.
 
-Fenomaniac.
+Cendrel.
 
 Dalbur lo conocía de nombre. Todo el Este lo conocía. El bardo de Orac. El que cantaba en las plazas de las ciudades libres las canciones de la otra orilla, tan bonitas que la gente lloraba y luego no se acordaba de por qué. El que no llevaba armadura, ni escudo, ni más arma que un estoque fino, de corte, en el cinturón, que nadie le había visto usar.
 
 Hasta ahora.
 
-* * *
+---
 
 Dalbur se levantó.
 
@@ -200,15 +218,15 @@ Cuatro notas. Re, mi, sol, mi.
 
 La canción de remar. La que tocaba Baervan en su torre. La que cantó Ilan a la cría. La que nadie sabía de dónde venía.
 
-Fenomaniac la cantaba bien. Mejor que nadie. Con el laúd. Con la voz limpia. Despacio. Como una burla, o como una pregunta.
+Cendrel la cantaba bien. Mejor que nadie. Con el laúd. Con la voz limpia. Despacio. Como una burla, o como una pregunta.
 
 Dalbur se quedó quieto en el camino, en la nieve, con la mano en la empuñadura de la espada de hielo.
 
-Quieto, decía la runa.
+*Quieto*, decía la runa.
 
 Dalbur no la sacó.
 
-* * *
+---
 
 No por miedo.
 
@@ -224,7 +242,7 @@ Se sentó a su lado, contra la roca. Con el gato. Con el cuervo. Y esperó a que
 
 Luego cargó a Orrin a la espalda y subió a Tiama.
 
-* * *
+---
 
 Lo enterraron en las fumarolas. Al lado del gólem. Al lado de una losa sin nombre donde está la madre de una cría de yeti. Al lado de Damián Hask y de los suyos.
 
@@ -234,11 +252,11 @@ Y en la forja, en el estante, al final de la fila, puso la cerradura ciento cuar
 
 No la intentó abrir.
 
-* * *
+---
 
 Las noticias llegaron en invierno. Por los cuervos, por las caravanas, por los barcos que todavía cruzaban.
 
-Que Fenomaniac había atravesado todo el continente del Este y el océano con la espada en la espalda, en su vaina de hierro negro, cantando en cada puerto. Que había llegado a Orac. Que se la había entregado él mismo al Demonio, de rodillas, en la playa roja.
+Que Cendrel había atravesado todo el continente del Este y el océano con la espada en la espalda, en su vaina de hierro negro, cantando en cada puerto. Que había llegado a Orac. Que se la había entregado él mismo al Demonio, de rodillas, en la playa roja.
 
 Que el Demonio había abierto la cerradura. La de Orrin. La que no abría nadie.
 
@@ -250,7 +268,7 @@ Los que estaban en la playa dijeron que de satisfacción. Que gritó como grita 
 
 Dalbur no se lo creyó del todo.
 
-* * *
+---
 
 Porque los cuervos trajeron otra cosa, después, en primavera, que no salió en ninguna crónica.
 
@@ -270,7 +288,7 @@ No como una orden. Como quien lo dice de algo que ha visto.
 
 *Calla.*
 
-* * *
+---
 
 Dalbur leyó la carta en la forja. Con el gato en las rodillas.
 

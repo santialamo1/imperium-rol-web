@@ -1,6 +1,6 @@
-## Capítulo 57 · Ilan Hask
+# Capítulo 57 · Ilan Hask
 
-*Annkör, entre el glaciar de Kûr y Tiama. Pleno invierno del año 846 de la Nueva Era (239 D.bA).*
+*Annkör, entre el glaciar de Kûr y Tiama. Pleno invierno del año 846 de la Nueva* *Era (239 D.bA).*
 
 Los yetis empezaron a llegar a Tiama un martes, que en Annkör no quería decir nada porque allí los días no tenían nombre, pero que Ilan seguía contando porque se lo había enseñado su madre y porque, en la oscuridad de tres meses del invierno de Kûr, contar los días era lo único que separaba un día de otro.
 
@@ -10,7 +10,7 @@ No uno. Muchos. Veinte el primer día. Cuarenta el segundo. Manadas enteras, con
 
 Como se mira una puerta cuando hay algo detrás de uno.
 
-* * *
+---
 
 —Huyen —dijo Dalbur.
 
@@ -26,13 +26,13 @@ No se veía nada. Noche. Cortinas verdes, arriba, moviéndose. Nieve.
 
 Pero se oía.
 
-* * *
+---
 
 No con los oídos. Ilan no lo oía con los oídos.
 
 Lo oía en la espada.
 
-La llevaba a la espalda, en la vaina de piel de foca que le había cosido Brin el año de la boda. Azul. Transparente. Con el hilo de hierro dentro, en el alma, y la runa en la empuñadura. Quieto. Llevaba treinta y dos años con ella. La conocía como se conoce una mano. Sabía cuándo tenía frío, que era siempre, y cuándo tenía más frío, que era cuando había yetis machos cerca, y cuándo zumbaba un poco, que era cuando se acercaba un gólem de los que andaban sin runas.
+La llevaba a la espalda, en la vaina de piel de foca que le había cosido Brin el año de la boda. Azul. Transparente. Con el hilo de hierro dentro, en el alma, y la runa en la empuñadura. *Quieto.* Llevaba treinta y dos años con ella. La conocía como se conoce una mano. Sabía cuándo tenía frío, que era siempre, y cuándo tenía más frío, que era cuando había yetis machos cerca, y cuándo zumbaba un poco, que era cuando se acercaba un gólem de los que andaban sin runas.
 
 Ahora zumbaba.
 
@@ -48,7 +48,7 @@ Dalbur la miró. Se le pusieron los ojos muy pequeños.
 
 —Algo anda —dijo—. Algo grande. Que no debería andar.
 
-* * *
+---
 
 Lo vieron al cuarto día.
 
@@ -68,7 +68,7 @@ Blanca. Fría. Subiendo y bajando.
 
 Como un ojo que respira.
 
-* * *
+---
 
 —Migyur —dijo Dalbur. Muy bajo.
 
@@ -76,21 +76,21 @@ Ilan se volvió.
 
 —¿Lo conoces?
 
-—Lo conozco. —Dalbur no apartaba la vista—. Hace veinticuatro años. Una cría. Huellas hondas en el pecho. Hacia la grieta. —Tragó—. Los enanos lo llaman así desde entonces. A lo que se fue a la grieta. Migyur. El que se lo tragó. Las madres enanas se lo dicen a los niños para que no suban al glaciar: que viene Migyur. —Se le movió la barba —. Pensé que era un cuento. Que se había muerto. Las crías solas se mueren.
+—Lo conozco. —Dalbur no apartaba la vista—. Hace veinticuatro años. Una cría. Huellas hondas en el pecho. Hacia la grieta. —Tragó—. Los enanos lo llaman así desde entonces. A lo que se fue a la grieta. *Migyur.* El que se lo tragó. Las madres enanas se lo dicen a los niños para que no suban al glaciar: que viene Migyur. —Se le movió la barba —. Pensé que era un cuento. Que se había muerto. Las crías solas se mueren.
 
 —Esta no.
 
 —Esta no.
 
-* * *
+---
 
 Ilan fue a ver al Emperador.
 
-No al viejo. El viejo, Bhargaras XI, tenía ciento seis años y estaba en el sur, en las islas que había descubierto, en una que no tenía nombre todavía, con la mitad de la flota y el almirante, buscando no sabía nadie qué. Hacía dos años que no volvía a Tiama. Mandaba cartas. Cortas. Con la letra grande y torcida. Estoy bien. Hay una isla con cabras. Volveré.
+No al viejo. El viejo, Bhargaras XI, tenía ciento seis años y estaba en el sur, en las islas que había descubierto, en una que no tenía nombre todavía, con la mitad de la flota y el almirante, buscando no sabía nadie qué. Hacía dos años que no volvía a Tiama. Mandaba cartas. Cortas. Con la letra grande y torcida. *Estoy bien. Hay una isla con cabras.* *Volveré.*
 
 Fue a ver al joven. Al heredero. Asgal.
 
-Tenía treinta y un años, el pelo negro de su madre Kerin, que se había muerto en el 840 en un canal de hielo, pilotando, como quería, y los ojos grises de su padre. Había nacido en la fragua de Tiama y no había salido de Annkör más que dos veces. Hablaba enano mejor que la lengua de la colina. Le decían el príncipe de hielo, y no le gustaba.
+Tenía treinta y un años, el pelo negro de su madre Kerin, que se había muerto en el 840 en un canal de hielo, pilotando, como quería, y los ojos grises de su padre. Había nacido en la fragua de Tiama y no había salido de Annkör más que dos veces. Hablaba enano mejor que la lengua de la colina. Le decían *el príncipe de hielo*, y no le gustaba.
 
 Estaba en la casa grande. Con un mapa. Con los capitanes de la guarnición. Con la cara blanca.
 
@@ -106,7 +106,7 @@ Asgal levantó la vista.
 
 —El de los cuentos.
 
-* * *
+---
 
 Asgal se quedó callado mucho rato.
 
@@ -120,7 +120,7 @@ Zumbaba. Se oía. En la sala. Todos la oyeron.
 
 Brillaba.
 
-—Dalbur me la hizo en el 814 —dijo Ilan—. Con hielo de la veta honda. Donde se oye lo de abajo. Me dijo que tenía la runa de quieto. Para que algo que anda sin rumbo se pare. Para que algo que quiere irse se quede. —Miró la espada—. Le pregunté qué tenía que parar. Me dijo que algún día lo sabría.
+—Dalbur me la hizo en el 814 —dijo Ilan—. Con hielo de la veta honda. Donde se oye lo de abajo. Me dijo que tenía la runa de *quieto*. Para que algo que anda sin rumbo se pare. Para que algo que quiere irse se quede. —Miró la espada—. Le pregunté qué tenía que parar. Me dijo que algún día lo sabría.
 
 Asgal miró la espada.
 
@@ -130,7 +130,7 @@ Luego a Ilan.
 
 —Lo sé.
 
-* * *
+---
 
 Brin no quiso.
 
@@ -160,7 +160,7 @@ Lo besó.
 
 —Siempre.
 
-* * *
+---
 
 Salió solo.
 
@@ -174,9 +174,9 @@ En las fumarolas, Dalbur se paró.
 
 Dalbur lo miró.
 
-—Tú tienes la espada —dijo—. Que se llama quieto. Si te pregunta algo, contéstale con ella.
+—Tú tienes la espada —dijo—. Que se llama *quieto*. Si te pregunta algo, contéstale con ella.
 
-* * *
+---
 
 Ilan subió la ladera.
 
@@ -190,7 +190,7 @@ Quieto. Esperándolo.
 
 Como si supiera que venía.
 
-* * *
+---
 
 De cerca era peor.
 
@@ -208,33 +208,33 @@ Migyur no iba a atacar.
 
 Iba a preguntar.
 
-* * *
+---
 
 Ilan lo notó. En la cabeza. No con los oídos.
 
 Una voz. Que no era de Migyur. Que venía de debajo de Migyur. De la luz. De debajo de la luz. De muy abajo. Que hablaba como un recaudador. Bajo. Tranquilo. Razonable.
 
-*Soldado. Tienes frío. Tienes una mujer y un hijo que se llama como un muerto. Tienes un bisabuelo que no se muere y que no te sube a ver. Tienes una espada que te hizo un enano que ya no oye lo que tú oyes.*
+*Soldado. Tienes frío. Tienes una mujer y un hijo que se llama como un muerto.* *Tienes un bisabuelo que no se muere y que no te sube a ver. Tienes una espada que te hizo* *un enano que ya no oye lo que tú oyes.*
 
 *¿Qué quieres?*
 
-* * *
+---
 
 Ilan no contestó.
 
-La pelirroja se lo había dicho al almirante, en el 744, en Lindos. Y el almirante se lo había dicho a él, en el 811, en la popa del Tessa, mirando el hielo. Si alguien te pregunta qué quieres, no le contestes. Nada. Ni nada.
+La pelirroja se lo había dicho al almirante, en el 744, en Lindos. Y el almirante se lo había dicho a él, en el 811, en la popa del *Tessa*, mirando el hielo. *Si alguien te pregunta* *qué quieres, no le contestes. Nada. Ni nada.*
 
 No contestó.
 
 Pero la voz no se fue.
 
-*¿Qué quieres, soldado? Todos quieren algo. El yeti quería a su madre. Se la di. Al revés, pero se la di. Tú también quieres algo. Lo noto. Quieres que tu bisabuelo suba. Que suba a tu casa. Que te mire. Que te diga que te ha visto.*
+*¿Qué quieres, soldado? Todos quieren algo. El yeti quería a su madre. Se la di. Al* *revés, pero se la di. Tú también quieres algo. Lo noto. Quieres que tu bisabuelo suba. Que* *suba a tu casa. Que te mire. Que te diga que te ha visto.*
 
 Ilan apretó la empuñadura. La runa le quemaba la palma a través del guante.
 
 *Eso te lo puedo dar.*
 
-* * *
+---
 
 Ilan levantó la cabeza.
 
@@ -252,9 +252,9 @@ La levantó. Despacio. Con las dos manos. Y la clavó en la nieve. Delante de é
 
 Y dijo la runa. En enano. En voz alta. La primera palabra que aprende un enano de Kûr.
 
-—Quieto.
+—*Quieto.*
 
-* * *
+---
 
 La espada brilló.
 
@@ -274,7 +274,7 @@ El hielo llegó al pecho. A la luz.
 
 Y la tapó.
 
-* * *
+---
 
 Silencio.
 
@@ -292,7 +292,7 @@ Los ojos de Migyur se cerraron. Despacio.
 
 Se durmió.
 
-* * *
+---
 
 Dalbur subió con los dos viejos. Con las barras de hierro negro. Con las cuerdas.
 
@@ -302,9 +302,9 @@ Cortaron el hielo alrededor de Migyur. No tocaron el que lo cubría. El de alred
 
 Lo llevaron a la cueva de cristal.
 
-* * *
+---
 
-La cueva de cristal estaba en la ladera este del Sombrero. La montaña del glaciar. Los enanos la conocían desde siempre; no entraban. Era una cueva de hielo puro, transparente, sin una burbuja, donde la luz de las cortinas entraba de noche y rebotaba en las paredes y lo llenaba todo de verde. Los enanos decían que era el único sitio de Kûr donde no se oía nada. Ni el latido. Ni el viento. Ni el propio corazón.
+La cueva de cristal estaba en la ladera este del Sombrero. La montaña del glaciar, en el centro de Annkör, a una jornada larga al este de Tiama, sobre el Pasaje Norte. Los enanos la conocían desde siempre; no entraban. Era una cueva de hielo puro, transparente, sin una burbuja, donde la luz de las cortinas entraba de noche y rebotaba en las paredes y lo llenaba todo de verde. Los enanos decían que era el único sitio de Kûr donde no se oía nada. Ni el latido. Ni el viento. Ni el propio corazón.
 
 Metieron a Migyur al fondo.
 
@@ -314,9 +314,9 @@ Dalbur selló la entrada. Con hielo de la veta. Con hierro negro. Con una runa e
 
 *Quieto.*
 
-* * *
+---
 
-Esa noche, en Tiama, Ilan no durmió.
+La noche que volvieron a Tiama, Ilan no durmió.
 
 Brin lo abrazó. El niño, Edran, se le subió encima. No le preguntaron nada.
 
@@ -334,13 +334,13 @@ Dalbur tardó en contestar.
 
 —No lo sé —dijo—. Lo de su pecho no es suyo. Es de abajo. Si lo matas, a lo mejor se queda lo de abajo. Suelto. Sin nadie que lo lleve. —Se encogió de hombros—. Así, por lo menos, sabemos dónde está.
 
-* * *
+---
 
 El elfo viejo del sombrero no estaba en Tiama. Estaba en la isla de las cabras, con el Emperador. No lo apuntó en el diario. Nadie lo apuntó en el diario.
 
-Lo apuntó Asgal, en una carta a su padre, que tardó seis meses en llegar a la isla de las cabras y que el Emperador leyó en voz alta en la cubierta del Tessa, delante del almirante y del elfo viejo.
+Lo apuntó Asgal, en una carta a su padre, que tardó seis meses en llegar a la isla de las cabras y que el Emperador leyó en voz alta en la cubierta del *Tessa*, delante del almirante y del elfo viejo.
 
-*Padre. Ilan Hask ha parado a Migyur. No lo ha matado. Lo hemos metido en la cueva de cristal. Dalbur dice que se queda. Ilan dice que lo siente. Yo no sé qué decir. Vuelve. Asgal.*
+*Padre. Ilan Hask ha parado a Migyur. No lo ha matado. Lo hemos metido en la* *cueva de cristal. Dalbur dice que se queda. Ilan dice que lo siente. Yo no sé qué decir.* *Vuelve. Asgal.*
 
 El almirante, al oír el nombre de Ilan, miró arriba.
 
@@ -352,10 +352,10 @@ No volvió a Tiama nunca.
 
 Pero eso fue después.
 
-* * *
+---
 
 En el pergamino de los Fragmentos, en el sótano de la biblioteca, al año siguiente, Verawel escribió dos líneas nuevas. Con la letra que subía.
 
-*Una espada de hielo azul de la veta honda de Kûr, con un hilo de hierro de la colina dentro y la runa enana de «quieto». La lleva Ilan Hask. Para lo que anda sin rumbo.*
+*Una espada de hielo azul de la veta honda de Kûr, con un hilo de hierro de la* *colina dentro y la runa enana de «quieto». La lleva Ilan Hask. Para lo que anda sin* *rumbo.*
 
-*Una cría de yeti que se tragó una piedra que latía. Ahora es grande. Duerme de pie en la cueva de cristal del Sombrero, en Annkör, tapada de hielo. Se llama Migyur. No se sabe si es suyo lo que tiene en el pecho. Cuesta una madre.*
+*Una cría de yeti que se tragó una piedra que latía. Ahora es grande. Duerme de pie* *en la cueva de cristal del Sombrero, en Annkör, tapada de hielo. Se llama Migyur. No se* *sabe si es suyo lo que tiene en el pecho. Cuesta una madre.*

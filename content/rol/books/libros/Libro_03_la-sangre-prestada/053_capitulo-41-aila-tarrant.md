@@ -1,6 +1,6 @@
-## Capítulo 41 · Aila Tarrant
+# Capítulo 41 · Aila Tarrant
 
-*La costa del nuevo continente. Primavera y verano del año 721 de la Nueva Era (114 D.bA).*
+*La costa del nuevo continente. Primavera y verano del año 721 de la Nueva Era* *(114 D.bA).*
 
 Lo primero que hizo Aila Tarrant en el nuevo continente fue caerse de culo en el barro, y lo segundo, reírse, y las dos cosas las vio el Emperador.
 
@@ -16,7 +16,7 @@ Aila le cogió la mano. Se levantó. Tenía barro hasta la cintura. Tenía a la 
 
 El viejo se echó a reír.
 
-* * *
+---
 
 Habían salido de Nix en otoño. Doce barcos. Los seis grandes del Emperador y seis más que habían hecho en las gradas después, en los cinco años de viajes. Mil novecientas personas. No soldados, sobre todo. Familias.
 
@@ -30,7 +30,7 @@ En el nuevo continente, decía el pregón, a cada familia se le daba tierra. La 
 
 Habían vendido todo. Y aquí estaban. En el barro.
 
-* * *
+---
 
 El barro era el problema.
 
@@ -48,7 +48,7 @@ Las primeras dos semanas vivieron en las tiendas. En el barro. Con el barro entr
 
 —En dos años nos ha tragado.
 
-* * *
+---
 
 La empalizada se empezó la tercera semana.
 
@@ -56,7 +56,7 @@ La organizó el Emperador. Aila lo supo por fin entonces: que el viejo de la pla
 
 El Emperador no se acordaba. O hacía como que no.
 
-Lo vio cada día. En el barro, como todos. Con la corona torcida. Dirigiendo a los carpinteros. Marcando con estacas dónde iban los troncos. Discutiendo con los enanos sobre la profundidad del foso. Cargando troncos él mismo, a los cien años, con un cuarto de elfo y las rodillas de un carpintero, hasta que su hijo, el alférez mayor, un hombre serio de cincuenta y tres años que miraba el hombro de la gente al hablar, le quitaba el tronco de las manos y le decía abuelo, siéntate.
+Lo vio cada día. En el barro, como todos. Con la corona torcida. Dirigiendo a los carpinteros. Marcando con estacas dónde iban los troncos. Discutiendo con los enanos sobre la profundidad del foso. Cargando troncos él mismo, a los cien años, con un cuarto de elfo y las rodillas de un carpintero, hasta que su hijo, el alférez mayor, un hombre serio de cincuenta y tres años que miraba el hombro de la gente al hablar, le quitaba el tronco de las manos y le decía *abuelo, siéntate*.
 
 —Padre —corregía el Emperador—. Soy tu padre.
 
@@ -64,7 +64,7 @@ Lo vio cada día. En el barro, como todos. Con la corona torcida. Dirigiendo a l
 
 —Eso me dicen.
 
-* * *
+---
 
 Los troncos los cortaban del bosque. El que estaba detrás de las colinas, a media legua. Árboles enormes, de una madera roja que no conocía nadie, que olía a resina y a pimienta. Los elfos de Nix que habían venido les cantaban antes de cortarlos. Pedían perdón. Luego los cortaban.
 
@@ -76,27 +76,27 @@ Ella cosía. Las lonas de las tiendas. Las velas rotas. Los toldos. Los sacos. C
 
 Los niños jugaban en el barro. Eran los únicos que estaban contentos.
 
-* * *
+---
 
 En la sexta semana abrió la taberna.
 
 No era una taberna. Era una tienda grande, de lona de vela, con un fuego en medio y unas mesas hechas con tablas de los barcos. La abrió un orco. Grum. Uno enorme, gris, con los colmillos limados, que había sido cocinero en el primer viaje del Emperador, en el 715, y que decía que había salvado la expedición con un guiso.
 
-La taberna se llamaba El Guiso. Naturalmente.
+La taberna se llamaba *El Guiso*. Naturalmente.
 
-Servía un guiso. Uno solo. De lo que hubiera: pescado, aves de patas largas, unos bichos como conejos con cuernos que había por las colinas, hierbas del bosque, algo que Grum llamaba paciencia. Siempre el mismo y siempre distinto. Por una moneda de cobre, un cuenco y un trozo de pan.
+Servía un guiso. Uno solo. De lo que hubiera: pescado, aves de patas largas, unos bichos como conejos con cuernos que había por las colinas, hierbas del bosque, algo que Grum llamaba *paciencia*. Siempre el mismo y siempre distinto. Por una moneda de cobre, un cuenco y un trozo de pan.
 
 Aila fue la primera noche. Con Tom y los niños. Por no cocinar.
 
 Era lo mejor que había comido nunca.
 
-No porque estuviera bueno; no lo estaba. Porque era caliente y había un fuego y había gente. Mucha gente. Sentada en las tablas. Hablando. Riendo. Con el barro hasta las rodillas y la lluvia golpeando la lona y un orco gordo gritando ¡el que no se lo acabe friega!
+No porque estuviera bueno; no lo estaba. Porque era caliente y había un fuego y había gente. Mucha gente. Sentada en las tablas. Hablando. Riendo. Con el barro hasta las rodillas y la lluvia golpeando la lona y un orco gordo gritando *¡el que no se lo acabe* *friega!*
 
 Había un hombre en la mesa del fondo. Un viejo. Con una corona torcida. Comiéndose el guiso con una cuchara de madera.
 
 Aila se sentó a su lado. Sin pensarlo. Era el único sitio libre.
 
-* * *
+---
 
 —¿Le gusta, majestad? —le dijo. Para decir algo. Porque estaba roja todavía por lo de abuelo.
 
@@ -124,7 +124,7 @@ Se calló.
 
 —Llegué tarde. —El Emperador se metió otra cucharada—. Hay una amiga mía que dice eso mucho. Que siempre llega tarde. Nunca la había entendido.
 
-* * *
+---
 
 —¿Por qué estamos aquí? —dijo Aila.
 
@@ -138,7 +138,7 @@ Aila no entendió. Lo dijo.
 
 —Ni yo —dijo el Emperador—. Mi padre oía cosas que yo no oigo. Pero le creo. —Cogió la cuchara otra vez—. Y además me gusta el mar.
 
-* * *
+---
 
 En la mesa de al lado, la niña de Aila, Nella, estaba de pie encima de un banco. Mirando hacia fuera por una rendija de la lona.
 
@@ -146,13 +146,13 @@ Había dejado de llover. Por primera vez en seis semanas. Y el cielo, por el oes
 
 Nella abrió la boca.
 
-—¡Wonder! —gritó.
+—*¡Wonder!* —gritó.
 
 Toda la tienda se volvió.
 
-* * *
+---
 
-Era una palabra gnoma. La había aprendido de los niños gnomos del barco. Los gnomos de las islas la decían cuando veían algo que no esperaban. Un pez de colores. Una ola grande. Un sombrero bonito. ¡Wonder! Quería decir, más o menos, mira lo que no sabía que había.
+Era una palabra gnoma. La había aprendido de los niños gnomos del barco. Los gnomos de las islas la decían cuando veían algo que no esperaban. Un pez de colores. Una ola grande. Un sombrero bonito. *¡Wonder!* Quería decir, más o menos, *mira lo que no* *sabía que había*.
 
 Nella la había dicho cien veces en el barco. Ahora la dijo gritando. Con la cara iluminada de rojo. Con los ojos muy abiertos. Encima de un banco. En una taberna de lona en mitad del barro.
 
@@ -164,9 +164,9 @@ Aila salió con ellos. Y el Emperador. Y Grum, con el cucharón.
 
 Se quedaron allí. Doscientas personas en el barro. Mirando el sol ponerse sobre una ciudad que no existía.
 
-* * *
+---
 
-—Wonder —dijo el Emperador. Bajito. Probándola.
+—*Wonder* —dijo el Emperador. Bajito. Probándola.
 
 Aila lo miró.
 
@@ -174,7 +174,7 @@ El Emperador tenía la cara iluminada de rojo también. Lloraba. Hacia arriba. C
 
 —¿Qué dice la niña? —le preguntó a Aila.
 
-—Es de los gnomos. Quiere decir… —Aila buscó—. Mira lo que no sabías que había.
+—Es de los gnomos. Quiere decir… —Aila buscó—. *Mira lo que no sabías que* *había.*
 
 El Emperador se quedó callado.
 
@@ -182,7 +182,7 @@ Luego se rio. Llorando.
 
 —Ya tiene nombre —dijo.
 
-* * *
+---
 
 Se fundó oficialmente al día siguiente. En el barro. Con un tronco clavado en el centro de la explanada, donde iba a ir la plaza, y una tabla clavada en el tronco, y el nombre grabado en la tabla con un cuchillo curvo que le prestó una muchacha pelirroja que había venido en el barco del Emperador y que Aila no sabía quién era.
 
@@ -192,9 +192,9 @@ El Emperador leyó un papel. Que la ciudad era de quien la trabajara. Que la ley
 
 Aila no se enteró hasta que la gente se volvió a mirarla.
 
-* * *
+---
 
-—Yo no sé ser alcaldesa —le dijo al Emperador después. En la tienda de El Guiso. Furiosa—. Coso velas.
+—Yo no sé ser alcaldesa —le dijo al Emperador después. En la tienda de *El Guiso*. Furiosa—. Coso velas.
 
 —Yo no sé ser Emperador —dijo el Emperador—. Hago barcos.
 
@@ -206,7 +206,7 @@ Aila se sentó. No sabía qué decir.
 
 —Además —dijo el Emperador— no es para siempre. Es hasta que votéis. Y votaréis en un año. Y te votarán. —Sonrió—. Pero por lo menos ya sabrás de qué va.
 
-* * *
+---
 
 La votaron.
 
@@ -214,13 +214,13 @@ Fue alcaldesa de Wonder veintiséis años. Hasta que se murió, en el 747, de vi
 
 Tom tuvo trigo en dos años. Como había dicho. Se lo dijo cada noche durante veinticuatro.
 
-Nella se casó con un muchacho de Nix y tuvo seis hijos y una taberna que se llamó La Maravilla y que no le hizo nunca la competencia a El Guiso, porque El Guiso no se la hacía a nadie.
+Nella se casó con un muchacho de Nix y tuvo seis hijos y una taberna que se llamó *La Maravilla* y que no le hizo nunca la competencia a *El Guiso*, porque *El Guiso* no se la hacía a nadie.
 
 Bram murió en el 729. A los doce años. En la empalizada. Cuando llegaron los barcos del oeste.
 
 Pero eso fue después.
 
-* * *
+---
 
 En el Diario hay una entrada del 721. Con la letra de la mano izquierda. Dice que Lindos se pasó seis años viajando al nuevo continente. Que partió de nuevo con la idea fija de fundar una ciudad. Que con él partieron familias numerosas, deseosas de un nuevo hogar.
 
@@ -228,7 +228,7 @@ Que la ciudad la llamarían Wonder.
 
 No dice por qué.
 
-Érandiul estaba en la tienda de El Guiso aquella tarde. Vio a la niña en el banco. La oyó gritar.
+Érandiul estaba en la tienda de *El Guiso* aquella tarde. Vio a la niña en el banco. La oyó gritar.
 
 No lo escribió. Dijo que había cosas que si se escriben se estropean.
 

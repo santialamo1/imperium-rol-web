@@ -1,4 +1,4 @@
-## Capítulo 6 · Lanther
+# Capítulo 6 · Lanther
 
 *El río de Banderbill. Primavera del año 27.*
 
@@ -14,11 +14,11 @@ No piedras cualquiera. Las de veta blanca: negras como la montaña de la que ven
 
 Brillaban cuando cantabas. Eso lo había descubierto a los doce. No se lo había dicho a nadie durante dos años, porque le daba miedo que se rieran de ella, y luego se lo había dicho a su hermano, que se rió de ella, y luego a Livia, que no se rió nada y le pidió que se lo enseñara.
 
-Había que estar a oscuras. Había que coger la piedra en la mano, cerrar la mano, acercársela a la boca, y cantar. Muy bajo. Cualquier cosa. Una canción de cuna. Lanther cantaba siempre la misma, la que le cantaba su padre cuando era pequeña, la de la arena, que su padre decía que era muy antigua y que había venido del desierto con una niña. Duerme, arena, duerme ya… Y la piedra, al cabo de un rato, si era de las buenas, empezaba a brillar. Por dentro. Por las vetas. Un brillo pálido, azulado, como el de los braseros de sal, pero mucho más débil, como el de una luciérnaga a lo lejos.
+Había que estar a oscuras. Había que coger la piedra en la mano, cerrar la mano, acercársela a la boca, y cantar. Muy bajo. Cualquier cosa. Una canción de cuna. Lanther cantaba siempre la misma, la que le cantaba su padre cuando era pequeña, la de la arena, que su padre decía que era muy antigua y que había venido del desierto con una niña. *Duerme, arena, duerme ya…* Y la piedra, al cabo de un rato, si era de las buenas, empezaba a brillar. Por dentro. Por las vetas. Un brillo pálido, azulado, como el de los braseros de sal, pero mucho más débil, como el de una luciérnaga a lo lejos.
 
-Livia lo había visto. Se había quedado muy callada mucho rato. Luego había dicho: no se lo digas a nadie más. Y Lanther, que tenía catorce años y la convicción de que los adultos le pedían que guardara secretos solo para fastidiarla, se lo había guardado de todas formas, porque era Livia, y Livia no pedía nada.
+Livia lo había visto. Se había quedado muy callada mucho rato. Luego había dicho: *no se lo digas a nadie más*. Y Lanther, que tenía catorce años y la convicción de que los adultos le pedían que guardara secretos solo para fastidiarla, se lo había guardado de todas formas, porque era Livia, y Livia no pedía nada.
 
-* * *
+---
 
 Ese martes llegó al remanso a media mañana. Se quitó las botas, se remangó los pantalones y se metió en el agua hasta las rodillas. Y se quedó quieta un momento, como hacía siempre, dejando que el frío le subiera por las piernas hasta que dejó de doler.
 
@@ -78,7 +78,7 @@ Tarde. Un poco tarde. Como el que oye el trueno mucho después del rayo.
 
 Y Lanther, todavía sentada en el agua, dejó de reírse de golpe. Porque reconoció esa risa. La había oído el domingo, en el teatro, en la ladera, después de que se riera todo el mundo. Una risa clara, alta, musical. Como una campana pequeña.
 
-* * *
+---
 
 —Tú estabas en el teatro —dijo.
 
@@ -132,7 +132,7 @@ El hombre miró el cuchillo. La miró a ella.
 
 —Enséñame —dijo Lanther—. Y no se lo diré a nadie.
 
-* * *
+---
 
 Resultó que lo sabía lanzar mejor que bastante bien.
 

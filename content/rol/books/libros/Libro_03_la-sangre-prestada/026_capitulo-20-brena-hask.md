@@ -1,4 +1,4 @@
-## Capítulo 20 · Brena Hask
+# Capítulo 20 · Brena Hask
 
 *Ante la puerta norte de Arghâl. Noche del 2 al 3 de marzo del año 607 de la Nueva Era.*
 
@@ -14,7 +14,7 @@ Esa noche, delante de la puerta norte de Arghâl, con tres mil soldados detrás 
 
 Para no oír la otra.
 
-* * *
+---
 
 La otra sonaba desde la muralla. Desde dentro de la ciudad. Desde las piedras. La nana. Sube cuatro, baja tres, se para. Llevaba un año sonando. De noche, sobre todo. Bajita, bonita, que daba sueño, que daba ganas de sentarse, de tumbarse en la nieve, de cerrar los ojos.
 
@@ -26,7 +26,7 @@ Brena la oía igual. Por debajo. Siempre.
 
 Pero esa noche, a medianoche, la nana se paró.
 
-* * *
+---
 
 No se paró. Se torció.
 
@@ -42,7 +42,7 @@ Un latido.
 
 Que se iba poniendo más lento.
 
-* * *
+---
 
 —Capitana. —Era su segundo, un muchacho de Nix de veinte años, Hal, nieto del canciller Ostrander—. Capitana, ¿lo oye?
 
@@ -70,7 +70,7 @@ Pausa más larga.
 
 —Hal —dijo Brena—. Destapa tu lámpara.
 
-* * *
+---
 
 La lámpara de Hal se destapó y la luz blanca le dio a la puerta.
 
@@ -78,7 +78,7 @@ La puerta no hizo nada. Estaba quieta. Mojada. Ya no era roja; era de un color p
 
 Brena se acercó.
 
-Detrás de ella, tres mil soldados contuvieron la respiración. Nadie había tocado esa puerta desde el día veinte. Brena lo había prohibido. Que no se toca la puerta.
+Detrás de ella, tres mil soldados contuvieron la respiración. Nadie había tocado esa puerta desde el día veinte. Brena lo había prohibido. *Que no se toca la puerta.*
 
 Brena puso la mano en el hierro.
 
@@ -88,7 +88,7 @@ No olía a pan.
 
 Olía a óxido.
 
-* * *
+---
 
 Dentro, el latido se paró.
 
@@ -102,9 +102,9 @@ Y se abrió. Sola. Hacia dentro. Despacio. Un palmo. Dos. Con un chirrido de bis
 
 Detrás, oscuridad.
 
-* * *
+---
 
-Brena no gritó adelante. No gritó nada.
+Brena no gritó *adelante*. No gritó nada.
 
 Se volvió. Hacia sus tres mil. Que estaban de pie en la nieve, a oscuras, con las lámparas tapadas, con las espadas en la mano y las canciones de sus madres en la boca.
 
@@ -118,7 +118,7 @@ Y tres mil cabezas se echaron hacia atrás. Y tres mil bocas la dijeron. Y Brena
 
 Y cargó.
 
-* * *
+---
 
 Lo que pasó dentro de Arghâl esa noche lo contaron muchos, y ninguno igual, y Nerea Vell, que tenía cuarenta y seis años y estaba en el campamento con el cuaderno, escribió después que había leído ciento doce relatos de la toma de Arghâl y que no había dos que coincidieran en nada salvo en tres cosas.
 
@@ -128,7 +128,7 @@ Que dentro había hambre.
 
 Y que la capitana Hask miró arriba antes de cada calle.
 
-* * *
+---
 
 Las calles estaban vacías al principio. Limpias. Con la nieve sin pisar. Las casas, cerradas. Brena avanzaba por la calle principal, la que iba de la puerta norte a la plaza, con la Primera Compañía detrás, con las lámparas destapadas, y la luz blanca rebotaba en la nieve y en las paredes de piedra roja y lo llenaba todo.
 
@@ -142,7 +142,7 @@ Brena se paró. Lo miró. Miró arriba.
 
 Siguió.
 
-* * *
+---
 
 En la segunda esquina salieron los orcos.
 
@@ -172,9 +172,9 @@ Un segundo.
 
 Y soltó el hacha.
 
-* * *
+---
 
-Brena no supo nunca cuántos se rindieron esa noche. Nerea Vell escribió que fueron once mil. Sein Vell, en el libro de la guerra, escribió que fueron muchos, y que se apuntaron todos, con nombre, después, uno a uno, durante dos meses, en la plaza, mientras comían. Los orcos que se rindieron no lo contaron nunca; no sabían contar tanto.
+Brena no supo nunca cuántos se rindieron esa noche. Nerea Vell escribió que fueron once mil. Sein Vell, en el libro de la guerra, escribió que fueron *muchos, y que se* *apuntaron todos, con nombre, después, uno a uno, durante dos meses, en la plaza,* *mientras comían*. Los orcos que se rindieron no lo contaron nunca; no sabían contar tanto.
 
 Pero no se rindieron todos.
 
@@ -182,7 +182,7 @@ Los que no se rindieron estaban en los túneles. Y en la plaza.
 
 Y con ellos estaban los blancos.
 
-* * *
+---
 
 La plaza de Arghâl estaba a oscuras cuando llegó la Primera Compañía. Las lámparas rojas, las que no se apagaban nunca, se habían apagado. La luz roja de lo alto de la torre, también.
 
@@ -198,11 +198,11 @@ Pero no la miraban. Miraban abajo. Al suelo. A la nieve. Al pie de la luz.
 
 Porque no podían mirar arriba. Ni a una lámpara levantada.
 
-* * *
+---
 
 Delante de los drow, en el centro, había uno con las manos de arpista. Abiertas. Con los dedos moviéndose un poco en el aire, sin querer, como se mueven los dedos de los que tocan cuando están nerviosos.
 
-Brena lo vio y supo quién era. Lo supo por las manos. Por lo que le había contado el gnomo del sombrero de acebo, una noche, en la tienda de las mulas: que un elfo blanco había tocado hacia arriba desde la torre para decir dónde estaba el corazón. Que era el tío del Emperador. Que había dicho que no venga él.
+Brena lo vio y supo quién era. Lo supo por las manos. Por lo que le había contado el gnomo del sombrero de acebo, una noche, en la tienda de las mulas: que un elfo blanco había tocado hacia arriba desde la torre para decir dónde estaba el corazón. Que era el tío del Emperador. Que había dicho *que no venga él*.
 
 Ithil levantó la espada. Una espada élfica, delgada, curva, que había sido de plata y era gris.
 
@@ -214,7 +214,7 @@ A la punta de la torre. Oxidada, negra, contra el cielo de nubes.
 
 Un segundo.
 
-* * *
+---
 
 Ithil no se movió.
 
@@ -232,7 +232,7 @@ Y se apartaba.
 
 Un paso. Hacia un lado. Dejando un hueco en el círculo de los drow. Un hueco del ancho de una persona. Que daba al templo. Al pozo.
 
-* * *
+---
 
 Brena no lo pensó. Pasó.
 
@@ -252,7 +252,7 @@ La muchacha sacó el brazo del agua.
 
 En la mano tenía una piedra roja. Del tamaño de un huevo de águila. Que ya no latía.
 
-* * *
+---
 
 Lo que pasó después, Brena lo vio a medias.
 
@@ -272,7 +272,7 @@ Que no sonreía.
 
 —Ya no huele —dijo el hombre. Con la voz rota—. El pan. Ya no huele. Lo habéis apagado.
 
-* * *
+---
 
 El cuchillo entró por debajo de la cota de malla. Por el costado. Donde no llegaba el escudo.
 
@@ -292,7 +292,7 @@ No mucho. Un hueco. Del tamaño de una mano.
 
 Y en el hueco, una estrella.
 
-* * *
+---
 
 Brena Hask la miró.
 
@@ -310,7 +310,7 @@ Dijo la palabra. Bajito. Bien dicha.
 
 Y se quedó mirando la estrella.
 
-* * *
+---
 
 Hal Ostrander, que tenía veinte años y era de Nix, la encontró así. Con los ojos abiertos. Mirando arriba. Con una sonrisa pequeña.
 

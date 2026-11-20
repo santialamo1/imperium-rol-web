@@ -1,6 +1,6 @@
-## Capítulo 46 · Almad
+# Capítulo 46 · Almad
 
-*Banderbill, la casa de arriba y El juglar. Primavera del año 1394 de la Nueva Era (787 D.bA).*
+*Banderbill, la casa de arriba y El juglar. Primavera del año 1394 de la Nueva Era* *(787 D.bA).*
 
 Corin le puso el nombre en el teatro, y se lo puso riéndose, y Almad no se lo quitó nunca.
 
@@ -12,7 +12,7 @@ Corin lo vio desde la terraza.
 
 Bajó corriendo.
 
-* * *
+---
 
 Corin Ruald tenía veintiséis años y no había trabajado nunca.
 
@@ -30,7 +30,7 @@ Eso era lo peor.
 
 Porque Almad sí sabía lo que era.
 
-* * *
+---
 
 —¡Mírate! —Corin le dio un puñetazo en el hombro y se hizo daño en la mano—. ¡Mírate! Eres una puerta. Te han hecho una puerta en la Armada. ¿Qué te dan de comer?
 
@@ -46,7 +46,7 @@ Almad no se rio. No se reía mucho. Pero dejó que Corin le diera vueltas.
 
 —Pues esta noche. Invito yo. Y no me digas que no, que te meto las monedas en el bolsillo.
 
-* * *
+---
 
 El juglar estaba lleno.
 
@@ -68,7 +68,7 @@ Almad la conocía. La conocía desde que nació. La había visto en la cocina, d
 
 —No.
 
-—Yo cuatro veces. —Imane se cruzó de brazos—. Es la mejor de las diecinueve. Corin dice que es la de la Reina del Muro, pero Corin no sabe nada. Es esta.
+—Yo cuatro veces. —Imane se cruzó de brazos—. Es la mejor de las diecinueve. Corin dice que es la de la *Reina del Muro*, pero Corin no sabe nada. Es esta.
 
 —¿De qué va?
 
@@ -76,9 +76,9 @@ Imane lo miró. Con los ojos grises. Muy seria.
 
 —De un chico como tú —dijo.
 
-* * *
+---
 
-La obra se llamaba Arispar.
+La obra se llamaba *Arispar*.
 
 Era corta. Una hora. Un solo acto. La había escrito la reina Aira en el 1050 y algo, decía el programa, que Almad leyó despacio, con el dedo, a la luz de la lámpara del palco, sin que Corin se diera cuenta de que leía despacio.
 
@@ -92,7 +92,7 @@ Debajo de la montaña. Con los brazos levantados. Sujetándola.
 
 Y la sujetó.
 
-* * *
+---
 
 El final era raro. Almad no lo entendió.
 
@@ -112,7 +112,7 @@ Y Arispar decía:
 
 Y se apagaban las luces.
 
-* * *
+---
 
 El teatro aplaudió mucho rato.
 
@@ -140,7 +140,7 @@ Los dos la miraron.
 
 Se fue del palco. Sin despedirse. Como se iba de todas partes.
 
-* * *
+---
 
 Corin se rio. Mucho. Con la cabeza echada hacia atrás.
 
@@ -172,7 +172,7 @@ Se rio.
 
 Almad no.
 
-* * *
+---
 
 Salieron a la calle.
 
@@ -198,7 +198,7 @@ Corin lo miró.
 
 Almad aflojó los puños.
 
-* * *
+---
 
 Volvieron a la casa de arriba andando. Por la calle del Horno, que era el camino corto.
 
@@ -222,7 +222,7 @@ Almad no.
 
 Almad se quedó delante de la casa vieja. Mirando a Corin alejarse por la calle del Horno, con la capa, con el paso tranquilo de los que no han tenido nunca prisa.
 
-Pensó en un agujero en diagonal. En una voz suave que decía el que más tiene. En una voz seca que decía si se acaba la sangre. En una obra de una reina donde un chico pobre sujetaba una montaña y mentía al final.
+Pensó en un agujero en diagonal. En una voz suave que decía *el que más tiene*. En una voz seca que decía *si se acaba la sangre*. En una obra de una reina donde un chico pobre sujetaba una montaña y mentía al final.
 
 Pensó en Imane, que tenía diez años y sabía cuándo alguien mentía bien.
 
@@ -232,7 +232,7 @@ No la pensó entera. Solo el principio.
 
 *Si hiciera falta.*
 
-* * *
+---
 
 En el callejón de los Cubos, detrás de la casa vieja, la rejilla del respiradero estaba en su sitio.
 

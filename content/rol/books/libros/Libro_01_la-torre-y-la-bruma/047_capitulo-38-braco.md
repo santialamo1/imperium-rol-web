@@ -1,4 +1,4 @@
-## Capítulo 38 · Braco
+# Capítulo 38 · Braco
 
 *Concordia. Años 149 a 165.*
 
@@ -6,7 +6,7 @@ Braco Arenar se enamoró de la emperatriz el día en que ella le dijo que era el
 
 —Inútil, majestad —repitió él, sin pestañear.
 
-—Inútil. —Helen Dorian dejó caer sobre la mesa del Consejo el informe que él había redactado sobre las defensas de la frontera noroeste, cuarenta páginas de letra apretada—. Has escrito cuarenta páginas para decirme que necesitamos más hombres en el río Ceniza. Podrías haberlo dicho en una línea.
+—Inútil. —Helen Dorian dejó caer sobre la mesa del Consejo el informe que él había redactado sobre las defensas de la frontera noreste, cuarenta páginas de letra apretada —. Has escrito cuarenta páginas para decirme que necesitamos más hombres en el río Ceniza. Podrías haberlo dicho en una línea.
 
 —Con todo respeto, majestad, en una línea no habría podido explicar por qué.
 
@@ -24,21 +24,21 @@ Braco hizo una reverencia. Mientras salía de la sala del Consejo, oyó a uno de
 
 No dijo nada. No hizo falta. Esa era una cosa que había aprendido de Helen Dorian en el Vado: que a veces, lo más aterrador que puede hacer un hombre es mirar y callarse.
 
-* * *
+---
 
 Volvió en dos semanas con cinco páginas.
 
-La primera decía: Fuego. Los muertos grises solo se detenían si se les cortaba la cabeza o se les quemaba. El fuego era más rápido. Había que armar a las guarniciones de la frontera con brea, con aceite, con flechas incendiarias. Había que entrenar a los soldados para luchar con antorchas.
+La primera decía: *Fuego.* Los muertos grises solo se detenían si se les cortaba la cabeza o se les quemaba. El fuego era más rápido. Había que armar a las guarniciones de la frontera con brea, con aceite, con flechas incendiarias. Había que entrenar a los soldados para luchar con antorchas.
 
-La segunda decía: Sal. Los cronistas del Vado habían notado que los muertos evitaban pisar las zonas donde los carros de intendencia habían derramado sacos de sal. Braco había hecho pruebas con los cadáveres que se trajeron de la batalla, los que nunca se levantaron —los que el emperador Henricus había liberado—, y con un perro muerto al que un sacerdote Ibaro intentó, sin éxito, insuflar vida con una salmodia que había copiado de un eufesio prisionero. No había funcionado. Pero en las leyendas de los nómadas, recogidas por los mercaderes, se hablaba de faroles de sal, de varas de sal, de jarras de sal. La sal era importante. No sabía por qué. Había que averiguarlo.
+La segunda decía: *Sal.* Los cronistas del Vado habían notado que los muertos evitaban pisar las zonas donde los carros de intendencia habían derramado sacos de sal. Braco había hecho pruebas con los cadáveres que se trajeron de la batalla, los que nunca se levantaron —los que el emperador Henricus había liberado—, y con un perro muerto al que un sacerdote Ibaro intentó, sin éxito, insuflar vida con una salmodia que había copiado de un eufesio prisionero. No había funcionado. Pero en las leyendas de los nómadas, recogidas por los mercaderes, se hablaba de faroles de sal, de varas de sal, de jarras de sal. La sal era importante. No sabía por qué. Había que averiguarlo.
 
-La tercera decía: Nombres. El emperador Henricus había liberado a doscientos muertos diciendo sus nombres. Braco no sabía cómo. Nadie lo sabía. Pero si había funcionado una vez, había que entender por qué.
+La tercera decía: *Nombres.* El emperador Henricus había liberado a doscientos muertos diciendo sus nombres. Braco no sabía cómo. Nadie lo sabía. Pero si había funcionado una vez, había que entender por qué.
 
-La cuarta decía: Él. El monstruo de la niebla tenía un nombre, una historia, unos motivos. Había llorado sobre el cuerpo del emperador. Había dicho que no volvería mientras alguien viviera. ¿Quién? ¿Por qué? Había que saberlo. Un enemigo que no se entiende es un enemigo que no se puede vencer.
+La cuarta decía: *Él.* El monstruo de la niebla tenía un nombre, una historia, unos motivos. Había llorado sobre el cuerpo del emperador. Había dicho que no volvería mientras alguien viviera. ¿Quién? ¿Por qué? Había que saberlo. Un enemigo que no se entiende es un enemigo que no se puede vencer.
 
 La quinta página estaba en blanco, excepto por una línea al pie:
 
-*Majestad: no sé si podemos ganar esta guerra. Pero sé que la perderemos si la luchamos como la luchó vuestro tío, con valor y sin entender. Dejadme entender.*
+*Majestad: no sé si podemos ganar esta guerra. Pero sé que la perderemos si la* *luchamos como la luchó vuestro tío, con valor y sin entender. Dejadme entender.*
 
 Helen leyó las cinco páginas dos veces. Luego levantó la vista.
 
@@ -60,11 +60,11 @@ Helen no contestó durante un largo rato. Luego se levantó, cerró la puerta de
 
 Le contó.
 
-* * *
+---
 
 Fueron dieciséis años. Los cronistas los llamarían la Edad de Oro, y con razón.
 
-No hubo guerra. Ni una sola escaramuza en la frontera noroeste. La niebla se quedó detrás del río Ceniza, inmóvil, como un perro atado. Los rumores de aldeas vacías cesaron. Los muertos de los cementerios dejaron de susurrar.
+No hubo guerra. Ni una sola escaramuza en la frontera noreste. La niebla se quedó detrás del río Ceniza, inmóvil, como un perro atado. Los rumores de aldeas vacías cesaron. Los muertos de los cementerios dejaron de susurrar.
 
 Y Helen Dorian usó esos dieciséis años como nadie había usado nunca el tiempo.
 
@@ -98,7 +98,7 @@ Años después, cuando él era un viejo de ochenta y ocho años sentado en un tr
 
 Y todos sabrían que mentía.
 
-* * *
+---
 
 Helen Dorian murió en el invierno del año ciento sesenta y cinco, tres semanas después que su abuela.
 

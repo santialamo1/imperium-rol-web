@@ -1,18 +1,18 @@
-## Capítulo 71 · Lindos
+# Capítulo 71 · Lindos
 
-*Lindos, en las tres islas del oasis. Verano del año 1439 de la Nueva Era (832 D.bA).*
+*Lindos, en el oasis. Verano del año 1439 de la Nueva Era (832 D.bA).*
 
 La poza estaba helada en pleno verano.
 
 Arispar la vio desde la orilla del canal, con el agua por las rodillas, con la espada en la mano y sangre en la cara que no era suya, y pensó que Nesturil le había hablado de esa poza cien veces y que nunca le había dicho que se helaba.
 
-Por las mañanas hace frío, le decía. En los tobillos.
+*Por las mañanas hace frío*, le decía. *En los tobillos.*
 
-No le había dicho que en el centro, debajo de los sauces más viejos, el agua no se movía nunca. Que en el centro había hielo. Un disco blanco, del tamaño de una mesa, que no se derretía en verano ni en invierno, y que en Lindos llamaban el ojo de la poza y no tocaban. La poza no se toca: era la primera ley de la ciudad, la que puso Liminus cuando la fundó alrededor del oasis donde su padre se murió con los pies en el agua.
+No le había dicho que en el centro, debajo de los sauces más viejos, el agua no se movía nunca. Que en el centro había hielo. Un disco blanco, del tamaño de una mesa, que no se derretía en verano ni en invierno, y que en Lindos llamaban *el ojo de la poza* y no tocaban. *La poza no se toca*: era la primera ley de la ciudad, la que puso Liminus cuando la fundó alrededor del oasis donde su padre se murió con los pies en el agua.
 
 Ahora estaba roto.
 
-* * *
+---
 
 Habían llegado tarde. Un día.
 
@@ -24,7 +24,7 @@ No de Orac. De Rinkel. Con una bandera que Arispar no había visto nunca: un ojo
 
 Jhark.
 
-* * *
+---
 
 Y detrás de los barcos negros, otros. Más. Más grandes.
 
@@ -44,15 +44,15 @@ Arispar miró los barcos de Orac. En la proa del más grande había una figura. 
 
 Mirando arriba.
 
-* * *
+---
 
-No contó la batalla. Nunca la contaba. Las batallas se parecen todas desde dentro; solo desde fuera tienen forma, y desde fuera las miraba Érandiul, que esta vez no había venido, porque tenía mil cuatrocientos años y una rodilla que no le dejaba subir a los barcos.
+No contó la batalla. Nunca la contaba. Las batallas se parecen todas desde dentro; solo desde fuera tienen forma, y desde fuera las miraba Érandiul, que esta vez no había venido, porque tenía más de mil quinientos años y una rodilla que no le dejaba subir a los barcos.
 
 Lo que recordó luego fueron cosas sueltas.
 
 Un elfo viejo, en la orilla, con un cesto de libros en los brazos, que no soltó el cesto ni cuando le entró una flecha en el hombro.
 
-Un pirata de Jhark, un chico de quince años, que tiró la espada al suelo delante de Arispar y dijo no me mates, no me mates, yo soy de Nix, y Arispar no lo mató, y un orco lo mató un momento después.
+Un pirata de Jhark, un chico de quince años, que tiró la espada al suelo delante de Arispar y dijo *no me mates, no me mates, yo soy de Nix*, y Arispar no lo mató, y un orco lo mató un momento después.
 
 Finderil, en lo alto de un sauce, disparando. Las flechas cantaban. Todas.
 
@@ -60,7 +60,7 @@ Glokark, de lejos, en el muelle, con la vara de fresno en el cinturón, sin saca
 
 Y Jhark.
 
-* * *
+---
 
 La vio en el puente de los sauces.
 
@@ -76,7 +76,7 @@ Era una piedra. Blanca. Del tamaño de un huevo. Transparente. Que brillaba al s
 
 Que goteaba.
 
-* * *
+---
 
 —¡Emperador! —gritó Jhark.
 
@@ -98,7 +98,7 @@ Miró la piedra. Goteaba. Cada gota caía al puente, a la madera blanca, y no se
 
 —Porque no sé si quiero —dijo.
 
-* * *
+---
 
 Arispar se paró a cinco pasos.
 
@@ -120,7 +120,7 @@ Arispar no contestó.
 
 —Tú también comes lo de otro —dijo Jhark—. Más que yo. Solo que tú lo llamas impuesto.
 
-* * *
+---
 
 —Dámela —dijo Arispar.
 
@@ -136,7 +136,7 @@ Jhark lo vio.
 
 Y se echó a reír.
 
-* * *
+---
 
 Fue entonces cuando llegó la flecha.
 
@@ -158,7 +158,7 @@ Lo miró.
 
 Y se cayó.
 
-* * *
+---
 
 Al canal. No a la poza; la poza estaba a un lado. Al canal, el del oasis, que en esa parte era hondo y corría deprisa hacia el mar, hacia la boca, hacia los barcos que ardían.
 
@@ -168,11 +168,11 @@ No la vio salir.
 
 La buscaron después. Los de la Armada, los elfos. En las orillas, en las cañas, en los remansos. Tres días. Encontraron la casaca roja enganchada en una raíz de sauce, a media legua canal abajo. Encontraron la espada. No la encontraron a ella.
 
-Jhark fue eliminada, diría el parte de la Armada. Lo firmó Arispar. Lo copió Érandiul.
+*Jhark fue eliminada*, diría el parte de la Armada. Lo firmó Arispar. Lo copió Érandiul. En la colina la dieron por muerta. Érandiul la apuntó muerta, y la apuntó *el* *pirata*, como la llamaban todos los que no le habían visto la cara.
 
 Arispar no lo creyó nunca.
 
-* * *
+---
 
 Glokark se retiró al anochecer.
 
@@ -190,7 +190,7 @@ Arispar no supo qué quería decir.
 
 Glokark las cerró. Y subió al barco.
 
-* * *
+---
 
 Esa noche Arispar se sentó en la orilla de la poza.
 
@@ -206,7 +206,7 @@ La Lágrima del Creador. Así la llamaba el pergamino. Un trozo de hielo del tam
 
 *Quien la beba no morirá.*
 
-* * *
+---
 
 Pensó en Corin.
 
@@ -214,19 +214,19 @@ Corin tenía setenta y un años y la cara de noventa. Dormía en la cocina, en u
 
 Corin se estaba muriendo porque le había dado a Arispar lo que tenía.
 
-Lo sabía desde el primer invierno. Lo había sabido siempre; se lo dijeron los de abajo antes de la navaja. El que da se cansa antes. Y aun así había dicho que sí. ¿Quieres? Sí. Pero no me voy a reír.
+Lo sabía desde el primer invierno. Lo había sabido siempre; se lo dijeron los de abajo antes de la navaja. *El que da se cansa antes.* Y aun así había dicho que sí. *¿Quieres?* *Sí. Pero no me voy a reír.*
 
 Si le daba esto a Corin.
 
 Si Corin se bebía esto.
 
-* * *
+---
 
 Y entonces lo entendió.
 
 Allí, en la orilla de la poza, con siete perlas de hielo en la palma. Lo que no había entendido en la charca seca de Arghâl. Por qué se apartó el hombre de gris.
 
-Porque quiere que me tengas, le había dicho Nesturil en el barco.
+*Porque quiere que me tengas*, le había dicho Nesturil en el barco.
 
 No era Nesturil. No solo.
 
@@ -240,7 +240,7 @@ El hombre de gris no lo había dejado ganar en Arghâl.
 
 Le había dado algo que perder.
 
-* * *
+---
 
 Arispar se sentó en el suelo.
 
@@ -260,7 +260,7 @@ En la escalinata. En el día de la doncella. En la oreja de una gnoma de doscien
 
 *Lo voy a traer.*
 
-* * *
+---
 
 No la bebió.
 
@@ -276,21 +276,21 @@ Estaba fría. Le iba a estar fría siempre. Lo supo.
 
 Se levantó.
 
-* * *
+---
 
 En la Armada se dijo después que el Emperador se la había bebido.
 
 Lo decían los soldados, en los barcos de vuelta. Que lo habían visto en la orilla de la poza, de noche, solo, con algo en la mano, y que luego ya no lo tenía. Que por eso no envejecía. Que por eso ahora tenía los ojos así.
 
-Érandiul lo apuntaría en el Diario: Al parecer Arispar la ha bebido, pero nunca ha confirmado nada.
+Érandiul lo apuntaría en el Diario: *Al parecer Arispar la ha bebido, pero nunca ha* *confirmado nada.*
 
 Arispar no lo confirmó nunca.
 
 Tampoco lo negó.
 
-* * *
+---
 
-Volvieron a Banderbill por el mar del sur.
+Volvieron a Banderbill por el estrecho del norte.
 
 Por la costa. Por delante de Nix, que era un puerto negro con cascos de barcos quemados en la playa y gente sentada en las piedras mirando el mar. Por delante de la desembocadura del río de Ullathorpe, donde no se veía nada desde el barco, solo humo, lejos, tierra adentro, en los campos.
 

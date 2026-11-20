@@ -1,28 +1,28 @@
-## Capítulo 3 · Teo Ruald
+# Capítulo 3 · Teo Ruald
 
-*La panadería de los Ruald, calle del Horno, Banderbill. Invierno del año 980 de la Nueva Era (373 D.bA).*
+*La panadería de los Ruald, calle del Horno, Banderbill. Invierno del año 980 de la* *Nueva Era (373 D.bA).*
 
-La masa madre tenía novecientos diecisiete años y se llamaba Gorda.
+La masa madre tenía novecientos setenta y cuatro años y se llamaba Gorda.
 
-No tenía otro nombre. Nunca lo había tenido. La había empezado la mujer de Teo, Amalia, en el invierno del 63, el mismo invierno en que a Teo le dieron la vida de su hijo, en un cuenco de barro con harina de centeno y agua del pozo y un puñado de uvas pasas que se habían puesto agrias. La alimentaba cada mañana con harina y agua, la tapaba con un paño, la dejaba al lado del horno, y la masa crecía, y olía a vinagre y a manzana, y Amalia le hablaba. Venga, gorda. Ya está, gorda. Hoy no tienes ganas, gorda, ya lo veo.
+Antes se había llamado Ugo. La había empezado maese Ugo, el panadero de antes del padre de Teo, en el año 6, en la tinaja del rincón, y Teo la había heredado de su padre. En el invierno del 63, el mismo invierno en que a Teo le dieron la vida de su hijo, la cogió la mujer de Teo, Amalia. La pasó a un cuenco de barro y la refrescó con harina de centeno y agua del pozo y un puñado de uvas pasas que se habían puesto agrias. La alimentaba cada mañana con harina y agua, la tapaba con un paño, la dejaba al lado del horno, y la masa crecía, y olía a vinagre y a manzana, y Amalia le hablaba. *Venga, gorda*. *Ya está,* *gorda*. *Hoy no tienes ganas, gorda, ya lo veo*.
 
-Amalia se murió en el 101. La masa siguió.
+Amalia se murió en el 101. La masa siguió. Teo la llamó Ugo muchos años, como la llamaba su padre, y los Ruald con él, sin saber por qué; pero en la casa se le fue quedando lo de Amalia, y hacía mucho que nadie le decía otra cosa que Gorda.
 
 La alimentó su hija. Luego la hija de su hija. Luego un nieto que se casó con una de Nix y se fue y volvió. Luego otro. Luego Berto, el tataranieto, el que se casó en el 760 con una muchacha muy callada que se llamaba Isra, que tenía los ojos oscuros y las manos finas y que había dicho que era hija de un mercader de Lindos, y que no era hija de un mercader de Lindos.
 
-Teo lo sabía. Lo había sabido el primer día. La había visto entrar en la panadería del brazo de Berto, y había visto cómo miraba el horno, y cómo se quedaba quieta un momento al pasar por encima de la trampilla del sótano, como si oyera algo, y había pensado: esta oye.
+Teo lo sabía. Lo había sabido el primer día. La había visto entrar en la panadería del brazo de Berto, y había visto cómo miraba el horno, y cómo se quedaba quieta un momento al pasar por encima de la trampilla del sótano, como si oyera algo, y había pensado: *esta oye*.
 
 Y luego le había visto las manos. Y luego la forma de la mandíbula. Y luego, una noche, en la boda, cuando todos estaban borrachos, la había visto subir a la terraza y mirar hacia arriba.
 
-Teo había cerrado los ojos. Había pensado en su hijo Amael, el Emperador, el que le dio la vida en el 63 a quien yo sé, y en cómo miraba hacia arriba Amael. Igual.
+Teo había cerrado los ojos. Había pensado en su hijo Amael, el Emperador, el que le dio la vida en el 63 *a quien yo sé*, y en cómo miraba hacia arriba Amael. Igual.
 
-La hija de Liminus, había pensado. La que se escapó. La que no quiso ser princesa.
+*La hija de Liminus*, había pensado. *La que se escapó. La que no quiso ser princesa.*
 
 No se lo había dicho a nadie.
 
 Eso fue en el 760. Ahora era el 980. Doscientos veinte años de no decírselo a nadie.
 
-* * *
+---
 
 La panadería estaba en la calle del Horno, en la ladera norte de la colina, entre la plaza del Consejo y el barrio de los enanos, en una casa de piedra de tres pisos que había sido de una planta, luego de dos y luego de tres, a medida que los Ruald iban teniendo hijos. Abajo, la tienda y el horno. Encima, la casa. Encima de la casa, más casa. Y en la trastienda, en un cuarto pequeño sin ventana al lado de la leñera, con un camastro, una silla y una mesa, el tío viejo.
 
@@ -34,13 +34,13 @@ No era difícil. Lo difícil era otra cosa.
 
 Lo difícil era quererlos.
 
-* * *
+---
 
 Esa mañana de invierno del 980, Teo bajó a las cinco, como siempre, encendió el horno con leña de encina, destapó a Gorda, le dio de comer, y se sentó en el taburete al lado del fuego a esperar a que la masa despertara.
 
 A las cinco y media bajó Ansel.
 
-Ansel Ruald, panadero, cincuenta y dos años, nieto del nieto de Isra. Ancho, calvo, con brazos de amasar y una risa que se oía desde la plaza. Bajó en camisa, rascándose la barriga, y dijo buenos días, tío, y se puso a pesar harina sin esperar respuesta.
+Ansel Ruald, panadero, cincuenta y dos años, nieto del nieto de Isra. Ancho, calvo, con brazos de amasar y una risa que se oía desde la plaza. Bajó en camisa, rascándose la barriga, y dijo *buenos días, tío*, y se puso a pesar harina sin esperar respuesta.
 
 A las seis bajó Isa.
 
@@ -80,7 +80,7 @@ Y luego miró hacia arriba. Al techo de la panadería, negro de hollín, donde n
 
 Teo apartó la vista.
 
-* * *
+---
 
 A las siete llegó el chico del palacio.
 
@@ -108,7 +108,7 @@ Y sabía que no era verdad.
 
 Que había otro eslabón. Aquí. En esta panadería. Pasándole hogazas a su padre con las manos finas.
 
-* * *
+---
 
 Cuando el carro se fue, el chico del palacio no se fue.
 
@@ -142,7 +142,7 @@ Teo no dijo nada.
 
 Teo cerró los ojos.
 
-Sabía qué margen era. Lo sabía. La sangre ha entrado en la panadería por una hija. Lo apunto y lo olvido. Sein lo había escrito en el 760, la noche de la boda de Isra, cuando Teo se lo contó, borracho, la única vez en novecientos años que se emborrachó. Y Sein había dicho: nunca hemos contado a las hijas, Teo. No vamos a empezar ahora. Lo apunto y lo olvido. Y lo había olvidado.
+Sabía qué margen era. Lo sabía. *La sangre ha entrado en la panadería por una* *hija. Lo apunto y lo olvido.* Sein lo había escrito en el 760, la noche de la boda de Isra, cuando Teo se lo contó, borracho, la única vez en novecientos años que se emborrachó. Y Sein había dicho: *nunca hemos contado a las hijas, Teo. No vamos a empezar ahora. Lo* *apunto y lo olvido.* Y lo había olvidado.
 
 Teo no.
 
@@ -160,7 +160,7 @@ El chico no dijo nada.
 
 —Eso es lo que se compra, alteza —dijo Teo—. Con la vida que dan los suyos. No se compran años. Se compran entierros.
 
-* * *
+---
 
 Hubo un silencio largo. Desde la tienda llegaba la voz de Ansel, que había vuelto a silbar, y el ruido de la pala del horno.
 
@@ -186,7 +186,7 @@ Teo se quedó helado.
 
 Y se fue.
 
-* * *
+---
 
 Teo se quedó en el camastro hasta que se enfrió el horno.
 

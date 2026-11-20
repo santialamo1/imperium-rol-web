@@ -1,4 +1,4 @@
-## Capítulo 3 · Lucius
+# Capítulo 3 · Lucius
 
 *Concordia y frontera de los Hinur. Años 21 a 30.*
 
@@ -6,7 +6,7 @@ Lucius los mantuvo lejos de la guerra durante siete años.
 
 Fue más difícil que unificar tres pueblos. Fue más difícil que levantar una torre de trescientas varas sobre una llanura donde antes no había nada más que una piedra y buitres. Porque los hijos de un caudillo nacen para la guerra como los halcones nacen para el cielo, y retenerlos en tierra es una forma de crueldad que ellos no perdonan.
 
-Caio no lo perdonó. Le gritó en el salón del Consejo, delante de los señores de los tres pueblos, que era un cobarde, que se había vuelto viejo y blando, que los Hinur se reían de él en sus aldeas y que los Mator ya no pagaban tributo. Lucius aguantó los gritos sin pestañear y lo nombró Señor de los Graneros, encargado de la intendencia del Imperio, que era una forma de decir: contarás sacos de trigo hasta que te mueras.
+Caio no lo perdonó. Le gritó en el salón del Consejo, delante de los señores de los tres pueblos, que era un cobarde, que se había vuelto viejo y blando, que los Hinur se reían de él en sus aldeas y que los Mator ya no pagaban tributo. Lucius aguantó los gritos sin pestañear y lo nombró Señor de los Graneros, encargado de la intendencia del Imperio, que era una forma de decir: *contarás sacos de trigo hasta que te mueras.*
 
 Varo no gritó. Varo nunca gritaba. Varo dejó de hablarle, simplemente, y empezó a reunirse en secreto con los capitanes jóvenes de las guarniciones del norte. Lucius lo supo —siempre lo sabía todo; para eso pagaba a la mitad de los criados de su hijo— y no hizo nada. Prefería un hijo conspirando en la capital que un hijo muerto en un bosque.
 
@@ -18,15 +18,15 @@ Blanca. Sin humo. Sin combustible. Una llama que no se apagaría en cuatrociento
 
 El pueblo la llamó la Llama Concorde y cayó de rodillas.
 
-Lucius no se arrodilló. Miró la llama desde el pie de la torre y sintió, por primera vez en mucho tiempo, que algo dentro de su pecho se aflojaba. Ya está, pensó. La torre está alzada. Lo que tuviera que pagarse, se ha pagado ya de otra forma. Quizá con los cuarenta y tres. Quizá con mis noches sin dormir. Quizá...
+Lucius no se arrodilló. Miró la llama desde el pie de la torre y sintió, por primera vez en mucho tiempo, que algo dentro de su pecho se aflojaba. *Ya está*, pensó. *La torre* *está alzada. Lo que tuviera que pagarse, se ha pagado ya de otra forma. Quizá con los* *cuarenta y tres. Quizá con mis noches sin dormir. Quizá...*
 
 Esa noche soñó con Ysh-Amara. En el sueño ella estaba sentada en la cámara de cristal, junto a la llama, con el velo levantado. No tenía cara. Tenía un hueco, como decían los cuentos de los niños, y del hueco salía niebla.
 
-Sobre la sangre alzarás la torre, decía la niebla. No antes. Después.
+*Sobre la sangre alzarás la torre*, decía la niebla. *No antes. Después.*
 
 Se despertó gritando. Aelia, a su lado, no le preguntó qué había soñado. Le puso una mano en el pecho, sobre el corazón desbocado, y la dejó allí hasta el amanecer. Fue lo más parecido a una caricia que su segunda esposa le dio nunca.
 
-* * *
+---
 
 Los Hinur se rebelaron en el otoño del año veintiuno.
 
@@ -60,15 +60,15 @@ Caio se puso en pie. Era más alto que su padre ahora, más ancho, y en su cara 
 
 El silencio fue absoluto.
 
-Lucius podía decírselo. Podía contarles lo de la mujer del velo, lo de la profecía, lo del precio. Tres de tu sangre darás a la guerra. Podía confesar delante del Consejo que había vendido a sus hijos por una piedra y una torre, que había aceptado sin pensar, que había llamado profecía de feria a una sentencia. Podía hacerlo y ver cómo el respeto en los ojos de aquellos hombres se convertía en asco, cómo el Imperio que había construido sobre su fuerza se resquebrajaba por la grieta de su vergüenza.
+Lucius podía decírselo. Podía contarles lo de la mujer del velo, lo de la profecía, lo del precio. *Tres de tu sangre darás a la guerra.* Podía confesar delante del Consejo que había vendido a sus hijos por una piedra y una torre, que había aceptado sin pensar, que había llamado profecía de feria a una sentencia. Podía hacerlo y ver cómo el respeto en los ojos de aquellos hombres se convertía en asco, cómo el Imperio que había construido sobre su fuerza se resquebrajaba por la grieta de su vergüenza.
 
 O podía callar.
 
-Ya lo estoy pagando, había dicho. Todos los hombres de esta llanura lo están pagando.
+*Ya lo estoy pagando*, había dicho. *Todos los hombres de esta llanura lo están* *pagando.*
 
 —Id —dijo—. Los dos. Y volved.
 
-* * *
+---
 
 Caio murió el primer día de la primavera del año veintidós, en el paso de Hinurvald, con una flecha en el ojo. Había cargado al frente de su caballería contra una empalizada que resultó ser falsa; detrás había un foso con estacas. Sus hombres decían que se rió al ver la trampa, un segundo antes de que la flecha le alcanzara. Que siempre se reía.
 
@@ -82,7 +82,7 @@ La piedra latía más deprisa.
 
 La piedra no respondió. Las piedras no responden. Pero esa noche, en lo alto de la torre, la Llama Concorde ardió tan brillante que se vio desde las costas de Pisor.
 
-* * *
+---
 
 Lucius encerró a Lisandro.
 
@@ -104,9 +104,9 @@ Pero el día de la batalla decisiva, en el desfiladero de Leogrand, a quinientas
 
 Dejó una nota sobre la mesa. Lucius la leyó a la mañana siguiente, con las manos temblando, y luego la quemó. Solo Hector supo lo que decía, porque Lisandro le había dado una copia la última semana, doblada dentro de un libro de poemas, con la indicación de no abrirla hasta que volviera de la guerra.
 
-*Me diste a la guerra cuando me encerraste para salvarme de ella, padre. No era la espada lo que quería la piedra; era tu miedo. Así que yo elijo cómo pagar. No llores. Construí tu torre. Ahora la torre tiene lo que pidió y nadie más de nuestra sangre tendrá que darle nada.*
+*Me diste a la guerra cuando me encerraste para salvarme de ella, padre. No era la* *espada lo que quería la piedra; era tu miedo. Así que yo elijo cómo pagar. No llores.* *Construí tu torre. Ahora la torre tiene lo que pidió y nadie más de nuestra sangre tendrá* *que darle nada.*
 
-*Cuida de Livia. Cuida de Hector. Sobre todo de Hector. Él no es de tu sangre, y por eso será el único que pueda sostener lo que construiste sin que lo devore.*
+*Cuida de Livia. Cuida de Hector. Sobre todo de Hector. Él no es de tu sangre, y* *por eso será el único que pueda sostener lo que construiste sin que lo devore.*
 
 Hector Tiberius volvió de Leogrand en el invierno del año treinta con la victoria en las manos y encontró a su padrastro convertido en un anciano.
 

@@ -1,4 +1,4 @@
-## Capítulo 55 · Lanther
+# Capítulo 55 · Lanther
 
 *Tawarsinan. Otoño del año 156 de la Nueva Era.*
 
@@ -20,7 +20,7 @@ Verawel le había dicho dónde. En el oeste de la ciudad, decía, donde el bosqu
 
 —Los elfos no tachamos.
 
-* * *
+---
 
 Las raíces eran un laberinto. Húmedo. Oscuro. Olía a tierra y a madera mojada y a algo más, debajo, que Lanther conocía muy bien y que no le gustaba nada.
 
@@ -38,7 +38,7 @@ Apartó la mano.
 
 Siguió subiendo.
 
-* * *
+---
 
 Salió por el tronco de un árbol, por una grieta, a una plaza.
 
@@ -52,7 +52,7 @@ Se puso la capucha.
 
 Y fue a buscar a los sabios.
 
-* * *
+---
 
 Estaban donde le había dicho Verawel. En el centro. En el árbol más grande, que era más grande que una montaña pequeña y que tenía, a la altura del suelo, una abertura en el tronco, alta como una casa, sin puerta.
 
@@ -66,7 +66,7 @@ Lanther entró. Se quitó la capucha. Se quedó de pie en el borde del círculo.
 
 Los siete abrieron los ojos a la vez.
 
-* * *
+---
 
 —Humana —dijo uno. No en voz alta. Dentro de la cabeza de Lanther. En una lengua que no era ninguna lengua, que era lo de debajo de las lenguas, como hablaba Loth al final.
 
@@ -74,7 +74,7 @@ Los siete abrieron los ojos a la vez.
 
 Los siete se encogieron. Como si les hubiera tirado una piedra.
 
-—No hables —dijo el mismo, dentro de su cabeza—. Aquí no se habla.
+—*No hables* —dijo el mismo, dentro de su cabeza—. *Aquí no se habla.*
 
 —¿Por qué?
 
@@ -92,13 +92,13 @@ Uno de los siete, una elfa, la más vieja, cerró los ojos.
 
 —Es la otra mitad —dijo Lanther.
 
-* * *
+---
 
 Lo sabía por Loth.
 
 Por la última noche. En la cúpula de Concordia. Antes de deshacerse mirando al sol. Cuando ella le dijo que no le daba la vida, y él se rió, y después de reírse, mientras Livia metía la mano en la llama, le dijo algo. Bajo. Para ella.
 
-*Está partido, sobrina. Lo de abajo. En dos. No lo partió nadie; se partió solo, de hambre, hace mucho. Una mitad está al norte, en un valle negro, debajo de tu hermano. La otra está al sur. Debajo de unos que no hablan. Y las dos mitades se buscan. Como se buscan las dos mitades de una jarra rota.*
+*Está partido, sobrina. Lo de abajo. En dos. No lo partió nadie; se partió solo, de* *hambre, hace mucho. Una mitad está al este, al otro lado del estrecho, en un valle negro,* *debajo de tu hermano. La otra está al sur. Debajo de unos que no hablan. Y las dos* *mitades se buscan. Como se buscan las dos mitades de una jarra rota.*
 
 Ella no le había preguntado cómo lo sabía. Loth sabía cosas. Loth había estado dentro de una jarra veintiocho años, y dentro de las jarras se oía lo de abajo como se oye el mar dentro de una caracola.
 
@@ -112,7 +112,7 @@ Y entonces la elfa más vieja abrió los ojos y habló.
 
 En voz alta.
 
-* * *
+---
 
 Tenía la voz rota. No de vieja. De no usarla. Como una puerta que no se abre en cien años y que cruje cuando la abres.
 
@@ -158,7 +158,7 @@ Lanther se puso la capucha.
 
 —A casa —dijo—. A apuntarlo.
 
-* * *
+---
 
 Antes de irse, en la puerta de la sala, se volvió.
 
@@ -174,7 +174,7 @@ Lanther sonrió. Torcido.
 
 —Porque a lo mejor ese día sois vosotros los que tenéis que salir —dijo—. Y os vendrá bien saber dónde viven los que hablan.
 
-* * *
+---
 
 Salió por las raíces. Por el árbol hueco. Por el río.
 
@@ -188,7 +188,7 @@ Tenía la cara de cuarenta años. Siempre la tendría. Con las gafas nuevas de T
 
 Sein no dijo nada. Escribió.
 
-—Y otra cosa —dijo Lanther. Se sentó a su lado. Metió los pies en el agua. Estaba fría—. El orco gris. El de la piedra. El que se llevó la gema. Se la llevó a alguien que quiere juntar las dos mitades. Eso dijo Loth. Lo que está partido quiere juntarse.
+—Y otra cosa —dijo Lanther. Se sentó a su lado. Metió los pies en el agua. Estaba fría—. El orco gris. El de la piedra. El que se llevó la gema. Se la llevó a alguien que quiere juntar las dos mitades. Eso dijo Loth. *Lo que está partido quiere juntarse.*
 
 —¿Quién?
 
@@ -212,7 +212,7 @@ Sein apuntó. Luego cerró el libro. Lo volvió a abrir. Por la última página.
 
 —Lo hago igual.
 
-* * *
+---
 
 Lo leyó en voz alta. Era lo que hacían. Desde el año 58. Cada cincuenta años, en algún sitio, junto a algún río, Sein leía el recuento en voz alta y Lanther lo escuchaba con los pies en el agua.
 
@@ -256,7 +256,7 @@ Era una línea. Con la letra de Amael.
 
 Sin nombre.
 
-* * *
+---
 
 Se quedaron los dos mirando la línea mucho rato, con los pies en el río.
 

@@ -1,4 +1,4 @@
-## Capítulo 12 · Bander
+# Capítulo 12 · Bander
 
 *La ladera norte de Banderbill. La Noche del Dolor.*
 
@@ -8,7 +8,7 @@ No las campanas. Las campanas vinieron después, cuando él ya estaba de pie, ap
 
 Las montañas habían dejado de latir.
 
-Llevaba veintisiete años oyéndolas latir, desde la primera noche en la playa de arena gris. Como otro clavo, le había dicho a Tobías una vez. Como si alguien hubiera clavado aquí también algo y lo hubiera dejado a medias. Las oía como se oye el mar desde una casa de pescadores: sin oírlo, siempre.
+Llevaba veintisiete años oyéndolas latir, desde la primera noche en la playa de arena gris. *Como otro clavo*, le había dicho a Tobías una vez. *Como si alguien hubiera* *clavado aquí también algo y lo hubiera dejado a medias.* Las oía como se oye el mar desde una casa de pescadores: sin oírlo, siempre.
 
 Y de pronto, en mitad de la noche, se callaron.
 
@@ -26,17 +26,17 @@ No como oía a los muertos. Los muertos hablaban; tenían voces, nombres, quejas
 
 Las mismas.
 
-Las de debajo, pensó. Las que trajeron lo que sobraba.
+*Las de debajo*, pensó. *Las que trajeron lo que sobraba.*
 
 No supo de dónde le venía el pensamiento. Le vino, entero, como le venían los nombres de los muertos.
 
 Y supo, también entero, a quién buscaban.
 
-* * *
+---
 
 —¡Bander! ¡Bander, vuelve aquí!
 
-Era Mara. En la escalera. Lo había oído levantarse —Mara oía todo lo que él hacía, siempre; decía que era porque dormía con un ojo abierto desde la Tozuda— y había subido corriendo, y llegó a la puerta de la torre justo cuando él cogía la espada del arcón.
+Era Mara. En la escalera. Lo había oído levantarse —Mara oía todo lo que él hacía, siempre; decía que era porque dormía con un ojo abierto desde la *Tozuda*— y había subido corriendo, y llegó a la puerta de la torre justo cuando él cogía la espada del arcón.
 
 Su espada vieja, la de la Guardia de la Torre, la de la escalera de caracol, mellada en once sitios.
 
@@ -102,7 +102,7 @@ Bajó la escalera.
 
 No se murió en el tercer peldaño. Ni en el décimo. Ni en el último. No supo cómo. Quizá porque, al pasar el tercero, empezó a oír algo más, por detrás del canto de sal, algo muy lejano y muy cercano a la vez, una voz cansada de hombre que contaba en voz baja, y le pareció que la voz contaba sus pasos.
 
-* * *
+---
 
 Salió a la plaza descalzo. En camisa de dormir. Con la espada vieja.
 
@@ -134,7 +134,7 @@ Su hijo había salido antes, con la mitad de la Guardia, por la ruta corta del b
 
 Siguió andando.
 
-* * *
+---
 
 Llegó a la casa de Livia cuando las figuras ya estaban allí.
 
@@ -178,7 +178,7 @@ Todas a la vez. Veintitrés velos girando en el mismo instante, con el mismo mov
 
 Bander lo oyó y entendió algo.
 
-No lo entendió con palabras. Lo entendió como se entienden las cosas en los sueños, de golpe, entero. El canto no era un canto de hambre. No era como los muertos de la niebla, que querían aliento, que querían calor. Era otra cosa. Era un canto de guardia. Como el de los perros que ladran a un desconocido en la puerta de una casa. No pases. No pases. No pases.
+No lo entendió con palabras. Lo entendió como se entienden las cosas en los sueños, de golpe, entero. El canto no era un canto de hambre. No era como los muertos de la niebla, que querían aliento, que querían calor. Era otra cosa. Era un canto de guardia. Como el de los perros que ladran a un desconocido en la puerta de una casa. *No pases. No* *pases. No pases.*
 
 Estaban protegiendo algo.
 
@@ -188,7 +188,7 @@ Era la montaña. Lo de debajo de la montaña. Lo que dormía allí, a medias, in
 
 Y la mujer de la casa —la mano, la última mano Heredicus, la que podía sacar un clavo— era el peligro.
 
-No venís a por ella, pensó Bander. Venís a impedir que llegue.
+*No venís a por ella*, pensó Bander. *Venís a impedir que llegue.*
 
 —Te oigo —dijo en voz alta.
 
@@ -206,7 +206,7 @@ Luego, muy despacio, inclinó la cabeza hacia él. Y levantó la mano hacia el v
 
 Y miró él.
 
-* * *
+---
 
 No vio la cara. Vio la mano.
 
@@ -248,11 +248,11 @@ Su hijo miró. No dijo nada. Lo apretó más fuerte.
 
 Y detrás de ellos, en la casa, se abrió la puerta.
 
-* * *
+---
 
 Lo que pasó después, Bander no lo vio bien. Lo oyó.
 
-Oyó a Livia salir. Oyó su voz, firme, demasiado firme, dando una orden que no entendió. Oyó a las figuras moverse otra vez, todas hacia la puerta, hacia ella, con su crujido de sal. Oyó a Joran Kesse gritar algo, ¡no, no, no, a ella no!, y correr. Oyó a Lanther. Oyó a Hakon. Oyó un golpe. Un grito. Otro grito.
+Oyó a Livia salir. Oyó su voz, firme, demasiado firme, dando una orden que no entendió. Oyó a las figuras moverse otra vez, todas hacia la puerta, hacia ella, con su crujido de sal. Oyó a Joran Kesse gritar algo, *¡no, no, no, a ella no!*, y correr. Oyó a Lanther. Oyó a Hakon. Oyó un golpe. Un grito. Otro grito.
 
 Luego dejó de oír, porque su hijo lo cogió en brazos como se coge a un niño y echó a correr hacia la colina.
 
@@ -268,7 +268,7 @@ Hacia su hijo.
 
 Bander lo notó y quiso llorar y no pudo.
 
-Cruzaron el puente de troncos. Entraron en la colina. Su hijo corría por las calles de barro, entre la gente, gritando que se apartaran, ¡apartad, apartad!, con una voz que Bander no le había oído nunca. Entraron en la plaza.
+Cruzaron el puente de troncos. Entraron en la colina. Su hijo corría por las calles de barro, entre la gente, gritando que se apartaran, *¡apartad, apartad!*, con una voz que Bander no le había oído nunca. Entraron en la plaza.
 
 —La fuente —dijo Bander.
 

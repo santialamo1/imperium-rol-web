@@ -1,4 +1,4 @@
-## Capítulo 30 · Pim
+# Capítulo 30 · Pim
 
 *Las salinas del sur. Verano del año 655 de la Nueva Era (48 D.bA).*
 
@@ -8,7 +8,7 @@ En las salinas no había martes. No había nada. Había charcas. Blancas. Cuadra
 
 A Pim le gustaba porque no había nadie. Y porque la sal era como él.
 
-* * *
+---
 
 Tenía el cuerpo de sal desde el 300.
 
@@ -16,11 +16,11 @@ Desde la noche de la cueva. Desde que la voz de abajo le había dado un cuerpo n
 
 No olía a nada.
 
-Eso era lo peor. Pim se acordaba de oler. De cuando era Pim Hennek, un muchacho de Puerto Salobre, y olía la brea de las barcas y el pan de su madre y el pelo de una niña pelirroja que bajaba a la playa con las redes al hombro. Se acordaba del olor de las cosas. Pero no lo tenía. Tenía la palabra olor, y la palabra no olía.
+Eso era lo peor. Pim se acordaba de oler. De cuando era Pim Hennek, un muchacho de Puerto Salobre, y olía la brea de las barcas y el pan de su madre y el pelo de una niña pelirroja que bajaba a la playa con las redes al hombro. Se acordaba del olor de las cosas. Pero no lo tenía. Tenía la palabra *olor*, y la palabra no olía.
 
 En las salinas daba igual. Allí no olía a nada para nadie.
 
-* * *
+---
 
 Escribía.
 
@@ -32,7 +32,7 @@ Había estado veintitrés años. Viendo lo que hacía el de gris. Cómo plantaba
 
 Y cómo, cada vez que pasaba al lado de Pim, se paraba un momento. Y lo miraba. Con curiosidad. Como se mira una cosa rara.
 
-Me pediste que me fuera, le había dicho una vez. En Arghâl. Nadie me lo había pedido nunca. Lo guardo.
+*Me pediste que me fuera*, le había dicho una vez. *En Arghâl. Nadie me lo había* *pedido nunca. Lo guardo.*
 
 En el 630, Pim se fue.
 
@@ -42,7 +42,7 @@ El de gris no lo siguió.
 
 Pim no sabía si eso era bueno o malo. Pensaba que a lo mejor lo dejaba ir para ver adónde iba. Como se deja suelto un perro para ver dónde ha enterrado el hueso.
 
-* * *
+---
 
 Escribía en sal.
 
@@ -58,7 +58,7 @@ No lo escribía. Eso no.
 
 Escribía lo otro.
 
-* * *
+---
 
 Lo otro era una cosa que había descubierto por casualidad. En Arghâl. La noche del asalto. Cuando la pelirroja estaba en la boca del pozo y él estaba detrás, en las escaleras, y la oyó decir la palabra élfica. La de soltar. Hacia arriba. A los muertos de la plaza.
 
@@ -74,7 +74,7 @@ Que volviera un rato. Y se fuera.
 
 Para despedirse.
 
-* * *
+---
 
 Lo probó con una gaviota.
 
@@ -104,7 +104,7 @@ Y lo raro fue que la gaviota, muerta otra vez, estaba distinta.
 
 Estaba tranquila.
 
-* * *
+---
 
 Lo escribió esa noche. En la sal.
 
@@ -112,7 +112,7 @@ Luego lo borró. Porque en la sal no se podía guardar nada. Al día siguiente, 
 
 Y pensó que necesitaba papel.
 
-* * *
+---
 
 El papel se lo trajo Ithil.
 
@@ -130,7 +130,7 @@ Ithil miró las charcas. La sal. Las palabras borradas por el viento que todaví
 
 —Que escribes en la sal —dijo—. Y que el viento lo borra.
 
-* * *
+---
 
 Hablaron hasta el alba. Sentados en el borde de una charca. Como dos viejos.
 
@@ -156,7 +156,7 @@ Ithil lo miró. Con los ojos blancos.
 
 —Entonces no se lo diré.
 
-* * *
+---
 
 Pim se lo dijo.
 
@@ -168,7 +168,7 @@ Ithil miró la gaviota mucho rato.
 
 —Ya lo sé. —Pim se miró la mano con un dedo—. Por eso lo quiero yo.
 
-* * *
+---
 
 Ithil volvió en primavera. Solo. Con un rollo de papel de los drow, que era gris y fino y no se mojaba, y un tintero de la tinta de la isla, que era negra.
 
@@ -194,7 +194,7 @@ La tinta se quedó blanca. Como la leche. Como la sal.
 
 —Con esto —dijo.
 
-* * *
+---
 
 Lo escribió en un mes.
 
@@ -206,7 +206,7 @@ Y al final, en la última línea, escribió una cosa que no estaba en ningún li
 
 *Te oigo. Vete.*
 
-* * *
+---
 
 Cuando terminó, le pidió a Ithil una cosa más.
 
@@ -224,7 +224,7 @@ Ithil se miró la hombrera. Había una mancha. Pequeña. Oscura. Que no se iba a
 
 —Para que el papel la conozca —dijo Pim—. Y para que, si un día la vuelve a tocar, arda.
 
-* * *
+---
 
 Rascaron la mancha con el filo de una concha. Cayó un polvo oscuro. Pim lo puso en una esquina del papel. Abajo. Donde no había letras.
 
@@ -244,7 +244,7 @@ Pim se encogió de hombros. Le crujieron.
 
 —Las charcas de sal se tocan por debajo con todas las piedras —dijo—. Hasta con las del muro. —Sonrió con su cara de sal—. Y él le habla a todas.
 
-* * *
+---
 
 Ithil se lo llevó.
 
@@ -254,7 +254,7 @@ Dejó el rollo en la tercera almena. Contra el merlón. Donde se sentaba un elfo
 
 Y se fue sin mirar arriba. Porque no podía.
 
-* * *
+---
 
 Ottherius lo encontró esa noche.
 
@@ -266,13 +266,13 @@ Porque el papel le contó todo. Un muchacho de Puerto Salobre. Una madre con una
 
 Y una cosa más, al final. En la última línea. Que no se leía con los ojos. Que se oía con el dedo.
 
-No era te oigo, vete.
+No era *te oigo, vete*.
 
 Era lo que Pim no había escrito. Lo que había pensado mientras escribía la última línea.
 
 *A mí no me lo dirá nunca.*
 
-* * *
+---
 
 Ottherius guardó el rollo en su cartera. La de cuero, la que llevaba siempre colgada en bandolera, con los mil trastos que le hablaban.
 

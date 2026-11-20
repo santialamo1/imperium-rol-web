@@ -1,4 +1,4 @@
-## Capítulo 48 · Wenna
+# Capítulo 48 · Wenna
 
 *La colina de Banderbill. Otoño del año 760 de la Nueva Era (153 D.bA).*
 
@@ -24,7 +24,7 @@ Tenía las manos quietas. Las miró también. Las manos. Llenas de quemaduras vi
 
 Estaban quietas porque no tenían ganas de moverse.
 
-* * *
+---
 
 Tibbet llegó a mediodía. Como todos los días. Con el sombrero puesto. Con la lista en el bolsillo.
 
@@ -54,7 +54,7 @@ Comieron castañas. Callados. La plaza estaba llena; era día de mercado, y adem
 
 —Pues ahora sí.
 
-* * *
+---
 
 Tibbet no dijo nada más. Se comió otra castaña.
 
@@ -98,7 +98,7 @@ Tibbet la miró. Se echó a reír.
 
 Wenna también.
 
-* * *
+---
 
 —Me quería ir —dijo Wenna. Más tarde. Con el sombrero puesto, echado para atrás para ver las castañas—. Esta mañana. Antes de dormirme. Estaba pensando que me quería ir.
 
@@ -122,7 +122,7 @@ Tibbet le cogió la mano. La de las quemaduras. No dijo nada.
 
 Era lo que tenía Tibbet. Que no decía nada cuando no había nada que decir. Era el único de la Orden que sabía hacerlo.
 
-* * *
+---
 
 La boda era al día siguiente.
 
@@ -144,13 +144,13 @@ Wenna no entendió por qué.
 
 Lo entendió al día siguiente.
 
-* * *
+---
 
 La boda se hizo en la Plaza de la Corona. Con toda la colina mirando. Con banderas. Con un Fiel del Mercado que bajó del valle negro a casarlos, porque era costumbre desde Arthal, y que era Ilka, la Custodia, que se había hecho vieja y que le guiñó un ojo a Wenna desde el estrado.
 
 El pan de la boda lo hizo la familia del novio.
 
-Todos los Ruald. Que eran muchos. El padre, la madre, los tíos, los primos. Y uno más. Uno que no era de la familia, decían, pero que siempre había estado, que siempre había sido el tío Teo, que no se sabía bien de quién era tío ni desde cuándo, y que tenía la cara de un hombre de sesenta y las manos más rápidas de toda la calle de abajo.
+Todos los Ruald. Que eran muchos. El padre, la madre, los tíos, los primos. Y uno más. Uno que no era de la familia, decían, pero que siempre había estado, que siempre había sido *el tío Teo*, que no se sabía bien de quién era tío ni desde cuándo, y que tenía la cara de un hombre de sesenta y las manos más rápidas de toda la calle de abajo.
 
 El pan de la boda fue un pan de nueces. Grande. Redondo. Con una corona hecha de masa encima. Con once nueces en la corona. Una por cada libra.
 
@@ -160,7 +160,7 @@ Y fue a buscarlo.
 
 No supo por qué. Le dio un pálpito. Con el sombrero de Tibbet puesto, bailándole.
 
-* * *
+---
 
 Estaba en la trastienda del horno. En la calle de abajo. Vacía, porque toda la calle estaba en la plaza.
 
@@ -188,7 +188,7 @@ Wenna se quedó quieta.
 
 —¿Cuatrocientos años?
 
-* * *
+---
 
 El hombre la miró. Mucho rato.
 
@@ -202,7 +202,7 @@ Wenna no dijo nada.
 
 —Me llamo Teo Ruald —dijo el hombre—. Tuve un hijo con la hija de Bander. En el año 38. Se llamó Amael. Fue rey. Leía. —Se le movió la cara—. Él me dio la suya. En el 63. En ese saco. Antes de que pudiera apartarme. Él no vivió mucho. Yo sí.
 
-* * *
+---
 
 Wenna se sentó.
 
@@ -224,7 +224,7 @@ Wenna miró el tarro.
 
 —¿Y por qué lloras? —dijo.
 
-* * *
+---
 
 Teo tardó en contestar.
 
@@ -244,7 +244,7 @@ Wenna se quedó callada.
 
 Lloró otra vez. No mucho. Como lloran los que llevan mucho tiempo aguantando y se les sale un poco.
 
-* * *
+---
 
 Wenna no le cogió la mano. No era de coger manos.
 
@@ -260,7 +260,7 @@ Teo la miró.
 
 —Que vengas, pesado.
 
-* * *
+---
 
 Fue.
 
@@ -274,9 +274,9 @@ Se tapó la boca con la mano.
 
 Y Sein, a su lado, sacó el libro. Y apuntó algo. Wenna no vio qué. Pero lo vio sonreír.
 
-* * *
+---
 
-Ilka los casó. Con las palabras del Mercado, que eran pocas: Lo que se junta, se cuida. Lo que se cuida, dura. Lo que dura, se acuerda.
+Ilka los casó. Con las palabras del Mercado, que eran pocas: *Lo que se junta, se* *cuida. Lo que se cuida, dura. Lo que dura, se acuerda.*
 
 Berto e Isra se dieron la mano.
 
@@ -294,7 +294,7 @@ Estaba bueno. Lo dijo en voz alta.
 
 Y la gente se rio. Y aplaudió. Y nadie supo por qué la pelirroja de la capa, en el estrado, lloraba tanto.
 
-* * *
+---
 
 Esa noche, Wenna volvió al puesto. A recoger.
 

@@ -1,4 +1,4 @@
-## Capítulo 49 · Panbor
+# Capítulo 49 · Panbor
 
 *El Fuerte Novel y las montañas rojas. Invierno del año 133 de la Nueva Era.*
 
@@ -16,7 +16,7 @@ Gris. Del tamaño de un huevo de águila. Con una raya blanca que la cruzaba com
 
 Se la había dado el Sincara.
 
-* * *
+---
 
 Panbor tenía una mano de inviernos y otra mano más —diez, decían los de la colina, que contaban con palabras— cuando el Sincara bajó a las montañas rojas.
 
@@ -38,17 +38,17 @@ El Sincara pareció entenderlo. Asintió.
 
 Y le dio la piedra.
 
-* * *
+---
 
 La piedra hablaba.
 
 No con palabras. Panbor no habría sabido qué hacer con palabras; los hermanos tenían pocas, y las de la colina eran demasiadas y demasiado blandas. La piedra hablaba con lo que hay debajo de las palabras. Con el estómago. Con el pecho. Como habla el hambre.
 
-Ve, decía. Allí. Al este. Donde están los que tienen árboles. Donde están los que tienen pan. Ve. Coge.
+*Ve*, decía. *Allí. Al este. Donde están los que tienen árboles. Donde están los que* *tienen pan. Ve. Coge.*
 
 Y Panbor iba.
 
-No era el más grande de los hermanos. Había tres más grandes, y dos más fuertes, y uno que tiraba el hacha más lejos. Pero era el que oía la piedra. Y cuando él decía vamos, los hermanos iban, porque detrás de su voz había otra, más honda, que les apretaba el estómago a ellos también.
+No era el más grande de los hermanos. Había tres más grandes, y dos más fuertes, y uno que tiraba el hacha más lejos. Pero era el que oía la piedra. Y cuando él decía *vamos*, los hermanos iban, porque detrás de su voz había otra, más honda, que les apretaba el estómago a ellos también.
 
 En una mano de inviernos, los hermanos dejaron de pelearse entre ellos. Por primera vez desde que los viejos recordaban. Dejaron de matarse por una cabra, por una cueva, por una hembra. Iban todos juntos. Hacia el este. Hacia los árboles. Detrás de Panbor. Detrás de la piedra.
 
@@ -60,7 +60,7 @@ Panbor no entendía la mitad. No le hacía falta.
 
 Sabía lo que era tener hambre.
 
-* * *
+---
 
 El fuerte de los de la colina estaba en el borde del bosque de hojas grandes. Panbor lo había visto levantar. Desde lejos. Una mano de lunas viéndolo crecer: los troncos clavados de pie, uno al lado de otro, como dientes; las torres de piedra en las esquinas; el foso. Los de los árboles ayudando a los de la colina. Cantándole a la madera.
 
@@ -70,15 +70,15 @@ Había un fuerte igual, decían los viejos, mucho más al norte. En la colina de
 
 Este no cantaba tanto. La madera canta menos que la piedra.
 
-Ve, dijo la piedra. Ahora. Coge.
+*Ve*, dijo la piedra. *Ahora. Coge.*
 
 Panbor fue.
 
-* * *
+---
 
 Esperó a la noche más negra. Sin luna. Con lluvia. Una mano de manos de hermanos detrás de él: cientos, en el bosque, quietos, con las hachas, oliendo a barro.
 
-No tocaron los tambores. Por primera vez. El Sincara se lo había enseñado: el tambor avisa. El que avisa, pierde. Llevaban cuatro lunas tocándolos cada noche, para que los de la colina se acostumbraran. Y la noche anterior habían parado.
+No tocaron los tambores. Por primera vez. El Sincara se lo había enseñado: *el* *tambor avisa. El que avisa, pierde.* Llevaban cuatro lunas tocándolos cada noche, para que los de la colina se acostumbraran. Y la noche anterior habían parado.
 
 Los de la colina habían doblado la guardia. Panbor lo vio desde el bosque. Más antorchas en la empalizada. Más sombras en las torres.
 
@@ -92,7 +92,7 @@ Panbor lo mató.
 
 Y detrás de Panbor subieron los hermanos.
 
-* * *
+---
 
 Fue rápido. Más rápido de lo que nadie esperaba. Los de la colina sabían pelear; eran buenos, mejor armados, con cotas de hierro y escudos. Los de los árboles tiraban flechas que no fallaban. Pero eran pocos. Y estaban dormidos, la mitad. Y los hermanos eran una mano de manos de manos, y no tenían miedo, porque la piedra les quitaba el miedo y les dejaba solo el hambre.
 
@@ -102,7 +102,7 @@ A los hermanos no les salía nada.
 
 Los hermanos se morían hacia abajo.
 
-* * *
+---
 
 El último fue un niño.
 
@@ -122,7 +122,7 @@ Y el niño le pasó por detrás.
 
 Y le abrió la espalda.
 
-* * *
+---
 
 Panbor lo notó como se nota el agua fría. Primero el frío. Luego, el calor. Un tajo, largo, de un hombro a la cadera, por encima de las cicatrices viejas, por encima de todo. Hondo.
 
@@ -140,7 +140,7 @@ Encima de su pecho.
 
 Encima de la piedra.
 
-* * *
+---
 
 La sangre del niño cayó en la piedra. La de Panbor también: le corría por la espalda, por los costados, por el pecho, desde el tajo, y se juntaba con la otra en la tira de cuero, en la piedra gris con la veta blanca, y la mojaba.
 
@@ -160,9 +160,9 @@ Era roja. Por dentro. Como el agua de los arroyos cuando bajan con lluvia. Trans
 
 Latía como late un corazón.
 
-Bien, dijo la piedra. No con el estómago. Con palabras. Por primera vez. Una voz que no era la del Sincara. Más honda. Más vieja. Que venía de muy abajo, de debajo de todas las montañas. Bien. Tráemela.
+*Bien*, dijo la piedra. No con el estómago. Con palabras. Por primera vez. Una voz que no era la del Sincara. Más honda. Más vieja. Que venía de muy abajo, de debajo de todas las montañas. *Bien. Tráemela.*
 
-* * *
+---
 
 Panbor no se murió.
 
@@ -174,9 +174,9 @@ Nadie le discutió nada nunca más.
 
 Dejó a los hermanos en el fuerte quemado. Le dijo al más grande, a Gruk, que se quedara, que esperara, que los de la colina vendrían y que había que estar. Y se fue al oeste. Solo. Con la piedra roja contra el pecho.
 
-Tráemela, decía la piedra.
+*Tráemela*, decía la piedra.
 
-* * *
+---
 
 Tardó una mano de días y otra mano en llegar a las montañas rojas. Y otra mano más en subir.
 
@@ -190,7 +190,7 @@ Al fondo había una piedra plana. Como una mesa. De sal blanca.
 
 Y detrás de la mesa, sentado en el suelo, con la espalda contra la pared, el Sincara.
 
-* * *
+---
 
 Estaba peor que la última vez. Le faltaba un brazo; se le había caído, o se lo habían cortado, y en su lugar había un muñón de hueso. Tenía la capa de foca hecha jirones. Los ojos verdes, en el fondo de la calavera, más apagados.
 
@@ -220,13 +220,13 @@ El Sincara no contestó. Señaló la mesa de sal.
 
 —Déjala ahí.
 
-* * *
+---
 
 Panbor no quería.
 
 Era la primera vez en su vida que no quería algo que le mandaban. La piedra le había cerrado la espalda. La piedra le había quitado el miedo. La piedra le había hecho el primero. Sin la piedra era un hermano más. Uno de una mano de manos.
 
-Déjala, dijo la voz. La de abajo. La honda. Déjala. Ya has hecho lo que tenías que hacer. Ya está llena. Déjala donde pueda tenerla.
+*Déjala*, dijo la voz. La de abajo. La honda. *Déjala. Ya has hecho lo que tenías que* *hacer. Ya está llena. Déjala donde pueda tenerla.*
 
 Panbor se quitó la tira de cuero del cuello.
 
@@ -238,7 +238,7 @@ Roja. Brillante. Latiendo. Con la veta blanca en medio como una cicatriz.
 
 Y en cuanto la soltó, se le abrió la espalda.
 
-* * *
+---
 
 No del todo. No como en el fuerte. Un poco. Por un extremo. Lo notó: el calor, la sangre, el dolor de nuevo, ahora que la piedra no estaba. Se llevó la mano a la espalda y la sacó roja.
 
@@ -260,7 +260,7 @@ El Sincara se rió. Sin labios. Un ruido de hueso contra hueso.
 
 —Porque está partido —dijo—. Y lo que está partido quiere juntarse.
 
-* * *
+---
 
 Panbor bajó de las montañas rojas con la espalda sangrando. Lo hizo despacio, una mano de días y otra mano, parándose en cada arroyo a lavarse la herida. No se le infectó. No se le cerró tampoco. Se le quedó así, abierta un dedo, roja, como una boca que no termina de cerrar.
 

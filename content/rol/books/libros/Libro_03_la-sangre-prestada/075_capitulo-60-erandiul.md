@@ -1,6 +1,6 @@
-## Capítulo 60 · Érandiul
+# Capítulo 60 · Érandiul
 
-*Una isla sin nombre, al noroeste de todo. Finales del verano del año 856 de la Nueva Era (249 D.bA).*
+*Una isla sin nombre, en mitad del Mar de la Eterna Penuria, al norte de todo.* *Finales del verano del año 856 de la Nueva Era (249 D.bA).*
 
 Tenía mil un años y la mano derecha no le servía desde hacía doscientos cuarenta y nueve, y cuando la flota avistó la isla, Érandiul pensó, por primera vez en mucho tiempo, que no iba a poder escribir lo que iba a ver.
 
@@ -8,13 +8,13 @@ No por la mano. Por otra cosa.
 
 La isla estaba demasiado quieta.
 
-* * *
+---
 
 Llevaban cinco meses sin rumbo.
 
-Eso lo había escrito ya, en una hoja aparte, para pasarlo luego al diario si hacía falta: sin un rumbo fijo. El Emperador no tenía rumbo. Lo decía en voz alta, en la cubierta del Tessa, que era el tercer Tessa, porque los otros dos se habían quedado en el hielo: No tenemos rumbo. Vamos al oeste. A ver. Y la flota iba al oeste. Doce barcos. Mil cuatrocientos hombres y mujeres. El almirante. El elfo viejo del sombrero, que había subido sin pedir permiso, como siempre, porque alguien tenía que verlo.
+Eso lo había escrito ya, en una hoja aparte, para pasarlo luego al diario si hacía falta: *sin un rumbo fijo*. El Emperador no tenía rumbo. Lo decía en voz alta, en la cubierta del *Tessa*, que era el tercer *Tessa*, porque los otros dos se habían quedado en el hielo: *No* *tenemos rumbo. Vamos al norte. A ver.* Y la flota iba al norte. Doce barcos. Mil cuatrocientos hombres y mujeres. El almirante. El elfo viejo del sombrero, que había subido sin pedir permiso, como siempre, porque alguien tenía que verlo.
 
-Al oeste, de la isla de las cabras, había mar. Luego más mar. Luego niebla.
+Al norte de la isla de las cabras había mar. Luego más mar. Luego niebla.
 
 La niebla duró tres semanas. Espesa. Gris. Fría. Que no dejaba ver la proa desde la popa. Los barcos navegaban atados con cuerdas, para no perderse, y tocaban campanas cada poco, y el sonido de las campanas se quedaba pegado a la niebla y volvía, como si hubiera otros barcos alrededor tocando las mismas.
 
@@ -26,7 +26,7 @@ Abajo.
 
 Más fuerte que en la colina. Más fuerte que en Kûr. Más fuerte que nunca.
 
-* * *
+---
 
 El almirante también lo oía.
 
@@ -44,7 +44,7 @@ El almirante se miró la mano. No se había dado cuenta.
 
 Érandiul no preguntó más. Sabía lo del 745. Lo sabía todo. Por eso estaba allí.
 
-* * *
+---
 
 La niebla se levantó una mañana. De golpe. Como se levanta una manta.
 
@@ -58,7 +58,7 @@ Y nieve. En la cima. Aunque era verano.
 
 Y nadie.
 
-Ni humo. Ni barcos en la playa. Ni banderas. Ni un ruido. Ni pájaros. Las gaviotas que seguían a la flota desde la isla de las cabras se dieron la vuelta al ver la isla. Todas. A la vez. Y se fueron hacia el este.
+Ni humo. Ni barcos en la playa. Ni banderas. Ni un ruido. Ni pájaros. Las gaviotas que seguían a la flota desde la isla de las cabras se dieron la vuelta al ver la isla. Todas. A la vez. Y se fueron hacia el sur.
 
 Érandiul las vio irse.
 
@@ -68,7 +68,7 @@ El Emperador no lo oyó. O no quiso. Estaba en la proa, con el aro de plata gris
 
 La de un niño en una feria.
 
-* * *
+---
 
 Desembarcaron al mediodía.
 
@@ -88,7 +88,7 @@ El almirante no dijo nada.
 
 Luego se puso el casco.
 
-* * *
+---
 
 Érandiul bajó también. Nadie se lo pidió. Nadie se lo impidió. Era el elfo viejo del sombrero. Iba a todas partes.
 
@@ -102,7 +102,7 @@ Había una mesa. Sillas. Un caldero en un hogar apagado. Pieles en el suelo. Y e
 
 Como si se hubieran ido hacía una hora.
 
-* * *
+---
 
 Subieron más.
 
@@ -122,13 +122,13 @@ El almirante se paró en seco.
 
 Érandiul también.
 
-—Arghâl —dijo Érandiul. Muy bajo. En élfico. Sin pensarlo.
+—*Arghâl* —dijo Érandiul. Muy bajo. En élfico. Sin pensarlo.
 
 No era Arghâl. Era lo que se había ido de Arghâl. La raíz que Lanther había visto esconderse hacia el norte, en el 607, en una plaza de hierro rojo. Doscientos cuarenta y nueve años después. Aquí. Más gruesa. Más alta. Más despierta.
 
 Y el Emperador se acercó a mirarla.
 
-* * *
+---
 
 Fue entonces.
 
@@ -152,13 +152,13 @@ Una sola palabra. Todos. Orcos y drows y hombres de los ojos quietos.
 
 *¡ORAC!*
 
-* * *
+---
 
 Érandiul no se acuerda de todo.
 
-Lo escribe así, en la hoja aparte, que no pasará al diario: No me acuerdo de todo. Mil un años y no se acuerda. Se acuerda de trozos. Como se acuerda uno de un sueño.
+Lo escribe así, en la hoja aparte, que no pasará al diario: *No me acuerdo de todo.* Mil un años y no se acuerda. Se acuerda de trozos. Como se acuerda uno de un sueño.
 
-Se acuerda del Emperador. En la plaza. Al lado de la raíz. Sacando la espada. Una espada vieja, de la colina, de su abuelo Lindos, que no había usado nunca. Mirando a los orcos que venían. Sin miedo. Con la cara de un niño en una feria. Gritando algo. ¡Que conste!, cree Érandiul que gritó. O a lo mejor fue otra cosa.
+Se acuerda del Emperador. En la plaza. Al lado de la raíz. Sacando la espada. Una espada vieja, de la colina, de su abuelo Lindos, que no había usado nunca. Mirando a los orcos que venían. Sin miedo. Con la cara de un niño en una feria. Gritando algo. *¡Que* *conste!*, cree Érandiul que gritó. O a lo mejor fue otra cosa.
 
 Se acuerda de los soldados haciendo un círculo alrededor del Emperador. Escudos. Lanzas. Mirando el hombro de los que venían. Como se enseñaba en la Armada.
 
@@ -166,7 +166,7 @@ Se acuerda de que los orcos no miraban el hombro. Que los orcos no sabían. Que 
 
 Se acuerda del ruido.
 
-* * *
+---
 
 Se acuerda del almirante.
 
@@ -190,7 +190,7 @@ Y se fue. Calle abajo. Hacia la plaza. Hacia el ruido.
 
 Érandiul no lo vio más.
 
-* * *
+---
 
 Dentro de la casa había un pasillo. Largo. Bajando. No hacia la calle. Hacia dentro de la montaña.
 
@@ -200,11 +200,11 @@ Y se oía algo. Que no era la batalla.
 
 Plumas. Muchas. Rascando papel.
 
-* * *
+---
 
 Al fondo había una sala.
 
-Grande. Con el techo alto. Con mesas. Muchas. En filas. Como el scriptorium de Tawarsinan, que Érandiul recordaba de joven, cuando tenía dos manos y la ciudad no se había quemado.
+Grande. Con el techo alto. Con mesas. Muchas. En filas. Como el *scriptorium* de Tawarsinan, que Érandiul recordaba de joven, cuando tenía dos manos y la ciudad no se había quemado.
 
 En las mesas, escribas.
 
@@ -212,7 +212,7 @@ No orcos. No drows. Hombres de los ojos quietos. Cuarenta. Cincuenta. Sentados. 
 
 Y en las paredes, planos.
 
-* * *
+---
 
 Érandiul se quedó en la puerta.
 
@@ -232,7 +232,7 @@ Y otro. Del valle negro. Con el Guardián dibujado. Pequeño. De pie. Encima de 
 
 Y una cruz encima del Guardián.
 
-* * *
+---
 
 Érandiul no pensó.
 
@@ -246,7 +246,7 @@ Los escribas no levantaron la vista. Ninguno.
 
 Copió hasta que se le acabó la hoja. Luego la otra cara. Luego la manga de la camisa, con la tinta que le quedaba.
 
-* * *
+---
 
 —Esa letra no la sabes leer.
 
@@ -262,7 +262,7 @@ Manos de arpista.
 
 —Ithil —dijo Érandiul.
 
-* * *
+---
 
 El drow no se movió.
 
@@ -290,7 +290,7 @@ Algo se movió en la cara del drow. Poco. Nada.
 
 —¿Y si me encuentras tú?
 
-* * *
+---
 
 Ithil tardó mucho en contestar.
 
@@ -318,7 +318,7 @@ Hizo una pausa.
 
 —La que dijo que no.
 
-* * *
+---
 
 Érandiul se fue por el pasillo de la izquierda.
 
@@ -328,27 +328,27 @@ Al fondo, una cueva. Con agua. Que daba al mar. A la cara oeste. Donde no había
 
 Se sentó en una roca. A esperar.
 
-Desde allí se oía la batalla. Lejos. Arriba. A través de la piedra. Gritos. Golpes. Y el grito, a veces, de muchos a la vez. ¡Orac!
+Desde allí se oía la batalla. Lejos. Arriba. A través de la piedra. Gritos. Golpes. Y el grito, a veces, de muchos a la vez. *¡Orac!*
 
 Luego se oyó menos.
 
 Luego nada.
 
-* * *
+---
 
-Lo encontró una barca. Al alba. Una barca del Rosa, el último barco de la flota que quedaba a flote, que había dado la vuelta a la isla buscando supervivientes. Con seis remeros y un muchacho de Lindos de quince años en la proa que lo vio en la roca y gritó sin palabras.
+Lo encontró una barca. Al alba. Una barca del *Rosa*, el último barco de la flota que quedaba a flote, que había dado la vuelta a la isla buscando supervivientes. Con seis remeros y un muchacho de Lindos de quince años en la proa que lo vio en la roca y gritó sin palabras.
 
 Lo subieron. No preguntaron.
 
-En el Rosa había ciento noventa. De mil cuatrocientos. Dos barcos más se habían salvado, el Garza y uno sin nombre, con otros cien entre los dos. Los demás estaban en el fondo. O en la isla.
+En el *Rosa* había ciento noventa. De mil cuatrocientos. Dos barcos más se habían salvado, el *Garza* y uno sin nombre, con otros cien entre los dos. Los demás estaban en el fondo. O en la isla.
 
 El Emperador no estaba.
 
 El almirante no estaba.
 
-* * *
+---
 
-Érandiul subió a la popa del Rosa. Se sentó en un rollo de cuerda. Miró la isla, que se alejaba. Negra. Con nieve en la cima. Con humo, ahora. Mucho.
+Érandiul subió a la popa del *Rosa*. Se sentó en un rollo de cuerda. Miró la isla, que se alejaba. Negra. Con nieve en la cima. Con humo, ahora. Mucho.
 
 Los supervivientes estaban en la cubierta. Callados. Algunos lloraban. Algunos miraban arriba.
 
@@ -358,17 +358,35 @@ Un soldado joven, con la cabeza vendada, se acercó al elfo viejo.
 
 Érandiul no contestó.
 
-—Gritaban una cosa —dijo el soldado—. Todos. A la vez. Orac. —Miró la isla—. Que se llame así. Como el grito. Para que nadie se olvide de cómo sonaba.
+—Gritaban una cosa —dijo el soldado—. Todos. A la vez. *Orac.* —Miró la isla—. Que se llame así. Como el grito. Para que nadie se olvide de cómo sonaba.
 
 Los de alrededor asintieron.
 
-Érandiul tampoco dijo nada esta vez. Sabía que era su nombre. El de verdad. El que le decían los orcos de la colina a sus nietos, en voz baja, desde el 607. De allí veníamos.
+Érandiul negó con la cabeza. Despacio.
 
-Pero dejó que el soldado se lo pusiera. Como si fuera nuevo. Porque así lo apuntarían. Y si lo apuntaban así, alguien, algún día, se preguntaría por qué un grito se parecía tanto a un nombre.
+—Eso no es el nombre de esta isla —dijo—. Es el de la suya.
 
-* * *
+El soldado lo miró sin entender.
 
-Esa noche, en la popa del Rosa, Érandiul dijo la palabra.
+Érandiul lo sabía desde hacía doscientos cincuenta años. Era la palabra que los orcos de la colina les decían a sus nietos en voz baja, desde el 607, cuando creían que nadie los oía. *De allí veníamos.* Y *allí* no era aquello. *Allí* era una isla roja, muy al sur, más al sur que la colina y que todo lo que la colina conocía, al pie de una montaña que humeaba, al otro lado de Oderon. Lo había oído describir cien veces, siempre igual: la tierra del color de la herrumbre, el mar caliente, la montaña detrás con la boca abierta. Ningún orco de la colina había descrito nunca una isla negra con nieve.
+
+Aquello era otra cosa. Una avanzadilla. Una fortaleza que alguien había levantado en mitad del Mar de la Eterna Penuria, a medio camino entre Concordia y la colina, para mirar a las dos orillas desde arriba. Los que gritaban *¡Orac!* en las escaleras gritaban el nombre de su casa, como gritan todos los soldados que mueren lejos de la suya.
+
+—Entonces ¿cómo la llamamos? —preguntó el soldado.
+
+Érandiul miró la isla. Negra. Con la nieve arriba y el humo saliendo de la piedra que se tragaba la luz.
+
+—Como es —dijo.
+
+El soldado se quedó un rato callado. Luego dijo una palabra, la que se le ocurrió, la que se le habría ocurrido a cualquiera, y los de alrededor la repitieron, y antes de que se pusiera el sol ya la decía todo el barco.
+
+*Siniestra.* La Isla Siniestra.
+
+Así la apuntaron. Y Érandiul dejó que la apuntaran así, y guardó el otro nombre, el de verdad, para cuando hiciera falta. Alguien, algún día, se preguntaría por qué los orcos de una isla negra gritaban el nombre de una isla roja.
+
+---
+
+Esa noche, en la popa del *Rosa*, Érandiul dijo la palabra.
 
 Hacia arriba.
 
@@ -378,17 +396,17 @@ Por el almirante, que se había muerto en la nieve, en la ladera norte, viejo, c
 
 Por los mil doscientos.
 
-Y por un drow con manos de arpista que había dicho llévatelo.
+Y por un drow con manos de arpista que había dicho *llévatelo*.
 
 Por ese no la dijo. Ese no estaba muerto.
 
 Pero la pensó.
 
-* * *
+---
 
 Escribió la entrada meses después. En Lindos. En la casa de madera roja. Al lado de la poza. Con la izquierda.
 
-Escribió que la vida de Bhargaras XI había estado plagada de descubrimientos. Que casi toda isla conocida hoy en día la había descubierto él. Escribió desgracia. Escribió sin un rumbo fijo. Escribió horrorosas criaturas. Escribió que los que sobrevivieron nombraron la isla como sonaba el grito de aquellas salvajes bestias.
+Escribió que la vida de Bhargaras XI había estado plagada de descubrimientos. Que casi toda isla conocida hoy en día la había descubierto él. Escribió *desgracia*. Escribió *sin* *un rumbo fijo*. Escribió *horrorosas criaturas*. Escribió que los que sobrevivieron nombraron la isla *por lo que se sentía al verla*, y que las salvajes bestias gritaban el nombre de otra.
 
 No escribió nada de la sala de los escribas.
 
@@ -400,6 +418,6 @@ Los planos los copió otra vez. Limpios. En hojas buenas. Con la izquierda. Tard
 
 Con una nota.
 
-*Esto es lo que quiere. No sé leer la palabra del círculo. Que la lea Ottherius. Que lo sepa ella.*
+*Esto es lo que quiere. No sé leer la palabra del círculo. Que la lea Ottherius. Que* *lo sepa ella.*
 
 *É.*

@@ -1,4 +1,4 @@
-## DE LAS CRÓNICAS DE BANDERBILL (V)
+# De las Crónicas de Banderbill (V)
 
 Hay quien me ha preguntado —en Banderbill todo el mundo tiene una opinión sobre lo que escribo, y en especial los que no saben leer— por qué he dedicado tantas páginas a las jarras.
 

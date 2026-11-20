@@ -1,4 +1,4 @@
-## Capítulo 51 · Arispar
+# Capítulo 51 · Arispar
 
 *Banderbill, el sótano de la casa vieja. Otoño del año 1414 de la Nueva Era (807 D.bA).*
 
@@ -12,7 +12,7 @@ Por arriba. Como entraban ellos. Con los pies primero, por la escalera de madera
 
 Que lo vieran bajar.
 
-* * *
+---
 
 Sabía cuándo. Lo había sabido siempre. El tío viejo seguía subiendo a la casa de arriba la tarde antes de cada reunión, a decirle a su madre que no bajara a por la masa. Su madre tenía sesenta y seis años y ya no bajaba nunca; la masa la subía un chico del puerto. Pero el tío viejo seguía subiendo a decírselo, por costumbre, porque llevaba cuarenta años diciéndoselo a la misma mujer y no sabía dejar de hacerlo.
 
@@ -32,7 +32,7 @@ Su madre asintió, sin levantar la vista del fogón.
 
 Almad terminó el caldo.
 
-* * *
+---
 
 La trampilla estaba en la trastienda, debajo de una alfombra de esparto. Tenía una argolla de hierro gastada de mil años de manos. Almad la conocía. No la había tocado nunca. La conocía del otro lado, desde abajo, desde el agujero del respiradero, de oír la argolla golpear la madera cuando entraban.
 
@@ -42,13 +42,13 @@ Los contó por los pasos. En el callejón de los Cubos, en la oscuridad, al lado
 
 Y uno más. Que bajó tarde. Pesado. Con botas de enano.
 
-Dalbur. De Tiama. Almad no lo había oído nunca bajar. Lo conocía por el nombre, por las voces de otros años: Dalbur escribe que la piedra sigue quieta.
+Dalbur. De Tiama. Almad no lo había oído nunca bajar. Lo conocía por el nombre, por las voces de otros años: *Dalbur escribe que la piedra sigue quieta.*
 
 La doncella no.
 
 Bien.
 
-* * *
+---
 
 Abrió la puerta de la tienda con una ganzúa que le había hecho un herrero de la Armada.
 
@@ -58,7 +58,7 @@ Cogió la argolla.
 
 Tiró.
 
-* * *
+---
 
 La conversación de abajo se cortó como se corta un hilo.
 
@@ -70,7 +70,7 @@ Se dio la vuelta.
 
 Y los miró.
 
-* * *
+---
 
 Estaban como los había imaginado durante treinta y cinco años. Y no.
 
@@ -92,9 +92,9 @@ Teo fue el único que dijo algo.
 
 —Almad —dijo.
 
-No Arispar. Almad. Como se lo decía cuando le daba pan con aceite.
+No *Arispar*. Almad. Como se lo decía cuando le daba pan con aceite.
 
-* * *
+---
 
 —Lo sé todo —dijo Almad.
 
@@ -118,7 +118,7 @@ Lanther no apartó la vista.
 
 Almad no se sentó.
 
-* * *
+---
 
 —Quiero lo que tenéis —dijo.
 
@@ -128,7 +128,7 @@ Silencio.
 
 Sein se puso las gafas.
 
-—¿Para qué? —preguntó. Con la voz suave. La de el que más tiene.
+—¿Para qué? —preguntó. Con la voz suave. La de *el que más tiene*.
 
 —Para sentarme.
 
@@ -136,7 +136,7 @@ Sein se puso las gafas.
 
 —En el trono.
 
-* * *
+---
 
 Dalbur se rio.
 
@@ -154,7 +154,7 @@ Una risa de enano, de las que salen del pecho como sale el aire de un fuelle. Co
 
 —Yo voy a mandar. Mientras dure. Que es más de lo que habéis hecho vosotros en trescientos años.
 
-* * *
+---
 
 Nadie habló durante mucho rato.
 
@@ -170,11 +170,11 @@ Lo había pensado. Diez años. Lo había pensado de todas las formas. Y había l
 
 —¿El qué?
 
-—Todo. En voz alta. En la plaza del Consejo, delante de la puerta cerrada, el día que haya más gente. Me subo a la estatua del gnomo y lo grito. Los Ruald tienen la sangre de Bhargaras. Corin Ruald es el heredero. La Orden lo sabe desde el 760 y no lo ha dicho. —No levantó la voz—. Lo gritaré con miedo. Mirando abajo. Para que se oiga bien.
+—Todo. En voz alta. En la plaza del Consejo, delante de la puerta cerrada, el día que haya más gente. Me subo a la estatua del gnomo y lo grito. *Los Ruald tienen la sangre* *de Bhargaras. Corin Ruald es el heredero. La Orden lo sabe desde el 760 y no lo ha dicho.* —No levantó la voz—. Lo gritaré con miedo. Mirando abajo. Para que se oiga bien.
 
 Lanther se levantó.
 
-* * *
+---
 
 Se levantó despacio, con las piernas primero, como se levantaba de la almena. Se puso delante de él. Le llegaba al pecho. Lo miró desde abajo, con la cara de dieciocho años y los ojos de mil cuatrocientos.
 
@@ -204,9 +204,9 @@ Lanther lo miró mucho rato.
 
 —No —dijo Almad—. Pero es lo único que funciona.
 
-* * *
+---
 
-Teo no había dicho nada desde Almad.
+Teo no había dicho nada desde *Almad*.
 
 Seguía al lado del horno. Con la espalda en la pared. Con las manos en las rodillas. Mirando al suelo.
 
@@ -230,7 +230,7 @@ Luego dijo una cosa que Almad no esperaba.
 
 —¿Has escrito algo?
 
-* * *
+---
 
 Almad tardó en contestar.
 
@@ -250,7 +250,7 @@ Sein se volvió a sentar. Despacio.
 
 Sein no dijo nada. Se quitó las gafas. Se tapó la cara con la mano.
 
-* * *
+---
 
 —Os dejo un año —dijo Almad.
 
@@ -266,7 +266,7 @@ Almad se paró en el tercer escalón. El de la doncella.
 
 Y subió.
 
-* * *
+---
 
 Arriba, en la trastienda, cerró la trampilla. Puso la alfombra de esparto. Salió por la puerta de la tienda y la cerró con la ganzúa.
 
@@ -280,7 +280,7 @@ Luego bajó por la calle hacia el cuartel. Con las manos en los bolsillos. Con l
 
 No miró atrás.
 
-* * *
+---
 
 En el sótano, nadie habló durante mucho rato.
 

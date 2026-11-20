@@ -1,4 +1,4 @@
-## Capítulo 34 · Nadia
+# Capítulo 34 · Nadia
 
 *Concordia, barrio Germa. Año 149, otoño.*
 
@@ -36,7 +36,7 @@ Se quedaron mirándose. Él de pie, chorreando agua sobre las baldosas de la coc
 
 —No —dijo—. Nada duele ya. Ese es el problema.
 
-* * *
+---
 
 Hablaron hasta el amanecer.
 
@@ -142,16 +142,13 @@ Luego se levantó otra vez, despacio, y se acercó a él, y se sentó en el suel
 
 Y cantó.
 
-*Duerme, arena, duerme ya,*  
-*la bruma viene y se va;*  
-*quien te nombra te tendrá,*  
-*quien te ama volverá.*
+*Duerme, arena, duerme ya,* *la bruma viene y se va;* *quien te nombra te tendrá,* *quien te ama volverá.*
 
 Loth lloró. Las lágrimas grises le resbalaban por la cara y caían sobre las baldosas y se evaporaban en volutas de niebla.
 
 *Duerme, Emrah, duerme ya.*
 
-* * *
+---
 
 Se fue antes del amanecer.
 
@@ -183,10 +180,10 @@ No el de Emrah. Ese no lo escribió. Ese lo guardó en la canción, donde había
 
 Cuando terminó, le dio el pergamino a Helen. Le dijo que lo guardara. Que no lo leyera hasta que ella muriera.
 
-Nadia vivió dieciséis años más. Los médicos de Concordia no se lo explicaban. Una mujer de setenta y un años, con las piernas cansadas y el corazón débil, que se negaba a morir. Que se levantaba cada mañana y se sentaba junto al fuego y miraba hacia el noroeste. Que a los ochenta y cinco años, cuando ya no podía andar, pidió que la subieran a lo alto de la Torre de la Unión para ver la niebla. Que a los ochenta y siete, en el invierno del año ciento sesenta y cinco, después de una semana de fiebre, le dijo a su bisnieta, una niña de quince años, que ya estaba bien, que ya había vivido bastante, que estaba muy cansada.
+Nadia vivió dieciséis años más. Los médicos de Concordia no se lo explicaban. Una mujer de setenta y un años, con las piernas cansadas y el corazón débil, que se negaba a morir. Que se levantaba cada mañana y se sentaba junto al fuego y miraba hacia el noreste. Que a los ochenta y cinco años, cuando ya no podía andar, pidió que la subieran a lo alto de la Torre de la Unión para ver la niebla. Que a los ochenta y siete, en el invierno del año ciento sesenta y cinco, después de una semana de fiebre, le dijo a su bisnieta, una niña de quince años, que ya estaba bien, que ya había vivido bastante, que estaba muy cansada.
 
 —Dile a tu madre que lo siento —le dijo—. Que hice lo que pude. Que le di dieciséis años.
 
 Murió esa noche, con una sonrisa, tarareando.
 
-Esa misma noche, en el noroeste, la niebla del Desierto de Eufesia, que llevaba dieciséis años inmóvil detrás del río Ceniza, empezó a moverse.
+Esa misma noche, en el noreste, la niebla del Desierto de Eufesia, que llevaba dieciséis años inmóvil detrás del río Ceniza, empezó a moverse.

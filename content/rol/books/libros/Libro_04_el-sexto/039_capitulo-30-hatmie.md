@@ -1,6 +1,6 @@
-## Capítulo 30 · Hatmie
+# Capítulo 30 · Hatmie
 
-*Las cuadras del palacio y la tercera almena. Del año 1190 al 1215 de la Nueva Era (583–608 D.bA).*
+*Las cuadras del palacio y la tercera almena. Del año 1190 al 1215 de la Nueva* *Era (583–608 D.bA).*
 
 A Hatmie le enseñaron a leer con una viga.
 
@@ -20,7 +20,7 @@ Tuerto era el tercero que se llamaba así en vida de su abuela. El octavo desde 
 
 Tilda lo pensó. Se lo sabía. Lo había oído una vez, hacía ochenta años, y se lo sabía, como se saben las canciones que se oyen de niño.
 
-—Las cosas se quedan con el nombre de lo que les pasó una vez —dijo—. Aunque ya no les pase.
+—*Las cosas se quedan con el nombre de lo que les pasó una vez* —dijo—. *Aunque* *ya no les pase.*
 
 Hatmie miró la viga. Las letras torcidas. Contó las palabras con el dedo. Doce. Luego las de abajo. Seis.
 
@@ -28,7 +28,7 @@ Al día siguiente le pidió a un gnomo de las lámparas que le enseñara las let
 
 Tardó un invierno.
 
-* * *
+---
 
 A los diez años ya leía todo lo que había en el palacio, que era poco, porque el palacio estaba vacío.
 
@@ -46,9 +46,9 @@ No le gustó.
 
 Se bajó y no se volvió a sentar nunca.
 
-* * *
+---
 
-La pelirroja la vio por primera vez en la muralla, el verano del 1191, cuando Hatmie tenía once años y se había subido por fuera.
+La pelirroja la vio por primera vez en la muralla, el verano del 1192, cuando Hatmie tenía once años y se había subido por fuera.
 
 No por la escalera. La escalera estaba cerrada con una reja, porque la muralla norte, la de las almenas viejas, no la usaba nadie. Hatmie subió por fuera. Por las piedras. Por los huecos entre las piedras, que en la muralla de Lanther eran muchos, porque las piedras eran grandes y redondas y blancas y no encajaban del todo, y una gnoma de once años que había aprendido a trepar por las vigas de una cuadra encontraba dónde poner los dedos.
 
@@ -68,7 +68,7 @@ Hatmie miró abajo. La tercera piedra desde abajo estaba suelta. No la había pi
 
 —Porque la puse yo. —La muchacha seguía sin volverse—. Hace más de mil años. Se me olvidó apretarla.
 
-* * *
+---
 
 Hatmie se sentó en la almena de al lado. No le dijo nadie que se sentara. Se sentó.
 
@@ -100,7 +100,7 @@ La muchacha tardó en contestar.
 
 —Porque abajo hay cosas que me oyen —dijo—. Y arriba no.
 
-* * *
+---
 
 Volvió al día siguiente. Y al otro. Y toda ese verano.
 
@@ -132,7 +132,7 @@ Hatmie quitó la mano de golpe.
 
 —Las murallas no hacen ruido.
 
-—Esta sí. La canté yo. —Lanther puso su mano al lado de la de Hatmie—. Cada piedra es un muerto de un sitio que se llamaba Concordia. Los traje en una jarra. Les pedí que se quedaran a guardar la colina. Se quedaron. —Se calló un momento—. Hacen eso de noche. Tum. Para que se sepa que siguen.
+—Esta sí. La canté yo. —Lanther puso su mano al lado de la de Hatmie—. Cada piedra es un muerto de un sitio que se llamaba Concordia. Los traje en una jarra. Les pedí que se quedaran a guardar la colina. Se quedaron. —Se calló un momento—. Hacen eso de noche. *Tum.* Para que se sepa que siguen.
 
 Hatmie volvió a poner la mano.
 
@@ -142,7 +142,7 @@ Esperó.
 
 No la quitó.
 
-* * *
+---
 
 A los quince le pidió que le enseñara a pelear.
 
@@ -184,7 +184,7 @@ Lanther se levantó. Era la primera vez que Hatmie la veía de pie en la almena.
 
 Lanther no contestó.
 
-* * *
+---
 
 En el 1205, Hatmie entró en la Armada.
 
@@ -198,7 +198,7 @@ Baervan la vio en el patio el primer día. Desde el alféizar. Comiendo una manz
 
 Dejó de masticar.
 
-* * *
+---
 
 —Me han dicho que te llevas bien con la pelirroja —le dijo Baervan.
 
@@ -222,7 +222,7 @@ Baervan dejó de reírse.
 
 La miró mucho rato.
 
-Pensó en una viga en una cuadra, con letras de dos hombres muertos. Pensó en Eluret, en la paja, diciendo que no se puede cerrar un palacio con llave. Y en él mismo, diciendo ahora no.
+Pensó en una viga en una cuadra, con letras de dos hombres muertos. Pensó en Eluret, en la paja, diciendo que no se puede cerrar un palacio con llave. Y en él mismo, diciendo *ahora no*.
 
 —¿Sabes leer? —le preguntó.
 
@@ -240,7 +240,7 @@ Baervan se levantó. Fue a la percha. Descolgó el cinturón. Lo miró. Lo volvi
 
 —Nada. Vuelve a la compañía, cadete. Y sigue subiendo a la muralla.
 
-* * *
+---
 
 La última vez que Lanther le enseñó algo, en esos años, fue en el invierno del 1215.
 
@@ -270,7 +270,7 @@ Hatmie se quedó muy quieta.
 
 —Porque yo estaba en la galería. —Lanther sonrió. Poco—. Yo me senté a los seis. Tampoco me gustó.
 
-* * *
+---
 
 Hatmie guardó la llave en una bolsita de cuero, colgada del cuello, debajo del uniforme.
 
@@ -278,6 +278,6 @@ No se la enseñó a nadie.
 
 La llevó cuarenta y dos años sin saber para qué era.
 
-Y en la viga del último establo, debajo de Lo dijo él. Lo apunto yo. A., esa primavera, una gnoma de treinta y cinco años rayó con la punta de una espada oxidada, en letras pequeñas y rectas, de las que se aprenden en un invierno:
+Y en la viga del último establo, debajo de *Lo dijo él. Lo apunto yo. A.*, esa primavera, una gnoma de treinta y cinco años rayó con la punta de una espada oxidada, en letras pequeñas y rectas, de las que se aprenden en un invierno:
 
 *Lo guardo yo. H.*

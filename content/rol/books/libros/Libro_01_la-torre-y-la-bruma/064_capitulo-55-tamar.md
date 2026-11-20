@@ -1,4 +1,4 @@
-## Capítulo 55 · Tamar
+# Capítulo 55 · Tamar
 
 *Las tiendas del Pozo, corazón del Desierto de la Niebla. Año 243.*
 
@@ -18,7 +18,7 @@ La mujer del velo no contestaba. No contestaba nunca. Miraba al frente, con los 
 
 Él seguía peinándola.
 
-* * *
+---
 
 Tamar tenía veintiséis años. Había nacido en un oasis libre de los pozos del este, al borde de la bruma, hija de una mujer que había huido del Padre de la Bruma cuando era niña y de un hombre que había muerto en una de las quemas del emperador Braco. Odiaba a los dos por igual: al del norte y a los del sur. Por eso la habían elegido las Madres. Porque podía decir, con la cara quieta, que odiaba al sur, y era verdad.
 
@@ -32,7 +32,7 @@ Y el centro de todo era el Pozo. Un agujero en la roca, redondo, de veinte varas
 
 Bajaba cada noche. Tamar lo veía desde su tienda: una figura delgada, de gris, con el pelo largo blanco y negro, que se acercaba al borde del Pozo y desaparecía por una escalera tallada en la roca. Volvía al amanecer. Y entonces peinaba a su mujer.
 
-* * *
+---
 
 La caja la vio en la primavera del segundo año.
 
@@ -56,7 +56,7 @@ Cuando Tamar se atrevió a mirar, él había vuelto a peinar a su mujer. Hablán
 
 Esa noche, en la tienda de las mujeres, Tamar vomitó dos veces y no supo nunca si era de miedo o del nombre que le faltaba.
 
-* * *
+---
 
 Lo vio matar en el invierno del tercer año.
 
@@ -98,7 +98,7 @@ No con los ojos vacíos de siempre. Con unos ojos que veían.
 
 Fue un instante. Luego volvieron a quedarse fijos al frente, grises, vacíos, como dos pozos secos.
 
-* * *
+---
 
 Tamar se fue en primavera, con una caravana de sal que bajaba hacia los oasis del este. Dijo que su madre estaba enferma. Esdras-Kem le dio una bendición y un odre de vino de dátiles. Nadie le preguntó nada.
 

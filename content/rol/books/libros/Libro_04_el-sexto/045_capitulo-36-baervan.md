@@ -1,6 +1,6 @@
-## Capítulo 36 · Baervan
+# Capítulo 36 · Baervan
 
-*La plaza del Consejo, Banderbill. Atardecer del 15 de la primavera del año 1256 de la Nueva Era (649 D.bA).*
+*La plaza del Consejo, Banderbill. Atardecer del 15 de la primavera del año 1256* *de la Nueva Era (649 D.bA).*
 
 La escalinata del palacio tenía cuarenta y dos escalones, y Baervan los bajó contándolos, porque el tío Ilan de Tiama decía en sus cartas que cuando uno tiene miedo hay que contar cosas tontas en voz alta, y Baervan tenía miedo, y no tenía nada más tonto a mano que los escalones.
 
@@ -20,7 +20,7 @@ Cuarenta y uno. Cuarenta y dos.
 
 El suelo de la plaza.
 
-* * *
+---
 
 Olía a humo y a sangre y a vino. El vino de las fuentes, que alguien había vuelto a llenar para las fiestas de primavera, las que se hacían cada año desde las de los ciento cincuenta, que eran ciento cuarenta, y que esa semana tenían que haber empezado. El vino seguía en las fuentes. Tinto. Aguado. La de la plaza tenía una mano dentro. De alguien que ya no estaba.
 
@@ -38,7 +38,7 @@ Hablaba la lengua de la colina. Bien. Con un acento que Baervan no conocía.
 
 —General —dijo Baervan. Por si acaso.
 
-* * *
+---
 
 Se quedaron mirándose.
 
@@ -60,11 +60,11 @@ Baervan miró también.
 
 En la boca de la calle, entre el humo, había un hombre de gris.
 
-* * *
+---
 
 Baervan no lo había visto nunca.
 
-Sabía cómo era. Se lo habían contado. Lanther, una vez, en la almena, con la voz rara, entre la rabia y la pena. Mirela, en la crónica del 892, que había leído cien veces. Un niño de Ullathorpe en el 1104 que le había dicho que en la posada de Joss había un señor que pagaba la segunda ronda. Ludo Marren, en el comedor de la posada, en el 1100 y pico, antes de morirse, que le había dicho tenía la cara de nadie y los ojos de un escribano.
+Sabía cómo era. Se lo habían contado. Lanther, una vez, en la almena, con la voz rara, entre la rabia y la pena. Mirela, en la crónica del 892, que había leído cien veces. Un niño de Ullathorpe en el 1104 que le había dicho que en la posada de Joss había un señor que pagaba la segunda ronda. Ludo Marren, en el comedor de la posada, en el 1100 y pico, antes de morirse, que le había dicho *tenía la cara de nadie y los ojos de un escribano*.
 
 Era así.
 
@@ -82,7 +82,7 @@ Se paró a tres pasos de la fuente.
 
 Tenía una voz agradable. Baja. Tranquila. Razonable.
 
-* * *
+---
 
 —Te esperaba —dijo el hombre de gris.
 
@@ -104,11 +104,11 @@ El hombre de gris no lo miró. Siguió mirando a Baervan.
 
 —¿Qué quieres? —preguntó.
 
-* * *
+---
 
 Esa era la pregunta.
 
-Baervan lo supo en cuanto la oyó. Lo supo porque Lanther se lo había dicho, en la almena, hacía cien años, sin que él le preguntara: te va a preguntar qué quieres. Siempre lo pregunta. Y lo que contestes, te lo da. Y se queda con lo de debajo. Lo supo porque Ludo Marren se lo había dicho. Porque el general blanco de Orac, el de los ojos sin pupila, llevaba setecientos años sin poder mirar arriba por haber contestado una vez.
+Baervan lo supo en cuanto la oyó. Lo supo porque Lanther se lo había dicho, en la almena, hacía cien años, sin que él le preguntara: *te va a preguntar qué quieres. Siempre lo* *pregunta. Y lo que contestes, te lo da. Y se queda con lo de debajo.* Lo supo porque Ludo Marren se lo había dicho. Porque el general blanco de Orac, el de los ojos sin pupila, llevaba setecientos años sin poder mirar arriba por haber contestado una vez.
 
 *Que no me olviden.*
 
@@ -128,7 +128,7 @@ No a Brand Hask. No a Jory. No a Pip con siete años dormido en un prado. No a l
 
 A él.
 
-* * *
+---
 
 Baervan se rio.
 
@@ -154,7 +154,7 @@ Se le quedó la cara quieta. Por un momento. Un escribano cansado, con los ojos 
 
 —Eso es lo que te ofrezco. —Baervan le enseñó las palmas de las manos. Vacías —. Lo que quiero, no lo oyes. Lo estoy diciendo hacia arriba.
 
-* * *
+---
 
 El hombre de gris lo miró mucho rato.
 
@@ -168,7 +168,7 @@ Lo de debajo de lo que el gnomo quería, no lo podía oír. Eso no le gustaba. B
 
 —Acepto —dijo el hombre de gris.
 
-* * *
+---
 
 No hubo papeles. No hubo sellos. No hubo testigos, salvo un orco joven con una bolsita en el cuello y cuarenta mil soldados que no miraban.
 
@@ -194,7 +194,7 @@ El orco lo miró. Con los ojos amarillos.
 
 —Entonces no.
 
-* * *
+---
 
 Al llegar a la boca de la calle del Horno, Baervan se volvió.
 
@@ -214,7 +214,7 @@ Y movió los labios. Sin voz.
 
 Ella lo leyó. Lo supo porque se llevó la mano a la boca.
 
-* * *
+---
 
 Pasaron por la calle del Horno.
 
@@ -242,7 +242,7 @@ Pan.
 
 Y siguió.
 
-* * *
+---
 
 Esa noche, el túnel. Las cuevas viejas. La cala del norte. Los barcos negros.
 
@@ -266,7 +266,7 @@ El orco no contestó.
 
 Baervan se rio. Bajito.
 
-—Le dije —dijo— la llave la tiene ella.
+—Le dije —dijo— *la llave la tiene ella*.
 
 El orco se quedó callado.
 

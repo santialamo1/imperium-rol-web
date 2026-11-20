@@ -1,4 +1,4 @@
-## Capítulo 24 · Loth
+# Capítulo 24 · Loth
 
 *Sahr-Ennet, Eufesia. Años 100 a 114.*
 
@@ -26,7 +26,7 @@ Detrás de él, la novicia se echó a reír. Una risa sin ninguna maldad, sorpre
 
 Hacía veinte años que nadie se reía cerca de él.
 
-* * *
+---
 
 Las Madres no lo aprobaron. Por supuesto que no.
 
@@ -56,11 +56,11 @@ Le contó lo de su madre. Le contó lo de Nadi, lo de Concordia, lo de las ceniz
 
 Él no supo qué contestar. La besó para no tener que hacerlo.
 
-* * *
+---
 
-Las Madres terminaron cediendo, como Seren había predicho. No por bondad, sino por cálculo. Loth era demasiado valioso para perderlo, y Seren era demasiado valiosa para expulsarla, y si los dos se iban juntos al desierto —como amenazó Seren delante de las tres, sin bajar la vista, una mañana de primavera del año ciento cuatro— la bruma de Sahr-Ennet perdería a sus dos mejores voces en una sola noche.
+Las Madres terminaron cediendo, como Seren había predicho. No por bondad, sino por cálculo. Loth era demasiado valioso para perderlo, y Seren era demasiado valiosa para expulsarla, y si los dos se iban juntos al desierto —como amenazó Seren delante de las tres, sin bajar la vista, una mañana de primavera del año ciento cuatro— la bruma de Sahr- Ennet perdería a sus dos mejores voces en una sola noche.
 
-—Que vivan juntos —dijo al fin la Madre del centro, la más vieja, con su voz de arena deslizándose por un embudo. Loth la reconocía. Era una de las tres que habían venido aquella noche, veinticuatro años atrás, a la tienda de su madre. Era la que había dicho oye—. Pero la Ley de la Sal es la Ley de la Sal. Los hijos que tengan serán una deuda. Y la bruma, cuando tenga sed, la cobrará.
+—Que vivan juntos —dijo al fin la Madre del centro, la más vieja, con su voz de arena deslizándose por un embudo. Loth la reconocía. Era una de las tres que habían venido aquella noche, veinticuatro años atrás, a la tienda de su madre. Era la que había dicho *oye*—. Pero la Ley de la Sal es la Ley de la Sal. Los hijos que tengan serán una deuda. Y la bruma, cuando tenga sed, la cobrará.
 
 Seren quiso contestar. Loth le apretó la mano.
 
@@ -70,7 +70,7 @@ La Madre ladeó la cabeza bajo el velo.
 
 —Eso dicen todos.
 
-* * *
+---
 
 Fueron felices nueve años.
 
@@ -98,9 +98,9 @@ Loth no la odió. Loth sintió algo que no había sentido desde los diez años, 
 
 Loth no respondió. Pero esa noche, por primera vez en treinta años, soñó con hierba.
 
-* * *
+---
 
-La niña nació en la luna de los vientos del año ciento trece. Era pequeña, morena, con una mata de pelo negro y unos pulmones que despertaron a medio campamento. Seren la llamó Anwe, que en la lengua antigua significaba la que respira.
+La niña nació en la luna de los vientos del año ciento trece. Era pequeña, morena, con una mata de pelo negro y unos pulmones que despertaron a medio campamento. Seren la llamó Anwe, que en la lengua antigua significaba *la que respira*.
 
 Las Madres lo supieron esa misma noche. Las Madres lo sabían todo.
 
@@ -116,7 +116,7 @@ Loth no quería ir.
 
 Llegó tarde.
 
-* * *
+---
 
 El campamento estaba en silencio cuando llegó. No había nadie fuera de las tiendas. La bruma, que al irse era fina como un velo gastado, se había espesado de nuevo, blanca, densa, satisfecha.
 

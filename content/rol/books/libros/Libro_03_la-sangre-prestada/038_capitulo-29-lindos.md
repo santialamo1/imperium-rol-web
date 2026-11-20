@@ -1,4 +1,4 @@
-## Capítulo 29 · Lindos
+# Capítulo 29 · Lindos
 
 *Banderbill, Nix y el mar del sur. Años 636 a 650 de la Nueva Era (29 a 43 D.bA).*
 
@@ -8,11 +8,11 @@ Su madre decía que era un defecto. Su padre decía que era una forma de memoria
 
 La ventana de su cuarto daba al puerto. Desde ella se veían los muelles nuevos, los que había mandado hacer su padre después de Arghâl, de piedra gris, con norays de hierro; los almacenes de la Armada; las gradas donde los carpinteros de ribera de Nix, que venían a la colina por temporadas, levantaban cascos de pino. Y más allá, el mar. Gris en invierno, verde en verano, azul tres días al año.
 
-Lindos se sabía los barcos por la forma de la vela. La Garza, que tenía un remiendo en la cangreja con forma de pez. La Hija de Hakon, de Nix, con el casco pintado de negro y una franja roja. La Paciencia, de los gnomos de las islas, que no tenía velas sino una cosa que zumbaba en la popa y que nadie más que los gnomos entendía. La Tozuda Segunda, que era la nieta de otra Tozuda que había traído de Concordia a una niña pelirroja con una espada demasiado grande.
+Lindos se sabía los barcos por la forma de la vela. La *Garza*, que tenía un remiendo en la cangreja con forma de pez. La *Hija de Hakon*, de Nix, con el casco pintado de negro y una franja roja. La *Paciencia*, de los gnomos de las islas, que no tenía velas sino una cosa que zumbaba en la popa y que nadie más que los gnomos entendía. La *Tozuda Segunda*, que era la nieta de otra *Tozuda* que había traído de Concordia a una niña pelirroja con una espada demasiado grande.
 
 Eso se lo había contado la niña pelirroja. Que ahora no era una niña. Que ahora era su tía tatarabuela, o algo así, con una cara de dieciocho años que no cambiaba nunca, y que venía a cenar a palacio una vez al mes y se sentaba a su lado.
 
-* * *
+---
 
 —¿Hasta dónde llega el mar? —le preguntó Lindos a los quince, en una de esas cenas.
 
@@ -52,7 +52,7 @@ Sein lo miró por encima de las gafas. Mucho rato.
 
 —Ahí está el problema —dijo. Y sonrió. Muy poco. Lindos no lo había visto sonreír nunca.
 
-* * *
+---
 
 Su madre le enseñó la espada.
 
@@ -80,7 +80,7 @@ Iselde se quedó callada. Se secó el sudor con la manga. Tenía cuarenta y seis
 
 —No lo sé —dijo—. Nadie en mi familia ha mirado lejos. Miramos de cerca. Lo que hay delante. —Le tiró la espada de madera—. Otra vez. El hombro.
 
-* * *
+---
 
 A los veinte, su padre lo mandó a Nix.
 
@@ -100,7 +100,7 @@ No como príncipe. Como aprendiz. Lo pidió él. El maestro carpintero de las gr
 
 —Peor me lo pones. —Orwen se rascó la oreja que le quedaba—. Pero tienes manos.
 
-* * *
+---
 
 Fue Lanther la que lo llevó al mar del sur.
 
@@ -128,7 +128,7 @@ Lindos la miró mucho rato.
 
 —No lo sé. Nadie ha ido.
 
-* * *
+---
 
 El día ocho pasaron las islas de los gnomos. Nueva Esperanza, que ya no se llamaba así sino de tres maneras, una por isla. Vieron los puertos de coral. Vieron, en la playa de la isla del medio, una casa que tenía en la puerta un caracol de coral enorme, colgado, y Lanther le dijo que ese caracol lo había traído un rey pelirrojo, el noveno, que había tardado veinticuatro años en hacer un puerto y se había quejado.
 
@@ -160,7 +160,7 @@ Lanther no contestó enseguida. Miraba la estrella, que se estaba poniendo.
 
 —Porque te miro desde que naciste —dijo—. Y tu padre se da la vuelta. Y tu madre se da la vuelta. Y tu abuela no se dio la vuelta y se murió con un cuchillo de pan en el costado. —Lo miró—. Tú tienes las dos cosas. No sé cuál va a ganar.
 
-* * *
+---
 
 Volvieron. Porque se acababa el agua dulce.
 
@@ -178,7 +178,7 @@ Orwen se rio.
 
 Orwen dejó de reírse.
 
-* * *
+---
 
 No lo hizo. No entonces.
 
@@ -192,7 +192,7 @@ Y miraba al este.
 
 No al sur, donde había estado. Al este. Donde salía el sol. Donde no había ido nadie. Donde los mapas de los gnomos se acababan en el borde del papel, sin línea de puntos ni nada, como si el mundo se terminara ahí y a nadie le hubiera parecido raro.
 
-* * *
+---
 
 Su madre se murió en el invierno del 648.
 
@@ -210,7 +210,7 @@ Lindos no lloró. No esa noche.
 
 Lloró al día siguiente. En el puerto. Mirando al este.
 
-* * *
+---
 
 En el 650, a los veintinueve años, conoció a Maren.
 
@@ -226,7 +226,7 @@ Ella lo vio. No se paró de calafatear.
 
 Lindos cogió un mazo.
 
-* * *
+---
 
 No le dijo quién era hasta el tercer día. Ella lo sabía desde el primero; se lo habían dicho en el puerto. No le importó. Le dijo que un príncipe que calafateaba mal era peor que un pescador que calafateaba mal, porque el pescador al menos tenía excusa.
 
@@ -242,15 +242,14 @@ Maren dejó el mazo. Lo miró. Tenía los ojos oscuros, de los de la costa, de l
 
 —Porque yo también —dijo.
 
-* * *
+---
 
 En el registro de la biblioteca, el de Amael, hay una línea de Benet Vell del 650:
 
-*El príncipe ha vuelto de Nix con brea en las manos y una muchacha en la boca. No dice su nombre. Lo dice todo el rato sin decirlo.*
+*El príncipe ha vuelto de Nix con brea en las manos y una muchacha en la boca. No* *dice su nombre. Lo dice todo el rato sin decirlo.*
 
 Y en el libro de cuentas, en el haber, con la letra de Sein:
 
-*Año 650. El príncipe ha preguntado otra vez cuánto cuesta un barco que no se dé la vuelta. Le he dicho que vuelva cuando sepa cuánto mide el mar.*
+*Año 650. El príncipe ha preguntado otra vez cuánto cuesta un barco que no se dé* *la vuelta. Le he dicho que vuelva cuando sepa cuánto mide el mar.*
 
-*Me ha dicho que va a ir a medirlo.*  
-*Empiezo a apartar.*
+*Me ha dicho que va a ir a medirlo.* *Empiezo a apartar.*

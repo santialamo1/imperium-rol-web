@@ -1,4 +1,4 @@
-## Capítulo 71 · Aremir
+# Capítulo 71 · Aremir
 
 *Concordia. Años 354 a 386.*
 
@@ -16,7 +16,7 @@ Aremir no volvió a verlo. Pero no olvidó su cara. Y escribió en el margen del
 
 *Orvane. Leogrand. Vigilad a sus hijos.*
 
-* * *
+---
 
 La coronaron a los cuarenta y nueve años, porque los hijos de Meridio eran demasiado jóvenes y estaban demasiado asustados, y porque el Consejo, después de cinco años de locura, quería a alguien sensato. Aremir era muy sensata. Era también, como descubrirían pronto los señores del Consejo, despiadada.
 
@@ -32,15 +32,15 @@ Pasó los primeros diez años de su reinado estudiando el diario de su hermano. 
 
 Quedaban cuatro. Eso lo sabían todos desde el Atardecer Rojo. Pero Meridio, en una de sus últimas páginas, con una letra tan temblorosa que Aremir tardó semanas en descifrarla, había escrito algo más:
 
-*Él ya no las necesita todas. La cosa del pozo le dijo que bastan. Que con cuatro basta para lo que viene. Que lo que viene no requiere seguir vivo mucho tiempo después. Solo lo justo para llegar a la cripta. Y poner la mano.*
+*Él ya no las necesita todas. La cosa del pozo le dijo que bastan. Que con cuatro* *basta para lo que viene. Que lo que viene no requiere seguir vivo mucho tiempo después.* *Solo lo justo para llegar a la cripta. Y poner la mano.*
 
-*Y luego otra cosa. No sé si la entendí bien. La voz estaba cansada esa noche, hablaba sola, no conmigo. Dijo que había una jarra que no rompería nadie. Que la había puesto donde nadie la buscaría. Que la había puesto*
+*Y luego otra cosa. No sé si la entendí bien. La voz estaba cansada esa noche,* *hablaba sola, no conmigo. Dijo que había una jarra que no rompería nadie. Que la había* *puesto donde nadie la buscaría. Que la había puesto*
 
 La frase no terminaba. La página siguiente estaba arrancada.
 
 Aremir buscó esa página durante treinta y dos años. No la encontró nunca.
 
-* * *
+---
 
 En el año trescientos ochenta y cinco, cuando tenía ochenta años, Aremir Bhargaras sostuvo en brazos a su nieto recién nacido.
 
@@ -54,7 +54,7 @@ Haltair sonrió. Tenía cuarenta y cinco años, era alto y ancho, y tenía la so
 
 —Bander —dijo—. Como el abuelo de Ilaria, su madre. Era pescador Kalo, de los fiordos de Pisor. Ilaria dice que era el hombre más fuerte que ha conocido nunca. Que levantaba una barca entera él solo.
 
-Aremir miró al niño. El niño la miró a ella, con aquellos ojos casi blancos. Y entonces, mientras la vieja emperatriz lo sostenía, el recién nacido giró la cabeza hacia la ventana. Hacia el noroeste. Hacia la niebla. Y frunció el ceño, como si oyera algo que no le gustaba.
+Aremir miró al niño. El niño la miró a ella, con aquellos ojos casi blancos. Y entonces, mientras la vieja emperatriz lo sostenía, el recién nacido giró la cabeza hacia la ventana. Hacia el noreste. Hacia la niebla. Y frunció el ceño, como si oyera algo que no le gustaba.
 
 Aremir sintió un escalofrío.
 
@@ -68,10 +68,7 @@ Aremir sintió un escalofrío.
 
 Aremir lo miró. Y luego, en voz muy baja, con su voz vieja y cascada de ochenta años, cantó:
 
-*Duerme, arena, duerme ya,*  
-*la bruma viene y se va;*  
-*quien te nombra te tendrá,*  
-*quien te ama volverá.*
+*Duerme, arena, duerme ya,* *la bruma viene y se va;* *quien te nombra te tendrá,* *quien te ama volverá.*
 
 —Esa la conozco —dijo Haltair, sorprendido—. Me la cantabas de pequeño. Es una nana de Gijor, ¿no?
 

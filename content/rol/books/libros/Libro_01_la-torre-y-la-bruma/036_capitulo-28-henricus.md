@@ -1,4 +1,4 @@
-## Capítulo 28 · Henricus
+# Capítulo 28 · Henricus
 
 *Concordia. Año 121.*
 
@@ -22,13 +22,13 @@ Ella había tardado mucho en contestar. Luego lo había abrazado tan fuerte que 
 
 —Porque quien te nombra te tiene. —Se había apartado para mirarlo—. Y porque si alguien se entera de que los oyes, te quemarán.
 
-Henricus tenía cinco años y no entendió casi nada. Pero entendió te quemarán, porque en Concordia todos los niños jugaban a Arenar y la bruja, y en el juego, al final, siempre se quemaba a alguien.
+Henricus tenía cinco años y no entendió casi nada. Pero entendió *te quemarán*, porque en Concordia todos los niños jugaban a Arenar y la bruja, y en el juego, al final, siempre se quemaba a alguien.
 
 Esa noche, su madre le dio un segundo nombre. Uno secreto, en una lengua que él no conocía, que le susurró al oído y le hizo repetir hasta que se le quedó grabado. Le dijo que ese nombre era el de verdad, y que Henricus era solo el que se ponía para salir a la calle, como un abrigo. Le dijo que si alguna vez alguien intentaba llamarlo desde la oscuridad, el abrigo se le caería y él seguiría estando debajo, a salvo.
 
 Henricus lo guardó. Nunca se lo dijo a nadie. Ni a su padre, ni a su hermana Mira, ni a la mujer con la que se casaría. Era lo único en el mundo que era solo suyo.
 
-* * *
+---
 
 A los veintidós años, Henricus era el guardia más joven de la escolta personal del emperador, y el único al que el viejo Drolnar llamaba por su nombre.
 
@@ -48,7 +48,7 @@ Y Henricus le hablaba de Teodor Bhargaras, que había sido capitán de la Guardi
 
 Drolnar nunca contestaba. Se quedaba mirando el fuego.
 
-* * *
+---
 
 El emperador enfermó en el otoño del año ciento veintiuno. Era la edad, nada más. El corazón, que se le cansaba. Los físicos le dieron un mes. Drolnar les dio las gracias y les dijo que se fueran a molestar a otro.
 
@@ -88,7 +88,7 @@ Drolnar cerró los ojos. Algo le cruzó la cara, algo que Henricus no supo ident
 
 Luego se le doblaron las rodillas, y Henricus tuvo que cargarlo en brazos hasta la cama.
 
-* * *
+---
 
 Drolnar Arenar no habló más esa noche. Pero a la mañana siguiente mandó llamar al Consejo entero a su alcoba, como Hector Tiberius había hecho cuarenta y nueve años antes, y cuando los treinta señores estuvieron reunidos, de pie junto a las paredes, impacientes, aburridos, calculando, el viejo emperador les dijo, desde la cama, con la voz más firme que había tenido en meses:
 
@@ -108,7 +108,7 @@ Los señores no entendieron. Henricus tampoco. Nadie entendería nunca, excepto 
 
 Drolnar Arenar murió once días después. Lo encontraron con una jaula de plata vacía entre los brazos.
 
-* * *
+---
 
 —Madre —dijo Henricus, la noche antes de su coronación—. Tienes que contármelo.
 

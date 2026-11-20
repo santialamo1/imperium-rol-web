@@ -1,4 +1,4 @@
-## Capítulo 37 · Verawel
+# Capítulo 37 · Verawel
 
 *La biblioteca de Banderbill. Primavera del año 703 de la Nueva Era (96 D.bA).*
 
@@ -14,7 +14,7 @@ Los árboles lo estaban llamando. Lo sabía. Despacio. Sin prisa. Como llama una
 
 Calculaba que le quedaban cuarenta años.
 
-* * *
+---
 
 El Emperador lo encontró en la estantería de arriba.
 
@@ -38,7 +38,7 @@ Lindos sonrió.
 
 —Tengo ochenta y dos años —dijo—. Todo es urgente.
 
-* * *
+---
 
 Bajó. Le llevó lo que se tarda en hervir dos huevos. Lindos esperó al pie de la escalera, sin moverse, con las manos a la espalda, mirándolo bajar. Verawel se fijó en que no se impacientaba. No se le movía nada. Ni los dedos ni el pie ni la boca. Esperaba como esperan los carpinteros de ribera a que se seque la cola: sabiendo que no se puede hacer nada más.
 
@@ -58,7 +58,7 @@ Se sentaron en la mesa larga. La de Amael. La que tenía las iniciales de cien a
 
 —No lo sé. —Verawel se encogió de hombros. Le crujieron—. Pero es lo que se dice. Y lo que se dice, a fuerza de decirse, se hace verdad. Me lo enseñó un elfo que escribe con la izquierda.
 
-* * *
+---
 
 Lindos lo miró mucho rato.
 
@@ -72,7 +72,7 @@ Verawel los miró a los tres. Y lo supo.
 
 —No —dijo.
 
-* * *
+---
 
 —Todavía no he dicho nada —dijo Lindos.
 
@@ -92,7 +92,7 @@ Verawel tardó en contestar. Se miraba las manos.
 
 —Volví porque Érandiul me leyó el diario. —Verawel sonrió—. Y me pareció que escribía peor que antes y que alguien tenía que estar aquí para decírselo.
 
-* * *
+---
 
 —La ofrenda para el tiempo —dijo Lanther. Bajito. Mirando la corteza—. No el hierro. El tiempo.
 
@@ -108,13 +108,13 @@ Verawel no contestó.
 
 Fue Sein. Que abrió el libro. Que no buscó ninguna página; lo abrió por donde estaba, que era la del año. Y leyó, sin mirar, de memoria:
 
-—Que la dé a quien haga falta para acordarse. —Cerró el libro—. Regla del 630. La escribí yo.
+—*Que la dé a quien haga falta para acordarse.* —Cerró el libro—. Regla del 630. La escribí yo.
 
 —Ya me acuerdo —dijo Verawel—. Para acordarme no me hace falta no morirme. Los árboles se acuerdan de todo. Más que tú.
 
 —Los árboles se acuerdan —dijo Sein—. Pero no escriben.
 
-* * *
+---
 
 Verawel se quedó callado.
 
@@ -134,7 +134,7 @@ Seguía siendo verdad. No quería nada.
 
 Pero hacía falta.
 
-* * *
+---
 
 —¿Por qué yo? —le dijo a Lindos—. De verdad. No por el pergamino. Eso lo puede escribir otro. Se le puede enseñar la letra a un Vell. A esa niña, Clara, que tiene buena mano.
 
@@ -144,9 +144,9 @@ Lindos se miró las manos. Las suyas. Con callos de mazo y astillas de roble deb
 
 Verawel no entendió.
 
-—Lo pone en el registro —dijo Lindos—. En la primera página. Lo he leído. Cuando era niño, mi madre me mandaba a la biblioteca cuando me portaba mal, y yo me ponía a leer el registro, porque era lo único que no tenía dibujos de barcos y así me castigaba de verdad. Verawel me ha subido los libros. Año sesenta y tres. —Levantó la vista—. Amael tenía veintiún años y era rey y había hecho una casa para los libros y no tenía a nadie que se los subiera. Y usted se los subió. —Se encogió de hombros—. Yo me voy al este. Voy a traer cosas. Mapas. Nombres. Historias. Alguien se las tiene que subir.
+—Lo pone en el registro —dijo Lindos—. En la primera página. Lo he leído. Cuando era niño, mi madre me mandaba a la biblioteca cuando me portaba mal, y yo me ponía a leer el registro, porque era lo único que no tenía dibujos de barcos y así me castigaba de verdad. *Verawel me ha subido los libros.* Año sesenta y tres. —Levantó la vista—. Amael tenía veintiún años y era rey y había hecho una casa para los libros y no tenía a nadie que se los subiera. Y usted se los subió. —Se encogió de hombros—. Yo me voy al este. Voy a traer cosas. Mapas. Nombres. Historias. Alguien se las tiene que subir.
 
-* * *
+---
 
 Verawel no dijo nada en mucho rato.
 
@@ -162,7 +162,7 @@ Lo puso en la mesa. Delante de Lindos.
 
 —Este se lo subí el primero —dijo—. A Amael. Era el que más pesaba. Porque era el que más quería.
 
-* * *
+---
 
 Lo hicieron allí mismo. En la mesa larga. A media tarde, con la luz de la primavera entrando por las ventanas de la sala grande y dos estudiantes de la Escuela de las Formas leyendo en la otra punta, que no se enteraron de nada.
 
@@ -176,7 +176,7 @@ Y un elfo subiendo libros por una escalera.
 
 Lindos le puso la mano en la boca. Le sopló en la cara. Dijo su nombre.
 
-* * *
+---
 
 No pasó nada.
 
@@ -196,7 +196,7 @@ No del todo. Se oía todavía. Muy lejos. Muy bajito. Como se oye a alguien que 
 
 Verawel se echó a llorar.
 
-* * *
+---
 
 No había llorado desde el roble. Ni al salir. Ni al ver a Érandiul. Ni al ver a Lanther. Lloró ahora. En la mesa larga de Amael. Con las manos de corteza en la cara. Con la savia parada dentro.
 
@@ -212,7 +212,7 @@ Verawel lo pensó.
 
 —Que estaba subiendo libros —dijo.
 
-* * *
+---
 
 Lanther le pasó un brazo por los hombros. Por la corteza. No dijo nada.
 
@@ -240,7 +240,7 @@ Sein tardó en contestar.
 
 —Lo que se debe a alguien que no es de aquí —dijo—. Lo que no se paga en vida. Lo que queda pendiente. —Se quitó las gafas—. Vamos a necesitarla.
 
-* * *
+---
 
 Esa noche, en la tercera almena, Ottherius le dijo a Verawel, que había subido con él por primera vez, que el merlón se había alegrado de verlo.
 
@@ -254,7 +254,7 @@ Verawel miró arriba.
 
 No lloró. Ya había llorado.
 
-Pero se quedó mirando mucho rato. Hasta que salió, al suroeste, la estrella.
+Pero se quedó mirando mucho rato. Hasta que salió, al noreste, la estrella.
 
 Y luego bajó, despacio, los ciento doce escalones de la almena, que le llevaron lo que se tarda en hervir cuatro huevos. Y se fue a la biblioteca. Y subió a la escalera de mano. Y siguió ordenando la primera planta.
 

@@ -1,6 +1,6 @@
-## Capítulo 53 · Mirela
+# Capítulo 53 · Mirela
 
-*Banderbill, el sótano de la casa vieja. Invierno del año 1416 de la Nueva Era (809 D.bA).*
+*Banderbill, el sótano de la casa vieja. Invierno del año 1416 de la Nueva Era (809* *D.bA).*
 
 No lo escribí. Lo escribo ahora, veintitrés años después, porque ya no importa que se oiga, y porque si no lo escribe nadie se va a quedar en una masa madre, y las masas madres se mueren.
 
@@ -8,7 +8,7 @@ Lo escribo con la letra de las Madres. La que sube. Me enseñó Verawel en el 13
 
 Esto tiene que durar.
 
-* * *
+---
 
 Fue en invierno. Una noche de nieve. La primera del año.
 
@@ -20,7 +20,7 @@ Así que esperamos a la nieve.
 
 Llegó tarde. El catorce de diciembre.
 
-* * *
+---
 
 Bajamos todos.
 
@@ -38,7 +38,7 @@ Yo.
 
 La doncella no bajó. Había dicho que no bajaría. Que lo suyo era el palacio, y que el palacio se lo tendrían que pedir arriba.
 
-* * *
+---
 
 Corin bajó a las once.
 
@@ -60,7 +60,7 @@ Miró alrededor. La repisa. El cuenco. La rejilla del respiradero. El horno de a
 
 Teo se rio. Sin querer.
 
-* * *
+---
 
 Él bajó a las once y cuarto.
 
@@ -88,7 +88,7 @@ Corin lo miró a él.
 
 —Ya lo sé. Me lo ha dicho todo el mundo. Lanther tres veces. El tío dos. —Corin se encogió de hombros—. Quiero.
 
-* * *
+---
 
 Lanther se levantó del suelo.
 
@@ -114,7 +114,7 @@ Corin se quedó mirándolo un rato.
 
 —Qué pena. —Corin sonrió—. Me habría gustado decir algo bonito.
 
-* * *
+---
 
 Se hizo el corte él solo.
 
@@ -148,7 +148,7 @@ Y luego, después, más bajo:
 
 Corin se rio por él.
 
-* * *
+---
 
 El pulgar en la lengua.
 
@@ -162,7 +162,7 @@ Luego abrió los ojos.
 
 Y miró arriba.
 
-* * *
+---
 
 No lo esperaba nadie. Yo no. Lanther tampoco; lo vi en su cara.
 
@@ -176,7 +176,7 @@ Le pregunté años después qué había visto. Me dijo que nada. Que el techo. Q
 
 Mentía bien. Imane tenía razón.
 
-* * *
+---
 
 Corin se metió el pulgar en la boca. Como se hace cuando uno se corta pelando una manzana.
 
@@ -204,7 +204,7 @@ Arispar seguía arrodillado. No se había levantado.
 
 —Que lo sujetes bien.
 
-* * *
+---
 
 Fue entonces cuando oímos la trampilla.
 
@@ -218,7 +218,7 @@ Pelo negro. Ojos grises, grandes.
 
 Imane.
 
-* * *
+---
 
 No bajó.
 
@@ -238,11 +238,11 @@ Corin se rio.
 
 —Ahora.
 
-* * *
+---
 
 Se lo contó él. Arispar.
 
-No Corin. No Teo. No Lanther. Arispar. Se levantó del suelo, se puso de pie, con la cabeza casi en el techo, y se volvió hacia la trampilla, y se lo contó. Todo. Desde el principio. La pelota. El respiradero. El agujero en diagonal. Las voces. El que más tiene. El cuaderno quemado. La escalera. La amenaza. El año. El voto. La nieve.
+No Corin. No Teo. No Lanther. Arispar. Se levantó del suelo, se puso de pie, con la cabeza casi en el techo, y se volvió hacia la trampilla, y se lo contó. Todo. Desde el principio. La pelota. El respiradero. El agujero en diagonal. Las voces. *El que más tiene.* El cuaderno quemado. La escalera. La amenaza. El año. El voto. La nieve.
 
 No se dejó nada. Ni lo de la amenaza.
 
@@ -266,7 +266,7 @@ Corin se encogió de hombros.
 
 Imane cerró los ojos.
 
-* * *
+---
 
 Cuando los abrió, miró a Arispar.
 
@@ -294,7 +294,7 @@ Imane lo miró un rato más.
 
 Y bajó la escalera.
 
-* * *
+---
 
 No sé lo que pasó después entre ellos. No es para mí. No lo cuento.
 
@@ -304,7 +304,7 @@ Cuento lo que vi. Que Imane bajó la escalera, despacio, con la capa negra. Que 
 
 Y Arispar, que no se reía, sonrió.
 
-* * *
+---
 
 Esa noche, cuando se fueron todos, me quedé.
 
@@ -322,11 +322,11 @@ Teo se quedó quieto.
 
 Yo también.
 
-Porque los tres sabíamos lo que eso quería decir. Lo que Teo no le había dicho nunca a Gorda, en trescientos años, en este mismo sótano, de noche. Que si alguien de la sangre tenía hijos con alguien que tuviera la vida de la sangre...
+Porque los tres sabíamos lo que eso quería decir. Lo que Teo no le había dicho nunca a Gorda, en más de mil años, en este mismo sótano, de noche. Que si alguien de la sangre tenía hijos con alguien que tuviera la vida de la sangre...
 
 No lo sé. No lo sabe nadie. No ha pasado nunca.
 
-* * *
+---
 
 Por la mañana, la colina parecía nueva.
 

@@ -1,4 +1,4 @@
-## DE LAS CRÓNICAS DE BANDERBILL (VI)
+# De las Crónicas de Banderbill (VI)
 
 *Año 26 de la Nueva Era.*
 
@@ -14,13 +14,21 @@ Me ha mirado con aquellos ojos que tiene, casi blancos a la luz del fuego.
 
 No he sabido qué contestar.
 
-Mañana se cumplen veintiséis años de la llegada a Oderon. Banderbill tiene ya once mil almas; han seguido llegando barcos de la otra orilla durante todo este tiempo, de dos en dos, de tres en tres, con supervivientes de las costas de Pisor y de Gijor que huían de la niebla y que oyeron, en las tabernas de los puertos todavía vivos, que al otro lado del Mar de la Penuria había una colina y un emperador que nombraba a los muertos.
+Me ha pedido otra cosa. Que el libro entero no salga de la biblioteca de abajo. Que la copia de arriba, la que leerán los que vengan, lleve once capítulos menos. Que los astilleros, las piedras y su nombre vayan a un cajón, con la llave en su cinto. No me ha dicho por qué. Me ha dicho: «Un año más de paz, Grull. Y luego otro». Le he obedecido. Es la primera vez en veintiséis años que no escribo arriba todo lo que sé; lo dejo dicho aquí, en la copia de abajo, para que conste.
+
+Me ha pedido una tercera cosa. Las cartas de navegar de Gorm, las de los once viajes, del año 3 al 19, que siguen en su casa del puerto, enrolladas en un arcón. Que no se hagan más viajes. Que las cartas se guarden. Lo he escrito yo mismo al final de la última, la del año 19, con mi letra, porque Su Majestad ya no tiene el pulso para letra pequeña: *Por* *orden de Su Majestad, no se harán más viajes. Las cartas se guardan. Que no vuelva* *nadie.* Y lo he firmado. La emperatriz ha dicho que estaba bien. Gorm ha dicho que estaba muy bien, y se ha llevado las cartas a su casa, y no sé si me fío.
+
+Y una cuarta, que no me ha pedido nadie. Este invierno he vaciado por fin el arcón de Corvo, el de pino con el cordel gris en el asa, el que los Custodios bajaron por el túnel la Noche Más Larga y que viajó en la bodega de la *Tozuda* entre los barriles. Dentro, debajo de la cartilla de Hilde Tamm, había una hoja de Neri, la eufesia, en la lengua de la arena, y otra de su nieto, traduciéndola. Los de las colinas no llamaban a Corvo comandante. Lo llamaban *el Segundo*. El segundo Bhargaras. El que vino después del Primero y dijo que no. En las listas de palacio no consta; en la lista que copié yo en la planta doce hay un raspado entre el Primero y el Tercero, del tamaño de un nombre, que yo creí siempre una mancha. No era una mancha. Alguien lo borró a propósito. Ahora sé por qué la cuenta salta: no la contaron mal. La borraron.
+
+Lo apunto aquí, en la copia de abajo. Arriba seguirá saltando.
+
+Mañana se cumplen veintiséis años de la llegada a Oderon. Banderbill tiene ya once mil almas; han seguido llegando barcos de la otra orilla durante todo este tiempo, de dos en dos, de tres en tres, con supervivientes de las costas de Pisor y de Gijor que huían de la niebla y que oyeron, en las tabernas de los puertos todavía vivos, que al otro lado del Mar de la Eterna Penuria había una colina y un emperador que nombraba a los muertos.
 
 Los últimos llegaron este invierno. Dijeron que en los astilleros de Puerto Salobre no trabaja nadie vivo. Y que hay barcos.
 
 Muchos barcos.
 
-Su Majestad no está bien. No lo digo por alarmar, sino porque así consta. La herida del costado, la que le hizo una emperatriz muerta en una escalera, nunca cerró del todo. Tose. Duerme poco. Pasa las noches en lo alto de la colina, mirando al oeste.
+Su Majestad no está bien. No lo digo por alarmar, sino porque así consta. La herida del costado, la que le hizo una emperatriz muerta en una escalera, nunca cerró del todo. Tose. Duerme poco. Pasa las noches en lo alto de la colina, mirando al norte.
 
 La emperatriz Mara gobierna, en la práctica, desde hace dos años. Gobierna bien. Grita a los consejeros como gritaba su tío a los remeros, y los consejeros, que la temen más que a la niebla, obedecen.
 
@@ -38,7 +46,8 @@ Me ha mirado. Y por primera vez en veintiséis años, he visto miedo en los ojos
 
 Aquí termina el Libro Primero de las Crónicas.
 
-El segundo lo escribirá otro. Yo soy viejo, y Su Majestad también, y en el horizonte del oeste, esta mañana, la línea gris estaba un poco más cerca.
+El segundo lo escribirá otro. Yo soy viejo, y Su Majestad también, y en el horizonte del norte, esta mañana, la línea gris estaba un poco más cerca.
 
-*Tobías Grull, cronista.*  
+*Tobías Grull, cronista.*
+
 *Banderbill, Oderon. Año 26 de la Nueva Era.*

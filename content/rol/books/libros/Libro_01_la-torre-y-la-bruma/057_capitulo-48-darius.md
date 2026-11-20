@@ -1,4 +1,4 @@
-## Capítulo 48 · Darius
+# Capítulo 48 · Darius
 
 *Concordia. Año 220, verano.*
 
@@ -18,7 +18,7 @@ Nunca de un Heredicus.
 
 Darius estuvo listo.
 
-* * *
+---
 
 A los veinticinco años era el mejor espadachín de Concordia y lo sabía todo el mundo. Había tenido once maestros de armas, de los tres pueblos y de las provincias, y había superado a los once. Sabía luchar con la espada larga de Gijor, con la corta de legionario, con el hacha Ibaro, con la lanza. Sabía luchar a caballo y a pie, de día y de noche, contra uno y contra tres. Tenía las manos llenas de callos y el cuerpo lleno de pequeñas cicatrices y la cabeza llena de ciento ochenta y cinco años de espera.
 
@@ -40,23 +40,23 @@ Berenice lo miró con sus ojos fríos.
 
 —Tú subestímala o no, me da igual. Pero gánale.
 
-* * *
+---
 
 La vio luchar diez días.
 
-No mató a nadie. Esa fue la primera cosa que le llamó la atención. Desarmaba, derribaba, rompía alguna muñeca, algún tobillo, y luego bajaba la espada y se volvía hacia la tribuna del Consejo y preguntaba: ¿Cuenta? Y el Consejo, después de deliberar el primer día, decidió que contaba, porque un hombre desarmado y en el suelo no estaba en pie, y el decreto no hablaba de muertes. Hablaba de uno.
+No mató a nadie. Esa fue la primera cosa que le llamó la atención. Desarmaba, derribaba, rompía alguna muñeca, algún tobillo, y luego bajaba la espada y se volvía hacia la tribuna del Consejo y preguntaba: *¿Cuenta?* Y el Consejo, después de deliberar el primer día, decidió que contaba, porque un hombre desarmado y en el suelo no estaba en pie, y el decreto no hablaba de muertes. Hablaba de uno.
 
 La multitud la abucheó el primer día. Darius la aplaudió, en silencio, desde la tienda de los combatientes. Porque había entendido lo que hacía. No mataba porque matar cansa. No el brazo: la cabeza. Cada muerte pesa, aunque no lo notes. Cada muerte te quita un poco de algo, y al décimo día ese algo te falta en el momento preciso. Ella no se cansaba porque no cargaba con nada.
 
 Y había entendido otra cosa, que lo inquietó más.
 
-Lexandra Tiberius no luchaba para ganar. Luchaba para que la vieran no matar. Cada combate era un discurso. Esto es lo que haré con el Imperio. Así gobernaré. Y la plaza, que el primer día la abucheaba, el tercero la aplaudía y el quinto coreaba su nombre.
+Lexandra Tiberius no luchaba para ganar. Luchaba para que la vieran no matar. Cada combate era un discurso. *Esto es lo que haré con el Imperio. Así gobernaré.* Y la plaza, que el primer día la abucheaba, el tercero la aplaudía y el quinto coreaba su nombre.
 
 El décimo día, Darius supo que, aunque le ganara, la plaza no lo querría.
 
 Y decidió que le daba igual.
 
-* * *
+---
 
 El undécimo combate empezó al mediodía, con el sol en lo alto y el olor a sangre vieja de diez días metido en los adoquines.
 
@@ -76,9 +76,9 @@ A los veinte minutos, Darius empezó a sentir algo que no había sentido nunca e
 
 No era cansancio. Era rabia.
 
-Ella no luchaba contra él. Luchaba con él. Como quien baila con alguien que no sabe bailar, con paciencia, esperando a que se equivoque. Y la plaza lo veía. La plaza entera, cien mil personas, veía al mejor espadachín de Concordia lanzar estocadas contra el aire mientras una secretaria de los bosques de Tiber esperaba, tranquila, con la espada baja.
+Ella no luchaba contra él. Luchaba *con* él. Como quien baila con alguien que no sabe bailar, con paciencia, esperando a que se equivoque. Y la plaza lo veía. La plaza entera, cien mil personas, veía al mejor espadachín de Concordia lanzar estocadas contra el aire mientras una secretaria de los bosques de Tiber esperaba, tranquila, con la espada baja.
 
-Ciento ochenta y cinco años, pensó. Ciento ochenta y cinco años esperando, y esto.
+*Ciento ochenta y cinco años*, pensó. *Ciento ochenta y cinco años esperando, y esto.*
 
 Atacó con todo. Una serie de cinco golpes, rápidos, brutales, que había practicado diez mil veces en el patio de la casa del barrio alto. El quinto golpe era el que no fallaba nunca: una estocada baja, al muslo, que obligaba al rival a bajar la guardia, seguida de un tajo alto al cuello.
 
@@ -108,7 +108,7 @@ Se volvió hacia la tribuna.
 
 Contaba.
 
-* * *
+---
 
 Lo llevaron a casa en una camilla. Berenice no lo miró en todo el camino. Cuando llegaron, subió a sus habitaciones del piso alto y cerró la puerta, y no bajó en tres días.
 
@@ -158,7 +158,7 @@ Se fue.
 
 Darius se quedó mirando la puerta cerrada hasta que la fiebre lo tumbó.
 
-* * *
+---
 
 Berenice bajó esa noche.
 
@@ -182,7 +182,7 @@ Se levantó. Fue hasta la puerta. Allí se detuvo.
 
 —Hay una viuda en el barrio —dijo, sin volverse—. Octavia, la del sedero Jenon. Herborista. Rica. Dicen que estuvo en la plaza. Dicen que vino a preguntar por ti ayer, y que el criado la despidió. —Una pausa—. La próxima vez, que la dejen pasar.
 
-* * *
+---
 
 Octavia vino al día siguiente, con un cesto de ungüentos. Le deshizo el entablillado del barbero, le untó la muñeca con árnica y consuelda, le puso los huesos en su sitio con unas manos pequeñas y firmes que no temblaron cuando él gritó, y le dijo que nunca volvería a sostener una espada con esa mano.
 

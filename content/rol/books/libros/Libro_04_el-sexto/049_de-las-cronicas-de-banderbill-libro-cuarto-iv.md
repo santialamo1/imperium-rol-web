@@ -1,8 +1,8 @@
-## DE LAS CRÓNICAS DE BANDERBILL, LIBRO CUARTO (IV)
+# De las Crónicas de Banderbill, Libro Cuarto (IV)
 
-*Escrito por Ysolde Vell, cronista de la biblioteca, en el otoño del año 1300 de la Nueva Era. Con una nota al pie en otra letra.*
+*Escrito por Ysolde Vell, cronista de la biblioteca, en el otoño del año 1300 de la* *Nueva Era. Con una nota al pie en otra letra.*
 
-Mi padre se murió en el 1281 sin terminar la crónica de la caída. La dejó en la página doce. La última frase que escribió fue y entonces el gnomo se rio, y debajo no hay nada, y la tinta de la o está corrida, como si se le hubiera ido la mano.
+Mi padre se murió en el 1281 sin terminar la crónica de la caída. La dejó en la página doce. La última frase que escribió fue *y entonces el gnomo se rio*, y debajo no hay nada, y la tinta de la *o* está corrida, como si se le hubiera ido la mano.
 
 No la voy a terminar. La de la caída no. Esa ya la contó el elfo en su Diario, y la contó mal, y la contó bien, como cuenta él, y la contó la tía abuela Mirela al margen, y la contó mi padre en doce páginas. No hace falta que la cuente yo.
 
@@ -10,7 +10,7 @@ Yo cuento lo de después.
 
 Lo de después es más difícil. No pasa nada. Y cuando no pasa nada durante cuarenta años, la gente cree que no hay nada que contar, y no es verdad. Es cuando más hay. Es que no se ve.
 
-* * *
+---
 
 Lo primero que hay que saber de lo de después es que el humo tardó once años en irse.
 
@@ -20,7 +20,7 @@ Porque una ciudad quemada se reconstruye. Una ciudad a la que le han perdonado l
 
 La colina tardó once años en volver a poner farolillos.
 
-* * *
+---
 
 Lo segundo que hay que saber es la doncella.
 
@@ -28,7 +28,7 @@ Se llama Hatmie. Es gnoma, nieta de Tilda, la de las cuadras, la que se quedó c
 
 Tenía setenta y seis años cuando la nombraron. Para una gnoma, nada.
 
-La nombraron catorce a tres. Los tres que votaron en contra dijeron que no por ella; dijeron que no porque nombrar a alguien era aceptar que el gnomo no iba a volver. Uno de los tres era el consejero Halden, que había estado en la plaza el día de la rendición. Dijo en el Consejo: Si nombramos a otro, le estamos diciendo al Demonio que nos da igual. Y Hatmie, que estaba de pie al fondo de la sala porque todavía no la habían nombrado, dijo, sin pedir la palabra:
+La nombraron catorce a tres. Los tres que votaron en contra dijeron que no por ella; dijeron que no porque nombrar a alguien era aceptar que el gnomo no iba a volver. Uno de los tres era el consejero Halden, que había estado en la plaza el día de la rendición. Dijo en el Consejo: *Si nombramos a otro, le estamos diciendo al Demonio que nos da igual*. Y Hatmie, que estaba de pie al fondo de la sala porque todavía no la habían nombrado, dijo, sin pedir la palabra:
 
 —No es otro. Es lo que hay mientras.
 
@@ -38,7 +38,7 @@ No contestó.
 
 La nombraron esa misma tarde. Doncella de Banderbill. Por segunda vez en la historia, como dice el elfo. La primera fue la pelirroja, que no fue a la votación.
 
-* * *
+---
 
 La doncella no se ha mudado al palacio.
 
@@ -52,11 +52,11 @@ No sé de qué hablan. He preguntado. La pelirroja no me contesta. La doncella m
 
 Le pregunté cómo es el de siempre.
 
-—Tum —me dijo.
+—*Tum* —me dijo.
 
 Y se fue.
 
-* * *
+---
 
 Lo tercero es la Armada.
 
@@ -72,25 +72,25 @@ Que un soldado que no se ríe es un soldado que se parece al otro ejército.
 
 Pero no sabe cómo hacer que se rían. Ella tampoco se ríe mucho. Dice que el que sabía hacer reír a los demás se lo llevaron.
 
-* * *
+---
 
 Lo cuarto es el valle.
 
-El Mercado de las Madres, el del valle negro, a una semana a pie al norte de la colina, donde el gnomo dijo que no tenía que pagar la décima porque allí no se levantaba un arma, no existe.
+El Mercado de las Madres, el del valle negro, a una semana a pie al sureste de la colina, al otro lado del estrecho, en el cráter de la montaña que humea, donde el gnomo dijo que no tenía que pagar la décima porque allí no se levantaba un arma, no existe.
 
-Existe. Pero no es un mercado. Es hielo.
+Existe. Pero no es un mercado. Es ceniza.
 
-Empezó la noche de la caída. Los que estaban allí dicen que la fuente se heló, que las Madres se volvieron hacia el sur, que la del norte perdió la cabeza. Que luego nevó. En pleno verano, en el valle más caliente del Imperio, nevó, y no paró. Y que cada invierno desde entonces el hielo ha avanzado un poco más, por las laderas, por el camino del norte, hasta el paso. Ahora el valle está blanco de punta a punta. Los mercaderes lo han dejado. Los de la sal van por el desierto, que es más largo. Las Custodias, las mujeres que se sentaban junto a la fuente, se han subido a unas casas de piedra en el borde del hielo, junto al paso, y siguen allí. Cuatro. Viejas. Una se llama Wenna, la pesadora, la de la balanza, que estaba allí antes de que hubiera colina, dicen, y no se mueve de debajo de sus chales.
+Empezó la noche de la caída. Los que estaban allí dicen que la fuente se secó, que las Madres se volvieron hacia el sur, que la del norte perdió la cabeza. Que luego cayó ceniza. En pleno verano, en el valle más caliente del Imperio, cayó ceniza de la boca de la montaña, y no paró. Y que cada invierno desde entonces la ceniza ha avanzado un poco más, por las laderas, por el camino del norte, hasta el paso. Ahora el valle está gris de punta a punta. Los mercaderes lo han dejado. Los de la sal van por el desierto, que es más largo. Las Custodias, las mujeres que se sentaban junto a la fuente, se han subido a unas casas de piedra en el borde de la ceniza, junto al paso, y siguen allí. Cuatro. Viejas. Una se llama Wenna, la pesadora, la de la balanza, que estaba allí antes de que hubiera colina, dicen, y no se mueve de debajo de sus chales.
 
-Los soldados de la patrulla del sur lo llaman Tundra Zero. Porque en el registro de la patrulla, en la casilla de habitantes, pusieron un cero, y alguien añadió tundra delante para que se supiera que no era un error.
+Los soldados de la patrulla del sur lo llaman Tundra Zero. Porque en el registro de la patrulla, en la casilla de *habitantes*, pusieron un cero, y alguien añadió *tundra* delante para que se supiera que no era un error.
 
-Yo no he ido. Mi padre fue una vez, antes de morirse. Dijo que en el centro del valle, debajo de la escarcha, se veía el Guardián. El de siempre, el hombre de sal de la boca del agujero, con la boca abierta y la jarra en el pecho. Pero que ya no era el mismo. Que tenía barba de hielo y los hombros blancos, y que la cabeza, que antes estaba un poco inclinada hacia delante como quien se asoma, ahora estaba levantada. Un dedo. Mirando al sur.
+Yo no he ido. Mi padre fue una vez, antes de morirse. Dijo que en el centro del valle, debajo de la ceniza, se veía el Guardián. El de siempre, el hombre de sal de la boca del agujero, con la boca abierta y la jarra en el pecho. Pero que ya no era el mismo. Que tenía barba de ceniza y los hombros grises, y que la cabeza, que antes estaba un poco inclinada hacia delante como quien se asoma, ahora estaba levantada. Un dedo. Mirando al sur.
 
 Le pregunté si eso podía ser.
 
-Me dijo que las Custodias decían que sí. Que lo llamaban ahora el Último Guardián, porque detrás de él ya no había nadie más.
+Me dijo que las Custodias decían que sí. Que lo llamaban ahora *el Último* *Guardián*, porque detrás de él ya no había nadie más.
 
-* * *
+---
 
 Lo quinto es lo que no se dice.
 
@@ -108,7 +108,7 @@ Y el Consejo votó no ir a buscarlo. Once a ocho.
 
 Once a ocho. Como en tiempos del comandante Eluret.
 
-* * *
+---
 
 Lo sexto es la casa del pan.
 
@@ -116,7 +116,7 @@ Lo pongo porque nadie lo pone, y porque mi padre lo puso en la primera página d
 
 La panadería de la calle del Horno, la de los Ruald, la que gana siempre el concurso de pan, no ganó en el 1270. Ni en el 1271. No se presentó. El tío viejo de los Ruald, Teo, el que ha estado detrás del mostrador desde que mi tía abuela era niña, y que nadie sabe cuántos años tiene, apagó el horno grande de la calle del Horno en el 1268, y Aldo Ruald, nieto de aquel Lino que repartía el pan del gnomo en un carro, compró un almacén en el puerto. El de la sal. Uno de los que quemaron los orcos.
 
-Ahora los Ruald venden sal. Sal de las minas de las montañas rojas, que antes iba por el valle y ahora va por el desierto y que nadie quería transportar porque el camino es largo y hay orcos que no son de Orac. Los Ruald la transportan. Con carros. Con escolta. Pagan bien. Pagan la décima entera, sin protestar. Se han hecho ricos en veinte años. Tienen una casa en la parte alta de la colina, detrás del palacio, con un patio y una fuente y una cocina con un sótano debajo.
+Ahora los Ruald venden sal. Sal de las minas de las montañas rojas, que antes iba por el valle y ahora va por el páramo, al oeste de Ullathorpe, y que nadie quería transportar porque el camino es largo y hay orcos que no son de Orac. Los Ruald la transportan. Con carros. Con escolta. Pagan bien. Pagan la décima entera, sin protestar. Se han hecho ricos en veinte años. Tienen una casa en la parte alta de la colina, detrás del palacio, con un patio y una fuente y una cocina con un sótano debajo.
 
 No hacen pan para vender. Pero en la casa vieja, la de la calle del Horno, que no han vendido, con la tienda tapada con tablas, cada mañana sale humo. Un hilo. Para nadie.
 
@@ -128,11 +128,11 @@ Me dijo que no sabía contar tan lejos. Y se rio. Y luego se dejó de reír de g
 
 Lo apunto. Que conste.
 
-* * *
+---
 
 Esto es lo de después.
 
-No es una crónica de batallas. No ha habido. Es una crónica de un hielo que avanza, de una luz en una torre, de unos soldados que no se ríen, de una gnoma que abre y cierra una puerta cada mañana, y de una casa rica en la que alguien hace pan para nadie.
+No es una crónica de batallas. No ha habido. Es una crónica de una ceniza que avanza, de una luz en una torre, de unos soldados que no se ríen, de una gnoma que abre y cierra una puerta cada mañana, y de una casa rica en la que alguien hace pan para nadie.
 
 Mi padre decía que las crónicas de los Vell las escriben los que se van a morir.
 
@@ -144,16 +144,18 @@ Que conste.
 
 *Y. V.*
 
-— | ✦ | —
+---
+
+— —
 
 *Al pie, en otra letra, pequeña, de niño:*
 
 *La cronista dice que el Consejo votó once a ocho. Es verdad. Lo apunté yo.*
 
-*En el debe: ocho que querían ir a buscarlo. En el haber: once que tenían miedo. En la tercera columna, que es la de lo que nadie dice, he apuntado: la doncella no votó. No le dejan. Se tocó la llave.*
+*En el debe: ocho que querían ir a buscarlo. En el haber: once que tenían miedo. En* *la tercera columna, que es la de lo que nadie dice, he apuntado: la doncella no votó. No le* *dejan. Se tocó la llave.*
 
-*Lo de la casa del pan, que no lo apunte. Le he pedido que no. Lo ha apuntado. Su padre lo tachó y ella no. Así son los Vell; uno tacha, el otro no.*
+*Lo de la casa del pan, que no lo apunte. Le he pedido que no. Lo ha apuntado. Su* *padre lo tachó y ella no. Así son los Vell; uno tacha, el otro no.*
 
-*Ya no apunto nada de esa casa en mis libros. Desde el 1212. Lo digo en voz alta, a veces, en el sótano, delante de la masa, y la masa se calla.*
+*Ya no apunto nada de esa casa en mis libros. Desde el 1212. Lo digo en voz alta, a* *veces, en el sótano, delante de la masa, y la masa se calla.*
 
 *S.*

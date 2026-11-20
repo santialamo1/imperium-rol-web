@@ -1,4 +1,4 @@
-## Capítulo 30 · Clarisa
+# Capítulo 30 · Clarisa
 
 *Concordia. Año 136.*
 
@@ -6,11 +6,11 @@ Clarisa de Hinurvald llevaba trece años casada con Henricus Bhargaras y todaví
 
 No era por respeto. Lo sabía. Era miedo, del bueno, del que se cultiva. Las damas de la corte la llamaban «la Loba» a sus espaldas, por el Lobo del Hinur, aquel padre de Hector que todos los niños de Tiber conocían por las canciones, y porque Clarisa había nacido en los valles helados del norte, donde las mujeres cazaban con sus maridos y no se reían de los chistes que no tenían gracia. Era alta, huesuda, con la nariz rota de una caída en el hielo a los siete años y unos ojos azules tan claros que parecían agua de deshielo. No era hermosa. No había querido serlo nunca.
 
-Henricus la había elegido por eso. Se lo dijo la noche de bodas, borracho y feliz: Eres la única mujer de la corte que me mira como si yo fuera un herrero. Clarisa le contestó que es que lo era, y él se rió tanto que se cayó de la cama.
+Henricus la había elegido por eso. Se lo dijo la noche de bodas, borracho y feliz: *Eres la única mujer de la corte que me mira como si yo fuera un herrero.* Clarisa le contestó que es que lo era, y él se rió tanto que se cayó de la cama.
 
 Lo quería. Mucho. Más de lo que nunca le diría. Y por eso, aquella mañana de primavera del año ciento treinta y seis, cuando lord Anselm Druve le pidió audiencia privada en el jardín de los tejos, supo antes de que abriera la boca que iba a tener que destruirlo.
 
-* * *
+---
 
 —Una historia curiosa, majestad —dijo lord Anselm, paseando a su lado entre los setos con las manos a la espalda—. La encontré por casualidad. Ya sabéis que me interesan las crónicas antiguas.
 
@@ -18,11 +18,11 @@ Era un Zelto de sesenta años, fino, de barba gris recortada en punta, con la pi
 
 —Me encantan las historias curiosas, lord Anselm.
 
-—En los archivos de la Guardia Real, de los tiempos del emperador Drolnar, hay un registro de la noche de la quema. Del año ochenta y ocho. Ya sabéis, la Madre renegada, los niños eufesios. —Anselm se detuvo junto a un tejo y acarició una rama—. Un registro muy minucioso. El sargento Kurtz, que lo redactó, era un hombre de números. Anotó cuántos niños había en las jaulas cuando se sacaron del palacio. Y cuántos cuerpos se encontraron en la ceniza de la segunda pira al día siguiente.
+—En los archivos de la Guardia Real, de los tiempos del emperador Drolnar, hay un registro de la noche de la quema. Del año ochenta y ocho. Ya sabéis, la Madre renegada, los niños eufesios. —Anselm se detuvo junto a un tejo y acarició una rama—. Un registro muy minucioso. El sargento Kurtz, que lo dictó a un guardia joven, Teodor Bhargaras, el que lo firmó como testigo, era un hombre de números. Anotó cuántos niños había en las jaulas cuando se sacaron del palacio. Y cuántos cuerpos se encontraron en la ceniza de la segunda pira al día siguiente.
 
 Clarisa no dijo nada.
 
-—Doce y once, majestad. Doce y once. —Anselm sonrió—. Kurtz anotó la diferencia en el margen y escribió: Probablemente uno quemado del todo. Huesos pequeños. Y nadie volvió a mirarlo. Un niño de menos. ¿Qué más daba?
+—Doce y once, majestad. Doce y once. —Anselm sonrió—. Kurtz anotó la diferencia en el margen y escribió: *Probablemente uno quemado del todo. Huesos* *pequeños.* Y nadie volvió a mirarlo. Un niño de menos. ¿Qué más daba?
 
 —Sigo esperando la parte curiosa.
 
@@ -32,7 +32,7 @@ El jardín estaba en silencio. Un mirlo saltó de un tejo a otro.
 
 —¿Qué queréis, lord Anselm?
 
-—Majestad, me ofendéis. —Anselm se llevó una mano al pecho—. Yo no quiero nada. Solo soy un viejo aficionado a las historias. Pero hay otros en el Consejo, menos discretos que yo, que recuerdan todavía lo que dijo el sumo sacerdote en la plaza aquella noche. Si los dejamos vivir, la niebla vivirá en ellos. Y si alguien les contara que la niebla vive en el trono... —Se encogió de hombros—. Bueno. Ya sabéis cómo es el pueblo. Lo que hizo con doce niños.
+—Majestad, me ofendéis. —Anselm se llevó una mano al pecho—. Yo no quiero nada. Solo soy un viejo aficionado a las historias. Pero hay otros en el Consejo, menos discretos que yo, que recuerdan todavía lo que dijo el sumo sacerdote en la plaza aquella noche. *Si los dejamos vivir, la niebla vivirá en ellos.* Y si alguien les contara que la niebla vive en el trono... —Se encogió de hombros—. Bueno. Ya sabéis cómo es el pueblo. Lo que hizo con doce niños.
 
 —¿Y si el príncipe Corvo se casara con vuestra hija?
 
@@ -40,7 +40,7 @@ Anselm sonrió como si ella le hubiera hecho un regalo.
 
 —Entonces, majestad, la historia seguiría siendo un asunto de familia. Y las familias, ya se sabe, guardan sus secretos.
 
-* * *
+---
 
 Clarisa no se lo contó a Henricus.
 
@@ -58,7 +58,7 @@ Clarisa era de los valles del Hinur. Allí también había historias de gente qu
 
 No iba a dejar que se llevaran a su suegra a ninguna montaña. Ni a ninguna pira.
 
-* * *
+---
 
 —Necesito saber todo sobre lord Anselm Druve —le dijo a Ruth, su doncella, una muchacha Mator de los pantanos con la cara llena de pecas y una memoria prodigiosa para los chismes—. Todo. Lo que come. A quién debe dinero. Con quién se acuesta. Qué hace en la Biblioteca.
 
@@ -90,7 +90,7 @@ Clarisa dejó la lista sobre la mesa.
 
 —Entonces tengo que encontrar la manera de que tenga algo que perder.
 
-* * *
+---
 
 Lord Anselm Druve recibió la invitación de la emperatriz tres días después: una cena privada, en los aposentos de la emperatriz, para hablar del compromiso de su hija con el príncipe Corvo. Llegó vestido de terciopelo verde, con un anillo nuevo y una sonrisa que le ocupaba toda la cara.
 
@@ -122,7 +122,7 @@ Anselm se sentó por fin. Las piernas no lo sostenían.
 
 —Una loba. Lo sé. —Clarisa le sirvió vino—. Coma, lord Anselm. Es la última vez que cenará en palacio.
 
-* * *
+---
 
 Lord Anselm Druve cumplió. Devolvió los títulos, pagó las deudas, se retiró a una casa pequeña en las afueras de Concordia y murió cuatro años después sin haber vuelto a hablar de crónicas antiguas. Las cuatro familias campesinas recuperaron sus tierras. Una de ellas puso a su primera nieta el nombre de Clarisa.
 

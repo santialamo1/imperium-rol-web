@@ -1,4 +1,4 @@
-## Capítulo 67 · Sein
+# Capítulo 67 · Sein
 
 *Banderbill. Primavera del año 344 de la Nueva Era.*
 
@@ -38,7 +38,7 @@ El de los buñuelos lo miró como se mira a un loco.
 
 El de los buñuelos le dio un buñuelo, gratis, como se le da algo a un loco para que se vaya. Sein se lo comió. Estaba bueno. Lo apuntó.
 
-* * *
+---
 
 Lindiel tenía veintidós años y era guapo.
 
@@ -52,7 +52,7 @@ No había ninguno sobre la guerra.
 
 No había habido guerra en ciento ochenta y ocho años. ¿Sobre qué iba a escribir?
 
-* * *
+---
 
 —Estás serio —le dijo Tibbet. Por la noche. En la biblioteca. En el rincón del fondo.
 
@@ -60,7 +60,7 @@ El gnomo tenía doscientos noventa y dos años y la cara de uno de ciento cuatro
 
 —No estoy serio —dijo Sein—. Siempre estoy así.
 
-—No. Siempre estás serio como un número. Hoy estás serio como una persona. — Tibbet se subió a la silla de enfrente, de pie, para estar a la altura—. Es distinto.
+—No. Siempre estás *serio como un número*. Hoy estás serio como una persona. — Tibbet se subió a la silla de enfrente, de pie, para estar a la altura—. Es distinto.
 
 Sein no contestó.
 
@@ -72,7 +72,7 @@ Sein no contestó.
 
 —No. —Sein se quitó las gafas. Las limpió—. Es la verdad. No pasa nada. Ese es el problema.
 
-* * *
+---
 
 Abrió el libro de cuentas. El de verdad. No el de la biblioteca, que tenía columnas de sacos de harina y piedras de muro y lo leían los Vell que venían detrás de él, los aprendices, los que se ponían su apellido con el cuaderno. El otro. El que llevaba encima desde el año 30. El que tenía la letra de Casimir en la primera página.
 
@@ -94,7 +94,7 @@ Tibbet ladeó la cabeza.
 
 —Eso es lo que no sé.
 
-* * *
+---
 
 Fue a ver a Lanther a la mañana siguiente.
 
@@ -122,7 +122,7 @@ Lanther se volvió.
 
 —Que no hay ninguno sobre la guerra.
 
-* * *
+---
 
 Hablaron toda la mañana. Como hablaban siempre: sin prisa, con silencios largos, mirando por la ventana. Trescientos años de hablar así. Sein le contó lo del debe. Lanther le contó lo de los pájaros.
 
@@ -130,7 +130,7 @@ Hablaron toda la mañana. Como hablaban siempre: sin prisa, con silencios largos
 
 —¿Por qué?
 
-—No lo saben. Dicen que algo los come. —Lanther se encogió de hombros—. Y los tramperos del Mercado dicen que han visto humo en el oeste. Lejos. Muy lejos. Mucho humo. De muchas hogueras. Pero sin tambores.
+—No lo saben. Dicen que *algo los come*. —Lanther se encogió de hombros—. Y los tramperos del Mercado dicen que han visto humo en el oeste. Lejos. Muy lejos. Mucho humo. De muchas hogueras. Pero sin tambores.
 
 Sein se quedó quieto.
 
@@ -156,13 +156,13 @@ Lanther miró al mar.
 
 —Pim no vive —dijo—. Pim se queda.
 
-* * *
+---
 
 Esa tarde, Sein convocó a la Orden.
 
 No se convocaba casi nunca. No hacía falta. Se veían, se escribían, se dejaban papeles con un palote debajo de las puertas. Pero de vez en cuando, cada cincuenta años, cada cien, había que sentarse a una mesa, todos, y hablar.
 
-Eran siete. Ya no eran tres que saben y uno que suma. Eran siete, más los que no sabían que eran. Lanther. Sein. Wenna, la Fiel, que había subido del Mercado en un carro, quejándose de las mulas, más gorda que nunca. Tibbet. Una elfa de Nix que se llamaba Saelith y que había sustituido a Verawel cuando Verawel se fue a los árboles. Un enano de las montañas grises, Kildo, el que decía piedra, que ahora tenía doscientos años y decía muchas más cosas pero todas sobre piedras. Y Jonas Vell, el aprendiz, el cronista de turno, un muchacho de veinte años con gafas que llevaba el apellido desde hacía tres y que temblaba.
+Eran siete. Ya no eran *tres que saben y uno que suma*. Eran siete, más los que no sabían que eran. Lanther. Sein. Wenna, la Fiel, que había subido del Mercado en un carro, quejándose de las mulas, más gorda que nunca. Tibbet. Una elfa de Nix que se llamaba Saelith y que había sustituido a Verawel cuando Verawel se fue a los árboles. Un enano de las montañas grises, Kildo, el que decía *piedra*, que ahora tenía doscientos años y decía muchas más cosas pero todas sobre piedras. Y Jonas Vell, el aprendiz, el cronista de turno, un muchacho de veinte años con gafas que llevaba el apellido desde hacía tres y que temblaba.
 
 Se sentaron en el sótano de la biblioteca. Alrededor del arcón de pino con el palote.
 
@@ -178,9 +178,9 @@ Sein abrió la boca.
 
 Y se dio cuenta de que no tenía nada que proponer.
 
-* * *
+---
 
-No tenía nada. Eso fue lo que más le asustó de todo. Más que los pájaros. Más que el humo. Llevaba trescientos años proponiendo. Lo propuse yo. Lo había escrito tantas veces en el debe que tenía la frase gastada. Lo de Odo. Lo de Bredinlo. Lo de dejar leer. Lo de los papeles de los viernes. Siempre tenía algo. Un plan. Una cuenta. Una columna.
+No tenía nada. Eso fue lo que más le asustó de todo. Más que los pájaros. Más que el humo. Llevaba trescientos años proponiendo. *Lo propuse yo.* Lo había escrito tantas veces en el debe que tenía la frase gastada. Lo de Odo. Lo de Bredinlo. Lo de dejar leer. Lo de los papeles de los viernes. Siempre tenía algo. Un plan. Una cuenta. Una columna.
 
 Ahora no tenía nada.
 
@@ -202,7 +202,7 @@ Sein se quitó las gafas. Las dejó en la mesa. Se frotó los ojos. Los tenía c
 
 —Porque se me ha acabado el humor —dijo.
 
-* * *
+---
 
 Nadie dijo nada.
 
@@ -210,7 +210,7 @@ Lanther lo miró desde el otro lado de la mesa. Mucho rato. Con aquellos ojos gr
 
 —¿Desde cuándo? —preguntó.
 
-—No lo sé. —Sein se puso las gafas—. Esta mañana me lo he notado. En la coronación. Se le ha caído la corona al obispo tres veces y no me ha hecho gracia. Lo he apuntado. Nada más. Antes me habría reído. Antes habría puesto que conste que se le cayó. Esta vez he puesto tres.
+—No lo sé. —Sein se puso las gafas—. Esta mañana me lo he notado. En la coronación. Se le ha caído la corona al obispo tres veces y no me ha hecho gracia. Lo he apuntado. Nada más. Antes me habría reído. Antes habría puesto *que conste que se le cayó*. Esta vez he puesto *tres*.
 
 —Eso es grave —dijo Tibbet.
 
@@ -228,7 +228,7 @@ Silencio.
 
 El gnomo se sentó.
 
-* * *
+---
 
 No decidieron nada esa tarde.
 
@@ -264,14 +264,13 @@ Lanther también.
 
 —Ahí está —dijo ella.
 
-Sein abrió el libro de cuentas. Por la página de ese día. Debajo de tres.
+Sein abrió el libro de cuentas. Por la página de ese día. Debajo de *tres*.
 
 Y escribió, con su letra de niño, que no había cambiado en trescientos años:
 
-*Me he reído. Una vez. Por los escalones. Que conste.*  
-*Me queda poco. Lo guardo.*
+*Me he reído. Una vez. Por los escalones. Que conste.* *Me queda poco. Lo guardo.*
 
-* * *
+---
 
 Lanther se fue al oeste esa misma noche.
 

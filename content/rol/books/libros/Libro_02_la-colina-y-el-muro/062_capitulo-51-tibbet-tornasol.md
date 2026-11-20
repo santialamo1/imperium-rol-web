@@ -1,4 +1,4 @@
-## Capítulo 51 · Tibbet Tornasol
+# Capítulo 51 · Tibbet Tornasol
 
 *La Colina. Años 141 a 144 de la Nueva Era.*
 
@@ -26,7 +26,7 @@ Tibbet se rió tanto que se cayó de culo.
 
 Eso fue el primer día.
 
-* * *
+---
 
 Al tercer año, la colina ya estaba acostumbrada.
 
@@ -42,7 +42,7 @@ Una bomba de agua que subía el agua del pozo de la plaza sin que nadie tirara d
 
 Y no dijo más.
 
-* * *
+---
 
 A Tibbet le gustaba Sein. Era el único en la colina que no se reía de él ni con él; lo miraba, nada más, por encima de las gafas, como se mira a un número que no cuadra. A Tibbet le gustaba que lo miraran así. Le daba la sensación de ser importante.
 
@@ -84,9 +84,9 @@ Tibbet sonrió. Contó con los dedos. Despacio. Disfrutándolo.
 
 —Tú —dijo—. La señora gorda del mercado de las fuentes, la de la balanza. Y una más. Que viene a veces. Una chica. Pelirroja. Se sienta en la taberna del puerto, en el rincón, con la capucha puesta, y pide sopa y no se la come. —Se rascó la verruga—. Esa huele a tres.
 
-* * *
+---
 
-Sein no le dijo nada. Le dijo: ven mañana.
+Sein no le dijo nada. Le dijo: *ven mañana*.
 
 Tibbet fue mañana. Y en el rincón del fondo de la biblioteca, en la mesa pequeña, había una silla más.
 
@@ -126,7 +126,7 @@ Tibbet se quedó con la boca abierta.
 
 Luego se cayó de espaldas en el suelo de la biblioteca, se puso las manos en la tripa y se rió hasta que le salieron las lágrimas.
 
-* * *
+---
 
 —¿De qué te ríes? —le preguntó Lanther, cuando consiguió parar.
 
@@ -138,7 +138,7 @@ Luego se cayó de espaldas en el suelo de la biblioteca, se puso las manos en la
 
 Lanther se quedó callada.
 
-Sein, en su silla, apuntaba algo. Tibbet lo vio de reojo. Año 143. El gnomo sabe.
+Sein, en su silla, apuntaba algo. Tibbet lo vio de reojo. *Año 143. El gnomo sabe.*
 
 —¿Qué más hueles? —preguntó Lanther.
 
@@ -168,9 +168,9 @@ Tibbet los miró a los dos.
 
 Lanther abrió los ojos. Grises. Como el mar en invierno.
 
-—Porque es mío —dijo—. Mi sangre. Mi nieto del nieto. Y porque es de la colina. Y en esta colina, desde hace ciento cuarenta años, hay una costumbre que yo no he sabido quitar. —Cogió la espada de la mesa—. El emperador, el primero.
+—Porque es mío —dijo—. Mi sangre. Mi nieto del nieto. Y porque es de la colina. Y en esta colina, desde hace ciento cuarenta años, hay una costumbre que yo no he sabido quitar. —Cogió la espada de la mesa—. *El emperador, el primero.*
 
-* * *
+---
 
 Tibbet volvió al puerto esa noche y no encendió ninguna chimenea.
 
@@ -180,7 +180,7 @@ Pensó en el rey. En el día de la playa. En el hombre de cincuenta y siete año
 
 Pensó en la chica que olía a tres.
 
-En el frasquito de barro que le colgaba del cuello. Dormido. Que no es de nadie todavía.
+En el frasquito de barro que le colgaba del cuello. Dormido. *Que no es de nadie* *todavía.*
 
 Y pensó una cosa que no había pensado nunca, en sus noventa y un años de gnomo, que era una edad mediana para un gnomo, ni joven ni vieja. Pensó que los de la colina se morían muy deprisa. Y que eso era lo que los hacía reírse así. Sin querer. Cayéndose de los botes.
 
@@ -190,7 +190,7 @@ Bajó del tejado. Entró en casa. Encendió una chimenea, una sola, pequeña, co
 
 Y se puso a construir algo.
 
-* * *
+---
 
 Tardó un año. Lo terminó en la primavera del 144.
 
@@ -230,7 +230,7 @@ Bhargaras se quedó callado.
 
 —Ya lo sé —dijo Tibbet—. Aquí os ponéis serios y escribís. —Se puso el sombrero—. Yo creo que lo vuestro es mejor. Pero no se lo digas a los míos.
 
-* * *
+---
 
 El rey Andriath salió de la colina el último día del invierno del año 145, con mil ochocientos hombres, cuatrocientos elfos y ochenta gnomos con cristales que zumbaban, hacia el sur. Hacia el bosque de las hojas grandes. Hacia el fuerte quemado.
 

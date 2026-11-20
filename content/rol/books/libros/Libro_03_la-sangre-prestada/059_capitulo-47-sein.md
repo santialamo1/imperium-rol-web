@@ -1,4 +1,4 @@
-## Capítulo 47 · Sein
+# Capítulo 47 · Sein
 
 *La colina de Banderbill. Invierno del año 750 de la Nueva Era (143 D.bA).*
 
@@ -18,7 +18,7 @@ Y a la cuarta vez, con la vela casi acabada, se dio cuenta de que le daba igual.
 
 Eso fue lo que le dio miedo.
 
-* * *
+---
 
 Llevaba setecientos treinta y un años vivo. Setecientos veinte llevando cuentas.
 
@@ -28,7 +28,7 @@ Nunca le habían dado igual tres monedas de cobre.
 
 Nunca.
 
-* * *
+---
 
 Lanther lo encontró a oscuras.
 
@@ -52,7 +52,7 @@ Lanther no dijo nada.
 
 —Me da igual, Lanther. —Sein se quitó las gafas. Se frotó los ojos—. No me ha dado igual nunca. Ni una. En el año 58, cuando me la diste, me preguntaste por qué yo. Por qué un muchacho que sumaba. Y yo te dije que porque alguien tenía que acordarse de lo que costaban las cosas. Que si nadie se acordaba, las cosas no costaban nada. Y si no costaban nada, no valían nada. —Se puso las gafas otra vez—. Y ahora no me acuerdo. No es que no me acuerde. Es que me da igual acordarme.
 
-* * *
+---
 
 —Estás cansado —dijo Lanther.
 
@@ -68,9 +68,9 @@ Lanther no dijo nada.
 
 Lanther se quedó callada mucho rato.
 
-—Quiero parar —dijo Sein—. Quiero acabar el libro cuarenta y uno. Escribir debajo de la suma que no cuadra faltan tres monedas. Firmar. Y parar.
+—Quiero parar —dijo Sein—. Quiero acabar el libro cuarenta y uno. Escribir debajo de la suma que no cuadra *faltan tres monedas*. Firmar. Y parar.
 
-* * *
+---
 
 —No —dijo Lanther.
 
@@ -98,7 +98,7 @@ Sein la miró.
 
 —Sí.
 
-* * *
+---
 
 Se pelearon.
 
@@ -114,9 +114,9 @@ Ella le dijo que entonces no.
 
 Se quedaron mirándola.
 
-* * *
+---
 
-—Había una jarra —dijo Sein. Al rato. Más bajo—. La séptima. La de Loth. Para cuando te canses. La llevabas tú. En el arcón. Debajo de la maceta. —La miró—. Para eso era. Para esto. Para cuando uno de nosotros se cansara.
+—Había una jarra —dijo Sein. Al rato. Más bajo—. La séptima. La de Loth. *Para* *cuando te canses.* La llevabas tú. En el arcón. Debajo de la maceta. —La miró—. Para eso era. Para esto. Para cuando uno de nosotros se cansara.
 
 Lanther tardó en contestar.
 
@@ -136,7 +136,7 @@ Y le dijo la verdad. Porque era Sein. Porque en setecientos años no le había m
 
 —Conoce los años —dijo—. Los de quien la toca. Y te los puede devolver. Todos. De golpe. —Tragó—. Si te la pones en la boca, te mueres. De viejo. En paz. Como se moría la gente antes.
 
-* * *
+---
 
 Sein no dijo nada.
 
@@ -160,7 +160,7 @@ Se quedó mirando las dos mitades de la pluma. Mucho rato.
 
 Luego abrió el libro cuarenta y uno. Por la última página. Por la suma que no cuadraba.
 
-* * *
+---
 
 —¿Dónde está? —dijo.
 
@@ -186,7 +186,7 @@ Sein levantó la vista.
 
 —Aunque no quiera. —A Lanther se le movió la cara—. No te lo voy a impedir. No tengo derecho. Te he dicho que no porque no quiero. Pero si tú quieres, te llevo. Y me siento en la orilla. Y digo la palabra.
 
-* * *
+---
 
 Sein no dijo nada en mucho rato.
 
@@ -210,7 +210,7 @@ Y debajo, en la primera línea:
 
 *Se debe: tres monedas de cobre, a quien sea.*
 
-* * *
+---
 
 —No me voy —dijo. Sin mirarla—. Todavía.
 
@@ -234,7 +234,7 @@ Sein la miró reírse.
 
 Sein pasó las hojas del libro nuevo hasta el final. Hasta la última página. Donde, en todos los libros desde el 703, abría la tercera columna. La de lo que se debía a los árboles.
 
-Escribió, debajo de Verawel. A los árboles. Cuando se acabe, una línea más:
+Escribió, debajo de *Verawel. A los árboles. Cuando se acabe*, una línea más:
 
 *Sein. A la poza de Lindos. Cuando falte algo que ya no importe encontrar.*
 
@@ -244,7 +244,7 @@ Lanther lo leyó.
 
 —Es una cita —dijo Sein—. Con fecha abierta. Las apunto también.
 
-* * *
+---
 
 Se quedaron un rato callados. La vela nueva ardía. Fuera nevaba; en la colina nevaba pocas veces, una cada diez años, y la gente salía a la calle a mirar arriba. Se oía a los niños gritar abajo.
 
@@ -270,15 +270,15 @@ Sein no insistió. Apuntó algo en el libro nuevo. Algo pequeño. En el margen. 
 
 Lo leería mucho después. En el 967. En una sala de la cárcel. Con un niño de trece años que preguntaba demasiado. Ponía:
 
-*Preguntado a L. qué hace cuando nadie la necesite. No contesta. Apuntado para cuando conteste.*
+*Preguntado a L. qué hace cuando nadie la necesite. No contesta. Apuntado para* *cuando conteste.*
 
-* * *
+---
 
 Ella se fue al alba. Por la ventana. Por la escalera de fuera.
 
-Sein se quedó en la silla. Con el libro cuarenta y dos abierto. La primera línea, se debe: tres monedas de cobre, todavía húmeda.
+Sein se quedó en la silla. Con el libro cuarenta y dos abierto. La primera línea, *se* *debe: tres monedas de cobre*, todavía húmeda.
 
-Al mediodía subió el gnomo. Con el sombrero 93. Con la lista. Sin llamar, como siempre.
+Al mediodía subió el gnomo. Con el sombrero *93*. Con la lista. Sin llamar, como siempre.
 
 —Me han dicho que faltan tres monedas —dijo.
 

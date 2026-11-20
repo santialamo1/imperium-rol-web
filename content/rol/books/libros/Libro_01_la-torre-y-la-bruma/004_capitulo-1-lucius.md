@@ -1,10 +1,10 @@
-## Capítulo 1 · Lucius
+# Capítulo 1 · Lucius
 
 *Llanura del Ombligo. Año 1.*
 
 La llanura apestaba a caballo, a sangre vieja y a cerveza agria, que era como olía siempre la paz entre los pueblos del norte y del sur la víspera de que alguien la rompiera.
 
-Lucius Heredicus, caudillo de los Suhon, señor de los bosques de Tiber desde el río Hinur hasta los acantilados de Mator, se rascó la barba bajo la capucha de piel de lobo y contempló las hogueras. Había tres campamentos. El suyo, al norte, con sus tiendas de cuero teñido de verde y sus estandartes del ciervo blanco. El de los Ibaro de Pisor, al sureste, un mar de pieles de oso y de lanzas con punta de hueso de ballena, donde los hombres más altos que Lucius había visto en su vida bebían sangre caliente de reno mezclada con leche. Y el de los Zelto de Gijor, al suroeste, ordenado como un tablero de juego, con sus empalizadas de pino y sus mujeres guerreras de trenzas rubias, que llevaban el hacha a la espalda incluso para orinar.
+Lucius Heredicus, caudillo de los Suhon, señor de los bosques de Tiber desde el río Hinur hasta los acantilados de Mator, se rascó la barba bajo la capucha de piel de lobo y contempló las hogueras. Había tres campamentos. El suyo, al norte, con sus tiendas de cuero teñido de verde y sus estandartes del ciervo blanco. El de los Ibaro de Pisor, al suroeste, un mar de pieles de oso y de lanzas con punta de hueso de ballena, donde los hombres más altos que Lucius había visto en su vida bebían sangre caliente de reno mezclada con leche. Y el de los Zelto de Gijor, al sureste, ordenado como un tablero de juego, con sus empalizadas de pino y sus mujeres guerreras de trenzas rubias, que llevaban el hacha a la espalda incluso para orinar.
 
 Tres pueblos. Tres maneras distintas de matarse. Cuarenta años de guerra entre ellos, desde antes de que Lucius naciera, por los pasos de montaña, por los pastos del centro, por las vetas de hierro y por mil agravios que nadie recordaba ya pero que todos estaban dispuestos a vengar.
 
@@ -46,17 +46,17 @@ A Lucius se le tensó la mandíbula.
 
 —¿Dónde?
 
-—En tu tienda. Te está esperando. Los guardias no la vieron entrar. —Aelia lo miró de reojo—. Lucius. Mi pueblo tiene un dicho: el que acepta un regalo de la niebla, paga con lo que no ve.
+—En tu tienda. Te está esperando. Los guardias no la vieron entrar. —Aelia lo miró de reojo—. Lucius. Mi pueblo tiene un dicho: *el que acepta un regalo de la niebla, paga* *con lo que no ve.*
 
 —Tu pueblo tiene un dicho para todo.
 
 —Porque mi pueblo ha vivido lo suficiente para necesitarlos.
 
-* * *
+---
 
 La mujer estaba sentada en su silla de campaña, junto al brasero, como si fuera la dueña de la tienda y él un invitado tardío. No se levantó cuando Lucius entró. El velo gris la cubría por completo, de la cabeza a los pies, y bajo el lino solo se adivinaba la forma de un cuerpo menudo y la inclinación de una cabeza ladeada, curiosa, como la de un pájaro.
 
-Se hacía llamar Ysh-Amara. Venía de Eufesia, del noroeste, del desierto envuelto en niebla al que ningún Suhon iba nunca porque los que iban no volvían, o volvían cambiados. Había aparecido por primera vez dos lunas atrás, en mitad del invierno, en el campamento de Lucius, con los pies descalzos y secos a pesar de la nieve. Le había dicho cosas que nadie podía saber. Le había dicho cómo iba a morir Marco Tiberius la noche antes de que muriera. Le había hablado de la piedra.
+Se hacía llamar Ysh-Amara. Venía de Eufesia, del noreste, del desierto envuelto en niebla al que ningún Suhon iba nunca porque los que iban no volvían, o volvían cambiados. Había aparecido por primera vez dos lunas atrás, en mitad del invierno, en el campamento de Lucius, con los pies descalzos y secos a pesar de la nieve. Le había dicho cosas que nadie podía saber. Le había dicho cómo iba a morir Marco Tiberius la noche antes de que muriera. Le había hablado de la piedra.
 
 —Caudillo —dijo ahora. Su voz era sorprendentemente joven—. Mañana es la noche.
 
@@ -78,7 +78,7 @@ Lucius se sirvió vino. No le ofreció. Ella nunca bebía ni comía en su presen
 
 Ysh-Amara inclinó la cabeza al otro lado.
 
-—Tres de tu sangre darás a la guerra —recitó—. Y sobre la sangre alzarás la torre, y la torre será tu nombre, y tu nombre durará mil años.
+—*Tres de tu sangre darás a la guerra* —recitó—. *Y sobre la sangre alzarás la* *torre, y la torre será tu nombre, y tu nombre durará mil años.*
 
 —Eso no es un precio. Es una profecía de feria. —Lucius se bebió el vino de un trago—. Tengo tres hijos. Caio, Varo y Lisandro. Los tres ya pelean a mi lado. Los tres van a la guerra cada primavera, como yo fui con mi padre. Si eso es lo que pides, ya lo estoy pagando.
 
@@ -86,9 +86,9 @@ Ysh-Amara inclinó la cabeza al otro lado.
 
 Lo dijo con una dulzura que le erizó el vello de la nuca.
 
-Lucius pensó en la cara de Aelia. En el dicho de su pueblo. Paga con lo que no ve. Pensó en los cuarenta años de guerra, en las aldeas quemadas en los pasos de Gijor, en los niños Ibaro clavados en estacas por los Zelto y en los niños Zelto ahogados en los lagos helados por los Ibaro, en lo que sus propios Suhon habían hecho en Mator el invierno pasado y que él había permitido porque necesitaba que sus hombres lo temieran. Pensó en todo eso, y luego pensó en sus tres hijos, en Caio con su risa ruidosa, en Varo con su mal genio, en Lisandro, el pequeño, que escribía poemas a escondidas y creía que su padre no lo sabía.
+Lucius pensó en la cara de Aelia. En el dicho de su pueblo. *Paga con lo que no ve.* Pensó en los cuarenta años de guerra, en las aldeas quemadas en los pasos de Gijor, en los niños Ibaro clavados en estacas por los Zelto y en los niños Zelto ahogados en los lagos helados por los Ibaro, en lo que sus propios Suhon habían hecho en Mator el invierno pasado y que él había permitido porque necesitaba que sus hombres lo temieran. Pensó en todo eso, y luego pensó en sus tres hijos, en Caio con su risa ruidosa, en Varo con su mal genio, en Lisandro, el pequeño, que escribía poemas a escondidas y creía que su padre no lo sabía.
 
-Ya lo estoy pagando, se dijo. Todos los hombres de esta llanura lo están pagando.
+*Ya lo estoy pagando*, se dijo. *Todos los hombres de esta llanura lo están pagando.*
 
 —Acepto —dijo.
 
@@ -98,7 +98,7 @@ Ysh-Amara se levantó. Era mucho más baja de lo que parecía sentada. Se acerc�
 
 Y luego, sin ruido, salió de la tienda. Cuando Lucius se asomó un instante después, no había nadie en la nieve. Ni siquiera huellas.
 
-* * *
+---
 
 El juramento se hizo al alba, con un cielo bajo de color plomo que amenazaba aguanieve.
 
@@ -134,7 +134,7 @@ Ulf dudó. Era supersticioso, como todos los Ibaro, y Lucius vio en sus ojos un 
 
 No terminó la frase.
 
-La piedra bebió.
+La piedra *bebió*.
 
 Lucius lo sintió en la palma primero: una succión, como la de un ternero hambriento en la ubre. Luego en el brazo, un frío que subía por las venas hacia el hombro, hacia el cuello, hacia el corazón. Le pareció que algo le sacaba el aliento del pecho, que tiraba de su respiración hacia la piedra, y por un instante terrible no pudo inspirar. Vio que Brunhild abría la boca en un grito mudo. Vio que Ulf se ponía gris, gris como la ceniza, y caía de rodillas sin soltar la piedra.
 

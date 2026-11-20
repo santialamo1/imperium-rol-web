@@ -1,4 +1,4 @@
-## Capítulo 73 · Lanther
+# Capítulo 73 · Lanther
 
 *El sótano de la biblioteca de Banderbill. Otoño del año 398 de la Nueva Era.*
 
@@ -16,7 +16,7 @@ La llama del farol era amarilla. Normal. De aceite.
 
 Le gustaba más.
 
-* * *
+---
 
 El primero en bajar fue Tibbet. Con un sombrero de hojas nuevo, el número cuarenta y cuatro, verde, todavía sin mustiar. Se sentó a su lado en el suelo sin decir nada. Olió.
 
@@ -30,7 +30,7 @@ Lanther no contestó.
 
 Luego bajó Wenna. Despacio, de lado, por la escalera estrecha, que no estaba hecha para ella, con un cesto de castañas en el brazo y quejándose de las escaleras, de las mulas, del frío y de que en la colina no sabían asar castañas. Tenía trescientos cuarenta y seis años y la cara de una de cincuenta y la voz de una de cien, y la balanza colgada del cinto, y se sentó en el arcón de pino porque no había otro sitio donde cupiera.
 
-Luego Saelith, la elfa de Nix, que ya no era de Nix porque no había Nix. Delgada, seria, con una cicatriz nueva en el cuello de hacía veinte años. Luego Kildo, el enano, con trescientos y pico años y una barba gris hasta el cinturón, que había salido de la ciudad-cueva tapiada por un túnel que solo conocía él. Luego el cronista de turno, un muchacho de veintidós años que se llamaba Aren y llevaba el apellido Vell desde hacía dos y temblaba igual que había temblado Jonas Vell en su día. Jonas había muerto el invierno anterior, a los setenta y tres, en la mesa de la biblioteca, con la pluma en la mano.
+Luego Saelith, la elfa de Nix, que ya no era de Nix porque no había Nix. Delgada, seria, con una cicatriz nueva en el cuello de hacía veinte años. Luego Kildo, el enano, con trescientos y pico años y una barba gris hasta el cinturón, que había salido de la ciudadcueva tapiada por un túnel que solo conocía él. Luego el cronista de turno, un muchacho de veintidós años que se llamaba Aren y llevaba el apellido Vell desde hacía dos y temblaba igual que había temblado Jonas Vell en su día. Jonas había muerto el invierno anterior, a los setenta y tres, en la mesa de la biblioteca, con la pluma en la mano.
 
 Sein bajó el último.
 
@@ -40,7 +40,7 @@ Se quedó de pie al pie de la escalera.
 
 —Tengo una propuesta —dijo.
 
-* * *
+---
 
 Nadie dijo nada durante un rato.
 
@@ -54,13 +54,13 @@ Nadie dijo nada durante un rato.
 
 Abrió el libro de cuentas. Por una página del año 357. Se la enseñó a todos. A la luz del farol.
 
-Había una columna. La de Nix. Once mil ochocientos. Ciento treinta y nueve.
+Había una columna. La de Nix. *Once mil ochocientos. Ciento treinta y nueve.*
 
-Y al lado, en el margen, la palabra del año 375. ¿Ejército?
+Y al lado, en el margen, la palabra del año 375. *¿Ejército?*
 
 —Lo escribí cuando murió Lindiel —dijo Sein—. Con una interrogación. Es la única interrogación que hay en todo el libro. En trescientos sesenta y ocho años. —Se puso las gafas—. He decidido quitársela.
 
-* * *
+---
 
 —Un ejército —dijo Saelith. Despacio. Como se prueba una palabra en una lengua que no es la tuya—. Ya hay un ejército.
 
@@ -76,7 +76,7 @@ Sein abrió el libro por una página en blanco.
 
 —Un ejército que se pague solo —dijo.
 
-* * *
+---
 
 Lo explicó durante una hora. Con números. Lanther lo escuchó con los ojos cerrados, con la espalda contra la pared, y vio los números pasar por detrás de los párpados como pasaban de pequeña las letras de los cuadernos de Loth.
 
@@ -102,7 +102,7 @@ Wenna lo miró mucho rato.
 
 —Por eso. —Sein cerró el libro—. Porque el Mercado es el único sitio de este mundo donde se sabe lo que pesa un arma. Si lo paga el Mercado, el ejército sabrá lo que pesa. Cada mes. Cada vez que cobre. Sabrá de dónde viene la plata: de los que no levantan armas. Y para qué.
 
-* * *
+---
 
 Hubo un silencio largo. Las castañas de Wenna se enfriaban en el cesto.
 
@@ -122,7 +122,7 @@ Lanther abrió los ojos.
 
 Todos se volvieron hacia ella.
 
-* * *
+---
 
 Les contó el oeste.
 
@@ -138,7 +138,7 @@ Y que no había vuelto Pim.
 
 Había vuelto Ithil.
 
-* * *
+---
 
 —Me encontró él a mí —dijo Lanther—. No yo a él. Entró en la cueva una noche. Con veinte elfos. Con la cara pintada de negro. Con los ojos... —Se detuvo—. Los ojos habían dejado de ser verdes. Se le estaban poniendo blancos. Como la sal.
 
@@ -172,7 +172,7 @@ Sein bajó la vista.
 
 —Que ya lo sabía. —Lanther cerró los ojos otra vez—. Que no le importaba.
 
-* * *
+---
 
 El silencio fue largo. Lo rompió el gnomo.
 
@@ -186,7 +186,7 @@ Todos lo miraron.
 
 —Puede. —Tibbet se encogió de hombros—. Pero tardará más. Y mientras tarda, a lo mejor aprende a reírse. Los de la colina aprenden a reírse de todo. Hasta de la guerra. Lo he visto. Lo vi en un círculo de piedras rojas.
 
-* * *
+---
 
 Votaron.
 
@@ -234,7 +234,7 @@ Lanther abrió los ojos.
 
 —Lo apunto. —Sein abrió el libro—. Lo propuse yo.
 
-* * *
+---
 
 Lanther se levantó. Le crujieron las rodillas, que no envejecían, pero que llevaban cuatrocientos años doblándose.
 
@@ -262,15 +262,15 @@ Sein la miró.
 
 Luego lo escribió. Con su letra de niño, que no había cambiado en cuatrocientos años.
 
-*Armada. Imperial. Paga el Mercado. Una de cada diez.*  
-*Lo propuse yo.*  
-*La nombró ella.*
+*Armada. Imperial. Paga el Mercado. Una de cada diez.*
+
+*Lo propuse yo.* *La nombró ella.*
 
 Y debajo, más pequeño:
 
 *Me he acordado de reírme. No me he reído. Pero me he acordado.*
 
-* * *
+---
 
 El papel apareció en la pila de los viernes tres semanas después. El treinta y uno de cuarenta y seis.
 

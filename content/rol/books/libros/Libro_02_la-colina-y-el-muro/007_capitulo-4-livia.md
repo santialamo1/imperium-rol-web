@@ -1,10 +1,10 @@
-## Capítulo 4 · Livia
+# Capítulo 4 · Livia
 
 *Al pie de las montañas negras. Primavera del año 27.*
 
 La cuerda tenía trescientos sesenta y cinco nudos y Livia la había hecho con sus propias manos, en el invierno del año diecinueve, con cáñamo de los fiordeños y una paciencia que la gente de la colina confundía con frialdad.
 
-No era frialdad. Era método. Lo había aprendido de un hombre que se llamaba Lisandro y que había muerto antes de que ella naciera, a través de tres cuadernos que Tobías guardaba en el arcón de pino y que ella había leído once veces. Si quieres saber algo de verdad, mídelo. Si no puedes medirlo, cuéntalo. Si no puedes contarlo, escríbelo. Y si no puedes escribirlo, cállate hasta que puedas.
+No era frialdad. Era método. Lo había aprendido de un hombre que se llamaba Lisandro y que había muerto antes de que ella naciera, a través de tres cuadernos que Tobías guardaba en el arcón de pino y que ella había leído once veces. *Si quieres saber* *algo de verdad, mídelo. Si no puedes medirlo, cuéntalo. Si no puedes contarlo, escríbelo. Y* *si no puedes escribirlo, cállate hasta que puedas.*
 
 Así que medía.
 
@@ -12,11 +12,7 @@ Cada mañana, al alba, subía a la roca plana que había detrás de su casa, a d
 
 Hacía ocho años que lo hacía. El cuaderno de corteza tenía ya cuatro tomos. Y en los cuatro tomos, las muescas contaban la misma historia, con la monotonía exasperante de las cosas verdaderas.
 
-*Año 19: seis respiraciones entre latido y latido.*
-
-*Año 22: cinco y media.*  
-*Año 25: cinco.*  
-*Año 26, otoño: cuatro y media.*
+*Año 19: seis respiraciones entre latido y latido.* *Año 22: cinco y media.* *Año 25: cinco.* *Año 26, otoño: cuatro y media.*
 
 Esa mañana, la del día siguiente al Consejo de los braseros, se sentó en la roca, puso la mano, cogió la cuerda, y esperó.
 
@@ -36,7 +32,7 @@ Abrió el cuaderno. Mojó la pluma de ganso en el tintero de hueso que llevaba c
 
 Debajo, después de pensarlo un rato:
 
-*Antes tardaba tres años en perder media respiración. Ahora ha perdido media en un invierno.*
+*Antes tardaba tres años en perder media respiración. Ahora ha perdido media en* *un invierno.*
 
 Debajo, todavía más pequeño:
 
@@ -44,7 +40,7 @@ Debajo, todavía más pequeño:
 
 No escribió cuál de las dos creía. No lo sabía. Y Lisandro decía que lo que no se sabe no se escribe, se pregunta.
 
-* * *
+---
 
 Vivía sola desde el año catorce.
 
@@ -58,7 +54,7 @@ Al pie de la montaña, sola, solo oía la piedra. Era más fácil. La piedra no 
 
 O eso había creído durante trece años.
 
-* * *
+---
 
 Después de medir, bajó a la casa, encendió el fuego, se hizo unas gachas con agua y sal, se las comió de pie, mirando por la ventana. Luego cogió el zurrón, el cuaderno de corteza, un pedazo de pan de Ruald del día anterior, un martillo de cantero pequeño y una bolsa de lona para muestras, y salió hacia las vetas.
 
@@ -82,7 +78,7 @@ Y entonces, desde lo alto de la garganta, una voz dijo:
 
 —Anwe.
 
-* * *
+---
 
 Livia no gritó. No era de las que gritaban. Pero se le cayó el cuaderno de corteza de las manos, y el tintero de hueso se le desenganchó del cinturón y se rompió contra la roca, y la tinta negra se derramó por la piedra negra y se metió en la veta blanca como sangre en una herida.
 
@@ -108,13 +104,13 @@ Silencio. Por primera vez en ocho años. La montaña, callada, esperando.
 
 —No me llamo así —dijo Livia.
 
-Le salió la voz firme. No supo de dónde. Quizá de Mara, que le había enseñado a hablar firme en la Tozuda, a los nueve años, cuando se quedó sin padre. Cuando tengas miedo, habla como si estuvieras dando una orden. El miedo se asusta.
+Le salió la voz firme. No supo de dónde. Quizá de Mara, que le había enseñado a hablar firme en la *Tozuda*, a los nueve años, cuando se quedó sin padre. *Cuando tengas* *miedo, habla como si estuvieras dando una orden. El miedo se asusta.*
 
 La figura inclinó la cabeza. Un movimiento muy leve, muy lento, como de pájaro.
 
 —Me llamo Livia —dijo Livia—. Livia Heredicus. Hija de Darian. Nieta de…
 
-Se calló. No sabía por qué había empezado a decir su linaje. Era una cosa que no hacía nunca. Pero la figura había reaccionado a la palabra Heredicus: un estremecimiento, una sacudida de todo el manto de sal, como si le hubieran dado un golpe.
+Se calló. No sabía por qué había empezado a decir su linaje. Era una cosa que no hacía nunca. Pero la figura había reaccionado a la palabra *Heredicus*: un estremecimiento, una sacudida de todo el manto de sal, como si le hubieran dado un golpe.
 
 Y luego, muy despacio, la figura empezó a levantar una mano hacia el velo.
 
@@ -130,7 +126,7 @@ Se agachó. Cogió el cuaderno de corteza del suelo, empapado de tinta. Se lo ap
 
 —No he venido por ti. Vete.
 
-Era lo que decía Bander. Te oigo. Vete. Era lo que se les decía a los muertos para soltarlos. No sabía si servía para esto. Pero era lo único que tenía.
+Era lo que decía Bander. *Te oigo. Vete.* Era lo que se les decía a los muertos para soltarlos. No sabía si servía para esto. Pero era lo único que tenía.
 
 Hubo un silencio largo.
 
@@ -142,32 +138,31 @@ Y la montaña volvió a latir.
 
 Uno. Dos, tres, cuatro. Uno.
 
-* * *
+---
 
 Bajó a la casa corriendo. Se torció un tobillo en el arroyo y siguió corriendo. Entró, echó la tranca, se apoyó en la puerta y se quedó así mucho tiempo, respirando, contando sus respiraciones como contaba los latidos de la montaña, hasta que dejaron de ir tan deprisa.
 
 Luego encendió una vela, porque aunque era mediodía en la casa hacía oscuro, y abrió el cuaderno.
 
-La tinta había empapado las últimas páginas. Las letras de la mañana —cuatro— se habían corrido hasta convertirse en manchas negras con forma de nada. Livia pasó a una página limpia. Se dio cuenta de que no tenía tintero. Cogió un tizón apagado de la chimenea y escribió con el carbón, con letra temblorosa, la primera letra temblorosa que había escrito en su vida.
+La tinta había empapado las últimas páginas. Las letras de la mañana —*cuatro*— se habían corrido hasta convertirse en manchas negras con forma de nada. Livia pasó a una página limpia. Se dio cuenta de que no tenía tintero. Cogió un tizón apagado de la chimenea y escribió con el carbón, con letra temblorosa, la primera letra temblorosa que había escrito en su vida.
 
-*Hoy he visto una de ellas.*  
-*Mujer. Alta. Vestida de sal. Velo. Trenzas que se mueven.*  
-*Me ha llamado por el nombre.*  
-*Por el otro.*
+*Hoy he visto una de ellas.*
+
+*Mujer. Alta. Vestida de sal. Velo. Trenzas que se mueven.* *Me ha llamado por el nombre.* *Por el otro.*
 
 Se quedó mirando la página.
 
-El otro nombre. El que le había dado Bander en la cubierta de la Tozuda, con nueve años, la noche de la caída. El que solo sabían Bander y Mara y Tobías. Ni siquiera ella sabía qué quería decir; Bander le había dicho que se lo inventó, que era una palabra que había oído en boca de los muertos de la cripta toda su vida, sin entenderla. Ella lo había aceptado. Era un abrigo. Los abrigos no necesitan significar nada. Solo tienen que ser tuyos.
+El otro nombre. El que le había dado Bander en la cubierta de la *Tozuda*, con nueve años, la noche de la caída. El que solo sabían Bander y Mara y Tobías. Ni siquiera ella sabía qué quería decir; Bander le había dicho que se lo inventó, que era una palabra que había oído en boca de los muertos de la cripta toda su vida, sin entenderla. Ella lo había aceptado. Era un abrigo. Los abrigos no necesitan significar nada. Solo tienen que ser tuyos.
 
 Y desde el año veinte, de noche, la montaña la llamaba con él.
 
-Se lo había dicho a Tobías, a Mara, a Orla, y la colina pensaba que eran los nervios de una mujer sola. Pero ahora alguien —algo— la había llamado con él a la luz del día. A la cara. Y había reaccionado al oír Heredicus.
+Se lo había dicho a Tobías, a Mara, a Orla, y la colina pensaba que eran los nervios de una mujer sola. Pero ahora alguien —algo— la había llamado con él a la luz del día. A la cara. Y había reaccionado al oír *Heredicus*.
 
 Las manos de Lucius, decía Tobías. La mano que puede sacar el clavo. La última mano Heredicus del mundo. Eso era ella. No una mujer sola que medía latidos con una cuerda. Una mano. Una herramienta. Algo que alguien, en algún sitio, estaba buscando.
 
 Se acordó de una frase de los cuadernos de Lisandro. La había subrayado ella misma, a los quince años, con mucha rabia, sin entenderla del todo:
 
-*La mano no elige. La mano es elegida. Lo único que puede elegir la mano es qué hace cuando la ponen en la piedra.*
+*La mano no elige. La mano es elegida. Lo único que puede elegir la mano es qué* *hace cuando la ponen en la piedra.*
 
 Cerró el cuaderno.
 

@@ -1,4 +1,4 @@
-## Capítulo 71 · Nimrath
+# Capítulo 71 · Nimrath
 
 *Tawarsinan. Invierno del año 358 de la Nueva Era.*
 
@@ -26,7 +26,7 @@ No era asco. No era miedo.
 
 Era otra cosa. Más fría.
 
-* * *
+---
 
 Llegaron al décimo día. Como había dicho el de las gafas.
 
@@ -40,7 +40,7 @@ No de miedo. De pisadas. Miles. En filas. A paso. Todos a la vez. Nimrath lo not
 
 Y luego los vio.
 
-* * *
+---
 
 Salían de entre los árboles blancos como sale el agua de una presa rota. Pero ordenada. En filas. Rectas. De cien en fondo. Con escudos grandes de cuero, pegados unos a otros como escamas. Con lanzas. Con el estandarte negro delante, con un círculo blanco y una raya.
 
@@ -52,13 +52,13 @@ Tenían los ojos tapados.
 
 Nimrath tardó en verlo. Una tira de cuero negro. Atada a la cabeza. Con dos rendijas finas a la altura de los ojos, que solo dejaban ver hacia delante y hacia abajo. Todos. Miles.
 
-No miréis hacia arriba, les habían enseñado. Lo supo luego. Se lo dijo el de las gafas. Nunca. Cuando matéis. Cuando muráis. Cuando os canten.
+*No miréis hacia arriba*, les habían enseñado. Lo supo luego. Se lo dijo el de las gafas. *Nunca. Cuando matéis. Cuando muráis. Cuando os canten.*
 
 —¿Qué es eso? —preguntó alguien a su lado. En voz alta. Sin darse cuenta.
 
 Nadie le contestó.
 
-* * *
+---
 
 Los sabios bajaron a la plaza.
 
@@ -76,9 +76,9 @@ Y luego, en las plataformas, en los puentes, en las escaleras, uno a uno, al pri
 
 Hacia arriba. Con amor. Después de tres mil años.
 
-Y los humanos de la plaza, los ciento treinta, que no sabían cantar como los elfos, se pusieron a gritarlos. Los suyos. Los de Nix. Los once mil. ¡Dax!, gritaba una muchacha de pelo castaño con una ballesta gnoma, al lado de Nimrath. ¡Dax! ¡Dax!
+Y los humanos de la plaza, los ciento treinta, que no sabían cantar como los elfos, se pusieron a gritarlos. Los suyos. Los de Nix. Los once mil. *¡Dax!*, gritaba una muchacha de pelo castaño con una ballesta gnoma, al lado de Nimrath. *¡Dax! ¡Dax!*
 
-* * *
+---
 
 Funcionó.
 
@@ -90,7 +90,7 @@ Uno de los dos dijo algo. En su lengua. Una palabra. Mirando arriba.
 
 Y se le salió de la boca algo blanco, fino, como el aliento en invierno, y subió.
 
-* * *
+---
 
 Pero detrás venían otros.
 
@@ -108,7 +108,7 @@ No era un nombre de nadie de la ciudad. Nimrath lo supo enseguida. No tiraba de 
 
 Tiraba del suelo.
 
-* * *
+---
 
 La ciudad tembló.
 
@@ -132,7 +132,7 @@ Y Nimrath la oyó decir, en voz alta, con la voz rota, una sola cosa. En la leng
 
 Luego se cayó al suelo.
 
-* * *
+---
 
 Lo que pasó después lo contó Nimrath muchas veces. En muchos sitios. A lo largo de muchos años. Y nunca lo contó igual, porque nunca supo exactamente qué había visto.
 
@@ -152,7 +152,7 @@ No la vio caer al suelo. Ithil lo cogió del brazo y tiró de él.
 
 Era su sobrina. La hija de su hermana. Se llamaba Elen. Tenía once años élficos, que eran como cuatro de los humanos.
 
-* * *
+---
 
 —¡Las raíces! —gritaba alguien. El de las gafas. Desde la plaza—. ¡Por las raíces! ¡Al oeste! ¡El árbol hueco! ¡Hay un árbol hueco sobre el río!
 
@@ -164,7 +164,7 @@ Ithil delante. Nimrath detrás, con el arco vacío. Y detrás de él, la muchach
 
 *Lithiel. Lithiel. Lithiel.*
 
-* * *
+---
 
 En el laberinto de raíces, a oscuras, Nimrath se paró un momento.
 
@@ -190,13 +190,13 @@ El de las gafas estaba a su lado. En la oscuridad. Con el cuaderno contra el pec
 
 El de las gafas no contestó. Siguió andando.
 
-* * *
+---
 
 Salieron al río por el árbol hueco al amanecer.
 
 Eran sesenta y tres. De ciento treinta humanos y no sabía cuántos miles de elfos.
 
-Sesenta y tres. Elfos, la mayoría. Unos pocos humanos. Dos gnomos. El enano, que ya no decía piedra. No decía nada.
+Sesenta y tres. Elfos, la mayoría. Unos pocos humanos. Dos gnomos. El enano, que ya no decía *piedra*. No decía nada.
 
 Se quedaron en la orilla. Mirando hacia el este. Hacia donde había estado Tawarsinan.
 
@@ -208,7 +208,7 @@ Picos. Miles. De hierro.
 
 Picando.
 
-* * *
+---
 
 Nimrath se sentó en la orilla. Con los pies en el agua. Que estaba fría.
 
@@ -222,11 +222,11 @@ Nadie le contestó.
 
 El elfo viejo del sombrero estaba sentado en una piedra, un poco más allá, con un cuaderno en las rodillas. Escribiendo. Con la mano temblando. Nimrath lo vio escribir la pregunta. Su pregunta. Palabra por palabra.
 
-*¿Qué clase de magia puede enceguecerlos tanto como para haber asesinado brutalmente a tanto elfo y humano inocente?*
+*¿Qué clase de magia puede enceguecerlos tanto como para haber asesinado* *brutalmente a tanto elfo y humano inocente?*
 
 Y debajo no escribió la respuesta.
 
-* * *
+---
 
 Ithil se levantó al anochecer.
 

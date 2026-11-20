@@ -1,6 +1,6 @@
-## Capítulo 1 · Lanther
+# Capítulo 1 · Lanther
 
-*Las lomas del suroeste y la casa del puerto de Banderbill. Primavera del año 498 de la Nueva Era.*
+*Las lomas del noreste y la casa del puerto de Banderbill. Primavera del año 498 de* *la Nueva Era.*
 
 El brezo estaba en flor, y eso fue lo primero que le molestó.
 
@@ -18,11 +18,11 @@ Lanther no contestó. Se agachó. Arrancó una ramita de brezo. La olió.
 
 Olía a miel y a tierra. Como siempre. Y a algo más, por debajo, muy poco, que no supo nombrar y que le hizo pensar, sin saber por qué, en una cocina.
 
-* * *
+---
 
 Llevaban dos días en las lomas.
 
-Habían salido de la colina por la puerta del sur, la de los carros, antes del alba, sin decírselo a nadie más que a Sein, que no había levantado los ojos del libro y había dicho llévate pan. Habían bajado por el camino del oeste hasta la primera fuente, y allí se habían salido del camino y habían tirado hacia el suroeste, por las lomas, sin camino, entre el brezo, hacia los acantilados.
+Habían salido de la colina por la puerta del este, la de los carros, antes del alba, sin decírselo a nadie más que a Sein, que no había levantado los ojos del libro y había dicho *llévate pan*. Habían bajado por el camino de la costa hasta la primera fuente, y allí se habían salido del camino y habían tirado hacia el noreste, por las lomas, sin camino, entre el brezo, hacia los acantilados.
 
 Las lomas eran como Lanther las recordaba. Suaves, redondas, una detrás de otra, como un mar de color morado que se hubiera quedado quieto. Había piedras grises sueltas. Había ovejas, más de las que recordaba. Había, en las vaguadas, fuentecillas con un hilo de agua y un poco de junco. Había alondras.
 
@@ -44,7 +44,7 @@ Wenna pensó.
 
 Lanther no contestó. Siguió andando.
 
-* * *
+---
 
 Al mediodía del segundo día pararon en una casa.
 
@@ -80,7 +80,7 @@ Lanther le dio una moneda de plata. La mujer la cogió sin mirarla. Le dio las g
 
 —Nadie lo sabía. —La mujer sonrió—. Lo encontraron los nuestros. Hace años. Es una suerte.
 
-* * *
+---
 
 Al salir, Lanther se paró en la puerta.
 
@@ -96,19 +96,19 @@ Este niño la miraba a ella. Solo a ella. Sin parpadear.
 
 —Sí —dijo la mujer—. No llora nunca.
 
-* * *
+---
 
 Durmieron esa noche en lo alto de una loma, al raso, con el fuego pequeño, porque Lanther no quiso pedir techo en ninguna casa. Wenna protestó por el frío, por el suelo y por la falta de cena caliente, y luego se durmió y roncó, y Duquesa roncó también, y Lanther se quedó despierta.
 
 Desde allí se veía la colina.
 
-Al noreste. Muy cerca. No tanto como para ver las casas, pero sí las luces: la muralla con sus antorchas, la torre del palacio, el faro del puerto. Las lámparas de los gnomos, que se apagaban solas desde el 440 y que todavía no se habían apagado porque era de noche. La colina parecía un barco grande, varado en la oscuridad, con las luces de cubierta encendidas.
+Al suroeste. Muy cerca. No tanto como para ver las casas, pero sí las luces: la muralla con sus antorchas, la torre del palacio, el faro del puerto. Las lámparas de los gnomos, que se apagaban solas desde el 440 y que todavía no se habían apagado porque era de noche. La colina parecía un barco grande, varado en la oscuridad, con las luces de cubierta encendidas.
 
-Lanther se acordó de lo que había dicho la niña. Lo que tarda una niña en ir andando a llevarle leche a alguien.
+Lanther se acordó de lo que había dicho la niña. *Lo que tarda una niña en ir* *andando a llevarle leche a alguien.*
 
 Una hora. Dos. Una mañana, como mucho.
 
-Se volvió hacia el otro lado. Hacia el suroeste. Hacia donde la mujer había señalado con la barbilla.
+Se volvió hacia el otro lado. Hacia el noreste. Hacia donde la mujer había señalado con la barbilla.
 
 No había nada. Lomas, oscuras. El brezo, sin color. Más allá, una línea más negra, que era el mar, o los acantilados. Ninguna luz. Ni un fuego de pastor. Ni una lámpara.
 
@@ -120,7 +120,7 @@ Lanther se quedó mirando esa oscuridad mucho rato. No había nada que ver. Era 
 
 Después se tumbó boca arriba en el brezo, como de pequeña, y el brezo olía a miel y a tierra y a una cocina, y no se durmió.
 
-* * *
+---
 
 Al día siguiente fueron hacia allí.
 
@@ -150,7 +150,7 @@ No es que no quisiera. Es que no pudo. Wenna tiró del ronzal, la empujó, le ha
 
 Lanther bajó sola.
 
-* * *
+---
 
 La hondonada era más grande de lo que parecía desde arriba. Tardó un rato en llegar al fondo. El brezo, allí, estaba más alto y más verde que en las lomas, y tenía la flor más oscura, casi negra, y cuando lo rozaba con las piernas soltaba un polvo que no era polen y que olía a hierro.
 
@@ -182,21 +182,21 @@ Ni siquiera el silencio que oyen los que escuchan mucho. Nada. Como si la piedra
 
 Lanther quitó la mano.
 
-Se levantó. Miró la charca, que no la reflejaba. Miró las crestas, donde Wenna era un punto y la mula otro. Miró al suroeste, hacia el mar.
+Se levantó. Miró la charca, que no la reflejaba. Miró las crestas, donde Wenna era un punto y la mula otro. Miró al noreste, hacia el mar.
 
 Y se fue.
 
-* * *
+---
 
 Lo apuntó Sein, años después, en el debe. Lo apuntó con la letra de cuando le temblaba la mano, que no le temblaba casi nunca, y en la columna de las cosas que había hecho mal él, no ella, porque ella no estaba en su libro para las cosas mal hechas.
 
-*Año 498. La reina bajó a la hondonada. Puso la mano en la piedra. No oyó nada. Volvió y me dijo «no hay nada». Y yo no le pregunté lo único que tenía que preguntarle, que era: ¿y desde cuándo no se oye nada en una piedra?*
+*Año 498. La reina bajó a la hondonada. Puso la mano en la piedra. No oyó nada.* *Volvió y me dijo «no hay nada». Y yo no le pregunté lo único que tenía que preguntarle,* *que era: ¿y desde cuándo no se oye nada en una piedra?*
 
 *No lo pregunté porque estaba contento de que no hubiera nada.*
 
 *Lo apunto aquí. En el debe. Ciento nueve años.*
 
-* * *
+---
 
 La casa del puerto no había cambiado en doscientos años, que era lo que llevaba Lanther sin dejar que nadie la cambiara.
 
@@ -226,7 +226,7 @@ Sein seguía sin volverse. Tenía cuatrocientos setenta y nueve años y la cara 
 
 Sein se volvió. La miró por encima de las gafas.
 
-—Has dicho dos —dijo— y te has ido tres días a las lomas. Y vuelves y dices nada. —Se quitó las gafas—. Te conozco desde que tenías dieciocho años. Ahora también tienes dieciocho. Cuando dices nada así, con la boca cerrada al final, es que hay algo y no sabes el qué.
+—Has dicho *dos* —dijo— y te has ido tres días a las lomas. Y vuelves y dices *nada*. —Se quitó las gafas—. Te conozco desde que tenías dieciocho años. Ahora también tienes dieciocho. Cuando dices *nada* así, con la boca cerrada al final, es que hay algo y no sabes el qué.
 
 —Hay un niño que no llora.
 
@@ -240,7 +240,7 @@ Sein no dijo nada. Se puso las gafas. Abrió el libro. Pasó páginas. Muchas. H
 
 —Hierro rojo.
 
-—Doscientas lámparas en el 329. Pagadas en hierro rojo que olía a hambre. Otras doscientas en el 331. Y doce barriles. —Leía sin mirarla. De memoria; el libro lo tenía delante por costumbre—. Tibbet lo apuntó en su lista. Cosas que no han pasado. Uno. Hace ciento setenta años.
+—Doscientas lámparas en el 329. Pagadas en hierro rojo que olía a hambre. Otras doscientas en el 331. Y doce barriles. —Leía sin mirarla. De memoria; el libro lo tenía delante por costumbre—. Tibbet lo apuntó en su lista. *Cosas que no han pasado. Uno.* Hace ciento setenta años.
 
 —Lo sé.
 

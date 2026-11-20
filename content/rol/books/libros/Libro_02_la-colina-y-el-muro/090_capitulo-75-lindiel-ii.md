@@ -1,4 +1,4 @@
-## Capítulo 75 · Lindiel II
+# Capítulo 75 · Lindiel II
 
 *Banderbill. Años 399 y 400 de la Nueva Era.*
 
@@ -10,7 +10,7 @@
 
 Lindiel II se casó a los cincuenta años con una elfa que no lo quería, y fue lo mejor que hizo en su vida, y tardó un año entero en entender por qué.
 
-* * *
+---
 
 Se llamaba Aeloen. Era de Tawarsinan.
 
@@ -34,13 +34,13 @@ Lindiel II se sentó en el suelo. Al otro lado del arcón.
 
 Ella le pasó el cuaderno.
 
-* * *
+---
 
 Hablaron poco, esa noche y las siguientes. Ella no hablaba casi. Él tampoco; había heredado de su padre el poema que no se da y de su abuelo la costumbre de escuchar. Se sentaban en el suelo del sótano, a los dos lados del arcón, y se pasaban el cuaderno, y leían en silencio.
 
 Una noche, ella habló.
 
-—Esta página —dijo. La tachada. La que copió Amael—. Serás él si guardas por miedo. ¿Qué quiere decir?
+—Esta página —dijo. La tachada. La que copió Amael—. *Serás él si guardas por* *miedo.* ¿Qué quiere decir?
 
 —No lo sé.
 
@@ -60,7 +60,7 @@ Silencio.
 
 —Me vuelvo él.
 
-* * *
+---
 
 Le pidió que se casara con él tres meses después.
 
@@ -90,7 +90,7 @@ Aeloen lo miró mucho rato.
 
 —Lo sé. —Lindiel II le cogió la mano. Fría. De elfa—. Por eso te lo pido a ti. No a otra. A ti. Porque tú sabes lo que cuesta. Y lo vas a guardar sin miedo.
 
-* * *
+---
 
 Se casaron en la primavera del 399. En la plaza. Con el muro cantando bajito.
 
@@ -112,7 +112,7 @@ Luego, despacio, le tendió la mano. A la manera de los humanos.
 
 Y se la estrechó.
 
-* * *
+---
 
 Arthal nació en el invierno del año 400. El segundo de su nombre.
 
@@ -142,7 +142,7 @@ Lindiel II la miró.
 
 —Arthal se llamaba un Emperador —dijo—. El noveno. El padre de mi tatarabuelo.
 
-—Lo sé. —Aeloen no levantó la vista del niño—. Arthal en la lengua vieja quiere decir el que sube. —Hizo una pausa—. No lo sabía él. Se lo puso alguien que no hablaba la lengua vieja. Por casualidad.
+—Lo sé. —Aeloen no levantó la vista del niño—. Arthal en la lengua vieja quiere decir *el que sube*. —Hizo una pausa—. No lo sabía él. Se lo puso alguien que no hablaba la lengua vieja. Por casualidad.
 
 —¿Y ahora?
 
@@ -160,7 +160,7 @@ Y vio que Aeloen lloraba. Sin ruido. Como lloran los elfos. Con las lágrimas ca
 
 —A Ithil. —Lo miró—. Esta noche. Cuando ha salido. Lo he soltado. No sé cómo. No lo he decidido. Ha salido el niño y se ha ido Ithil. De aquí. —Se tocó el pecho—. Como si solo hubiera sitio para uno.
 
-* * *
+---
 
 La Armada desfiló por primera vez en la plaza de la colina dos semanas después.
 
@@ -188,9 +188,9 @@ Hacia el cielo. Un momento. Sin tira de cuero.
 
 Y sonreír.
 
-Lindiel II la conoció. No sabía de qué. Luego lo supo: de un informe. Dalla Hask, de Nix. Superviviente. Instructora. Lleva la gubia de su novio.
+Lindiel II la conoció. No sabía de qué. Luego lo supo: de un informe. *Dalla Hask,* *de Nix. Superviviente. Instructora. Lleva la gubia de su novio.*
 
-* * *
+---
 
 El silencio duró un rato largo.
 
@@ -216,20 +216,20 @@ Lindiel II no gritó. Estaba mirando a Érandiul. Al viejo de quinientos y pico 
 
 Y Lindiel II, desde el pilón, a cincuenta pasos, lo vio llorar.
 
-* * *
+---
 
 Esa noche, en la biblioteca, en el rincón del fondo, un hombre de unos cuarenta años con gafas abrió el libro de cuentas por la página de ese día.
 
 Escribió:
 
-*Año 400. Desfile. Tres mil. Una de cada diez piedritas del Mercado. Primera vez que se grita. Lo gritó el elfo.*
+*Año 400. Desfile. Tres mil. Una de cada diez piedritas del Mercado. Primera vez* *que se grita. Lo gritó el elfo.*
 
 Y en el debe, enfrente, después de mirar mucho rato la página:
 
-*Ya no son granjeros. Ya no se pueden volver granjeros.*  
+*Ya no son granjeros. Ya no se pueden volver granjeros.*
+
 *Lo propuse yo.*
 
 Y al lado, en otra letra, una letra grande y torcida, de alguien que escribía poco y apretaba demasiado la pluma, alguien había escrito, esa misma noche, sin que Sein la viera llegar:
 
-*Y la nombré yo. Que conste.*  
-*L.*
+*Y la nombré yo. Que conste.* *L.*

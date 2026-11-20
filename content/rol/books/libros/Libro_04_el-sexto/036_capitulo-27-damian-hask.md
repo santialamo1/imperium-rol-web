@@ -1,16 +1,16 @@
-## Capítulo 27 · Damián Hask
+# Capítulo 27 · Damián Hask
 
-*El cuartel de la ladera sur de Banderbill, y Tiama. Otoño del año 1160 de la Nueva Era (553 D.bA).*
+*El cuartel de la ladera sur de Banderbill, y Tiama. Otoño del año 1160 de la Nueva* *Era (553 D.bA).*
 
 La licencia venía en un papel doblado en tres, con el sello de la Armada en lacre azul, y Damián Hask la tuvo en la mano media hora antes de atreverse a abrirla, porque sabía lo que ponía y no quería que lo pusiera.
 
-Ponía su nombre. Su rango: sargento de la Segunda Compañía. Sus años de servicio: veintidós. Su conducta: ejemplar. Y una línea al final, en la letra redonda de un escribano del Consejo: Licenciado con honores por reducción de efectivos. Con la gratitud del Imperio.
+Ponía su nombre. Su rango: sargento de la Segunda Compañía. Sus años de servicio: veintidós. Su conducta: ejemplar. Y una línea al final, en la letra redonda de un escribano del Consejo: *Licenciado con honores por reducción de efectivos. Con la gratitud del Imperio.*
 
 Damián la leyó tres veces. Luego la dobló otra vez en tres. Luego se la metió en el bolsillo de la casaca, que ya no era suya, que tenía que devolver esa tarde en el almacén.
 
 Era el primer Hask en setecientos años que salía de la Armada sin que lo sacaran muerto o viejo.
 
-* * *
+---
 
 Eran ochocientos.
 
@@ -32,7 +32,7 @@ Venn lo miró mucho rato.
 
 —Mi familia —dijo Damián— lleva setecientos años mirando hacia arriba antes de cargar. Yo llevo veintidós años en la Armada y no he cargado nunca. Ni una vez. —Sonrió —. No sé si mi familia se va a dar cuenta.
 
-* * *
+---
 
 La ceremonia fue en el patio del cuartel. Ochocientos hombres y mujeres en filas, con las casacas puestas por última vez. Un tambor. La bandera azul.
 
@@ -44,7 +44,7 @@ Se quedó mirando a los ochocientos mucho rato.
 
 Luego bajó.
 
-Nadie lo esperaba. Los Comandantes no bajan al patio en las licencias. Hablan desde el balcón, dicen gracias, y se vuelven dentro. Baervan bajó la escalera del cuartel, despacio, con sus piernas cortas de gnomo, y se metió entre las filas. Y fue uno por uno.
+Nadie lo esperaba. Los Comandantes no bajan al patio en las licencias. Hablan desde el balcón, dicen *gracias*, y se vuelven dentro. Baervan bajó la escalera del cuartel, despacio, con sus piernas cortas de gnomo, y se metió entre las filas. Y fue uno por uno.
 
 Ochocientos.
 
@@ -76,11 +76,11 @@ Baervan levantó una ceja.
 
 —A ver a mi tío —dijo Damián—. Al que vigila.
 
-* * *
+---
 
 El tío se llamaba Ilan, y no era su tío. Era el nieto del hermano del tatarabuelo del abuelo de su abuelo, o algo así; Damián lo había intentado contar de niño, con los dedos, y se le habían acabado los dedos. Era el Hask que vigilaba. El que tenía la vida de un Emperador muerto desde el 930. El que estaba en la cueva de cristal de la montaña del Sombrero, en Annkör, delante de una rendija, mirando una cosa que dormía de pie dentro del hielo.
 
-En casa de los Hask de Nix se hablaba de él como se habla de un santo. O de un loco. Las dos cosas. El tío Ilan. Mandaba una carta cada cinco años a la biblioteca y otra a la familia, y la de la familia se leía en voz alta en la cena de invierno, y siempre decía lo mismo: No ha abierto el ojo. Estoy bien. Dadle recuerdos a todos. Y luego, a veces, una línea más. Hace frío. Ha nevado mucho. Los enanos me han traído un gato.
+En casa de los Hask de Nix se hablaba de él como se habla de un santo. O de un loco. Las dos cosas. *El tío Ilan.* Mandaba una carta cada cinco años a la biblioteca y otra a la familia, y la de la familia se leía en voz alta en la cena de invierno, y siempre decía lo mismo: *No ha abierto el ojo. Estoy bien. Dadle recuerdos a todos.* Y luego, a veces, una línea más. *Hace frío.* *Ha nevado mucho.* *Los enanos me han traído un gato.*
 
 Damián tenía nueve años la primera vez que oyó leer una. Y le preguntó a su abuela por qué el tío Ilan no volvía.
 
@@ -94,7 +94,7 @@ Su abuela le dijo que porque alguien tenía que mirar.
 
 Su abuela se quedó callada. Luego le dijo que se fuera a la cama.
 
-* * *
+---
 
 Tardó un mes en llegar. En un barco de Nix a la costa sur de Annkör, y luego a pie, con un trineo de enanos que subía sal a Tiama, por la nieve, por los pasos, con un viento que cortaba la cara.
 
@@ -106,11 +106,11 @@ Los enanos lo llevaron a la forja. Dalbur estaba allí. Damián no había visto 
 
 —Sí, señor.
 
-—Se os nota. —Dalbur volvió a mirar el yunque—. En cómo os paráis en las puertas. Como si fuerais a entrar en una batalla. —Se quedó callado un rato—. Sube. Está arriba. Siempre está arriba. Llévale pan; lo de ayer se lo comió el gato.
+—Se os nota. —Dalbur volvió a mirar el yunque—. En cómo os paráis en las puertas. Como si fuerais a entrar en una batalla. —Se quedó callado un rato—. Ve. Está en el Sombrero, a una jornada, por el Pasaje Norte. Siempre está arriba. Llévale pan; lo de ayer se lo comió el gato.
 
-* * *
+---
 
-La cueva de cristal estaba a media ladera del Sombrero, a dos horas de subida por un sendero tallado en el hielo. Tenía una entrada estrecha, y luego un pasillo, y luego una sala.
+La cueva de cristal estaba a media ladera del Sombrero, a una jornada de Tiama por el Pasaje Norte y a dos horas de subida por un sendero tallado en el hielo. Tenía una entrada estrecha, y luego un pasillo, y luego una sala.
 
 La sala era de hielo azul. Todo. El suelo, las paredes, el techo, que estaba muy alto y del que colgaban carámbanos como lanzas. La luz entraba por algún sitio de arriba y se rompía en el hielo, y lo llenaba todo de un azul que no era de este mundo.
 
@@ -122,7 +122,7 @@ Damián no lo vio bien. No al principio. Vio una sombra. Grande. Más grande que
 
 Y delante de la rendija, sentado en una piedra, con un gato gris en las rodillas y una espada de hielo apoyada en el hombro, un hombre.
 
-* * *
+---
 
 —Llegas tarde —dijo el hombre.
 
@@ -136,7 +136,7 @@ Damián se sentó.
 
 Ilan Hask tenía la cara de cincuenta y cinco años. El pelo gris, cortado a cuchillo. Una cicatriz en la mejilla. Los ojos claros, de los Hask, muy quietos. Llevaba una capa de piel de oso encima del uniforme de la Armada, que era de un modelo de hacía doscientos años y que alguien le había remendado cien veces. La espada de hielo no se derretía. Tenía una runa en la hoja. Damián no la sabía leer.
 
-—Quieto —dijo Ilan, sin mirarlo, como si le hubiera oído pensar—. La runa. Es lo que pone. La forjó Dalbur para mi abuelo. Mi abuelo la clavó en la nieve en el 846 y eso —señaló con la barbilla la rendija— se quedó quieto. Y desde entonces la tenemos. Primero él. Luego yo.
+—*Quieto* —dijo Ilan, sin mirarlo, como si le hubiera oído pensar—. La runa. Es lo que pone. La forjó Dalbur para mi abuelo. Mi abuelo la clavó en la nieve en el 846 y eso —señaló con la barbilla la rendija— se quedó quieto. Y desde entonces la tenemos. Primero él. Luego yo.
 
 —¿Y después?
 
@@ -144,7 +144,7 @@ Ilan tardó en contestar.
 
 —No hay después —dijo—. Mientras yo no me muera.
 
-* * *
+---
 
 Damián se quedó.
 
@@ -170,7 +170,7 @@ Damián miró la sombra detrás del hielo.
 
 —Se pudo una vez.
 
-* * *
+---
 
 Al mes, Ilan le contó lo de los sueños.
 
@@ -192,11 +192,11 @@ Ilan no contestó.
 
 Se puso a contarle al gato cuántos copos de nieve había visto caer esa tarde.
 
-* * *
+---
 
 Damián Hask se quedó en Tiama veintidós años.
 
-Lo dice el registro de la forja de Dalbur, que llevaba un enano escribano con la letra cuadrada: Damián Hask, de Nix, sargento licenciado. Sube a la cueva cada mañana. Lleva el pan. Se casó en el 1163 con Brisa, hija de Haldor el de las fumarolas, medio enana. Cuatro hijos. Los cuatro miran arriba en las puertas.
+Lo dice el registro de la forja de Dalbur, que llevaba un enano escribano con la letra cuadrada: *Damián Hask, de Nix, sargento licenciado. Sube a la cueva cada mañana. Lleva* *el pan. Se casó en el 1163 con Brisa, hija de Haldor el de las fumarolas, medio enana.* *Cuatro hijos. Los cuatro miran arriba en las puertas.*
 
 No volvió a la Armada. No volvió a Nix. No cargó nunca. Murió en el 1182, de una fiebre de invierno, con sesenta y un años, en su casa de la ladera de Tiama, al lado de la de Dalbur. Ilan bajó de la cueva para el entierro. Era la primera vez que bajaba en cuarenta años. Estuvo media hora. Luego volvió a subir.
 
@@ -204,16 +204,14 @@ Su hijo mayor subió con él.
 
 Y desde entonces, en Tiama, siempre hubo un Hask que subía el pan.
 
-* * *
+---
 
 La última carta que Damián escribió a su madre, a Nix, en el 1180, la guardó la familia en un cofre, con las de Ilan. La leyeron muchas veces. Decía:
 
 *Madre. Aquí estoy bien. Hace frío. El tío Ilan dice que os dé recuerdos.*
 
-*Me preguntabas en tu carta si no echo de menos la Armada. No. Me preguntabas si no me da pena ser el primer Hask que no ha cargado nunca. Un poco. Pero creo que he entendido una cosa, aquí arriba.*
+*Me preguntabas en tu carta si no echo de menos la Armada. No. Me preguntabas si* *no me da pena ser el primer Hask que no ha cargado nunca. Un poco. Pero creo que he* *entendido una cosa, aquí arriba.*
 
-*Los Hask no miramos arriba para cargar. Miramos arriba para aguantar. Cargar es lo de menos. Lo que hacemos es quedarnos quietos delante de algo que da miedo, sin irnos, mucho tiempo. El tío Ilan lleva doscientos cincuenta años. Yo llevo veinte. Mi hijo empezará pronto.*
+*Los Hask no miramos arriba para cargar. Miramos arriba para aguantar. Cargar* *es lo de menos. Lo que hacemos es quedarnos quietos delante de algo que da miedo, sin* *irnos, mucho tiempo. El tío Ilan lleva doscientos cincuenta años. Yo llevo veinte. Mi hijo* *empezará pronto.*
 
-*Dile a mi hermano que no hace falta la Armada para eso.*  
-*Hace falta alguien que suba el pan.*  
-*Tu hijo, Damián.*
+*Dile a mi hermano que no hace falta la Armada para eso.* *Hace falta alguien que suba el pan.* *Tu hijo, Damián.*

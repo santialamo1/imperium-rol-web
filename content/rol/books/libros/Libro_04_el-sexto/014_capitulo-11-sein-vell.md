@@ -1,6 +1,6 @@
-## Capítulo 11 · Sein Vell
+# Capítulo 11 · Sein Vell
 
-*El sótano de la biblioteca de Banderbill. Otoño del año 1052 de la Nueva Era (445 D.bA).*
+*El sótano de la biblioteca de Banderbill. Otoño del año 1052 de la Nueva Era (445* *D.bA).*
 
 Sein contó las sillas antes de que llegaran. Once.
 
@@ -16,11 +16,11 @@ Se quedó mirando las dos sobrantes.
 
 No las quitó.
 
-* * *
+---
 
 Llegaron como llegaban siempre: cada uno a su manera.
 
-Wenna, la primera, con olor a nieve, porque había bajado del valle negro en cinco días y venía con las botas mojadas y una bolsa de castañas que puso en el centro de la mesa sin preguntar. Lanther detrás, en silencio, con la capa gris. Mirela bajó de la sala de arriba con el cuaderno de los Vell debajo del brazo; se sentó en la silla más alejada, como siempre, la de las cronistas.
+Wenna, la primera, con olor a azufre, porque había bajado del valle negro en cinco días y venía con las botas mojadas y una bolsa de castañas que puso en el centro de la mesa sin preguntar. Lanther detrás, en silencio, con la capa gris. Mirela bajó de la sala de arriba con el cuaderno de los Vell debajo del brazo; se sentó en la silla más alejada, como siempre, la de las cronistas.
 
 Tibbet llegó de Annkör con un sombrero nuevo. El ciento treinta y uno. De hojas de abedul cosidas con hilo rojo, en forma de cono, con una campanilla en la punta que sonaba cuando movía la cabeza. Tenía la cara de gnomo viejo que tenía desde el 146, y la barba blanca hasta las rodillas, y los ojos azules muy pequeños y muy brillantes, y no dijo nada al entrar, cosa rarísima. Se sentó. La campanilla sonó. Se quitó el sombrero y lo dejó en la mesa, al lado de las castañas.
 
@@ -28,7 +28,7 @@ Verawel subió de los archivos. Tenía la cara de elfo joven que tenía desde qu
 
 Teo llegó tarde. Con harina en las manos. Se sentó en la silla del fondo, la más cercana a la puerta, y no se quitó la gorra.
 
-Ottherius no llegó. Llegó una carta suya, escrita en una corteza de árbol con tinta de calamar, que decía: Estoy hablando con una gaviota muy importante. Lo que decidáis me parece bien. Lo que no decidáis también. Sein la leyó y la dejó en la mesa. Era la forma que tenía Ottherius de decir que no quería estar. Llevaba cuatrocientos años fingiendo que estaba loco y había empezado a fingirlo también con ellos, por costumbre, o porque se le había olvidado cómo no fingirlo.
+Ottherius no llegó. Llegó una carta suya, escrita en una corteza de árbol con tinta de calamar, que decía: *Estoy hablando con una gaviota muy importante. Lo que decidáis me* *parece bien. Lo que no decidáis también.* Sein la leyó y la dejó en la mesa. Era la forma que tenía Ottherius de decir que no quería estar. Llevaba cuatrocientos años fingiendo que estaba loco y había empezado a fingirlo también con ellos, por costumbre, o porque se le había olvidado cómo no fingirlo.
 
 La reina madre bajó la última. Selis. Ciento treinta y tres años de vida y ochenta de cara, igual que la noche que murió su marido. Bajó despacio, apoyándose en un bastón de marfil, con un vestido negro que llevaba desde el 999 y que se hacía hacer igual cada cinco años cuando se le gastaba. Lanther se levantó a ayudarla. Selis no la dejó.
 
@@ -36,7 +36,7 @@ Se sentó en la silla de la derecha de Sein. La que habría sido de Larath.
 
 Quedaron dos vacías.
 
-* * *
+---
 
 —Gracias por venir —dijo Sein.
 
@@ -56,13 +56,13 @@ Silencio.
 
 —Y la ofrenda —siguió Sein— dura lo que dura la cadena.
 
-* * *
+---
 
 Fue Tibbet el que habló primero. Y no hizo ningún chiste.
 
 —¿Lo sabemos? —preguntó—. ¿Seguro? ¿Que se acaba con la cadena? ¿O lo dijo alguien una vez y lo hemos ido repitiendo?
 
-—Lo dijo Bhargaras VII —dijo Lanther—. En el año 29. Cuando me la dio. Te durará lo que dure mi sangre.
+—Lo dijo Bhargaras VII —dijo Lanther—. En el año 29. Cuando me la dio. *Te* *durará lo que dure mi sangre.*
 
 —¿Y él cómo lo sabía?
 
@@ -80,7 +80,7 @@ Todos lo miraron.
 
 Verawel no contestó.
 
-* * *
+---
 
 Wenna peló una castaña. Despacio. Se la comió.
 
@@ -104,7 +104,7 @@ Nadie dijo nada.
 
 Verawel se calló.
 
-* * *
+---
 
 Fue entonces cuando Mirela habló. Desde la silla de las cronistas, sin levantarse.
 
@@ -112,13 +112,13 @@ Fue entonces cuando Mirela habló. Desde la silla de las cronistas, sin levantar
 
 Todos se volvieron.
 
-—Asgal me dio la vida para que acabara la frase de mi padre. No fue una pelea. Fue. —Mirela tenía el cuaderno apretado contra el pecho—. Hace ciento sesenta años. Y no la he acabado. No sé cómo se acaba. Cada vez que lo intento, la pluma no escribe. Como si la frase no fuera mía todavía. —Se le quebró la voz—. Si se acaba la cadena, me voy sin haberla acabado.
+—Asgal me dio la vida para que acabara la frase de mi padre. *No fue una pelea.* *Fue.* —Mirela tenía el cuaderno apretado contra el pecho—. Hace ciento sesenta años. Y no la he acabado. No sé cómo se acaba. Cada vez que lo intento, la pluma no escribe. Como si la frase no fuera mía todavía. —Se le quebró la voz—. Si se acaba la cadena, me voy sin haberla acabado.
 
 Nadie supo qué decirle.
 
 Selis, a la derecha de Sein, que no había abierto la boca, le tendió la mano por encima de la mesa. Mirela no la cogió. Pero se quedó mirándola.
 
-* * *
+---
 
 —Hay que buscar —dijo Verawel. Más fuerte esta vez.
 
@@ -160,7 +160,7 @@ Lanther, que no había hablado desde lo de Bhargaras VII, levantó la vista. Mir
 
 Sein no contestó.
 
-* * *
+---
 
 Fue Teo el que rompió el silencio. Desde el fondo. Sin quitarse la gorra.
 
@@ -192,7 +192,7 @@ Teo tardó mucho en contestar.
 
 Y subió.
 
-* * *
+---
 
 No decidieron nada esa noche.
 
@@ -222,11 +222,11 @@ Sein cerró el libro. Con cuidado. Puso encima la hoja sin número.
 
 —Porque es lo único que tengo que no es de la Orden —dijo—. Y el chico me ha enseñado que se puede tener algo así.
 
-* * *
+---
 
 Esa noche, solo, Sein abrió el libro cuadragésimo segundo. El del 760. Por el margen.
 
-Ahí estaba. Su letra pequeña y clara, de hacía casi trescientos años. La sangre ha entrado en la panadería por una hija. Lo apunto y lo olvido.
+Ahí estaba. Su letra pequeña y clara, de hacía casi trescientos años. *La sangre ha* *entrado en la panadería por una hija. Lo apunto y lo olvido.*
 
 Se quedó mirándolo hasta que se le gastó la vela.
 
@@ -238,6 +238,6 @@ Cerró el libro. Lo devolvió a la estantería. Lo empujó con un dedo hasta el 
 
 Y en el libro centésimo vigésimo octavo, en la hoja del año, en la tercera columna, escribió:
 
-*Once sillas. Nueve. Dos vacías. No las he quitado.*  
-*Una es para el que vendrá a pedir lo que no sabemos dar.*  
-*La otra no sé para quién es todavía.*
+*Once sillas. Nueve. Dos vacías. No las he quitado.*
+
+*Una es para el que vendrá a pedir lo que no sabemos dar.* *La otra no sé para quién es todavía.*

@@ -1,4 +1,4 @@
-## Capítulo 17 · Nadi
+# Capítulo 17 · Nadi
 
 *Eufesia y Concordia. Años 86 a 88.*
 
@@ -36,9 +36,9 @@ Aquella noche, antes de dormir, Loth hizo algo que no había hecho nunca. Se inc
 
 —Si alguna vez me pierdes —le dijo—, llámame así. Solo así. Y te oiré aunque esté al otro lado del desierto.
 
-Nadi la repitió en voz baja para no olvidarla. Emrah. Sonaba como el viento entre las tiendas. Luego, con la lógica de los niños, la metió en la canción de la arena, en un verso que se inventó ella misma, para no perderla nunca: duerme, Emrah, duerme ya. Loth se rió y no la corrigió.
+Nadi la repitió en voz baja para no olvidarla. *Emrah.* Sonaba como el viento entre las tiendas. Luego, con la lógica de los niños, la metió en la canción de la arena, en un verso que se inventó ella misma, para no perderla nunca: *duerme, Emrah, duerme ya.* Loth se rió y no la corrigió.
 
-* * *
+---
 
 Los hombres de las capas grises llegaron tres noches después, mientras Loth estaba en las tiendas de las Madres.
 
@@ -78,7 +78,7 @@ Y la niebla la oyó.
 
 Fue lo último que vio con claridad antes de que le metieran un trapo en la boca: la niebla, alrededor del campamento, moviéndose. Arremolinándose. Como un animal que despierta al oír un nombre.
 
-* * *
+---
 
 Loth llegó cuando ya estaban montando a los niños en los camellos.
 
@@ -106,7 +106,7 @@ Lo último que oyó fue su propia voz, dentro de su cabeza, cantando:
 
 *Quien te ama volverá.*
 
-* * *
+---
 
 El viaje duró dos lunas. Nadi no recordaría casi nada. Recordaría la luz.
 
@@ -120,7 +120,7 @@ Las Madres mentían, pensó. El ojo no es malo.
 
 Y si las Madres mentían en eso, ¿en qué más mentían?
 
-* * *
+---
 
 El sótano estaba debajo de un palacio, en una ciudad tan grande que Nadi no podía creerse que fuera de verdad. Llegaron de noche, y solo vio un instante, por un hueco de la lona, una torre altísima, más alta que ninguna duna, con una llama blanca en la punta que brillaba como una estrella caída.
 
@@ -138,16 +138,13 @@ Después, el niño se quedaba muy cansado durante días. Y un poco más gris. Y 
 
 Seli no respondió. Miró a Kesh, que respiraba con su silbido contra la pared.
 
-* * *
+---
 
 Nadi cantaba.
 
 Era lo único que podía hacer. Cada noche, en la oscuridad del sótano, cantaba la canción de la arena, la que Loth le había enseñado. Al principio sola, muy bajito. Luego, poco a poco, los otros niños empezaron a cantar con ella. Seli. Ferah. Los gemelos Abd. Incluso Kesh, una noche, movió los labios.
 
-*Duerme, arena, duerme ya,*  
-*la bruma viene y se va;*  
-*quien te nombra te tendrá,*  
-*quien te ama volverá.*
+*Duerme, arena, duerme ya,* *la bruma viene y se va;* *quien te nombra te tendrá,* *quien te ama volverá.*
 
 Y una noche, alguien respondió desde arriba.
 

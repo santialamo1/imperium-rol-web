@@ -1,18 +1,18 @@
-## DE LAS CRÓNICAS DE BANDERBILL, LIBRO CUARTO (V)
+# De las Crónicas de Banderbill, Libro Cuarto (V)
 
-*Escrito por Damián Vell, cronista de la biblioteca, en la primavera del año 1410 de la Nueva Era. Con una nota al pie en otra letra.*
+*Escrito por Damián Vell, cronista de la biblioteca, en la primavera del año 1410 de* *la Nueva Era. Con una nota al pie en otra letra.*
 
 Soy el nieto de Ysolde y el primer Vell que escribe una crónica con el palacio cerrado.
 
 Lo digo primero porque es lo primero que se ve. Desde la ventana de la biblioteca, donde escribo, se ve la plaza del Consejo, y en la plaza, la escalinata, y en lo alto de la escalinata, la puerta de bronce. Cerrada. Desde hace ocho años. Con una llave de hierro que lleva una gnoma al cuello y que no saca nunca.
 
-Antes, la puerta se abría cada mañana. Los Vell de antes la veían abrirse desde esta misma ventana. Mi abuela lo apunta en su crónica: Va al palacio cada mañana. Abre. Entra. Sale. Cierra. Era una costumbre de la colina. Los panaderos del puerto sabían que eran las siete porque la doncella había abierto.
+Antes, la puerta se abría cada mañana. Los Vell de antes la veían abrirse desde esta misma ventana. Mi abuela lo apunta en su crónica: *Va al palacio cada mañana. Abre.* *Entra. Sale. Cierra.* Era una costumbre de la colina. Los panaderos del puerto sabían que eran las siete porque la doncella había abierto.
 
 Ahora no saben qué hora es.
 
 Lo digo en serio. En el 1403 se quejaron en el Consejo. Pidieron un reloj.
 
-* * *
+---
 
 Cuento lo que hay. Como lo contaban todos los de mi familia. Por orden.
 
@@ -24,17 +24,17 @@ El Parlamento se reúne en el comedor del cuartel de la ladera sur, porque la sa
 
 El Consejo de los diecinueve se reúne en la biblioteca. En la sala de abajo, la de los mapas. Mi jefe, el bibliotecario, les deja. Dice que mientras estén aquí no rompen nada.
 
-* * *
+---
 
 Lo segundo es la profecía.
 
-La conoce todo el mundo. La venden copiada en el puerto, en hojas sueltas, a dos monedas. La recitan los niños. La recitan los actores de El juglar al final de Arispar, cada noche, desde el 1402, porque el público lo pide. La he oído recitar en una taberna a un soldado borracho, de pie en una mesa, llorando.
+La conoce todo el mundo. La venden copiada en el puerto, en hojas sueltas, a dos monedas. La recitan los niños. La recitan los actores de El juglar al final de *Arispar*, cada noche, desde el 1402, porque el público lo pide. La he oído recitar en una taberna a un soldado borracho, de pie en una mesa, llorando.
 
 *De las sombras un nuevo guerrero asoma.*
 
 Nadie sabe quién. Todo el mundo tiene un nombre.
 
-Xaterix dice que es ella. No lo dice; se le nota. Lord Rox dice que puede ser él, según el día. Los de la cinta dicen que es el gnomo, que va a volver de Orac, que de las sombras quiere decir de la torre. Los de la cuerda no dicen nada. Los del puerto dicen que es un pescador de Nix que tumbó a tres soldados en una pelea. Los niños dicen que es el que aguanta más con los brazos levantados.
+Xaterix dice que es ella. No lo dice; se le nota. Lord Rox dice que puede ser él, según el día. Los de la cinta dicen que es el gnomo, que va a volver de Orac, que *de las* *sombras* quiere decir *de la torre*. Los de la cuerda no dicen nada. Los del puerto dicen que es un pescador de Nix que tumbó a tres soldados en una pelea. Los niños dicen que es el que aguanta más con los brazos levantados.
 
 Mi jefe, el bibliotecario, dice que es mejor no buscarlo.
 
@@ -42,7 +42,7 @@ Le pregunté por qué.
 
 Me dijo que el que busca a alguien que encaje en una profecía, lo encuentra. Siempre. Que eso es lo que tienen las profecías: que se cumplen porque se buscan.
 
-* * *
+---
 
 Lo tercero es la doncella.
 
@@ -60,7 +60,7 @@ La toca.
 
 Como se toca una cosa para ver si sigue ahí.
 
-* * *
+---
 
 Lo cuarto lo pongo porque mi abuela lo puso, y porque nadie más lo pone.
 
@@ -74,7 +74,7 @@ Lo pongo porque mi abuela decía que lo que no se pone es lo que luego importa.
 
 No sé si importa.
 
-* * *
+---
 
 Lo quinto es Orac.
 
@@ -92,7 +92,7 @@ El Consejo votó no ir. Doce a siete.
 
 La doncella no votó. No le dejan.
 
-* * *
+---
 
 Esto es lo que hay. Un palacio cerrado, una Armada partida en cuatro, un Parlamento en un comedor, una profecía que se vende a dos monedas, una gnoma que toca una puerta, un heredero que no trabaja, un sargento con nombre de comedia, y una canción de remar en una torre al otro lado del mar.
 
@@ -108,14 +108,16 @@ Que conste.
 
 *D. V.*
 
-— | ✦ | —
+---
+
+— —
 
 *Al pie, en otra letra, pequeña, de niño:*
 
-*El cronista dice que la doncella toca la puerta cada mañana. Es verdad. Y no lo dice todo. Antes de tocarla, mira la plaza. Toda. De un lado a otro. Como si buscara a alguien. Y luego toca la puerta.*
+*El cronista dice que la doncella toca la puerta cada mañana. Es verdad. Y no lo* *dice todo. Antes de tocarla, mira la plaza. Toda. De un lado a otro. Como si buscara a* *alguien. Y luego toca la puerta.*
 
-*En el debe, ocho años de palacio cerrado. En el haber, ocho años sin sangre en el mármol.*
+*En el debe, ocho años de palacio cerrado. En el haber, ocho años sin sangre en el* *mármol.*
 
-En la tercera columna, la de lo que nadie dice, he empezado una página nueva. La he titulado Lo que se debe a los que no saben. De momento tiene un nombre. No lo escribo. Lo digo en voz alta, en el sótano, delante de la masa.
+*En la tercera columna, la de lo que nadie dice, he empezado una página nueva. La* *he titulado* Lo que se debe a los que no saben. *De momento tiene un nombre. No lo* *escribo. Lo digo en voz alta, en el sótano, delante de la masa.*
 
 *S.*

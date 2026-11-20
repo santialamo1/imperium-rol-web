@@ -1,4 +1,4 @@
-## Capítulo 63 · Maximus
+# Capítulo 63 · Maximus
 
 *Concordia, la forja cerrada del barrio de los herreros. Año 280.*
 
@@ -12,7 +12,7 @@ El sereno se lo contó a su mujer. La mujer a sus vecinas. Para el invierno lo s
 
 Maximus no lo desmintió. Le pareció más fácil dejar que creyeran que el apodo era una metáfora.
 
-* * *
+---
 
 Tenía cincuenta y cinco años esa noche de otoño, y la forja era el único sitio del mundo donde dormía.
 
@@ -30,7 +30,7 @@ La forja ayudaba. El fuego, el ruido, el peso del martillo. El acero de Gijor qu
 
 Esa noche estaba terminando una espada.
 
-* * *
+---
 
 La Custodia llegó pasada la medianoche, escoltada por dos guardias que se quedaron en la puerta con cara de no querer estar allí.
 
@@ -52,7 +52,7 @@ Maximus la miró durante un largo rato. Luego se rió. Una risa corta, seca, sin
 
 —Levántate, Custodia. Y dime qué ves.
 
-* * *
+---
 
 Merel no lo miró. Eso fue lo primero que le llamó la atención. Se acercó a él, despacio, y se quedó de pie a un paso, con los ojos cerrados y la cabeza un poco ladeada, como quien escucha una música lejana.
 
@@ -94,7 +94,7 @@ Merel no contestó enseguida.
 
 —Al único sitio desde donde se puede abrir un hueco así, majestad. —Miró hacia el norte, a través de la pared de la forja, como si pudiera ver a través de la piedra, de las leguas, del río Ceniza—. Alguien ha llevado vuestro nombre a la bruma. Y en la bruma hay alguien que se sabe todos los nombres que la bruma sabe.
 
-* * *
+---
 
 Maximus pasó tres días sin salir de sus aposentos.
 
@@ -102,7 +102,7 @@ Al cuarto mandó llamar al jefe de la casa imperial y le pidió una lista. Todos
 
 Tardaron un mes. La lista tenía dieciocho nombres. Quince estaban muertos. Dos eran ancianas que no recordaban nada. Y uno, el último, tenía al lado una anotación de puño y letra de su madre, en el libro de cuentas de la casa:
 
-*Sefa. Eufesia. Criada. Lavó al niño al nacer. Despedida en el 231 por orden de Darius. Diez monedas y una carta.*
+*Sefa. Eufesia. Criada. Lavó al niño al nacer. Despedida en el 231 por orden de* *Darius. Diez monedas y una carta.*
 
 Maximus se quedó mirando el nombre mucho tiempo.
 
@@ -114,7 +114,7 @@ La encontraron, a medias, tres meses después. Un mercader de los clanes libres,
 
 El doscientos sesenta y dos. El año en que Maximus dejó de soñar.
 
-* * *
+---
 
 Esa noche volvió a la forja.
 
@@ -136,7 +136,7 @@ El Consejo la aprobó por unanimidad. Era una ley sensata. La niebla llevaba qui
 
 Nadie preguntó por qué el emperador, al leerla, se llevaba la mano al pecho.
 
-* * *
+---
 
 Merel volvió a verlo una vez más, años después. En el doscientos noventa y nueve, en las colinas de Askel, a la luz roja del atardecer, cuando ya era la Custodia de más edad del ejército y llevaba las uñas grises hasta la raíz.
 
@@ -152,7 +152,7 @@ No supo si sirvió de algo. No supo si un hombre sin su otro nombre podía solta
 
 Y sintió, muy débil, algo que se iba.
 
-* * *
+---
 
 La espada estuvo en el arcón de la forja hasta que el nieto, Lucan, tuvo edad de levantarla. Luego pasó a su hijo. Y al hijo de su hijo. Ninguno la usó en una batalla. Ninguno fue emperador.
 

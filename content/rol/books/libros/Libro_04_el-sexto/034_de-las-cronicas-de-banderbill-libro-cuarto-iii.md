@@ -1,8 +1,8 @@
-## DE LAS CRÓNICAS DE BANDERBILL, LIBRO CUARTO (III)
+# De las Crónicas de Banderbill, Libro Cuarto (III)
 
-*Escrito por Corvin Vell, cronista de la biblioteca, en el verano del año 1252 de la Nueva Era, la semana de las fiestas. Con una nota al pie en otra letra.*
+*Escrito por Corvin Vell, cronista de la biblioteca, en el verano del año 1252 de la* *Nueva Era, la semana de las fiestas. Con una nota al pie en otra letra.*
 
-Mi tía abuela Mirela dejó de escribir las crónicas en el 1112, la noche que enterraron al comandante Eluret, y me las dio a mí en el 1230, cuando cumplí treinta años, con una frase que no entendí: A partir de aquí, que lo cuente alguien que se muera.
+Mi tía abuela Mirela dejó de escribir las crónicas en el 1112, la noche que enterraron al comandante Eluret, y me las dio a mí en el 1230, cuando cumplí treinta años, con una frase que no entendí: *A partir de aquí, que lo cuente alguien que se muera.*
 
 Le pregunté qué quería decir. Me dijo que llevaba trescientos años contando un Imperio con la cara de una muchacha de veinte, y que las crónicas de los Vell las habían escrito siempre los que se iban a morir, y que se notaba. Que cuando uno sabe que se va a morir, cuenta distinto. Mira las cosas como las miran los que no las van a ver otra vez. Que ella ya no sabía mirarlas así. Que había visto demasiadas fiestas.
 
@@ -10,7 +10,7 @@ Así que esta es mi primera crónica. Y la escribo en la semana de una fiesta.
 
 Lo digo para que se sepa desde dónde miro.
 
-* * *
+---
 
 Se cumplen ciento cuarenta años desde que el gnomo se sentó en el sillón de al lado del trono.
 
@@ -18,11 +18,11 @@ En la colina lo llaman los ciento cincuenta años dorados. No son ciento cincuen
 
 Lo gana siempre la panadería de la calle del Horno. Este año también. Con una hogaza de centeno que tiene, dicen, mil doscientos años de masa madre. Nadie se lo cree. Yo tampoco. Lo apunto porque lo dicen.
 
-* * *
+---
 
 Lo cuento por orden, como lo contaba mi tía abuela, que lo aprendió de su padre.
 
-El gnomo se llama Baervan. Lo llaman el Comandante, sin más, porque Supremo Comandante de la Armada Imperial es demasiado largo para decirlo en una taberna. Tiene doscientos diecisiete años y la cara de treinta y uno. No vive en el palacio. No ha vivido nunca. Vive en el cuartel de la ladera sur, en el cuarto que fue de Eluret, con una ventana que da al puerto y un alféizar donde se sienta con los pies por fuera a comer manzanas. Lo ve todo el mundo. Los niños le tiran besos desde la calle. Él les tira corazones de manzana.
+El gnomo se llama Baervan. Lo llaman el Comandante, sin más, porque *Supremo* *Comandante de la Armada Imperial* es demasiado largo para decirlo en una taberna. Tiene doscientos diecisiete años y la cara de treinta y uno. No vive en el palacio. No ha vivido nunca. Vive en el cuartel de la ladera sur, en el cuarto que fue de Eluret, con una ventana que da al puerto y un alféizar donde se sienta con los pies por fuera a comer manzanas. Lo ve todo el mundo. Los niños le tiran besos desde la calle. Él les tira corazones de manzana.
 
 Lo que ha hecho en ciento cuarenta años lo pongo en una lista, porque es largo, y porque así lo hacía Tibbet, que es el único de nosotros que ha entendido para qué sirven las listas.
 
@@ -36,7 +36,7 @@ Ha hecho que el Consejo vote dieciséis a tres muchas veces. Diecisiete a dos. D
 
 Y ha reducido la Armada.
 
-* * *
+---
 
 Esto lo pongo aparte porque es lo único de la lista que no sé si va en el debe o en el haber.
 
@@ -60,15 +60,15 @@ Y me dijo, sin reírse:
 
 Lo apunto.
 
-* * *
+---
 
 El mundo, este verano, visto desde la colina con farolillos.
 
-Al norte, en Annkör, Tiama sigue en su montaña de hielo. Dalbur sigue en la forja; tiene más de quinientos años y la barba blanca hasta las rodillas, y dice que va a forjar una cosa más antes de morirse, pero no dice qué. Ilan Hask sigue en la cueva de cristal del Sombrero, delante de la rendija, mirando a lo que duerme de pie. Manda una carta a la biblioteca cada cinco años. Todas dicen lo mismo: No ha abierto el ojo. La del 1250 decía algo más: Pero sueña más. Lo noto en el hielo. Como si oyera algo que se acerca. Mi tía abuela la leyó tres veces y la guardó en su mesa en lugar de en el legajo.
+Al norte, en Annkör, Tiama sigue en su montaña de hielo. Dalbur sigue en la forja; tiene más de quinientos años y la barba blanca hasta las rodillas, y dice que va a forjar una cosa más antes de morirse, pero no dice qué. Ilan Hask sigue en la cueva de cristal del Sombrero, delante de la rendija, mirando a lo que duerme de pie. Manda una carta a la biblioteca cada cinco años. Todas dicen lo mismo: *No ha abierto el ojo.* La del 1250 decía algo más: *Pero sueña más. Lo noto en el hielo. Como si oyera algo que se acerca.* Mi tía abuela la leyó tres veces y la guardó en su mesa en lugar de en el legajo.
 
 En la costa norte de Oderon, en un fuerte abandonado de la punta, dicen que vive un gnomo santo que cura a los náufragos y que no se muere. Le llaman el padre de los sombreros. Los pescadores le llevan regalos. Yo he ido. No me dejó pasar del patio; me dio caldo de cangrejo y un sombrero de algas, el número ciento ochenta y uno, y me dijo que me volviera a la colina, que allí no había nada que contar. Me volví. El sombrero lo tengo colgado encima de esta mesa.
 
-En el valle negro, el Mercado. Wenna tiene mil ciento noventa y nueve años y no se mueve de la silla de al lado de la balanza; pesa la Custodia Neva, que tiene ciento sesenta y dos y la cara de cincuenta, porque las Custodias que oyen mucho viven mucho. La losa de la entrada del paso sigue allí. Aquí no se levanta un arma. Los niños la leen en voz alta antes de bajar. Las Madres, dicen las Custodias, giran la cabeza cada vez menos. No porque haya menos armas. Porque les cuesta. Una de ellas, la que está al norte del círculo, tiene una grieta en el cuello que no tenía hace cien años.
+En el valle negro, el Mercado. Wenna tiene mil ciento noventa y nueve años y no se mueve de la silla de al lado de la balanza; pesa la Custodia Neva, que tiene ciento sesenta y dos y la cara de cincuenta, porque las Custodias que oyen mucho viven mucho. La losa de la entrada del paso sigue allí. *Aquí no se levanta un arma.* Los niños la leen en voz alta antes de bajar. Las Madres, dicen las Custodias, giran la cabeza cada vez menos. No porque haya menos armas. Porque les cuesta. Una de ellas, la que está al norte del círculo, tiene una grieta en el cuello que no tenía hace cien años.
 
 El Guardián sigue en su sitio, en el centro, con la jarra en el pecho y la grieta de tres dedos menos un pelo. Los pájaros se posan en su coronilla cada primavera. Ilka, la Custodia, que tiene ya doscientos sesenta y ocho años, dice que la grieta no ha crecido. Wenna dice que no ha crecido todavía.
 
@@ -76,7 +76,7 @@ En el sur, Nix es rica. Ullathorpe es rica. Wonder es muy rica y sigue sin pagar
 
 Y en el sur, más allá del mar, Orac.
 
-* * *
+---
 
 De Orac no sé nada.
 
@@ -96,11 +96,11 @@ El jefe de la tribu, que es nieto del que se sentó en la arena con Baervan en e
 
 Y otra palabra, más baja, que dijo mirando al suelo, y que me tradujo como pudo:
 
-*Un chico. Un orco joven. Que aprende de un drow viejo. Que dicen que no ha perdido nunca a nada. Ni a las piedras.*
+*Un chico. Un orco joven. Que aprende de un drow viejo. Que dicen que no ha* *perdido nunca a nada. Ni a las piedras.*
 
 No me dijo el nombre. Dijo que no se decía.
 
-* * *
+---
 
 Esta noche es la última de las fiestas.
 
@@ -122,14 +122,14 @@ Que conste.
 
 *C. V.*
 
-— | ✦ | —
+---
 
-*Al pie, en otra letra, pequeña, de niño:*
+— — *Al pie, en otra letra, pequeña, de niño:*
 
-*El cronista dice que la Armada es de tres mil cuatrocientos. Ayer eran tres mil trescientos ochenta. Se licenciaron veinte para las fiestas.*
+*El cronista dice que la Armada es de tres mil cuatrocientos. Ayer eran tres mil* *trescientos ochenta. Se licenciaron veinte para las fiestas.*
 
-*En el debe, este año, he apuntado veinte. En el haber, veinte casas con un padre que vuelve a cenar.*
+*En el debe, este año, he apuntado veinte. En el haber, veinte casas con un padre* *que vuelve a cenar.*
 
-*En la tercera columna no he apuntado nada. No sé dónde se apunta lo que todavía no ha pasado. Tibbet lo sabría. Le he escrito.*
+*En la tercera columna no he apuntado nada. No sé dónde se apunta lo que todavía* *no ha pasado. Tibbet lo sabría. Le he escrito.*
 
 *S.*

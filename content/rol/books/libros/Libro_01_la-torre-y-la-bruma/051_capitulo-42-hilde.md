@@ -1,10 +1,10 @@
-## Capítulo 42 · Hilde
+# Capítulo 42 · Hilde
 
 *Oasis de Kel-Ammar, frontera de Eufesia. Año 190.*
 
 La orden llegó al atardecer, en un pliego sellado con el lacre azul del Estratega, y Hilde Tamm, Custodia de segundo grado de la Academia de Concordia, cuarenta y tres años, Ibaro de los pantanos de Pisor, la leyó dos veces antes de entender que le estaban pidiendo que matara a doscientos muertos que todavía no habían hecho nada.
 
-*Quemad el oasis. Todo. Palmeras, pozos, tiendas, osario. Antes del amanecer. Ningún muerto de Kel-Ammar debe quedar en pie cuando él llegue. B. A.*
+*Quemad el oasis. Todo. Palmeras, pozos, tiendas, osario. Antes del amanecer.* *Ningún muerto de Kel-Ammar debe quedar en pie cuando él llegue. B. A.*
 
 Hilde dobló el pliego. Lo guardó en la manga. Miró hacia el oasis.
 
@@ -12,7 +12,7 @@ Estaba a media legua, en el fondo de una hondonada entre dunas grises: cuarenta 
 
 Y los muertos, según los exploradores, habían empezado a moverse.
 
-No mucho. No todavía. Pero Hilde los oía desde allí, desde la cresta de la duna donde la compañía de Custodios había montado el campamento. Doscientas voces, quizá más, removiéndose debajo de la arena del osario como gusanos en una manzana. Inquietas. Asustadas. Sin entender. Alguien estaba tirando de ellas desde muy lejos, desde el oeste, desde la niebla. Despacio. Con paciencia. Como quien tira de una red.
+No mucho. No todavía. Pero Hilde los oía desde allí, desde la cresta de la duna donde la compañía de Custodios había montado el campamento. Doscientas voces, quizá más, removiéndose debajo de la arena del osario como gusanos en una manzana. Inquietas. Asustadas. Sin entender. Alguien estaba tirando de ellas desde muy lejos, desde el este, desde la niebla. Despacio. Con paciencia. Como quien tira de una red.
 
 —Los quiere —dijo el viejo Custodio Amadeo, sentado junto a ella sobre la arena, con los ojos cerrados—. Para la próxima campaña. Están frescos, no tienen nombre secreto, nadie los ha soltado nunca. Leña seca.
 
@@ -24,17 +24,17 @@ No mucho. No todavía. Pero Hilde los oía desde allí, desde la cresta de la du
 
 —Doce. —El viejo sonrió—. Lo que digo. No llegamos. Y el Estratega lo sabe. Por eso manda quemarlos.
 
-* * *
+---
 
 El fuego no mataba a los muertos de la bruma. Eso lo sabía todo el mundo desde el Vado. Pero los deshacía. Quemaba los cuerpos, los huesos, la carne seca, y dejaba las almas sin un sitio al que volver. Y un alma sin cuerpo, sin nombre y sin nadie que la soltara, se quedaba flotando en el aire de la frontera durante años, débil, perdida, gritando en silencio, hasta que la niebla se la bebía.
 
-Era mejor que dejarlos convertirse en soldados. Eso decían los manuales de Braco Arenar, que Hilde había estudiado durante diez años en la Academia. Los manuales eran muy claros. Un muerto quemado no lucha. Un muerto que no lucha no mata a ningún vivo. Cada osario quemado en la frontera son cien soldados nuestros que vuelven a casa.
+Era mejor que dejarlos convertirse en soldados. Eso decían los manuales de Braco Arenar, que Hilde había estudiado durante diez años en la Academia. Los manuales eran muy claros. *Un muerto quemado no lucha. Un muerto que no lucha no mata a ningún vivo.* *Cada osario quemado en la frontera son cien soldados nuestros que vuelven a casa.*
 
 Hilde había quemado seis osarios en tres años de campaña. Los seis, de pueblos que el ejército de la niebla ya había tomado. Los seis, llenos de muertos que ya estaban de pie.
 
 Este era distinto. Estos todavía estaban dormidos. Todavía eran solo muertos. De familias que se habían marchado hacía dos semanas y que, quizá, algún día, volverían.
 
-* * *
+---
 
 Fue a ver al Estratega.
 
@@ -82,7 +82,7 @@ Braco la miró durante mucho tiempo. Hilde no apartó la vista.
 
 —Entonces quemad el oasis. —Hilde tragó saliva—. Yo misma prenderé la primera antorcha.
 
-* * *
+---
 
 Fueron los once. Amadeo también, aunque Hilde le pidió que se quedara.
 
@@ -96,13 +96,13 @@ Hilde había aprendido a soltar a los muertos de una anciana Custodia que había
 
 A veces funcionaba. Casi siempre, no.
 
-La niña de la esquina este se llamaba Liri. No era su nombre. Era el que Hilde le dio, después de escucharla preguntar por su madre durante casi una hora, hasta que la niña se calló, agotada, y Hilde le dijo, en voz baja, en la lengua del desierto que había aprendido de los libros: Liri. Tu madre está en el sur. Está bien. Vete hacia arriba, Liri. Ella irá luego.
+La niña de la esquina este se llamaba Liri. No era su nombre. Era el que Hilde le dio, después de escucharla preguntar por su madre durante casi una hora, hasta que la niña se calló, agotada, y Hilde le dijo, en voz baja, en la lengua del desierto que había aprendido de los libros: *Liri. Tu madre está en el sur. Está bien. Vete hacia arriba, Liri. Ella irá* *luego.*
 
 Y la niña se fue.
 
 Hilde lo sintió como un tirón en el pecho, como un hilo que se suelta. Le sangró la nariz. Siguió.
 
-* * *
+---
 
 A medianoche llevaban noventa y uno.
 
@@ -110,13 +110,13 @@ A las tres de la madrugada, ciento treinta y siete. Dos de los Custodios se hab�
 
 A las cuatro, Hilde notó el cambio.
 
-El tirón del oeste se hizo más fuerte. De pronto. Como si alguien, al otro lado de la niebla, se hubiera dado cuenta de lo que estaban haciendo y hubiera decidido tirar de la red con las dos manos. Los muertos que quedaban debajo de la arena —setenta y tantos— empezaron a gritar todos a la vez. La arena del osario se movió. Una mano gris, seca, de dedos largos, salió de la tierra a tres pasos de Hilde. Luego otra.
+El tirón del este se hizo más fuerte. De pronto. Como si alguien, al otro lado de la niebla, se hubiera dado cuenta de lo que estaban haciendo y hubiera decidido tirar de la red con las dos manos. Los muertos que quedaban debajo de la arena —setenta y tantos— empezaron a gritar todos a la vez. La arena del osario se movió. Una mano gris, seca, de dedos largos, salió de la tierra a tres pasos de Hilde. Luego otra.
 
 —¡Hilde! —gritó alguien.
 
-Ella no se levantó. Siguió con las manos en la arena. Siguió escuchando al muerto que tenía debajo, un hombre mayor que repetía una y otra vez el nombre de un camello, Dabbi, Dabbi, Dabbi, como si fuera lo único que le importaba en el mundo.
+Ella no se levantó. Siguió con las manos en la arena. Siguió escuchando al muerto que tenía debajo, un hombre mayor que repetía una y otra vez el nombre de un camello, *Dabbi, Dabbi, Dabbi,* como si fuera lo único que le importaba en el mundo.
 
-Dabbi está bien, le dijo. Dabbi está en el sur. Vete hacia arriba.
+*Dabbi está bien*, le dijo. *Dabbi está en el sur. Vete hacia arriba.*
 
 Se fue.
 
@@ -130,9 +130,9 @@ Braco Arenar había venido. Sin escolta. Con una antorcha en la mano y un cánta
 
 No bajó. No dio ninguna orden. Se quedó en la cresta, con la antorcha en alto, mirándola.
 
-Tú decides, decía aquella antorcha. Tú prendiste la primera, dijiste. Tú decides cuándo.
+*Tú decides*, decía aquella antorcha. *Tú prendiste la primera, dijiste. Tú decides* *cuándo.*
 
-* * *
+---
 
 Hilde soltó a cuatro más.
 
@@ -152,7 +152,7 @@ Hilde se quedó sentada en la duna, mirando el fuego, con Amadeo dormido en su r
 
 Ciento cuarenta y cuatro. Había soltado a ciento cuarenta y cuatro. Él se llevó setenta.
 
-* * *
+---
 
 Braco se sentó a su lado cuando salió el sol. No dijo nada durante mucho tiempo.
 
@@ -178,7 +178,7 @@ Se fue.
 
 Hilde Tamm llegó a Custodia mayor. Soltó, según sus propios registros, dos mil seiscientos muertos a lo largo de su vida, más que ningún otro Custodio antes de ella. En el año ciento noventa y siete, en el pozo de Ummat, intentó soltar a una mujer con velo y no pudo.
 
-Nunca dejó de oír a los setenta de Kel-Ammar. Se lo contó, ya muy vieja y casi ciega, a una novicia joven que le preguntó por qué siempre dormía con la ventana abierta hacia el oeste.
+Nunca dejó de oír a los setenta de Kel-Ammar. Se lo contó, ya muy vieja y casi ciega, a una novicia joven que le preguntó por qué siempre dormía con la ventana abierta hacia el este.
 
 —Para que sepan que alguien todavía los está escuchando —le dijo—. Es lo único que puedo hacer ya por ellos.
 

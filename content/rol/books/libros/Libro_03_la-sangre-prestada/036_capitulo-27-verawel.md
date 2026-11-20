@@ -1,14 +1,14 @@
-## Capítulo 27 · Verawel
+# Capítulo 27 · Verawel
 
-*El bosque del norte y la colina de Banderbill. Primavera del año 640 de la Nueva Era (33 D.bA).*
+*El bosque del norte y la colina de Banderbill. Primavera del año 640 de la Nueva* *Era (33 D.bA).*
 
 En los árboles, un año es una respiración, y Verawel había respirado trescientas tres veces.
 
-No las había contado. En los árboles no se cuenta. Se nota. Se nota el frío que sube por las raíces cuando la tierra se hiela, y se nota el agua que sube cuando la tierra se deshiela, y entre una cosa y otra pasa un año, y el árbol lo apunta en un anillo, por dentro, sin saberlo. Verawel había notado trescientos tres fríos y trescientos tres deshielos. Si alguien le hubiera preguntado cuántos años llevaba allí, habría dicho algunos.
+No las había contado. En los árboles no se cuenta. Se nota. Se nota el frío que sube por las raíces cuando la tierra se hiela, y se nota el agua que sube cuando la tierra se deshiela, y entre una cosa y otra pasa un año, y el árbol lo apunta en un anillo, por dentro, sin saberlo. Verawel había notado trescientos tres fríos y trescientos tres deshielos. Si alguien le hubiera preguntado cuántos años llevaba allí, habría dicho *algunos*.
 
 No le preguntaba nadie. Eso era lo bueno.
 
-* * *
+---
 
 Lo que se oía desde dentro de un roble no se parecía a nada.
 
@@ -26,7 +26,7 @@ Desde un roble del bosque del norte se oía mejor que desde la colina. No más f
 
 Verawel lo oía y no hacía nada. En los árboles no se hace nada. Se oye.
 
-* * *
+---
 
 Hacía unas treinta y tantas respiraciones, había pasado otra cosa.
 
@@ -48,13 +48,13 @@ Verawel no había contestado. No podía. Era un árbol.
 
 La voz había esperado. Mucho, para una voz. Poco, para un árbol.
 
-Nada, había dicho luego la voz. Con algo que podía ser respeto, o fastidio. No quieres nada. Los árboles nunca quieren nada. Y se había ido. Al norte. Hacia el mar. Por debajo del mar.
+*Nada*, había dicho luego la voz. Con algo que podía ser respeto, o fastidio. *No* *quieres nada. Los árboles nunca quieren nada.* Y se había ido. Al norte. Hacia el mar. Por debajo del mar.
 
 Verawel se había quedado con eso. Con la mano en la espalda que ya no estaba.
 
 Y la siguiente vez que vino alguien a sentarse delante de su cara de corteza, abrió los ojos.
 
-* * *
+---
 
 Ahora volvía.
 
@@ -64,7 +64,7 @@ Y algo más. Algo que el elfo llevaba en los brazos. Que pesaba poco. Que olía,
 
 El diario.
 
-Verawel lo había tenido en las manos una vez. Una sola. En el año 33, cuando era nuevo. Érandiul se lo había enseñado en la casa de libros de Livia, orgulloso, con las primeras treinta hojas escritas, y él le había dicho escribes como hablas, demasiado bonito, y Érandiul se había enfadado una semana.
+Verawel lo había tenido en las manos una vez. Una sola. En el año 33, cuando era nuevo. Érandiul se lo había enseñado en la casa de libros de Livia, orgulloso, con las primeras treinta hojas escritas, y él le había dicho *escribes como hablas, demasiado bonito*, y Érandiul se había enfadado una semana.
 
 El diario se acercaba.
 
@@ -72,7 +72,7 @@ Se sentó delante de él. En el suelo del claro, que en primavera no tenía hoja
 
 Y le habló.
 
-* * *
+---
 
 —Treinta y cinco años he tardado —dijo Érandiul—. Me dijiste que volviera con el diario. Lo he traído.
 
@@ -82,13 +82,13 @@ Silencio. Un pájaro.
 
 Abrió el diario. Verawel oyó cómo se abría: el crujido del lomo, el roce de las hojas.
 
-—Te voy a leer lo que he escrito —dijo Érandiul—. Para que me digas si está bien. Porque no me lo dice nadie. Lanther dice que le falta el sombrero. Sein dice que dura noticia no fue una noticia. Nerea Vell lloró. —Carraspeó—. Tú dime.
+—Te voy a leer lo que he escrito —dijo Érandiul—. Para que me digas si está bien. Porque no me lo dice nadie. Lanther dice que le falta el sombrero. Sein dice que *dura* *noticia* no fue una noticia. Nerea Vell lloró. —Carraspeó—. Tú dime.
 
 Y leyó.
 
-* * *
+---
 
-Leyó despacio. Con su voz vieja, que todavía tenía la música de la lengua de su madre. Año 607, o año de la batalla de Arghal, año cero. De la Gran Batalla de Arghal.
+Leyó despacio. Con su voz vieja, que todavía tenía la música de la lengua de su madre. *Año 607, o año de la batalla de Arghal, año cero. De la Gran Batalla de Arghal.*
 
 Verawel escuchó.
 
@@ -98,9 +98,9 @@ No con las orejas. Con todo el árbol. Con las raíces, con las ramas, con las h
 
 Y algo en el pecho de Verawel, donde la corteza tenía la grieta desde hacía treinta y cinco años, se movió.
 
-* * *
+---
 
-Érandiul terminó de leer el 609. Rinkel, la ciudad desértica. Cerró el diario.
+Érandiul terminó de leer el 609. *Rinkel, la ciudad desértica.* Cerró el diario.
 
 —Eso es todo —dijo.
 
@@ -112,7 +112,7 @@ La grieta del pecho se abrió.
 
 De dentro, blanca, húmeda, salió una mano.
 
-* * *
+---
 
 Tardó todo el día en salir.
 
@@ -130,7 +130,7 @@ Lo intentó otra vez.
 
 —Peor —dijo Verawel, contra su hombro—. Pero… de verdad.
 
-* * *
+---
 
 Tardaron doce días en llegar a la colina. Andando. Verawel tenía que aprender otra vez a andar, y a comer, y a hablar deprisa. Las tres cosas le parecían una locura. ¿Para qué deprisa?, decía. ¿Adónde vamos?
 
@@ -152,7 +152,7 @@ Verawel le contó lo que había oído desde abajo.
 
 —No quería nada. —Verawel se encogió de hombros. Le costaba; los hombros eran de corteza—. Los árboles no quieren. Se fue. —Siguió andando—. Pero se fijó. Se fijó en que no quería. Como se fija uno en una moneda que no reconoce. —Miró a Érandiul—. Ese colecciona cosas raras. Lo que no se compra. Se acordará de mí.
 
-* * *
+---
 
 La colina no lo reconoció.
 
@@ -172,11 +172,11 @@ Tibbet lo recogió. Se lo puso.
 
 —Ochenta y seis —dijo—. Este no cuenta. Este lo he roto de contento.
 
-Y apuntó en la lista, en el reverso, en la de Cosas que han pasado, con lápiz, temblando:
+Y apuntó en la lista, en el reverso, en la de *Cosas que han pasado*, con lápiz, temblando:
 
 *5. Ha vuelto uno de los árboles.*
 
-* * *
+---
 
 Lanther lo vio esa noche. En la biblioteca. En la habitación del arcón.
 
@@ -204,12 +204,12 @@ Verawel le puso una mano en el pelo. La mano con la corteza en el dorso.
 
 —No me voy —dijo—. Los árboles me han devuelto. Dicen que aquí hago más falta. —Se calló un momento—. Dicen que hay algo que se tiene que escribir y que lo vais a escribir mal.
 
-* * *
+---
 
 En el registro de la biblioteca, el de Amael, la entrada de esa semana es de Benet Vell, que tenía entonces cuarenta y un años y llevaba ocho con el apellido y el sombrero prestado:
 
-*Año 640. Ha llegado un elfo nuevo que no es nuevo. Dice que era bibliotecario cuando no había biblioteca. Dice que ayudó a hacer esta. Lo he buscado en el registro y está: en la primera página, en la letra de Amael, en el año 63. «Verawel me ha subido los libros.»*
+*Año 640. Ha llegado un elfo nuevo que no es nuevo. Dice que era bibliotecario* *cuando no había biblioteca. Dice que ayudó a hacer esta. Lo he buscado en el registro y* *está: en la primera página, en la letra de Amael, en el año 63. «Verawel me ha subido los* *libros.»*
 
-*Me ha pedido que le deje ordenar las estanterías de arriba. Le he dicho que sí. Ha tardado cuatro días en ordenar una. Ha dicho que tenía prisa.*
+*Me ha pedido que le deje ordenar las estanterías de arriba. Le he dicho que sí. Ha* *tardado cuatro días en ordenar una. Ha dicho que tenía prisa.*
 
-*El elfo de la silla del fondo ha bajado el diario de la estantería esta mañana y lo ha tenido en las rodillas todo el día. No ha escrito. Pero lo ha tenido.*
+*El elfo de la silla del fondo ha bajado el diario de la estantería esta mañana y lo ha* *tenido en las rodillas todo el día. No ha escrito. Pero lo ha tenido.*

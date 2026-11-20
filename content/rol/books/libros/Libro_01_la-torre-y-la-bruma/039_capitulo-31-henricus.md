@@ -1,4 +1,4 @@
-## Capítulo 31 · Henricus
+# Capítulo 31 · Henricus
 
 *Concordia. Año 144.*
 
@@ -10,7 +10,7 @@ Pero esa noche los muertos de las mazmorras no gritaban a sus madres ni a sus es
 
 *El que tira. El que tira. Viene el que tira.*
 
-* * *
+---
 
 —No hui —dijo el muchacho.
 
@@ -38,11 +38,11 @@ Henricus sintió que se le helaba la sangre.
 
 —Se estaba levantando —repitió el muchacho—. Con los ojos blancos. Y me miró. Y no me reconoció.
 
-* * *
+---
 
 Henricus no lo creyó. No del todo. No esa noche.
 
-Pero los muertos de las mazmorras sí. Lo sabía porque, mientras el muchacho hablaba, los murmullos de la oscuridad se habían ido haciendo más fuertes, más asustados, hasta que Henricus apenas podía oír su propia voz. El que tira. El que tira. Y porque, cuando el muchacho dijo cantaba nombres, todos se callaron a la vez. De golpe. Como niños que oyen pasos.
+Pero los muertos de las mazmorras sí. Lo sabía porque, mientras el muchacho hablaba, los murmullos de la oscuridad se habían ido haciendo más fuertes, más asustados, hasta que Henricus apenas podía oír su propia voz. *El que tira. El que tira.* Y porque, cuando el muchacho dijo *cantaba nombres*, todos se callaron a la vez. De golpe. Como niños que oyen pasos.
 
 Subió a sus aposentos. No durmió.
 
@@ -52,7 +52,7 @@ Y luego mandó a alguien de su confianza a la Torre de Ceniza a mirar a los ojos
 
 El hombre de confianza no volvió.
 
-* * *
+---
 
 —Madre.
 
@@ -66,7 +66,7 @@ Henricus se sentó en el taburete. El mismo taburete en el que se sentaba de ni�
 
 Nadia no se movió.
 
-—Hace seis años que hablan de él. Desde el ciento treinta y ocho. Al principio era un murmullo. Ahora es un grito. El que tira. Todos lo dicen. Los de la cripta, los de los cementerios, los de las mazmorras. Están asustados, madre. No los había oído nunca asustados.
+—Hace seis años que hablan de él. Desde el ciento treinta y ocho. Al principio era un murmullo. Ahora es un grito. *El que tira.* Todos lo dicen. Los de la cripta, los de los cementerios, los de las mazmorras. Están asustados, madre. No los había oído nunca asustados.
 
 —Lo sé.
 
@@ -122,7 +122,7 @@ Su madre siguió de espaldas. No dijo nada. Pero Henricus vio cómo le temblaban
 
 Y no preguntó más.
 
-* * *
+---
 
 Volvió a palacio de madrugada, a pie, por las calles vacías, con la capa vieja sobre los hombros y la cabeza llena de preguntas.
 
@@ -154,7 +154,7 @@ Y pensó que solo hay una clase de enemigo contra el que un hombre duda.
 
 El que se le parece.
 
-* * *
+---
 
 Henricus reforzó la Torre de Ceniza. Puso braseros de sal común en cada almena de cada fortaleza del río, como le había dicho su madre, sin explicar a nadie de dónde había sacado la idea. Mandó emisarios discretos a las aldeas a buscar niños que oyeran voces, y cuando los sacerdotes protestaban, les daba oro para el templo y les pedía que no hicieran preguntas.
 
@@ -170,7 +170,7 @@ El muchacho levantó la vista. Por primera vez, lo reconoció. Abrió mucho los 
 
 —Sí, majestad —dijo—. Pero esta vez no voy a correr.
 
-No corrió. Murió en la segunda hora, en la orilla, con la lanza en la mano. Y cuando se levantó, gris, con los ojos blancos, entre los doscientos muertos frescos que el Padre de la Bruma arrastró hacia sus filas, Henricus Bhargaras, emperador de los pueblos jurados, lo reconoció entre la niebla, y dijo su nombre, Gil Osmar, Gil, hijo de las colinas de sal, mirando hacia arriba, con todo el amor que le quedaba.
+No corrió. Murió en la segunda hora, en la orilla, con la lanza en la mano. Y cuando se levantó, gris, con los ojos blancos, entre los doscientos muertos frescos que el Padre de la Bruma arrastró hacia sus filas, Henricus Bhargaras, emperador de los pueblos jurados, lo reconoció entre la niebla, y dijo su nombre, *Gil Osmar, Gil, hijo de las colinas de sal*, mirando hacia arriba, con todo el amor que le quedaba.
 
 Fue uno de los primeros de los doscientos.
 

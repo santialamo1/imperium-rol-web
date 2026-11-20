@@ -1,6 +1,6 @@
-## Capítulo 17 · Tibbet
+# Capítulo 17 · Tibbet
 
-*El Fuerte Abandonado, en la punta norte de Oderon. Invierno del año 1080 de la Nueva Era (473 D.bA).*
+*El Fuerte Abandonado, en la punta norte de Oderon. Invierno del año 1080 de la* *Nueva Era (473 D.bA).*
 
 Los pescadores empezaron a llamarle padre en el 1071, y Tibbet tardó nueve años en atreverse a decirles que no lo era.
 
@@ -18,7 +18,7 @@ Tibbet no supo qué contestar. Llevaba el sombrero ciento treinta y uno, el del 
 
 No lo corrigió.
 
-* * *
+---
 
 Volvieron a los seis meses. Los tres. Con una barca llena de cosas.
 
@@ -32,13 +32,13 @@ Pescado seco. Aceite de foca. Una manta de lana de oveja de las montañas. Un an
 
 Y lo dejaron todo en la puerta y se fueron.
 
-Tibbet se quedó mirando el montón. Pensó en devolverlo. Pensó en tirarlo al mar. Pensó en la idea que había tenido la primera noche, la de gnomo, la tonta: si alguien entra y ve un escudo en medio de un montón de coronas, no lo mira. Mira las coronas.
+Tibbet se quedó mirando el montón. Pensó en devolverlo. Pensó en tirarlo al mar. Pensó en la idea que había tenido la primera noche, la de gnomo, la tonta: *si alguien entra* *y ve un escudo en medio de un montón de coronas, no lo mira. Mira las coronas.*
 
 Cogió el anillo de plata. Lo bajó al almacén más hondo. Lo dejó en el suelo, al lado del escudo.
 
 Luego subió y bajó el resto.
 
-* * *
+---
 
 En nueve años, el montón creció.
 
@@ -60,7 +60,7 @@ Dejó la corona en la puerta. Se fue.
 
 Tibbet la bajó al almacén.
 
-* * *
+---
 
 En el invierno del 1080, el almacén más hondo del Fuerte Abandonado tenía:
 
@@ -72,7 +72,7 @@ Nadie que entrara lo miraría. Era el objeto más feo de la sala.
 
 Tibbet lo miraba cada noche.
 
-* * *
+---
 
 Ese invierno vinieron los otros.
 
@@ -82,17 +82,17 @@ Un drow.
 
 Tibbet bajó de la muralla. Fue a los almacenes. Se sentó en el suelo, delante del escudo, con las piernas cruzadas.
 
-El escudo latía. Tum. Más deprisa que de costumbre.
+El escudo latía. *Tum.* Más deprisa que de costumbre.
 
 —Ya lo sé —le dijo Tibbet—. Ya lo sé. Vienen por ti.
 
-* * *
+---
 
 No sabía cómo lo sabían. Lo pensó toda esa noche, mientras los oía acercarse por el camino de la cala, con antorchas, con ese ruido de botas en la nieve que hacen los que no tienen prisa.
 
 No podían saberlo. Nadie lo sabía. Ni Lanther. Ni Sein. Ni Eluret. Solo él, y el Emperador muerto, y los cuatro fuertes, y las hojas negras de roble que había dejado en tres patios.
 
-A lo mejor no lo sabían. A lo mejor estaban buscando en los cuatro. A lo mejor alguien les había dicho un escudo que no se usa, cuatro fuertes. A lo mejor alguien había leído su lista.
+A lo mejor no lo sabían. A lo mejor estaban buscando en los cuatro. A lo mejor alguien les había dicho *un escudo que no se usa, cuatro fuertes*. A lo mejor alguien había leído su lista.
 
 Verawel tenía una copia de su lista.
 
@@ -106,7 +106,7 @@ Pensó en el que escucha. En lo que Lanther decía de él: que oía lo que la ge
 
 Y pensó que a lo mejor también oía lo que la gente escondía. Que esconder algo es querer algo. Querer que no lo encuentren.
 
-* * *
+---
 
 Los oyó en el patio a medianoche.
 
@@ -124,7 +124,7 @@ Oyó cómo bajaban al segundo.
 
 Cantó.
 
-* * *
+---
 
 Siete notas. Élficas. De la corteza blanda. Que subían y luego no bajaban. Que se quedaban colgando en el aire como una pregunta que nadie contesta.
 
@@ -140,7 +140,7 @@ Y mientras cantaba, se acordó de una cosa. Una sola. Como le dijo Lanther.
 
 *Gal.*
 
-* * *
+---
 
 Los orcos bajaron la escalera del segundo al tercer nivel.
 
@@ -162,13 +162,13 @@ Y los orcos no veían nada.
 
 Veían una pared.
 
-* * *
+---
 
 El drow bajó el último.
 
 Tibbet lo vio a la luz de las antorchas. Alto, delgado, con la piel de ceniza y los ojos blancos y el pelo blanco recogido en una cola. Con una bolsita de cuero colgada del cuello.
 
-Tibbet lo conocía. No de verlo. De oírlo. De mil años de oír a Lanther hablar de él en el sótano, siempre con la misma voz, rara, entre la rabia y la pena. Ithil. El tío de Arthal. El que se fue abajo.
+Tibbet lo conocía. No de verlo. De oírlo. De mil años de oír a Lanther hablar de él en el sótano, siempre con la misma voz, rara, entre la rabia y la pena. *Ithil. El tío de Arthal.* *El que se fue abajo.*
 
 El drow se quedó al pie de la escalera. Mirando la pared que no era una pared.
 
@@ -190,7 +190,7 @@ Como se escucha una pared para saber si hay alguien al otro lado.
 
 Tibbet dejó de respirar.
 
-Siguió cantando, por dentro, sin voz. Gal. Gal. Gal.
+Siguió cantando, por dentro, sin voz. *Gal. Gal. Gal.*
 
 El drow abrió los ojos.
 
@@ -212,7 +212,7 @@ Pero en el último escalón, antes de desaparecer, el drow se volvió. Un moment
 
 Y se tocó la bolsita del cuello. Con dos dedos.
 
-* * *
+---
 
 Tibbet no se movió hasta el alba.
 
@@ -224,7 +224,7 @@ Había usado la canción. Había funcionado. Había funcionado demasiado bien: s
 
 Se acordaba del escudo. Eso sí.
 
-Y se acordaba de Gal.
+Y se acordaba de *Gal*.
 
 Sacó la lista del chaleco. La desdobló. Con los dedos helados.
 
@@ -236,7 +236,7 @@ Se quedó mirándola.
 
 Luego, debajo, apuntó la trescientos quince. Esa sí le vino sola. Como siempre.
 
-*Un gnomo que se ríe, en una ciudad sin escudo, que dirá que sí a lo que no se puede decir que sí. Por la ciudad.*
+*Un gnomo que se ríe, en una ciudad sin escudo, que dirá que sí a lo que no se* *puede decir que sí. Por la ciudad.*
 
 Tibbet no supo qué quería decir. Pensó en el gnomo joven que había visto en el cuarto del Emperador, el día que murió, en un rincón, con el sombrero en las manos.
 

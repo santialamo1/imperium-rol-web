@@ -1,4 +1,4 @@
-## Capítulo 52 · Lexandra
+# Capítulo 52 · Lexandra
 
 *Concordia, Torre de la Unión. Año 234, otoño.*
 
@@ -24,7 +24,7 @@ No a morir. A Kel-Ammar. A vivir en una tienda al borde de la bruma, como embaja
 
 Lexandra no contestó a eso.
 
-* * *
+---
 
 La sala del Consejo estaba en la planta séptima de la Torre de la Unión, una estancia redonda con doce sillas de roble alrededor de una mesa de piedra y una ventana que daba al Ombligo. Lexandra la odiaba. Olía a cera vieja y a hombres que llevaban toda la vida esperando su turno.
 
@@ -36,7 +36,7 @@ Era bisnieto de la señora Varga a la que Helen Dorian había ahorcado setenta y
 
 —¿Qué parte, lord Varga?
 
-—Toda, majestad. —Varga abrió las manos con pesar—. El decreto de Hector Tiberius, que es la única ley de sucesión que tiene este Imperio, dice: cuando el emperador muera sin heredero nombrado, que la fuerza elija. No dice nada de emperadores que se levantan de la silla porque les apetece irse a vivir a una tienda. Vos no estáis muerta. Por tanto, no podéis tener heredero. Y si os vais, el trono queda vacío. Y un trono vacío, según la ley, se llena en la plaza.
+—Toda, majestad. —Varga abrió las manos con pesar—. El decreto de Hector Tiberius, que es la única ley de sucesión que tiene este Imperio, dice: *cuando el emperador* *muera sin heredero nombrado, que la fuerza elija*. No dice nada de emperadores que se levantan de la silla porque les apetece irse a vivir a una tienda. Vos no estáis muerta. Por tanto, no podéis tener heredero. Y si os vais, el trono queda vacío. Y un trono vacío, según la ley, se llena en la plaza.
 
 Hubo murmullos. Algunos de asentimiento. Lexandra los contó: cinco. Cinco de once.
 
@@ -48,7 +48,7 @@ Hubo murmullos. Algunos de asentimiento. Lexandra los contó: cinco. Cinco de on
 
 —Perdonad. De los clanes libres. —Varga inclinó la cabeza—. Para una madre de Pisor que perdió a sus tres hijos en Ummat, majestad, me temo que la diferencia es pequeña.
 
-Lexandra lo miró en silencio. Pensó en Braco, en su último invierno, con un mechón de pelo rubio en el puño. No tienes odio, le había dicho. Por eso vas a ganar. Pero Braco no le había explicado qué había que hacer con el odio de los demás.
+Lexandra lo miró en silencio. Pensó en Braco, en su último invierno, con un mechón de pelo rubio en el puño. *No tienes odio*, le había dicho. *Por eso vas a ganar.* Pero Braco no le había explicado qué había que hacer con el odio de los demás.
 
 —Proponéis, entonces —dijo—, que mi hijo luche en la plaza.
 
@@ -60,7 +60,7 @@ Varga no contestó. No hacía falta. En la mesa, a su izquierda, estaba sentado 
 
 Y al fondo, en la última silla, con las manos cruzadas sobre el pecho, estaba Darius Heredicus.
 
-* * *
+---
 
 Darius tenía treinta y nueve años. Llevaba catorce en el Consejo, desde el verano en que ella le rompió la muñeca en la plaza. La muñeca se le había curado torcida, con los huesos colocados por las manos pequeñas de la herborista con la que luego se casó, y ya no podía sostener una espada larga de Gijor más de unos minutos. Lexandra le había ofrecido la forja imperial aquella primera semana. La oferta caducó al cabo de un año sin respuesta.
 
@@ -100,7 +100,7 @@ Alguien se rió. Lexandra no vio quién. Varga se puso rojo.
 
 —La plaza no me ofrece nada. —Darius levantó la mano derecha, la de la muñeca torcida, y la dejó sobre la mesa de piedra para que todos la vieran—. Ya estuve en la plaza. Perdí. La emperatriz me dejó vivir. Dijo que si me mataba mis hijos tendrían una razón y que si me dejaba vivir tendrían que inventársela. —Miró a Lexandra, solo un instante, y los dos supieron que estaba pensando en la cripta—. Me ha dejado vivir más de una vez, lord Varga. Las deudas de ese tipo son mías. No voy a dejar que me las cobre un Varga.
 
-* * *
+---
 
 La votación fue seis contra cinco.
 
@@ -130,7 +130,7 @@ Ysh-Talia habló entonces, por primera vez, sin levantar la vista del niño.
 
 —Tiene razón —dijo, en la lengua de Tiber, con su acento de los pozos—. Y además no bajará solo.
 
-* * *
+---
 
 No bajó solo.
 
@@ -168,9 +168,9 @@ No fue una risa cruel. Fue el tipo de risa que sale cuando algo que daba mucho m
 
 —Majestad —dijo.
 
-No heredero. Majestad.
+No *heredero*. *Majestad*.
 
-* * *
+---
 
 Lexandra abdicó tres días después, en el salón del trono, ante el Consejo en pleno. Lord Hadrian Varga no asistió; mandó decir que tenía fiebre. Su sobrino sí asistió, en la segunda fila, mirándose las botas.
 
@@ -202,11 +202,11 @@ Darius tardó en contestar.
 
 Lexandra le puso la mano en el hombro, un instante. Darius no se apartó.
 
-Una semana después, la emperatriz que había sido salió de Concordia hacia el sur, con Ansel, dos mulas cargadas de libros y una escolta de diez hombres, camino de Kel-Ammar. Ysh-Talia le dio un collar de cuentas de sal blanca. Yaakov la abrazó en la puerta del puente del Ceniza y le dijo que le escribiría cada semana, y lo hizo, durante once años, hasta la víspera de la Batalla de las Sombras.
+Una semana después, la emperatriz que había sido salió de Concordia hacia el este, con Ansel, dos mulas cargadas de libros y una escolta de diez hombres, camino de Kel- Ammar. Ysh-Talia le dio un collar de cuentas de sal blanca. Yaakov la abrazó en la puerta del puente del Ceniza y le dijo que le escribiría cada semana, y lo hizo, durante once años, hasta la víspera de la Batalla de las Sombras.
 
 En la última de aquellas cartas, la víspera, Yaakov le contaba que Darius Heredicus había pedido mandar una de las alas del ejército en el desierto. Que se lo había concedido. Que el hijo de Darius, Maximus, de veinte años, se había quedado en Concordia con su madre, rabiando porque no lo dejaban ir.
 
-Darius me dijo que no quería que su hijo viera lo que iba a ver allí, escribía Yaakov. Que ya tenía bastante con lo que le contaban en casa.
+*Darius me dijo que no quería que su hijo viera lo que iba a ver allí*, escribía Yaakov. *Que ya tenía bastante con lo que le contaban en casa.*
 
 Darius Heredicus murió dos días después, en las dunas, en el flanco izquierdo, el único señor del Consejo que cayó en la Batalla de las Sombras.
 

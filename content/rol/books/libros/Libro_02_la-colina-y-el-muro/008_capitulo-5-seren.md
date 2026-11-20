@@ -1,6 +1,6 @@
-## Capítulo 5 · Seren
+# Capítulo 5 · Seren
 
-*El Mar de la Penuria Eterna. Invierno del año 26 al 27.*
+*El Mar de la Eterna Penuria. Invierno del año 26 al 27.*
 
 Los muertos no duermen, pero algunos sueñan.
 
@@ -10,17 +10,17 @@ Una vez, hace mucho, en los primeros años, intentó soñar con Anwe. No pudo. C
 
 Así que ahora sueña con camellos, a propósito, porque es lo único que le queda que no duele.
 
-* * *
+---
 
 Está en la cubierta de la nave grande. La de los velos grises, la del vivo. No sabe por qué está allí. Emrah no se lo ha ordenado. Emrah no le ordena nada; nunca le ha ordenado nada, ni viva ni muerta. Simplemente, cuando las seiscientas quillas soltaron amarras en el puerto de los astilleros y los muertos subieron en hileras, ella subió a esta. Siguió al vivo.
 
 El vivo vomita.
 
-Es un hombre viejo, de barba blanca mal cortada, con una capa de chancillería que alguna vez fue azul y que ahora tiene el color del barro. Huele a tinta y a miedo y a pan. Vomita por la borda con mucha educación, sujetándose el sombrero, disculpándose. Le habla a ella. Nadie le habla a ella. En trescientos años, nadie salvo Emrah le ha hablado de verdad, mirándola, esperando una respuesta. El vivo sí. Ya lo sé, le ha dicho, limpiándose la boca. El único vivo en una flota de doscientos mil y lo primero que hago es echar la comida.
+Es un hombre viejo, de barba blanca mal cortada, con una capa de chancillería que alguna vez fue azul y que ahora tiene el color del barro. Huele a tinta y a miedo y a pan. Vomita por la borda con mucha educación, sujetándose el sombrero, disculpándose. Le habla a ella. Nadie le habla a ella. En trescientos años, nadie salvo Emrah le ha hablado de verdad, mirándola, esperando una respuesta. El vivo sí. *Ya lo sé*, le ha dicho, limpiándose la boca. *El único vivo en una flota de doscientos mil y lo primero que hago es echar la* *comida.*
 
 Se queda cerca de él. No sabe por qué. Quizá porque huele a pan, y el pan huele a las tiendas, y las tiendas huelen a camellos.
 
-* * *
+---
 
 Al tercer día empiezan a soltarse.
 
@@ -38,11 +38,11 @@ Sube despacio. Se enrosca sobre sí mismo. Vacila un momento en el aire, por enc
 
 Desaparece.
 
-Se ha ido, piensa. Lo ha soltado el mar.
+*Se ha ido*, piensa. *Lo ha soltado el mar.*
 
 Y entonces, por primera vez en trescientos años, siente algo que no es pena.
 
-* * *
+---
 
 A partir del tercer día se sueltan cientos cada noche.
 
@@ -64,7 +64,7 @@ Ha conseguido decir una frase. Una sola. La dijo en la torre, delante de la Llam
 
 Desde entonces no ha conseguido decir nada más.
 
-* * *
+---
 
 Emrah va en la nave de proa.
 
@@ -76,19 +76,19 @@ Tira de las seiscientas quillas negras a la vez, más deprisa, siempre más depr
 
 *No tires tanto, Emrah.*
 
-Lo piensa con todas sus fuerzas. Lo ha pensado tantas veces en trescientos años que ya no sabe si lo piensa o si es lo único que es. No tires tanto. Era lo que le decía cuando estaba viva. Cuando él volvía de las expediciones del clan con los dedos grises y la nariz sangrando, cuando se sentaba en la puerta de la tienda tosiendo, después de haber tirado de algún muerto perdido en la bruma para traerlo a casa. No tires tanto. Un día vas a tirar de ti mismo y no vas a saber volver.
+Lo piensa con todas sus fuerzas. Lo ha pensado tantas veces en trescientos años que ya no sabe si lo piensa o si es lo único que es. *No tires tanto.* Era lo que le decía cuando estaba viva. Cuando él volvía de las expediciones del clan con los dedos grises y la nariz sangrando, cuando se sentaba en la puerta de la tienda tosiendo, después de haber tirado de algún muerto perdido en la bruma para traerlo a casa. *No tires tanto. Un día vas a tirar de* *ti mismo y no vas a saber volver.*
 
 Él siempre se reía. Le decía que era una exagerada. Que los Sahr-Ennet llevaban mil años tirando y que nunca les había pasado nada.
 
 Luego la bruma se los bebió a ella y a la niña, y él tiró tanto que se partió en siete.
 
-* * *
+---
 
 Al sexto día el agua se pone negra.
 
-Lo decían los marineros de la Concordia viva, en las tabernas del puerto, en voz baja: al sexto día el agua se pone negra, y si no has rezado todavía, empieza.
+Lo decían los marineros de la Concordia viva, en las tabernas del puerto, en voz baja: *al sexto día el agua se pone negra, y si no has rezado todavía, empieza*.
 
-El vivo reza. Lo ve desde su sitio, junto a la borda. Está sentado en un barril, con el libro de cuentas sobre las rodillas, moviendo los labios. No reza a ningún dios. Seren lo oye. Reza números. Cuatrocientos doce. Cuatrocientos trece. Cuatrocientos catorce. Está contando a los que se sueltan. Cada hilo blanco que sube de su nave o de las naves cercanas, él lo cuenta, en voz baja, y luego lo apunta en el libro con una raya pequeña.
+El vivo reza. Lo ve desde su sitio, junto a la borda. Está sentado en un barril, con el libro de cuentas sobre las rodillas, moviendo los labios. No reza a ningún dios. Seren lo oye. Reza números. *Cuatrocientos doce. Cuatrocientos trece. Cuatrocientos catorce.* Está contando a los que se sueltan. Cada hilo blanco que sube de su nave o de las naves cercanas, él lo cuenta, en voz baja, y luego lo apunta en el libro con una raya pequeña.
 
 En la parte de arriba de la página ha escrito, con letra de chancillería:
 
@@ -102,7 +102,7 @@ Y al final de la página, más pequeño:
 
 Seren lo lee. Lo lee tres veces. Y algo, dentro de ella, en el sitio debajo de las costillas donde Emrah tira, se suelta un poco. Solo un poco. Como se afloja un nudo.
 
-* * *
+---
 
 Esa noche, la del sexto día, ocurre lo de la Garganta.
 
@@ -120,13 +120,13 @@ Es como caer. El mundo se inclina. El agua negra sube por un lado, por encima de
 
 El vivo se ha atado al mástil con su propio cinturón. Abraza el libro de cuentas contra el pecho. Tiene los ojos cerrados. Está gritando números.
 
-Seren lo mira. Y piensa, con una claridad que no ha tenido en siglos: si cae, se ahoga. Está vivo. No sube. Se ahoga y ya está.
+Seren lo mira. Y piensa, con una claridad que no ha tenido en siglos: *si cae, se* *ahoga. Está vivo. No sube. Se ahoga y ya está.*
 
 Se acerca a él. Se agarra al mismo mástil, con sus manos de muerta. Y se queda allí, pegada a él, entre él y la borda, durante el tiempo que dura el remolino, que es un tiempo que no se puede medir, que es una hora o una noche o un siglo.
 
 Lo hace porque huele a pan.
 
-* * *
+---
 
 Salen de la Garganta al amanecer.
 
@@ -178,6 +178,6 @@ Y entonces, por detrás de él, por debajo, desde muy hondo, desde el otro lado 
 
 *Más deprisa.*
 
-Emrah se da la vuelta otra vez. Hacia el este. Hacia la tierra.
+Emrah se da la vuelta otra vez. Hacia el sur. Hacia la tierra.
 
 Y el tirón vuelve. Más fuerte que antes.

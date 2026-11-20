@@ -1,4 +1,4 @@
-## Capítulo 76 · Arthal II
+# Capítulo 76 · Arthal II
 
 *Banderbill, el Bosque Dorck y Nix. Año 417 de la Nueva Era.*
 
@@ -20,7 +20,7 @@ Lindiel II sonrió. Tenía los labios secos y la cara de un hombre que ha pasado
 
 —Porque al lado no sale en los cantares.
 
-* * *
+---
 
 Le pusieron el aro en la plaza una semana después. Solo el aro. El de hierro negro. Sin la corona de once libras, que estaba en un cajón desde hacía cuarenta y dos años y que Arthal no había visto nunca.
 
@@ -32,15 +32,15 @@ La plaza lo miraba.
 
 No con cariño. Arthal lo sabía. Con curiosidad. Con desconfianza. Con un poco de miedo. Era el primero. El primero que no era del todo de la colina.
 
-Alguien dijo orejudo. Bajito. Al fondo.
+Alguien dijo *orejudo*. Bajito. Al fondo.
 
 Arthal lo oyó. Sonrió.
 
 Y subió al pilón.
 
-* * *
+---
 
-—Me llamo Arthal —dijo—. En la lengua de mi madre quiere decir el que sube. En la de mi padre no quiere decir nada.
+—Me llamo Arthal —dijo—. En la lengua de mi madre quiere decir *el que sube*. En la de mi padre no quiere decir nada.
 
 Silencio.
 
@@ -58,7 +58,7 @@ Nadie aplaudió.
 
 Pero al fondo de la plaza, en la escalinata de la biblioteca, un viejo con un sombrero que le quedaba grande se lo quitó. Y lo levantó.
 
-* * *
+---
 
 Salieron en abril. Seis mil. Por la puerta sur. A paso.
 
@@ -76,7 +76,7 @@ Dalla Hask lo miró de arriba abajo.
 
 —Por eso vengo. —Dalla se ajustó la gubia—. Para enseñarle dónde estaba el puerto.
 
-* * *
+---
 
 El Bosque Dorck seguía allí.
 
@@ -116,7 +116,7 @@ Dalla se quedó callada mucho rato.
 
 —Dax decía cosas así —dijo al final.
 
-* * *
+---
 
 Llegaron al viejo campamento el día veinte.
 
@@ -136,7 +136,7 @@ En el centro del círculo, sentado en una piedra, había un orco solo. Viejo. Mu
 
 Mirando hacia arriba.
 
-* * *
+---
 
 La batalla duró medio día.
 
@@ -148,9 +148,9 @@ Pero había una diferencia.
 
 Los de la Armada miraban hacia arriba.
 
-Se lo había enseñado Dalla. A todos. Los seis mil. En el valle de detrás de la colina, durante diecisiete años. Antes de cada carga, se mira arriba. Un momento. Al cielo. Y se dice un nombre. Uno. El que sea. Hacia arriba. Y luego se baja la vista y se va.
+Se lo había enseñado Dalla. A todos. Los seis mil. En el valle de detrás de la colina, durante diecisiete años. *Antes de cada carga, se mira arriba. Un momento. Al cielo. Y se* *dice un nombre. Uno. El que sea. Hacia arriba. Y luego se baja la vista y se va.*
 
-¿Para qué?, le había preguntado un recluta, el primer año.
+*¿Para qué?*, le había preguntado un recluta, el primer año.
 
 *Para que, si te mueres, sepas a dónde ir.*
 
@@ -158,7 +158,7 @@ Seis mil soldados de la Armada Imperial miraron hacia arriba en el borde del val
 
 Y bajaron.
 
-* * *
+---
 
 Los orcos no aguantaron.
 
@@ -178,7 +178,7 @@ Se le salió algo blanco de la boca, fino, como el aliento en invierno.
 
 Y subió.
 
-* * *
+---
 
 Al atardecer, el valle estaba vacío. Salvo por el círculo de piedras rojas.
 
@@ -202,13 +202,13 @@ Arthal lo cogió.
 
 Lo desdobló.
 
-Por un lado había una lista. Panadería de Ruald, calle de los toneleros. Un pan por boca, cada dos días.
+Por un lado había una lista. *Panadería de Ruald, calle de los toneleros. Un pan por* *boca, cada dos días.*
 
 Por el otro, un poema. Sobre una mujer que cosía un botón. Con el tercer verso tachado y reescrito encima con otra tinta. Con dos versos añadidos al final.
 
 Con la letra de su abuelo.
 
-* * *
+---
 
 Arthal levantó la vista del papel.
 
@@ -218,9 +218,9 @@ El orco dijo algo. En su lengua. Despacio. Una palabra. Mirando hacia arriba.
 
 Arthal no la entendió. Pero se la oyó a los gnomos después, a los que sabían algo de la lengua de los orcos, y los gnomos discutieron mucho, y al final dijeron que no tenía traducción. Que era una palabra nueva. Que no la habían oído nunca. Que la habría inventado él.
 
-Que más o menos quería decir lo que se dice de los muertos mirando hacia arriba.
+Que más o menos quería decir *lo que se dice de los muertos mirando hacia arriba*.
 
-* * *
+---
 
 El orco se murió esa noche. En el círculo. Sentado en su piedra. Nadie lo tocó. Arthal no dejó que nadie lo tocara.
 
@@ -236,7 +236,7 @@ Thrain lo leyó. Era enano; leía despacio. Al terminar se quedó mucho rato cal
 
 Y cogió una pala.
 
-* * *
+---
 
 Reconstruyeron Nix ese verano.
 
@@ -248,7 +248,7 @@ En el astillero, en la grada, Arthal mandó poner una placa. Pequeña. De bronce
 
 Y debajo, con una gubia de carpintero, clavada en la madera de la grada hasta el mango, para que no la quitara nadie.
 
-* * *
+---
 
 Volvió a la colina en otoño. Con cinco mil seiscientos.
 

@@ -1,4 +1,4 @@
-## DE LAS CRÓNICAS DE BANDERBILL (II)
+# De las Crónicas de Banderbill (II)
 
 He preguntado a Su Majestad si cree que Hector Tiberius sabía lo que hacía cuando decretó que la fuerza eligiera al sucesor.
 

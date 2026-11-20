@@ -1,4 +1,4 @@
-## Capítulo 20 · Teodor
+# Capítulo 20 · Teodor
 
 *Concordia. Año 88, la noche de la quema.*
 
@@ -22,7 +22,7 @@ Teodor estaba allí. No vio ningún hueco. Vio a una anciana de cara arrugada y 
 
 Pero lo que vino después fue peor.
 
-* * *
+---
 
 Los sacerdotes Ibaro decidieron que los niños también debían arder.
 
@@ -36,9 +36,9 @@ Teodor esperó a que dijera algo. Que lo detuviera.
 
 Arenar no dijo nada. Se dio la vuelta y entró en el palacio.
 
-Años después, cuando Teodor era capitán de la Guardia y Drolnar emperador, se atrevió a preguntárselo una sola vez. Por qué no lo detuvo. Drolnar lo miró durante un largo rato, con aquellos ojos de toro cansado, y le dijo: Porque esa mañana, que Merin me perdone, yo también quería que algo ardiera.
+Años después, cuando Teodor era capitán de la Guardia y Drolnar emperador, se atrevió a preguntárselo una sola vez. Por qué no lo detuvo. Drolnar lo miró durante un largo rato, con aquellos ojos de toro cansado, y le dijo: *Porque esa mañana, que Merin me perdone, yo también quería que algo ardiera.*
 
-* * *
+---
 
 Teodor no lo decidió. Eso es lo que diría después, siempre que alguien se lo preguntaba, aunque nadie se lo preguntó nunca, porque no se lo contó a nadie excepto a su mujer y, en su lecho de muerte, a su hijo mayor.
 

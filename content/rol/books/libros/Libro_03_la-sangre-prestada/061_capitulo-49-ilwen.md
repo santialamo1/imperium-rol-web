@@ -1,6 +1,6 @@
-## Capítulo 49 · Ilwen
+# Capítulo 49 · Ilwen
 
-*Los bosques blancos del norte de Wonder. Primavera del año 763 de la Nueva Era (156 D.bA).*
+*Los bosques blancos del norte de Rhagnark, lejos al norte de Wonder. Primavera* *del año 763 de la Nueva Era (156 D.bA).*
 
 Los ciervos lo supieron antes que nadie.
 
@@ -26,7 +26,7 @@ Sarha lo repitió.
 
 *Y dos de los nuestros. Que no son de los nuestros.*
 
-* * *
+---
 
 Los elfos del bosque blanco no tenían nombre para sí mismos. No lo necesitaban. Eran los que estaban. Los demás eran los que no.
 
@@ -36,9 +36,23 @@ Ilwen no lo llamaba ciudad. No sabía lo que era una ciudad. Lo llamaba el sitio
 
 Los que vinieron del sur, en las casas que flotaban, lo llamarían Illiandor.
 
-Porque se lo preguntaron a un viejo. Y el viejo, que no entendió la pregunta, contestó lo que le pareció: illiandor. Que en la lengua del bosque blanco quería decir donde se canta bajo.
+Porque se lo preguntaron a un viejo. Y el viejo, que no entendió la pregunta, contestó lo que le pareció: *illiandor*. Que en la lengua del bosque blanco quería decir *donde se canta bajo*.
 
-* * *
+---
+
+El bosque blanco no estaba solo. Eso Ilwen lo sabía desde niña, como saben los niños del bosque dónde no hay que ir.
+
+Los árboles más viejos del sitio del invierno, los del techo, los que ya estaban cuando llegaron los primeros con semillas en los bolsillos, se llamaban los Árboles Ancestrales. Y entre ellos, a veces, había otros que no eran árboles. Que lo parecían. Altos como los blancos, con la corteza gris y la cara metida en el tronco, que se quedaban quietos años enteros en el mismo sitio y luego, una mañana, no estaban, y estaban treinta pasos más allá. Los viejos los llamaban los Ancestrales, sin más; uno solo, un Ancestral. No hablaban. Cuidaban los árboles como los elfos cuidaban las manadas. Ilwen había visto moverse a uno una vez, de pequeña, de noche, con la nieve: un paso, largo, lento, que hizo crujir toda la ladera. Se lo contó a su madre. Su madre le dijo que no se lo contara a nadie más, porque a los Ancestrales no les gustaba que se hablara de ellos.
+
+Al noreste, detrás de la cresta de los pinos, donde el bosque blanco se acababa y empezaba el otro, el verde, el oscuro, el que olía a agua parada, había un sitio donde no se llevaban las manadas nunca.
+
+Gaugin. Así lo llamaban los viejos; los gnomos de las casas flotantes, años después, lo pondrían en sus cartas como *el Dungeon Gaugin*, con su palabra para los agujeros que tienen dueño. Una garganta de piedra, honda, con cuevas en las paredes, en mitad del bosque verde. Allí vivían los cíclopes. Ilwen no los había visto. Había visto las piedras que tiraban: peñascos del tamaño de un ciervo, rodados hasta la linde, con las huellas de unas manos enormes todavía marcadas en el musgo. Y había visto, un verano, desde lejos, el humo de sus fuegos, y oído un canto que no era canto, de garganta, que hacía callarse a todos los pájaros del valle.
+
+Y en Gaugin, decían los viejos, vivía también el basilisco. El que no hay que mirar. No te mata la mirada del basilisco, decían; te para. Te deja quieto, con los ojos abiertos, sin poder mover nada, ni los párpados, un día o dos o tres, y mientras tanto el basilisco se acerca, despacio, que tiene todo el tiempo. Por eso los elfos del bosque blanco, cuando iban al bosque verde a buscar la resina, iban de dos en dos y con los ojos en el suelo. Y por eso Ilwen, cuando era pequeña y se portaba mal, oía a su abuela decirle: *mira que te miro*.
+
+El bosque verde tenía otras cosas, más pequeñas y no menos malas. Los hombres lagarto de las charcas, que pescaban con lanzas de hueso y no se metían con nadie si nadie se metía en el agua. Las plantas carnívoras gigantes de los claros húmedos, unas flores rojas del tamaño de una cama que se cerraban sobre lo que se posaba en ellas, ciervo incluido. La sierpe del río, larga como tres barcas, que solo se veía en las crecidas. La serpiente ancestral, que era más vieja que la sierpe y más gorda, y que dormía enroscada en las raíces de los árboles más viejos del bosque verde y a la que los elfos dejaban leche en un cuenco, no porque se la bebiera sino por si acaso. Las tortugas gigantes del lago grande, que se subían a tomar el sol a las piedras y que tenían, decían, la edad de los Ancestrales. Y los castores, que hacían diques en todos los arroyos de la linde y que eran lo único del bosque verde que le gustaba a Ilwen.
+
+---
 
 Ilwen fue a verlos. Con Sarha. Montada a pelo, sin bridas, agarrada a la crin.
 
@@ -56,9 +70,9 @@ Dos que no hacían ruido. Que estaban un poco aparte, en la orilla, mirando los 
 
 Orejas largas. Los dos.
 
-Dos de los nuestros, había dicho Sarha. Que no son de los nuestros.
+*Dos de los nuestros*, había dicho Sarha. *Que no son de los nuestros.*
 
-* * *
+---
 
 Bajó.
 
@@ -74,7 +88,7 @@ El de los brazos raros tenía corteza. En la piel. Desde las manos hasta los cod
 
 Le habló.
 
-* * *
+---
 
 No lo entendió.
 
@@ -86,7 +100,7 @@ El de la corteza lo intentó otra vez. Más despacio. Con otras palabras.
 
 Tampoco.
 
-El del sombrero dijo algo. Una sola palabra. Antigua. Muy antigua. Una que Ilwen conocía, porque la decían los viejos del sitio del invierno en las canciones de cuna, y que quería decir árbol. Pero no cualquier árbol. El primero. El que había.
+El del sombrero dijo algo. Una sola palabra. Antigua. Muy antigua. Una que Ilwen conocía, porque la decían los viejos del sitio del invierno en las canciones de cuna, y que quería decir *árbol*. Pero no cualquier árbol. El primero. El que había.
 
 Ilwen la repitió. Como se decía en el bosque blanco.
 
@@ -94,7 +108,7 @@ Los dos de orejas largas se quedaron quietos.
 
 Luego el del sombrero se echó a llorar.
 
-* * *
+---
 
 Tardaron muchos días en entenderse. Ilwen se quedó con ellos en la playa. Con Sarha, que no se fue, que pastaba en la linde y miraba a los humanos con desconfianza y a los dos de orejas largas con curiosidad.
 
@@ -112,7 +126,7 @@ Ilwen miró el dibujo.
 
 —Es el sitio del invierno —dijo.
 
-* * *
+---
 
 Lo llevaron. A los dos. Y al hombre de la nariz rota, que se llamaba Hesper y era el que mandaba y que pidió ir y que no hacía ruido, que era lo raro. Los demás humanos se quedaron en la playa. Ilwen se lo pidió; Hesper lo mandó. Sin discutir.
 
@@ -126,7 +140,7 @@ No dijo nada. Se le cayó la pluma. No la recogió.
 
 Verawel la recogió por él. Y le cogió del brazo. Y entraron juntos, despacio, los dos viejos, uno con corteza y otro sin ella, debajo de los árboles blancos, como entran los que vuelven a una casa que creían quemada.
 
-* * *
+---
 
 La abuela de la abuela de Ilwen bajó.
 
@@ -142,7 +156,7 @@ Aelin se sentó en una raíz. Se quedó callada mucho rato.
 
 Luego contó.
 
-* * *
+---
 
 Contó que hacía mucho, más de lo que nadie se acordaba, mil quinientos años, dos mil, unos elfos se fueron de una ciudad grande del oeste. No por guerra. Por miedo. Porque los que escuchaban la tierra en aquella ciudad oyeron una cosa. Abajo. Muy abajo. Algo que dormía. Y algo, al lado, que le hablaba al oído.
 
@@ -156,7 +170,7 @@ Aelin sonrió. No tenía dientes.
 
 —Le cantamos —dijo—. Para que siga durmiendo.
 
-* * *
+---
 
 Esa noche lo oyeron.
 
@@ -184,7 +198,7 @@ Se miraron.
 
 —Y ellos le cantan hacia abajo —dijo Érandiul—. A lo que duerme. Para que no suba.
 
-* * *
+---
 
 Hesper Hask no entendía la lengua. Pero vio la cara de los dos viejos. Y preguntó.
 
@@ -198,7 +212,7 @@ Hesper escuchó. Luego miró al suelo. A las raíces de los árboles blancos. Al
 
 —¿Quién te ha dicho eso?
 
-—La pelirroja. En el 745. En la colina. —Hesper se tocó el pecho, donde le latía algo que no era suyo—. Y un orco viejo en una taberna. Uno que pregunta. —Miró al norte. Hacia el oeste. Hacia el mar—. A lo que pregunta no se le canta. ¿Verdad? A ese no le hace nada una nana.
+—La pelirroja. En el 745. En la colina. —Hesper se tocó el pecho, donde le latía algo que no era suyo—. Y un orco viejo en una taberna. *Uno que pregunta.* —Miró al norte. Hacia el oeste. Hacia el mar—. A lo que pregunta no se le canta. ¿Verdad? A ese no le hace nada una nana.
 
 Érandiul no contestó.
 
@@ -206,7 +220,7 @@ Verawel sí.
 
 —No —dijo—. A ese no.
 
-* * *
+---
 
 Se quedaron tres semanas.
 
@@ -216,7 +230,7 @@ Hesper lo juró. Mirando arriba.
 
 Los del bosque blanco no entendieron por qué miraba arriba. Pero lo dejaron.
 
-* * *
+---
 
 Érandiul escribió el diario sentado en una raíz. Con la izquierda. Ilwen lo miraba escribir. No sabía lo que era escribir. Le parecía una manera de cantar callado.
 
@@ -236,7 +250,7 @@ Ilwen no entendió nada.
 
 Pero le gustó cómo lo dijo.
 
-* * *
+---
 
 Verawel se quedó.
 
@@ -250,7 +264,7 @@ No para siempre. Un año. Dijo que tenía que aprender la nana hacia abajo. Que 
 
 —Yo tengo mil cien. —Aelin le soltó la mano—. Y he bajado la escalera.
 
-* * *
+---
 
 Ilwen los acompañó a la playa. Con Sarha.
 

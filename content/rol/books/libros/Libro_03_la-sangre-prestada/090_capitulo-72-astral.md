@@ -1,4 +1,4 @@
-## Capítulo 72 · Astral
+# Capítulo 72 · Astral
 
 *La colina de Banderbill y Tiama. Años 907 a 930 de la Nueva Era (300–323 D.bA).*
 
@@ -12,7 +12,7 @@ Su padre decía que no. Que era por su abuelo, que se había muerto en una isla 
 
 Astral no sabía por qué era. Se paraba.
 
-* * *
+---
 
 Su padre se murió en el invierno del 907. En la cama. De viejo. Con noventa y dos años y la cara de noventa y dos. Desde el 892 había envejecido de golpe. Decía que la noche de la escalera le había gastado treinta años en un rato y que el cuerpo se los iba cobrando poco a poco, como un tendero que fía. En catorce años, treinta. Se le cayó el pelo. Se le encorvó la espalda. Se le quedó el aro de hierro negro, el doblado, demasiado grande; tenía que sujetarlo con la mano para que no se le cayera.
 
@@ -32,19 +32,19 @@ El padre sonrió.
 
 —Bien —dijo—. No tengas prisa.
 
-* * *
+---
 
 Érandiul escribió la entrada esa misma noche.
 
-*Asgal ha muerto, seguramente debido a su avanzada edad. Su hijo, Astral, asume el trono, nombrándose así como el Vigésimo Emperador de Banderbill.*
+*Asgal ha muerto, seguramente debido a su avanzada edad. Su hijo, Astral, asume el* *trono, nombrándose así como el Vigésimo Emperador de Banderbill.*
 
-Astral la leyó. Y le preguntó al elfo viejo, que tenía mil cincuenta y dos años y ya no podía sostener la pluma más que un rato, por qué seguramente.
+Astral la leyó. Y le preguntó al elfo viejo, que tenía mil cincuenta y dos años y ya no podía sostener la pluma más que un rato, por qué *seguramente*.
 
 —Porque no lo sé —dijo Érandiul—. Nadie sabe de qué se muere uno. Se sabe cuándo.
 
 Astral pensó en ello mucho tiempo.
 
-* * *
+---
 
 Lo coronaron con el aro doblado. Su padre lo había pedido. Que no lo arreglaran. Que el siguiente lo llevara así, torcido, con la abolladura del escudo de un drow en el tramo del Ojo. Para que se acordara.
 
@@ -56,17 +56,17 @@ Y se paró. Antes de bajar del estrado. Un momento. Mirando el suelo.
 
 La gente aplaudió. No entendió por qué se paraba. Le pareció bien.
 
-* * *
+---
 
 Fue un Emperador cuidadoso.
 
-Lo escribió Mirela Vell en su crónica, años después, y Astral la leyó y no le gustó la palabra, y luego le gustó. Cuidadoso. Como quien lleva una cosa que se puede romper.
+Lo escribió Mirela Vell en su crónica, años después, y Astral la leyó y no le gustó la palabra, y luego le gustó. *Cuidadoso.* Como quien lleva una cosa que se puede romper.
 
 No exploró nada. No hizo barcos. No fue a ninguna isla. Su abuelo había descubierto todas las que había, decía, y su padre había hecho todas las murallas que hacían falta. A él le tocaba otra cosa.
 
 Le tocaba reparar.
 
-* * *
+---
 
 El barrio élfico, primero.
 
@@ -90,7 +90,7 @@ Astral se paró. Antes de contestar. Un momento.
 
 —Una puerta —dijo.
 
-* * *
+---
 
 Tardaron cuatro años. Los carpinteros de Nix, que vinieron porque eran los que sabían de robles. El tronco era tan grande que hubo que cortarlo en siete trozos. Con cada corte, Verawel, en el sótano, a una legua, se tocaba el pecho.
 
@@ -110,7 +110,7 @@ Miraban arriba.
 
 Astral lo había pensado así. No se lo dijo a nadie. La pelirroja lo supo sin que se lo dijera.
 
-* * *
+---
 
 En el 912 se casó.
 
@@ -132,7 +132,7 @@ Astral se paró. Un momento. Mirándola.
 
 Cenaron. Siete años. Se casaron en el 912. En la tercera almena, porque ella lo pidió, porque decía que en su familia se casaban mirando arriba.
 
-* * *
+---
 
 El hijo nació en el 915. Uno.
 
@@ -148,11 +148,11 @@ Brena le dijo que no le mintiera.
 
 Astral no contestó.
 
-* * *
+---
 
 Sein lo apuntó esa noche. No en la columna del debe. En una hoja aparte. Al final del libro. La que no se numeraba.
 
-*Año 915. Larath. Hijo único de Astral. Astral, hijo único de Asgal. Asgal, hijo único de XI. XI, hijo único de Liminus, aunque Liminus tuvo hija. Liminus, hijo único de Lindos.*
+*Año 915. Larath. Hijo único de Astral. Astral, hijo único de Asgal. Asgal, hijo* *único de XI. XI, hijo único de Liminus, aunque Liminus tuvo hija. Liminus, hijo único de* *Lindos.*
 
 *La cadena se está haciendo fina.*
 
@@ -160,15 +160,15 @@ Y debajo:
 
 *No se lo digo a nadie todavía.*
 
-* * *
+---
 
 Años de paz.
 
-Lo escribió Mirela Vell así, en mayúsculas, en la primera hoja de su crónica de esos años: AÑOS DE PAZ. Y debajo, en minúsculas: que también hay que apuntar, aunque no pase nada, porque si no se apuntan parece que no han existido.
+Lo escribió Mirela Vell así, en mayúsculas, en la primera hoja de su crónica de esos años: *AÑOS DE PAZ*. Y debajo, en minúsculas: *que también hay que apuntar, aunque no* *pase nada, porque si no se apuntan parece que no han existido.*
 
 No vinieron barcos negros. Ni a Wonder, ni a Lindos, ni a la colina. Ni uno. En veinte años.
 
-Los orcos del barrio de abajo dejaron de mirar al noroeste por las noches. Algunos. Thrak, el de los colmillos sin limar, el que dejó caer el hacha, se hizo tonelero con Durg. Su madre, Grâshka, la orca vieja que no se moría, vendía pescado salado en la plaza. Tenía casi doscientos inviernos. Decía que en la colina se envejecía más deprisa que en Orac. Y que le gustaba.
+Los orcos del barrio de abajo dejaron de mirar al norte por las noches. Algunos. Thrak, el de los colmillos sin limar, el que dejó caer el hacha, se hizo tonelero con Durg. Su madre, Grâshka, la orca vieja que no se moría, vendía pescado salado en la plaza. Tenía casi doscientos inviernos. Decía que en la colina se envejecía más deprisa que en Orac. Y que le gustaba.
 
 En Annkör, en la cueva de cristal del Sombrero, Migyur dormía de pie.
 
@@ -180,7 +180,7 @@ En el valle negro, el Guardián seguía de sal. Con la jarra en el pecho. Con la
 
 Y en la tercera almena, cada noche, una pelirroja miraba arriba.
 
-* * *
+---
 
 Grâshka se murió en el invierno del 924.
 
@@ -192,7 +192,7 @@ Thrak la cuidaba. Y Durg, el tonelero, que tenía ciento veintidós años y ya n
 
 Mandaron llamar a la pelirroja.
 
-* * *
+---
 
 Lanther bajó de noche. Sola. Con una vela.
 
@@ -206,13 +206,13 @@ Se sentó en el suelo. Al lado del jergón. La orca vieja tenía los ojos cerrad
 
 —¿Qué ves?
 
-—A una que le preguntó al que pregunta. —Grâshka abrió un ojo. Uno. Amarillo, nublado—. En Orac nadie le preguntaba. Ni el general de los ojos blancos, hasta muy tarde. Le contestábamos. Siempre. Desde que nacíamos. ¿Qué quieres? Y contestábamos. Y él se lo guardaba.
+—A una que le preguntó al que pregunta. —Grâshka abrió un ojo. Uno. Amarillo, nublado—. En Orac nadie le preguntaba. Ni el general de los ojos blancos, hasta muy tarde. Le contestábamos. Siempre. Desde que nacíamos. *¿Qué quieres?* Y contestábamos. Y él se lo guardaba.
 
 —Tú no contestaste.
 
-—Yo dije no quiero. —El ojo se cerró—. Que también es contestar. Pero contestar mal. Para él.
+—Yo dije *no quiero*. —El ojo se cerró—. Que también es contestar. Pero contestar mal. Para él.
 
-* * *
+---
 
 Thrak estaba en la puerta. De pie. Grande como la puerta. Con los colmillos sin limar y las manos de tonelero, llenas de cortes de duela.
 
@@ -228,7 +228,7 @@ Thrak no se movió.
 
 Thrak entró. Se arrodilló al otro lado del jergón. No sabía qué hacer con las manos. Las puso en las rodillas.
 
-* * *
+---
 
 —Quiero una cosa —dijo Grâshka. A Lanther.
 
@@ -252,7 +252,7 @@ Lanther se rio. Sin querer. Con los ojos mojados.
 
 —Un gnomo. En la plaza. Me compraba pescado. —Grâshka cerró el ojo—. Lo dice todo el rato.
 
-* * *
+---
 
 Se murió al amanecer.
 
@@ -272,7 +272,7 @@ Y luego dijo el nombre. Despacio. Con las dos sílabas. Como lo decían en Orac.
 
 —Grâshka.
 
-* * *
+---
 
 No pasó nada que se viera.
 
@@ -288,17 +288,17 @@ Luego dijo, en orco, bajito, una cosa que Lanther no entendió.
 
 Durg, desde la puerta, se la tradujo.
 
-—Ha dicho se ha ido para arriba —dijo el tonelero viejo—. No para abajo. —Se le movió la cara—. En orco no hay forma de decir eso. Lo ha tenido que inventar.
+—Ha dicho *se ha ido para arriba* —dijo el tonelero viejo—. *No para abajo.* —Se le movió la cara—. En orco no hay forma de decir eso. Lo ha tenido que inventar.
 
-* * *
+---
 
 Sein lo apuntó. En la columna del debe. En una línea que no se parecía a ninguna.
 
-*Año 924. Grâshka. Orca de Orac. Doscientos diez inviernos. Le dijo que no al que pregunta en el 860. Se fue hacia arriba. Es la primera.*
+*Año 924. Grâshka. Orca de Orac. Doscientos diez inviernos. Le dijo que no al que* *pregunta en el 860. Se fue hacia arriba. Es la primera.*
 
 *Debe la colina: una palabra nueva en orco.*
 
-* * *
+---
 
 En el 930, Astral fue a Tiama.
 
@@ -306,9 +306,9 @@ Era la primera vez que salía de Oderon. Tenía setenta años. Fue porque Dalbur
 
 La carta era corta. Los enanos no escriben mucho.
 
-*Majestad. Ilan Hask, hijo de Edran, nieto de Ilan, está conmigo en Tiama desde el 891. Tiene cincuenta y cinco años. Vigila la cueva de cristal. Oye lo que yo no oigo. Se va a morir. No pronto. Pero se va a morir. Y yo no oigo. Venga. Dalbur, hijo de Dalgrim.*
+*Majestad. Ilan Hask, hijo de Edran, nieto de Ilan, está conmigo en Tiama desde el* *891. Tiene cincuenta y cinco años. Vigila la cueva de cristal. Oye lo que yo no oigo. Se va* *a morir. No pronto. Pero se va a morir. Y yo no oigo. Venga. Dalbur, hijo de Dalgrim.*
 
-* * *
+---
 
 Tiama era como le había contado su padre. Las fumarolas. La muralla de hielo azul. La casa grande de piedra negra, con los techos bajos.
 
@@ -326,9 +326,9 @@ Dalbur lo esperaba en la fragua. Igual que en el 817. Con la misma cara. Con la 
 
 Dalbur se rio. Golpeó el yunque con el martillo. Que es como se ríen los enanos.
 
-* * *
+---
 
-Ilan Hask lo llevó a la cueva de cristal.
+Ilan Hask lo llevó a la cueva de cristal. Una jornada en trineo hacia el este, por el Pasaje Norte, hasta el pie del Sombrero.
 
 Era alto. Pelo negro con canas. La nariz entera, por primera vez en un Hask en muchas generaciones. Sin espada. La espada de su padre estaba en la colina, clavada en el borde de un agujero del barrio élfico, tapando un túnel, y no se podía sacar. Lo habían intentado. Diez hombres. No se movía.
 
@@ -346,7 +346,7 @@ Y en el centro del pecho, debajo del hielo, una luz. Muy pequeña. Muy débil.
 
 Que subía y bajaba.
 
-* * *
+---
 
 —Lo oigo —dijo Ilan. En voz baja—. Cada noche. Respira. Despacio. Sueña. — Cerró la rendija—. En el 892, la noche de la grieta, se movió. Abrió un ojo. Lo vi. Por la rendija. Me miró.
 
@@ -356,9 +356,9 @@ Astral se quedó quieto.
 
 —¿Y si lo abre otra vez?
 
-—Alguien tiene que estar mirando. Que no conteste. Que le diga quieto. Aunque la espada no tenga runa. —Ilan se encogió de hombros—. Dalbur no oye. Su hijo no oye. Ningún enano oye ya; los que oían bajaron. Yo sí. Mi hijo, un poco. Mi nieto, no sé.
+—Alguien tiene que estar mirando. Que no conteste. Que le diga *quieto*. Aunque la espada no tenga runa. —Ilan se encogió de hombros—. Dalbur no oye. Su hijo no oye. Ningún enano oye ya; los que oían bajaron. Yo sí. Mi hijo, un poco. Mi nieto, no sé.
 
-* * *
+---
 
 Esa noche, en la fragua, Astral se lo pidió a Dalbur.
 
@@ -380,7 +380,7 @@ Dalbur asintió. Despacio.
 
 —Esa vale —dijo—. Me lo enseñó ella.
 
-* * *
+---
 
 Lo hicieron en la fragua. Con el cuchillo curvo, que la pelirroja le había dado a Astral para el viaje, envuelto en un trapo, sin decir para qué.
 
@@ -398,11 +398,11 @@ Le sopló en la cara.
 
 —Ilan —dijo.
 
-* * *
+---
 
 Volvió a la colina en el 931. Sein lo apuntó.
 
-*Año 930. Ilan Hask, de Astral. Tiama. Debe la colina: uno que vigila lo que duerme de pie.*
+*Año 930. Ilan Hask, de Astral. Tiama. Debe la colina: uno que vigila lo que duerme* *de pie.*
 
 Y en la hoja aparte, la que no se numeraba, debajo de lo de la cadena fina:
 

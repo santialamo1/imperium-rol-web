@@ -1,4 +1,4 @@
-## Capítulo 36 · Corvo
+# Capítulo 36 · Corvo
 
 *Fortaleza de Kel-Mar, río Ceniza. Año 158.*
 
@@ -12,11 +12,11 @@ Corvo no se fiaba.
 
 Se levantaba antes del alba, cada día, y subía a la torre más alta de la fortaleza — una torre de piedra gris, cuadrada, fea, construida por Hector Tiberius cien años antes— y se quedaba allí mirando la otra orilla hasta que salía el sol. La otra orilla era gris. Colinas peladas, arbustos secos, arena que empezaba poco a poco, como una piel que se va enfermando. Y al fondo, en el horizonte, la niebla. Quieta. Siempre quieta.
 
-A veces, cuando el viento soplaba del oeste, le parecía oír algo. Una canción. Lenta, triste, repetitiva. La misma que su abuela le cantaba de niño.
+A veces, cuando el viento soplaba del este, le parecía oír algo. Una canción. Lenta, triste, repetitiva. La misma que su abuela le cantaba de niño.
 
 Nunca se lo dijo a nadie.
 
-* * *
+---
 
 Los señores llegaron a Kel-Mar en otoño, con la excusa de una cacería.
 
@@ -62,7 +62,7 @@ Corvo no se volvió.
 
 —Mi padre —dijo— liberó a doscientos muertos con su propia voz antes de morir. Sabéis lo que me dijo esa mañana, antes de la batalla, cuando le pedí que no fuera en primera fila? Me dijo que los muertos también son del Imperio. Que si no los escuchamos a ellos, no tenemos derecho a gobernar a los vivos. —Apretó el alféizar con las manos—. No sé qué hace Helen en esa cripta. Pero si está escuchando a alguien, es más de lo que habéis hecho vosotros en toda vuestra vida.
 
-* * *
+---
 
 Se fueron al amanecer.
 
@@ -82,7 +82,7 @@ La muchacha dijo algo. No la entendió. Una palabra en una lengua cantarina, sua
 
 Luego se dio la vuelta y se marchó, colina arriba, sin prisa, y desapareció entre los arbustos secos.
 
-* * *
+---
 
 Volvió al día siguiente. Y al otro.
 
@@ -104,7 +104,7 @@ Corvo se quedó helado.
 
 —¿Cómo sabes...?
 
-—Todos la saben. Al otro lado. —Señaló hacia el oeste, hacia la niebla, sin volverse—. La canta él. El Padre. A veces, por las noches, cuando está muy cansado. La canta hacia aquí. Hacia el río. Y los que vivimos en las colinas la oímos. —Lo miró—. Y luego, hace nueve años, empezamos a oírla también desde este lado. Una voz de hombre. Mala. Desafinada. Pero la misma canción. Desde la torre de piedra fea.
+—Todos la saben. Al otro lado. —Señaló hacia el este, hacia la niebla, sin volverse —. La canta él. El Padre. A veces, por las noches, cuando está muy cansado. La canta hacia aquí. Hacia el río. Y los que vivimos en las colinas la oímos. —Lo miró—. Y luego, hace nueve años, empezamos a oírla también desde este lado. Una voz de hombre. Mala. Desafinada. Pero la misma canción. Desde la torre de piedra fea.
 
 Corvo no supo qué decir. Notaba la cara roja.
 
@@ -114,7 +114,7 @@ Corvo no supo qué decir. Notaba la cara roja.
 
 —Que hay un hombre que canta mal en la torre. Y que no cruza. —Sonrió. Tenía los dientes blancos y un poco torcidos—. Les gusta. Dicen que un hombre que canta la canción de Nadi no puede ser malo del todo.
 
-* * *
+---
 
 No volvieron a verse en el río. Habría sido demasiado peligroso.
 
@@ -128,7 +128,7 @@ Neri tardó en contestar.
 
 En la cuarta luna nueva, Corvo le dijo que la quería. Ella le dijo que era un idiota. Luego lo besó.
 
-* * *
+---
 
 Helen se enteró, por supuesto. Helen se enteraba de todo.
 
@@ -172,7 +172,7 @@ Se quedaron en silencio.
 
 —Cásate con ella —dijo Helen—. En secreto. Que nadie lo sepa. Que nadie sepa nunca lo que son tus hijos. —Lo miró con aquellos ojos castaños—. Es lo que hizo el abuelo Teodor. Y nos salió bien, ¿no?
 
-* * *
+---
 
 Corvo Bhargaras se casó con Neri de las colinas en la cabaña de pescadores, en la luna nueva del verano del año ciento cincuenta y nueve, sin sacerdotes y sin testigos, con un cordel gris atado a las muñecas según la costumbre de los libres. Ella cruzó el río para siempre aquella noche, y en Kel-Mar contaron que el príncipe se había casado con una pastora Hinur muda que había encontrado en las montañas.
 
@@ -182,4 +182,4 @@ La niebla no cruzó el Ceniza mientras vivió Nadia. Corvo siempre pensó que er
 
 Pero cuando murió, en el año doscientos uno, vieja, en la fortaleza de Kel-Mar, con sus nietos alrededor, Neri le dijo al mayor de ellos algo que el muchacho no entendió y que anotó, años después, en el margen de una crónica familiar:
 
-*El Padre sabe que estamos aquí. Lo ha sabido siempre. Nos deja en paz porque cantamos su canción. Pero no le digáis vuestros nombres. Nunca. Que no os nombre él.*
+*El Padre sabe que estamos aquí. Lo ha sabido siempre. Nos deja en paz porque* *cantamos su canción. Pero no le digáis vuestros nombres. Nunca. Que no os nombre él.*

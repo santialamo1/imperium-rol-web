@@ -1,4 +1,4 @@
-## DE LAS CRÓNICAS DE BANDERBILL (I)
+# De las Crónicas de Banderbill (I)
 
 *Escrito por maese Tobías Grull, cronista de la corte, en el año 26 de la Nueva Era.*
 

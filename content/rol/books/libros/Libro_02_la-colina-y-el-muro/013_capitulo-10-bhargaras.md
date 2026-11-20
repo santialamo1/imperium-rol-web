@@ -1,4 +1,4 @@
-## Capítulo 10 · Bhargaras
+# Capítulo 10 · Bhargaras
 
 *El cabo norte de la bahía de Banderbill. Finales de la primavera del año 27.*
 
@@ -38,7 +38,7 @@ Bhargaras no contestó.
 
 Se quedaron mirándolo hasta que empezó a clarear.
 
-* * *
+---
 
 Con la primera luz, el barco se vio entero.
 
@@ -70,9 +70,9 @@ Ceniza.
 
 Se metió en el agua.
 
-* * *
+---
 
-El agua helada le llegaba a la cintura en los bajíos. Caminó despacio, con la espada por encima de la cabeza, mirando dónde ponía los pies. No es la espada. Es mirar dónde pones los pies. Trepó al casco por una jarcia rota y se dejó caer en la cubierta.
+El agua helada le llegaba a la cintura en los bajíos. Caminó despacio, con la espada por encima de la cabeza, mirando dónde ponía los pies. *No es la espada. Es mirar dónde* *pones los pies.* Trepó al casco por una jarcia rota y se dejó caer en la cubierta.
 
 Ceniza.
 
@@ -88,11 +88,11 @@ No había nada que le hablara. Nada que le mordiera. Solo ceniza.
 
 Y le dio más miedo que si lo hubiera habido.
 
-* * *
+---
 
 Bajó a la bodega.
 
-No sabía por qué. Una terquedad, la misma que le hacía entrenar solo de noche. Ya que he subido, voy a ver lo que hay.
+No sabía por qué. Una terquedad, la misma que le hacía entrenar solo de noche. *Ya* *que he subido, voy a ver lo que hay.*
 
 La bodega estaba vacía. Casi.
 
@@ -116,7 +116,7 @@ Bhargaras la sostuvo en la palma de la mano.
 
 Y la jarra latió.
 
-* * *
+---
 
 No fue como en el costado de su padre. No fue un latido débil, lejano, debajo de una manta. Fue en su mano, contra su piel, fuerte, claro, como si tuviera en la palma el corazón de un pájaro.
 
@@ -146,7 +146,7 @@ Pensó en llevársela a su madre. Pensó en llevársela a la Custodia Orla, o a 
 
 Ellos oirían.
 
-Y entonces pensó, sin querer, con la boca de los Renod apretada: y me mirarían. Como me miran siempre. Como al que no.
+Y entonces pensó, sin querer, con la boca de los Renod apretada: *y me mirarían.* *Como me miran siempre. Como al que no.*
 
 Se quedó mucho rato en la bodega, en cuclillas, con la jarra en la mano.
 
@@ -154,7 +154,7 @@ Luego, despacio, la metió otra vez en la caja de madera clara, sobre la paja. C
 
 La jarra latía contra sus costillas. Lenta. Regular.
 
-* * *
+---
 
 Arriba había salido el sol.
 

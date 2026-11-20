@@ -1,4 +1,4 @@
-## Capítulo 46 · Hesper Hask
+# Capítulo 46 · Hesper Hask
 
 *Wonder, el Bosque Muerto y la colina de Banderbill. Año 745 de la Nueva Era (138 D.bA).*
 
@@ -10,7 +10,7 @@ Los orcos venían cada dos años. A veces cada año. Del oeste. En los barcos fe
 
 Hesper la había mandado quemar. Pero la había visto. Y la había dibujado Tessa Ardel, la Emperatriz, que dibujaba todo. Y el dibujo estaba en la mesa del Emperador.
 
-* * *
+---
 
 En el 744 vinieron a Lindos.
 
@@ -26,7 +26,7 @@ No a beber. A meterse. Tres orcos, desnudos, con cuerdas atadas a la cintura, se
 
 Los tres salieron muertos. Tirados por las cuerdas. Con la cara blanca. Con escarcha en las pestañas. En verano.
 
-* * *
+---
 
 La pelirroja llegó a Lindos un mes después. En un barco rápido de Nix. Sola.
 
@@ -44,13 +44,13 @@ La pelirroja no contestó. Hesper ya sabía que no contestaría. Llevaba diecis�
 
 Eso sí lo contestó.
 
-—Uno que pregunta —dijo—. ¿Qué quieres? Así. —Se volvió a Hesper—. Si alguna vez un hombre con ropa de escribano y una cara que no se te queda te pregunta qué quieres, no le contestes. Nada. Ni nada. Date la vuelta y vete.
+—Uno que pregunta —dijo—. *¿Qué quieres?* Así. —Se volvió a Hesper—. Si alguna vez un hombre con ropa de escribano y una cara que no se te queda te pregunta qué quieres, no le contestes. Nada. Ni *nada*. Date la vuelta y vete.
 
 —¿Por qué?
 
 —Porque se queda con lo que le digas.
 
-* * *
+---
 
 El Emperador lo llamó a la colina ese otoño.
 
@@ -62,7 +62,7 @@ Lo llevaron a la biblioteca. No arriba. Abajo.
 
 En el sótano había mucha gente.
 
-* * *
+---
 
 Estaba el Emperador. Sentado en una silla, con el aro en la cabeza y un niño de cinco años dormido en las rodillas.
 
@@ -72,7 +72,7 @@ Estaba un hombre muy alto, muy delgado, con gafas, con un libro de cuentas abier
 
 Estaba una mujer pequeña, de pelo rubio y tieso, que olía a castaña asada y que lo miró de arriba abajo como se mira a un caballo antes de comprarlo.
 
-Estaba un gnomo con un sombrero. El sombrero tenía cosido un 93.
+Estaba un gnomo con un sombrero. El sombrero tenía cosido un *93*.
 
 Estaba un muchacho. De cara de quince años. Con unos ojos que no eran de quince años. Que lo saludó con la cabeza. Y que, cuando Hesper entró, dijo, en voz baja, sin que nadie le preguntara:
 
@@ -84,7 +84,7 @@ Y una silla vacía. Con un sombrero gris encima.
 
 —Érandiul está en Wonder —dijo la pelirroja—. Le guardamos la silla.
 
-* * *
+---
 
 —Siéntese, almirante —dijo el Emperador.
 
@@ -100,7 +100,7 @@ El Emperador miró a la pelirroja. La pelirroja asintió.
 
 —Mi ofrenda —dijo el Emperador.
 
-* * *
+---
 
 Se lo explicaron.
 
@@ -120,7 +120,7 @@ Que hay que estar. Cuando hace falta. Cien años. Mil.
 
 Que no es un premio.
 
-* * *
+---
 
 —¿Por qué yo? —dijo Hesper. Al alba. Con los ojos rojos.
 
@@ -134,7 +134,7 @@ Hesper se quedó quieto.
 
 —Y ninguno —dijo la pelirroja— la dejó donde estaba.
 
-* * *
+---
 
 Hesper pidió un día. Se lo dieron.
 
@@ -150,7 +150,7 @@ Pensó en los tres orcos de la poza, con escarcha en las pestañas.
 
 Pensó en la cara gris de la proa.
 
-Y pensó en una cosa que le había dicho Edran Vos, una vez, borracho, en El Guiso, años antes de morirse: que un soldado no vive para matar orcos sino para acordarse de los que se murieron a su lado. Que si nadie se acuerda, se mueren dos veces.
+Y pensó en una cosa que le había dicho Edran Vos, una vez, borracho, en *El Guiso*, años antes de morirse: que un soldado no vive para matar orcos sino para acordarse de los que se murieron a su lado. Que si nadie se acuerda, se mueren dos veces.
 
 Bajó.
 
@@ -160,7 +160,7 @@ La pelirroja lo miró mucho rato.
 
 —Es la respuesta que vale —dijo.
 
-* * *
+---
 
 Lo hicieron en el sótano. Esa noche.
 
@@ -184,7 +184,7 @@ Y en el silencio que quedó, oyó otra cosa. Debajo de su corazón. Un latido. P
 
 Era el del Emperador.
 
-* * *
+---
 
 —Constará —dijo el hombre de las gafas.
 
@@ -200,7 +200,7 @@ Sein levantó la vista. Por primera vez en toda la noche. Tenía los ojos cansad
 
 —Cuando se acabe —dijo.
 
-* * *
+---
 
 Volvió a Wonder en primavera. Con el título.
 
@@ -236,13 +236,13 @@ Hesper tardó.
 
 La pelirroja no preguntó más. Pero lo miró. Y Hesper supo que ella también había mirado. Y que había visto lo mismo. O algo.
 
-* * *
+---
 
-Esa noche, en El Guiso, Hesper le preguntó a Grum, que ya era muy viejo y casi no se movía de la silla de detrás del mostrador, si los orcos sabían de una ciudad negra en la nieve.
+Esa noche, en *El Guiso*, Hesper le preguntó a Grum, que ya era muy viejo y casi no se movía de la silla de detrás del mostrador, si los orcos sabían de una ciudad negra en la nieve.
 
 Grum dejó de remover el guiso.
 
-—Orac —dijo—. Mi abuela decía que de allí veníamos. Antes. Antes de la colina. Que estaba muy al norte, en el frío, y que era de piedra de los de abajo, de los de ojos blancos. Y que en el centro había una raíz. —Removió otra vez—. Y que el que mandaba no era un orco.
+—Orac —dijo—. Mi abuela decía que de allí veníamos. Antes. Antes de la colina. Que estaba muy al sur, al pie de una montaña que echa humo, que la tierra era roja y caliente y que las murallas eran de piedra negra de los de abajo, de los de ojos blancos. Y que en el centro había una raíz. —Removió otra vez—. Y que el que mandaba no era un orco.
 
 —¿Quién mandaba?
 
@@ -250,7 +250,7 @@ Grum dejó de remover el guiso.
 
 Y no dijo más. Y le sirvió el guiso. Y no le cobró.
 
-* * *
+---
 
 Hesper Hask fue almirante de la Armada de Banderbill ciento once años.
 

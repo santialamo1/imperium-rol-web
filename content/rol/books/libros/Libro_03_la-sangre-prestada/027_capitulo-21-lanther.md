@@ -1,10 +1,10 @@
-## Capítulo 21 · Lanther
+# Capítulo 21 · Lanther
 
 *Debajo y dentro de Arghâl. Noche del 2 al 3 de marzo del año 607 de la Nueva Era.*
 
 El túnel de los enanos olía a sal y a gnomo, y Lanther lo recorrió a gatas, sola, con una lámpara tapada en la mano y la jarra de Loth golpeándole el pecho a cada paso, y llegó tarde.
 
-No mucho. Una hora. Lo que tardó en convencer a Sein de que no fuera con ella, y a Wenna, y a Tibbet, que tenía la garganta en carne viva y quería ir igual, y al Emperador, que no había dicho nada, que la había mirado desde el jergón de la galería con la cara gris y el arpa en las rodillas, y al que ella le había dicho usted no, ya lo ha oído, usted no, y él había bajado la cabeza.
+No mucho. Una hora. Lo que tardó en convencer a Sein de que no fuera con ella, y a Wenna, y a Tibbet, que tenía la garganta en carne viva y quería ir igual, y al Emperador, que no había dicho nada, que la había mirado desde el jergón de la galería con la cara gris y el arpa en las rodillas, y al que ella le había dicho *usted no, ya lo ha oído, usted no*, y él había bajado la cabeza.
 
 Una hora.
 
@@ -12,7 +12,7 @@ Pero el hombre de sal la estaba esperando, y no le dijo que llegaba tarde.
 
 Eso fue lo primero que le dolió.
 
-* * *
+---
 
 Estaba sentado en el suelo de la cueva. Contra la pared roja. Con el brazo derecho medio deshecho. Con la cabeza vuelta hacia el agujero por el que ella entró.
 
@@ -20,7 +20,7 @@ No se levantó. No dijo nada.
 
 Lanther se quedó de rodillas en la boca del agujero. Con la lámpara tapada. Mirándolo.
 
-Lo había visto por última vez en el año 42. En un puente de troncos. Cuando él era un esqueleto con la carne pegada a trozos que tiraba de su nombre, y ella lo había aguantado, de pie, con el cuchillo en el cinturón, y él había fallado. Y antes de eso, en el cuarto de la torre del palacio, con Amael recién nacido en los brazos, llorando, cuando ella le dijo te oigo, Pim, vete.
+Lo había visto por última vez en el año 42. En un puente de troncos. Cuando él era un esqueleto con la carne pegada a trozos que tiraba de su nombre, y ella lo había aguantado, de pie, con el cuchillo en el cinturón, y él había fallado. Y antes de eso, en el cuarto de la torre del palacio, con Amael recién nacido en los brazos, llorando, cuando ella le dijo *te oigo, Pim, vete*.
 
 Antes de eso, en una playa. En Puerto Salobre. Un muchacho de catorce años que miraba a una niña de diez bajar a la playa con las redes al hombro.
 
@@ -28,9 +28,9 @@ No se había acordado de eso en quinientos sesenta años.
 
 Se acordó ahora.
 
-* * *
+---
 
-No le habló. Había dicho que no le hablaría, y no le habló. Le habían dicho a Pim que no le dijera te oigo, y Pim no se lo dijo. Se miraron. Nada más.
+No le habló. Había dicho que no le hablaría, y no le habló. Le habían dicho a Pim que no le dijera *te oigo*, y Pim no se lo dijo. Se miraron. Nada más.
 
 Luego Pim levantó la mano que tenía entera. La de sal. Y señaló hacia arriba. Hacia el techo de la cueva. Por donde subía la raíz.
 
@@ -46,7 +46,7 @@ Le puso la mano en el hombro de sal. Un momento. Como se la había puesto a Sein
 
 Y subió.
 
-* * *
+---
 
 La escalera tenía doscientos doce escalones. Los contó. Era lo que hacía cuando tenía miedo: contar. Se lo había enseñado Sein, que se lo había enseñado Casimir, que lo había aprendido bajando ciento doce escalones de una cripta todas las mañanas para dejarle un cardo a una emperatriz muerta.
 
@@ -60,7 +60,7 @@ Salió a la noche. A la nieve. Al centro de un círculo de columnas de hierro ro
 
 Y delante de ella, a tres pasos, el pozo.
 
-* * *
+---
 
 El brocal era de hierro rojo. El agua de dentro era negra. No reflejaba nada; ni la luz roja de la torre, ni las nubes, ni a ella.
 
@@ -78,7 +78,7 @@ Y encima de la piedra gris, otra cosa. Redonda. Caliente. Del tamaño de un huev
 
 Que latía.
 
-* * *
+---
 
 —Hola, Lanther.
 
@@ -92,7 +92,7 @@ Mara Renod. Con el vestido verde. Con el pelo negro recogido. Con los ojos grise
 
 —Hija —dijo la cara de su madre—. Llegas tarde.
 
-* * *
+---
 
 Lanther no sacó el brazo del agua. Tenía la piedra roja en la mano. Latiendo contra la palma.
 
@@ -110,7 +110,7 @@ Lanther cerró los ojos.
 
 —No. —La voz era la de su hermano. La de antes de la sal—. Tampoco. Quieres a tu hermano, pero no quieres que vuelva. Sabes que si vuelve, se acaba la cuarta jarra, y tú te mueres. Y no quieres morirte. —Una pausa—. ¿O sí?
 
-* * *
+---
 
 Lanther abrió los ojos.
 
@@ -126,13 +126,13 @@ Lanther se quedó quieta.
 
 —De nada que te haga falta.
 
-* * *
+---
 
 Lanther pensó.
 
 No mucho. Lo suficiente. Lo que tarda un latido en la palma de la mano. Uno. Pausa. Otro.
 
-Pensó en la palabra falta. En lo que le faltaba. En lo que le hacía falta.
+Pensó en la palabra *falta*. En lo que le faltaba. En lo que le hacía falta.
 
 Pensó que a la gente que llega a tiempo no le hace falta nadie. Que llegar tarde es lo que hace que los demás esperen. Que Sein la había esperado en la ventana de la casa del puerto quinientos años. Que Wenna la había esperado dormida en una silla con los pies en un barreño. Que Tibbet la esperaba en el sótano de la biblioteca, el primero en bajar, cada vez. Que Kildo la había esperado al lado de una roca. Que el hilo gris la había esperado para irse.
 
@@ -142,7 +142,7 @@ Que esperar a alguien que llega tarde es la única manera que tiene la gente de 
 
 Y sacó la piedra del agua.
 
-* * *
+---
 
 La piedra roja dejó de latir en su mano.
 
@@ -154,7 +154,7 @@ En la puerta norte, lejos, oyó un crujido largo. De arriba abajo. Como el hielo
 
 Y luego, muy lejos también, tres mil voces diciendo una palabra.
 
-* * *
+---
 
 El hombre de gris no se movió.
 
@@ -176,7 +176,7 @@ El hombre sonrió.
 
 —Por la colina —dijo.
 
-* * *
+---
 
 Y entonces habló el otro.
 
@@ -198,7 +198,7 @@ Lanther soltó la piedra roja.
 
 No lo decidió. Se le abrió la mano. Como se le abre la mano a alguien a quien le han tocado el hueso del codo.
 
-* * *
+---
 
 La piedra cayó en la nieve, al lado del brocal.
 
@@ -212,7 +212,7 @@ El ruido tampoco. Se había ido para abajo. Lejos. Muy lejos. Lo notaba en las r
 
 Y la piedra roja no estaba.
 
-* * *
+---
 
 Buscó en la nieve. Con las manos. Al lado del brocal. Donde la había oído caer. Donde había rodado.
 
@@ -228,7 +228,7 @@ Iba a levantarse. A correr detrás.
 
 Y entonces vio a la capitana.
 
-* * *
+---
 
 Estaba al otro lado del pozo. Entre las columnas. Tumbada de espaldas en la nieve. Con una espada en la mano. Con un muchacho arrodillado a su lado.
 
@@ -238,7 +238,7 @@ Lanther se quedó de rodillas en el brocal.
 
 No corrió detrás del pañuelo de colores.
 
-* * *
+---
 
 El hombre de sal subió al alba.
 
@@ -270,11 +270,11 @@ Y no le salió nada.
 
 Se quedó con la boca abierta, de rodillas en la nieve, con una piedra gris en las manos, mientras el hombre de sal desaparecía escaleras abajo, y en la plaza de Arghâl, que ya no latía, salía el sol por detrás de la colina, por el este, y la Armada lloraba mirando al cielo.
 
-* * *
+---
 
 Lo apuntó Sein esa noche, en el libro de la guerra. Lo último del libro. Después cerró ese libro y no volvió a abrirlo.
 
-*Día 362. Cae Arghâl. Se abre la puerta. Once mil orcos se rinden. Los blancos se van por el norte. Mil ciento doce muertos nuestros en todo el cerco. Cuatrocientos esta noche. La capitana Brena Hask, entre ellos.*
+*Día 362. Cae Arghâl. Se abre la puerta. Once mil orcos se rinden. Los blancos se* *van por el norte. Mil ciento doce muertos nuestros en todo el cerco. Cuatrocientos esta* *noche. La capitana Brena Hask, entre ellos.*
 
 *La reina ha sacado el corazón. Se le ha caído. Se lo ha llevado alguien.*
 
@@ -284,6 +284,6 @@ Lo apuntó Sein esa noche, en el libro de la guerra. Lo último del libro. Despu
 
 Y debajo, con la letra más pequeña:
 
-*Ha llegado tarde. Una hora. Ha dicho que no a llegar a tiempo. Lo he oído, porque me lo ha contado Tibbet, que lo ha oído desde la escalera, porque no me hizo caso y subió detrás.*
+*Ha llegado tarde. Una hora. Ha dicho que no a llegar a tiempo. Lo he oído, porque* *me lo ha contado Tibbet, que lo ha oído desde la escalera, porque no me hizo caso y subió* *detrás.*
 
 *Lo apunto en el haber. Todo.*

@@ -1,4 +1,4 @@
-## Capítulo 83 · Bander
+# Capítulo 83 · Bander
 
 *Torre de la Unión. Año 412, la Noche Más Larga.*
 
@@ -20,7 +20,7 @@ Bander miró. Tenía razón. El puerto estaba en silencio. Ni una gaviota.
 
 —Me voy contigo —había dicho.
 
-Habían llegado a Concordia al anochecer, a caballo, Bander y Mara y el tío Gorm, que se había empeñado en acompañarlos «porque en Concordia el vino es mejor y alguien tiene que protegeros de los cortesanos». Bander había ido a buscar a su padre y le habían dicho que estaba en la cripta, honrando a los muertos, como cada año. Había ido a buscar al canciller y le habían dicho que no estaba en su despacho. Había subido a la torre, a la cámara de cristal, y había mirado hacia el noroeste.
+Habían llegado a Concordia al anochecer, a caballo, Bander y Mara y el tío Gorm, que se había empeñado en acompañarlos «porque en Concordia el vino es mejor y alguien tiene que protegeros de los cortesanos». Bander había ido a buscar a su padre y le habían dicho que estaba en la cripta, honrando a los muertos, como cada año. Había ido a buscar al canciller y le habían dicho que no estaba en su despacho. Había subido a la torre, a la cámara de cristal, y había mirado hacia el noreste.
 
 La niebla estaba en las murallas.
 
@@ -28,7 +28,7 @@ No en el horizonte. En las murallas. A media legua. Una pared blanca, inmóvil, 
 
 Bander bajó corriendo para avisar a su padre. A mitad de camino, oyó las campanas.
 
-* * *
+---
 
 Lo que pasó en las horas siguientes, Bander no lo recordaría bien. Fragmentos. Imágenes sueltas, como cuentas de un collar roto.
 
@@ -48,7 +48,7 @@ Y luego oyó a su padre intentar gritar su nombre. Sin aliento.
 
 Bander subió.
 
-* * *
+---
 
 Llegó al vestíbulo de la torre cuando su padre ya estaba en el suelo.
 
@@ -62,7 +62,7 @@ Se detuvo. Sin querer. La espada tembló en el aire.
 
 —Hola, sobrino —dijo Loth.
 
-* * *
+---
 
 —Tú lo has matado —dijo Bander. No reconocía su voz.
 
@@ -82,7 +82,7 @@ Bander apretó la espada. El tirón en el pecho seguía allí, suave, insistente
 
 Loth no contestó enseguida. Miró hacia la plaza, donde la niebla esperaba, inmóvil, y dentro de ella miles de siluetas grises. Luego volvió a mirar a Bander.
 
-—Cuando naciste —dijo—, tu abuela Aremir te sostuvo junto a una ventana. Y tú giraste la cabeza hacia el noroeste. Hacia mí. ¿Te lo contó alguien?
+—Cuando naciste —dijo—, tu abuela Aremir te sostuvo junto a una ventana. Y tú giraste la cabeza hacia el noreste. Hacia mí. ¿Te lo contó alguien?
 
 Bander no contestó.
 
@@ -112,7 +112,7 @@ Loth se volvió.
 
 En la niebla, algo se movía.
 
-* * *
+---
 
 Salieron del gris en fila, de dos en dos, y Bander supo al instante que no eran como los otros muertos.
 
@@ -154,7 +154,7 @@ Loth lo miró desde la plaza.
 
 —Lo que hizo mi padre. —Bander levantó la espada—. Lo que hizo Henricus en el Vado. Lo que hizo Meridio con su copa. —Respiró hondo—. Aguantar.
 
-* * *
+---
 
 Los cronistas de Banderbill dirían que Bander Bhargaras detuvo él solo a cien secuaces del mal en la escalera de la Torre de la Unión, y que lo hizo con la fuerza de un dios.
 
@@ -178,8 +178,8 @@ Pero los cien no eran muertos comunes. Eran los mejores guerreros de cuatro sigl
 
 Le hirieron en el hombro con una lanza. En el muslo, con una espada. En la cara, con algo que no vio. Retrocedió un peldaño. Dos. Diez. La escalera era estrecha, y eso lo salvaba: nunca podían atacarlo más de dos a la vez. Pero era larga, y cada peldaño que perdía era un peldaño más cerca de la cripta.
 
-*Brunhild de Leogrand. Te oigo. Vete.*  
-*Torvald Piel de Hierro. Te oigo. Vete.*  
+*Brunhild de Leogrand. Te oigo. Vete.* *Torvald Piel de Hierro. Te oigo. Vete.*
+
 *Sergio Mato, capitán de la Guardia. Te oigo. Vete.*
 
 Algunos nombres los conocía. Los había leído en las crónicas, en los libros de la Gran Biblioteca, en las historias de su abuela. Otros no. Caudillos de clanes olvidados que habían jurado con la mano desnuda en tiempos de Hector, guerreros de los Treinta y Dos, hombres grises del Juramento de Sal. Todos fuertes. Todos bebidos enteros por la cosa que dormía.
@@ -202,7 +202,7 @@ Noventa y nueve.
 
 Quedaba una.
 
-* * *
+---
 
 Genieveve de Leogrand bajó la escalera despacio, con una espada en cada mano y la corona oxidada torcida sobre la cabeza.
 
@@ -226,11 +226,11 @@ Cantó.
 
 No la nana. No sabía por qué, pero no cantó la nana. Cantó otra cosa. Algo que había leído en un libro prohibido de la Gran Biblioteca, a escondidas, con su abuela. Las primeras palabras de una ley. La primera ley de un reinado. Las palabras de una emperatriz que no quería que nadie volviera a tocarla, ni a ella ni a nadie.
 
-—Cualquier hombre que tome a una mujer o a un niño contra su voluntad —recitó Bander, con un hilo de voz— será castrado en la plaza de su aldea. Sea campesino o señor. Sea quien sea.
+—*Cualquier hombre que tome a una mujer o a un niño contra su voluntad* —recitó Bander, con un hilo de voz— *será castrado en la plaza de su aldea. Sea campesino o* *señor. Sea quien sea.*
 
 Genieveve se detuvo. Las espadas en alto.
 
-—Y si su señor lo protege —siguió Bander—, el señor perderá sus tierras. Y yo misma iré a buscarlo.
+—*Y si su señor lo protege* —siguió Bander—, *el señor perderá sus tierras. Y yo* *misma iré a buscarlo.*
 
 Dentro de la emperatriz gris, la voz callada se movió. Muy poco. Como alguien que despierta.
 
@@ -254,13 +254,13 @@ Y Bander dijo el único nombre que tenía:
 
 Ella abrió la boca. Exhaló. Una exhalación larga, muy larga, mucho más larga de lo que un cuerpo humano puede exhalar. Y antes de que el hilo blanco terminara de salir, Bander juraría hasta el día de su muerte que la oyó decir algo, con una voz ronca, olvidada, que no se había usado en tres siglos:
 
-—Treinta y tres.
+—*Treinta y tres.*
 
 Luego cayó. Y su hilo subió por el hueco de la escalera, hacia la llama.
 
 Cien.
 
-* * *
+---
 
 Bander se quedó de rodillas en el peldaño, entre los cuerpos de cien guerreros que por fin estaban muertos del todo, sangrando, temblando, sin poder levantarse.
 
@@ -298,10 +298,7 @@ Era duda.
 
 Bander aprovechó ese momento. No para atacar; no tenía fuerzas. Para cantar. La nana. La canción de su familia, la que su abuela Aremir le había cantado junto a la ventana la noche en que nació, la que todos los Bhargaras cantaban sin saber lo que significaba.
 
-*Duerme, arena, duerme ya,*  
-*la bruma viene y se va;*  
-*quien te nombra te tendrá,*  
-*quien te ama volverá.*
+*Duerme, arena, duerme ya,* *la bruma viene y se va;* *quien te nombra te tendrá,* *quien te ama volverá.*
 
 Loth se quedó inmóvil.
 
@@ -331,7 +328,7 @@ Bajó un peldaño más. Se inclinó sobre Bander. Le tendió la mano.
 
 Y entonces una mano gris, delgada, de uñas grises, se cerró sobre su muñeca.
 
-* * *
+---
 
 La mujer del velo estaba de pie detrás de Loth. Bander no la había oído bajar. Nadie la oía nunca.
 
@@ -349,11 +346,11 @@ Loth la miró. Durante un largo rato, ninguno de los dos se movió.
 
 —Si se va —dijo Loth, muy bajo—, me quedo solo.
 
-Ya estás solo, dijo la voz de Seren, y Bander la oyó, y supo que Loth también la oía. Llevas solo desde que entraste en el pozo. Desde antes. Desde que tiraste de mí. Yo no estoy aquí, Loth. Lo que tú tienes no soy yo. Es lo que no quieres soltar.
+*Ya estás solo*, dijo la voz de Seren, y Bander la oyó, y supo que Loth también la oía. *Llevas solo desde que entraste en el pozo. Desde antes. Desde que tiraste de mí. Yo no* *estoy aquí, Loth. Lo que tú tienes no soy yo. Es lo que no quieres soltar.*
 
 Loth cerró los ojos.
 
-*Deja que se vaya. Por favor. Es lo único que te he pedido en trescientos años que no sea lo otro.*
+*Deja que se vaya. Por favor. Es lo único que te he pedido en trescientos años que* *no sea lo otro.*
 
 Loth no abrió los ojos. Pero bajó la mano. Despacio.
 
@@ -381,4 +378,4 @@ Al pie de la escalera, en la penumbra de la cripta, a cincuenta pasos, había do
 
 La mujer del velo seguía sujetándole la muñeca.
 
-Bander se dio la vuelta. Y se adentró en la oscuridad del túnel con Mara y la niña, hacia el este, hacia el mar.
+Bander se dio la vuelta. Y se adentró en la oscuridad del túnel con Mara y la niña, hacia el sur, hacia el mar.

@@ -1,4 +1,4 @@
-## Capítulo 2 · Hector
+# Capítulo 2 · Hector
 
 *Concordia. Año 14.*
 
@@ -28,7 +28,7 @@ Pelagio tragó saliva, murmuró algo sobre otro momento más propicio y se bati�
 
 Lisandro Heredicus se rió. Tenía veintisiete años y seguía teniendo cara de muchacho, con aquel pelo castaño revuelto y aquellas manos de dedos largos que siempre estaban manchadas de tinta. No debería estar allí; su padre lo había nombrado Maestro de Obras de la torre precisamente para que dirigiera la construcción desde el suelo, con planos y reglas, y no colgado de un andamio. Pero Lisandro decía que no podía entender una piedra sin tocarla, y Hector, que tampoco era capaz de quedarse quieto, había empezado a subir con él por las mañanas. Entre los dos habían descubierto que subir argamasa a sesenta varas era la única manera de librarse de los cortesanos.
 
-Al principio, cuando su madre se casó con Lucius, Hector había odiado a sus tres hermanastros. Era lo natural: eran hijos del hombre que había matado a su padre, eran mayores que él, eran Heredicus y él no. Caio se burlaba de su nariz. Varo lo empujaba en el barro. Pero Lisandro... Lisandro le había leído cuentos. Le había enseñado las letras cuando nadie más se molestaba. Le había regalado, cuando cumplió diez años, un cuchillo con mango de hueso de ciervo y le había dicho: Este era de tu padre. Lo recogí en el vado de Corvia. Creo que debe ser tuyo.
+Al principio, cuando su madre se casó con Lucius, Hector había odiado a sus tres hermanastros. Era lo natural: eran hijos del hombre que había matado a su padre, eran mayores que él, eran Heredicus y él no. Caio se burlaba de su nariz. Varo lo empujaba en el barro. Pero Lisandro... Lisandro le había leído cuentos. Le había enseñado las letras cuando nadie más se molestaba. Le había regalado, cuando cumplió diez años, un cuchillo con mango de hueso de ciervo y le había dicho: *Este era de tu padre. Lo recogí en el vado* *de Corvia. Creo que debe ser tuyo.*
 
 Hector todavía lo llevaba al cinto.
 
@@ -58,13 +58,13 @@ Hector retiró la mano.
 
 —No me gusta —dijo.
 
-—A mí tampoco. —Lisandro abrió los ojos—. Pero escucha, Hector. Escucha bien. La piedra no estaba aquí por casualidad. Los ancianos Suhon dicen que siempre ha estado, que es el centro del mundo, el ombligo, el sitio donde los cuatro continentes se tocan. Tiber al norte, Eufesia al noroeste, Pisor y Gijor al sur. Todos los ríos de la llanura nacen cerca de ella. Todas las rutas de las caravanas pasan por aquí. Y cuando juramos... —Se le quebró la voz—. Cuando juramos, la piedra bebió aliento. De cuarenta y tres hombres. Lo bebió entero.
+—A mí tampoco. —Lisandro abrió los ojos—. Pero escucha, Hector. Escucha bien. La piedra no estaba aquí por casualidad. Los ancianos Suhon dicen que siempre ha estado, que es el centro del mundo, el ombligo, el sitio donde los cuatro continentes se tocan. Tiber al noroeste, Eufesia al noreste, Pisor y Gijor al sur. Todos los ríos de la llanura nacen cerca de ella. Todas las rutas de las caravanas pasan por aquí. Y cuando juramos... —Se le quebró la voz—. Cuando juramos, la piedra bebió aliento. De cuarenta y tres hombres. Lo bebió entero.
 
 —Eran traidores.
 
 —Eran hombres. —Lisandro lo miró—. Y la piedra los conocía. Sabía qué llevaban escondido. Sabía qué pensaban. ¿Cómo lo sabía, Hector? ¿Qué es una cosa que sabe lo que piensan los hombres?
 
-Hector no tenía respuesta. Miró hacia el norte, hacia los bosques de Tiber, que se adivinaban como una línea oscura en el horizonte. Luego miró hacia el noroeste. Allí, muy lejos, más allá de las colinas peladas, en el borde del mundo conocido, había una mancha gris pálido en el cielo, inmóvil, como una nube que se negara a moverse. La niebla de Eufesia. En días claros se veía desde la torre.
+Hector no tenía respuesta. Miró hacia el norte, hacia los bosques de Tiber, que se adivinaban como una línea oscura en el horizonte. Luego miró hacia el noreste. Allí, muy lejos, más allá de las colinas peladas, en el borde del mundo conocido, había una mancha gris pálido en el cielo, inmóvil, como una nube que se negara a moverse. La niebla de Eufesia. En días claros se veía desde la torre.
 
 —La mujer del velo —dijo Hector—. Ella le dio la idea a tu padre.
 
@@ -88,7 +88,7 @@ Lisandro se rió, con los ojos húmedos.
 
 —Por eso me quieres.
 
-* * *
+---
 
 Esa noche, en el gran salón de madera que servía de palacio provisional mientras se terminaba la torre, Lucius celebró el decimocuarto aniversario del Juramento de Sal con un banquete al que asistieron los señores de los tres pueblos y, lo que era más importante, sus ejércitos de criados, catadores, bufones y espías.
 
@@ -110,11 +110,11 @@ Hector la miró sorprendido.
 
 —¿Quién te ha dicho eso?
 
-—Nadie. Lo oí. Varo se lo dijo a padre esta tarde, en el patio de los establos. No sabían que yo estaba en el pajar. —Otro higo—. Varo dice que hay que mandar a Caio con mil hombres. Padre dice que no. Varo dice que si no se hace un escarmiento, los Mator se unirán a los Hinur. Padre dijo... —Livia frunció el ceño, esforzándose en recordar las palabras exactas—. Padre dijo: No voy a mandar a mis hijos a la guerra por unas aldeas de leñadores. Ya sé lo que me costaría.
+—Nadie. Lo oí. Varo se lo dijo a padre esta tarde, en el patio de los establos. No sabían que yo estaba en el pajar. —Otro higo—. Varo dice que hay que mandar a Caio con mil hombres. Padre dice que no. Varo dice que si no se hace un escarmiento, los Mator se unirán a los Hinur. Padre dijo... —Livia frunció el ceño, esforzándose en recordar las palabras exactas—. Padre dijo: *No voy a mandar a mis hijos a la guerra por unas aldeas* *de leñadores. Ya sé lo que me costaría.*
 
 Hector sintió un escalofrío.
 
-—¿Dijo eso? ¿Ya sé lo que me costaría?
+—¿Dijo eso? ¿*Ya sé lo que me costaría*?
 
 —Eso dijo. Y luego Varo le preguntó qué quería decir y padre le dio una bofetada. —Livia se encogió de hombros—. Nunca había visto a padre pegarle a Varo. Ni a nadie, en realidad, fuera de las guerras.
 
@@ -124,7 +124,7 @@ La noche era fría y clara. La luna llena iluminaba la torre a medio construir, 
 
 A las sesenta varas encontró a Lisandro.
 
-Estaba sentado en el borde del andamio, con las piernas colgando sobre el vacío, mirando hacia el noroeste. Hacia la niebla. Tenía una jarra vacía al lado y la cara mojada.
+Estaba sentado en el borde del andamio, con las piernas colgando sobre el vacío, mirando hacia el noreste. Hacia la niebla. Tenía una jarra vacía al lado y la cara mojada.
 
 —Lisandro.
 
@@ -146,9 +146,9 @@ Hector leyó dos veces. Luego levantó la vista.
 
 —Es una profecía de feria.
 
-—Eso dijo padre. Lo apuntó el escriba. Es una profecía de feria. Acepto.
+—Eso dijo padre. Lo apuntó el escriba. *Es una profecía de feria. Acepto.*
 
-Se quedaron en silencio. Abajo, la ciudad dormía. Arriba, la luna. Y al noroeste, la mancha gris de la niebla de Eufesia, inmóvil, paciente, como algo que espera.
+Se quedaron en silencio. Abajo, la ciudad dormía. Arriba, la luna. Y al noreste, la mancha gris de la niebla de Eufesia, inmóvil, paciente, como algo que espera.
 
 Hector volvió a mirar el pergamino. Debajo de la frase de la mujer había otra línea, añadida con otra tinta, con otra letra, tal vez años después. La letra de Lucius.
 

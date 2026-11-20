@@ -1,10 +1,10 @@
-## Capítulo 30 · Lanther
+# Capítulo 30 · Lanther
 
 *Banderbill. Del invierno del año 30 a la primavera del año 31 de la Nueva Era.*
 
 Los orcos llegaron la noche de la víspera del día más corto, cuando la ciudad entera estaba en la plaza de la fuente diciendo nombres.
 
-Lanther los oyó antes que las campanas. Los oyó en los pies, como los había oído el elfo: un latido sordo, enorme, que subía del bosque del norte y hacía temblar el agua del pilón en pequeños círculos. Bum. Bum. Bum. Dejó de decir el nombre que estaba diciendo —el de su madre, mirando hacia arriba, con la piedra de veta blanca en la mano— y se quedó quieta.
+Lanther los oyó antes que las campanas. Los oyó en los pies, como los había oído el elfo: un latido sordo, enorme, que subía del bosque del norte y hacía temblar el agua del pilón en pequeños círculos. *Bum. Bum. Bum.* Dejó de decir el nombre que estaba diciendo —el de su madre, mirando hacia arriba, con la piedra de veta blanca en la mano— y se quedó quieta.
 
 Junto a ella, Érandiul ya se había quitado el sombrero. Lo hacía ahora siempre, desde la puerta del norte, como si después de dos años de llevarlo encajado hasta las orejas tuviera que recuperar el tiempo perdido. Escuchaba con la cabeza ladeada.
 
@@ -20,7 +20,7 @@ Lanther no corrió.
 
 Fue andando hasta la puerta del norte. Despacio. Con la piedra en la mano. Subió a la torre por la escala del andamio, que todavía no habían quitado. Y desde arriba, desde encima de la tumba de Casimir, miró el bosque.
 
-* * *
+---
 
 Estaban en la linde. Una mancha oscura entre los pinos, con antorchas. Muchos. Grandes. Se movían como se mueve un rebaño cuando huele al lobo: inquietos, arremolinados, sin avanzar.
 
@@ -46,29 +46,23 @@ Hacia el sur. Hacia el bosque y las montañas. Por donde habían venido.
 
 Lanther, en la torre, con la piedra en la mano, no le contestó.
 
-Le habría tenido que decir porque el muro canta. Y Hakon no creía en esas cosas. Nadie en el Consejo creía en esas cosas. Las había prohibido su hermano.
+Le habría tenido que decir *porque el muro canta*. Y Hakon no creía en esas cosas. Nadie en el Consejo creía en esas cosas. Las había prohibido su hermano.
 
 Así que no dijo nada. Y la ciudad se contó, como se cuentan siempre estas cosas, que los orcos habían visto el muro y habían tenido miedo. Que era verdad.
 
 No era toda la verdad.
 
-* * *
+---
 
 El invierno fue largo. La gente lo pasó mirándola.
 
-Lo notaba en todas partes. En el mercado, en el puerto, en el cuartel, en la panadería de Teo el joven, donde seguía yendo a amasar los martes por la tarde, después del río, porque su madre lo hacía. La miraban. Con respeto, muchos. Con cariño, algunos. Con algo parecido a la devoción, unos pocos, sobre todo los de la obra del muro, que la llamaban la de las piedras y le dejaban flores secas en la puerta del palacio. Y con otra cosa, otros.
+Lo notaba en todas partes. En el mercado, en el puerto, en el cuartel, en la panadería de Teo el joven, donde seguía yendo a amasar los martes por la tarde, después del río, porque su madre lo hacía. La miraban. Con respeto, muchos. Con cariño, algunos. Con algo parecido a la devoción, unos pocos, sobre todo los de la obra del muro, que la llamaban *la de las piedras* y le dejaban flores secas en la puerta del palacio. Y con otra cosa, otros.
 
 La oía. No podía dejar de oírla. Debajo de las palabras amables, debajo de las reverencias. Como se oye el agua corriendo debajo del hielo.
 
-*Una mujer.*  
-*Diecinueve años.*
+*Una mujer.* *Diecinueve años.* *Se viste de hombre.* *Habla con las piedras.* *Trae a los de las orejas.* *No se casa.*
 
-*Se viste de hombre.*  
-*Habla con las piedras.*  
-*Trae a los de las orejas.*  
-*No se casa.*
-
-*No envejece. Dicen que no envejece. Mira la cara que tiene. Mira la de su madre a su edad.*
+*No envejece. Dicen que no envejece. Mira la cara que tiene. Mira la de su madre a* *su edad.*
 
 *Su hermano, en paz descanse, no creía en la magia. Y ella sí.*
 
@@ -80,7 +74,7 @@ No lo era. El aro que llevaba era el de la regencia, el viejo, el de su madre, e
 
 Nadie se atrevía.
 
-* * *
+---
 
 —Te van a retar —le dijo Livia.
 
@@ -116,7 +110,7 @@ Lanther se volvió hacia él.
 
 —Hakon sí. —Verawel volvió a las cortezas—. Se rasca la ceja cada vez que pasas. No es costumbre. Es pena.
 
-* * *
+---
 
 Fue el primer día de la primavera, en el patio del cuartel, delante de todo el mundo.
 
@@ -158,7 +152,7 @@ Hakon Brand se quedó quieto un instante. Luego se echó a reír. Una carcajada 
 
 —Trato —dijo.
 
-* * *
+---
 
 El patio del cuartel estaba lleno. No cabía nadie más. Había gente en los tejados de las casas de alrededor, en las ventanas, en lo alto del muro, en las ramas de los dos castaños de la esquina. Los niños se habían subido a la fuente de la plaza de al lado para ver por encima de las tapias. Los elfos estaban en la galería del primer piso, apartados, con los sombreros que algunos se habían comprado en el mercado porque les parecía una costumbre humana muy razonable, y Érandiul el primero, sin sombrero, con las orejas de punta.
 
@@ -182,7 +176,7 @@ Se saludaron.
 
 Y empezaron.
 
-* * *
+---
 
 Lo oyó todo.
 
@@ -208,7 +202,7 @@ Hakon atacó otra vez. Más deprisa. Más fuerte. Con todo. Lanther lo oyó veni
 
 Y entonces hizo lo que le había enseñado el elfo.
 
-* * *
+---
 
 *Miro el sitio y el cuchillo va.*
 
@@ -238,7 +232,7 @@ Y el patio entero, los tejados, las ventanas, el muro, los castaños, la fuente,
 
 —¡Constará!
 
-* * *
+---
 
 Hakon Brand se arrodilló en la arena.
 
@@ -252,13 +246,13 @@ Se arrodilló. Despacio. Con muy mala cara. Con una rodilla que le crujió.
 
 Ella no le dijo nada. No hacía falta.
 
-* * *
+---
 
 La coronaron esa misma tarde, en la plaza de la fuente, sin obispos ni sacerdotes, porque no había, y sin ceremonia larga, porque no le gustaban.
 
 Le puso el aro Livia. No lo había previsto nadie; tenía que habérselo puesto Hakon, como capitán de la Guardia, o Teo el joven, como el más antiguo del Consejo. Pero cuando llegó el momento, Hakon le dio el cojín de terciopelo a Livia sin decir nada, con la mano vendada, y Livia lo cogió, y se quedó mirando el aro un momento.
 
-El aro de hierro. El que forjó en el año uno el herrero de la colonia, un Germa joven, con un ancla de las galeras de Meridio, y que maese Ugo le puso a su padre en la cabeza porque nadie más se atrevía. El que tenía grabado por dentro, en letras pequeñas, Más que a mis ojos.
+El aro de hierro. El que forjó en el año uno el herrero de la colonia, un Germa joven, con un ancla de las galeras de Meridio, y que maese Ugo le puso a su padre en la cabeza porque nadie más se atrevía. El que tenía grabado por dentro, en letras pequeñas, *Más que a mis ojos*.
 
 —Tu madre dijo esto mismo —le dijo Livia, bajito—. Cuando se lo puso a tu hermano. Lo copió de lo que le dijo tu padre a ella sobre un barril. Así que lo digo yo, para que conste. —Se lo puso—. Más que a mis ojos.
 
@@ -266,13 +260,13 @@ El aro de hierro. El que forjó en el año uno el herrero de la colonia, un Germ
 
 Y la plaza gritó.
 
-* * *
+---
 
 Su primera orden como reina la dio subida al pilón de la fuente, con el aro torcido, con el pelo corto de punta, con la túnica de su hermano.
 
 —Esta ciudad se ha llamado Banderbill desde que Gorm Renod, que en paz descanse, se subió borracho a un barril el primer día y le puso el nombre de mi padre. —La gente se rió; todos conocían la historia—. Y Banderbill se va a seguir llamando. Porque es su nombre de fuera. El que usa todo el mundo.
 
-Hizo una pausa. Miró a Livia. Miró a Érandiul. Miró al muro, que cantaba bajito, y a las montañas, detrás, y al norte, donde estaba el valle negro.
+Hizo una pausa. Miró a Livia. Miró a Érandiul. Miró al muro, que cantaba bajito, y a las montañas, detrás, y al este, hacia el estrecho, donde estaba el valle negro.
 
 —Pero las ciudades, como la gente de esta colina, tienen dos nombres. Y el de dentro, el que no se dice, el que se guarda, se lo voy a poner yo. —Tragó saliva—. Bhargaras. Por mi padre. Por mi abuelo, al que no conocí. Por el Segundo, que dijo que no a una corona. Y por mi hermano. Que está de guardia.
 
@@ -288,7 +282,7 @@ Le pareció bien.
 
 Un nombre que no se puede coger entero es un nombre del que no se puede tirar.
 
-* * *
+---
 
 Esa noche no hubo banquete. Hubo sopa en la plaza y cerveza de Teo el joven y música de los elfos, que tocaban una cosa con flautas de hueso que hizo llorar a medio Banderbill sin que nadie supiera por qué.
 
@@ -346,13 +340,13 @@ Y nadie lo supo nunca. Salvo un elfo que esa noche no podía dormir y había baj
 
 Lo escribió en su cuaderno al día siguiente. En una sola línea.
 
-*Lo que los hombres no saben es que ella, en secreto, entabló una amistad con un hermano de mi pueblo que huyó de la destrucción: Verawel.*
+*Lo que los hombres no saben es que ella, en secreto, entabló una amistad con un* *hermano de mi pueblo que huyó de la destrucción: Verawel.*
 
-No escribió de mano a mano. Eso lo guardó.
+No escribió *de mano a mano*. Eso lo guardó.
 
-* * *
+---
 
-Muy lejos de allí, al otro lado del mar, al oeste, en el desierto, había un pozo.
+Muy lejos de allí, al otro lado del mar, al norte, en el desierto, había un pozo.
 
 Junto al pozo había una tienda. Una tienda vieja, de piel de cabra remendada cien veces, con la tela del techo tan gastada que dejaba pasar la luz en mil puntos, como un cielo de noche al revés. Dentro de la tienda, sentado en una alfombra raída, había un hombre viejo.
 
@@ -362,7 +356,7 @@ Una jarra.
 
 De sal. Pequeña. Del tamaño de un puño. Cerrada con un tapón de cera negra.
 
-Se la había dejado un hombre de pelo blanco hacía tantos años que no se acordaba. Guárdamela, le había dicho. No la abras. No la rompas. Si se rompe, no te asustes. Y Yared la había guardado. Y la jarra lo había guardado a él: lo sabía, aunque nadie se lo había dicho; lo sabía porque todos los que conocía se habían muerto y él no.
+Se la había dejado un hombre de pelo blanco hacía tantos años que no se acordaba. *Guárdamela*, le había dicho. *No la abras. No la rompas. Si se rompe, no te asustes.* Y Yared la había guardado. Y la jarra lo había guardado a él: lo sabía, aunque nadie se lo había dicho; lo sabía porque todos los que conocía se habían muerto y él no.
 
 Hacía dos años, una noche, la jarra se había rajado.
 

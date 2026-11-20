@@ -1,4 +1,4 @@
-## Capítulo 72 · Haltair
+# Capítulo 72 · Haltair
 
 *Fortaleza de Kel-Dun, río Ceniza. Año 362.*
 
@@ -8,7 +8,7 @@ La emperatriz Aremir le dio a su hijo el mando de la expedición a Kel-Dun el d�
 
 Lo dijo en el Consejo, delante de todos, sin sonreír. Los señores se rieron por cortesía. Haltair no. Conocía a su madre.
 
-* * *
+---
 
 Kel-Dun llevaba doce años muerta.
 
@@ -42,9 +42,9 @@ Detrás de él, sentado sobre una roca, el Custodio Belen —un Mator de los pan
 
 —¿Saben que están muertos?
 
-—Algunos sí. La mayoría, no. —Belen abrió los ojos—. Él les dejó la última orden que recibieron vivos. Guardad el vado. Y la están cumpliendo.
+—Algunos sí. La mayoría, no. —Belen abrió los ojos—. Él les dejó la última orden que recibieron vivos. *Guardad el vado.* Y la están cumpliendo.
 
-* * *
+---
 
 Haltair oía a los muertos, pero mal. Como se oye a unos viejos hablando en un banco al otro lado de una plaza: un murmullo, un tono, nunca las palabras. Su madre los oía con claridad, y su abuelo Gregorian también, y su tío Meridio, para su desgracia, mejor que nadie. Haltair, en cambio, oía a los vivos. Y a esos los oía muy bien.
 
@@ -78,11 +78,11 @@ Rufo lo miró como si se hubiera vuelto loco.
 
 —Entonces esperaremos seis días.
 
-* * *
+---
 
 Esperaron siete. El jinete volvió con el rollo, el intendente, y una carta de la emperatriz.
 
-*Hijo. El intendente me ha contado lo que has pedido. Me he reído por primera vez en un mes. Haz lo que creas, pero recuerda: si vuelves sin la mitad de tus hombres, te desheredo. Si vuelves sin la fortaleza, no pasa nada. Si vuelves con una idea mejor que la mía, te nombraré heredero en el Consejo y me jubilaré a criar cabras. — A.*
+*Hijo. El intendente me ha contado lo que has pedido. Me he reído por primera vez* *en un mes. Haz lo que creas, pero recuerda: si vuelves sin la mitad de tus hombres, te* *desheredo. Si vuelves sin la fortaleza, no pasa nada. Si vuelves con una idea mejor que la* *mía, te nombraré heredero en el Consejo y me jubilaré a criar cabras. — A.*
 
 *P. D.: No me jubilaré a criar cabras.*
 
@@ -98,7 +98,7 @@ Haltair se sentó con el Custodio aquella noche junto al fuego, con el rollo ext
 
 —Los soldados de leva no tienen nombre secreto, alteza. Esa es una costumbre de familias antiguas. De la vuestra. De los Heredicus. De unos pocos más. —Belen lo miró—. Estos son hijos de campesinos. Su nombre es su nombre. Si se lo decimos, lo oirán.
 
-* * *
+---
 
 Fueron al amanecer del octavo día. Haltair, los nueve Custodios, y cuarenta voluntarios. No más.
 
@@ -124,7 +124,7 @@ Haltair oyó a los cuarenta voluntarios contener el aliento detrás de él.
 
 —Soldado Kaso Hale —leyó Belen—. De Hinurvald. Hijo de...
 
-* * *
+---
 
 Tardaron cuatro días.
 
@@ -138,7 +138,7 @@ El tercer día, Rufo Daine se acercó a él con el rollo en la mano.
 
 —Alteza. —Le temblaba la voz. Al capitán con la cara partida en dos, que había estado en la caída de Kel-Mar, le temblaba la voz—. El siguiente.
 
-Haltair miró el rollo. Tercera cohorte. Torre norte. Sargento Pell Daine, de Valdorno. Hijo de Ario y de Mira.
+Haltair miró el rollo. *Tercera cohorte. Torre norte. Sargento Pell Daine, de* *Valdorno. Hijo de Ario y de Mira.*
 
 —Mi hermano —dijo Rufo—. No el tío de ningún muchacho. Mi hermano pequeño. No lo sabía. No sabía que estaba en la Tercera. Me escribió en el trescientos cuarenta y nueve que lo habían destinado al sur. —Miró la torre norte. Una silueta gris, en la almena, con la capa hecha jirones—. Doce años. Doce años ahí arriba. Y yo pasando por el camino real cada primavera.
 
@@ -156,7 +156,7 @@ Luego levantó una mano. Como quien saluda desde lejos.
 
 Y se sentó.
 
-* * *
+---
 
 Al cuarto día al atardecer cayó el último. Un muchacho de dieciséis años, tambor de la segunda cohorte, de una aldea Germa de los valles de hierro. Belen leyó su nombre con la voz convertida en un susurro. El muchacho soltó el tambor y se tumbó en el patio, junto a él, de lado, como un niño que se duerme.
 
@@ -166,7 +166,7 @@ Haltair entró por la puerta sur con los cuarenta voluntarios, los nueve Custodi
 
 No murió ningún soldado vivo. Ni uno.
 
-* * *
+---
 
 Volvió a Concordia en otoño. Su madre lo recibió en la sala del trono, delante del Consejo, y escuchó el informe de pie, sin decir nada.
 
@@ -188,7 +188,7 @@ El viejo se puso blanco.
 
 Lo colgaron esa tarde, en la plaza.
 
-* * *
+---
 
 Esa noche, Haltair fue a ver a su madre a su despacho. La encontró sola, con una vela, el diario de Meridio abierto en el regazo y una copa de vino que no había tocado.
 

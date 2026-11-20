@@ -1,4 +1,4 @@
-## Capítulo 82 · Haltair
+# Capítulo 82 · Haltair
 
 *Concordia. Año 412, la Noche Más Larga.*
 
@@ -6,7 +6,7 @@ El emperador Haltair Bhargaras bajó a la cripta de la Torre de la Unión a las 
 
 La cripta era enorme. Ocupaba todo el subsuelo de la torre, un laberinto de bóvedas de piedra gris clara con vetas negras, iluminado por lámparas de aceite que ardían día y noche. En las paredes estaban los nichos de los emperadores y sus familias, cuatro siglos de muertos honrados, con sus nombres grabados en la piedra. En el centro, envuelta por los cimientos de la torre como una semilla en su fruto, estaba la piedra del Ombligo.
 
-Haltair la miró desde lejos, como siempre. Nunca la había tocado. Ningún Bhargaras la había tocado nunca; era otra de las costumbres de la familia, la que venía de Henricus, que la había aprendido —según contaba la tradición— del propio Hector Tiberius a través de un diario perdido. No la toques. Te conoce.
+Haltair la miró desde lejos, como siempre. Nunca la había tocado. Ningún Bhargaras la había tocado nunca; era otra de las costumbres de la familia, la que venía de Henricus, que la había aprendido —según contaba la tradición— del propio Hector Tiberius a través de un diario perdido. *No la toques. Te conoce.*
 
 Esa noche, la piedra latía más deprisa.
 
@@ -20,13 +20,13 @@ Y desde muy lejos, desde arriba, desde el otro lado de los cimientos y de las b�
 
 Una puerta. Abriéndose.
 
-* * *
+---
 
-La Puerta de los Juramentos era la más antigua de Concordia, la que daba al noroeste, al camino de las colinas peladas. La había mandado construir Lucius el Fundador en el año diez, y sobre su arco estaban grabados, en las lenguas de los tres pueblos, los versos del Juramento de Sal: Paz entre Suhon, Ibaro y Zelto. Paz entre sus hijos y los hijos de sus hijos.
+La Puerta de los Juramentos era la más antigua de Concordia, la que daba al noreste, al camino de las colinas peladas. La había mandado construir Lucius el Fundador en el año diez, y sobre su arco estaban grabados, en las lenguas de los tres pueblos, los versos del Juramento de Sal: *Paz entre Suhon, Ibaro y Zelto. Paz entre sus hijos y los hijos* *de sus hijos.*
 
 A medianoche de la noche más larga del año cuatrocientos doce, la Puerta de los Juramentos se abrió desde dentro, y la niebla entró en Concordia.
 
-No hubo batalla en la puerta. Los guardias habían sido relevados una hora antes por orden del canciller, con la excusa de reforzar las murallas del este, donde los espías decían que se esperaba un ataque. Los nuevos guardias no llegaron nunca; sus órdenes se habían perdido entre los papeles de la cancillería. La puerta estaba sola. Y un hombre de cuarenta y un años, con una capa de canciller y las manos temblorosas, giró el torno que levantaba el rastrillo, y luego descorrió los tres cerrojos de hierro, y luego apoyó el hombro contra la madera de roble y empujó.
+No hubo batalla en la puerta. Los guardias habían sido relevados una hora antes por orden del canciller, con la excusa de reforzar las murallas del oeste, donde los espías decían que se esperaba un ataque. Los nuevos guardias no llegaron nunca; sus órdenes se habían perdido entre los papeles de la cancillería. La puerta estaba sola. Y un hombre de cuarenta y un años, con una capa de canciller y las manos temblorosas, giró el torno que levantaba el rastrillo, y luego descorrió los tres cerrojos de hierro, y luego apoyó el hombro contra la madera de roble y empujó.
 
 Detrás de la puerta no había nada. Solo niebla. Una pared gris, blanca, espesa como la lana mojada.
 
@@ -34,13 +34,13 @@ Y luego la niebla se abrió, como una cortina. Formando un pasillo de penumbra.
 
 Y por el pasillo entraron los muertos.
 
-* * *
+---
 
 Haltair subió las escaleras de la cripta corriendo. Tenía setenta y dos años y las rodillas le crujían como puertas viejas, pero subió corriendo, trescientos peldaños de caracol, hasta el vestíbulo de la torre, y luego salió a la plaza.
 
 La plaza estaba llena de gente. Gente en camisa de dormir, gente con niños en brazos, gente que había salido de sus casas al oír las campanas. Porque las campanas sonaban. Todas. Las de los templos de los tres pueblos, las de las torres de las murallas, las de los cuarteles. Sonaban sin orden, sin ritmo, como gritos.
 
-Y desde el noroeste, desde la Puerta de los Juramentos, llegaba la niebla.
+Y desde el noreste, desde la Puerta de los Juramentos, llegaba la niebla.
 
 Haltair la vio avanzar por las calles como una marea. Blanca. Silenciosa. Se tragaba las casas, las torres, las antorchas. Se tragaba a la gente que corría delante de ella. Y dentro de ella, apenas visibles, siluetas grises que caminaban sin prisa.
 
@@ -48,7 +48,7 @@ Haltair la vio avanzar por las calles como una marea. Blanca. Silenciosa. Se tra
 
 —Lo sé. —Haltair no apartaba los ojos de la niebla—. ¿Cuántos?
 
-—No lo sabemos. Miles. Decenas de miles. Están entrando por todas las calles del barrio norte. Las murallas del este... los hombres que mandó el canciller... no saben qué hacer. Nadie da órdenes.
+—No lo sabemos. Miles. Decenas de miles. Están entrando por todas las calles del barrio norte. Las murallas del oeste... los hombres que mandó el canciller... no saben qué hacer. Nadie da órdenes.
 
 —¿Dónde está el canciller?
 
@@ -56,7 +56,7 @@ El capitán no contestó. No hizo falta.
 
 Haltair cerró los ojos. Durante un momento, solo un momento, se permitió sentir lo que sentía. Traición. Dolor. Una tristeza inmensa, como un océano. Casimir. El muchacho brillante de Leogrand que le hacía reír en los Consejos. El amigo de su hijo.
 
-Orvane, había escrito su madre en el margen del diario de Meridio. Leogrand. Vigilad a sus hijos.
+*Orvane*, había escrito su madre en el margen del diario de Meridio. *Leogrand.* *Vigilad a sus hijos.*
 
 Él no había vigilado. Había confiado. Era lo único que sabía hacer.
 
@@ -72,7 +72,7 @@ Abrió los ojos.
 
 Haltair miró la torre. La Torre de la Unión, blanca bajo la luna, con la Llama Concorde ardiendo en la cúspide. Miró la puerta del vestíbulo, por donde se bajaba a la cripta.
 
-Pensó en un diario perdido de Hector Tiberius. Pensó en Lisandro Heredicus, el Maestro de Obras, que diseñó acueductos para Concordia que nadie construyó hasta Henricus. Pensó en los planos de esos acueductos, que él mismo había estudiado de niño en la Gran Biblioteca, fascinado. Pensó en un túnel. Un túnel que nacía en la cripta, en los cimientos de la torre, en el manantial subterráneo que alimentaba los pozos de la ciudad, y que bajaba hacia el este, siguiendo la pendiente natural del terreno, durante doce leguas, hasta desembocar en los acantilados de Puerto Salobre.
+Pensó en un diario perdido de Hector Tiberius. Pensó en Lisandro Heredicus, el Maestro de Obras, que diseñó acueductos para Concordia que nadie construyó hasta Henricus. Pensó en los planos de esos acueductos, que él mismo había estudiado de niño en la Gran Biblioteca, fascinado. Pensó en un túnel. Un túnel que nacía en la cripta, en los cimientos de la torre, en el manantial subterráneo que alimentaba los pozos de la ciudad, y que bajaba hacia el sur, siguiendo la pendiente natural del terreno, durante doce leguas, hasta desembocar en los acantilados de Puerto Salobre.
 
 Lisandro lo había diseñado para el agua. Henricus lo había construido para el agua. Pero un túnel por donde pasa el agua es un túnel por donde puede pasar la gente.
 
@@ -84,13 +84,13 @@ Haltair sonrió.
 
 —Yo me quedo en la plaza, capitán. Alguien tiene que estar aquí cuando llegue.
 
-* * *
+---
 
 La Guardia aguantó tres horas en la Calle de los Herreros.
 
 Fue suficiente para que bajaran a la cripta seiscientas personas.
 
-No más. Haltair había esperado miles. Pero la niebla avanzaba por todas las calles a la vez, no solo por la de los Herreros, y la gente que huía hacia la plaza se encontraba con muertos en cada esquina, y la mayoría no llegaba. Los que llegaban, los Custodios los metían por la puerta del vestíbulo y los bajaban por los trescientos peldaños de caracol hasta la cripta, y allí, junto al manantial, en la boca del acueducto de Lisandro, los mandaban hacia el este, en la oscuridad, con una antorcha por cada veinte personas.
+No más. Haltair había esperado miles. Pero la niebla avanzaba por todas las calles a la vez, no solo por la de los Herreros, y la gente que huía hacia la plaza se encontraba con muertos en cada esquina, y la mayoría no llegaba. Los que llegaban, los Custodios los metían por la puerta del vestíbulo y los bajaban por los trescientos peldaños de caracol hasta la cripta, y allí, junto al manantial, en la boca del acueducto de Lisandro, los mandaban hacia el sur, en la oscuridad, con una antorcha por cada veinte personas.
 
 Seiscientas personas. De doscientas mil.
 
@@ -108,7 +108,7 @@ La niebla llenó la plaza. Se tragó las fuentes, los árboles, las estatuas de 
 
 Y por un pasillo de penumbra, caminando sin prisa, salió el Padre de la Bruma.
 
-* * *
+---
 
 Haltair lo había imaginado muchas veces. Desde niño, cuando su madre le contaba historias. Lo había imaginado como un monstruo, como un demonio, como una sombra sin cara.
 
@@ -130,7 +130,7 @@ Loth sonrió.
 
 —Hay gente en la cripta.
 
-—Lo sé. Los oigo. Seiscientos, más o menos. Huyendo por un túnel. —Loth miró hacia el este, como si pudiera ver a través de la piedra—. No me interesan. Que se vayan.
+—Lo sé. Los oigo. Seiscientos, más o menos. Huyendo por un túnel. —Loth miró hacia el sur, como si pudiera ver a través de la piedra—. No me interesan. Que se vayan.
 
 Haltair parpadeó, sorprendido.
 
@@ -144,7 +144,7 @@ Haltair parpadeó, sorprendido.
 
 —Te diría que pararas.
 
-—Lo sé. —Loth se detuvo a tres escalones de Haltair—. Me lo dijo. Esa noche. Piensa en lo que quiere ella, no en lo que quieres tú. —Miró a la mujer del velo, que seguía al pie de los escalones, inmóvil—. Y llevo doscientos sesenta y tres años sin hacerle caso.
+—Lo sé. —Loth se detuvo a tres escalones de Haltair—. Me lo dijo. Esa noche. *Piensa en lo que quiere ella, no en lo que quieres tú.* —Miró a la mujer del velo, que seguía al pie de los escalones, inmóvil—. Y llevo doscientos sesenta y tres años sin hacerle caso.
 
 Haltair lo miró. Por un momento, solo un momento, sintió algo que no esperaba sentir. Piedad.
 

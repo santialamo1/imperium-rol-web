@@ -1,6 +1,6 @@
-## Capítulo 63 · Tibbet
+# Capítulo 63 · Tibbet
 
-*El Fuerte Abandonado, en la costa del norte. Primavera del año 1436 de la Nueva Era (829 D.bA).*
+*El Fuerte Abandonado, en la costa del norte. Primavera del año 1436 de la Nueva* *Era (829 D.bA).*
 
 El sombrero número ciento sesenta y siete era azul.
 
@@ -10,7 +10,7 @@ Azul, ninguno.
 
 El azul no es color de gnomo. Es color de cielo, y los gnomos miran el suelo, donde están las cosas.
 
-Pero hacía un mes que la lista número trescientos trece le picaba en el chaleco. Doblada en ocho. Trescientos sesenta y nueve años doblada en ocho, y nunca le había picado. Y una mañana de marzo se despertó en el almacén de abajo, al lado del escudo, y la lista le picaba como pica una pulga, y el escudo hacía tum un poco más deprisa que de costumbre.
+Pero hacía un mes que la lista número trescientos trece le picaba en el chaleco. Doblada en ocho. Trescientos sesenta y nueve años doblada en ocho, y nunca le había picado. Y una mañana de marzo se despertó en el almacén de abajo, al lado del escudo, y la lista le picaba como pica una pulga, y el escudo hacía *tum* un poco más deprisa que de costumbre.
 
 Tibbet se levantó, fue al arcón de los tintes, sacó un frasco de añil que había comprado en Rinkel en el 1290 sin saber para qué, y empezó a teñir hojas.
 
@@ -22,7 +22,7 @@ Se lo puso.
 
 Y se sentó a esperar.
 
-* * *
+---
 
 Oyó a los soldados una semana antes de que llegaran.
 
@@ -34,19 +34,19 @@ Fueron primero al Fuerte Orco. Tibbet lo notó. Dieron vueltas. No encontraron n
 
 Luego al Fuerte Veril. Dos días. Nada.
 
-Luego al Fuerte Helado. Tres días. Allí uno se cayó por una grieta y se rompió una pierna; Tibbet notó el golpe en el talón izquierdo y dijo ay en voz alta, solo, en el almacén.
+Luego al Fuerte Helado. Tres días. Allí uno se cayó por una grieta y se rompió una pierna; Tibbet notó el golpe en el talón izquierdo y dijo *ay* en voz alta, solo, en el almacén.
 
 Y luego vinieron hacia aquí.
 
 Tibbet sacó la lista número trescientos trece. La desdobló. La leyó por última vez.
 
-*Uno con la armadura azul que se arrodillará también, por dentro, sin saberlo. Darle el escudo. Irse.*
+*Uno con la armadura azul que se arrodillará también, por dentro, sin saberlo.* *Darle el escudo. Irse.*
 
 La volvió a doblar. En ocho.
 
 Y empezó a cantar.
 
-* * *
+---
 
 No sabía cantar.
 
@@ -66,13 +66,13 @@ No a una puerta.
 
 A las coronas.
 
-* * *
+---
 
 Había mil doscientas cuarenta y una.
 
 Las tenía contadas. Lista número trescientos cuarenta y dos, del 1098, actualizada cada diez años. Mil doscientas cuarenta y una coronas, dos mil ochenta collares, nueve mil y pico anillos, un trono de marfil sin una pata, catorce cetros, cuarenta y siete cofres de monedas de reinos que ya no existían.
 
-Las había ido trayendo durante treinta años, del 1067 al 1097, como se había dicho a sí mismo la primera noche: si alguien ve un escudo negro en medio de un montón de coronas, no lo mira. Mira las coronas. Las sacó de donde sacan los gnomos las cosas: de las tumbas que nadie visita, de los palacios que nadie recuerda, del fondo de los ríos, de las casas de los reyes que se murieron sin hijos. Cosas olvidadas. Cosas que el mundo había dejado caer.
+Las había ido trayendo durante treinta años, del 1067 al 1097, como se había dicho a sí mismo la primera noche: *si alguien ve un escudo negro en medio de un montón de* *coronas, no lo mira. Mira las coronas.* Las sacó de donde sacan los gnomos las cosas: de las tumbas que nadie visita, de los palacios que nadie recuerda, del fondo de los ríos, de las casas de los reyes que se murieron sin hijos. Cosas olvidadas. Cosas que el mundo había dejado caer.
 
 Nadie las echó de menos. Por eso las cogió.
 
@@ -80,7 +80,7 @@ Y ahora les cantaba.
 
 Les cantaba que se acordaran de que estaban olvidadas.
 
-* * *
+---
 
 Fue al tercer día, por la tarde, cuando la corona de encima del montón grande, una de oro con piedras verdes que había sido de una reina de las islas del Este en el siglo III, dejó de verse bien.
 
@@ -98,13 +98,13 @@ Y Tibbet tampoco.
 
 Eso no lo había calculado.
 
-* * *
+---
 
 Se dio cuenta al levantarse. Fue a mirarse las manos y tardó en encontrarlas. Las tenía. Las movía. Pero se le escurrían de los ojos, como las coronas.
 
 Se rio. Bajito.
 
-Claro. Llevaba mil doscientos noventa años siendo lo más olvidado que había en el fuerte. Más que las coronas. Más que el trono sin pata. Un gnomo con la vida de otro, sentado en un almacén, con un escudo que nadie buscaba, al que la Orden visitaba una vez cada veinte años para preguntarle cosas que él contestaba con listas. Un gnomo de listas. Un gnomo de sombreros.
+*Claro.* Llevaba mil doscientos noventa años siendo lo más olvidado que había en el fuerte. Más que las coronas. Más que el trono sin pata. Un gnomo con la vida de otro, sentado en un almacén, con un escudo que nadie buscaba, al que la Orden visitaba una vez cada veinte años para preguntarle cosas que él contestaba con listas. Un gnomo de listas. Un gnomo de sombreros.
 
 Las cinco notas no distinguen.
 
@@ -114,7 +114,7 @@ Tibbet se quedó mirando el sitio donde sabía que tenía las manos. Con el somb
 
 Y entonces oyó la puerta.
 
-* * *
+---
 
 Entraron con antorchas.
 
@@ -128,11 +128,11 @@ Un elfo. Viejísimo. Con un sombrero de ala ancha, manchado de barro. Con un cua
 
 Tibbet lo reconoció.
 
-Érandiul. El del Diario. El que había escrito en el 1112 Tengo un buen presentimiento sobre este Gnomo hablando de otro gnomo, de uno más joven, de uno que ahora estaba en una torre al otro lado del mar comiéndose manzanas. Tibbet había leído la frase en la copia de Mirela. Le había gustado. Nadie había escrito nunca un presentimiento sobre él.
+*Érandiul.* El del Diario. El que había escrito en el 1112 *Tengo un buen* *presentimiento sobre este Gnomo* hablando de otro gnomo, de uno más joven, de uno que ahora estaba en una torre al otro lado del mar comiéndose manzanas. Tibbet había leído la frase en la copia de Mirela. Le había gustado. Nadie había escrito nunca un presentimiento sobre él.
 
 Érandiul no lo vio. Nadie lo vio. Tibbet estaba en el suelo, al lado del escudo, con su sombrero azul, y los soldados pasaban la luz por encima de él como por encima de una piedra.
 
-* * *
+---
 
 El que iba delante encontró la lámpara.
 
@@ -142,7 +142,7 @@ El de delante cogió una antorcha de otro, se subió a un cofre y las encendió.
 
 Y la sala se iluminó.
 
-* * *
+---
 
 Los soldados gritaron.
 
@@ -162,7 +162,7 @@ El soldado de la mano extendida se paró.
 
 Nadie salió.
 
-* * *
+---
 
 Tibbet lo miró bien, entonces.
 
@@ -184,7 +184,7 @@ Tibbet pensó en unas gafas.
 
 Y se le escapó una risa.
 
-* * *
+---
 
 Daegor —se llamaba así; Tibbet lo oyó cuando uno de los soldados lo llamó— no buscó entre las coronas. Se quedó en medio de la sala, quieto, con la cabeza un poco ladeada.
 
@@ -202,7 +202,7 @@ Bajó.
 
 Tibbet bajó detrás de él. Con los pies que no se veía, con el sombrero que sí. Y detrás de los dos, sin que nadie se lo pidiera, con el cuaderno en la mano izquierda, el elfo viejo.
 
-* * *
+---
 
 El almacén de abajo tiene el techo bajo y el aire quieto.
 
@@ -234,7 +234,7 @@ Al quitarse el sombrero, se volvió visible. Del todo. Un momento. Lo que tarda 
 
 Daegor lo miró.
 
-* * *
+---
 
 —¿Quién eres? —dijo.
 
@@ -242,7 +242,7 @@ Sin miedo. Con la voz baja, como se habla en una iglesia.
 
 Tibbet no contestó. No estaba en la lista.
 
-Se levantó. Cogió el escudo con las dos manos. Pesaba lo que pesaba en el 1067, ni un gramo más; la gota de dentro no pesa. Latía contra su pecho. Tum. Y fue hasta Daegor, y se lo tendió.
+Se levantó. Cogió el escudo con las dos manos. Pesaba lo que pesaba en el 1067, ni un gramo más; la gota de dentro no pesa. Latía contra su pecho. *Tum.* Y fue hasta Daegor, y se lo tendió.
 
 Daegor no lo cogió.
 
@@ -258,7 +258,7 @@ Daegor miró la armadura. Se miró a sí mismo. Y entendió algo, no mucho, lo b
 
 Cogió el escudo.
 
-Al cogerlo, le tembló el brazo. No del peso. Del tum. Que se le metió por la mano hasta el hombro, Tibbet lo vio, como entra el frío por una puerta.
+Al cogerlo, le tembló el brazo. No del peso. Del *tum*. Que se le metió por la mano hasta el hombro, Tibbet lo vio, como entra el frío por una puerta.
 
 —Gracias —dijo Daegor.
 
@@ -266,11 +266,11 @@ Tibbet se puso el sombrero.
 
 Y dejó de estar.
 
-* * *
+---
 
 No del todo. Tibbet sabía lo que era. Lo había visto en Odelia, que se quedó sin nombre en el séptimo Rincón y vivió doscientos años más sin él, contenta, comiendo higos.
 
-No se fue a ninguna parte. Se quedó en el almacén. Se quedó oyendo cómo Daegor subía los diecinueve escalones con el escudo apretado contra el pecho, y cómo arriba los soldados se callaban de golpe al verlo, y cómo alguien gritaba ¡las coronas!, y cómo otro decía ¿qué coronas?, y cómo ya nadie estaba seguro de haber visto un montón de oro en la sala grande, ni una lámpara de doce velas, ni un trono de marfil sin una pata.
+No se fue a ninguna parte. Se quedó en el almacén. Se quedó oyendo cómo Daegor subía los diecinueve escalones con el escudo apretado contra el pecho, y cómo arriba los soldados se callaban de golpe al verlo, y cómo alguien gritaba *¡las coronas!*, y cómo otro decía *¿qué coronas?*, y cómo ya nadie estaba seguro de haber visto un montón de oro en la sala grande, ni una lámpara de doce velas, ni un trono de marfil sin una pata.
 
 Ni un gnomo.
 
@@ -280,9 +280,9 @@ Miraba el sitio donde había estado Tibbet.
 
 Tibbet lo vio escribir. Con la izquierda. Despacio. Lo leyó por encima del hombro, porque nadie se lo impedía:
 
-*un pequeño gnomo de larga barba, al parecer un místico sacerdote que custodiaba el escudo, que al ver la armadura de Daegor, se arrodilló, entregó el objeto y desapareció con en el viento junto con todos los tesoros.*
+*un pequeño gnomo de larga barba, al parecer un místico sacerdote que custodiaba* *el escudo, que al ver la armadura de Daegor, se arrodilló, entregó el objeto y desapareció* *con en el viento junto con todos los tesoros.*
 
-Con una falta. Con en el viento.
+Con una falta. *Con en el viento.*
 
 Tibbet se rio.
 
@@ -294,7 +294,7 @@ Y, muy bajito, para nadie, dijo:
 
 Y subió.
 
-* * *
+---
 
 Esa noche, cuando se fueron, Tibbet salió del Fuerte Abandonado por la puerta grande.
 
@@ -304,7 +304,7 @@ Hacía viento. Del mar. El viento le movía la barba, que todavía tenía, y la 
 
 Se paró en lo alto del acantilado y sacó las listas.
 
-Todas. Las llevaba en el chaleco, dobladas en ocho; trescientas cuarenta y dos, de las cuales doscientas noventa y una estaban tachadas. La trescientos doce: Un escudo que no se usa en mucho tiempo. Cuatro fuertes. Uno vacío. La tachó. La trescientos trece. La tachó.
+Todas. Las llevaba en el chaleco, dobladas en ocho; trescientas cuarenta y dos, de las cuales doscientas noventa y una estaban tachadas. La trescientos doce: *Un escudo que* *no se usa en mucho tiempo. Cuatro fuertes. Uno vacío.* La tachó. La trescientos trece. La tachó.
 
 Y debajo, como le venían siempre, sola, le vino la trescientos cuarenta y tres.
 
@@ -320,9 +320,8 @@ Luego la dobló en ocho. Se la guardó en el chaleco.
 
 Y echó a andar hacia el sur.
 
-* * *
+---
 
-En el Diario de la familia Érandiul, esa noche, en la parte de atrás, en las hojas que no se copian, con la letra de la mano izquierda, alguien escribió: Hoy ha desaparecido un gnomo y no sé su nombre. Lo sé. Lo tengo aquí. En la punta.
+En el Diario de la familia Érandiul, esa noche, en la parte de atrás, en las hojas que no se copian, con la letra de la mano izquierda, alguien escribió: *Hoy ha desaparecido un gnomo y no sé su nombre. Lo sé. Lo tengo aquí. En la punta.*
 
-*Era el de los sombreros.*  
-*Que conste que me acordé.*
+*Era el de los sombreros.* *Que conste que me acordé.*

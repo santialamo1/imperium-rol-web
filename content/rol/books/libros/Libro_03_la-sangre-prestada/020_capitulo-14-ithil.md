@@ -1,4 +1,4 @@
-## Capítulo 14 · Ithil
+# Capítulo 14 · Ithil
 
 *Arghâl. Invierno del año 600 de la Nueva Era (7 A.bA).*
 
@@ -12,7 +12,7 @@ Ahora tocaba un arpa sin cuerdas todas las noches.
 
 Y lo oía todo.
 
-* * *
+---
 
 Su cuarto estaba en lo alto de la torre. La aguja. La que los de la colina veían al atardecer si la buscaban. Era un cuarto pequeño, redondo, de hierro rojo por dentro, sin ventanas, porque en Arghâl no había ventanas que dieran arriba. Tenía una cama que no usaba; los drow no dormían, desde que les cambiaron los ojos. Una mesa. Un arpa.
 
@@ -22,11 +22,11 @@ Ahora la tocaba sin ellas. Con los dedos en el aire, donde habían estado.
 
 Y la colina contestaba.
 
-Eso era lo que no entendía. Que cuando tocaba, alguien contestaba. Muy lejos. Al noreste. Arriba. Desde la colina. Otra arpa. Con cuerdas. Tocada mal, con tos, equivocándose siempre en la tercera vuelta de la canción de la lluvia mansa.
+Eso era lo que no entendía. Que cuando tocaba, alguien contestaba. Muy lejos. Al suroeste. Arriba. Desde la colina. Otra arpa. Con cuerdas. Tocada mal, con tos, equivocándose siempre en la tercera vuelta de la canción de la lluvia mansa.
 
 Su hermana tocaba esa canción así. Mal. Equivocándose en la tercera vuelta. Era lo único que hacía mal.
 
-* * *
+---
 
 —Tu sobrino —dijo la voz.
 
@@ -44,21 +44,21 @@ Ithil apretó los dedos en el aire, donde habían estado las cuerdas.
 
 —Y te oye —dijo el maestro—. Igual que tú a él.
 
-* * *
+---
 
-Ithil había nacido en Tawarsinan, en la ciudad de los árboles que esperan, hacía cuatrocientos doce años. El mayor de tres. Nimrath, el segundo, era serio y no se reía. Aeloen, la pequeña, se reía de todo.
+Ithil había nacido en Tawarsinan, en la ciudad de *los árboles que esperan*, hacía cuatrocientos doce años. El mayor de tres. Nimrath, el segundo, era serio y no se reía. Aeloen, la pequeña, se reía de todo.
 
 Él tocaba el arpa. Era lo que hacía. Lo único. Mejor que nadie en el bosque. Tocaba en las bodas, en los entierros, en las noches de luna en que los sabios callaban y se oía, si uno se tumbaba en la tierra, la otra mitad respirar debajo.
 
-En el 357 vinieron los orcos. Nuevos. Organizados. Que no miraban arriba. Que alguien había entrenado, desde las sombras del tiempo, como escribió un elfo viejo con sombrero en su diario. En el 358 quemaron la ciudad. Elen, la hija de Aeloen, su sobrina, la que le pedía que le tocara la canción de la lluvia mansa para dormirse, se murió en la puerta del árbol de su casa, con una flecha en el cuello.
+En el 357 vinieron los orcos. Nuevos. Organizados. Que no miraban arriba. Que alguien había entrenado, *desde las sombras del tiempo*, como escribió un elfo viejo con sombrero en su diario. En el 358 quemaron la ciudad. Elen, la hija de Aeloen, su sobrina, la que le pedía que le tocara la canción de la lluvia mansa para dormirse, se murió en la puerta del árbol de su casa, con una flecha en el cuello.
 
 Ithil se fue esa noche. Con cien. Hacia abajo. A buscar a los que habían enseñado a los orcos.
 
 Tardó cuarenta y dos años en encontrarlos. A los dos años ya oía en sueños una voz que le decía dónde buscar. Tardó cuarenta en hacerle caso.
 
-* * *
+---
 
-Los encontró en el 400. En una cueva de sal en las montañas rojas. Con un hombre de sal sentado en el suelo, que contaba martes, y que le dijo, sin levantar la cabeza: ya te esperaba.
+Los encontró en el 400. En una cueva de sal en las montañas rojas. Con un hombre de sal sentado en el suelo, que contaba martes, y que le dijo, sin levantar la cabeza: *ya te* *esperaba*.
 
 Y detrás del hombre de sal, de pie, un hombre de gris.
 
@@ -82,7 +82,7 @@ Ithil se había quedado quieto.
 
 —De nada que te haga falta.
 
-* * *
+---
 
 Lo que no le hacía falta resultó ser arriba.
 
@@ -90,7 +90,7 @@ Los ojos ya se le habían empezado a poner blancos solos, de tanta oscuridad. Un
 
 No podía mirar arriba.
 
-No es que no quisiera. No podía. El cuello no le giraba. Los ojos no le subían. Era como si arriba se hubiera convertido en un sitio que no existía; como intentar mirar detrás de la propia cabeza. Los cien eran iguales. Un elfo viejo de la colina, con sombrero, que se enteró de lo que habían hecho, les puso nombre: drow. El que mira hacia abajo. Ithil lo supo y le pareció justo.
+No es que no quisiera. No podía. El cuello no le giraba. Los ojos no le subían. Era como si arriba se hubiera convertido en un sitio que no existía; como intentar mirar detrás de la propia cabeza. Los cien eran iguales. Un elfo viejo de la colina, con sombrero, que se enteró de lo que habían hecho, les puso nombre: *drow*. *El que mira hacia abajo*. Ithil lo supo y le pareció justo.
 
 Y no se fue.
 
@@ -98,7 +98,7 @@ Eso era lo que no se perdonaba. Que había tenido doscientos años para irse. Qu
 
 Porque era lo único que tenía. Y porque, si se iba, nada habría valido la pena.
 
-* * *
+---
 
 —Ha salido mal —dijo el maestro.
 
@@ -116,7 +116,7 @@ Porque era lo único que tenía. Y porque, si se iba, nada habría valido la pen
 
 Ithil no dijo nada.
 
-Era la primera vez en doscientos años que el maestro decía el que duerme.
+Era la primera vez en doscientos años que el maestro decía *el que duerme*.
 
 Lo había sabido siempre. Que había algo debajo. El latido. Lo que los sabios de Tawarsinan escuchaban tumbados en la tierra en las noches de luna. La otra mitad. Pero había pensado que el maestro era eso. Que el maestro era lo de debajo, hablando.
 
@@ -130,7 +130,7 @@ El maestro lo miró. Mucho rato.
 
 —No —dijo—. Yo no duermo nunca.
 
-* * *
+---
 
 —¿Entonces qué eres?
 
@@ -150,11 +150,11 @@ El maestro sonrió.
 
 —A comer. —El maestro quitó el dedo—. Como todos.
 
-* * *
+---
 
 Ithil no se movió.
 
-Se acordó de Elen. De la flecha. De la puerta del árbol de su casa. De que tenía once años, de los élficos, y le pedía la canción de la lluvia mansa para dormirse, y él se la tocaba, y ella decía otra vez, y él se la tocaba otra vez.
+Se acordó de Elen. De la flecha. De la puerta del árbol de su casa. De que tenía once años, de los élficos, y le pedía la canción de la lluvia mansa para dormirse, y él se la tocaba, y ella decía *otra vez*, y él se la tocaba otra vez.
 
 Se acordó de que nunca le había tocado la tercera vuelta mal. Nunca. Era su hermana la que se equivocaba.
 
@@ -180,11 +180,11 @@ El maestro lo miró. Sin entender la pregunta. De verdad sin entenderla.
 
 —¿Qué pasa con ellos? —dijo.
 
-* * *
+---
 
 Cuando se fue, volvió el ruido.
 
-Los martillos. Los niños. El latido de debajo. Y, al noreste, arriba, muy lejos, un arpa. Tocando la canción de la lluvia mansa. Mal.
+Los martillos. Los niños. El latido de debajo. Y, al suroeste, arriba, muy lejos, un arpa. Tocando la canción de la lluvia mansa. Mal.
 
 Ithil se sentó delante de la suya. La sin cuerdas.
 
@@ -196,7 +196,7 @@ Y en la tercera, a propósito, por primera vez en su vida, se equivocó.
 
 Igual que su hermana.
 
-Al noreste, en la colina, el arpa que tosía se paró. En seco. A media canción.
+Al suroeste, en la colina, el arpa que tosía se paró. En seco. A media canción.
 
 Hubo un silencio largo.
 

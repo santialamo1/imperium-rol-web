@@ -1,4 +1,4 @@
-## Capítulo 20 · Wenna
+# Capítulo 20 · Wenna
 
 *El Mercado del valle negro. Otoño del año 1100 de la Nueva Era (493 D.bA).*
 
@@ -12,7 +12,7 @@ El orco la miró de arriba abajo. Una niña de once años, flaca, morena, con lo
 
 Le dejó pasar.
 
-* * *
+---
 
 Wenna estaba pesando nabos.
 
@@ -32,7 +32,7 @@ Y entonces Wenna vio a la niña. Parada en medio del Mercado, al lado del Guardi
 
 Y la oyó.
 
-* * *
+---
 
 No oyó lo que decía la niña. La niña no decía nada. Oyó a la niña. Como se oye a una Custodia. Como la había oído Ilsa a ella, hacía mil años, cuando bajó del paso con cuarenta y tres años y los ojos muy grandes y una manera de mirar a la gente como si la midiera.
 
@@ -72,7 +72,7 @@ Cuarenta generaciones, a lo mejor. Cuarenta y tantas.
 
 —Tu madre tiene razón. —Wenna le quitó los zapatos de la mano—. Póntelos. Aquí hay piedras.
 
-* * *
+---
 
 La niña se llamaba Neva. Oía desde los cuatro años. Oía el mar de Pisor, que decía cosas que su madre no oía. Oía los pozos. Oía a los ahogados, a veces, cuando alguien se olvidaba de echar sal. Y desde la primavera oía una canción muy lejos, hacia el norte, que no se acababa nunca.
 
@@ -94,7 +94,7 @@ Wenna miró el agujero. Negro. Sin fondo. Del que no salía nada desde hacía mi
 
 —Para que no se despierte —dijo.
 
-* * *
+---
 
 El recaudador llegó el jueves.
 
@@ -114,7 +114,7 @@ Luego se acordó de quién era. Se le quitó.
 
 Wenna leyó la carta. Despacio.
 
-La firmaban once consejeros. Ocho a favor y tres en contra; los tres en contra habían firmado igual, debajo, con una nota: en desacuerdo. La había redactado un consejero que se llamaba Marren. Wenna no sabía quién era. Le sonaba el nombre.
+La firmaban once consejeros. Ocho a favor y tres en contra; los tres en contra habían firmado igual, debajo, con una nota: *en desacuerdo*. La había redactado un consejero que se llamaba Marren. Wenna no sabía quién era. Le sonaba el nombre.
 
 —El Mercado no ha pagado nunca la décima —dijo Wenna.
 
@@ -126,7 +126,7 @@ La firmaban once consejeros. Ocho a favor y tres en contra; los tres en contra h
 
 —Ya lo sé —dijo Wenna—. Nunca lo es.
 
-* * *
+---
 
 Lo que pasó después lo contó la propia Wenna, años más tarde, a Mirela Vell, que lo apuntó en el margen de su crónica y luego lo tachó, y luego lo volvió a escribir debajo, más pequeño.
 
@@ -138,7 +138,7 @@ Y el trampero no se calló.
 
 Y el capitán Orren llevó la mano a la espada.
 
-* * *
+---
 
 No la sacó.
 
@@ -168,7 +168,7 @@ Wenna no contestó.
 
 También lo había oído.
 
-* * *
+---
 
 Esa noche, en la casa de al lado de la balanza, Wenna le dio de cenar a Hesper Dunn.
 
@@ -200,7 +200,7 @@ Hesper levantó la cabeza.
 
 —Entonces que vengan a cobrarla con espadas. —Wenna le sirvió más sopa—. Ya has visto lo que pasa.
 
-* * *
+---
 
 Al día siguiente, Wenna mandó llamar a un cantero.
 
@@ -232,7 +232,7 @@ Neva se quedó callada.
 
 —Para entonces —dijo Wenna—, que esté escrito.
 
-* * *
+---
 
 La losa se puso a la entrada del paso el último día del otoño del 1100.
 
@@ -248,7 +248,7 @@ Y debajo de todo, sin firma, en la lengua de la colina, tres palabras que el ena
 
 QUE CONSTE. ILSA.
 
-* * *
+---
 
 El Consejo aceptó la décima en sal en la primavera del 1101. Por seis votos a cinco. El consejero Marren votó en contra. Los Vell apuntaron que se le vio salir de la sala muy contento, como si hubiera ganado.
 
@@ -262,7 +262,7 @@ Y aprendió a sentarse por las noches, al lado de Wenna, delante del círculo de
 
 Y a escuchar, debajo de la nana, lo otro.
 
-* * *
+---
 
 Una de esas noches, ya en invierno, con nieve en el valle y la fuente sin helar, Neva le preguntó a Wenna qué era.
 

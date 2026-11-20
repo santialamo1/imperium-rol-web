@@ -1,4 +1,4 @@
-## Capítulo 90 · Tobías
+# Capítulo 90 · Tobías
 
 *Banderbill. Año 4 de la Nueva Era.*
 
@@ -12,11 +12,11 @@ El primer capítulo de las Crónicas de Banderbill se escribió once veces, y To
 
 —Pues deberían. —El panadero dejó la hogaza en la mesa, humeante—. Si no hay pan, no hay nadie para jurar sobre ninguna piedra. Come.
 
-Tobías comió. El pan estaba hecho con la masa madre que maese Ugo había conservado durante cuarenta y un días en el Mar de la Penuria, alimentándola con un puñado de harina cada mañana como quien alimenta a un pájaro herido, y que ahora, cuatro años después, era la madre de todo el pan de Banderbill. Sabía un poco agrio. Sabía a Concordia.
+Tobías comió. El pan estaba hecho con la masa madre que maese Ugo había conservado durante cuarenta y un días en el Mar de la Eterna Penuria, alimentándola con un puñado de harina cada mañana como quien alimenta a un pájaro herido, y que ahora, cuatro años después, era la madre de todo el pan de Banderbill. Sabía un poco agrio. Sabía a Concordia.
 
 Eso tampoco lo podía escribir. Nadie lee crónicas para saber a qué sabía el pan.
 
-* * *
+---
 
 Tenía cuarenta y cuatro años. En Concordia había sido copista segundo de la planta doce de la Gran Biblioteca, un hombre gris, de manos pulcras, que pasaba los días copiando tratados de otros y las noches leyendo los que nadie copiaba. No había escrito nada suyo en su vida. Ni una carta de amor; no había tenido a quién mandarla. Ni un poema. Ni un diario.
 
@@ -24,9 +24,9 @@ Ahora tenía en una caja de pino, en la casa que le habían construido junto a l
 
 Y tenía quinientas setenta y tres personas —seiscientas veinte ahora, con los niños nacidos en la colina y los cuarenta y uno que había traído el tío Gorm de las islas Ulvar el año anterior, aunque doce viejos habían muerto— que recordaban cosas. Cada una, cosas distintas. Muchas, contradictorias.
 
-Y tenía un emperador que le había dicho, en una roca a la salida de un túnel, Alguien tendrá que escribir esto, y que desde entonces le preguntaba cada semana, con una sonrisa, cuánto le faltaba.
+Y tenía un emperador que le había dicho, en una roca a la salida de un túnel, *Alguien tendrá que escribir esto*, y que desde entonces le preguntaba cada semana, con una sonrisa, cuánto le faltaba.
 
-* * *
+---
 
 El problema llegó en la reunión de otoño.
 
@@ -40,7 +40,7 @@ Se reunían en la casa del panadero, alrededor del horno, porque era la única c
 
 —No es un elogio. —Orla lo miró con unos ojos pálidos, cansados—. Están demasiado bien escritos. Se entiende todo. Se entiende quién es él.
 
-No hacía falta decir quién era él. En Banderbill nunca hacía falta.
+No hacía falta decir quién era *él*. En Banderbill nunca hacía falta.
 
 —En el capítulo de la quema —siguió Orla— cuentas cómo murió su madre. En el de la tienda, cómo le enseñaban los nombres. En el de la jaula, cómo encontró a su hermana tres días tarde. —Pasó una página—. Cuando el lector llega al Vado de las Cenizas y ve a ese hombre arrodillado junto al cadáver de Henricus Bhargaras, cantando, ya no sabe si odiarlo o llorar por él.
 
@@ -72,13 +72,13 @@ No terminó.
 
 —Si muero yo, ¿qué? —dijo Bander, con suavidad.
 
-Mara lo miró. Tenía veintiocho años, la cara curtida por el sol y la sal, y unos ojos negros que en cuatro años no habían aprendido a esconder nada.
+Mara lo miró. Tenía veintiocho años, la cara curtida por el sol y la sal, y unos ojos verdes que en cuatro años no habían aprendido a esconder nada.
 
 —No lo sé —dijo—. Nadie lo sabe. Ese es el problema. Puede que si mueres él se debilite. Puede que se libere. Puede que la jarra pase a otro. —Se le quebró un poco la voz —. Y hay gente en esta colina que lo ha perdido todo por su culpa, Bander. Gente que puede leer eso y pensar que matándote a ti lo matan a él. O gente que lo oye a él por las noches, como lo oye Livia, y que puede pensar otra cosa.
 
 Bander se quedó callado mucho rato. Miró el fuego del horno.
 
-* * *
+---
 
 —Escríbelo todo —dijo al fin.
 
@@ -100,9 +100,15 @@ Bander se quedó callado mucho rato. Miró el fuego del horno.
 
 Maese Ugo se rió. Luego Bander. Luego, a regañadientes, la Custodia Orla, que se tapó la boca con la mano como si le diera vergüenza.
 
-Mara no se rió. Se quedó mirando a su marido con una expresión que Tobías no supo descifrar entonces, y que años después, cuando escribió aquel capítulo, describió como la cara de una mujer que acaba de entender que va a pasarse la vida vigilando la espalda de un hombre que se niega a vigilársela él mismo.
+Mara no se rió. Se quedó mirando a su marido con una expresión que Tobías no supo descifrar entonces, y que años después, cuando escribió aquel capítulo, describió como *la cara de una mujer que acaba de entender que va a pasarse la vida vigilando la* *espalda de un hombre que se niega a vigilársela él mismo*.
 
-* * *
+Cuando se fueron todos, Bander lo retuvo en la puerta, con la mano en el hombro.
+
+—Todo, para nosotros —le dijo en voz baja—. Para la colina. Pero que no salga de la colina. Ni el nombre de la tierra, ni el camino, ni el suyo. A los que vengan de fuera, si preguntan, que quisimos ser dioses y nos echaron. Una vergüenza no la busca nadie. Un camino, sí.
+
+Tobías tardó veintidós años en entender la diferencia.
+
+---
 
 Esa noche, Tobías no durmió.
 

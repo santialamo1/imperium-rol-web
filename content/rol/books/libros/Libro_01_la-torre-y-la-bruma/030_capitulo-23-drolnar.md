@@ -1,4 +1,4 @@
-## Capítulo 23 · Drolnar
+# Capítulo 23 · Drolnar
 
 *Concordia, sala de audiencias del palacio. Año 93, otoño.*
 
@@ -34,7 +34,7 @@ Drolnar se quedó muy quieto.
 
 —Traedla.
 
-* * *
+---
 
 La trajeron al cabo de una hora. Era una niña flaca, rubia, Zelto como la mujer que había quemado a su madre, con un vestido chamuscado y las manos vendadas con trapos sucios, y los ojos tan abiertos que parecían ocuparle toda la cara. No lloraba. Se quedó de pie en el centro de la sala, entre dos guardias, mirando el suelo.
 
@@ -68,7 +68,7 @@ Drolnar asintió despacio. Le volvió a vendar las manos. Luego se levantó, con
 
 La sala se quedó en silencio.
 
-* * *
+---
 
 La ley de los pueblos jurados era clara. Quien quemaba una casa con gente dentro, moría. En la horca, si era plebeyo. Por la espada, si era noble. Hector lo había decretado así, y Genieveve lo había mantenido, y Drolnar no tenía ninguna razón para cambiarlo.
 
@@ -98,7 +98,7 @@ Hedda pensó.
 
 —Dijo... dijo que lo que se hizo en la plaza fue la voluntad de los dioses. Que si el emperador no lo había detenido, era porque los dioses lo querían. —Hedda levantó la cabeza, desafiante otra vez—. Vos no lo detuvisteis, majestad. Todo el mundo lo sabe. Os quedasteis en el balcón. Mirando. Y luego entrasteis.
 
-Drolnar no contestó. Pensó en Merin. En lo que le habría dicho Merin. Eres feo de la manera buena, Drolnar. Pero te callas demasiado.
+Drolnar no contestó. Pensó en Merin. En lo que le habría dicho Merin. *Eres feo de* *la manera buena, Drolnar. Pero te callas demasiado.*
 
 —Es verdad —dijo—. Me quedé en el balcón. Y luego entré.
 
@@ -110,9 +110,9 @@ Hedda lo miraba con la boca abierta.
 
 —Así que no os voy a dar las gracias —dijo Drolnar—. Pero tampoco os voy a colgar sola.
 
-* * *
+---
 
-La sentencia de aquella tarde quedó escrita en las actas de la sala de audiencias, y luego en las crónicas, y luego en los libros de leyes de los Custodios, que siglos después todavía la citaban. Se la conoce como la Ley de los Doce, aunque Drolnar no la llamó nunca así. La llamó solamente la sentencia de Hedda.
+La sentencia de aquella tarde quedó escrita en las actas de la sala de audiencias, y luego en las crónicas, y luego en los libros de leyes de los Custodios, que siglos después todavía la citaban. Se la conoce como la Ley de los Doce, aunque Drolnar no la llamó nunca así. La llamó solamente *la sentencia de Hedda*.
 
 Hedda, Zelto, del barrio de la muralla, fue condenada a muerte por quemar una casa con una mujer dentro. La sentencia se conmutó por veinte años de trabajos en las minas de sal de Gijor, «porque la acusada aprendió su crimen de quien debía haberlo impedido, y quien debía haberlo impedido no ha pagado por ello».
 
@@ -124,7 +124,7 @@ El Consejo protestó. Los sacerdotes Ibaro protestaron. Medio barrio de la mural
 
 Drolnar no cambió una coma.
 
-* * *
+---
 
 La niña se llamaba Gerda. Lo dijo al cuarto día, en las cocinas, cuando la cocinera mayor le preguntó por tercera vez y le dio un bollo de miel para animarla.
 
@@ -136,11 +136,11 @@ En que había contado once.
 
 No se lo dijo a nadie. Faltaban todavía muchos años para que se atreviera a pensarlo en voz alta.
 
-* * *
+---
 
 Gerda vivió en el palacio de Concordia hasta los noventa y un años. Sobrevivió a Drolnar, a Henricus y a Helen Dorian, y vio nacer la Academia de los Custodios, y enseñó a los primeros novicios las canciones que se sabía, que eran muchas. Cuando murió, en el ciento setenta y cuatro, la enterraron en el cementerio de la Academia con todos los honores de una Custodia mayor, aunque no lo había sido nunca.
 
-Y durante siglos, en las noches de invierno, los muertos de Concordia que se quedaban atascados siguieron llamándola. Gerda. Gerda. Los novicios de la Academia los oían y no sabían quién era. Se convirtió en una broma, y luego en una leyenda: la eterna Gerda, a la que llaman los muertos.
+Y durante siglos, en las noches de invierno, los muertos de Concordia que se quedaban atascados siguieron llamándola. *Gerda. Gerda.* Los novicios de la Academia los oían y no sabían quién era. Se convirtió en una broma, y luego en una leyenda: la eterna Gerda, a la que llaman los muertos.
 
 Nadie se acordaba ya de la niña de las manos quemadas. Ni de la mujer que quemó la casa. Ni de la sentencia.
 

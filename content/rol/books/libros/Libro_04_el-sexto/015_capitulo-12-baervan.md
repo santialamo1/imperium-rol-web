@@ -1,6 +1,6 @@
-## Capítulo 12 · Baervan
+# Capítulo 12 · Baervan
 
-*El cuarto de los Emperadores, palacio de Banderbill. Finales del otoño del año 1066 de la Nueva Era (459 D.bA).*
+*El cuarto de los Emperadores, palacio de Banderbill. Finales del otoño del año* *1066 de la Nueva Era (459 D.bA).*
 
 A Baervan lo llamaron al palacio un martes, a la hora del pan, y pensó que lo iban a echar.
 
@@ -8,13 +8,13 @@ Tenía razones. Tenía treinta y un años, que en un gnomo es la edad en que se 
 
 El comandante Eluret lo había mirado desde la otra punta de la mesa. Sin decir nada.
 
-Así que cuando un ujier del palacio fue a buscarlo al cuartel, un martes a las siete de la mañana, con una nota que decía el Emperador quiere verle, Baervan pensó que se había pasado. Que esta vez sí. Que lo mandaban a Tiama a contar yetis.
+Así que cuando un ujier del palacio fue a buscarlo al cuartel, un martes a las siete de la mañana, con una nota que decía *el Emperador quiere verle*, Baervan pensó que se había pasado. Que esta vez sí. Que lo mandaban a Tiama a contar yetis.
 
 Se puso el uniforme de gala. Se peinó la barba, que en un gnomo de treinta y un años es todavía corta y castaña y se riza sola. Se puso el sombrero.
 
 Y fue riéndose. Por si acaso. Porque si lo iban a echar, que lo echaran riéndose.
 
-* * *
+---
 
 El Emperador estaba en la cama.
 
@@ -52,7 +52,7 @@ Luego miró a la pelirroja.
 
 La pelirroja no contestó.
 
-* * *
+---
 
 —Siéntate —dijo el Emperador.
 
@@ -86,7 +86,7 @@ El Emperador abrió los ojos. Miró a la pelirroja.
 
 —La he oído tres veces en mi vida —dijo—. La primera me la dije yo, a mí mismo, la noche del 1031, en la muralla, viendo irse los barcos. La segunda me la dijo Dalbur por carta, en el 1040. La tercera, ahora. —Se volvió hacia Baervan—. Eres el primero que la dice sin que se la haya enseñado nadie.
 
-* * *
+---
 
 Hubo un silencio.
 
@@ -104,7 +104,7 @@ La pelirroja se levantó. Fue hasta la ventana. Se quedó de espaldas, mirando a
 
 —No lo hagas —dijo. Sin volverse.
 
-* * *
+---
 
 Baervan no entendió nada. Miró a Eluret. Eluret miraba al suelo.
 
@@ -146,7 +146,7 @@ Se quedó de espaldas.
 
 No dijo nada más. Pero Baervan vio, desde la silla, con los pies colgando, que le temblaban los hombros.
 
-* * *
+---
 
 —Teniente —dijo el Emperador—. ¿Sabes lo que es la ofrenda?
 
@@ -168,7 +168,7 @@ No mucho. Un poco. Una risa corta, nerviosa, de gnomo, que le salió por la nari
 
 —No. —El Emperador también sonreía—. Ríete. Por eso te la doy.
 
-—Majestad, yo... —Baervan se rascó la barba—. Yo soy un gnomo. Los gnomos vivimos ciento cincuenta años, ciento sesenta. Ya viviré bastante. No necesito...
+—Majestad, yo... —Baervan se rascó la barba—. Yo soy un gnomo. Los gnomos vivimos trescientos años, trescientos y pico. Ya viviré bastante. No necesito...
 
 —No es para ti.
 
@@ -186,7 +186,7 @@ Eluret no se movió. Pero se le movió algo en la mandíbula.
 
 —Para los que no tienen escudo. —El Emperador señaló la ventana. Hacia el sur. Hacia donde estaban Nix, Ullathorpe, el desierto, las caravanas perdidas—. Para que haya alguien, durante mucho tiempo, que se acuerde de las ciudades que se pueden tocar.
 
-* * *
+---
 
 Lo hicieron con el cuchillo de la fruta.
 
@@ -210,13 +210,13 @@ Pensó en los de las caravanas. En los de la costa de Annkör. En que le iban a 
 
 —Eso espero.
 
-El pulgar en la lengua. Hierro. Sal. Y debajo algo más, que Baervan no supo nombrar y que le recordó, sin razón, a la primera vez que oyó de verdad el tum de la muralla, de niño, una noche de tormenta, desde el sótano de su casa, con su madre tapándole los oídos y él apartándole las manos para oír mejor.
+El pulgar en la lengua. Hierro. Sal. Y debajo algo más, que Baervan no supo nombrar y que le recordó, sin razón, a la primera vez que oyó de verdad el *tum* de la muralla, de niño, una noche de tormenta, desde el sótano de su casa, con su madre tapándole los oídos y él apartándole las manos para oír mejor.
 
 Algo se paró en el pecho. Un momento. Como un péndulo tocado con un dedo.
 
 Y siguió.
 
-* * *
+---
 
 Lanther no se volvió hasta que Baervan se fue.
 
@@ -236,7 +236,7 @@ Lanther se rio. Con los ojos mojados.
 
 —No. —Astragal cerró los ojos—. Pero te he dicho que no igual.
 
-* * *
+---
 
 Eluret se quedó en la ventana hasta que el Emperador se durmió.
 
@@ -270,7 +270,7 @@ Eluret la miró.
 
 Eluret se quedó solo con el Emperador dormido y el escudo.
 
-Se sentó en la silla. Al lado del escudo. Y le puso la mano encima. Estaba tibio. Latía. Despacio. Tum. Y otro.
+Se sentó en la silla. Al lado del escudo. Y le puso la mano encima. Estaba tibio. Latía. Despacio. *Tum*. Y otro.
 
 —Gal —dijo. Muy bajo. Para que no lo oyera nadie.
 

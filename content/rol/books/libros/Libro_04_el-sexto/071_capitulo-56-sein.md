@@ -1,18 +1,18 @@
-## Capítulo 56 · Sein
+# Capítulo 56 · Sein
 
-*Banderbill, la biblioteca y el sótano de la casa vieja. Primavera del año 1417 de la Nueva Era (810 D.bA).*
+*Banderbill, la biblioteca y el sótano de la casa vieja. Primavera del año 1417 de la* *Nueva Era (810 D.bA).*
 
 La noticia llegó a la biblioteca por la escalera, como llegan todas.
 
-Sein estaba en el archivo de abajo. Ya no era bibliotecario. Lo había dejado de ser en el 1412, cuando el Consejo de los diecinueve, reunido en la sala de los mapas porque no tenía otra, votó que la biblioteca necesitaba un bibliotecario mayor que se viera, y nombró a Zanaier. Que era elfo, de los de Nix, viejo, con la barba blanca y las manos manchadas de tinta de seiscientos años, y que era amigo del cronista Érandiul desde hacía cuatrocientos años. Un buen bibliotecario. Lloraba cuando un libro se mojaba.
+Sein estaba en el archivo de abajo. Ya no era bibliotecario. Lo había dejado de ser en el 1412, cuando el Consejo de los diecinueve, reunido en la sala de los mapas porque no tenía otra, votó que la biblioteca necesitaba *un bibliotecario mayor que se viera*, y nombró a Zanaier. Que era elfo, de los de Nix, viejo, con la barba blanca y las manos manchadas de tinta de seiscientos años, y que era amigo del cronista Érandiul desde hacía cuatrocientos años. Un buen bibliotecario. Lloraba cuando un libro se mojaba.
 
-A Sein lo dejaron en el archivo de abajo. El ayudante, decía Zanaier, con cariño. El chico de las gafas. Zanaier no sabía cuántos años tenía Sein. Nadie se lo había dicho. Creía que era un muchacho listo de la colina que se quedaba hasta tarde.
+A Sein lo dejaron en el archivo de abajo. *El ayudante*, decía Zanaier, con cariño. *El* *chico de las gafas*. Zanaier no sabía cuántos años tenía Sein. Nadie se lo había dicho. Creía que era un muchacho listo de la colina que se quedaba hasta tarde.
 
 A Sein le parecía bien.
 
 Desde abajo se oía todo.
 
-* * *
+---
 
 Bajó corriendo un escribano joven. Con la cara blanca.
 
@@ -26,11 +26,11 @@ Sein levantó la vista del libro.
 
 Sein cerró el libro.
 
-* * *
+---
 
 No lo apuntó.
 
-Fue lo primero que pensó. Antes que nada. Antes que en los cuatro, antes que en la doncella, antes que en el muchacho. Lo pensó con la parte de él que llevaba mil cuatrocientos años pensando eso primero: ¿se apunta?
+Fue lo primero que pensó. Antes que nada. Antes que en los cuatro, antes que en la doncella, antes que en el muchacho. Lo pensó con la parte de él que llevaba mil cuatrocientos años pensando eso primero: *¿se apunta?*
 
 Y la respuesta, desde el 1212, era que no.
 
@@ -42,7 +42,7 @@ No por los cuatro.
 
 Por el debe.
 
-* * *
+---
 
 Los conocía a los cuatro. No mucho. Lo que se conoce a la gente desde un archivo.
 
@@ -54,7 +54,7 @@ En el debe.
 
 ¿A quién?
 
-* * *
+---
 
 La reunión fue esa noche.
 
@@ -70,7 +70,7 @@ Sein lo vio al entrar. Por la puerta de la tienda.
 
 No le dijo nada. Bajó.
 
-* * *
+---
 
 —No lo ordenamos —dijo Lanther.
 
@@ -98,7 +98,7 @@ Gorda burbujeó.
 
 Nadie se rio.
 
-* * *
+---
 
 —¿Y ahora qué? —dijo Dalbur.
 
@@ -118,7 +118,7 @@ Todos lo miraron.
 
 —Podemos estar —dijo Lanther.
 
-* * *
+---
 
 Sein la miró.
 
@@ -134,7 +134,7 @@ Lanther seguía de pie. En medio del sótano. Con los brazos cruzados. Con la ca
 
 —Para que conste —dijo Lanther.
 
-* * *
+---
 
 Sein subió primero.
 
@@ -154,7 +154,7 @@ Sein lo miró. Desde abajo. Le llegaba al hombro sentado.
 
 Sein tardó en contestar.
 
-Pensó en lo que había que decir. En lo que se le dice a alguien que acaba de matar a cuatro. Pensó en el libro de debajo, el ducentésimo vigésimo, cerrado, sin apuntar. En la tercera columna. En la página nueva que había empezado en el 1410, Lo que se debe a los que no saben, que de momento tenía un nombre.
+Pensó en lo que había que decir. En lo que se le dice a alguien que acaba de matar a cuatro. Pensó en el libro de debajo, el ducentésimo vigésimo, cerrado, sin apuntar. En la tercera columna. En la página nueva que había empezado en el 1410, *Lo que se debe a los* *que no saben*, que de momento tenía un nombre.
 
 El suyo.
 
@@ -162,13 +162,13 @@ El suyo.
 
 —¿Qué página?
 
-—Una que no escribo. —Sein se puso las gafas—. Lo que se debe a los que no saben. Te puse en el 1410. Antes de que bajaras la escalera. Porque sabía que estabas en el respiradero.
+—Una que no escribo. —Sein se puso las gafas—. *Lo que se debe a los que no* *saben.* Te puse en el 1410. Antes de que bajaras la escalera. Porque sabía que estabas en el respiradero.
 
 El grande se quedó quieto.
 
 —¿Lo sabías?
 
-—Desde el 1380. Una noche, Teo dijo un gato. Y yo sé que en el callejón de los Cubos no hay gatos desde el 1201, porque se los comieron los perros del Tintorero. —Sein se encogió de hombros—. No dije nada. Pensé que un niño que escucha no hace daño. Pensé que un niño que escucha es lo único que no escucha él. —Se quitó las gafas—. Y te puse en la página. Porque te debíamos algo. Te habíamos dejado saber sin decirte. Eso se debe.
+—Desde el 1380. Una noche, Teo dijo *un gato*. Y yo sé que en el callejón de los Cubos no hay gatos desde el 1201, porque se los comieron los perros del Tintorero. —Sein se encogió de hombros—. No dije nada. Pensé que un niño que escucha no hace daño. Pensé que un niño que escucha es lo único que no escucha él. —Se quitó las gafas—. Y te puse en la página. Porque te debíamos algo. Te habíamos dejado saber sin decirte. Eso se debe.
 
 —¿Y ahora?
 
@@ -180,7 +180,7 @@ El grande lo miró mucho rato.
 
 —No. —Sein se volvió hacia la puerta de la tienda—. Se los debo a ellos. A los cuatro. Porque yo lo sabía, y no lo dije, y te dejé escuchar. —Abrió la puerta—. Esa es la tercera columna, Larien. La de lo que se debe a los que no saben. Ellos no sabían. Y yo sí.
 
-* * *
+---
 
 Salió a la calle del Horno.
 
@@ -200,7 +200,7 @@ Se quedó con la pluma en el aire, encima de la página en blanco, mucho rato. C
 
 Luego la dejó en el tintero.
 
-* * *
+---
 
 Zanaier lo encontró así al amanecer. Dormido en la silla. Con el libro abierto y la página en blanco y la pluma en el tintero.
 

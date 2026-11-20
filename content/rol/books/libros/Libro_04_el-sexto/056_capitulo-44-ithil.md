@@ -1,4 +1,4 @@
-## Capítulo 44 · Ithil
+# Capítulo 44 · Ithil
 
 *Orac, la sala de los escribas. Invierno del año 1360 de la Nueva Era (753 D.bA).*
 
@@ -6,13 +6,57 @@ Los escribas de Orac no escribían con miedo. Eso era lo primero que Ithil les e
 
 Eran cuarenta. Orcos, la mayoría, de los listos, de los que en los fosos aprendían a contar antes que a morder. Algunos humanos de los barcos negros. Dos goblins. Un enano viejo de las minas de Ghar que había llegado en el 1200 y no se había ido. Se sentaban en mesas largas, de piedra negra, en una sala sin ventanas debajo de la ladera, y copiaban. Inventarios. Listas de raciones. Partes de los barcos. Nombres de los que entraban en los fosos y de los que salían. Mapas.
 
-Copiaban con la mano quieta. Sin pensar. Sin sentir nada. Ithil se paseaba entre las mesas, de noche, con las manos a la espalda, y si veía a uno al que le temblaba la pluma, le ponía la mano en el hombro y le decía: Otra vez. Sin nada.
+Copiaban con la mano quieta. Sin pensar. Sin sentir nada. Ithil se paseaba entre las mesas, de noche, con las manos a la espalda, y si veía a uno al que le temblaba la pluma, le ponía la mano en el hombro y le decía: *Otra vez. Sin nada.*
 
 Porque lo que se escribe con miedo, se oye.
 
 Y en Orac, lo que se oía, lo oía él.
 
-* * *
+---
+
+Lo que más se copiaba en invierno eran los partes de Khrow.
+
+El Dungeon Khrow no estaba en Orac. Estaba en una isla suya, al sursuroeste, a dos días de barco, entre las islas de los gnomos y las de los piratas, un poco al noroeste de la isla grande de la Cueva Pirata: una isla sin árboles, de acantilados rojos, donde la piedra se pone del color de la carne cruda cuando llueve. Los gnomos de los barcos, que tienen una palabra para cada agujero con dueño, le habían puesto *dungeon*; los orcos le decían *la Boca* *Roja*, y no bajaban. Era más viejo que Orac. Más viejo que el Infierno de debajo de Orac. Lo habían cavado otros, antes, unos que no habían dejado nombre, y no tenía nada que ver con el Señor, ni el Señor quería tener nada que ver con él. Lo dejaba estar. Como se deja estar un pozo envenenado en el patio del vecino: tapado, y con alguien al lado.
+
+El alguien era una compañía de castigo. Cada invierno salía de los muelles de Orac un barco con treinta, y bajaban. Cada primavera subían los que subían, y los escribas copiaban el parte.
+
+Ithil los había leído todos. Mil años de partes. Decían siempre lo mismo, con letras distintas.
+
+*En el primer nivel, esqueletos. Esqueletos guerreros, con las armas todavía en la* *mano, que se levantan si se les pisa la sombra. Esqueletos guardianes en las puertas, de* *dos en dos, que no se mueven del sitio aunque los rompas. Un esqueleto poseído, uno solo,* *que habla con la voz de un orco de la compañía que murió el invierno pasado.*
+
+*En el segundo nivel, ghouls. Comen lo que se cae. Si te caes, te comen.*
+
+*En el tercero, los espectros de los antiguos. Los que cavaron. Altos, grises, sin* *cara, con coronas de un metal que no es ninguno. Pasan. No te miran. Si los miras, te* *quedas un año más viejo.*
+
+*En el cuarto, un guerrero de obsidiana en la puerta, de piedra negra de volcán, que* *pelea como un hombre y no sangra. Detrás de la puerta, el castigador: una cosa con* *cadenas que arrastra a los que se duermen. Nadie ha pasado del castigador.*
+
+*En el quinto, una vez, en el 1190, la única compañía que bajó tanto vio un liche: un* *rey de los antiguos que no se había querido morir, en los huesos, con la corona puesta y* *los ojos encendidos, sentado en un trono de piedra delante de una grieta de la que subían* *demonios abisales, negros, con alas de murciélago, que no llegaban a salir. De esa* *compañía subieron dos.*
+
+*Arriba de todo, en el techo de la sala grande, colgando, murciélagos mutantes, del* *tamaño de un perro, ciegos, sin pelo.*
+
+Y al final de cada parte, siempre, la misma línea, con la letra de cada uno. Ithil la tenía vista tantas veces que la reconocía sin leerla.
+
+*Se ha oído a la banshee.*
+
+---
+
+La banshee de Khrow gritaba de noche, desde abajo, desde donde no había bajado nadie. Un grito de mujer, largo, que subía por los pasillos y salía por la boca del acantilado y, con viento del sur, cruzaba el mar y se oía hasta en los muelles de Orac. Los orcos decían que cuando gritaba se moría alguien en Orac esa misma semana. Ithil había hecho la cuenta, en el 1212, con los registros de los fosos y los partes: se moría alguien en Orac todas las semanas. Grite o no grite.
+
+Pero no lo había dicho. No servía de nada quitarle a un orco el miedo a una banshee. Le quitabas uno y se buscaba otro peor.
+
+Y más abajo de la banshee, en la sala que los partes no describían porque los que la veían no subían, estaba el que le daba nombre al sitio.
+
+Los orcos viejos lo llamaban el Dragón de Sangre. Ithil lo había visto una vez. Una. En el 1250, desde un barco, desde el mar: había salido de los acantilados al atardecer, rojo oscuro, del color de la sangre que se seca, con las alas abiertas como dos velas rotas, y había dado una vuelta sobre su isla, despacio, y se había vuelto a meter. Detrás de él, tres crías de dragón rojo, pequeñas, del tamaño de un caballo, chillando como gaviotas. Esa semana no se había muerto nadie en Orac. Ithil también lo había apuntado.
+
+El Señor no bajaba a Khrow. Los drows de la guardia, los lanceros drow de la puerta y los arqueros drow de las almenas del oeste, tenían orden de no disparar nunca a nada que viniera volando del sursuroeste, aunque fuera rojo. Y en los túneles de las minas de Ghar, los mineros corruptos, los que se habían quedado demasiado tiempo cerca de la veta del Infierno y tenían la piel gris y los ojos como carbón, contaban que a veces, las noches de viento del sur, se oía a la banshee de Khrow hasta en el fondo de los pozos. Y que se volvían.
+
+Se decía también, en las cocinas, en voz baja, que Khrow había tenido un dueño. Un rey de los que cavaron, el último, que se quedó abajo con el dragón. Lo llamaban el Señor de las Sombras. Nunca delante del otro Señor.
+
+Ithil copiaba los partes con la mano quieta.
+
+Sin nada.
+
+---
 
 Esa noche el Señor bajó a la sala.
 
@@ -32,13 +76,13 @@ Ithil esperó.
 
 —Hay un octavo —dijo el Señor.
 
-* * *
+---
 
 No dijo de qué. No hacía falta.
 
 Ithil no movió la cara. Llevaba mil años sin moverla cuando no quería. Pero detrás de él, a dos pasos, Glokark cerró la mano. Ithil lo oyó. Las dos piedras, una contra otra, dentro del puño.
 
-—Lo sé desde el 1320 —dijo el Señor—. Desde que tú bajaste a las montañas rojas y el hombre de sal se despertó y me oyó a través de ti y se deshizo. —Se le movió la cara —. Murió pensando en una cosa. Pensando muy fuerte, como piensan los que se mueren. Pensando en una línea de un cuaderno que tú acababas de leer. Hay una más, que no he cantado yo, que guarda ella. —Sonrió—. Gracias, general. No sabía que hubiera una más.
+—Lo sé desde el 1320 —dijo el Señor—. Desde que tú bajaste a las montañas rojas y el hombre de sal se despertó y me oyó a través de ti y se deshizo. —Se le movió la cara —. Murió pensando en una cosa. Pensando muy fuerte, como piensan los que se mueren. Pensando en una línea de un cuaderno que tú acababas de leer. *Hay una más, que no he* *cantado yo, que guarda ella.* —Sonrió—. Gracias, general. No sabía que hubiera una más.
 
 Ithil no dijo nada.
 
@@ -64,7 +108,7 @@ No sabía dónde.
 
 Y si lo hubiera sabido, pensó, no lo habría escrito.
 
-* * *
+---
 
 —No lo sabes —dijo el Señor.
 
@@ -88,15 +132,15 @@ Ithil no contestó.
 
 Ithil lo miró. De frente.
 
-—Ya lo sé —dijo.
+—*Ya lo sé* —dijo.
 
-* * *
+---
 
 El Señor se quedó quieto.
 
 Luego se rio. Bajito. Con la voz amable.
 
-—Ya lo sé. Para ella. Para la pelirroja. Para que supiera que tú lo sabías. —Sacudió la cabeza—. Eso es un aviso, general. Eso es lo que hace uno cuando avisa a alguien de que viene otro.
+—*Ya lo sé.* Para ella. Para la pelirroja. Para que supiera que tú lo sabías. —Sacudió la cabeza—. Eso es un aviso, general. Eso es lo que hace uno cuando avisa a alguien de que viene otro.
 
 —Es lo que hace uno cuando lo sabe.
 
@@ -118,7 +162,7 @@ El Señor lo miró con una cara que Ithil no le conocía. No la amable. No la ca
 
 —Al gnomo. —El Señor se volvió hacia la puerta—. Llevas cien años subiendo a esa torre y ya hablas como él.
 
-* * *
+---
 
 Fue entonces cuando Ithil lo hizo.
 
@@ -130,7 +174,7 @@ El Señor se paró. De espaldas.
 
 —¿Qué quieres? —preguntó Ithil.
 
-* * *
+---
 
 La sala se quedó muda.
 
@@ -142,11 +186,11 @@ Las dos piedras cayeron al suelo. Una blanca y una negra. Rodaron. Se pararon a 
 
 El Señor no se movió.
 
-Ithil sabía la regla. La sabía desde el 880. El que pregunta, tiene que contestar. Si le preguntan. La había usado cuatro veces en mil años. Nunca con esa pregunta. Nadie, en Orac, en mil años, le había hecho esa pregunta al Señor. Porque era la suya. Era la que hacía él. Era la que le había hecho a Ithil en una plaza, hacía tanto, cuando Ithil era un drow joven con un arpa y un sobrino. La que le había hecho al gnomo cuarenta días seguidos. La que le hacía a todos, antes de darles lo que querían y quedarse con lo de debajo.
+Ithil sabía la regla. La sabía desde el 880. *El que pregunta, tiene que contestar. Si le* *preguntan.* La había usado cuatro veces en mil años. Nunca con esa pregunta. Nadie, en Orac, en mil años, le había hecho esa pregunta al Señor. Porque era la suya. Era la que hacía él. Era la que le había hecho a Ithil en una plaza, hacía tanto, cuando Ithil era un drow joven con un arpa y un sobrino. La que le había hecho al gnomo cuarenta días seguidos. La que le hacía a todos, antes de darles lo que querían y quedarse con lo de debajo.
 
 Nadie se la había hecho a él.
 
-* * *
+---
 
 El Señor se volvió.
 
@@ -164,7 +208,7 @@ Y contestó.
 
 Porque la regla era más vieja que él.
 
-* * *
+---
 
 —Quiero que se acabe —dijo.
 
@@ -182,7 +226,7 @@ La sala no respiraba.
 
 —Quiero que algo me llame —dijo el Señor—. Eso quiero.
 
-* * *
+---
 
 Ithil no dijo nada.
 
@@ -208,7 +252,7 @@ En un sobrino que ya no se acordaba de cómo era.
 
 —Oír la canción —dijo.
 
-* * *
+---
 
 El Señor cerró la mano sobre las piedras.
 
@@ -246,7 +290,7 @@ Se paró en la puerta.
 
 Se fue.
 
-* * *
+---
 
 Los escribas volvieron a copiar. Sin ruido. Con la mano quieta.
 
@@ -290,7 +334,7 @@ Baervan se quedó callado.
 
 —¿Y qué te ha contestado?
 
-Ithil siguió tocando. Re. Mi. Sol. La.
+Ithil siguió tocando. *Re. Mi. Sol. La.*
 
 —Que quiere que algo lo llame —dijo.
 

@@ -1,4 +1,4 @@
-## Capítulo 5 · Selis
+# Capítulo 5 · Selis
 
 *El palacio de Banderbill. Finales del invierno del año 999 de la Nueva Era (392 D.bA).*
 
@@ -14,11 +14,11 @@ Tenía ochenta y cuatro años. La cara de ochenta y cuatro. Las manos de ochenta
 
 Selis estaba sentada a su lado. Llevaba tres días sin salir del cuarto.
 
-* * *
+---
 
 Habían venido todos.
 
-Los médicos, que no sabían nada y lo decían en latín de gnomo. El sacerdote del templo sin dioses, un elfo viejo que cantó las formas suaves en voz baja durante una hora y se fue sin decir nada. Los del Consejo, de uno en uno, con caras de circunstancia y prisa por irse. Eluret, que se quedó en la puerta sin entrar, con el sombrero en la mano, y que solo dijo majestad y se le quebró la voz.
+Los médicos, que no sabían nada y lo decían en latín de gnomo. El sacerdote del templo sin dioses, un elfo viejo que cantó las formas suaves en voz baja durante una hora y se fue sin decir nada. Los del Consejo, de uno en uno, con caras de circunstancia y prisa por irse. Eluret, que se quedó en la puerta sin entrar, con el sombrero en la mano, y que solo dijo *majestad* y se le quebró la voz.
 
 Y los otros. Los del sótano.
 
@@ -26,7 +26,7 @@ Sein vino primero. Se sentó en una silla al lado de la ventana y no dijo nada e
 
 Luego Lanther. Se quedó de pie a los pies de la cama, con las manos en la espalda, mirando a Larath. Luego miró hacia arriba, al dosel azul, donde no había nada que mirar, y Selis le tuvo rabia por eso, una rabia sorda y vieja, de cuarenta años, porque esa mujer que no envejecía había visto morir a veinte Emperadores y miraba al techo como quien mira el tiempo.
 
-Luego Wenna, que bajó del valle negro en cuatro días cuando le llegó la noticia, y que entró oliendo a nieve y a castañas, y le cogió la mano a Larath con su mano enorme, y le dijo:
+Luego Wenna, que bajó del valle negro en cuatro días cuando le llegó la noticia, y que entró oliendo a azufre y a castañas, y le cogió la mano a Larath con su mano enorme, y le dijo:
 
 —Ya te queda poco, chico.
 
@@ -34,7 +34,7 @@ Y Larath, que llevaba dos días sin hablar, abrió los ojos y se rio. Una risa s
 
 —Gracias, Wenna. Nadie me lo decía.
 
-* * *
+---
 
 Astragal estaba en la otra silla. La de la izquierda de la cama.
 
@@ -42,21 +42,21 @@ Tenía cuarenta y cinco años. Llevaba barba desde los treinta, corta, oscura, c
 
 Selis lo miraba a él más que a su marido.
 
-Pensaba: este es el que queda.
+Pensaba: *este es el que queda*.
 
-Lo pensaba desde hacía cuarenta y cinco años. Desde el día que nació, en ese mismo cuarto, en esa misma cama, después de diecinueve horas, con la comadrona elfa diciéndole ya, ya, ya y Larath fuera, en el pasillo, sin que le dejaran entrar. Lo había pensado cuando la comadrona se lo puso en el pecho, mojado y furioso, y lo había pensado cuando los médicos le dijeron, un año después, que no habría otro. Que algo se había roto. Que lo sentían mucho.
+Lo pensaba desde hacía cuarenta y cinco años. Desde el día que nació, en ese mismo cuarto, en esa misma cama, después de diecinueve horas, con la comadrona elfa diciéndole *ya, ya, ya* y Larath fuera, en el pasillo, sin que le dejaran entrar. Lo había pensado cuando la comadrona se lo puso en el pecho, mojado y furioso, y lo había pensado cuando los médicos le dijeron, un año después, que no habría otro. Que algo se había roto. Que lo sentían mucho.
 
 Larath había dicho que no importaba. Que esperarían. Que a veces pasaba.
 
 No pasó.
 
-Y Larath había seguido diciendo, cada año, en el sótano, cuando Sein le preguntaba: hasta tener dos hijos. Hasta tener dos hijos no daría su ofrenda. Era lo único que le había negado nunca a la Orden. Selis sabía por qué; él se lo había dicho una noche, en esta misma cama, hacía treinta años. Si la doy y luego no hay otro hijo, habré dado la vida de mi casa a alguien de fuera para que vea cómo se acaba. No quiero. Prefiero esperar.
+Y Larath había seguido diciendo, cada año, en el sótano, cuando Sein le preguntaba: *hasta tener dos hijos*. Hasta tener dos hijos no daría su ofrenda. Era lo único que le había negado nunca a la Orden. Selis sabía por qué; él se lo había dicho una noche, en esta misma cama, hacía treinta años. *Si la doy y luego no hay otro hijo, habré dado la* *vida de mi casa a alguien de fuera para que vea cómo se acaba. No quiero. Prefiero* *esperar.*
 
 Había esperado cuarenta y cinco años.
 
 Iba a morirse esperando.
 
-* * *
+---
 
 Esa noche, la última, Larath abrió los ojos y pidió que salieran todos.
 
@@ -118,7 +118,7 @@ Ella se calló.
 
 —Ya lo sé. —Larath sonrió—. Por eso.
 
-* * *
+---
 
 Astragal estaba de pie al lado de la cama, con el cuchillo en la mano. No se movía.
 
@@ -160,7 +160,7 @@ Pensó en el pasillo de las reinas, en la cripta, donde había una losa vacía c
 
 Ella lo vería.
 
-Pensó en la panadería. En el viejo. En entierros.
+Pensó en la panadería. En el viejo. En *entierros*.
 
 —Si lo cojo —dijo, muy bajo— lo veré morir a él.
 
@@ -176,7 +176,7 @@ Larath cerró los ojos.
 
 —Porque si no lo coges —dijo— se morirá solo. Sin nadie que lo haya visto nacer.
 
-* * *
+---
 
 Astragal hizo el corte.
 
@@ -204,7 +204,7 @@ Larath bajó la mano. Sonrió.
 
 —Ya está —dijo.
 
-* * *
+---
 
 Murió de madrugada.
 
@@ -216,7 +216,7 @@ Astragal se levantó. Abrió la ventana. Entró el aire frío del final del invi
 
 Miró hacia arriba. A las estrellas que no se mueven.
 
-Dijo el nombre de su padre. Una vez. Larath. Para soltarlo.
+Dijo el nombre de su padre. Una vez. *Larath*. Para soltarlo.
 
 Selis lo oyó y no dijo nada. No sabía hacerlo. No había crecido en la colina; había crecido en Nix, entre la sal, donde a los muertos se les echa un puñado al mar y se les olvida para que no vuelvan. Pero vio a su hijo hacerlo, y vio que lo hacía bien, y pensó que eso era lo que tenía que ser un Emperador, al final: alguien que sabe soltar.
 
@@ -224,7 +224,7 @@ Ella no sabría nunca.
 
 Tenía ochenta años. La cara de ochenta. Los iba a tener siempre.
 
-* * *
+---
 
 Lo coronaron nueve días después.
 
@@ -236,7 +236,7 @@ Nadie lo vio, salvo los que lo miraban de verdad. Selis. Eluret, en primera fila
 
 Le pesaba. La corona. Once libras de oro en la cabeza de un hombre que no había llevado nunca ni un sombrero. Se le hundió el cuello un dedo. Se le puso roja la frente. Aguantó.
 
-El Gran Consejero dijo las palabras. Astragal, hijo de Larath, hijo de Astral, hijo de Asgal, de la sangre de Bhargaras, Vigésimo Segundo Emperador de Banderbill.
+El Gran Consejero dijo las palabras. *Astragal, hijo de Larath, hijo de Astral, hijo de* *Asgal, de la sangre de Bhargaras, Vigésimo Segundo Emperador de Banderbill.*
 
 Astragal no dijo nada.
 
@@ -254,13 +254,13 @@ Y la dejó en el cojín.
 
 Y se quedó con el aro.
 
-* * *
+---
 
 Esa noche, en el sótano, Sein abrió el libro.
 
 Escribió en el debe, con su letra de niño:
 
-*999. Larath, 21.º. Muere. Ofrenda dada en la última noche: a Selis, la reina, su mujer. Por voluntad de los dos.*
+*999. Larath, 21.º. Muere. Ofrenda dada en la última noche: a Selis, la reina, su* *mujer. Por voluntad de los dos.*
 
 Y en el haber:
 
@@ -272,7 +272,7 @@ Luego, en la tercera columna, más pequeño:
 
 *Ha comprado un entierro. Lo sabe. Lo ha cogido igual.*
 
-Y debajo, en la hoja sin número, la que llevaba treinta y un años encima de la mesa, debajo de la pregunta y el nombre: Astragal, 22.º. Coronado. Se ha quitado la corona. Ha visto a la de la panadería.
+Y debajo, en la hoja sin número, la que llevaba treinta y un años encima de la mesa, debajo de la pregunta y el nombre: *Astragal, 22.º. Coronado. Se ha quitado la corona. Ha visto a la de la panadería.*
 
 *No sé por qué la ha mirado.*
 

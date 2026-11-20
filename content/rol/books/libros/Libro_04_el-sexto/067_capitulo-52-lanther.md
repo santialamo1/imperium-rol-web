@@ -1,20 +1,20 @@
-## Capítulo 52 · Lanther
+# Capítulo 52 · Lanther
 
-*Banderbill, la tercera almena y el sótano de la casa vieja. Del otoño del 1414 al otoño del 1415 de la Nueva Era (807 a 808 D.bA).*
+*Banderbill, la tercera almena y el sótano de la casa vieja. Del otoño del 1414 al* *otoño del 1415 de la Nueva Era (807 a 808 D.bA).*
 
 Perdió siete a dos, y el dos fue ella y una vieja que pesaba.
 
-Pero eso fue al final. Al principio, la noche del muchacho en la escalera, Lanther creyó que iba a ganar. Lo creyó como se creen las cosas que no se han perdido nunca: sin pensarlo. En mil cuatrocientos años la Orden no había hecho nunca nada que ella no quisiera. No porque mandara. La Orden no tenía a nadie que mandara. Sino porque cuando Lanther decía no, los demás se callaban, y se miraban, y al final alguien decía vale.
+Pero eso fue al final. Al principio, la noche del muchacho en la escalera, Lanther creyó que iba a ganar. Lo creyó como se creen las cosas que no se han perdido nunca: sin pensarlo. En mil cuatrocientos años la Orden no había hecho nunca nada que ella no quisiera. No porque mandara. La Orden no tenía a nadie que mandara. Sino porque cuando Lanther decía *no*, los demás se callaban, y se miraban, y al final alguien decía *vale*.
 
 Así había sido siempre.
 
 Desde el 58. Desde la cripta.
 
-* * *
+---
 
 Subió a la almena esa misma noche. Después del sótano. Sin dormir.
 
-El muro hizo tum.
+El muro hizo *tum*.
 
 Contó.
 
@@ -32,19 +32,19 @@ A ella.
 
 La única vez.
 
-* * *
+---
 
 Era la primera cosa que recordaba de sí misma después de la cripta: que nadie le decía que no.
 
-Su padre no le había dicho nunca que no. Bhargaras VI, el grande, el que hizo la colina, el que tenía la voz que hacía callar a los consejos y temblar a los orcos. A su hija pequeña, la pelirroja, la que se escapaba al río con once años, no le había dicho que no ni una vez. Le había dicho ponte botas. Le había dicho vuelve antes de que anochezca. Le había dicho cuidado con el agua. No no.
+Su padre no le había dicho nunca que no. Bhargaras VI, el grande, el que hizo la colina, el que tenía la voz que hacía callar a los consejos y temblar a los orcos. A su hija pequeña, la pelirroja, la que se escapaba al río con once años, no le había dicho que no ni una vez. Le había dicho *ponte botas*. Le había dicho *vuelve antes de que anochezca*. Le había dicho *cuidado con el agua*. No *no*.
 
-Su hermano tampoco. Bhargaras VII, el de la corona sin piedras. Que en el valle negro, en la boca del agujero, con la mitad del cuerpo ya de sal, la miró y le dio lo que le quedaba de vida sin que ella lo pidiera. Ella le había dicho no. Él no.
+Su hermano tampoco. Bhargaras VII, el de la corona sin piedras. Que en el valle negro, en la boca del agujero, con la mitad del cuerpo ya de sal, la miró y le dio lo que le quedaba de vida sin que ella lo pidiera. Ella le había dicho *no*. Él no.
 
-Y luego mil años de Emperadores que le daban su sangre cuando ella la pedía para alguien. Para Sein. Para Teo. Para Mirela. Para Wenna. Para Tibbet. Ninguno dijo que no. Era la regla, decían. Ningún Emperador la negó. Lo apuntó Sein en el primer libro.
+Y luego mil años de Emperadores que le daban su sangre cuando ella la pedía para alguien. Para Sein. Para Teo. Para Mirela. Para Wenna. Para Tibbet. Ninguno dijo que no. Era la regla, decían. *Ningún Emperador la negó.* Lo apuntó Sein en el primer libro.
 
 Hasta Astragal.
 
-Que no dijo que no a la sangre. Dijo que no a ella. A que eligiera ella a quién. Todavía no sé a quién, le dijo. Pero no lo vas a elegir tú.
+Que no dijo que no a la sangre. Dijo que no a ella. A que eligiera ella a quién. *Todavía no sé a quién,* le dijo. *Pero no lo vas a elegir tú.*
 
 Y se la dio a un gnomo que se reía.
 
@@ -56,7 +56,7 @@ Que era la misma cara.
 
 La de alguien que ha decidido algo antes de que se lo pregunten. Y que no te va a dejar elegir.
 
-* * *
+---
 
 La primera reunión fue a la semana.
 
@@ -66,9 +66,9 @@ Sin el muchacho. Los seis. Y la doncella, que esa vez sí bajó, y a la que cont
 
 Lo dijo al principio. Para que se supiera.
 
-Nadie dijo vale.
+Nadie dijo *vale*.
 
-Se miraron. Sein con las gafas en la mano. Mirela con la pluma. Verawel al fondo. Dalbur en su barril. Teo al lado del horno. Se miraron unos a otros, y luego la miraron a ella, y no dijo nadie vale.
+Se miraron. Sein con las gafas en la mano. Mirela con la pluma. Verawel al fondo. Dalbur en su barril. Teo al lado del horno. Se miraron unos a otros, y luego la miraron a ella, y no dijo nadie *vale*.
 
 —Hay que hablarlo —dijo Sein.
 
@@ -86,7 +86,7 @@ Sein se puso las gafas.
 
 —Hay que hablarlo —repitió—. Porque tiene razón.
 
-* * *
+---
 
 Lanther se quedó quieta.
 
@@ -100,19 +100,19 @@ Lanther se quedó quieta.
 
 —No lo sé. —Sein la miró—. Pero es alguien, Lanther. Y lleva treinta y cinco años sabiendo lo que sabemos nosotros y no lo ha dicho. Ni a Corin. Ni a nadie. Ni con nueve años, ni con veinte, ni con cuarenta. Ha esperado. Ha quemado un cuaderno porque se dio cuenta de que lo había escrito con miedo. —Se le movió algo en la cara—. Yo tardé quinientos años en quemar una página.
 
-* * *
+---
 
 Hablaron un año.
 
 Cada mes. En el sótano. Con la masa en la repisa y el horno crujiendo arriba.
 
-Lanther dijo que no todas las veces. Al principio, la primera. Luego, al final. Luego, en medio, cuando alguien decía algo que le parecía que se acercaba a vale. Dijo que no con rabia, con frío, con pena, con cansancio. Dijo que no con la voz con la que le hablaba a Baervan en la almena y con la que le había hablado a su hermano en el valle.
+Lanther dijo que no todas las veces. Al principio, la primera. Luego, al final. Luego, en medio, cuando alguien decía algo que le parecía que se acercaba a *vale*. Dijo que no con rabia, con frío, con pena, con cansancio. Dijo que no con la voz con la que le hablaba a Baervan en la almena y con la que le había hablado a su hermano en el valle.
 
-Nadie dijo vale.
+Nadie dijo *vale*.
 
 Pero nadie dijo que no.
 
-* * *
+---
 
 Escribieron a los que no estaban.
 
@@ -122,12 +122,11 @@ A Tibbet, en el Fuerte, fue Mirela. Volvió con una lista. Tibbet había hecho u
 
 *Cosas que no han pasado, número 488: que alguien bajara la escalera.*
 
-*Número 489: que lo dejáramos subir.*  
-*Número 490: que yo sepa qué votar.*
+*Número 489: que lo dejáramos subir.* *Número 490: que yo sepa qué votar.*
 
-*No voto. Que conste. Me pongo el sombrero 158, el de la pluma de gaviota. Es el de cuando no sé.*
+*No voto. Que conste. Me pongo el sombrero 158, el de la pluma de gaviota. Es el* *de cuando no sé.*
 
-A Tiama fue Dalbur. Volvió con lo de Ilan. Ilan Hask tenía quinientos treinta y nueve años y la cara de cincuenta y cinco y vigilaba un ojo en una rendija de hielo desde el 930, y mandó decir: Que sí. Yo sé lo que es sujetar algo sin que nadie te dé las gracias. Si el chico quiere hacerlo, que lo haga. Pero que alguien le diga que no se acaba nunca.
+A Tiama fue Dalbur. Volvió con lo de Ilan. Ilan Hask tenía quinientos treinta y nueve años y la cara de cincuenta y cinco y vigilaba un ojo en una rendija de hielo desde el 930, y mandó decir: *Que sí. Yo sé lo que es sujetar algo sin que nadie te dé las gracias. Si* *el chico quiere hacerlo, que lo haga. Pero que alguien le diga que no se acaba nunca.*
 
 A Rinkel no fue nadie. Ottherius apareció solo, en el sótano, en la reunión de la primavera, sin que nadie le avisara. Bajó la escalera tocando las paredes con la punta de los dedos. Se sentó en el suelo, al lado de Lanther. Dijo:
 
@@ -141,11 +140,11 @@ Se fue.
 
 A Wenna fue Lanther.
 
-* * *
+---
 
 Seis días por el camino del norte. Sola. A caballo.
 
-El borde del hielo. Las cuatro casas. Las piedrecitas blancas en los escalones, en las ventanas, en todas partes. El viento que olía a sal.
+El borde de la ceniza. Las cuatro casas. Las piedrecitas blancas en los escalones, en las ventanas, en todas partes. El viento que olía a sal.
 
 Wenna estaba al lado del fuego. Debajo de los chales. Con la balanza en el regazo.
 
@@ -173,7 +172,7 @@ Lanther se quedó callada.
 
 —No lo sabes. Lo sabrás cuando votéis. —La vieja se arrebujó en los chales—. Y cuando pierdas, no te vayas. Eso te lo pido. Quédate. Alguien tiene que estar al lado cuando coja la primera cosa que no se puede devolver. Alguien que le diga que pesa.
 
-* * *
+---
 
 A Corin fueron Teo y ella.
 
@@ -213,7 +212,7 @@ Corin cerró el libro de poemas.
 
 —Que sí —dijo.
 
-* * *
+---
 
 —No tienes que decir que sí —dijo Lanther—. Es tuya. Es lo único que es tuyo de verdad. Puedes decir que no.
 
@@ -231,7 +230,7 @@ Lanther no contestó.
 
 —Es lo único que he podido dar en la vida —dijo Corin—. Que no fuera dinero.
 
-* * *
+---
 
 Votaron en el otoño del 1415.
 
@@ -241,7 +240,7 @@ Teo dijo que sí. Llorando. Con la espalda en el horno.
 
 Sein dijo que sí. Con las gafas puestas.
 
-Mirela dijo que sí. Y luego dijo que conste, y nadie se rio.
+Mirela dijo que sí. Y luego dijo *que conste*, y nadie se rio.
 
 Verawel dijo que sí. Desde el fondo. Con la voz de las hojas.
 
@@ -259,7 +258,7 @@ Y Lanther dijo que no.
 
 Siete a dos.
 
-* * *
+---
 
 La doncella no votó. No era de la Orden.
 
@@ -281,7 +280,7 @@ Arriba, antes de cerrar la trampilla, dijo, sin volverse:
 
 Y cerró.
 
-* * *
+---
 
 Lanther se quedó en el sótano cuando se fueron todos.
 
@@ -309,7 +308,7 @@ Lanther lo miró.
 
 Lanther no contestó enseguida.
 
-Pensó en su hermano en la boca del agujero. En Astragal en la cama de roble negro. En un gnomo que se reía mirando arriba en una plaza. En una vieja debajo de unos chales que le había dicho: alguien tiene que estar al lado cuando coja la primera cosa que no se puede devolver.
+Pensó en su hermano en la boca del agujero. En Astragal en la cama de roble negro. En un gnomo que se reía mirando arriba en una plaza. En una vieja debajo de unos chales que le había dicho: *alguien tiene que estar al lado cuando coja la primera cosa que no se* *puede devolver*.
 
 —Porque alguien tiene que decirle que pesa —dijo.
 

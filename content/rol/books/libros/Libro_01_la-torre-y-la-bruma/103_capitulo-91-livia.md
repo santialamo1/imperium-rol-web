@@ -1,4 +1,4 @@
-## Capítulo 91 · Livia
+# Capítulo 91 · Livia
 
 *Banderbill y las montañas negras de Oderon. Año 5 de la Nueva Era, otoño.*
 
@@ -20,11 +20,11 @@ Lo había dicho sin pensar, y se había arrepentido enseguida, porque vio la car
 
 Livia no había contestado. Se había ido a su cuarto, en la casa de la Custodia Orla, donde vivía desde que llegaron, y se había pasado la noche despierta oyendo a las montañas.
 
-* * *
+---
 
 No era una voz. Eso era lo primero que había que entender, y nadie lo entendía, ni siquiera la Custodia Orla, que había oído a los muertos durante cincuenta años y creía que todo lo que se oía desde lejos tenía que ser un muerto.
 
-En el barco, en el Mar de la Penuria, la voz que la llamaba era una voz. Venía de detrás, de la tierra, del este, de donde habían huido. Decía Livia, Livia, Livia como se llama a un perro, y Livia sabía, sin que nadie se lo dijera, que era la voz de algo que tenía hambre. Luego Bander le dio el abrigo, y la voz sonó más lejos. Y luego cruzaron el mar, y la voz se quedó al otro lado del agua salada, y no volvió.
+En el barco, en el Mar de la Eterna Penuria, la voz que la llamaba era una voz. Venía de detrás, de la tierra, del norte, de donde habían huido. Decía *Livia, Livia, Livia* como se llama a un perro, y Livia sabía, sin que nadie se lo dijera, que era la voz de algo que tenía hambre. Luego Bander le dio el abrigo, y la voz sonó más lejos. Y luego cruzaron el mar, y la voz se quedó al otro lado del agua salada, y no volvió.
 
 Las montañas eran otra cosa.
 
@@ -42,13 +42,13 @@ No el de la calle.
 
 El otro.
 
-El que le había susurrado Bander al oído en la cubierta de la Tozuda, a los nueve años, en la lengua de la arena, que ella no hablaba. El que no sabía nadie más en el mundo. El abrigo.
+El que le había susurrado Bander al oído en la cubierta de la *Tozuda*, a los nueve años, en la lengua de la arena, que ella no hablaba. El que no sabía nadie más en el mundo. El abrigo.
 
 Las montañas la llamaban por el abrigo.
 
 Se lo había contado a Tobías, que lo había escrito en sus crónicas con letra muy pequeña. Se lo había contado a Bander, que se había puesto pálido y se había llevado la mano al pecho, a aquel sitio encima del corazón que se tocaba siempre que algo lo preocupaba. Y Bander había dicho que no.
 
-* * *
+---
 
 Subió por el río. Era el camino más fácil: el río bajaba de las montañas, claro y frío, saltando entre piedras, y en las orillas había sendas de ciervos que subían entre los pinos. Llevaba un zurrón con pan de centeno de maese Ugo, queso, un cuchillo, una cuerda, un trozo de carbón y un cuaderno de hojas de corteza de abedul que le había hecho Tobías para que dibujara.
 
@@ -64,7 +64,7 @@ Sal.
 
 Y en ese momento, con el dedo en la boca y las rodillas en la roca negra, las montañas latieron. Tan fuerte, tan cerca, que Livia lo notó en los dientes.
 
-Tú, dijo el latido. No con palabras. Con la forma. Tú. La de la mano.
+*Tú*, dijo el latido. No con palabras. Con la forma. *Tú. La de la mano.*
 
 Livia se apartó de la roca de un salto. Se quedó de pie, temblando, con el corazón golpeándole las costillas.
 
@@ -72,7 +72,7 @@ El latido no volvió. La montaña se quedó en silencio, enorme, negra, quieta b
 
 Livia tardó mucho en atreverse a moverse.
 
-* * *
+---
 
 Encontró el sitio poco después del mediodía, en un collado entre dos picos, donde el viento soplaba tan fuerte que tuvo que caminar inclinada.
 
@@ -84,7 +84,7 @@ Livia se acercó a la más cercana. Apartó los líquenes con el cuchillo. Debaj
 
 Sacó el cuaderno de corteza y el carbón y las copió. Todas. Las de las siete piedras. Tardó toda la tarde. Le dolían los dedos de frío.
 
-En la séptima piedra, la que daba al este, hacia el mar, hacia el Imperio que habían dejado atrás, había una sola palabra. Más grande que las demás. Tallada más hondo, como si quien la talló hubiera querido que durara más que todo lo otro.
+En la séptima piedra, la que daba al norte, hacia el mar, hacia el Imperio que habían dejado atrás, había una sola palabra. Más grande que las demás. Tallada más hondo, como si quien la talló hubiera querido que durara más que todo lo otro.
 
 Livia la copió con mucho cuidado.
 
@@ -92,9 +92,9 @@ Luego, porque se estaba haciendo de noche y el viento era cada vez más frío, g
 
 No miró atrás. Pero notó, durante todo el descenso, a cada paso, el latido de la montaña en las plantas de los pies. Lento. Paciente. Siguiéndola.
 
-* * *
+---
 
-Llegó a Banderbill a medianoche. Había cuarenta personas buscándola con antorchas por el bosque y la playa. El tío Gorm, con un hacha, por si acaso. La Custodia Orla, con cara de ya os lo dije. Mara, descalza, gritando su nombre en la playa. Y Bander, solo, en la orilla del río, donde empezaba la senda de los ciervos, esperando.
+Llegó a Banderbill a medianoche. Había cuarenta personas buscándola con antorchas por el bosque y la playa. El tío Gorm, con un hacha, por si acaso. La Custodia Orla, con cara de *ya os lo dije*. Mara, descalza, gritando su nombre en la playa. Y Bander, solo, en la orilla del río, donde empezaba la senda de los ciervos, esperando.
 
 Sabía por dónde vendría. Livia no supo nunca cómo lo sabía.
 
@@ -108,7 +108,7 @@ Livia sacó el cuaderno de corteza. Se lo dio. Le temblaban las manos.
 
 Bander pasó las hojas despacio, a la luz del fuego. Las letras curvas, enlazadas. Las siete piedras. El hueco del centro.
 
-—No sé leerlo —dijo—. Es la escritura de las Madres antiguas. Ni siquiera los clanes libres la leían ya en tiempos de Lexandra. —Siguió pasando hojas—. Tobías quizá pueda descifrar algo. Tiene la cartilla de Hilde Tamm, la que trajo en el arcón. Pero esto es más antiguo que la cartilla. Mucho más.
+—No sé leerlo —dijo—. Es la escritura de las Madres antiguas. Ni siquiera los clanes libres la leían ya en tiempos de Lexandra. —Siguió pasando hojas—. Tobías quizá pueda descifrar algo. Tiene la cartilla de Hilde Tamm, la que trajo en el arcón de Corvo. Pero esto es más antiguo que la cartilla. Mucho más.
 
 Llegó a la última hoja. La de la palabra grande de la séptima piedra.
 
@@ -140,18 +140,18 @@ Bander la miró. Tenía los ojos casi blancos, y a la luz del fuego parecían do
 
 —No lo sé, Livia —dijo—. Pero está tallado en una piedra de una montaña al otro lado del mar, en un sitio donde no ha vivido nadie en mil años. Y la montaña te llama por él.
 
-* * *
+---
 
 Livia no volvió a subir a las montañas aquel año. Ni el siguiente. Bander no se lo prohibió; no hizo falta. Ella misma tenía miedo.
 
 Pero guardó el cuaderno de corteza. Y Tobías, el copista, pasó once inviernos intentando descifrar las inscripciones de las siete piedras con la cartilla de Hilde Tamm y un diccionario de la lengua de la arena que había ido escribiendo él mismo, palabra a palabra, preguntando a los pocos eufesios que había en Banderbill. Consiguió leer tres frases. Las apuntó en un pliego aparte, que no incluyó en las crónicas porque Su Majestad no le dejó, y que se encontró después de su muerte en el fondo de su arcón.
 
-La primera decía: Aquí trajimos lo que sobraba.
+La primera decía: *Aquí trajimos lo que sobraba.*
 
-La segunda: Que duerma lejos de la otra mitad.
+La segunda: *Que duerma lejos de la otra mitad.*
 
-La tercera no la entendió nunca. Era la que rodeaba el hueco vacío del centro del círculo, y decía, según su mejor traducción, después de once años: Cuando vuelva la mano, que vuelva también el nombre.
+La tercera no la entendió nunca. Era la que rodeaba el hueco vacío del centro del círculo, y decía, según su mejor traducción, después de once años: *Cuando vuelva la mano,* *que vuelva también el nombre.*
 
 Debajo, en el margen, con la letra temblorosa de un viejo, Tobías Grull había añadido una nota para sí mismo, o para quien la encontrara:
 
-*He preguntado a Su Majestad qué nombre le dio a la niña en el barco. No me lo ha dicho. Pero cuando le leí la tercera frase, se tocó el pecho. Y salió de la habitación sin despedirse.*
+*He preguntado a Su Majestad qué nombre le dio a la niña en el barco. No me lo ha* *dicho. Pero cuando le leí la tercera frase, se tocó el pecho. Y salió de la habitación sin* *despedirse.*

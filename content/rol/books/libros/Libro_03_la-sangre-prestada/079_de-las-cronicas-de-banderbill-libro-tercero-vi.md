@@ -1,6 +1,6 @@
-## DE LAS CRÓNICAS DE BANDERBILL, LIBRO TERCERO (VI)
+# De las Crónicas de Banderbill, Libro Tercero (VI)
 
-*Escrito por Inés Vell, cronista de la biblioteca, en el otoño del año 865 de la Nueva Era (258 D.bA). Con el lápiz atravesado en el pelo y polvo de cantera en los zapatos. Con una nota al pie en otra letra.*
+*Escrito por Inés Vell, cronista de la biblioteca, en el otoño del año 865 de la Nueva* *Era (258 D.bA). Con el lápiz atravesado en el pelo y polvo de cantera en los zapatos. Con* *una nota al pie en otra letra.*
 
 Me llamo Inés. Tengo sesenta y cinco años, el apellido desde el 830, y llevo nueve sin oír otra cosa que picos.
 
@@ -10,7 +10,7 @@ Se está haciendo una muralla. En el norte. Desde la costa hasta la colina. Tres
 
 No se había hecho una cosa así nunca.
 
-* * *
+---
 
 El Emperador la mandó en la primavera del 857, la primera noche de su reinado, en una reunión de la que no hay acta. Lo sé porque busqué el acta y no está. Lo sé porque al día siguiente el Consejo se enteró por el maestro de obras, que se lo contó el capataz, que se lo contó el Emperador en persona, en la cantera, con un pico en la mano.
 
@@ -22,13 +22,13 @@ El Consejo le preguntó qué quería decir.
 
 El Emperador se puso el aro de hierro negro, que le baila más que a nadie, y dijo que los que no vienen en seis años, vienen todos juntos.
 
-* * *
+---
 
 La muralla tiene ya una legua. De las tres. El señor Vell de las gafas, que no es pariente mío y que lleva el apellido desde antes que nadie, dice que a este ritmo se acaba en el 890. Que si se acaba en el 890, sobran dos años. Le he preguntado dos años para qué. Me ha dicho que vuelva cuando lo sepa.
 
 No he vuelto. Pero lo he apuntado. Dos años.
 
-* * *
+---
 
 Dentro de la colina pasa otra cosa.
 
@@ -42,11 +42,11 @@ Cantaba.
 
 No lo cuento más. Ya lo contó Clara Vell en el 710. Pero lo apunto: que canta. Que sigue cantando. Que ahora, me parece, canta más fuerte.
 
-* * *
+---
 
 El Emperador se casó en el 858.
 
-Con una mujer de la calle de abajo. Se llama Nela. Es Ruald. Nieta de la nieta de Isra, la hija de Liminus, la que se casó con el panadero. Así que es de su sangre, lejos, por dos lados. El Consejo dijo algo de linajes. El Emperador dijo que si el Consejo quería hablar de linajes, que fuera a hablar con su abuelo, que estaba en el fondo del mar al noroeste. El Consejo se calló.
+Con una mujer de la calle de abajo. Se llama Nela. Es Ruald. Nieta de la nieta de Isra, la hija de Liminus, la que se casó con el panadero. Así que es de su sangre, lejos, por dos lados. El Consejo dijo algo de linajes. El Emperador dijo que si el Consejo quería hablar de linajes, que fuera a hablar con su abuelo, que estaba en el fondo del mar, al norte, al pie de la Isla Siniestra. El Consejo se calló.
 
 Tienen un hijo. Nació en el 860. Se llama Astral.
 
@@ -54,7 +54,7 @@ Es un niño callado. Mira mucho. No se agacha al pasar por las puertas, porque h
 
 La pelirroja lo ha cogido en brazos una vez. Una sola. El día que nació. Luego se lo devolvió a su madre muy deprisa, como quien devuelve una cosa que quema. No sé por qué. No pregunto.
 
-* * *
+---
 
 El elfo de la silla del fondo tiene mil diez años. Ya no sube la escalera de la biblioteca solo. Lo suben dos pajes, en la silla, cada mañana, y lo bajan cada noche. Se sienta al lado del diario. No escribe. No ha escrito nada desde el 856.
 
@@ -66,13 +66,13 @@ Le he preguntado qué pasa con lo que no se puede.
 
 Me ha enseñado la manga de una camisa. Doblada. Con manchas de tinta. Me ha dicho que eso. Y se la ha guardado otra vez en el pecho.
 
-* * *
+---
 
 Lo último.
 
 Los orcos de la colina están raros.
 
-Los del barrio de abajo, los que nacieron aquí, los nietos de los nietos de los que vinieron en el 607 con las tiras de cuero en el cuello. Los que son de la colina como cualquiera. Están raros. Callados. Algunos, de noche, salen a la calle y miran al noroeste. Mucho rato. Sin decir nada.
+Los del barrio de abajo, los que nacieron aquí, los nietos de los nietos de los que vinieron en el 607 con las tiras de cuero en el cuello. Los que son de la colina como cualquiera. Están raros. Callados. Algunos, de noche, salen a la calle y miran al norte. Mucho rato. Sin decir nada.
 
 Le pregunté a uno. Un tonelero. Viejo. Se llama Durg. Le pregunté qué miraba.
 
@@ -88,12 +88,14 @@ Llevamos nueve.
 
 *I. V.*
 
-— | ✦ | —
+---
+
+— —
 
 *Al pie, en otra letra, pequeña, de niño:*
 
-*Los planos de la manga los tengo yo. Copiados. En el libro cuadragésimo quinto, en las hojas que no se numeran. Ottherius no ha leído la palabra del círculo en voz alta. La ha escrito en un papel, la ha doblado, y se la ha dado a ella. Ella no la ha abierto.*
+*Los planos de la manga los tengo yo. Copiados. En el libro cuadragésimo quinto,* *en las hojas que no se numeran. Ottherius no ha leído la palabra del círculo en voz alta.* *La ha escrito en un papel, la ha doblado, y se la ha dado a ella. Ella no la ha abierto.*
 
-*Las flechas de la costa norte llegan a la colina por el norte. La muralla nueva las tapa. Todas menos una. La del valle negro. Esa no va a la colina. Va al Guardián. Apuntado. Que conste. Se lo he dicho al Emperador. Ha dicho que treinta años.*
+*Las flechas de la costa norte llegan a la colina por el norte. La muralla nueva las* *tapa. Todas menos una. La del valle negro. Esa no va a la colina. Va al Guardián.* *Apuntado. Que conste. Se lo he dicho al Emperador. Ha dicho que treinta años.*
 
 *S.*

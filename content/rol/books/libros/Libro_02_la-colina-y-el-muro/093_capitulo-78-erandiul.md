@@ -1,4 +1,4 @@
-## Capítulo 78 · Érandiul
+# Capítulo 78 · Érandiul
 
 *La biblioteca de Banderbill. Invierno del año 417 de la Nueva Era.*
 
@@ -18,7 +18,7 @@ Tenía tres hojas para todas.
 
 No cabían.
 
-* * *
+---
 
 La primera la llenó con el año.
 
@@ -30,27 +30,27 @@ Lo leyó. Le pareció bien. Era verdad. Había sido una noticia triste, aunque L
 
 Siguió.
 
-*Su hijo, Arthal II, fruto del amor con una hermosa elfa, fue coronado soberano de Banderbill.*
+*Su hijo, Arthal II, fruto del amor con una hermosa elfa, fue coronado soberano de* *Banderbill.*
 
-Se detuvo. Fruto del amor. No era del todo verdad. Lo sabía. Lo sabía toda la colina, a medias. Aeloen se había casado con Lindiel II por un trato hecho en un sótano, con un cuaderno en las rodillas. Pero luego, en dieciocho años, Érandiul los había visto. En el jardín del barrio de arriba, que ya estaba cuidado. Ella enseñándole al niño a tirar con arco. Él mirándolos desde la ventana con la cabeza ladeada, escuchando. Y Aeloen, a veces, volviéndose a mirarlo a él.
+Se detuvo. *Fruto del amor.* No era del todo verdad. Lo sabía. Lo sabía toda la colina, a medias. Aeloen se había casado con Lindiel II por un trato hecho en un sótano, con un cuaderno en las rodillas. Pero luego, en dieciocho años, Érandiul los había visto. En el jardín del barrio de arriba, que ya estaba cuidado. Ella enseñándole al niño a tirar con arco. Él mirándolos desde la ventana con la cabeza ladeada, escuchando. Y Aeloen, a veces, volviéndose a mirarlo a él.
 
 No lo tachó. Los elfos no tachaban.
 
 Era verdad, también. Al final.
 
-* * *
+---
 
-*La Armada Imperial es una maquinaria de la guerra y está lista para hacer frente a las Hordas del Caos.*
+*La Armada Imperial es una maquinaria de la guerra y está lista para hacer frente* *a las Hordas del Caos.*
 
 Eso le costó más.
 
-Lo escribió despacio. Maquinaria. Era una palabra de gnomo. La había aprendido de Tibbet, que la usaba para las cosas que zumbaban y hacían ruido y funcionaban solas y que a veces encendían un estante. La Armada era eso. Seis mil. Pagados. En filas. A paso. Que miraban hacia arriba antes de cada carga, porque se lo había enseñado una mujer de Nix con una gubia en el cinto que ya no estaba.
+Lo escribió despacio. *Maquinaria.* Era una palabra de gnomo. La había aprendido de Tibbet, que la usaba para las cosas que zumbaban y hacían ruido y funcionaban solas y que a veces encendían un estante. La Armada era eso. Seis mil. Pagados. En filas. A paso. Que miraban hacia arriba antes de cada carga, porque se lo había enseñado una mujer de Nix con una gubia en el cinto que ya no estaba.
 
 Funcionaba.
 
 Y le daba miedo.
 
-Ya no son simples granjeros y campesinos portando armas, escribió. Ahora son soldados preparados profesionalmente para el combate.
+*Ya no son simples granjeros y campesinos portando armas*, escribió. *Ahora son* *soldados preparados profesionalmente para el combate.*
 
 Lo miró mucho rato.
 
@@ -64,7 +64,7 @@ Ahora había otra cosa. Mejor. Más fuerte. Que no se podía volver granjera.
 
 No lo tachó.
 
-* * *
+---
 
 Terminó la entrada del año. Nix reconstruida. El viejo campamento despejado. Una ciudad clave como centro de comercio. Lo puso todo. Era verdad.
 
@@ -74,11 +74,11 @@ Debajo, como hacía siempre que había algo que no sabía escribir, hizo un dibu
 
 Quedaban dos hojas.
 
-* * *
+---
 
 A mediodía llamaron a la puerta. Tres golpes. Con los nudillos.
 
-Érandiul no se levantó. Ya no se levantaba para abrir; le costaba demasiado. Dijo pasa en las dos lenguas, por si acaso.
+Érandiul no se levantó. Ya no se levantaba para abrir; le costaba demasiado. Dijo *pasa* en las dos lenguas, por si acaso.
 
 Entró el Emperador.
 
@@ -114,7 +114,7 @@ Arthal le contó lo del orco viejo. Lo del círculo de piedras rojas. Lo del pap
 
 Érandiul tardó en contestar.
 
-Se la sabía. Se la había enseñado su madre, en la aldea del castaño, de niño, en voz baja, como se enseña un secreto. Esta no la digas nunca en Tawarsinan, le dijo. Allí está prohibida. Pero aquí fuera sí. Aquí fuera se dice cuando se muere alguien. Para que sepa a dónde ir.
+Se la sabía. Se la había enseñado su madre, en la aldea del castaño, de niño, en voz baja, como se enseña un secreto. *Esta no la digas nunca en Tawarsinan*, le dijo. *Allí está* *prohibida. Pero aquí fuera sí. Aquí fuera se dice cuando se muere alguien. Para que sepa* *a dónde ir.*
 
 La había dicho una vez en su vida. Por su madre. Hacía cuatrocientos años.
 
@@ -128,7 +128,7 @@ La había dicho una vez en su vida. Por su madre. Hacía cuatrocientos años.
 
 Érandiul lo miró mucho rato.
 
-Pensó en el niño de Tawarsinan que dijo el nombre que no había que decir, hacía tres mil años. Pensó en la palabra drow. Pensó en que las palabras que se esconden se pudren, y las que se dicen con hambre tiran, y las que se dicen hacia arriba sueltan.
+Pensó en el niño de Tawarsinan que dijo el nombre que no había que decir, hacía tres mil años. Pensó en la palabra *drow*. Pensó en que las palabras que se esconden se pudren, y las que se dicen con hambre tiran, y las que se dicen hacia arriba sueltan.
 
 Se inclinó hacia el muchacho. Le puso la mano en la oreja. En la de en medio. La de su madre a medias.
 
@@ -152,15 +152,15 @@ Le tendió la mano. De mano a mano. Sin piedra.
 
 Érandiul se la estrechó.
 
-* * *
+---
 
 Esa tarde fue a la biblioteca.
 
 No sabía por qué. Bueno: lo sabía. Había ido a la biblioteca muchas veces en trescientos cincuenta y cuatro años, desde que la inauguró un muchacho de veintiún años un martes de lluvia, y había entrado muchas veces con el diario debajo del brazo, y había salido muchas veces con el diario debajo del brazo.
 
-No está terminado, le había dicho a Amael. El primer día. Delante de los once libros y los nueve lectores.
+*No está terminado*, le había dicho a Amael. El primer día. Delante de los once libros y los nueve lectores.
 
-Amael había apuntado en el registro: Uno se fue sin dejar el suyo. Que conste.
+Amael había apuntado en el registro: *Uno se fue sin dejar el suyo. Que conste.*
 
 Érandiul lo había leído años después. Le había dolido. Le había hecho gracia. Las dos cosas.
 
@@ -172,7 +172,7 @@ En el rincón del fondo, en la mesa pequeña pegada a la pared, nadie.
 
 Esperó.
 
-* * *
+---
 
 No tardó mucho.
 
@@ -206,7 +206,7 @@ Lanther lo pensó.
 
 —Desde la puerta a medio hacer.
 
-* * *
+---
 
 No hablaron mucho, al final. No hacía falta. Cuatrocientos años de mirarse de lejos les habían dejado poco que decirse que no supieran.
 
@@ -232,7 +232,7 @@ Ella tardó en contestar.
 
 —Es la única que tengo.
 
-* * *
+---
 
 Érandiul empujó el diario por encima de la mesa. Hacia ella.
 
@@ -258,13 +258,13 @@ Lanther lo miró mucho rato.
 
 —Era mentira.
 
-—Era lo que se podía leer. —Érandiul se encogió de hombros—. Y luego, a fuerza de leerse, se hizo verdad. Me lo dijo Verawel. Has escrito una mentira y ahora es verdad. Los elfos del sur enseñaron las formas suaves porque la colina creía que los sabios elfos sabían hacer inmortales. Se sintieron obligados a enseñar algo. —Se rio—. A veces lo que se apunta mal sirve más que lo que se apunta bien.
+—Era lo que se podía leer. —Érandiul se encogió de hombros—. Y luego, a fuerza de leerse, se hizo verdad. Me lo dijo Verawel. *Has escrito una mentira y ahora es verdad.* Los elfos del sur enseñaron las formas suaves porque la colina creía que los sabios elfos sabían hacer inmortales. Se sintieron obligados a enseñar algo. —Se rio—. A veces lo que se apunta mal sirve más que lo que se apunta bien.
 
 —Sein no estaría de acuerdo.
 
 —Sein apunta en dos columnas. Yo apunto en una. —Érandiul le acercó más el diario—. Los dos hacemos falta.
 
-* * *
+---
 
 Lanther cogió el diario.
 
@@ -298,9 +298,9 @@ Y escribió. Una línea. Con la letra que se le iba hacia abajo.
 
 Lanther la leyó al revés, desde el otro lado de la mesa.
 
-*Me quité el sombrero en una puerta a medio hacer, y no he vuelto a ponérmelo del todo. Lo dejo aquí. Que se lo ponga el que lea.*
+*Me quité el sombrero en una puerta a medio hacer, y no he vuelto a ponérmelo del* *todo. Lo dejo aquí. Que se lo ponga el que lea.*
 
-* * *
+---
 
 Lanther no dijo nada durante un rato largo.
 
@@ -320,17 +320,16 @@ No lo cogió. No era suyo.
 
 Lo dejó allí.
 
-* * *
+---
 
 A la mañana siguiente, cuando Aren Vell abrió la biblioteca, encontró en la mesa del fondo un sombrero de elfo, viejo, gris, de ala ancha, sin pluma. Y en la estantería de arriba, al lado del tercer cuaderno de Livia Heredicus, un libro que no estaba en el registro.
 
 Lo abrió. Lo leyó hasta la penúltima hoja.
 
-Luego cogió el registro de la biblioteca, el que había empezado Amael, el que tenía en la primera página Año 63. Primer día. Libros: once. Lectores: nueve. Uno se fue sin dejar el suyo. Que conste.
+Luego cogió el registro de la biblioteca, el que había empezado Amael, el que tenía en la primera página *Año 63. Primer día. Libros: once. Lectores: nueve. Uno se fue sin* *dejar el suyo. Que conste.*
 
 Y escribió, debajo de la última entrada, con su letra de cuarenta y un años:
 
-*Año 417. Ha vuelto. Lo ha dejado.*  
-*Constará.*
+*Año 417. Ha vuelto. Lo ha dejado.* *Constará.*
 
 Y el sombrero lo colgó en la pared de la sala del Consejo. Al lado del cuchillo de Gorm. Donde sigue.

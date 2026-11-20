@@ -1,6 +1,6 @@
-## Capítulo 18 · Eluret
+# Capítulo 18 · Eluret
 
-*El desierto del este, a tres días de Rinkel. Primavera del año 1084 de la Nueva Era (477 D.bA).*
+*El desierto del este, a tres días de Rinkel. Primavera del año 1084 de la Nueva Era* *(477 D.bA).*
 
 Eluret lo encontró porque se lo debía a un muerto, y porque el muerto le había enseñado cómo.
 
@@ -12,9 +12,9 @@ En la primavera del 1084, Eluret fue a ver.
 
 Tenía ciento veintiocho años. La cara de sesenta y cinco. El pelo de paja se le había vuelto del color de la arena vieja, y le dolía la cadera izquierda por las mañanas, donde le había entrado la flecha drow en el 1044. Montaba igual. Peor. Igual.
 
-Baervan iba con él. Cuarenta y nueve años y la cara de treinta y uno. Ya se notaba. En el cuartel ya se decía. El gnomo del Comandante no envejece. Lo decían como se dicen las cosas de los gnomos, con un poco de risa, como si fuera una rareza de su raza. Baervan se reía también. Era su forma de esconderlo.
+Baervan iba con él. Cuarenta y nueve años y la cara de treinta y uno. Ya se notaba. En el cuartel ya se decía. *El gnomo del Comandante no envejece.* Lo decían como se dicen las cosas de los gnomos, con un poco de risa, como si fuera una rareza de su raza. Baervan se reía también. Era su forma de esconderlo.
 
-* * *
+---
 
 El sitio donde se perdió la caravana era un llano de piedra entre dos dunas, a medio camino entre el pozo de Asa y el pozo de las Tres Palmas. No había nada. Arena. Piedra. Una roca grande, solitaria, del tamaño de una casa, gastada por el viento, en el centro del llano.
 
@@ -34,13 +34,13 @@ Baervan lo miró sin entender.
 
 —No. —Eluret desató el cordel—. De los que trajeron aquí antes.
 
-* * *
+---
 
 Lo había pensado en el camino. Durante las semanas de barco y de marcha desde la colina, al paso, con la cadera doliéndole. Había pensado en la Punta Gris. En los fiordos. En lo que hacía Gal: los nombres, de rodillas, mirando abajo. En que las puertas que se olvidan de sí mismas no desaparecen. Siguen estando. Se puede pasar por delante. Se puede, a lo mejor, pasar por dentro sin saberlo. Doce carros de sal y cuarenta personas, en un llano de piedra, entre dos pozos, una noche de invierno, al lado de una roca.
 
-Había vuelto a los legajos de la cárcel antes de salir. Los que copió Gal. Los cuatro mil doscientos once. Había buscado desierto. Pozo. Caravana. Sal.
+Había vuelto a los legajos de la cárcel antes de salir. Los que copió Gal. Los cuatro mil doscientos once. Había buscado *desierto*. *Pozo*. *Caravana*. *Sal*.
 
-Había encontrado un Rincón al que los registros llamaban el de la sed. Trescientos doce ladrones, entre el 340 y el 617. Casi todos de las caravanas. Ladrones de agua, sobre todo. En el desierto, robar agua era peor que matar.
+Había encontrado un Rincón al que los registros llamaban *el de la sed*. Trescientos doce ladrones, entre el 340 y el 617. Casi todos de las caravanas. Ladrones de agua, sobre todo. En el desierto, robar agua era peor que matar.
 
 —Gal lo hacía mirando abajo —dijo Eluret—. Para atar. Para que la puerta se acordara de lo que era.
 
@@ -56,7 +56,7 @@ Eluret se arrodilló. Le crujió la cadera. Se arrodilló igual.
 
 Y empezó a leer.
 
-* * *
+---
 
 Tardó dos días.
 
@@ -78,7 +78,7 @@ Vacíos. Sin bueyes. Sin gente.
 
 Con las ruedas medio enterradas.
 
-* * *
+---
 
 Abrieron la puerta al alba.
 
@@ -114,7 +114,7 @@ Eluret los leyó.
 
 Mirando arriba.
 
-* * *
+---
 
 Se despertaron todos. Uno por uno. Despacio. Como se despierta la gente después de una noche larga.
 
@@ -130,7 +130,7 @@ Eluret se quedó.
 
 Bajó otra vez. Solo. Con la lámpara.
 
-* * *
+---
 
 No había vara. Ya lo sabía. Lo había sabido antes de bajar.
 
@@ -148,17 +148,17 @@ Y al final, en la última página, otra letra.
 
 Fina. Élfica. Con las letras inclinadas hacia atrás, como escriben los que escriben con la izquierda sin serlo.
 
-*Año 617. Mañana canto este. Es el sexto. Esta noche todavía sé dónde estoy, y lo apunto aquí porque mañana no lo sabré.*
+*Año 617. Mañana canto este. Es el sexto. Esta noche todavía sé dónde estoy, y lo* *apunto aquí porque mañana no lo sabré.*
 
-*Le he preguntado a la pelirroja por qué no cantamos el octavo. Dice que en el octavo hay una vara. La de Bredinlo, el muchacho de Pisor. Que la vara mata sin tocar y que si la puerta se olvida, se olvida ella de dónde está, y entonces no la vigila nadie. Que la guarda ella. Que va cada diez años con el bibliotecario. Que no lo sabe nadie más.*
+*Le he preguntado a la pelirroja por qué no cantamos el octavo. Dice que en el* *octavo hay una vara. La de Bredinlo, el muchacho de Pisor. Que la vara mata sin tocar y* *que si la puerta se olvida, se olvida ella de dónde está, y entonces no la vigila nadie. Que* *la guarda ella. Que va cada diez años con el bibliotecario. Que no lo sabe nadie más.*
 
 *Le he preguntado por qué me lo cuenta a mí.*
 
-*Dice que porque mañana yo me voy a olvidar de algo, y que a lo mejor es de esto. Que los que olvidan guardan bien los secretos. Que a lo mejor un día alguien abre este Rincón y lo lee. Y que si lo lee, que lo deje.*
+*Dice que porque mañana yo me voy a olvidar de algo, y que a lo mejor es de esto.* *Que los que olvidan guardan bien los secretos. Que a lo mejor un día alguien abre este* *Rincón y lo lee. Y que si lo lee, que lo deje.*
 
 *Lo apunto igual. Odelia, de la Escuela de las Formas.*
 
-* * *
+---
 
 Eluret leyó la página tres veces.
 
@@ -168,7 +168,7 @@ Se quedó un rato mirándolo.
 
 Luego lo volvió a sacar. Y se lo guardó en la alforja.
 
-* * *
+---
 
 Lanther estaba en la tercera almena cuando Eluret volvió a la colina, once días después. Ella siempre estaba en la tercera almena. Eluret no subió a la segunda esta vez. Subió a la tercera.
 
@@ -230,13 +230,13 @@ Pensó en Gal. En la Punta Gris. En los ciento cuarenta y tres nombres que Gal d
 
 —Porque Odelia dijo que si alguien lo leía, que lo dejara. —Eluret se levantó. Le dolió la cadera—. Y yo lo he leído.
 
-* * *
+---
 
 Esa noche, en su cuarto, Eluret abrió el cuaderno de tapas de cuero que le regaló Gal en el 1012.
 
 Escribió:
 
-*1084. Tercer Rincón. El de la sed. En el desierto, entre el pozo de Asa y las Tres Palmas. Abierto con los nombres. Cuarenta vivos, de la caravana de la sal del 1083. Ninguna vara.*
+*1084. Tercer Rincón. El de la sed. En el desierto, entre el pozo de Asa y las Tres* *Palmas. Abierto con los nombres. Cuarenta vivos, de la caravana de la sal del 1083.* *Ninguna vara.*
 
 Lo miró.
 
@@ -244,7 +244,7 @@ Luego, debajo, más pequeño:
 
 *Sé dónde está la vara. No la voy a buscar.*
 
-*Gal, perdona. Creo que tú tampoco la habrías buscado, si lo hubieras sabido. Creo. No estoy seguro.*
+*Gal, perdona. Creo que tú tampoco la habrías buscado, si lo hubieras sabido.* *Creo. No estoy seguro.*
 
 *Por eso no te lo digo.*
 

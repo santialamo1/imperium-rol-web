@@ -1,4 +1,4 @@
-## Capítulo 68 · Gregorian
+# Capítulo 68 · Gregorian
 
 *Concordia y fortaleza de Kel-Dun. Año 321, primavera.*
 
@@ -8,7 +8,7 @@ Era una hoja sola, de papel barato, escrita con una letra pequeña, recta, sin u
 
 *A Su Majestad Gregorian Bhargaras, emperador de los pueblos jurados.*
 
-*Majestad: el decimoctavo nombre de la cuarta fila del campo de detrás de la muralla de Kel-Dun está mal escrito. Pone «Osem Tarik». Era Osem Tarec, con ce, hijo de Ruth Tarec, pastor de los pozos del este, de diecinueve años. Lo sé porque su madre vino a buscarlo hace tres veranos y se pasó una tarde entera delante de la tablilla sin estar segura de que fuera él. Un sargento de la guarnición me dijo que vuestra majestad mandó escribir los nombres para que los encontraran. Me ha parecido que querríais saber que uno no se encuentra.*
+*Majestad: el decimoctavo nombre de la cuarta fila del campo de detrás de la* *muralla de Kel-Dun está mal escrito. Pone «Osem Tarik». Era Osem Tarec, con ce, hijo de* *Ruth Tarec, pastor de los pozos del este, de diecinueve años. Lo sé porque su madre vino a* *buscarlo hace tres veranos y se pasó una tarde entera delante de la tablilla sin estar* *segura de que fuera él. Un sargento de la guarnición me dijo que vuestra majestad mandó* *escribir los nombres para que los encontraran. Me ha parecido que querríais saber que* *uno no se encuentra.*
 
 *He hecho cambiar la tablilla a mi costa. Si he obrado mal, os pido perdón.*
 
@@ -20,7 +20,7 @@ Tenía cincuenta y un años. Llevaba veintiuno de emperador. Y llevaba veintiuno
 
 Había mandado poner sus nombres en tablillas para que no se olvidaran. Para que alguien viniera a buscarlos. Y en veintiún años no se le había ocurrido nunca preguntar si alguien había venido.
 
-* * *
+---
 
 El escribiente A. Orvane llegó a Concordia seis semanas después, en una carreta de la Intendencia, con una bolsa de cuero, dos camisas y una caja de libros atada con cuerda.
 
@@ -44,7 +44,7 @@ Orvane pensó la respuesta. Gregorian lo vio pensarla: no buscando la más bonit
 
 —Sí, majestad. —Orvane no parpadeó—. Hay otros seis nombres mal escritos. Los he apuntado. —Sacó del interior de la camisa una hoja doblada—. No los he hecho cambiar porque no tenía dinero para las seis.
 
-Gregorian cogió la hoja. Seis nombres. Seis correcciones. Al lado de cada uno, en la misma letra pequeña y recta, la fuente: su hermano, que vino en el 314. El rol de la guarnición, folio 22. Su viuda, por carta, que conserva el sargento Brenn.
+Gregorian cogió la hoja. Seis nombres. Seis correcciones. Al lado de cada uno, en la misma letra pequeña y recta, la fuente: *su hermano, que vino en el 314. El rol de la* *guarnición, folio 22. Su viuda, por carta, que conserva el sargento Brenn.*
 
 —¿Por qué te importa?
 
@@ -64,7 +64,7 @@ Orvane sonrió. Una sonrisa amable, inteligente.
 
 —Eso sí, majestad.
 
-* * *
+---
 
 Aprendió en un mes lo que al viejo secretario le había costado diez años.
 
@@ -96,7 +96,7 @@ Gregorian se rió. Aremir, que tenía dieciséis años y comía con ellos porque
 
 —Ya lo sé. Por eso te lo dice. Las mentiras buenas son verdades elegidas.
 
-Gregorian los miró. A su hijo mayor, que oía demasiado. A su hija, que oía a los muertos tan bien como él y no les hacía ningún caso. Pensó en su propia madre, muerta hacía años, que le había dado un nombre secreto y le había dicho que no se lo contara a nadie, nunca, ni a su mujer, ni a sus hijos. Los nombres son la única cosa que es solo tuya.
+Gregorian los miró. A su hijo mayor, que oía demasiado. A su hija, que oía a los muertos tan bien como él y no les hacía ningún caso. Pensó en su propia madre, muerta hacía años, que le había dado un nombre secreto y le había dicho que no se lo contara a nadie, nunca, ni a su mujer, ni a sus hijos. *Los nombres son la única cosa que es solo tuya.*
 
 —Orvane no sabe mi nombre —dijo, sin saber por qué lo decía.
 
@@ -106,7 +106,7 @@ Sus dos hijos lo miraron.
 
 —Eso.
 
-* * *
+---
 
 Volvieron juntos a Kel-Dun aquel otoño, el emperador y su secretario, para la inauguración del puente nuevo.
 
@@ -120,7 +120,7 @@ Las tablillas estaban limpias. Alguien las limpiaba. Las cuarenta de la cuarta f
 
 *Osem Tarec.*
 
-—Su madre volvió este verano —dijo Orvane, a su lado, en voz baja—. Me escribió el sargento Brenn. Dijo que se sentó delante de la tablilla toda la tarde y que no lloró. Que al irse dijo una cosa en la lengua de la arena que el sargento no entendió. La apuntó como pudo. —Sacó una hoja—. Creo que dice: ya sé dónde estás.
+—Su madre volvió este verano —dijo Orvane, a su lado, en voz baja—. Me escribió el sargento Brenn. Dijo que se sentó delante de la tablilla toda la tarde y que no lloró. Que al irse dijo una cosa en la lengua de la arena que el sargento no entendió. La apuntó como pudo. —Sacó una hoja—. Creo que dice: *ya sé dónde estás*.
 
 Gregorian no contestó. No podía.
 
@@ -142,7 +142,7 @@ Algo cambió en los ojos de Orvane. Fue un instante, menos de un instante. Como 
 
 —Me lo imagino, majestad —dijo, con su sonrisa amable—. Me lo imagino.
 
-* * *
+---
 
 Esa noche, en la fortaleza, Gregorian no podía dormir.
 
@@ -180,7 +180,7 @@ Orvane se quedó muy quieto. Luego cerró el rol con cuidado, como quien cierra 
 
 —Todas las palabras sirven para las dos cosas. —Gregorian se levantó—. Vete a dormir, Orvane. Mañana inauguramos un puente.
 
-* * *
+---
 
 Gregorian Bhargaras murió diez años después, en el trescientos treinta y uno, en su cama de la planta doce, de una fiebre de invierno. Orvane estuvo a su lado hasta el final. Le leyó, en las últimas semanas, cuando ya no veía bien, los informes del Consejo, las cartas de los gobernadores, un libro de Ismena Vell sobre los ritos de los Custodios que el emperador le pidió y que luego mandó devolver a su sitio, en la biblioteca, sin dejar que nadie lo abriera.
 

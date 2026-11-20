@@ -1,6 +1,6 @@
-## Capítulo 56 · Corwin
+# Capítulo 56 · Corwin
 
-*El Bosque Muerto, al norte de Wonder, en Rhagnark. Otoño del año 838 de la Nueva Era (231 D.bA).*
+*El Bosque Muerto, al norte de Wonder, en Rhagnark. Otoño del año 838 de la* *Nueva Era (231 D.bA).*
 
 El zorro blanco valía lo que Corwin ganaba en un mes, y por eso lo siguió al sitio donde no se entraba.
 
@@ -12,7 +12,7 @@ Pero el zorro blanco valía lo que ganaba en un mes. Y Hanna tosía. Y el médic
 
 Así que, cuando el zorro, con la pata delantera sangrando de la trampa que había mordido para soltarse, se metió entre los árboles grises, Corwin se metió detrás.
 
-* * *
+---
 
 Dentro no olía.
 
@@ -26,7 +26,7 @@ El rastro del zorro era fácil. Gotas rojas en la ceniza gris. Se veían desde l
 
 Las siguió.
 
-* * *
+---
 
 Tardó mucho. Más de lo que pensaba. El bosque muerto era más grande por dentro que por fuera, o eso le pareció. Los árboles caídos se cruzaban, y había que pasar por encima, por debajo. Las ramas secas se rompían sin ruido. Todo sin ruido. Sus pasos no sonaban. Su respiración no sonaba. Se dio cuenta, al cabo de un rato, de que estaba conteniéndola, como si alguien pudiera oírlo.
 
@@ -38,7 +38,7 @@ Luego las gotas se acabaron.
 
 En el borde de un claro.
 
-* * *
+---
 
 El claro era redondo. Los árboles muertos caídos hacia fuera, todos, como los pétalos de una flor abierta. En el suelo, ceniza. Mucha. Más fina que en el resto del bosque. Casi polvo.
 
@@ -54,7 +54,7 @@ No mucho. Un poco. Subiendo y bajando. Despacio.
 
 Y al pie de la raíz, echado en la ceniza, con la pata delantera sangrando, el zorro blanco. Mirando la espada. Quieto. Con los ojos amarillos muy abiertos.
 
-* * *
+---
 
 Corwin no se movió.
 
@@ -76,7 +76,7 @@ Porque había visto la cara del zorro. Al levantarse. Al temblar.
 
 Era la cara de alguien que ha visto algo que no quería ver.
 
-* * *
+---
 
 Se acercó a la espada.
 
@@ -90,7 +90,7 @@ Corwin miró la hoja.
 
 Como se mira un espejo. Sin querer. Porque es lo que hace uno cuando tiene delante una cosa que brilla.
 
-* * *
+---
 
 En la hoja estaba el bosque. Gris. Los árboles. El cielo.
 
@@ -120,7 +120,7 @@ Y Corwin entrando en el agua negra. Sin ruido. Como entran las cosas en el bosqu
 
 Y no saliendo.
 
-* * *
+---
 
 Corwin cayó de rodillas en la ceniza.
 
@@ -132,7 +132,7 @@ En la hoja, el bosque. Gris. Normal.
 
 Nada más.
 
-* * *
+---
 
 Salió del bosque muerto de noche. No se acordaba de cómo. Siguió sus propias huellas en la ceniza, hacia atrás, a la luz de una luna que no se veía desde dentro pero que se notaba. Salió al bosque rojo. Olió la resina. Olió la pimienta. Lloró.
 
@@ -152,11 +152,11 @@ Corwin se sentó en la cama. A su lado. Le cogió la mano.
 
 No se lo contó. No esa noche.
 
-* * *
+---
 
 Se lo contó al almirante.
 
-No sabía por qué al almirante. Sabía que el almirante había entrado una vez. Que había salido mirando arriba. Que lo contaban los viejos de El Guiso, los nietos de los que lo habían visto.
+No sabía por qué al almirante. Sabía que el almirante había entrado una vez. Que había salido mirando arriba. Que lo contaban los viejos de *El Guiso*, los nietos de los que lo habían visto.
 
 El almirante estaba en Wonder ese otoño. Por casualidad. Entre un viaje al norte y otro. Corwin fue al puerto. Esperó todo el día en el muelle. Al atardecer, el almirante bajó del barco.
 
@@ -170,9 +170,9 @@ Lo miró. A la cara. No al hombro.
 
 —Ven —dijo.
 
-* * *
+---
 
-Se sentaron en El Guiso. En la mesa del fondo, la de los que no quieren que los oigan. El tataranieto de Grum les sirvió guiso sin preguntar. El caldo de siempre. El que no se había vaciado desde el 721.
+Se sentaron en *El Guiso*. En la mesa del fondo, la de los que no quieren que los oigan. El tataranieto de Grum les sirvió guiso sin preguntar. El caldo de siempre. El que no se había vaciado desde el 721.
 
 Corwin se lo contó.
 
@@ -190,7 +190,7 @@ Cuando Corwin terminó, el almirante se quedó callado mucho rato.
 
 —Para lo que quieras.
 
-* * *
+---
 
 Corwin miró el guiso.
 
@@ -214,7 +214,7 @@ El almirante lo miró.
 
 —Eso solo lo sabrás en el lago —dijo.
 
-* * *
+---
 
 Corwin no fue al lago ese invierno.
 
@@ -224,7 +224,7 @@ Ese invierno no se ahogó nadie en el lago Largo.
 
 Corwin respiró.
 
-* * *
+---
 
 El invierno siguiente, tampoco fue.
 
@@ -236,7 +236,7 @@ Cuatro inviernos sin ir al lago. Los vecinos dejaron de preguntarle. Hanna no le
 
 Corwin le dijo que lo sabía.
 
-* * *
+---
 
 El quinto invierno, el del 843, Corwin tenía cincuenta y un años y el pelo más gris. Un poco.
 
@@ -262,7 +262,7 @@ El cielo de enero. Blanco. Sin nada.
 
 Y echó a correr.
 
-* * *
+---
 
 En el bosque muerto, a dos leguas al norte, en el centro del claro, la espada clavada en la raíz blanca brilló un poco más. Un momento. Como un pecho que respira hondo.
 
@@ -270,18 +270,18 @@ Luego volvió a brillar como siempre.
 
 No había nadie mirándola. Nadie vio lo que había en la hoja.
 
-* * *
+---
 
 Sein Vell, en la colina, recibió la noticia en la primavera del 843. En una carta del almirante. Corta.
 
 La apuntó en la columna del debe. En el libro cuadragésimo cuarto.
 
-*Año 843. Corwin, trampero de Wonder. Vio en la espada del bosque muerto su muerte, en el 838. Esperó cinco años. Fue igual. El niño se llamaba Pol, tenía siete años, y vive.*
+*Año 843. Corwin, trampero de Wonder. Vio en la espada del bosque muerto su* *muerte, en el 838. Esperó cinco años. Fue igual. El niño se llamaba Pol, tenía siete años, y* *vive.*
 
 *Debe la colina: cinco inviernos a un hombre que pudo no ir.*
 
-*Al pergamino: la espada no enseña lo que va a pasar. Enseña lo que pasará si uno es como es. No es lo mismo. Que conste.*
+*Al pergamino: la espada no enseña lo que va a pasar. Enseña lo que pasará si uno* *es como es. No es lo mismo. Que conste.*
 
 Y en el sótano de la biblioteca, Verawel, con la letra que subía, escribió una línea nueva al lado de la de la espada. La de 729.
 
-*Ha enseñado otra vez. Esta vez, cinco inviernos antes. Cuesta un trampero que fue a pesar de todo.*
+*Ha enseñado otra vez. Esta vez, cinco inviernos antes. Cuesta un trampero que fue* *a pesar de todo.*

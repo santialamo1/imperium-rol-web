@@ -1,8 +1,8 @@
-## Capítulo 57 · Ysh-Neva
+# Capítulo 57 · Ysh-Neva
 
 *Concordia, Torre de la Unión. Año 249, verano.*
 
-Yaakov murió a la hora en que los criados retiraban los platos de pescado, y Ysh-Neva lo oyó morir antes de verlo caer.
+Yaakov murió a la hora en que los criados retiraban los platos de pescado, y Ysh- Neva lo oyó morir antes de verlo caer.
 
 Lo oyó como se oye romperse una cuerda de laúd en la habitación de al lado: un chasquido seco, en algún lugar detrás del esternón, donde las viejas de los pozos decían que vivía el oído. Levantó la vista de su plato. Al otro extremo de la mesa larga, bajo los estandartes de los tres pueblos, el emperador de los pueblos jurados se estaba riendo de algo que le había dicho el joven Maximus Heredicus, sentado a su derecha. Tenía la copa en la mano. Tenía la cabeza echada hacia atrás. Tenía treinta y siete años y canas en las sienes y las cicatrices del sol de las Sombras en el dorso de las manos.
 
@@ -18,11 +18,11 @@ Yaakov estaba en el suelo, con la cabeza en el regazo de Ysh-Talia, con los labi
 
 *Neva. ¿Qué ha pasado? Hace frío.*
 
-* * *
+---
 
 Lo llevaron a sus aposentos de la planta once. No sirvió de nada. Los físicos le abrieron la boca, le hicieron beber leche, le metieron los dedos en la garganta, le pusieron sanguijuelas en el cuello. Ysh-Neva los miraba hacer desde la puerta. Sabía que no servía de nada. Lo había sabido desde el chasquido.
 
-Ysh-Talia no se apartó de la cama. Tenía treinta y cuatro años, las trenzas deshechas, el vestido de banquete manchado de vino. Sujetaba la mano de su marido con las dos suyas y le hablaba en la lengua de la arena, sin parar, en voz baja, cosas que Ysh-Neva no quiso escuchar porque no eran para ella.
+Ysh-Talia no se apartó de la cama. Tenía treinta y cuatro años, las trenzas deshechas, el vestido de banquete manchado de vino. Sujetaba la mano de su marido con las dos suyas y le hablaba en la lengua de la arena, sin parar, en voz baja, cosas que Ysh- Neva no quiso escuchar porque no eran para ella.
 
 Yared, de quince años, estaba en un rincón, de pie, muy recto, mirando el cuerpo de su padre con los ojos secos. Ysh-Neva le puso una mano en el hombro. El muchacho no se movió.
 
@@ -54,9 +54,9 @@ Ysh-Neva cerró los ojos.
 
 —Está aquí —dijo.
 
-* * *
+---
 
-En los pozos del desierto se cuenta que uno de cada tres oye a los muertos. Que el oído baja por la sangre de las madres como el agua baja por las grietas de la roca, sin que nadie sepa por qué se salta a unos y se queda en otros. Ysh-Neva lo tenía. Su madre lo había tenido. Su hija, no. Su nieto, de quince años, no había dado todavía señales, y Ysh-Neva no sabía si rezar para que las diera o para que no.
+En los pozos del desierto se cuenta que uno de cada tres oye a los muertos. Que el oído baja por la sangre de las madres como el agua baja por las grietas de la roca, sin que nadie sepa por qué se salta a unos y se queda en otros. Ysh-Neva lo tenía. Su madre lo había tenido. Su hija, no. Su nieto, de quince años, no había dado todavía señales, y Ysh- Neva no sabía si rezar para que las diera o para que no.
 
 Tener el oído no era un don. Era una puerta que no se podía cerrar. Por ella entraban los muertos que nadie retenía, los que se habían quedado atascados entre una cosa y otra, los que no sabían que estaban muertos o no querían saberlo. Te hablaban. Te pedían cosas. Y tú tenías que decidir, cada vez, qué hacer con ellos.
 
@@ -88,17 +88,17 @@ Ysh-Neva cerró los ojos. Y preguntó.
 
 Silencio. Largo. Luego, débil, confuso:
 
-*Vino. El vino de Pisor. Brindamos. Por los quince años. Ella levantó su copa y yo levanté la mía y... Maximus contó algo de un caballo. Me reí. ¿Por qué me reía? No me acuerdo de qué era tan gracioso.*
+*Vino. El vino de Pisor. Brindamos. Por los quince años. Ella levantó su copa y yo* *levanté la mía y... Maximus contó algo de un caballo. Me reí. ¿Por qué me reía? No me* *acuerdo de qué era tan gracioso.*
 
 —¿Quién te sirvió?
 
-El copero. El de siempre. Pero ella pidió el mismo vino. Dijo que quería brindar con el mismo vino que el emperador. Que era un honor. Se acercó. Las copas estaban juntas en la mesa. Muy juntas. —Una pausa—. Neva. ¿Me he muerto?
+*El copero. El de siempre. Pero ella pidió el mismo vino. Dijo que quería brindar* *con el mismo vino que el emperador. Que era un honor. Se acercó. Las copas estaban* *juntas en la mesa. Muy juntas.* —Una pausa—. *Neva. ¿Me he muerto?*
 
 Ysh-Neva abrió los ojos.
 
 —Sí, hijo. Te has muerto.
 
-Ah. —Otra pausa, más larga—. ¿Y Talia? ¿Y el chico?
+*Ah.* —Otra pausa, más larga—. *¿Y Talia? ¿Y el chico?*
 
 —Aquí están.
 
@@ -156,7 +156,7 @@ Ysh-Talia temblaba.
 
 —No. No lo es. Nunca lo es. —Ysh-Neva le besó la frente—. Pero no voy a convertir a tu marido en un perro del Padre de la Bruma para que sea suficiente.
 
-* * *
+---
 
 Lo soltó al amanecer.
 
@@ -176,9 +176,9 @@ Ysh-Neva miró a Yared. El muchacho la miraba a ella con unos ojos que no supo l
 
 —El chico es fuerte —dijo—. Como su padre.
 
-Bien. —Una pausa, muy larga—. Ya no tengo tanto frío.
+*Bien.* —Una pausa, muy larga—. *Ya no tengo tanto frío.*
 
-Ysh-Neva dijo su nombre. El de la calle, primero: Yaakov. Y luego el otro, el que solo sabían ella y su hija, el que le habían dado las Madres libres el día de la boda, en la tienda grande, en la lengua de la arena: Ha-Eloun, el que mira hacia arriba.
+Ysh-Neva dijo su nombre. El de la calle, primero: Yaakov. Y luego el otro, el que solo sabían ella y su hija, el que le habían dado las Madres libres el día de la boda, en la tienda grande, en la lengua de la arena: *Ha-Eloun*, el que mira hacia arriba.
 
 Algo se fue. Ysh-Neva lo sintió irse como se siente una brisa que sale por una ventana. Hacia arriba.
 
@@ -192,7 +192,7 @@ No supo cuál de las dos había aprendido Yared.
 
 Lo supo el desierto, cincuenta años después, la noche en que el hijo del Vencedor de las Sombras abrió con sus propias manos la puerta de Kel-Dun.
 
-* * *
+---
 
 Ysh-Talia habló ante el Consejo al día siguiente. Dijo que fue veneno. Dijo que fue Octavia Heredicus. No dijo nada de los muertos, porque su madre se lo había pedido.
 
@@ -200,7 +200,7 @@ No la creyeron. Los físicos dijeron que fue el agua.
 
 Yaakov no había nombrado heredero. Iba a hacerlo, decían, cuando el chico cumpliera dieciocho; no quería cargar a un niño medio eufesio con una corona que media corte le negaba. Así que, como a la muerte de Braco, se aplicó el decreto de Hector Tiberius, y se abrió la plaza.
 
-Se inscribió un solo nombre. Maximus Heredicus, de veinticuatro años, que había sido la mano derecha de Yaakov durante cinco, que no sabía sostener una espada y que esperó tres días de pie en el centro de la plaza, desde el alba hasta el ocaso, a que alguien bajara a disputársela. Nadie bajó. Los Varga no bajaban nunca. Los demás tenían miedo, o pena, o ninguna gana de un trono que olía a veneno. Al tercer atardecer, el Consejo declaró que solo quedaba uno en pie.
+Se inscribió un solo nombre. Maximus Heredicus, de veinticuatro años, que había sido la mano derecha de Yaakov durante cinco, que no sabía sostener una espada con la derecha y que esperó tres días de pie en el centro de la plaza, desde el alba hasta el ocaso, a que alguien bajara a disputársela. Nadie bajó. Los Varga no bajaban nunca. Los demás tenían miedo, o pena, o ninguna gana de un trono que olía a veneno. Al tercer atardecer, el Consejo declaró que solo quedaba uno en pie.
 
 Cuando le preguntaron si aceptaba, Maximus tardó tanto en contestar que algunos pensaron que iba a decir que no.
 

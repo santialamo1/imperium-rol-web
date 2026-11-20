@@ -1,16 +1,16 @@
-## Capítulo 21 · Baervan
+# Capítulo 21 · Baervan
 
-*Las patrullas del sur, entre Nix y el desierto, y la colina. Del verano del año 1104 a la primavera del 1105 de la Nueva Era (497–498 D.bA).*
+*Las patrullas del sur, entre Nix y el desierto, y la colina. Del verano del año 1104 a* *la primavera del 1105 de la Nueva Era (497–498 D.bA).*
 
 Baervan se dio cuenta de lo que significaba no envejecer el día que vio envejecer a Jory.
 
-No antes. Antes, durante treinta y ocho años, no envejecer había sido una cosa que le pasaba. Como tener los ojos castaños. Como ser gnomo. Una rareza que se notaba en el espejo y que se explicaba sola: el Emperador me dio su vida. Ya está. Lo sabía todo el mundo. Lo decían en el cuartel, riéndose, y él se reía con ellos. El gnomo del Comandante no envejece. Ya ves tú. Con lo feo que es, para qué.
+No antes. Antes, durante treinta y ocho años, no envejecer había sido una cosa que le pasaba. Como tener los ojos castaños. Como ser gnomo. Una rareza que se notaba en el espejo y que se explicaba sola: *el Emperador me dio su vida*. Ya está. Lo sabía todo el mundo. Lo decían en el cuartel, riéndose, y él se reía con ellos. *El gnomo del Comandante* *no envejece. Ya ves tú. Con lo feo que es, para qué.*
 
 Nunca se había preguntado por qué seguía funcionando.
 
 Hasta Jory.
 
-* * *
+---
 
 Jory era gnomo también. De las islas, de los de la Paciencia, los que hacían barcos que zumbaban. Había llegado a la Armada en el 1098, con dieciséis años y un sombrero de fieltro verde que le venía grande, y lo habían puesto en la patrulla del sur, en la de Baervan, porque en el cuartel decían que los gnomos se entendían entre ellos. No era verdad. Pero Baervan y Jory se entendieron.
 
@@ -38,11 +38,11 @@ Baervan se quedó callado un momento.
 
 —Eso se nota —dijo.
 
-* * *
+---
 
 La patrulla del sur era lo que había quedado del mandato dudoso.
 
-Eluret la había puesto en el 1068, contra once votos a ocho, y treinta y seis años después seguía allí, porque nadie se atrevía a quitarla. Dos mil hombres entre Nix y el desierto. Seis compañías. Baervan mandaba la cuarta, la de las caravanas de la sal, la que iba y venía por el camino del este hasta los pozos y volvía, una y otra vez, cada estación, como un péndulo.
+Eluret la había puesto en el 1068, contra once votos a ocho, y treinta y seis años después seguía allí, porque nadie se atrevía a quitarla. Dos mil hombres entre Nix y el desierto. Seis compañías. Baervan mandaba la cuarta, la de las caravanas de la sal, la que embarcaba en el puerto de Nix con las caravanas de la sal, cruzaba el estrecho en las barcazas de la Armada hasta la costa oeste del desierto, al lado de Rinkel, y desde allí las llevaba por tierra hasta los pozos, y volvía, una y otra vez, cada estación, como un péndulo.
 
 No pasaba casi nada. Eso era lo bueno. Las caravanas llegaban. Los orcos del desierto, los de las tribus que no eran de Orac, veían las banderas azules y se apartaban. Los barcos negros pasaban a lo lejos, por la costa, sin acercarse. Nadie decía que la patrulla servía de algo. Pero desde el 1068 se habían perdido treinta y una caravanas, y desde que Eluret abrió el Rincón de la sed y sacó a los cuarenta, ninguna.
 
@@ -50,7 +50,39 @@ Baervan pensaba a veces que la patrulla no servía para lo que se decía. Que no
 
 Lo pensaba y se reía, porque era una idea de viejo, y él no era viejo.
 
-* * *
+---
+
+Lo que sí pasaba lo apuntaba Jory.
+
+Llevaba un cuaderno de tapas de hule, el de la cuarta, el que nadie de la cuarta había querido llevar nunca porque había que escribir, y lo llevaba con una letra de gnomo, pequeña y apretada, con fecha y sitio, como si alguien lo fuera a leer. Baervan se lo hojeó una noche, en los pozos, con la lámpara, y se quedó leyendo hasta tarde.
+
+*Primavera. Colinas de Nix, el paso del oeste. Bandidos: nueve. Dos con la cara* *tapada con trapo negro. Enmascarados, los llaman en Nix; dicen que son hijos de buena* *familia que roban por aburrimiento. Se fueron al ver las banderas. Uno se dejó la* *máscara.*
+
+*Colinas de Nix. Cabras de las colinas en las peñas, cientos, las pardas de cuerno* *corto. Más arriba, en los riscos, cabras monteses, de cuerno largo, que no se dejan ver dos* *veces. Una serpiente de montaña mordió a la mula del sargento. La mula vivió. El* *sargento dice que de pura mala leche.*
+
+*Verano. Los prados del camino de Ullathorpe. Sertlacs en la hierba alta: la* *serpiente parda, la larga, la de vara y media, que se come los ratones de las eras y que los* *labradores no matan, porque dicen que da suerte que se te cruce un sertlac por delante del* *arado. A mí se me cruzó uno por delante de la bota. No sé qué suerte da eso.*
+
+*Una ardilla me robó la galleta. Un erizo se metió en la bota del cabo Rovel. Las* *hormigas se comieron el azúcar. Un lince nos miró toda la noche desde una peña, sin* *moverse, con las orejas de pincel.*
+
+*El bosque viejo de Nix, linde sur. Lobos sombríos, de los grandes, de los de pelo* *negro hasta el hocico, que cazan en silencio y no aúllan. Seis. Nos siguieron dos noches.* *La tercera, no. El cabo Rovel dice que en ese bosque hay un hombre lobo, uno de los de* *Nix que se fue al monte hace veinte años, y que por eso los lobos sombríos no entran más* *allá del arroyo. El cabo Rovel dice muchas cosas.*
+
+*Otoño. Una aldea de la costa, a dos jornadas de Nix. Nos llamaron por una bruja.* *Era una vieja que vendía hierbas y a la que se le había muerto una vaca al vecino. No era* *bruja. El sargento le compró unas hierbas para la tripa. Funcionaron.*
+
+*En la misma aldea, otra: una conjuradora, de verdad, de las que llaman a las* *cosas con humo y con sal. Esa no se dejó ver. Se fue antes de que llegáramos. En el suelo* *de su casa había un círculo hecho con ceniza, y en el centro una aparición, una mujer de* *humo blanco que no hablaba y que se deshizo cuando el cabo abrió la ventana. Nadie* *quiso dormir en la aldea.*
+
+*Invierno. Las cuevas del barranco seco, al este de las colinas. Arañas de la cueva,* *blancas, ciegas, del tamaño de un puño, por cientos, en el techo. En la cueva del fondo,* *una araña gigante, como un ternero, que había hecho tela de una pared a otra. La* *quemamos. Olía a pelo. Ratas gigantes en la cueva de al lado, de las que muerden las* *botas. Y goblins: cuatro, pequeños, verdes, con orejas de murciélago, que vivían de robar* *a las caravanas y que nos tiraron piedras y luego se rindieron y luego nos volvieron a* *tirar piedras.*
+
+*Primavera otra vez. El otro lado del estrecho. El borde del desierto, los pozos del* *este de Rinkel. Ogros: un ogro cazador, que seguía a la caravana a una distancia de tiro* *de honda, para comerse a los que se quedaran atrás; y detrás, al día siguiente, tres ogros* *guerreros, con mazas de tronco, y un ogro líder, más viejo, con un collar de dientes, que* *habló con el sargento en una lengua que el sargento no entendía y que al final aceptó un* *barril de sal y se fue. El sargento dice que ha sido la mejor negociación de su vida.*
+
+*Orcos del desierto. Los de las tribus, no los de Orac. Una partida: doce orcos* *guerreros, con el cuero curtido al sol, dos lanceras orcas a caballo, flacas, con las lanzas* *largas de caña, y un orco brujo viejo con el pelo trenzado con huesos de pájaro, y delante* *de todos el jefe orco de la tribu, con un hacha de dos manos y la cara pintada de ocre, que* *se puso a cantar delante de las banderas azules y que no nos hizo nada. Nos miraron. Los* *miramos. Se apartaron, como siempre.*
+
+*Lo mejor del año: un oso pardo en el paso del oeste, sentado en mitad del camino,* *comiéndose un panal. No se movió. Esperamos media mañana. La caravana llegó tarde.* *Nadie se quejó.*
+
+Baervan cerró el cuaderno.
+
+Pensó que Jory lo escribía para alguien que todavía no había nacido. Y que a lo mejor era verdad.
+
+---
 
 La mujer de Nix llegó a la colina en la primavera del 1104.
 
@@ -68,11 +100,11 @@ El consejero Marren —que era primo segundo de Ludo y que llevaba treinta años
 
 La misma que la otra vez.
 
-* * *
+---
 
 Baervan se enteró en el desierto. Por una carta de Eluret. Tres líneas.
 
-*Quieren repetirlo. Con la de Nix. Buscan voluntario. No lo encontrarán en la Armada; lo he prohibido. Lo buscarán fuera.*
+*Quieren repetirlo. Con la de Nix. Buscan voluntario. No lo encontrarán en la* *Armada; lo he prohibido. Lo buscarán fuera.*
 
 Lo buscaron dentro.
 
@@ -86,7 +118,7 @@ Y Jory estaba sentado en una silla, en el centro, con el sombrero verde en las r
 
 Con la boca roja.
 
-* * *
+---
 
 —¿Qué has hecho? —dijo Baervan.
 
@@ -106,7 +138,7 @@ Jory lo miró. Tenía la cara contenta. Como de fiesta.
 
 Baervan se calló.
 
-Porque no lo sabía. Porque no podía decirlo. Porque si decía ella no es de la sangre, alguien le iba a preguntar ¿y tú cómo lo sabes?, y él no tenía respuesta. Solo tenía una cara de treinta y un años en un cuerpo de sesenta y nueve, y un Emperador muerto que le había puesto la mano en la boca, y la sensación de que eso, lo suyo, era otra cosa. Distinta. De verdad.
+Porque no lo sabía. Porque no podía decirlo. Porque si decía *ella no es de la sangre*, alguien le iba a preguntar *¿y tú cómo lo sabes?*, y él no tenía respuesta. Solo tenía una cara de treinta y un años en un cuerpo de sesenta y nueve, y un Emperador muerto que le había puesto la mano en la boca, y la sensación de que eso, lo suyo, era otra cosa. Distinta. De verdad.
 
 Pero no sabía por qué.
 
@@ -118,13 +150,13 @@ Marren estaba muy tranquilo. Con las manos juntas. Con cara de hombre razonable.
 
 Baervan pensó, sin saber por qué, que esa cara la había visto antes. No en Marren. En otro. En alguien que se sentaba en el rincón de una posada y pagaba la segunda ronda.
 
-* * *
+---
 
 Jory empezó a envejecer en la primavera del 1105.
 
 Baervan lo vio. Lo vio todos los días, porque no se separó de él. Pidió el traslado de la cuarta compañía a la guardia de la colina, para quedarse. Eluret se lo dio sin preguntar.
 
-Al principio era poco. Una cana en la barba. Una arruga al lado del ojo. Jory se reía. Ya ves. Será el sol del desierto. Luego fue más. Le dolían las rodillas. Se cansaba en las escaleras. Al tercer mes, tenía la cara de cuarenta. Al sexto, la de sesenta.
+Al principio era poco. Una cana en la barba. Una arruga al lado del ojo. Jory se reía. *Ya ves. Será el sol del desierto.* Luego fue más. Le dolían las rodillas. Se cansaba en las escaleras. Al tercer mes, tenía la cara de cuarenta. Al sexto, la de sesenta.
 
 Al séptimo dejó de reírse.
 
@@ -136,7 +168,7 @@ Lisas. De treinta y un años.
 
 Y pensaba.
 
-* * *
+---
 
 Lo pensó así. En orden. Como le había enseñado Eluret a pensar las patrullas: primero lo que se sabe, luego lo que no.
 
@@ -146,7 +178,7 @@ Lo que se sabe: si la sangre no es de verdad, la ofrenda no prende. Te mata. Des
 
 Lo que se sabe: Astragal murió en el 1067 sin hijos. Sin hijas. Sin nietos. Era el último. Lo decían los Vell. Lo decía el Consejo. Lo decía el trono vacío.
 
-Lo que se sabe: Baervan, en el 1105, treinta y ocho años después, tenía la cara de treinta y uno.
+Lo que se sabe: Baervan, en el 1105, treinta y nueve años después, tenía la cara de treinta y uno.
 
 Y lo que no se sabe.
 
@@ -160,7 +192,7 @@ Entonces la cadena no se había acabado.
 
 Entonces, en algún sitio, había alguien.
 
-* * *
+---
 
 Bajó al sótano de la biblioteca al alba.
 
@@ -184,7 +216,7 @@ Sein dejó la pluma. Despacio. En el tintero.
 
 Baervan se quedó parado. Había esperado otra cosa. Que Sein dijera que no sabía. Que Sein le explicara que la ofrenda era rara, que a veces duraba más, que había excepciones. Había esperado tener que pelear.
 
-Sein dijo sí, y se quedó mirándolo, con los ojos cansados, de mil años, detrás de las gafas.
+Sein dijo *sí*, y se quedó mirándolo, con los ojos cansados, de mil años, detrás de las gafas.
 
 —¿Quién?
 
@@ -208,21 +240,21 @@ Sein se quitó las gafas. Se frotó los ojos.
 
 —No. —Sein lo miró—. Les cuesta a ellos. Por eso lo apunto.
 
-Y abrió el libro. Y le enseñó la tercera columna. Donde, debajo de Brand Hask, 1071, con la letra pequeña y clara de siempre, había una línea nueva, escrita esa misma noche, con la tinta todavía fresca:
+Y abrió el libro. Y le enseñó la tercera columna. Donde, debajo de *Brand Hask,* *1071*, con la letra pequeña y clara de siempre, había una línea nueva, escrita esa misma noche, con la tinta todavía fresca:
 
 *Jory, de las islas. 1105. Gnomo. Veintitrés años. Lo sabía yo y no lo dije.*
 
-* * *
+---
 
 Baervan subió del sótano con el sol.
 
-Se sentó en las escaleras de la biblioteca. Las de mármol. Las de la frase del dintel, Para que quepan todos. Se quedó allí mucho rato.
+Se sentó en las escaleras de la biblioteca. Las de mármol. Las de la frase del dintel, *Para que quepan todos*. Se quedó allí mucho rato.
 
 Pensó en decirlo.
 
-Era lo suyo. Decir lo que nadie decía. Lo había hecho toda la vida. En el comedor del cuartel. En el Consejo. Delante de tres generales. Delante de un Emperador moribundo. Era lo único que sabía hacer de verdad: abrir la boca cuando todos la cerraban. Gal le había dado la vida para eso. Para que alguien siga diciendo lo que nadie dice.
+Era lo suyo. Decir lo que nadie decía. Lo había hecho toda la vida. En el comedor del cuartel. En el Consejo. Delante de tres generales. Delante de un Emperador moribundo. Era lo único que sabía hacer de verdad: abrir la boca cuando todos la cerraban. Gal le había dado la vida para eso. *Para que alguien siga diciendo lo que nadie dice.*
 
-Podía subir al Consejo. Ahora mismo. Ponerse delante del consejero Marren. Decir: hay alguien. Lo sé porque no me hago viejo. Dejad de probar con gnomos. Dejad de matar a chicos que se ríen.
+Podía subir al Consejo. Ahora mismo. Ponerse delante del consejero Marren. Decir: *hay alguien. Lo sé porque no me hago viejo. Dejad de probar con gnomos. Dejad de matar* *a chicos que se ríen.*
 
 Y el Consejo dejaría de probar con gnomos.
 
@@ -238,7 +270,7 @@ Se rio hasta que le dolió.
 
 Luego se levantó y subió al cuarto de Jory.
 
-* * *
+---
 
 Jory murió en el invierno del 1107. Con la cara de ciento diez años y veinticinco de vida. Con el sombrero verde en la cabeza, que ya no le venía grande, porque la cabeza de los viejos encoge.
 
@@ -252,9 +284,9 @@ Jory se rio.
 
 Y se murió riéndose. Por si acaso.
 
-* * *
+---
 
-Sabela Orn volvió a Nix con su niño la semana siguiente. Sin nada. Pidió que no se apuntara su nombre en ningún sitio. Los Vell lo apuntaron igual. En la crónica de Mirela de ese año hay una línea: La de Nix ha devuelto el papel. Dice que su tatarabuela mentía. Dice que lo ha sabido siempre.
+Sabela Orn volvió a Nix con su niño la semana siguiente. Sin nada. Pidió que no se apuntara su nombre en ningún sitio. Los Vell lo apuntaron igual. En la crónica de Mirela de ese año hay una línea: *La de Nix ha devuelto el papel. Dice que su tatarabuela mentía.* *Dice que lo ha sabido siempre.*
 
 El consejero Marren siguió en el Consejo. Nadie le pidió cuentas. Había sido una prueba. Las pruebas salen mal.
 

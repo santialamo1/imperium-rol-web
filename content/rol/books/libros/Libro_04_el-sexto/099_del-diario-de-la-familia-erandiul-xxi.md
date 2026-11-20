@@ -1,6 +1,6 @@
-## DEL DIARIO DE LA FAMILIA ÉRANDIUL (XXI)
+# Del Diario de la familia Érandiul (XXI)
 
-*Año 1439, segunda entrada. Copiado tal como está, hasta donde estaba escrito. Con la letra de la mano izquierda. Las faltas son del original.*
+*Año 1439, segunda entrada. Copiado tal como está, hasta donde estaba escrito.* *Con la letra de la mano izquierda. Las faltas son del original.*
 
 Año 1439 (o 832 D.bA). De la Rebelión, el nacimiento de la República.
 

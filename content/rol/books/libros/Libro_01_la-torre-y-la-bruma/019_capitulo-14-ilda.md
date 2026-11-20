@@ -1,4 +1,4 @@
-## Capítulo 14 · Ilda
+# Capítulo 14 · Ilda
 
 *Valle bajo Leogrand. Año 80.*
 
@@ -20,7 +20,7 @@ Ilda cogió la brida. Era una mujer de cincuenta años, ancha, morena, de manos 
 
 Ilda no se lo creyó entonces y no se lo creía ahora. Pero tampoco hizo preguntas. Tenía leche y no tenía a quién dársela. Y el bebé rubio lloraba de hambre.
 
-* * *
+---
 
 Aurel estaba en el prado de arriba, con las cabras.
 
@@ -54,11 +54,11 @@ La señora se puso muy pálida.
 
 —¿Por qué Bodo?
 
-—Porque tiene cara de Bodo. —Aurel se rió—. Como el herrero de la canción. El de la vaca. ¿No la sabe? La cantan los arrieros que vienen de Concordia. Bodo quería una vaca, una vaca para su mujer...
+—Porque tiene cara de Bodo. —Aurel se rió—. Como el herrero de la canción. El de la vaca. ¿No la sabe? La cantan los arrieros que vienen de Concordia. *Bodo quería una* *vaca, una vaca para su mujer...*
 
 La señora se dio la vuelta. Fue hasta el hombre de la capa gris, junto a la cerca, y se quedó allí, de espaldas, mucho rato. Ilda no vio su cara. Pero vio cómo le temblaban los hombros.
 
-* * *
+---
 
 Los jinetes llegaron al atardecer.
 
@@ -116,7 +116,7 @@ Se quedó de pie en medio de la cocina, con las manos en el delantal, hasta que 
 
 Luego se sentó en el suelo, porque las piernas no la sostenían.
 
-* * *
+---
 
 La señora bajó del pajar cuando ya era noche cerrada.
 
@@ -160,7 +160,7 @@ Y la volvió a bajar sin tocarlo.
 
 Se fue.
 
-* * *
+---
 
 Lord Brannoc de Leogrand no volvió al valle. Apareció tres días después en el fondo del desfiladero, debajo del castillo, con el cuello roto y el caballo muerto a su lado. Dijeron que había bebido. Nadie lo lamentó mucho.
 

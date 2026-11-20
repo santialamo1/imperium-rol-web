@@ -1,10 +1,10 @@
-## Capítulo 8 · Hector
+# Capítulo 8 · Hector
 
 *Meseta de Kerr, frontera de Gijor. Año 59.*
 
 La lanza Otaro entró por la parte de dentro del muslo, justo por encima de la rodilla, donde la falda de malla se abría para dejar sitio a la silla, y Hector Tiberius pensó, con una claridad absurda, que a su madre le iba a hacer muchísima gracia.
 
-—Te dije que eras demasiado viejo para ir delante —le diría Aelia, con la cabeza rapada y aquella media sonrisa de los Ibaro que no llegaba nunca a los ojos—. Te lo dije a los cincuenta y te lo dije a los sesenta. A los sesenta y cinco ya no te lo digo. Te dejo que te des cuenta solo.
+—*Te dije que eras demasiado viejo para ir delante* —le diría Aelia, con la cabeza rapada y aquella media sonrisa de los Ibaro que no llegaba nunca a los ojos—. *Te lo dije a* *los cincuenta y te lo dije a los sesenta. A los sesenta y cinco ya no te lo digo. Te dejo que te* *des cuenta solo.*
 
 Se dio cuenta solo. En el suelo, con el caballo muerto encima de la otra pierna y un muchacho Otaro de dieciséis años intentando sacar la lanza de su muslo para volver a clavársela en otro sitio más útil.
 
@@ -12,11 +12,11 @@ Hector le rompió la nariz con el pomo de la espada. El muchacho cayó hacia atr
 
 Luego todo se volvió rojo durante un rato.
 
-* * *
+---
 
 La meseta de Kerr era el último sitio del mapa.
 
-No el último del mundo; Hector sabía que más allá había otras cosas, montañas y bosques y mares de los que hablaban los mercaderes. Pero el último sitio del mapa que tenían en la sala del Consejo de Concordia, el que había dibujado Lisandro cuarenta años atrás con su letra pequeña y pulcra, el que tenía en la esquina superior izquierda, más allá de las montañas de Gijor, una mancha marrón y una sola palabra: Otaro.
+No el último del mundo; Hector sabía que más allá había otras cosas, montañas y bosques y mares de los que hablaban los mercaderes. Pero el último sitio del mapa que tenían en la sala del Consejo de Concordia, el que había dibujado Lisandro cuarenta años atrás con su letra pequeña y pulcra, el que tenía en la esquina superior izquierda, más allá de las montañas de Gijor, una mancha marrón y una sola palabra: *Otaro*.
 
 Los Otaro eran pastores. Vivían en la meseta, a dos mil varas de altura, donde el aire era tan fino que los caballos de los llanos se ahogaban y el invierno duraba siete meses. Criaban unas cabras de lana larga y unas vacas pequeñas, peludas, de mal carácter. No tenían ciudades. Tenían campamentos de tiendas de fieltro que movían tres veces al año. Y tenían, según los mercaderes de Gijor, los mejores lanceros a caballo del mundo conocido.
 
@@ -28,7 +28,7 @@ Los Otaro eran los últimos. Y su caudillo, Ulm, se había negado a ir a Concord
 
 Hector subió.
 
-* * *
+---
 
 Despertó en una tienda que no era suya, con el muslo vendado, la pierna izquierda entablillada y una fiebre que le hacía ver las costuras del fieltro moverse como gusanos.
 
@@ -62,9 +62,9 @@ Ketta lo pensó. Lo pensó de verdad, con la cabeza un poco ladeada, mirándolo 
 
 —Todavía no lo he decidido —dijo.
 
-* * *
+---
 
-Los jinetes de Hector rodeaban el campamento. Lo supo al tercer día, cuando la fiebre bajó lo suficiente para oír. Cuatro mil hombres acampados en la ladera, con las lanzas apuntando hacia arriba. Sus capitanes habían mandado tres embajadas exigiendo que les devolvieran al emperador. Ketta las había devuelto las tres, con un mensaje cada vez más corto. La tercera decía solo: Está durmiendo.
+Los jinetes de Hector rodeaban el campamento. Lo supo al tercer día, cuando la fiebre bajó lo suficiente para oír. Cuatro mil hombres acampados en la ladera, con las lanzas apuntando hacia arriba. Sus capitanes habían mandado tres embajadas exigiendo que les devolvieran al emperador. Ketta las había devuelto las tres, con un mensaje cada vez más corto. La tercera decía solo: *Está durmiendo.*
 
 —Te van a quemar el campamento —le dijo Hector, el cuarto día—. Mis capitanes no son pacientes.
 
@@ -94,7 +94,7 @@ Se miraron. Fuera, en la meseta, el viento silbaba entre las tiendas de fieltro.
 
 —No —dijo Hector.
 
-* * *
+---
 
 No se lo había dicho nunca a nadie. A nadie en cincuenta y tres años. Ni a su madre, ni a Livia, ni a los capitanes, ni a las amantes. Lo sabían, quizá; lo sospechaban. Él bajaba a la cripta con los caudillos y se quedaba al fondo, junto a los nichos de sus hermanastros, y miraba. Pero nadie le había preguntado nunca directamente.
 
@@ -124,13 +124,13 @@ Ketta lo miró durante mucho tiempo.
 
 —Sí.
 
-—Mi padre tenía razón. —Ketta se levantó—. Es raro que un rey vaya a pie delante de los suyos. Pero es más raro que un rey diga sí cuando le llaman mentiroso.
+—Mi padre tenía razón. —Ketta se levantó—. Es raro que un rey vaya a pie delante de los suyos. Pero es más raro que un rey diga *sí* cuando le llaman mentiroso.
 
 Salió de la tienda.
 
 Hector se quedó solo, con la fiebre y el dolor del muslo y una sensación extraña en el pecho, como si se hubiera quitado una armadura que llevaba puesta desde los seis años.
 
-* * *
+---
 
 Ketta volvió al anochecer, con los ancianos del clan. Siete hombres y cinco mujeres, todos viejos, todos con chalecos de piel de cabra y caras curtidas como cuero. Se sentaron en el suelo de la tienda, alrededor del catre, en silencio.
 
@@ -146,7 +146,7 @@ Ketta volvió al anochecer, con los ancianos del clan. Siete hombres y cinco muj
 
 —¿Cómo funciona?
 
-—Me das la mano. Yo te doy la mía. Decimos lo que prometemos. Y si alguno de los dos miente… —Se encogió de hombros—. Entonces el otro sabrá que es un mentiroso. Y los ancianos también. Y sus hijos. Y los hijos de sus hijos. Durante cien generaciones, en la meseta de Kerr, cuando un niño Otaro pregunte por el emperador del sur, le dirán: Juró de mano a mano y mintió. —Lo miró a los ojos—. Ese es el único castigo. No hay piedra que beba. Solo la vergüenza.
+—Me das la mano. Yo te doy la mía. Decimos lo que prometemos. Y si alguno de los dos miente… —Se encogió de hombros—. Entonces el otro sabrá que es un mentiroso. Y los ancianos también. Y sus hijos. Y los hijos de sus hijos. Durante cien generaciones, en la meseta de Kerr, cuando un niño Otaro pregunte por el emperador del sur, le dirán: *Juró* *de mano a mano y mintió.* —Lo miró a los ojos—. Ese es el único castigo. No hay piedra que beba. Solo la vergüenza.
 
 Hector miró el cuchillo en el suelo. Miró la mano de Ketta, tendida, morena, con callos de lanza.
 
@@ -160,11 +160,11 @@ Hector pensó. Pensó en la piedra, en la cripta, en los cuarenta y tres. Pensó
 
 Ketta le cogió la mano.
 
-* * *
+---
 
 Bajó de la meseta de Kerr una semana después, en una camilla, con la pierna entablillada y una fiebre que tardó dos meses en irse. Sus capitanes no entendieron el tratado. El Consejo, en Concordia, tampoco. Un pueblo anexionado sin juramento sobre la piedra era una cosa que no había pasado nunca, que iba contra todo lo que había construido el Fundador. Los señores Ibaro protestaron. Los Suhon murmuraron. Su madre, que gobernaba la ciudad en su ausencia con la espalda recta y la cabeza rapada, le escribió una carta de tres pliegos explicándole por qué era un error.
 
-Hector le contestó con una línea: Porque me llamaron mentiroso y tenían razón.
+Hector le contestó con una línea: *Porque me llamaron mentiroso y tenían razón.*
 
 Aelia no volvió a mencionarlo. Pero tres años después, en su lecho de muerte, cuando le enseñó el frasco verde, le dijo que, de todo lo que su hijo había escrito en su vida, aquella línea era lo único de lo que estaba orgullosa.
 
@@ -174,7 +174,7 @@ La pierna no se le curó del todo. Tuvo que aprender a montar con una silla espe
 
 Él contestaba siempre con la misma palabra. Nunca faltó un año.
 
-* * *
+---
 
 Cuando murió, en el año setenta y dos, las cabras dejaron de llegar.
 
@@ -182,6 +182,6 @@ Genieveve de Leogrand, que se sentó en el trono después de treinta y dos comba
 
 Nadie subió a buscarlos. Nadie volvió a acordarse de ellos en Concordia durante trescientos años.
 
-Pero en la meseta de Kerr, cuando un niño Otaro pregunta por el emperador del sur, todavía le cuentan la historia del rey que bajó del caballo y fue a pie delante de los suyos, y que cuando una mujer le llamó mentiroso, dijo sí.
+Pero en la meseta de Kerr, cuando un niño Otaro pregunta por el emperador del sur, todavía le cuentan la historia del rey que bajó del caballo y fue a pie delante de los suyos, y que cuando una mujer le llamó mentiroso, dijo *sí*.
 
 Le cuentan que cumplió.

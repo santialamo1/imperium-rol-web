@@ -1,4 +1,4 @@
-## Capítulo 72 · Lindiel
+# Capítulo 72 · Lindiel
 
 *Banderbill y Ullathorpe. Años 374 y 375 de la Nueva Era.*
 
@@ -40,7 +40,7 @@ Cela se calló. Le alisó la casaca. Le puso la mano en el pecho, encima del bol
 
 —Que lo arregles por el camino —dijo.
 
-* * *
+---
 
 Diecisiete años.
 
@@ -56,7 +56,7 @@ Al año siguiente cayó Tawarsinan. Luego se cortó el mar: los barcos de los gn
 
 Y Lindiel aprendió a ser Emperador de una manera que no venía en las Crónicas.
 
-* * *
+---
 
 No había ejército.
 
@@ -76,7 +76,7 @@ Sein Vell tardó en contestar.
 
 —Para que no vayamos nosotros.
 
-* * *
+---
 
 Lindiel salió hacia Ullathorpe con trescientos hombres y un carro de grano.
 
@@ -98,7 +98,7 @@ Lindiel se encogió de hombros.
 
 Halvard lo miró. No dijo nada. Se subió a su caballo.
 
-* * *
+---
 
 Les pidieron grano seis veces por el camino.
 
@@ -132,7 +132,7 @@ Lindiel se agachó. A su altura.
 
 —Uno que escribe —dijo.
 
-* * *
+---
 
 Esa noche, en el campamento, a la luz de un fuego pequeño, sacó el papel del bolsillo de dentro. El poema. Lo leyó. Era malo. Lo sabía. Era sobre Cela cosiendo un botón. Tenía una rima fácil en el tercer verso que le daba vergüenza.
 
@@ -158,7 +158,7 @@ Lindiel se rio. Hacía mucho que no se reía. Le salió raro, oxidado, como una 
 
 —Es de Pisor —dijo Halvard, como si eso lo explicara todo.
 
-* * *
+---
 
 Llegaron a Ullathorpe al séptimo día. Por el camino del norte, el que bajaba entre colinas peladas hacia el bosque de las hojas grandes.
 
@@ -170,7 +170,7 @@ Lindiel las vio desde el camino. Blancas. Contra el cielo gris.
 
 Y luego vio a los orcos.
 
-* * *
+---
 
 No estaban delante. Estaban a los lados. En las colinas peladas. Detrás de unas piedras que no había visto, que nadie había visto, porque no eran piedras; eran escudos. Cubiertos de tierra. Con orcos debajo, tumbados, quietos, desde hacía quién sabía cuántos días.
 
@@ -184,7 +184,7 @@ Lindiel ya lo sabía. Lo había sabido un momento antes. No por los ojos. Por el
 
 —¡El carro! —gritó—. ¡El carro a la puerta! ¡Que llegue el carro!
 
-* * *
+---
 
 El carro llegó.
 
@@ -198,7 +198,7 @@ Con Halvard. Con cuarenta hombres. Con la espada en la mano, que no sabía usar 
 
 Detrás. Cubriendo el carro. El último hombre del camino entre los orcos y la puerta.
 
-Mi padre iba detrás, había dicho un rey enano doscientos años antes, en un libro que Lindiel había leído de niño. Decía que el que va detrás es el que ve si alguien se cae.
+*Mi padre iba detrás*, había dicho un rey enano doscientos años antes, en un libro que Lindiel había leído de niño. *Decía que el que va detrás es el que ve si alguien se cae.*
 
 Lindiel vio caer a Halvard.
 
@@ -206,7 +206,7 @@ Vio caer a once de los cuarenta.
 
 No vio la lanza que le dio a él.
 
-* * *
+---
 
 Se encontró en el suelo. De espaldas. En el camino. Con el cielo gris encima.
 
@@ -232,7 +232,7 @@ El orco se quedó mirando el papel.
 
 Luego lo cogió. Con dos dedos. Como se coge algo que puede morder.
 
-Lo miró. No sabía leer. Lo dio la vuelta. En la parte de atrás estaba la lista de racionamiento: Panadería de Ruald, calle de los toneleros. Un pan por boca, cada dos días.
+Lo miró. No sabía leer. Lo dio la vuelta. En la parte de atrás estaba la lista de racionamiento: *Panadería de Ruald, calle de los toneleros. Un pan por boca, cada dos* *días.*
 
 El orco lo dobló. Se lo metió en el cinto.
 
@@ -240,7 +240,7 @@ Se subió la tira de cuero a los ojos.
 
 Y se fue corriendo hacia la puerta, con los demás.
 
-* * *
+---
 
 Lindiel se quedó mirando el cielo.
 
@@ -254,13 +254,13 @@ Se lo había dado a un orco.
 
 Se rio. Le salió con sangre.
 
-Bueno, pensó. Los poemas malos son para uno.
+*Bueno*, pensó. *Los poemas malos son para uno.*
 
 Y miró hacia arriba. Al cielo gris. Donde, por un agujero entre las nubes, como en un cuento que había leído de niño sobre un rey que se rio, se veía un trozo de azul.
 
 —Cela —dijo.
 
-* * *
+---
 
 Lo encontró una chica pelirroja.
 
@@ -280,7 +280,7 @@ Le buscó en el bolsillo de dentro de la casaca. No sabía qué buscaba. Encontr
 
 Lo apretó en la mano.
 
-* * *
+---
 
 A Lindiel lo enterraron en la cripta bajo la torre de la colina, con un botón en la mano.
 

@@ -1,10 +1,10 @@
-## Capítulo 5 · Tullo
+# Capítulo 5 · Tullo
 
 *Concordia y campamento de Askel. Años 25 y 26.*
 
 A Tullo de las montañas le ofrecieron la muerte de un hombre a cambio de la vida de su madre, y lo peor, lo que no le contó nunca a nadie porque no tuvo tiempo, fue que no tardó ni una noche en decir que sí.
 
-* * *
+---
 
 Su madre se llamaba Brenna y lavaba ropa en el barrio Zelto de Concordia, al pie de la muralla nueva, en una casa de una sola habitación con el techo de paja que se calaba en invierno. Tenía cuarenta años y parecía de sesenta. Tosía. Llevaba dos inviernos tosiendo, una tos seca y honda que le doblaba el cuerpo como una rama, y el físico del barrio, un Zelto viejo que cobraba en gallinas, había dicho que era la tos de los pulmones y que solo se curaba con calor, con comida buena y con unas hojas de los pantanos de Mator que costaban más de lo que Tullo ganaba en un año.
 
@@ -26,7 +26,7 @@ Tullo lo era. Había entrado en el círculo de Varo Heredicus aquel invierno, en
 
 —Lo sé. Por eso.
 
-* * *
+---
 
 Pagaron a Ennis al día siguiente. Tullo lo supo porque el prestamista lo paró en la calle, con su sonrisa, y le dijo que su deuda estaba saldada y que había sido un placer hacer negocios con él, y que si alguna vez necesitaba más, ya sabía dónde encontrarlo. Los hermanos grandes, detrás, no sonrieron. Pero se apartaron para dejarlo pasar.
 
@@ -40,7 +40,7 @@ El hombre del anillo de plata no volvió a aparecer en todo ese tiempo. Tullo em
 
 Volvió en primavera.
 
-* * *
+---
 
 Esta vez no fue a la taberna. Fue a buscarlo a la guarnición, de noche, y se lo llevó a una casa del barrio alto que Tullo no había visto nunca, una casa grande de piedra blanca con un patio interior y una fuente que no sonaba. Lo hizo esperar en una habitación oscura, con una sola vela, delante de una cortina de terciopelo.
 
@@ -80,7 +80,7 @@ Tullo no entendió. No entendería nunca.
 
 —Para que, cuando lo encuentren, miren hacia el sur.
 
-* * *
+---
 
 No dijo que sí aquella noche. Dijo que lo pensaría. El hombre le dijo que tenía hasta la mañana.
 
@@ -106,7 +106,7 @@ Ella sonrió. Una sonrisa desdentada, cansada, sin tos.
 
 Tullo volvió al barrio alto aquella mañana y le dijo al hombre del anillo de plata que sí.
 
-* * *
+---
 
 La batalla de Askel fue como se cuenta en las crónicas. Hector Tiberius se ofreció como cebo con dos mil hombres, los Hinur cayeron sobre él, y Varo Heredicus cerró la tenaza desde las colinas de Mator con el ala izquierda. Tullo mandó a sus arqueros desde una loma. Disparó toda la tarde. Mató, calculó después, a once hombres. Le temblaban las manos tanto que falló el doble.
 
@@ -120,11 +120,11 @@ No recordaría después el camino. Recordaría la lona de la tienda, áspera baj
 
 *Tullo. ¿Qué pasa?*
 
-Y recordaría que en ese instante, con el cuchillo ya en la mano, debajo de la capa, pensó: Todavía puedo darme la vuelta. Todavía puedo decirle que venía a felicitarlo.
+Y recordaría que en ese instante, con el cuchillo ya en la mano, debajo de la capa, pensó: *Todavía puedo darme la vuelta. Todavía puedo decirle que venía a felicitarlo.*
 
 Y que no se dio la vuelta.
 
-* * *
+---
 
 Después corrió. Corrió entre las tiendas, entre las hogueras, entre los soldados borrachos que cantaban, con las manos llenas de sangre escondidas bajo la capa, hasta el borde del campamento, hasta un roble viejo que había en lo alto de una loma, solo, recortado contra las estrellas.
 
@@ -132,13 +132,13 @@ Allí se paró. Se sentó en las raíces. Se miró las manos.
 
 Había dejado el velo. Como le habían dicho. Dentro del arcón, junto a la cabeza de Varo, que contaba algo en voz baja con los ojos abiertos cuando Tullo salió. Tullo no supo qué contaba. No quiso saberlo.
 
-Pensó: mañana vendrán a buscarme. Alguien me habrá visto salir de la tienda. Me interrogarán. Me preguntarán quién me pagó.
+Pensó: *mañana vendrán a buscarme. Alguien me habrá visto salir de la tienda. Me* *interrogarán. Me preguntarán quién me pagó.*
 
 Y él no lo sabía. No sabía el nombre del hombre del anillo de plata. No sabía de quién era la respiración detrás de la cortina. Solo sabía una casa blanca en el barrio alto con una fuente que no sonaba. Y que su madre vivía en una casa pagada por esa gente. Y que, si lo interrogaban, si lo torturaban, si contaba lo poco que sabía, el hombre del anillo de plata se enteraría. Y Brenna dejaría de dormir caliente.
 
 O algo peor.
 
-Nosotros tenemos más, había dicho el hombre.
+*Nosotros tenemos más*, había dicho el hombre.
 
 Tullo se quitó el cinturón. Era de cuero bueno, de los de la guarnición, con hebilla de bronce. Lo probó entre las manos. Aguantaría.
 
@@ -148,7 +148,7 @@ Antes de subir al roble, escribió algo en el polvo con el dedo, a la luz de las
 
 El viento lo borró antes del amanecer.
 
-* * *
+---
 
 Brenna, la lavandera del barrio Zelto, vivió once años más en la casa de piedra de la calle de los Fuelles. Nadie fue nunca a cobrarle nada. Todos los inviernos, sin falta, aparecía en su puerta un paquete envuelto en tela encerada, sin nota, con hojas de los pantanos de Mator.
 

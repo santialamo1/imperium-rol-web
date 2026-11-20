@@ -1,4 +1,4 @@
-## Capítulo 77 · Lanther
+# Capítulo 77 · Lanther
 
 *La muralla de Banderbill. Noche del día más corto del año 417 de la Nueva Era.*
 
@@ -20,7 +20,7 @@ Llevaba cuatrocientos siete años en el mundo.
 
 Y por primera vez en su vida, esa noche, quería contarlos.
 
-* * *
+---
 
 Antes de subir había bajado.
 
@@ -34,19 +34,19 @@ Lanther fue nicho por nicho. Con el farol.
 
 El palote de Casimir. Lo tocó con el dedo. Estaba gastado; lo tocaba ella, y lo tocaba Sein, y lo tocaban los Vell cuando les daban el cuaderno, porque era la costumbre, aunque ninguno sabía de dónde venía.
 
-La raya de Hakon. Una ceja. Se rio, sola, en la cripta. Le seguía haciendo gracia. Cuatrocientos años después.
+La raya de Hakon. *Una ceja.* Se rio, sola, en la cripta. Le seguía haciendo gracia. Cuatrocientos años después.
 
 Ilsa, no. Ilsa estaba en el valle, al lado de su rey de sal. Livia, no. Livia estaba en Concordia, al otro lado del mar, al lado de Genieveve, debajo de una lápida con una letra sin punto. Su madre, no. Su madre estaba en el mar.
 
 Los suyos sí. Los doce. O los once que se habían muerto.
 
-Amael. Con una piedra que tenía grabado un libro abierto, porque lo había pedido él, y que algún gracioso de la biblioteca, siglos después, había pintado con tinta para que se vieran las líneas. Andriath, con una espada y, debajo, en letra pequeña, lo que había mandado poner Tibbet: Se rio. Bhargaras VIII, con una oreja tallada, ladeada, escuchando; eso lo había mandado poner IX, que tenía sentido del humor sin saberlo. IX, con un barco. X, con nada; solo el nombre y los años. Lanther se paró delante de X más rato que delante de los otros.
+Amael. Con una piedra que tenía grabado un libro abierto, porque lo había pedido él, y que algún gracioso de la biblioteca, siglos después, había pintado con tinta para que se vieran las líneas. Andriath, con una espada y, debajo, en letra pequeña, lo que había mandado poner Tibbet: *Se rio.* Bhargaras VIII, con una oreja tallada, ladeada, escuchando; eso lo había mandado poner IX, que tenía sentido del humor sin saberlo. IX, con un barco. X, con nada; solo el nombre y los años. Lanther se paró delante de X más rato que delante de los otros.
 
 —Lo siento —le dijo—. No te quise lo bastante.
 
 X no contestó. Ninguno contestaba. Eso era lo bueno de la cripta.
 
-Niestrel, con una N con el rabo hacia atrás. Eandir II, con un arpa. Lindiel, con un botón; Cela lo había pedido así, un botón de bronce empotrado en la piedra, cosido con un hilo de bronce de otro color.
+Niestrel, con una *N* con el rabo hacia atrás. Eandir II, con un arpa. Lindiel, con un botón; Cela lo había pedido así, un botón de bronce empotrado en la piedra, cosido con un hilo de bronce de otro color.
 
 Y al lado de Lindiel, un nicho nuevo. Con la losa todavía blanca, sin musgo, sin el olor de las otras. Lindiel II. Le habían tallado un saco de grano. Lo había pedido él; Lanther lo sabía porque se lo había oído decir a Aeloen en el entierro, con los ojos secos, como lloran los elfos cuando ya no les quedan lágrimas.
 
@@ -68,7 +68,7 @@ El de siempre.
 
 Y subió los escalones a oscuras, de memoria, contándolos, como Sein.
 
-* * *
+---
 
 Abajo, en la plaza, había fiesta.
 
@@ -84,7 +84,7 @@ Mal. Tocaba mal. Lo había aprendido de su madre, que tampoco tocaba bien. La ge
 
 Lanther lo miró mucho rato.
 
-Doce generaciones, pensó. Doce. Desde mi hijo.
+*Doce generaciones*, pensó. *Doce. Desde mi hijo.*
 
 Lo contó con los dedos. Despacio. Disfrutándolo. Amael. Andriath. Bhargaras VIII. Bhargaras IX. Bhargaras X. Arthal. Eandir. Niestrel. Eandir II. Lindiel. Lindiel II. Arthal II.
 
@@ -92,7 +92,7 @@ Doce.
 
 Se le acabaron los dedos de las manos y tuvo que volver a empezar.
 
-* * *
+---
 
 No los había querido a todos igual. Eso no se lo había dicho nunca a nadie. Ni a Sein.
 
@@ -106,11 +106,11 @@ Le faltaba uno.
 
 Lo miró. En el pilón. Con el arpa.
 
-A este no voy a llegar tarde, pensó.
+*A este no voy a llegar tarde*, pensó.
 
-Y luego pensó: Eso lo pensé con todos.
+Y luego pensó: *Eso lo pensé con todos.*
 
-* * *
+---
 
 —Hueles a contar —dijo una voz a su lado.
 
@@ -132,7 +132,7 @@ Lanther sonrió. Torcido.
 
 —Eso es una excusa.
 
-* * *
+---
 
 Se quedaron un rato callados. Abajo, el muchacho del arpa había terminado una canción y había empezado otra, peor. La gente le tiraba castañas. Él las cogía al vuelo con la mano que no tocaba, y se las comía, y seguía tocando.
 
@@ -158,7 +158,7 @@ Tibbet la miró. Vio el gesto.
 
 Lanther tardó en contestar.
 
-—Me lo dio para cuando me cansara —dijo—. Loth. En la cúpula. Para cuando te canses. Hace trescientos cincuenta y seis años.
+—Me lo dio para cuando me cansara —dijo—. Loth. En la cúpula. *Para cuando te* *canses.* Hace trescientos cincuenta y seis años.
 
 —¿Y?
 
@@ -172,9 +172,9 @@ Tibbet se calló.
 
 Lanther se quedó mirando al muchacho del arpa. Que había dejado de tocar y estaba hablando con una muchacha de pelo castaño que lo miraba como se mira a alguien con las orejas raras que toca mal y que te gusta igual.
 
-—Porque si la abro —dijo—, ya no hay para cuando.
+—Porque si la abro —dijo—, ya no hay *para cuando*.
 
-* * *
+---
 
 Sein subió a medianoche. Con el libro de cuentas. Con las gafas de lejos, para ver las montañas. Contando los escalones en voz alta, como siempre.
 
@@ -196,7 +196,7 @@ Se sentó en la almena de su otro lado. Abrió el libro por la última página. 
 
 —Lo hago igual.
 
-* * *
+---
 
 Leyó. En voz alta. Para los tres. Con el muro cantando desafinado debajo.
 
@@ -216,11 +216,11 @@ Lanther no dijo nada.
 
 —Me las he comido subiendo. —Sein pasó el dedo por la página—. Tibbet Tornasol. Gnomo. Trescientos sesenta y cinco años, igual que Wenna, lo cual no tiene ningún sentido y lo he comprobado tres veces. Vida de Bhargaras VIII. Desde el 146.
 
-»Una línea. Con la letra de Amael. Una vida. La mía. A quien yo sé. Sin nombre. Desde el 107. —Hizo una pausa—. Trescientos diez años sin nombre. Sigue sin nombre.
+»Una línea. Con la letra de Amael. *Una vida. La mía. A quien yo sé.* Sin nombre. Desde el 107. —Hizo una pausa—. Trescientos diez años sin nombre. Sigue sin nombre.
 
-»Un frasco. Bhargaras IX. Para quien haga falta. Desde el 197. En la bolsa de Lanther. Pendiente.
+»Un frasco. Bhargaras IX. *Para quien haga falta.* Desde el 197. En la bolsa de Lanther. Pendiente.
 
-»Una jarra. La séptima. De Loth. Para cuando te canses. Desde el 61. En el cuello de Lanther. Sin abrir.
+»Una jarra. La séptima. De Loth. *Para cuando te canses.* Desde el 61. En el cuello de Lanther. Sin abrir.
 
 Cerró el libro.
 
@@ -230,7 +230,7 @@ Cerró el libro.
 
 Sein la miró.
 
-—En el valle negro —dijo ella—. Al lado de la sexta jarra. Debajo de Bhargaras VII. Contándole cuentos a los niños del Mercado. Esperando a que alguien le diga cómo se llamaba la de la s.
+—En el valle negro —dijo ella—. Al lado de la sexta jarra. Debajo de Bhargaras VII. Contándole cuentos a los niños del Mercado. Esperando a que alguien le diga cómo se llamaba la de la *s*.
 
 —Eso no es una vida.
 
@@ -240,7 +240,7 @@ Sein lo apuntó. En el margen. Con letra pequeña.
 
 *Un hilo. Gris. Espera.*
 
-* * *
+---
 
 Abajo, en la plaza, el muchacho del arpa había dejado el arpa. Había subido a la muchacha de pelo castaño al pilón con él. Bailaban. Mal. Tropezando. Riéndose. La plaza entera se reía con ellos.
 
@@ -260,7 +260,7 @@ Y le sonrió. Torcido. Con una mitad más alta que la otra.
 
 Luego volvió a bailar.
 
-* * *
+---
 
 —Te ha visto —dijo Tibbet.
 

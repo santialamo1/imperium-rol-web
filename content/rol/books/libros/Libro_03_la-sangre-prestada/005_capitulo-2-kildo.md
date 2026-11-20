@@ -1,8 +1,8 @@
-## Capítulo 2 · Kildo
+# Capítulo 2 · Kildo
 
-*El camino del oeste, a tres jornadas de Banderbill. Años 498 a 505 de la Nueva Era.*
+*El camino del sur, a tres jornadas de Banderbill. Años 498 a 505 de la Nueva Era.*
 
-Los enanos no tienen una palabra para jubilarse. Tienen una palabra para dejar el martillo, que es la misma que usan para morirse, y otra para sentarse, que usan para todo lo demás.
+Los enanos no tienen una palabra para *jubilarse*. Tienen una palabra para *dejar el* *martillo*, que es la misma que usan para *morirse*, y otra para *sentarse*, que usan para todo lo demás.
 
 Kildo, hijo de Brun, de la casa de Thrumbar Hondopico, llevaba treinta y un años sentado.
 
@@ -16,7 +16,7 @@ Lo había encontrado al tercer día. Una roca roja. Al lado del camino. Grande c
 
 La conocía. La conocía todo el mundo. Era la roca que zumbaba.
 
-* * *
+---
 
 Había zumbado siempre. Desde que Kildo tenía memoria, y desde antes: su abuelo decía que la había oído zumbar cuando los hombres todavía no tenían camino. Era un zumbido bajo, de abejorro, que se oía si uno ponía la oreja contra la piedra, y que los arrieros creían que era un enjambre que vivía dentro. Los enanos sabían que no. Los enanos sabían que la roca tenía una veta blanca que bajaba hasta muy hondo, hasta donde las vetas blancas se juntan, y que lo que zumbaba era eso. Lo de abajo. Respirando.
 
@@ -36,13 +36,13 @@ Se lo dijo a la Orden. La Orden lo apuntó. Tibbet lo puso en su lista con el n�
 
 Kildo esperó. Era lo que hacía. Sentado.
 
-* * *
+---
 
 En el 497, la roca dejó de tararear.
 
 Y empezó a cantar.
 
-* * *
+---
 
 —Escucha —le dijo a la reina.
 
@@ -70,7 +70,7 @@ Kildo la miró.
 
 —Eso te lo iba a preguntar yo —dijo—. Tú eres la que sabe canciones.
 
-* * *
+---
 
 La reina se quedó con la oreja pegada a la roca hasta que se hizo de noche.
 
@@ -92,7 +92,7 @@ Kildo se rio. Una risa de enano, que parece una tos con piedras dentro.
 
 El de las gafas no se rio.
 
-* * *
+---
 
 A medianoche la reina se levantó. Le crujieron las rodillas. Se acercó al fuego. Se sentó. Tenía las manos frías y la cara todavía blanca.
 
@@ -116,17 +116,17 @@ El de las gafas sacó el libro. Lo abrió por una página en blanco. Mojó la pl
 
 —Alguien que quiere que algo se duerma —dijo la reina al fin—. O que siga dormido. —Se tapó la cara con las manos—. O que se despierte un poco. Las nanas sirven para las tres cosas, Sein. Mi madre me cantaba una y yo no sabía nunca cuál de las tres quería.
 
-* * *
+---
 
 Al alba, antes de irse, la reina le preguntó a Kildo de dónde venía el canto.
 
 Kildo había tenido toda la noche para pensarlo y no le había hecho falta. Lo sabía desde el invierno. Lo había sabido la noche de la helada, en camisa, descalzo, con la oreja en la piedra y la piedra cantando: lo había sabido como saben los enanos de dónde viene una veta, con los pies.
 
-—Del sur —dijo—. Del suroeste. Hay una veta blanca que baja de esta roca hasta muy hondo y luego tuerce. Todas tuercen. Se juntan abajo. Pero esta, hace un año, ha empezado a ir también hacia otro sitio. Hacia el sur. Como una raíz.
+—Del sur —dijo—. Del noreste. Hay una veta blanca que baja de esta roca hasta muy hondo y luego tuerce. Todas tuercen. Se juntan abajo. Pero esta, hace un año, ha empezado a ir también hacia otro sitio. Hacia el sur. Como una raíz.
 
 —¿Una raíz de qué?
 
-—Una raíz no es de nada, majestad. Una raíz va hacia algo. —Kildo escupió en el fuego—. Va hacia el agua. Hacia la tierra buena. Hacia lo que la alimenta. Esta va hacia el suroeste. Hacia las lomas. Hacia el mar.
+—Una raíz no es *de* nada, majestad. Una raíz va *hacia* algo. —Kildo escupió en el fuego—. Va hacia el agua. Hacia la tierra buena. Hacia lo que la alimenta. Esta va hacia el noreste. Hacia las lomas. Hacia el mar.
 
 —¿Hacia las lomas del brezo?
 
@@ -140,7 +140,7 @@ Kildo no conocía la hondonada. Se encogió de hombros.
 
 —No sé —dijo—. Puede. La veta va hacia allí, o viene de allí. Con las raíces nunca se sabe, hasta que se arranca el árbol.
 
-* * *
+---
 
 Se fueron a media mañana. El de las gafas le dejó a Kildo un saco de harina, una botella de aguardiente de Pisor y una tableta de chocolate de Nueva Esperanza, que era lo más caro que Kildo había tenido en la mano en su vida. Kildo se la comió esa misma noche, entera, sentado al lado de la roca, y le dolió la barriga dos días, y no se arrepintió nunca.
 
@@ -160,7 +160,7 @@ Esa noche, por primera vez desde el invierno, la roca se equivocó en una nota.
 
 Kildo se rio en la oscuridad. Con la tos de piedras.
 
-* * *
+---
 
 Pasaron siete años.
 
@@ -172,7 +172,7 @@ Llegaba gente por el camino. Arrieros, soldados de la Armada en patrulla, comerc
 
 Los segundos eran casi todos niños. Y un soldado viejo, una vez, de la Armada, que había estado en Nix con Arthal II, y que después de poner la oreja se arrodilló, y miró hacia arriba, y dijo una palabra en élfico que Kildo no entendió.
 
-Llegaban también, cada vez más, pastores del suroeste. Bajaban de las lomas al camino con carros. Los carros iban cargados de lingotes de hierro rojo tapados con mantas. Iban hacia Banderbill. Volvían cargados de trigo.
+Llegaban también, cada vez más, pastores del noreste. Bajaban de las lomas al camino con carros. Los carros iban cargados de lingotes de hierro rojo tapados con mantas. Iban hacia Banderbill. Volvían cargados de trigo.
 
 Los pastores no se paraban nunca en la roca. Ni a beber del hilo de agua, que era el agua más fresca del camino. Ni a dar los buenos días. Pasaban por el otro lado del camino, todo lo lejos que podían, y los bueyes que tiraban de los carros mugían al pasar, y los pastores sonreían a Kildo.
 
@@ -180,7 +180,7 @@ Sonreían muy bien.
 
 Y no lo miraban a los ojos. Miraban a la roca. Con los ojos muy quietos.
 
-* * *
+---
 
 En el otoño del 504, Tibbet subió a verlo.
 
@@ -210,7 +210,7 @@ Tibbet asintió. Se sentó en el tocón. Abrió la libreta.
 
 —La de las cosas que no han pasado.
 
-—Esa. —Tibbet sacó el papel. Lo desdobló. Tenía siete líneas, de letra pequeña y redonda de gnomo, y luego mucho espacio en blanco—. La roca es la tres. Pero la tres pone solo una roca que tararea. Y la roca ya no tararea.
+—Esa. —Tibbet sacó el papel. Lo desdobló. Tenía siete líneas, de letra pequeña y redonda de gnomo, y luego mucho espacio en blanco—. La roca es la tres. Pero la tres pone solo *una roca que tararea*. Y la roca ya no tararea.
 
 —No.
 
@@ -218,19 +218,19 @@ Tibbet asintió. Se sentó en el tocón. Abrió la libreta.
 
 Kildo lo miró. Mucho rato.
 
-Luego se lo contó todo. El zumbido, desde su abuelo. El tarareo del 329. La nana del invierno del 497. La raíz hacia el suroeste. La piedrita blanca del muro. La nota equivocada que cada año era más pequeña. Los pastores que no paraban. Los ojos quietos.
+Luego se lo contó todo. El zumbido, desde su abuelo. El tarareo del 329. La nana del invierno del 497. La raíz hacia el noreste. La piedrita blanca del muro. La nota equivocada que cada año era más pequeña. Los pastores que no paraban. Los ojos quietos.
 
 Tibbet lo apuntó todo. En la libreta. Con un lápiz de grafito gnomo que no se gastaba nunca.
 
 Luego, en el papel del sombrero, debajo del siete, escribió:
 
-*8. Una roca canta una nana entera. Alguien al otro lado está aprendiendo a taparle la nota que no es suya.*
+*8. Una roca canta una nana entera. Alguien al otro lado está aprendiendo a* *taparle la nota que no es suya.*
 
 Lo leyó en voz alta. Kildo asintió.
 
 —Eso es —dijo.
 
-* * *
+---
 
 Murió en la primavera del 505.
 
@@ -240,7 +240,7 @@ El arriero dijo después que la roca cantaba. Que la oyó desde el camino, sin p
 
 Que había una piedrita blanca en la grieta, y que el agua le pasaba por encima.
 
-* * *
+---
 
 Tibbet llegó cuatro días más tarde. Con el carro amarillo. Con el de las gafas y con la reina, que no había llegado tarde por una vez y que no se lo perdonó.
 
@@ -258,7 +258,7 @@ El enano viejo se quedó mirando el sombrero. Luego miró a Tibbet. Luego retroc
 
 Taparon el agujero con el sombrero puesto.
 
-* * *
+---
 
 Esa noche, la reina se quedó sola al lado de la roca. Con la oreja pegada a la piedra. Hasta el alba.
 

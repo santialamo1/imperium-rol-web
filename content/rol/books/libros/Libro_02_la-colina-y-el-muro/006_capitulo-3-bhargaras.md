@@ -1,4 +1,4 @@
-## Capítulo 3 · Bhargaras
+# Capítulo 3 · Bhargaras
 
 *Banderbill. Primavera del año 27.*
 
@@ -22,7 +22,7 @@ Era lo primero que le enseñaban a cualquier niño de la colina. Antes que a con
 
 Él no tenía.
 
-No tenía nombre de fuera ni nombre de dentro. Tenía el de la casa. Bhargaras. El mismo nombre que su padre, que su abuelo, que su bisabuela, que un hombre que había muerto hacía casi quinientos años y que había sido el primero. Un nombre que compartían todos. Un nombre que no era de nadie.
+No tenía nombre de fuera ni nombre de dentro. Tenía el de la casa. *Bhargaras.* El mismo nombre que su padre, que su abuelo, que su bisabuela, que un hombre que había muerto hacía casi quinientos años y que había sido el primero. Un nombre que compartían todos. Un nombre que no era de nadie.
 
 —Un nombre que es de todos es un nombre del que nadie puede tirar —le había dicho su padre, una vez, cuando él tenía ocho años y le preguntó por qué los otros niños tenían dos nombres y él ninguno—. Si alguien te llama Bhargaras con hambre, no sabrá a cuál de todos está llamando. Tirará de mí, de mi padre, de tu tatarabuela. Tirará de cuatrocientos años de gente. Y no podrá con todos.
 
@@ -32,11 +32,11 @@ Su padre se había quedado callado un rato.
 
 —Entonces también llegará a todos —dijo—. Y eso no está mal.
 
-Lo había entendido mucho tiempo después. O creía haberlo entendido. A veces, de noche, en la torre cuadrada, cuando no podía dormir, se le ocurría que su padre le había quitado algo. Que todos los niños de la colina tenían un sitio secreto donde esconderse y él no. Que su madre, cuando le quería decir algo de verdad, no tenía ningún nombre al que llamarlo. Hijo. Eso era todo. Hijo.
+Lo había entendido mucho tiempo después. O creía haberlo entendido. A veces, de noche, en la torre cuadrada, cuando no podía dormir, se le ocurría que su padre le había quitado algo. Que todos los niños de la colina tenían un sitio secreto donde esconderse y él no. Que su madre, cuando le quería decir algo de verdad, no tenía ningún nombre al que llamarlo. *Hijo.* Eso era todo. *Hijo.*
 
 Luego se le pasaba. Se levantaba. Cogía la espada. Y salía al patio a entrenar.
 
-* * *
+---
 
 Esa mañana entrenó con Hakon Brand.
 
@@ -84,11 +84,11 @@ Puso la mano en la piedra del brocal del pozo, por si acaso. Por si notaba algo.
 
 No notó nada.
 
-* * *
+---
 
 Por la tarde jugó con su hermana.
 
-El tablero de los tres reyes estaba en la habitación de su padre, encima de un arcón, al lado de la ventana que daba al mar. Era de peral, con incrustaciones de hueso, y lo había traído su madre en la Tozuda, envuelto en una manta, aunque ella no jugaba nunca.
+El tablero de los tres reyes estaba en la habitación de su padre, encima de un arcón, al lado de la ventana que daba al mar. Era de peral, con incrustaciones de hueso, y lo había traído su madre en la *Tozuda*, envuelto en una manta, aunque ella no jugaba nunca.
 
 Su padre no había ganado nunca. Era una broma de la familia: Bander Bhargaras, el hombre que había soltado a un ejército de muertos en una escalera, no había ganado una partida a los tres reyes en su vida, ni a su hijo cuando tenía seis años. Perdía con una alegría tan grande que la gente sospechaba que lo hacía a propósito.
 
@@ -194,7 +194,7 @@ Lanther se quedó mirándolo un momento más. Luego bajó los ojos al tablero, m
 
 Jugaron hasta que se hizo de noche. Él perdió cuatro. No dejó ganar a su hermana ninguna vez. Y en ningún momento, en toda la tarde, se volvió hacia la cama.
 
-* * *
+---
 
 Esa noche, en la torre cuadrada, no consiguió dormir.
 

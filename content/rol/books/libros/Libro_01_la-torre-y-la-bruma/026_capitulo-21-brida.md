@@ -1,4 +1,4 @@
-## Capítulo 21 · Brida
+# Capítulo 21 · Brida
 
 *Concordia, plaza del Ombligo y barrio Germa. Año 88, la noche de la quema.*
 
@@ -10,7 +10,7 @@ Era más fácil que explicar que había sido Edmund, que la quería, que nunca a
 
 Nadie se reconocía aquella mañana. Ese era el problema.
 
-* * *
+---
 
 Habían ido a la plaza como iba todo el mundo, porque la noticia había pasado de puerta en puerta por el barrio Germa antes del alba: la emperatriz había matado a la niña del guardia Arenar, el guardia Arenar había matado a la emperatriz, y en los sótanos del palacio había brujos de la niebla y niños sin alma. Edmund había dejado la fragua apagada. Brida había dejado la colada a medio tender. Los vecinos habían salido todos juntos, cruzando el puente viejo del río en un río de gente, hablando a gritos, y Brida recordaría después que en aquel momento no sintió miedo sino una especie de alegría sucia, como cuando de niña se escapaba a ver un ahorcamiento: la emoción de que algo terrible le iba a pasar a otro.
 
@@ -22,7 +22,7 @@ Se volvió. No había nadie. Solo Edmund, mirando la pira con la boca abierta.
 
 Luego sacaron a los niños.
 
-Eran doce. Brida los contó sin querer, porque contaba siempre las cosas —las sábanas, las camisas, las monedas— y porque los doce le parecieron, al principio, muy pocos para tanto escándalo. Doce niños eufesios, morenos, flacos, vestidos con camisones de lino gris, con las manos atadas por delante. El mayor tendría doce años. El más pequeño, cinco o seis. Ninguno lloraba. Eso fue lo que más impresionó a la gente, y lo que la gente usó después para justificarlo: no lloraban, porque no tenían alma. Brida, que había criado a cuatro hijos y enterrado a dos, sabía por qué no lloraban los niños. No lloraban cuando ya habían llorado todo.
+Eran doce. Brida los contó sin querer, porque contaba siempre las cosas —las sábanas, las camisas, las monedas— y porque los doce le parecieron, al principio, muy pocos para tanto escándalo. Doce niños eufesios, morenos, flacos, vestidos con camisones de lino gris, con las manos atadas por delante. El mayor tendría doce años. El más pequeño, cinco o seis. Ninguno lloraba. Eso fue lo que más impresionó a la gente, y lo que la gente usó después para justificarlo: *no lloraban, porque no tenían alma*. Brida, que había criado a cuatro hijos y enterrado a dos, sabía por qué no lloraban los niños. No lloraban cuando ya habían llorado todo.
 
 El sumo sacerdote gritó desde la escalinata que estaban tocados por la niebla. Que había que mirarles las uñas.
 
@@ -36,7 +36,7 @@ Nadie la oyó. Lo dijo más fuerte.
 
 Y entonces Edmund se volvió, con aquella cara que no era la suya, y le cruzó la boca con el dorso de la mano.
 
-* * *
+---
 
 No se cayó. Se quedó de pie, con el labio partido y el sabor de la sangre en la boca, mirando a su marido. Edmund se miró la mano. La gente de alrededor se rió, o rugió, o las dos cosas. Alguien le dijo a Edmund que hacía bien, que a las mujeres había que enseñarles cuándo callar. Edmund no contestó. Siguió mirándose la mano.
 
@@ -52,7 +52,7 @@ Las uñas de la mano que asomaba por encima del hombro del guardia eran grises.
 
 Brida se paró en seco. El guardia la vio. Se miraron.
 
-Fue un instante. Pero Brida vio en la cara del muchacho lo mismo que había sentido ella al gritar: un terror absoluto, ciego, y debajo del terror algo duro como un clavo. Vio que él la había reconocido. Vio que él sabía que ella lo había reconocido a él. Y vio que, si ella abría la boca —si gritaba, si señalaba, si decía ¡ahí va uno!—, la multitud se volvería, y el muchacho y la niña arderían juntos en la segunda pira, y la capa azul no serviría de nada.
+Fue un instante. Pero Brida vio en la cara del muchacho lo mismo que había sentido ella al gritar: un terror absoluto, ciego, y debajo del terror algo duro como un clavo. Vio que él la había reconocido. Vio que él sabía que ella lo había reconocido a él. Y vio que, si ella abría la boca —si gritaba, si señalaba, si decía *¡ahí va uno!*—, la multitud se volvería, y el muchacho y la niña arderían juntos en la segunda pira, y la capa azul no serviría de nada.
 
 La niña cantaba. Muy bajito. Contra el cuello del guardia.
 
@@ -66,7 +66,7 @@ No se volvió a mirar. Pero oyó cantar a los niños. Durante mucho rato. Doce v
 
 Y luego, nada.
 
-* * *
+---
 
 Volvió a la plaza aquella noche, sola, cuando ya no quedaba nadie.
 
@@ -82,7 +82,7 @@ Cuando terminó, uno de los centinelas se había vuelto y la estaba mirando. Era
 
 No dijo nada. Ella tampoco. Al cabo de un momento, el muchacho volvió a darle la espalda y bebió del odre.
 
-* * *
+---
 
 Los enterró en el cementerio Germa, al otro lado del río, debajo de un sauce joven, en el rincón del fondo donde enterraban a los que no tenían familia.
 
@@ -96,7 +96,7 @@ Brida tardó en contestar.
 
 —Conté mal —dijo.
 
-* * *
+---
 
 Nueve años después, en la primavera del noventa y siete, el hijo de la herrera viuda de la calle de los Fuelles se casó en la capilla del barrio Germa con una muchacha a la que nadie conocía.
 
@@ -112,7 +112,7 @@ Y sonrió. Muy poco. Solo con una comisura.
 
 Teodor, a su lado, también la miró. Y le hizo una inclinación de cabeza, muy leve, como un guardia a una señora. Fue lo único que le dijo nunca.
 
-* * *
+---
 
 Brida murió en el ciento doce, a los setenta y un años, en su cama del barrio Germa. La enterraron en el cementerio, cerca del rincón del fondo. Ninguno de sus hijos sabía lo que había debajo del sauce, que para entonces era ya un árbol grande, de ramas largas que tocaban la hierba.
 

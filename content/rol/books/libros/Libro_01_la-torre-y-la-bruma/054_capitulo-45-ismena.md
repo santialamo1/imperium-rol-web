@@ -1,4 +1,4 @@
-## Capítulo 45 · Ismena
+# Capítulo 45 · Ismena
 
 *Concordia. Año 197, la noche de Ummat.*
 
@@ -10,15 +10,15 @@ El tratado no contestó. Ismena le dio la vuelta a la página con un suspiro.
 
 Era tarde. La Gran Biblioteca estaba vacía; los copistas se habían ido al anochecer, los estudiantes de la Academia de los Custodios hacía horas, y solo quedaba ella, en la sala de lectura del ala este, con una lámpara de aceite y una manta sobre las rodillas, como cada noche desde que su marido murió. Le gustaba la biblioteca de noche. Le gustaba el olor a pergamino y a cera, el crujido de las estanterías de roble, el silencio. Le gustaba, sobre todo, que nadie le pidiera que fuera otra cosa que lo que era: una mujer que leía.
 
-Su madre había sido emperatriz. Su abuela, Mira, que de niña hablaba con una muerta debajo de un sauce. Su bisabuela, una niña eufesia salvada de una pira, la mujer que había detenido al monstruo de la niebla con dieciséis años de vida. Ismena era la que leía. Lo había decidido a los quince años, junto a la cama de su madre moribunda, cuando Helen le preguntó si quería el trono y ella dijo que no llorando, y Helen dijo bien. Nunca se había arrepentido.
+Su madre había sido emperatriz. Su abuela, Mira, que de niña hablaba con una muerta debajo de un sauce. Su bisabuela, una niña eufesia salvada de una pira, la mujer que había detenido al monstruo de la niebla con dieciséis años de vida. Ismena era la que leía. Lo había decidido a los quince años, junto a la cama de su madre moribunda, cuando Helen le preguntó si quería el trono y ella dijo que no llorando, y Helen dijo *bien*. Nunca se había arrepentido.
 
 Pero oía a los muertos. Como todos los de su sangre. Y aquella noche, a medianoche, los muertos de Concordia empezaron a gritar.
 
-* * *
+---
 
 No fue de golpe. Primero fue un murmullo más fuerte que el de siempre, como cuando en un mercado empieza a correr un rumor. Ismena levantó la vista del tratado. Escuchó.
 
-Los muertos de la cripta de la torre, los emperadores y sus familias, que normalmente murmuraban como viejos en un banco, hablaban todos a la vez. Los muertos de los cementerios de los tres pueblos, que llamaban a sus esposas y a sus hijos, habían dejado de llamarlos. Y debajo de todos ellos, desde muy lejos, desde el noroeste, a doscientas leguas, una voz cantaba.
+Los muertos de la cripta de la torre, los emperadores y sus familias, que normalmente murmuraban como viejos en un banco, hablaban todos a la vez. Los muertos de los cementerios de los tres pueblos, que llamaban a sus esposas y a sus hijos, habían dejado de llamarlos. Y debajo de todos ellos, desde muy lejos, desde el noreste, a doscientas leguas, una voz cantaba.
 
 Nombres. Uno tras otro. Despacio. Como quien cuenta monedas.
 
@@ -26,7 +26,7 @@ Y los muertos de Concordia, al oír sus nombres, se removían.
 
 Ismena se levantó. La manta cayó al suelo. Le temblaban las manos.
 
-No puede, pensó. Está a doscientas leguas. Braco está en el desierto con veinte mil hombres. No puede tirar desde tan lejos.
+*No puede*, pensó. *Está a doscientas leguas. Braco está en el desierto con veinte mil* *hombres. No puede tirar desde tan lejos.*
 
 Pero los muertos se removían.
 
@@ -44,7 +44,7 @@ Pell abrió en camisón. Tenía la cara gris.
 
 —No lo sé. —Pell la miró—. Nadie lo sabe. Nunca lo ha intentado.
 
-* * *
+---
 
 Fueron al osario del templo viejo del barrio Zelto. Ismena, el viejo Pell y los once novicios mayores de la Academia, el más joven de doce años y la mayor de quince, a los que Pell despertó a gritos y que siguieron a los dos viejos por las calles dormidas de Concordia en camisón, descalzos, con faroles, sin entender nada.
 
@@ -70,7 +70,7 @@ Pell Aaro la miró desde el otro lado de la puerta, con los ojos muy abiertos.
 
 —En los papeles de mi bisabuela. —Ismena cerró los ojos—. Ella escribió que su hijo soltaba a los muertos y que su hermano tiraba de ellos, y que la diferencia no estaba en el nombre. Estaba en para qué lo decías.
 
-* * *
+---
 
 Lo hicieron toda la noche.
 
@@ -78,7 +78,7 @@ Trece voces, sentadas en el suelo frío delante de una puerta de hierro, diciend
 
 Detrás de la puerta, los arañazos se fueron apagando. Uno a uno. Los hilos blancos se colaban por las rendijas del hierro y subían por la escalera del templo, hacia arriba, hacia el cielo nocturno, y se perdían en dirección a la torre, donde la Llama Concorde ardía, aquella noche, un poco más brillante que de costumbre.
 
-Hacia la madrugada, la voz del noroeste, la que cantaba nombres, se interrumpió de golpe. Y luego gritó.
+Hacia la madrugada, la voz del noreste, la que cantaba nombres, se interrumpió de golpe. Y luego gritó.
 
 Ismena lo oyó como lo oyó todo Concordia con el oído: un aullido inmenso, lejano, de dolor. No supo entonces lo que significaba. Lo supo veinte días después, cuando Braco Arenar volvió del desierto a marchas forzadas y le contó lo de la jarra de Ummat.
 
@@ -94,9 +94,9 @@ Ismena le sirvió vino. No le contó lo del osario. Se lo había pedido Pell Aar
 
 El viejo la miró durante mucho tiempo. Luego, por primera vez en treinta y dos años, Ismena vio a Braco Arenar, el Gran Estratega, llorar.
 
-* * *
+---
 
-Ismena Vell murió en el año doscientos once, a los sesenta y un años, en la sala de lectura de la Gran Biblioteca, con un libro abierto sobre las rodillas. Dejó escrito un tratado, el único que escribió en su vida, de nueve páginas, que la Academia de los Custodios copiaría y enseñaría a sus novicios durante doscientos años con el título de Sobre la diferencia entre llamar y tirar.
+Ismena Vell murió en el año doscientos once, a los sesenta y un años, en la sala de lectura de la Gran Biblioteca, con un libro abierto sobre las rodillas. Dejó escrito un tratado, el único que escribió en su vida, de nueve páginas, que la Academia de los Custodios copiaría y enseñaría a sus novicios durante doscientos años con el título de *Sobre la diferencia entre llamar y tirar*.
 
 La primera línea decía:
 
@@ -104,6 +104,6 @@ La primera línea decía:
 
 La última, añadida con otra tinta, años después, decía:
 
-*Que nadie le cuente al emperador lo del osario. No por miedo a que cierre la Academia. Por miedo a que deje de dudar. Un hombre que duda de si hizo bien es un hombre que no volverá a quemar un oasis a la ligera.*
+*Que nadie le cuente al emperador lo del osario. No por miedo a que cierre la* *Academia. Por miedo a que deje de dudar. Un hombre que duda de si hizo bien es un* *hombre que no volverá a quemar un oasis a la ligera.*
 
 Lexandra Tiberius leería esas nueve páginas a los dieciocho años, recién llegada a la Guardia. Y no las olvidaría nunca.

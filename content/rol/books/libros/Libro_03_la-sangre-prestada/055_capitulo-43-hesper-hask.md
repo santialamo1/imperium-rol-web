@@ -1,4 +1,4 @@
-## Capítulo 43 · Hesper Hask
+# Capítulo 43 · Hesper Hask
 
 *Wonder y el bosque del norte. Verano del año 729 de la Nueva Era (122 D.bA).*
 
@@ -12,7 +12,7 @@ Sin pensar.
 
 Los Hask no pensaban mucho, decía su abuela. Miraban el hombro del que tenían delante. Y luego, a veces, miraban arriba.
 
-* * *
+---
 
 No todos los orcos fueron a los barcos.
 
@@ -28,7 +28,7 @@ Edran Vos lo maldijo. En voz alta. Con todas las palabras que sabía.
 
 Luego bajó también. Y lo siguió. Con otros diez.
 
-* * *
+---
 
 El bosque estaba a media legua. Corrieron por la hierba alta, por las colinas bajas. Los orcos iban delante, a cien pasos. Pesados. Cansados. Con heridas. Pero corrían.
 
@@ -38,7 +38,7 @@ Hesper entró detrás.
 
 Y se paró.
 
-* * *
+---
 
 El bosque de los árboles rojos era como se lo habían contado: enorme, alto, oliendo a resina y a pimienta, con los troncos tan anchos que hacían falta seis hombres para rodearlos y el suelo cubierto de agujas rojas que crujían. Lo había visto muchas veces. Había ido a cortar troncos con los carpinteros. Le gustaba.
 
@@ -52,7 +52,7 @@ Eso fue lo que más miedo le dio. Un bosque que no olía.
 
 Los orcos se habían metido ahí. En lo gris.
 
-* * *
+---
 
 —No —dijo Edran Vos. Detrás de él. Jadeando—. No, Hask. Ahí no.
 
@@ -68,7 +68,7 @@ Y otra cosa.
 
 Algo que no era un ruido. Que se notaba en los pies. En la tierra. Como un latido.
 
-* * *
+---
 
 Hesper entró.
 
@@ -82,7 +82,7 @@ Siguieron el rastro de los orcos. Fácil. La ceniza guardaba las huellas.
 
 Las huellas iban hacia el centro. Donde el latido era más fuerte.
 
-* * *
+---
 
 Los encontraron en un claro.
 
@@ -100,7 +100,7 @@ Alrededor de la raíz, los orcos.
 
 Cuarenta. Sentados. De rodillas. Algunos tumbados. Con las hachas en el suelo. Mirando la raíz. Con la cara de los que tienen hambre y han encontrado comida.
 
-* * *
+---
 
 Uno se levantó al ver a los hombres.
 
@@ -114,7 +114,7 @@ Los veinte detrás. Edran Vos al lado.
 
 —Sí, capitán.
 
-* * *
+---
 
 Fue rápido. Y feo.
 
@@ -134,7 +134,7 @@ Hacia la raíz.
 
 Y el orco, en vez de bajar el hacha, la soltó. Y le dio un empujón.
 
-* * *
+---
 
 Edran Vos tropezó con la raíz.
 
@@ -160,7 +160,7 @@ Edran Vos se cayó al lado de la raíz. Soltó la espada.
 
 No se movió más.
 
-* * *
+---
 
 Hesper mató al orco grande.
 
@@ -174,7 +174,7 @@ Luego el orco estaba en el suelo y Hesper tenía la espada roja.
 
 Los otros orcos se fueron. Corriendo. Hacia el norte. Hacia dentro del bosque gris. No los siguió nadie.
 
-* * *
+---
 
 Hesper se arrodilló al lado de Edran Vos.
 
@@ -192,7 +192,7 @@ No supo por qué. Algo le dijo que no. Algo en el pecho. Algo que le había ense
 
 Apartó la mano.
 
-* * *
+---
 
 —Teniente.
 
@@ -220,9 +220,9 @@ Hesper sí miró atrás. Una vez. Desde el borde del claro.
 
 La espada estaba allí. Sola. En el centro. Brillando. Con los árboles muertos alrededor, caídos hacia fuera, como si se hubieran apartado para dejarle sitio.
 
-* * *
+---
 
-En Wonder, el Emperador escuchó la historia en la tienda de El Guiso.
+En Wonder, el Emperador escuchó la historia en la tienda de *El Guiso*.
 
 No estaba solo. Estaba la pelirroja. Estaba el elfo viejo del sombrero gris, con la tablilla de cera. Estaba la alcaldesa, con los ojos rojos de haber enterrado a su hijo esa mañana.
 
@@ -236,7 +236,7 @@ Luego la pelirroja se levantó.
 
 Hesper levantó la vista.
 
-—No, no, así no —dijo—. Mirando la hoja. Como si viera algo.
+—*No, no, así no* —dijo—. Mirando la hoja. Como si viera algo.
 
 La pelirroja se quedó quieta.
 
@@ -246,7 +246,7 @@ La pelirroja tardó en contestar.
 
 —Su muerte —dijo—. Creo. Un segundo antes de que pasara. —Se cruzó de brazos —. Lo que toca el latido mucho tiempo se dobla. Se pone raro con el tiempo. La séptima jarra guarda años de atrás. Esto… —Miró al norte—. Esto a lo mejor ve los de delante.
 
-* * *
+---
 
 El Emperador quiso ir a por la espada. La pelirroja le dijo que no.
 
@@ -260,7 +260,7 @@ El elfo viejo asintió. Escribió algo en la tablilla de cera. Con la izquierda.
 
 Hesper lo vio. No sabía leer élfico. Pero vio que eran pocas palabras.
 
-* * *
+---
 
 Esa noche, Hesper Hask subió a la torre norte de la empalizada.
 
@@ -278,11 +278,11 @@ Por Edran Vos, que lo había seguido. Por un niño de doce años en la empalizad
 
 Y por una espada, sola, en el centro de un bosque muerto, que había visto algo un segundo antes de que pasara.
 
-* * *
+---
 
 En el pergamino de los Fragmentos, un año después, Verawel escribió una línea nueva. Con la letra que subía. Despacio. Le costó; la noticia le había llegado en una carta de Érandiul, escrita con la izquierda, y había tenido que leerla tres veces.
 
-*Una espada de hierro de la colina, de un capitán que se llamaba Edran Vos. Está clavada en una raíz blanca, en el centro de un bosque que se muere, al norte de Wonder. Vio la muerte de su dueño un segundo antes. Se cree que ve lo que va a pasar. Nadie la ha tocado después.*
+*Una espada de hierro de la colina, de un capitán que se llamaba Edran Vos. Está* *clavada en una raíz blanca, en el centro de un bosque que se muere, al norte de Wonder.* *Vio la muerte de su dueño un segundo antes. Se cree que ve lo que va a pasar. Nadie la ha* *tocado después.*
 
 *Cuesta un capitán que siguió a un muchacho enfadado.*
 

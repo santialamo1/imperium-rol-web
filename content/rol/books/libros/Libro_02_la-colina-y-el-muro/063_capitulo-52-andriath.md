@@ -1,6 +1,6 @@
-## Capítulo 52 · Andriath
+# Capítulo 52 · Andriath
 
-*El último campamento orco, al sur del bosque de las hojas grandes. Verano del año 145 de la Nueva Era.*
+*El último campamento orco, al sur del bosque de las hojas grandes. Verano del* *año 145 de la Nueva Era.*
 
 *Del libro de cuentas de Sein Vell, año 145. No apunto nada. Que conste que no*
 
@@ -14,7 +14,7 @@ Andriath no hacía nada de eso.
 
 Andriath iba delante.
 
-* * *
+---
 
 —Señor —le dijo Orm, la víspera de la última batalla—. Con todo respeto. Tenéis sesenta y siete años.
 
@@ -36,7 +36,7 @@ Orm suspiró. Lo habían hablado mil veces. Todos los capitanes. Todos los elfos
 
 —Pues ya está.
 
-* * *
+---
 
 El último campamento estaba en un valle hundido, al sur, entre dos montañas rojas, donde el bosque de las hojas grandes se terminaba y empezaba la tierra de los orcos. Era grande. Más grande que la colina. Una ciudad de cuero y de huesos, de tiendas, de estacas con calaveras, de hogueras que no se apagaban nunca. Y en el centro, un círculo de piedras rojas, alto como dos hombres, que los gnomos decían que zumbaba.
 
@@ -60,7 +60,7 @@ Aerith se tocó la cicatriz de la cara.
 
 —Porque mira hacia arriba —dijo—. A veces. Cuando cree que nadie lo ve. Mira hacia arriba como si buscara una palabra.
 
-* * *
+---
 
 Atacaron al amanecer. Por los cuatro lados.
 
@@ -72,7 +72,7 @@ Luego los de la colina.
 
 Andriath, el primero.
 
-* * *
+---
 
 No recordaría mucho. Los que sobreviven a las batallas no recuerdan mucho; lo había leído en las Crónicas de Livia, que decía que Lanther, después de la Noche del Dolor, solo recordaba el olor. A Andriath le pasó lo mismo. El olor. A cuero quemado. A sangre. A tierra roja mojada.
 
@@ -84,7 +84,7 @@ Llegó al círculo de piedras rojas.
 
 Y allí estaba el gris.
 
-* * *
+---
 
 Estaba de pie en el centro del círculo. Solo. Con un hacha grande, de doble filo, en las dos manos. Los orcos de alrededor habían caído o habían huido; el zumbido de los gnomos los había vuelto locos y se habían ido corriendo hacia el oeste, hacia las montañas, tapándose los oídos. El gris no. El gris se había quedado. En el círculo. Con la espalda sangrando.
 
@@ -112,7 +112,7 @@ Pero vio que el orco, al decirla, no lo miraba a él. Miraba hacia arriba. Hacia
 
 Y luego levantó el hacha.
 
-* * *
+---
 
 Fue rápido.
 
@@ -126,7 +126,7 @@ Y entonces se acordó de su abuela.
 
 No de la reina. De la chica pelirroja que había entrado en la biblioteca el día que se murió su padre, con las botas llenas de barro, diciendo que había reventado dos caballos. Que lo había llevado al Mercado. Que le había enseñado a dar.
 
-Nombrar hacia arriba, le había dicho. Con amor. Así se suelta.
+*Nombrar hacia arriba*, le había dicho. *Con amor. Así se suelta.*
 
 Andriath levantó la cara.
 
@@ -138,7 +138,7 @@ Era su mujer. Llevaba muerta nueve años.
 
 Y el tirón de las piedras se cortó. En seco. Como una cuerda.
 
-* * *
+---
 
 El orco lo estaba mirando.
 
@@ -162,7 +162,7 @@ Lo último que oyó fue un ruido detrás de él. Una carcajada. Pequeña. Aguda.
 
 Que era de alguien que acababa de averiguar algo.
 
-* * *
+---
 
 Lo encontraron al anochecer. Tibbet lo encontró. Había bajado de la colina de los cristales cuando el zumbido se acabó, cuando los orcos ya se habían ido todos hacia el oeste, y había ido derecho al círculo de piedras rojas, porque olía a algo, y no era a despedida. Era a otra cosa.
 
@@ -182,13 +182,13 @@ Tibbet se puso a llorar. Era la primera vez en su vida. Los gnomos no lloraban e
 
 Se quedó allí hasta que llegaron los demás.
 
-* * *
+---
 
 Bhargaras VIII se enteró en la colina, una semana después, por un jinete. Estaba en la biblioteca. Tenía en la mano el reloj sin números que le había hecho Tibbet, el oledor, y lo tenía abierto, y la aguja llevaba una semana sin temblar, quieta, apuntándole a él solo.
 
 Lo cerró.
 
-Cogió el aro de hierro de su padre, que le había dejado en la mesa del Consejo antes de irse, por si acaso, y se lo puso. Le estaba grande.
+Cogió el aro de hierro de su padre, que le había dejado en la mesa del Consejo antes de irse, *por si acaso*, y se lo puso. Le estaba grande.
 
 Bajó a la plaza. Subió al pilón. Era lo que se hacía.
 
@@ -200,7 +200,7 @@ La plaza no dijo nada.
 
 Murmullos. Alguien silbó.
 
-—No voy a ir el primero —repitió—. Porque he leído todas las Crónicas. Todas. Y en todas, el emperador va el primero, y se muere el primero, y luego hay otro, y otro. Y la colina sigue. Y está bien. Pero yo voy a ir con vosotros. Ni delante ni detrás. Al lado.
+—No voy a ir el primero —repitió—. Porque he leído todas las Crónicas. Todas. Y en todas, el emperador va el primero, y se muere el primero, y luego hay otro, y otro. Y la colina sigue. Y está bien. Pero yo voy a ir *con vosotros*. Ni delante ni detrás. Al lado.
 
 Silencio.
 
@@ -212,9 +212,9 @@ Era Sein. Con las gafas nuevas. Con el cuaderno.
 
 Y la plaza se rió. Sin querer.
 
-* * *
+---
 
-El fuerte quemado lo reconstruyeron ese otoño. Piedra, esta vez. Y lo llamaron Ullathorpe, que en la lengua de los elfos del sur quería decir el sitio donde se cayó el árbol joven, por un árbol que había en el patio, con un tajo de hacha en el tronco, que no se murió. Que siguió creciendo. Torcido.
+El fuerte quemado lo reconstruyeron ese otoño. Piedra, esta vez. Y lo llamaron Ullathorpe, que en la lengua de los elfos del sur quería decir *el sitio donde se cayó el árbol* *joven*, por un árbol que había en el patio, con un tajo de hacha en el tronco, que no se murió. Que siguió creciendo. Torcido.
 
 Y a las islas de los gnomos las llamaron Nueva Esperanza.
 

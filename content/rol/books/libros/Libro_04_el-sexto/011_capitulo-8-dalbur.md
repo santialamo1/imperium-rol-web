@@ -1,6 +1,6 @@
-## Capítulo 8 · Dalbur
+# Capítulo 8 · Dalbur
 
-*La forja de Tiama, en las montañas blancas de Annkör. Del invierno del año 1029 a la primavera del 1030 de la Nueva Era (422–423 D.bA).*
+*La forja de Tiama, en las montañas blancas de Annkör. Del invierno del año 1029* *a la primavera del 1030 de la Nueva Era (422–423 D.bA).*
 
 El hierro de la veta no quería ser escudo. Quería ser espada.
 
@@ -12,17 +12,17 @@ Dalbur escupió en el suelo.
 
 —No —le dijo al hierro—. Eso no.
 
-* * *
+---
 
-Tenía la vida de Bhargaras XI desde el 817. Doscientos doce años con la cara de ciento cuarenta, que en un enano es la cara de un hombre en lo mejor de la vida: la barba hasta el cinturón, gris oscuro, trenzada en tres los días de fiesta; las cejas como dos tejados; las manos como dos yunques pequeños. No había vuelto al sur desde el 856, cuando el Emperador que le dio la vida se murió en Orac con casi toda su flota, y él se quedó en Tiama porque alguien tenía que quedarse, y luego se quedó porque ya era suyo.
+Tenía la vida de Bhargaras XI desde el 817. Doscientos doce años con la cara de ciento cuarenta, que en un enano es la cara de un hombre en lo mejor de la vida: la barba hasta el cinturón, gris oscuro, trenzada en tres los días de fiesta; las cejas como dos tejados; las manos como dos yunques pequeños. No había vuelto al sur desde el 856, cuando el Emperador que le dio la vida se murió en la Isla Siniestra con casi toda su flota, y él se quedó en Tiama porque alguien tenía que quedarse, y luego se quedó porque ya era suyo.
 
-Tiama era suya. No tenía título. No lo quería. Los del sur le llamaban gobernador y él contestaba a las cartas firmando Dalbur, herrero. Seis mil almas en la ciudad de hielo apisonado, en la ladera de la montaña más alta de las montañas blancas, con gólems de piedra en las puertas y yetis en los establos y una forja en el centro de todo, excavada en la roca, con una chimenea que subía hasta la cumbre por dentro de la montaña y que en invierno echaba humo como un volcán.
+Tiama era suya. No tenía título. No lo quería. Los del sur le llamaban gobernador y él contestaba a las cartas firmando *Dalbur, herrero*. Seis mil almas en la ciudad de hielo apisonado, en la ladera de la montaña más alta de las montañas blancas, con gólems de piedra en las puertas y yetis en los establos y una forja en el centro de todo, excavada en la roca, con una chimenea que subía hasta la cumbre por dentro de la montaña y que en invierno echaba humo como un volcán.
 
 Era la mejor forja del mundo. Lo decía él. Nadie le llevaba la contraria.
 
 Y en la mejor forja del mundo, ese invierno, había un Emperador.
 
-* * *
+---
 
 Astragal había llegado en otoño, con el primer barco que subía desde Banderbill antes de que se helara el mar. Con él venían Eluret, que tenía setenta y tres años y la cara de cuarenta y dos y era ya Comandante de la Armada, y la pelirroja, que tenía la cara de siempre. Ninguno más. Ni guardia, ni consejeros, ni médicos. Tres personas y un baúl.
 
@@ -54,13 +54,13 @@ Dalbur se rascó la barba.
 
 —Ya lo sé. —Astragal lo miró—. Por eso.
 
-* * *
+---
 
 Trabajaron todo el invierno.
 
 Dalbur nunca había trabajado así. Con un Emperador al lado del fuelle. Astragal se quitaba la camisa como los aprendices, se ponía el delantal de cuero, y daba al fuelle durante horas sin quejarse, con la cara roja y el pelo mojado y la barba llena de hollín. No sabía forjar. No lo intentaba. Daba al fuelle. Traía carbón. Barría la escoria. Y miraba.
 
-Eluret le ayudaba a veces. Más a menudo se iba a cazar con los de Tiama, o a ver a los yetis, o subía a la cueva de cristal con comida para el que estaba allí arriba, el Hask, el que vigilaba la rendija.
+Eluret le ayudaba a veces. Más a menudo se iba a cazar con los de Tiama, o a ver a los yetis, o iba a la cueva de cristal, una jornada al este por el Pasaje Norte, con comida para el que estaba allí arriba, el Hask, el que vigilaba la rendija.
 
 La pelirroja no ayudaba. Se sentaba en un rincón de la forja, en un taburete, con las piernas cruzadas, y miraba el hierro. Horas. Días. No decía nada. A veces, cuando Dalbur golpeaba, ella cerraba los ojos, como si le doliera.
 
@@ -80,7 +80,7 @@ Dalbur la miró mucho rato.
 
 Luego volvió al yunque. Y golpeó. Más fuerte.
 
-* * *
+---
 
 El problema fue que no se dejaba.
 
@@ -104,7 +104,7 @@ Luego miró a Lanther.
 
 Lanther no lo miró a él. Se metió la mano en el bolsillo de la capa. Y la dejó allí.
 
-* * *
+---
 
 Esa noche, Dalbur no durmió.
 
@@ -144,7 +144,7 @@ Hubo un silencio muy largo.
 
 —Puede. —Astragal tardó—. O puede que la sangre le diga lo que es. Como los nombres a las puertas.
 
-* * *
+---
 
 Lo hicieron al alba.
 
@@ -176,7 +176,7 @@ Mirando arriba.
 
 Y la gota cayó.
 
-* * *
+---
 
 Dalbur lo contó así, después, a los suyos, en la sala grande, con un cuerno de cerveza, muchos años después, cuando ya era una historia y no una cosa que había pasado:
 
@@ -200,7 +200,7 @@ El escudo se quedó en el yunque. Frío. Negro. Romo.
 
 Latiendo.
 
-* * *
+---
 
 Lanther se sentó en el suelo. De golpe. Como si le hubieran cortado los hilos.
 
@@ -226,11 +226,11 @@ Tardó mucho.
 
 —No lo sé, majestad. —Lo bajó—. Pero lo que quiere ahora, lo quiere para otros.
 
-* * *
+---
 
-Esa noche subió a la cueva de cristal.
+Esa noche salió hacia la cueva de cristal.
 
-No sabía por qué. Le dio por ahí. Subió solo, con una lámpara, por el camino de hielo de la ladera, una hora de subida con la nieve hasta las rodillas, hasta la boca de la cueva, donde el hielo se volvía cristal y la luz de la lámpara se rompía en mil colores en las paredes.
+No sabía por qué. Le dio por ahí. Fue solo, en el trineo de los renos, una jornada hacia el este por el Pasaje Norte, y a la noche siguiente subió con una lámpara por el camino de hielo de la ladera, una hora de subida con la nieve hasta las rodillas, hasta la boca de la cueva, donde el hielo se volvía cristal y la luz de la lámpara se rompía en mil colores en las paredes.
 
 Ilan Hask estaba despierto. Siempre estaba despierto. Sentado en su silla de madera, delante de la rendija, con la espada de hielo de su abuelo colgada en la pared detrás de él y una manta sobre las rodillas. Tenía la vida de Astral desde el 930. Noventa y nueve años mirando una grieta en la roca.
 
@@ -262,7 +262,7 @@ Dalbur no contestó enseguida.
 
 —Una puerta —dijo al fin.
 
-* * *
+---
 
 Astragal se llevó el escudo al sur en primavera, con el primer barco.
 
@@ -278,7 +278,7 @@ Astragal había dicho que no.
 
 Dalbur lo vio irse desde el muelle de hielo, con Eluret y la pelirroja, en la cubierta del barco, hasta que se perdió en la niebla del fiordo.
 
-Luego volvió a la forja. Cogió el martillo pequeño. Y en el yunque, en la cara de abajo, la que no veía nadie, la que tocaba la roca, grabó con un punzón, en runas de enano, una línea: Aquí se hizo una puerta con hierro que quería ser espada. 1030. Dalbur, herrero.
+Luego volvió a la forja. Cogió el martillo pequeño. Y en el yunque, en la cara de abajo, la que no veía nadie, la que tocaba la roca, grabó con un punzón, en runas de enano, una línea: *Aquí se hizo una puerta con hierro que quería ser espada. 1030. Dalbur, herrero.*
 
 Y debajo, más pequeño:
 

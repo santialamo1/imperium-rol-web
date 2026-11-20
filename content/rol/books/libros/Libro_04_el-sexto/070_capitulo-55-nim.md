@@ -1,18 +1,18 @@
-## Capítulo 55 · Nim
+# Capítulo 55 · Nim
 
-*La cabaña del Sur, a dos leguas del bosque de Banderbill. Primavera del año 1417 de la Nueva Era (810 D.bA).*
+*La cabaña del Sur, a dos leguas del bosque de Banderbill. Primavera del año 1417* *de la Nueva Era (810 D.bA).*
 
 Nim Fennick tenía sesenta y dos años, que para un gnomo es la mitad de la vida, y llevaba cuarenta en la guardia de la doncella, que no era una guardia.
 
 Eran doce. Gnomos todos. Los había juntado Hatmie en el 1300, después de lo del hielo, porque dijo que si tenía que ir a sitios raros prefería ir con gente que cupiera por las puertas raras. No tenían uniforme. No tenían cuartel. Dormían en las cuadras, en el piso de abajo, debajo del cuarto de la doncella, entre los caballos, y cuidaban los caballos, y cuando la doncella salía de la colina iban con ella.
 
-Nim había ido con ella a todas partes. Al borde del hielo, siete veces. A las montañas rojas, no; esa vez fue sola. A Tiama. A Wonder. A Nix. Al sótano de una casa vieja de la calle del Horno, no; ahí no la seguía nadie.
+Nim había ido con ella a todas partes. Al borde de la ceniza, siete veces. A las montañas rojas, no; esa vez fue sola. A Tiama. A Wonder. A Nix. Al sótano de una casa vieja de la calle del Horno, no; ahí no la seguía nadie.
 
 La quería.
 
 Eso hay que decirlo primero. Para que se entienda lo demás.
 
-* * *
+---
 
 El grande vino a verlos en el invierno del 1416.
 
@@ -24,7 +24,7 @@ Se quedó uno.
 
 Nim se lo dijo a la doncella por la mañana. La doncella no dijo nada.
 
-* * *
+---
 
 —El gnomo está vivo —dijo el grande.
 
@@ -48,7 +48,7 @@ Ninguno entendió.
 
 —A los cuatro.
 
-* * *
+---
 
 Lo explicó despacio.
 
@@ -68,11 +68,11 @@ Nim no dijo nada.
 
 —Luego cierro yo.
 
-* * *
+---
 
 Nim pensó mucho tiempo.
 
-Pensó en la doncella. En la puerta de bronce. En la manzana, cada mañana, en la ventana del comedor. En la espada rota en su costado. En los ciento sesenta años que llevaba sujetando algo que no era suyo, sola, sin que nadie la ayudara, sin que nadie le dijera ya está, ya puedes soltar.
+Pensó en la doncella. En la puerta de bronce. En la manzana, cada mañana, en la ventana del comedor. En la espada rota en su costado. En los ciento sesenta años que llevaba sujetando algo que no era suyo, sola, sin que nadie la ayudara, sin que nadie le dijera *ya está, ya puedes soltar*.
 
 Pensó en el gnomo. Al que no había conocido. Al que conocía todo el mundo.
 
@@ -92,9 +92,9 @@ Nim miró a los otros once.
 
 Asintieron. Uno a uno.
 
-* * *
+---
 
-El mensaje llegó al Parlamento en la primavera. Lo llevó un niño del puerto que no sabía de quién era. Los cinco quieren hablar con los cuatro. En la cabaña del Sur, a dos leguas del bosque. Sin guardias. Con escolta de la doncella. El día de la luna nueva.
+El mensaje llegó al Parlamento en la primavera. Lo llevó un niño del puerto que no sabía de quién era. *Los cinco quieren hablar con los cuatro. En la cabaña del Sur, a dos* *leguas del bosque. Sin guardias. Con escolta de la doncella. El día de la luna nueva.*
 
 El Parlamento se reunió en el comedor del cuartel. Debajo de la manzana. Discutieron tres días.
 
@@ -120,7 +120,7 @@ Nim se quedó en la cuadra con la boca seca.
 
 Luego fue a ensillar.
 
-* * *
+---
 
 Salieron al alba. Los cuatro a caballo. Los doce gnomos en ponis, alrededor. Sin guardias de los bandos; los guardias se quedaron en la explanada, mirándose, con las manos en las espadas.
 
@@ -138,7 +138,7 @@ Xaterix lo miró un rato. Luego se volvió hacia delante.
 
 —Da igual —dijo—. Si es el sexto, que sea. Ya era hora.
 
-* * *
+---
 
 La cabaña estaba vacía.
 
@@ -168,7 +168,7 @@ Miró a Nim.
 
 Nim no pudo sostenerle la mirada.
 
-* * *
+---
 
 Entraron.
 
@@ -180,7 +180,7 @@ La puerta se cerró detrás.
 
 No la cerró Nim. La cerró alguien de dentro. El cerrojo de fuera lo corrió otro gnomo, Pell, el más joven, que lloraba.
 
-* * *
+---
 
 No hubo negociación.
 
@@ -196,7 +196,7 @@ Luego, más largo, un ruido de espada. De Xaterix. Dos golpes. Tres.
 
 Luego nada.
 
-* * *
+---
 
 Nim se bajó del poni.
 
@@ -216,7 +216,7 @@ Y luego, desde dentro, la voz. Grave. Tranquila. Sin aliento casi. De alguien qu
 
 Nim abrió.
 
-* * *
+---
 
 No voy a contar lo que vio. Nim no lo contó nunca. Ni a la doncella. Ni a los otros once. Ni a su mujer, con la que se casó en el 1420 y con la que vivió cuarenta años y a la que no le contó nunca por qué no podía dormir con la puerta cerrada.
 
@@ -246,7 +246,7 @@ El grande lo miró mucho rato.
 
 —No —dijo—. Lo pensé así. Hasta que entraron. Hasta que vi a la de Rinkel mirar arriba antes de entrar. —Se le movió algo en la mandíbula—. Y entonces supe que iba a volver. Que de todos, ella iba a volver. Y que iba a tener razón.
 
-* * *
+---
 
 Nim salió de la cabaña.
 
@@ -262,7 +262,7 @@ Se acercó a Nim.
 
 Nim levantó la vista.
 
-—Ella nos mandó —dijo—. Nos dijo cuídalos.
+—Ella nos mandó —dijo—. Nos dijo *cuídalos*.
 
 El grande no dijo nada.
 
@@ -276,7 +276,7 @@ El grande tardó en contestar.
 
 —Nada —dijo—. Se lo digo yo.
 
-* * *
+---
 
 Fueron con él. Los doce.
 
@@ -284,11 +284,11 @@ Nim no sabía por qué. Lo pensó toda la vida y no lo supo. Fue con él. Detrá
 
 A lo mejor fue por la doncella. Por verle la cara cuando se lo dijeran. Por estar.
 
-A lo mejor fue porque el grande había dicho lo voy a traer.
+A lo mejor fue porque el grande había dicho *lo voy a traer*.
 
 A lo mejor fue porque ya no había otro sitio adonde ir.
 
-* * *
+---
 
 En la cabaña, detrás, con la puerta abierta, quedaron cuatro.
 

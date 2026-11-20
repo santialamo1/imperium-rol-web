@@ -1,4 +1,4 @@
-## Capítulo 36 · Arthal II
+# Capítulo 36 · Arthal II
 
 *El palacio de Banderbill. Invierno del año 702 de la Nueva Era (95 D.bA).*
 
@@ -16,7 +16,7 @@ Un ruido de pasos. Lejos. Muy lejos. Al norte. Al otro lado del mar.
 
 Alguien andando. Sin prisa.
 
-* * *
+---
 
 —Está más cerca —le dijo a Lanther.
 
@@ -34,17 +34,17 @@ No sabía cómo se le había hecho tan tarde.
 
 —Entiendo que anda. —El Emperador sonrió—. Que no tiene prisa. Que viene.
 
-* * *
+---
 
 Lo fueron a ver todos esa semana.
 
-Vino el Consejo. Los quince. Se pusieron alrededor de la cama, de pie, con los sombreros en la mano, y el canciller, que era el tataranieto de Hal Ostrander, leyó un discurso que nadie escuchó. El orco de la silla de Arghâl, que ya no era Morg-de-la-esquina sino su sobrina, que se llamaba Shura y que había nacido en la colina, le dio un saco de trigo de las lomas. El Emperador lo tuvo encima de la manta toda la tarde. Decía que olía a algo que había salido bien.
+Vino el Consejo. Los quince. Se pusieron alrededor de la cama, de pie, con los sombreros en la mano, y el canciller, que era el tataranieto de Hal Ostrander, leyó un discurso que nadie escuchó. El orco de la silla de Arghâl, que ya no era Morg-de-laesquina sino su sobrina, que se llamaba Shura y que había nacido en la colina, le dio un saco de trigo de las lomas. El Emperador lo tuvo encima de la manta toda la tarde. Decía que olía a algo que había salido bien.
 
 Vino la Armada. El capitán general, una mujer de Nix. Los capitanes de las cinco compañías. Se pusieron en fila en el pasillo y no entraron, porque no cabían. Él les pidió que miraran arriba. Lo hicieron. En el pasillo. Todos a la vez. Con la cara levantada al techo de piedra.
 
 El Emperador se rio tanto que se le cayó el aro.
 
-* * *
+---
 
 Vino Sein. Una tarde. Con el libro.
 
@@ -68,7 +68,7 @@ Sein cerró el libro.
 
 —No —dijo—. Nunca cuadra. —Se levantó. Le puso la mano en el hombro. No lo había hecho nunca—. Pero está todo apuntado, majestad. No se le ha caído nada.
 
-* * *
+---
 
 Vino Ottherius. De noche, después de la almena. Descalzo de los dos pies, porque la bota verde se le había roto.
 
@@ -86,7 +86,7 @@ Ottherius tardó en contestar. Tenía los ojos cerrados.
 
 —Por eso se acuerda.
 
-* * *
+---
 
 Vino el panadero.
 
@@ -128,7 +128,7 @@ Lanther, en la ventana, tenía los ojos cerrados.
 
 El Emperador la miró. Con los ojos de su madre y los de su padre. No le creyó. No preguntó. Se comió un trozo de pan de nueces. Fue lo último que comió.
 
-* * *
+---
 
 Vino Érandiul. El último día. Por la mañana.
 
@@ -150,7 +150,7 @@ El Emperador se rio. Bajito. Le dolió.
 
 El Emperador pensó.
 
-—Pon más de un siglo —dijo.
+—Pon *más de un siglo* —dijo.
 
 Érandiul levantó las cejas.
 
@@ -166,7 +166,7 @@ El Emperador abrió los ojos. Miró la pared. El mapa de raíces. La de debajo d
 
 —Nada —dijo—. No pongas nada más. Que lo demás lo cuenten los Vell.
 
-* * *
+---
 
 Al atardecer vino Lindos.
 
@@ -196,7 +196,7 @@ El Emperador se quedó callado mucho rato.
 
 —Y cuando vuelvas del este, si vuelves, cuéntale a tu hijo lo que has visto. Para que tu hijo vaya más lejos. Y su hijo más. —Le apretó la mano—. Que cuando él llegue, si llega, la colina no sea una colina. Que sea demasiado grande para comérsela de un bocado.
 
-* * *
+---
 
 Lanther estaba en la ventana. Se volvió.
 
@@ -224,7 +224,7 @@ Lanther tardó en contestar.
 
 Abrió la mano. La que tenía en la de Lindos. Señaló el arpa con un dedo.
 
-* * *
+---
 
 Lindos cogió el arpa.
 
@@ -244,7 +244,7 @@ Lindos no había tocado nada. Siguió moviendo los dedos.
 
 —Ya no oigo la roca —dijo el Emperador. Muy bajo. Sorprendido—. Ya no la oigo. —Respiró—. Oigo la lluvia.
 
-* * *
+---
 
 Se murió así. Con la lluvia en la cabeza. Con una mano en la de su hijo y la otra en la de su tía. Con su nieto a los pies de la cama, mirando el hombro de su padre, como le había enseñado su abuela.
 
@@ -256,7 +256,7 @@ Y luego, inclinándose, en la oreja un poco en punta, para él solo:
 
 —Te oigo. Vete.
 
-* * *
+---
 
 El aro de hierro estaba en la almohada. Se le había caído al morirse, como se le había caído riéndose de la Armada, como se le caía siempre.
 
@@ -276,9 +276,9 @@ Pesaba. Muchísimo. Lindos tenía ochenta y un años y un cuarto de elfo y las r
 
 No se la quitó.
 
-* * *
+---
 
-En el Diario de la familia Érandiul, la entrada del 702 está escrita con la mano izquierda, con la letra de niño que se va hacia arriba. Es corta. Dice que Lindos asume como el décimo sexto Emperador de Banderbill. Dice que su padre gobernó por más de un siglo. Dice que era mitad humano y mitad elfo.
+En el Diario de la familia Érandiul, la entrada del 702 está escrita con la mano izquierda, con la letra de niño que se va hacia arriba. Es corta. Dice que Lindos asume como el décimo sexto Emperador de Banderbill. Dice que su padre gobernó por más de un siglo. Dice que era mitad humano y mitad elfo. Lo escribió por lo que se veía. Por la cuenta de la sangre, Lindos era un cuarto de elfo; pero había salido más elfo que su padre, con las orejas en punta y la piel que no se arrugaba, y nadie que lo mirara a la cara habría dicho un cuarto.
 
 No dice nada más.
 

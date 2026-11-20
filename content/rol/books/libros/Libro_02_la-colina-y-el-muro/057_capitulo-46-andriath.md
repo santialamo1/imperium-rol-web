@@ -1,4 +1,4 @@
-## Capítulo 46 · Andriath
+# Capítulo 46 · Andriath
 
 *Banderbill y el valle negro. Años 107 y 108 de la Nueva Era.*
 
@@ -18,7 +18,7 @@ Dejó caer la espada de práctica.
 
 Echó a correr.
 
-* * *
+---
 
 Llegó tarde.
 
@@ -30,13 +30,13 @@ No importaba; no habría podido hacer nada. Su padre estaba sentado en el banco 
 
 Maren levantó la mano de su marido. Con cuidado. Le dio la vuelta al libro.
 
-Eran los cuadernos de Livia. Los de arriba. Los de la estantería, los que podía leer todo el mundo. Por la página de la coronación de su abuela. Por la página tachada. Hay un elfo de pelo casi blanco que lee las letras de las Madres mejor que yo…
+Eran los cuadernos de Livia. Los de arriba. Los de la estantería, los que podía leer todo el mundo. Por la página de la coronación de su abuela. Por la página tachada. *Hay un elfo de pelo casi blanco que lee las letras de las Madres mejor que yo…*
 
 —Siempre volvía a esa —dijo Maren—. No sé por qué.
 
 Andriath sí lo sabía. Pero no lo dijo.
 
-* * *
+---
 
 Fue un buen rey. Lo dijeron todos, en el funeral, en la plaza, en las tabernas. El elfo del sombrero, que ya no llevaba sombrero, que era el elfo más viejo de la colina y que nadie sabía cuántos años tenía, lo dijo de otra manera, en voz baja, al lado de Andriath, mientras los sacerdotes de Gijor rezaban a su dios del cielo encima del cuerpo:
 
@@ -46,17 +46,17 @@ Andriath lo miró.
 
 —¿Lo vas a escribir así?
 
-El elfo no contestó. Pero a Andriath le pareció que sí. Que lo escribiría así. Con esas mismas palabras, en su cuaderno de corteza, en su lengua, esa noche. Y que no escribiría lo de la página tachada, ni lo de las cartas sin firma, ni lo del palote en la piedra del río. Que escribiría se notó la ausencia de su madre, que era verdad y no era toda la verdad.
+El elfo no contestó. Pero a Andriath le pareció que sí. Que lo escribiría así. Con esas mismas palabras, en su cuaderno de corteza, en su lengua, esa noche. Y que no escribiría lo de la página tachada, ni lo de las cartas sin firma, ni lo del palote en la piedra del río. Que escribiría *se notó la ausencia de su madre*, que era verdad y no era toda la verdad.
 
 No se lo reprochó. Él tampoco sabía decirlo mejor.
 
-* * *
+---
 
-Lo coronaron a los tres días. Con el aro de hierro. Más que a mis ojos. Le estaba justo. Su padre tenía la cabeza más pequeña.
+Lo coronaron a los tres días. Con el aro de hierro. *Más que a mis ojos.* Le estaba justo. Su padre tenía la cabeza más pequeña.
 
 Esa noche, en el palacio, en el cuarto de la torre que había sido de su tío abuelo y de su abuela y de su padre, se sentó en la ventana y miró el mar.
 
-No oía nada. Como su padre. Ni muertos ni piedras ni montañas. Era hijo de un hombre que leía y nieto de una mujer que oía, y no había heredado ni lo uno ni lo otro: él peleaba. Era lo único que sabía hacer bien. Desde niño. Su padre le había puesto libros delante y él los había usado para sujetar la puerta del cuartel. Su padre le había enseñado las letras viejas y él había aprendido tres. Su padre se reía de él, con cariño, y lo llamaba el ignorante, y Andriath se reía también.
+No oía nada. Como su padre. Ni muertos ni piedras ni montañas. Era hijo de un hombre que leía y nieto de una mujer que oía, y no había heredado ni lo uno ni lo otro: él peleaba. Era lo único que sabía hacer bien. Desde niño. Su padre le había puesto libros delante y él los había usado para sujetar la puerta del cuartel. Su padre le había enseñado las letras viejas y él había aprendido tres. Su padre se reía de él, con cariño, y lo llamaba *el* *ignorante*, y Andriath se reía también.
 
 Lo echaba de menos de una manera que no sabía que se podía echar de menos a nadie.
 
@@ -64,9 +64,9 @@ Llamaron a la puerta.
 
 Tres golpes. Con los nudillos.
 
-* * *
+---
 
-No se levantó corriendo. Ya no. Lo había hecho de niño, tres o cuatro veces, al oír esos tres golpes en la puerta de la cocina, en mitad de la noche, y había bajado descalzo y no había encontrado nunca a nadie, solo una hogaza en el escalón, o una piedra de río, o una carta al que lee. Las cartas no eran para él. Él no leía.
+No se levantó corriendo. Ya no. Lo había hecho de niño, tres o cuatro veces, al oír esos tres golpes en la puerta de la cocina, en mitad de la noche, y había bajado descalzo y no había encontrado nunca a nadie, solo una hogaza en el escalón, o una piedra de río, o una carta *al que lee*. Las cartas no eran para él. Él no leía.
 
 Se levantó despacio. Abrió.
 
@@ -78,7 +78,7 @@ Con los ojos grises de agua de río.
 
 Andriath la conocía.
 
-No de verla. No la había visto en su vida. La conocía de la puerta de la cocina, de las rayas del marco de la izquierda, la columna de L, que se acababa en el año 27. La conocía del retrato que su padre había mandado pintar de memoria, de memoria de otros, y que estaba en la biblioteca, encima de la mesa larga, y que no se le parecía nada y se le parecía todo.
+No de verla. No la había visto en su vida. La conocía de la puerta de la cocina, de las rayas del marco de la izquierda, la columna de *L*, que se acababa en el *año 27*. La conocía del retrato que su padre había mandado pintar de memoria, de memoria de otros, y que estaba en la biblioteca, encima de la mesa larga, y que no se le parecía nada y se le parecía todo.
 
 —Abuela —dijo.
 
@@ -86,7 +86,7 @@ La muchacha sonrió.
 
 —Me ha costado llegar —dijo—. Perdona. Lo oí desde muy lejos.
 
-* * *
+---
 
 No entró. Se quedó en la puerta, como si no tuviera derecho. Andriath tuvo que cogerla del brazo para que pasara. Estaba fría. Estaba temblando.
 
@@ -104,21 +104,21 @@ Se sentó en la silla de la ventana. La de Mara. Se quedó mirando el mar.
 
 Andriath se sentó en la cama. No supo qué decir. Le parecía absurdo: estaba consolando a una muchacha de dieciocho años que era su abuela, que tenía noventa y seis, que había parido a su padre en esa misma habitación con un hombre sin cara en la puerta.
 
-—Me escribía —dijo su abuela—. Cartas. A la que no se muere. Se las daba a capitanes de barco con dos monedas de cobre. Llegaban todas. Las tengo todas. —Se tocó el pecho, la capa—. Me contaba lo que leía. Lo que pasaba en la colina. Me contó cuando naciste tú. Grande. Ruidoso. Con los puños cerrados. Pelea con la cuna. —Se rió—. Me contó cuando aprendiste tres letras de las Madres y te negaste a aprender la cuarta.
+—Me escribía —dijo su abuela—. Cartas. *A la que no se muere.* Se las daba a capitanes de barco con dos monedas de cobre. Llegaban todas. Las tengo todas. —Se tocó el pecho, la capa—. Me contaba lo que leía. Lo que pasaba en la colina. Me contó cuando naciste tú. *Grande. Ruidoso. Con los puños cerrados. Pelea con la cuna.* —Se rió—. Me contó cuando aprendiste tres letras de las Madres y te negaste a aprender la cuarta.
 
 —Era muy difícil.
 
-—Era Mael. La de su nombre.
+—Era *Mael*. La de su nombre.
 
 Andriath se quedó callado.
 
 —Nunca vine —dijo su abuela—. Ni una vez. En cuarenta y nueve años. Para que no lo miraran. Para que no le preguntaran. —Se volvió por fin. Tenía la cara mojada—. Y no sé si hice bien.
 
-* * *
+---
 
 Hablaron toda la noche.
 
-Ella le contó. No todo. Lo que podía. La Orden. El cofre. Las reglas. La sangre del que dijo que no. La ofrenda: por voluntad, nunca sobre uno mismo, una vez en la vida. Lo que había pasado en el valle negro con su tío abuelo. Lo que había pasado en Concordia con Livia, a la que Andriath no conoció. El niño de Tam. Con otra sangre, al revés.
+Ella le contó. No todo. Lo que podía. La Orden. El cofre. Las reglas. La sangre del que dijo que no. La ofrenda: por voluntad, nunca sobre uno mismo, una vez en la vida. Lo que había pasado en el valle negro con su tío abuelo. Lo que había pasado en Concordia con Livia, a la que Andriath no conoció. El niño de Tam. *Con otra sangre, al revés.*
 
 Andriath escuchó sin interrumpir. No entendía la mitad. La otra mitad la entendía demasiado.
 
@@ -140,7 +140,7 @@ Su abuela lo miró.
 
 —No lo sé —dijo—. No puedo decírtelo yo. Tiene que ser tuyo. Por voluntad. A alguien a quien tú quieras darle. Si te lo digo yo, no vale. Si lo haces porque te lo pido, no vale. —Bajó la vista—. Pero sé a quién me gustaría que conocieras.
 
-* * *
+---
 
 Fueron al valle en verano. Los dos. A caballo. Ella con la capucha puesta. Andriath con la espada.
 
@@ -172,7 +172,7 @@ Su abuela sonrió debajo de la capucha.
 
 —Esa es a quien me gustaría que conocieras.
 
-* * *
+---
 
 Bajaron. Dejaron las espadas en la entrada, en un cobertizo de piedra donde un viejo trampero con un ojo de cristal las guardaba y te daba a cambio una piedrita de sal con una marca. Andriath protestó. Su abuela lo miró. Andriath dejó la espada.
 
@@ -200,7 +200,7 @@ Se miraron. Se miraron a la balanza. Miraron a la Fiel.
 
 Y luego, despacio, de mala gana, los dos asintieron.
 
-* * *
+---
 
 Andriath la miró toda la tarde. Desde una hoguera, con un cuenco de sopa que le había dado una de las de gris.
 
@@ -228,7 +228,7 @@ Andriath se quedó mirando a la Fiel. En el borde del agujero. Con el sol del at
 
 —Entonces siempre habrá alguien que lo sepa.
 
-* * *
+---
 
 Andriath fue a hablar con ella esa noche. Solo. Junto a la balanza.
 
@@ -250,13 +250,13 @@ Andriath no dijo nada.
 
 Y se dio cuenta, al decirlo, de que era verdad.
 
-* * *
+---
 
 Lo hizo al amanecer. Junto a la balanza. Con el cuchillo de destripar de su bisabuela Mara, el de su padre, el que llevaba siempre al cinto y que el viejo del ojo de cristal le había dejado conservar porque dijo que eso no era un arma, eso era un cuchillo de cocina.
 
 En la palma. Con la sangre roja.
 
-Mirándola. Pensando en ella. No como su abuela le había dicho que tenía que pensar, con amor, porque no la quería, no así, la conocía desde hacía un día. Pensando en lo que había visto. En una mujer delante de una balanza que no quería nada. En la aguja en el medio. En la piedrita de sal cayendo hacia un rey que tenía miedo.
+Mirándola. Pensando en ella. No como su abuela le había dicho que tenía que pensar, *con amor*, porque no la quería, no así, la conocía desde hacía un día. Pensando en lo que había visto. En una mujer delante de una balanza que no quería nada. En la aguja en el medio. En la piedrita de sal cayendo hacia un rey que tenía miedo.
 
 Le puso la mano en la boca. Le sopló en la cara.
 
@@ -270,7 +270,7 @@ Se llevó la mano al pecho.
 
 —Late distinto —dijo.
 
-* * *
+---
 
 Al volver a la colina, en lo alto del paso, su abuela detuvo el caballo y se volvió a mirar el valle. Andriath también.
 
@@ -296,13 +296,13 @@ Andriath se quedó mirando el valle. El mercado. La balanza. El agujero.
 
 Y espoleó el caballo.
 
-* * *
+---
 
 Bhargaras VIII nació al año siguiente. Hijo de Andriath y de una de las doncellas de Maren, una muchacha de Pisor que se llamaba Hilde, como la niña de la cartilla, con la que Andriath se había casado en otoño en una boda corta, sin ceremonias largas, porque no le gustaban.
 
-Volvió el nombre. Bhargaras. Lo eligió Andriath. Dijo que su padre había roto la costumbre y que alguien tenía que volver a ponerla, para que su padre tuviera algo que haber roto.
+Volvió el nombre. *Bhargaras.* Lo eligió Andriath. Dijo que su padre había roto la costumbre y que alguien tenía que volver a ponerla, para que su padre tuviera algo que haber roto.
 
-El elfo lo escribió en su cuaderno. Hoy escuché en el mercado que un niño había nacido fruto de ese amor. Su nombre es Bhargaras VIII, legítimo sucesor a la corona.
+El elfo lo escribió en su cuaderno. *Hoy escuché en el mercado que un niño había* *nacido fruto de ese amor. Su nombre es Bhargaras VIII, legítimo sucesor a la corona.*
 
 Lo escuchó en el mercado. Era verdad. No lo escuchó en el palacio, porque no lo invitaron. Porque ya no invitaban al elfo a nada, desde hacía años, porque era viejo y raro y no se moría.
 

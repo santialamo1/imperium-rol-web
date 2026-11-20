@@ -1,4 +1,4 @@
-## Capítulo 28 · Tibbet
+# Capítulo 28 · Tibbet
 
 *La biblioteca de Banderbill. Invierno del año 643 de la Nueva Era (36 D.bA).*
 
@@ -8,15 +8,15 @@ No en voz alta. Eso ya lo había hecho, a trozos, en el Consejo, cuando hacía f
 
 Porque Tibbet no lo sabía.
 
-Llevaba trescientos doce años escribiéndola. Desde una noche del 331 en que un gnomo de doscientos setenta y siete años, en una cocina, con una vela, con el sombrero número veintinueve, el de la copa alta, había vuelto de la tienda de Fizzela con un lingote que olía y había escrito, en un cuaderno con tapas de corcho: Uno. Doscientas lámparas. Pagadas en hierro rojo. Que huele a hambre. Y se había reído solo. Y luego había dejado de reírse. Y luego otra cosa. Y luego otra. Cosas que no habían pasado, porque nadie decía que hubieran pasado, y que Tibbet sabía que sí.
+Llevaba trescientos doce años escribiéndola. Desde una noche del 331 en que un gnomo de doscientos setenta y siete años, en una cocina, con una vela, con el sombrero número veintinueve, el de la copa alta, había vuelto de la tienda de Fizzela con un lingote que olía y había escrito, en un cuaderno con tapas de corcho: *Uno. Doscientas lámparas.* *Pagadas en hierro rojo. Que huele a hambre.* Y se había reído solo. Y luego había dejado de reírse. Y luego otra cosa. Y luego otra. Cosas que no habían pasado, porque nadie decía que hubieran pasado, y que Tibbet sabía que sí.
 
 Cuarenta y una.
 
-Y por detrás, desde el 607, la otra lista. Cosas que han pasado. Cinco. La última, la de Verawel saliendo del árbol.
+Y por detrás, desde el 607, la otra lista. *Cosas que han pasado.* Cinco. La última, la de Verawel saliendo del árbol.
 
 La había leído tantas veces que ya no la veía. Como no se ve la cara de uno en el espejo cuando se mira cada mañana.
 
-* * *
+---
 
 —Léela tú —le dijo a Verawel.
 
@@ -32,7 +32,7 @@ Tibbet esperó.
 
 Le costó. Era un gnomo.
 
-* * *
+---
 
 Verawel tardó una tarde entera.
 
@@ -48,17 +48,17 @@ Tibbet se bajó del alféizar.
 
 —¿De qué?
 
-—De dónde ha tocado. —Verawel abrió el rollo otra vez. Señaló una línea con el dedo de corteza—. Línea uno. Doscientas lámparas. Pagadas en hierro rojo. Línea ocho. Una roca canta una nana entera. Línea doce. El hierro rojo se deja trabajar demasiado bien. Línea dieciséis. Bram tararea la nana. Línea treinta. Una aguja con luz roja. — Levantó la vista—. Cada vez que algo de abajo ha tocado algo de arriba, tú lo has apuntado. Sin saber que lo apuntabas. Y lo que toca, deja.
+—De dónde ha tocado. —Verawel abrió el rollo otra vez. Señaló una línea con el dedo de corteza—. Línea uno. *Doscientas lámparas. Pagadas en hierro rojo.* Línea ocho. *Una roca canta una nana entera.* Línea doce. *El hierro rojo se deja trabajar demasiado* *bien.* Línea dieciséis. *Bram tararea la nana.* Línea treinta. *Una aguja con luz roja.* — Levantó la vista—. Cada vez que algo de abajo ha tocado algo de arriba, tú lo has apuntado. Sin saber que lo apuntabas. Y lo que toca, deja.
 
 —¿Deja qué?
 
 —Un poco. —Verawel cerró la mano—. Del latido.
 
-* * *
+---
 
 Lo llamaron a Ottherius.
 
-Llegó de noche, porque había estado en la tercera almena y no bajaba nunca hasta que se veía la estrella del suroeste. Con la túnica mostaza debajo de un abrigo de piel de oveja que le había regalado Wenna, y el pie descalzo morado de frío, y el otro con la bota verde.
+Llegó de noche, porque había estado en la tercera almena y no bajaba nunca hasta que se veía la estrella del noreste. Con la túnica mostaza debajo de un abrigo de piel de oveja que le había regalado Wenna, y el pie descalzo morado de frío, y el otro con la bota verde.
 
 Entró. Se paró en la puerta. Como siempre.
 
@@ -70,7 +70,7 @@ Entró. Se paró en la puerta. Como siempre.
 
 Tibbet le tenía mucho cariño. Era el único miembro de la Orden más raro que él.
 
-* * *
+---
 
 —Necesitamos que toques cosas —le dijo Verawel—. Y nos digas cuáles tienen latido.
 
@@ -86,7 +86,7 @@ Abrió la boca. Se le quedó abierta.
 
 —Huy —dijo.
 
-* * *
+---
 
 Lo que leyó, lo apuntó Verawel. En un papel aparte. Esa noche y las cuarenta siguientes.
 
@@ -120,7 +120,7 @@ Ottherius abrió los ojos. La miró. Se puso serio, que era una cosa que le pasa
 
 —A las cucharas no les cuento nada —dijo—. Son ellas las que me cuentan a mí.
 
-* * *
+---
 
 La idea del pergamino fue de Verawel.
 
@@ -132,7 +132,7 @@ Una noche, la treinta y tantos, cuando ya tenían el papel aparte lleno por las 
 
 Nadie contestó.
 
-—Yo me fui trescientos años a un árbol —dijo Verawel—. Y cuando volví, la colina no se acordaba de mí. De nada de lo mío. Solo de una línea en el registro de un niño. Verawel me ha subido los libros. —Le tembló la voz de madera—. Las cosas se olvidan. Se olvidan solas. No hace falta cantarles nueve notas. —Miró a Lanther—. Si un día no queda nadie de la Orden, alguien tiene que saber dónde está la vara. Y la gema. Y la piedra. Y lo que vaya saliendo.
+—Yo me fui trescientos años a un árbol —dijo Verawel—. Y cuando volví, la colina no se acordaba de mí. De nada de lo mío. Solo de una línea en el registro de un niño. *Verawel me ha subido los libros.* —Le tembló la voz de madera—. Las cosas se olvidan. Se olvidan solas. No hace falta cantarles nueve notas. —Miró a Lanther—. Si un día no queda nadie de la Orden, alguien tiene que saber dónde está la vara. Y la gema. Y la piedra. Y lo que vaya saliendo.
 
 —¿Y si lo lee él? —dijo Lanther.
 
@@ -142,7 +142,7 @@ El que escucha. El que traduce. El que hablaba con los orcos en la lengua de los
 
 Si se escribía dónde estaban las cosas que latían, él lo leería.
 
-* * *
+---
 
 Verawel sonrió. Despacio. Con la cara de madera.
 
@@ -170,7 +170,7 @@ Lanther lo miró mucho rato.
 
 —No. —Verawel se encogió de hombros. Le crujieron—. Pero es lo mejor que tenemos.
 
-* * *
+---
 
 Lo empezaron esa misma noche.
 
@@ -182,35 +182,35 @@ Ottherius tocaba las cosas. Tibbet leía la lista. Sein sumaba —sumaba qué, n
 
 El título lo escribió Verawel arriba. En la letra de las Madres. Y luego, abajo, en pequeño, en élfico, para los de la Orden:
 
-*De las cosas que se quedaron con un poco del latido. Dónde están. Qué hacen. Qué cuestan.*
+*De las cosas que se quedaron con un poco del latido. Dónde están. Qué hacen. Qué* *cuestan.*
 
 Tibbet propuso dibujar un sombrero en la esquina. Le dijeron que no.
 
 Lo dibujó igual. Pequeñito. Abajo. Cuando nadie miraba.
 
-* * *
+---
 
 La primera entrada fue la vara.
 
 Verawel la escribió así. Luego, para los de la Orden, la tradujo en voz alta:
 
-*Una vara de madera de fresno con una piedra blanca en la punta. La hizo un muchacho de Pisor con seis hojas de la corteza dura. Mata sin tocar. No se rompe. Está donde gritan los pájaros negros de pico rojo, al otro lado del agua, donde nadie la busca. La guarda una que no se muere. Cuesta un conserje, un muchacho y cuarenta y un años.*
+*Una vara de madera de fresno con una piedra blanca en la punta. La hizo un* *muchacho de Pisor con seis hojas de la corteza dura. Mata sin tocar. No se rompe. Está* *donde gritan los pájaros negros de pico rojo, al otro lado del agua, donde nadie la busca.* *La guarda una que no se muere. Cuesta un conserje, un muchacho y cuarenta y un años.*
 
 La segunda, la gema.
 
-*Una piedra de río con una veta blanca que bebió dos sangres en un fuerte que ardía. Roja. Late. Tiene hambre y se acuerda de un muchacho que tuvo miedo y no se fue. Está en el mar del sur, camino de unas islas, o en ellas. Quien la lleva no se cierra las heridas: se le cierran solas. Cuesta setecientos menos diez.*
+*Una piedra de río con una veta blanca que bebió dos sangres en un fuerte que* *ardía. Roja. Late. Tiene hambre y se acuerda de un muchacho que tuvo miedo y no se fue.* *Está en el mar del sur, camino de unas islas, o en ellas. Quien la lleva no se cierra las* *heridas: se le cierran solas. Cuesta setecientos menos diez.*
 
 La tercera, la piedra.
 
-*Una piedra gris del tamaño de un pan. Estuvo debajo de un pozo con un corazón encima. Tiene una raíz. Está en el vestíbulo de la cárcel de la colina y los presos le escupen. No hace nada. Espera. Cuesta una ciudad.*
+*Una piedra gris del tamaño de un pan. Estuvo debajo de un pozo con un corazón* *encima. Tiene una raíz. Está en el vestíbulo de la cárcel de la colina y los presos le* *escupen. No hace nada. Espera. Cuesta una ciudad.*
 
-* * *
+---
 
 Hubo más. Esa noche y las siguientes. Cosas pequeñas: un anillo de una mujer de Arghâl que hacía que quien lo llevaba no tuviera sed; un cuchillo de pan, el que mató a Brena Hask, que Ottherius tocó y soltó gritando y que Lanther se llevó y no dijo adónde. Cosas raras: una de las lámparas de la calle de los Cubos, de las que se apagaban solas, que tenía en la mecha un poco de algo que no era aceite.
 
 Y al final, en la última línea, Verawel escribió una cosa que no había tocado nadie.
 
-*Hay una jarra blanca, de barro, sin abrir. Dentro hay una vida que no es de nadie. No late todavía. Si un día alguien la deja donde no debe, latirá. Está en un arcón, en una habitación con una maceta.*
+*Hay una jarra blanca, de barro, sin abrir. Dentro hay una vida que no es de nadie.* *No late todavía. Si un día alguien la deja donde no debe, latirá. Está en un arcón, en una* *habitación con una maceta.*
 
 Lanther dio un paso.
 
@@ -222,7 +222,7 @@ Tibbet miró la lista que tenía en las manos. La suya. La de cuarenta y una lí
 
 Y por primera vez en trescientos doce años, entendió para qué la había escrito.
 
-* * *
+---
 
 Esa noche no apuntó nada en ninguno de los dos lados. Se quedó en el alféizar mirando cómo escribía Verawel, con la letra que subía, a la luz de una vela de sebo, como se escribía en una cabaña de troncos hacía mil años.
 
@@ -234,7 +234,7 @@ El ochenta y ocho.
 
 —Porque hoy ha empezado algo que va a durar más que yo —dijo Tibbet—. Y quiero llevar puesto un trozo.
 
-* * *
+---
 
 El pergamino de los Fragmentos estuvo en la biblioteca de Banderbill setecientos setenta y seis años. En la última balda. En un estuche de cuero con cierre de hueso. Verawel le añadió líneas mientras vivió. Luego otros.
 

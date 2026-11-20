@@ -1,10 +1,10 @@
-## Capítulo 80 · Casimir
+# Capítulo 80 · Casimir
 
 *Concordia. Año 411.*
 
 El canciller Casimir Vell tenía una costumbre que la corte entera encontraba encantadora: cada mañana, antes del Consejo, bajaba a la cripta de la Torre de la Unión y ponía una flor en la tumba de Genieveve de Leogrand.
 
-Nadie más lo hacía. La tumba de Genieveve no era siquiera una tumba; era un nicho sin nombre en el rincón más oscuro de la cripta, lejos de los emperadores honrados, donde Drolnar el Justo había mandado meter sus restos tres siglos atrás con la orden expresa de que no se grabara nada sobre la piedra. Que nadie la recuerde, había dicho. Y durante trescientos años, nadie la había recordado. Era la bruja, la ladrona, la asesina de niños, la emperatriz maldita. En las calles de Concordia, los niños seguían jugando a Arenar y la bruja, y la bruja seguía ardiendo al final.
+Nadie más lo hacía. La tumba de Genieveve no era siquiera una tumba; era un nicho sin nombre en el rincón más oscuro de la cripta, lejos de los emperadores honrados, donde Drolnar el Justo había mandado meter sus restos tres siglos atrás con la orden expresa de que no se grabara nada sobre la piedra. *Que nadie la recuerde*, había dicho. Y durante trescientos años, nadie la había recordado. Era la bruja, la ladrona, la asesina de niños, la emperatriz maldita. En las calles de Concordia, los niños seguían jugando a Arenar y la bruja, y la bruja seguía ardiendo al final.
 
 Casimir Vell le ponía una flor cada mañana. Una rosa blanca, de los jardines de palacio.
 
@@ -14,13 +14,13 @@ La corte encontraba aquello encantador. Excéntrico, pero encantador. El cancill
 
 Nadie sabía que su madre había nacido Orvane.
 
-* * *
+---
 
 —Abuelo —dijo Casimir en voz baja, arrodillado ante el nicho sin nombre, mientras dejaba la rosa blanca sobre la piedra fría—. Ya falta poco.
 
 Su abuelo no estaba allí, claro. Su abuelo, el canciller Orvane, el que sirvió a Meridio el Loco durante dieciocho años, había muerto en el exilio en Leogrand cuando Casimir tenía doce años. Pero antes de morir, le había contado todo.
 
-Le había contado lo de la nodriza Ilda Orvane, que crió a un niño rubio en el valle de Leogrand sin saber quién era. Le había contado que el niño, Aurel, había crecido y se había casado con una lechera y había tenido hijos, y que un día, a los cincuenta años, un viejo guardia de la escolta imperial llegó al valle con una carta. Una carta escrita por un emperador moribundo llamado Drolnar Arenar. Una carta en la que le contaba a Aurel quién había sido su madre, y le pedía perdón —perdón, el asesino de su madre, pidiéndole perdón—, y le decía que no se lo contara a nadie, que viviera como un Germa cualquiera, que criara cabras.
+Le había contado lo de la nodriza Ilda Orvane, que crió a un niño rubio en el valle de Leogrand sin saber quién era. Le había contado que el niño, Aurel, había crecido y se había casado con una lechera y había tenido hijos, y que un día, a los cincuenta años, un viejo guardia de la escolta imperial llegó al valle con una carta. Una carta escrita por un emperador moribundo llamado Drolnar Arenar. Una carta en la que le contaba a Aurel quién había sido su madre, y le pedía perdón —*perdón*, el asesino de su madre, pidiéndole perdón—, y le decía que no se lo contara a nadie, que viviera como un Germa cualquiera, que criara cabras.
 
 —Y lo hizo —le había dicho el abuelo Orvane, con los ojos brillantes de fiebre—. El muy idiota lo hizo. Crió cabras. Y sus hijos criaron cabras. Y los hijos de sus hijos. Durante doscientos años, la sangre de la emperatriz de los Treinta y Dos ha estado criando cabras en un valle de mierda mientras los Bhargaras se sentaban en su trono. Los Bhargaras, Casimir. Los descendientes del guardia que salvó a una bruja eufesia de la misma pira donde quemaron a los niños que tu tatarabuela bebió para ser fuerte. Nosotros somos la sangre de la que robó; ellos, la sangre de la que fue robada. Y míralos ahora. Míranos a nosotros.
 
@@ -38,7 +38,7 @@ El abuelo Orvane había sonreído. Una sonrisa amable, inteligente, como la de C
 
 —Lo creí. —El abuelo había cerrado los ojos—. Y luego Meridio se envenenó, el muy cobarde, y su hermana me desterró. Pero la voz no se ha ido, Casimir. La voz espera. Y la voz te buscará a ti.
 
-* * *
+---
 
 La voz lo buscó en el año cuatrocientos ocho.
 
@@ -64,7 +64,7 @@ El muerto sonrió.
 
 —Porque soy el único en esta historia que nunca ha mentido sobre lo que quiere, Casimir Vell. Pregúntale a cualquiera. Lo he dicho siempre. Que me devuelvan lo que me quitaron. Nada más.
 
-* * *
+---
 
 Casimir no aceptó esa noche. Ni la siguiente. Tardó tres años.
 
@@ -86,7 +86,7 @@ Pero la niebla seguía creciendo. Avanzaba cada mes un poco más. Ya había cruz
 
 Y el emperador Haltair, el hombre más amable del mundo, no hacía nada. Celebraba consejos. Mandaba embajadas a los clanes libres, que no contestaban. Reforzaba las murallas. Rezaba. Esperaba.
 
-Puede tardar un año o diez, había dicho el muerto. Lo único que puedes elegir es cuántos morirán antes.
+*Puede tardar un año o diez*, había dicho el muerto. *Lo único que puedes elegir es* *cuántos morirán antes.*
 
 En el invierno del año cuatrocientos once, Casimir Vell bajó a la cripta de la torre con una rosa blanca. La dejó en el nicho sin nombre. Y luego, por primera vez en su vida, se acercó al centro de la cripta, donde la piedra del Ombligo latía envuelta en los cimientos de la torre como una semilla en su fruto.
 

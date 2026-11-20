@@ -1,4 +1,4 @@
-## Capítulo 70 · Érandiul
+# Capítulo 70 · Érandiul
 
 *Tawarsinan. Invierno del año 357 al 358 de la Nueva Era.*
 
@@ -18,13 +18,13 @@ Los gnomos no hicieron fiesta. No hubo fuegos de colores.
 
 —No tenemos pólvora —dijo uno, cuando Érandiul le preguntó. Con la cara gris de hollín y de otra cosa—. Y aunque la tuviéramos.
 
-* * *
+---
 
 El bosque viejo seguía igual.
 
 Eso fue lo que más le dolió a Érandiul. Que siguiera igual. Los troncos blancos, lisos, de una anchura que diez hombres con los brazos abiertos no abarcarían. Las copas que no se veían. La luz verde, quieta, de catedral. Como doscientos años antes, cuando vino con el rey que escuchaba y con un gnomo en una mula. Como tres mil años antes, cuando su madre era niña. Como siempre.
 
-Detrás de ellos, al norte, Nix ardía. Once mil personas. Y el bosque viejo seguía igual.
+Detrás de ellos, al oeste, Nix ardía. Once mil personas. Y el bosque viejo seguía igual.
 
 —No lo saben —dijo Dalla Hask. Andando a su lado. Ya no lo llevaba a cuestas; le había dicho que podía andar, y era mentira, pero ella había hecho como que se la creía—. Los árboles. No saben lo que ha pasado.
 
@@ -34,7 +34,7 @@ Detrás de ellos, al norte, Nix ardía. Once mil personas. Y el bosque viejo seg
 
 —Los árboles lo saben todo. —Érandiul se ajustó el sombrero—. Lo que pasa es que no les importa.
 
-* * *
+---
 
 Las puertas eran las mismas. Dos árboles torcidos el uno hacia el otro, tocándose arriba, a cien varas del suelo. El hueco. La cortina de luz verde que se movía como el agua.
 
@@ -58,7 +58,7 @@ Los seis elfos no se movieron.
 
 —Vengo a decir que sí —dijo Érandiul.
 
-* * *
+---
 
 Silencio.
 
@@ -86,7 +86,7 @@ El elfo joven bajó el arco del todo.
 
 —Porque ella nos lo dijo —dijo—. Hace doscientos años. La humana. La que no es humana. La que entró por las raíces.
 
-* * *
+---
 
 Lo dejaron pasar. A él solo, primero. Lo llevaron por la cortina de luz verde, que no le preguntó si tenía hambre, que le pasó por la cara como una tela mojada y fría. Al otro lado estaba la ciudad.
 
@@ -104,7 +104,7 @@ No el silencio de un bosque. El otro. El de una ciudad entera que no habla.
 
 Y Érandiul vio cómo, en los puentes, en las plataformas, en las escaleras, cientos de elfos se volvían a mirarlo. Al joven. Al que había hablado en voz alta. Con los ojos muy abiertos.
 
-* * *
+---
 
 La sala de los sabios estaba en el árbol más grande. En el centro. Con la abertura sin puerta. Con el suelo de musgo.
 
@@ -152,7 +152,7 @@ Hizo una pausa.
 
 La elfa no contestó. Pero uno de los cinco, un elfo viejísimo con la cara como la de un búho, bajó la vista.
 
-* * *
+---
 
 Entraron los ciento treinta al anochecer.
 
@@ -176,13 +176,13 @@ Y le decía algo. Al niño humano. Desde arriba. Bajito. En la lengua vieja.
 
 Érandiul tenía oídos de elfo. La oyó.
 
-—Sí. Casas.
+—*Sí. Casas.*
 
-* * *
+---
 
 Esa noche no durmió.
 
-Se sentó en la plataforma de la sala de los sabios, con el diario en las rodillas, con las treinta hojas que le quedaban. Abajo, en la plaza, los humanos habían hecho fuego. Un fuego pequeño, porque Sein no dejaba hacerlo más grande ni allí. Estaban sentados alrededor. Hablando bajo. Los gnomos dormían amontonados como cachorros. El enano decía piedra en sueños.
+Se sentó en la plataforma de la sala de los sabios, con el diario en las rodillas, con las treinta hojas que le quedaban. Abajo, en la plaza, los humanos habían hecho fuego. Un fuego pequeño, porque Sein no dejaba hacerlo más grande ni allí. Estaban sentados alrededor. Hablando bajo. Los gnomos dormían amontonados como cachorros. El enano decía *piedra* en sueños.
 
 Y en las plataformas de alrededor, en la oscuridad, cientos de elfos los miraban.
 
@@ -212,7 +212,7 @@ Sein no contestó enseguida.
 
 —La otra mitad. —Sein se puso las gafas—. No venían a por Nix. Nix estaba en medio. Venían aquí. Siempre han venido aquí. Nosotros solo les hemos enseñado el camino.
 
-* * *
+---
 
 Érandiul abrió el diario.
 
@@ -222,11 +222,11 @@ Mojó la pluma.
 
 Y escribió, despacio, con la letra cansada, en la lengua de la colina, para que la leyeran los que vinieran detrás:
 
-*Los que sobrevivimos, escapamos hacia Tawarsinan en busca de refuerzos, y los encontramos.*
+*Los que sobrevivimos, escapamos hacia Tawarsinan en busca de refuerzos, y los* *encontramos.*
 
 La leyó.
 
-Y los encontramos. Era verdad. Era la verdad más grande que había escrito en trescientos veintisiete años de diario. Y era mentira, también. Porque no era eso lo que habían ido a buscar, y no era eso lo que iban a traer.
+*Y los encontramos.* Era verdad. Era la verdad más grande que había escrito en trescientos veintisiete años de diario. Y era mentira, también. Porque no era eso lo que habían ido a buscar, y no era eso lo que iban a traer.
 
 No lo tachó.
 

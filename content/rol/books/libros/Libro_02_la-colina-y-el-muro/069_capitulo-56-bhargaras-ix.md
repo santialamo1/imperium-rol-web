@@ -1,4 +1,4 @@
-## Capítulo 56 · Bhargaras IX
+# Capítulo 56 · Bhargaras IX
 
 *Banderbill. Año 165 de la Nueva Era.*
 
@@ -8,7 +8,7 @@
 
 *Consejo protestó. La plaza no.*
 
-Su padre se murió un martes de primavera, a los cincuenta y siete años, de una fiebre de pulmón que cogió en el puerto mirando cómo los gnomos probaban una barca nueva bajo la lluvia, y lo último que dijo fue que se rían.
+Su padre se murió un martes de primavera, a los cincuenta y siete años, de una fiebre de pulmón que cogió en el puerto mirando cómo los gnomos probaban una barca nueva bajo la lluvia, y lo último que dijo fue *que se rían*.
 
 Se rieron.
 
@@ -26,9 +26,9 @@ Tibbet se sonó con la manga.
 
 —Eso es que estás haciéndolo bien —dijo.
 
-* * *
+---
 
-Le pusieron el aro de hierro en la plaza al día siguiente. Le estaba grande. A todos les estaba grande al principio; lo había dicho su padre. Luego te crece la cabeza. O se encoge el aro. No sé cuál de las dos.
+Le pusieron el aro de hierro en la plaza al día siguiente. Le estaba grande. A todos les estaba grande al principio; lo había dicho su padre. *Luego te crece la cabeza. O se* *encoge el aro. No sé cuál de las dos.*
 
 El primer año no hizo nada.
 
@@ -44,7 +44,7 @@ Eso le reprocharon. El Consejo, los gremios, los capitanes. Que no hacía nada. 
 
 —Que es pequeño.
 
-* * *
+---
 
 Era pequeño. Lo había sido siempre. Un muelle de piedra al pie de la colina, de los tiempos de Lanther, con un rompeolas que habían alargado dos veces. Cabían doce barcos. Llegaban treinta. Los de los gnomos, de Nueva Esperanza, cargados de cristales y de fruta que sabía a pan; los de Ullathorpe, con madera del bosque de las hojas grandes; los de Pisor, con arenques; los enanos no tenían barcos pero mandaban sus cosas en los de los demás, y se quejaban de todos.
 

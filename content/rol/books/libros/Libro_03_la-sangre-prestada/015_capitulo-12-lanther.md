@@ -1,4 +1,4 @@
-## Capítulo 12 · Lanther
+# Capítulo 12 · Lanther
 
 *Banderbill. Verano del año 585 de la Nueva Era (22 A.bA).*
 
@@ -6,7 +6,7 @@ Llegó tarde.
 
 No mucho. Once días. Lo que tardó el barco de Nix en subir por la costa con viento en contra, y lo que tardó ella en bajarse del barco, y lo que tardó en subir del puerto a la casa de la puerta azul, que fue lo único que hizo deprisa.
 
-Pero llegó tarde. Mabel de la loma del espino llevaba cinco semanas enterrada en el cementerio de la ladera este, con una piedra que decía miraba arriba, y Lanther no la había conocido nunca.
+Pero llegó tarde. Mabel de la loma del espino llevaba cinco semanas enterrada en el cementerio de la ladera este, con una piedra que decía *miraba arriba*, y Lanther no la había conocido nunca.
 
 Lo pensó en las escaleras. Que la había visto una vez. En el 498. En la primera casa de pastores donde paró con Wenna. No; aquella era otra, una mujer del oeste, la del niño que no lloraba. A Mabel no la había visto. Mabel había vivido setenta y tres años a dos horas de la muralla, en la loma del espino, viendo cómo se llevaban a todos, y Lanther no había llamado nunca a su puerta.
 
@@ -16,13 +16,13 @@ Ninguno de los dos le dijo que llegaba tarde.
 
 Eso fue lo peor.
 
-* * *
+---
 
 Leyó la libreta de Tibbet sentada en el suelo. Dieciséis páginas de letra pequeña y redonda de gnomo, con el lápiz que no se gastaba. Las leyó dos veces. La segunda, despacio, moviendo los labios, como leía de pequeña en la cripta.
 
 Luego leyó la lista de nombres. Ochenta y siete. Con la loma y el año.
 
-El ochenta y siete decía: Grosh, orco, de la hondonada. Volvió.
+El ochenta y siete decía: *Grosh, orco, de la hondonada. Volvió.*
 
 Lanther cerró la libreta.
 
@@ -46,7 +46,7 @@ Lanther no dijo nada.
 
 Sein se volvió. Se quitó las gafas.
 
-—Y la colina es el estómago —dijo—. Lo que quiere de verdad está debajo de la colina. —Se frotó los ojos—. Debajo de la colina están las cuevas viejas. Las de la ladera este. Las de antes de Bander. Donde dormían los primeros, el primer invierno. Donde está la raíz que tocó Lucius.
+—Y *la colina es el estómago* —dijo—. *Lo que quiere de verdad está debajo de la* *colina.* —Se frotó los ojos—. Debajo de la colina están las cuevas viejas. Las de la ladera este. Las de antes de Bander. Donde dormían los primeros, el primer invierno. Donde está la raíz que tocó Lucius.
 
 —Lo sé.
 
@@ -54,17 +54,17 @@ Sein se volvió. Se quitó las gafas.
 
 Lanther levantó la vista. Lo miró.
 
-—Lo sabía desde que la niña dijo dos —dijo—. Lo sabía desde que puse la mano en la piedra y no oí nada. Lo sabía, Sein. No lo veía.
+—Lo sabía desde que la niña dijo *dos* —dijo—. Lo sabía desde que puse la mano en la piedra y no oí nada. Lo sabía, Sein. No lo veía.
 
-* * *
+---
 
 Subieron a la muralla al atardecer. Los tres. Sein con el libro. Tibbet con el sombrero setenta, de hojas de roble, que llevaba el saltamontes de hierro en el forro y que, decía, le daba calor en la cabeza.
 
-Subieron por la escalera de la puerta sur. La de los carros. Hasta la tercera almena desde la torre del suroeste, la que daba a las lomas. Donde un teniente de la Armada que ya no era teniente, que era capitán, que tenía cuarenta y seis años y sonreía siempre, subía cada noche a mirar arriba un segundo y llorar un poco.
+Subieron por la escalera de la puerta sur. La de los carros. Hasta la tercera almena desde la torre del noreste, la que daba a las lomas. Donde un teniente de la Armada que ya no era teniente, que era capitán, que tenía cuarenta y seis años y sonreía siempre, subía cada noche a mirar arriba un segundo y llorar un poco.
 
 No estaba. Era pronto.
 
-Lanther se apoyó en la almena. Miró al suroeste.
+Lanther se apoyó en la almena. Miró al noreste.
 
 Lomas. Moradas, ahora, en pleno verano; el brezo había florecido otra vez antes de tiempo, como cada año desde el 498. Suaves. Redondas. Una detrás de otra, hasta el mar. Con piedras grises. Con las sombras alargándose en las vaguadas.
 
@@ -76,11 +76,11 @@ Lo mismo que había visto desde allí toda la vida. Desde que era pequeña. Desd
 
 —Espera —dijo Lanther.
 
-* * *
+---
 
 Esperaron.
 
-El sol bajaba por el oeste, sobre el mar, a la derecha de las lomas. Se ponía rojo. Las sombras de las lomas se estiraban hacia el este, hacia la colina, cada vez más largas, más negras, como dedos.
+El sol bajaba por el oeste, sobre el mar, a la derecha de las lomas. Se ponía rojo. Las sombras de las lomas se estiraban hacia el este, lejos de la colina, cada vez más largas, más negras, como dedos.
 
 Y entonces, cuando el sol tocó el agua, Lanther lo vio.
 
@@ -104,13 +104,13 @@ Tibbet se subió a la almena, porque no llegaba. Miró. Se le pusieron los ojos 
 
 —Es una torre —dijo.
 
-* * *
+---
 
 Lanther no dijo nada.
 
 Miraba la aguja. Contaba.
 
-La distancia. Lo que tardaba una niña en ir andando a llevarle leche a alguien. Dos horas. Una mañana. Cinco kilómetros, seis. Quizá siete. Desde la muralla de la colina hasta la hondonada. Lo que se tarda en ir de Banderbill a la primera fuente del camino del oeste y volver.
+La distancia. Lo que tardaba una niña en ir andando a llevarle leche a alguien. Dos horas. Una mañana. Cinco kilómetros, seis. Quizá siete. Desde la muralla de la colina hasta la hondonada. Lo que se tarda en ir de Banderbill a la primera fuente del camino de la costa y volver.
 
 Contaba los años. Del 497, la noche de la piedra, hasta hoy. Ochenta y ocho. Del 329, las primeras lámparas, hasta hoy. Doscientos cincuenta y seis.
 
@@ -122,7 +122,7 @@ Doscientos cincuenta y seis años creciendo a siete kilómetros. Sin que nadie l
 
 —Los dedos. —Sein señaló la aguja—. Las columnas. Subían abiertas. Treinta, cuarenta. Ahora se han juntado arriba. Han hecho una torre. Es la misma cosa. Es el templo. —Se quitó las gafas—. Es una mano que se ha cerrado.
 
-* * *
+---
 
 El sol se hundió en el mar.
 
@@ -138,7 +138,7 @@ Tibbet se bajó de la almena. Despacio. Se quitó el sombrero.
 
 —¿Treinta qué?
 
-—La lista. —Tibbet sacó el papel del forro, al lado del saltamontes. Lo desdobló. Tenía veintinueve líneas. Las últimas siete, nuevas, de la semana pasada, de lo que había contado Mabel—. Esta es la treinta. Hay una torre. Se ve desde la muralla. Al atardecer. Solo si se busca.
+—La lista. —Tibbet sacó el papel del forro, al lado del saltamontes. Lo desdobló. Tenía veintinueve líneas. Las últimas siete, nuevas, de la semana pasada, de lo que había contado Mabel—. Esta es la treinta. *Hay una torre. Se ve desde la muralla. Al atardecer.* *Solo si se busca.*
 
 —Apúntala.
 
@@ -148,7 +148,7 @@ Tibbet se bajó de la almena. Despacio. Se quitó el sombrero.
 
 Tibbet no contestó.
 
-* * *
+---
 
 Lanther bajó de la muralla sola.
 
@@ -162,7 +162,7 @@ Llegó al comedor pequeño. El del cartel.
 
 Abrió la puerta.
 
-* * *
+---
 
 El Emperador estaba solo. Cenando. Ciento ochenta y cinco años, la cara de cuarenta y tantos. Las orejas de su madre. Con la funda del aro en el cinto y una camisa sin bordar.
 
@@ -190,11 +190,11 @@ Luego lo apartó.
 
 —Ya —dijo.
 
-* * *
+---
 
 Se lo contó todo.
 
-No solo lo de las lomas. Todo. Desde el principio. Lo hizo de pie, sin sentarse, con la voz baja de las cosas que no se pueden desdecir. Le contó que se llamaba Lanther. Que era la hija de Bander. Que había sido reina en el 31, y que había abdicado en el 58 en su hijo Amael, el primer rey que leía, y que se había ido. Que no se moría porque su hermano le había dado su vida en un valle negro. Le contó la Orden. Tres que saben y uno que suma. Le contó que el señor Vell de la biblioteca, el de las gafas, el que cenaba con él cada diez años, había gritado números desde un tonel en el año 30. Le contó los papeles de los viernes. Le contó que su padre, Lindiel II, no los había leído nunca, y que su abuelo tampoco, y que Niestrel sí.
+No solo lo de las lomas. Todo. Desde el principio. Lo hizo de pie, sin sentarse, con la voz baja de las cosas que no se pueden desdecir. Le contó que se llamaba Lanther. Que era la hija de Bander. Que había sido reina en el 31, y que había abdicado en el 58 en su hijo Amael, el primer rey que leía, y que se había ido. Que no se moría porque su hermano le había dado su vida en un valle negro. Le contó la Orden. *Tres que saben y uno que* *suma.* Le contó que el señor Vell de la biblioteca, el de las gafas, el que cenaba con él cada diez años, había gritado números desde un tonel en el año 30. Le contó los papeles de los viernes. Le contó que su padre, Lindiel II, no los había leído nunca, y que su abuelo tampoco, y que Niestrel sí.
 
 Le contó las ofrendas. La sangre del que dijo que no.
 
@@ -206,9 +206,9 @@ Le contó la torre.
 
 El Emperador la escuchó sin moverse. Sin interrumpir. Con las orejas un poco hacia delante, como los gatos. Con la cara cada vez más quieta.
 
-Cuando ella dijo el general con el arpa, el Emperador cerró los ojos.
+Cuando ella dijo *el general con el arpa*, el Emperador cerró los ojos.
 
-* * *
+---
 
 —Lo sé —dijo, cuando ella terminó.
 
@@ -226,7 +226,7 @@ Se levantó. Fue hasta la ventana. La que daba al sur. A las lomas, negras ya.
 
 —A un elfo viejo con la mano cerrada. Me dijo que a lo mejor era la edad. — Sonrió. Torcido—. Los dos sabíamos que no.
 
-* * *
+---
 
 Se quedaron un rato en silencio. Él en la ventana. Ella de pie junto a la mesa, con la tarta a medio comer delante.
 
@@ -236,7 +236,7 @@ Era la misma pregunta que le había hecho al señor Vell ochenta y dos años ant
 
 Lanther tardó en contestar.
 
-—Que mire —dijo—. Mañana. Al atardecer. Desde la tercera almena de la torre del suroeste. Que lo vea usted. No que se lo cuente yo. Que lo vea.
+—Que mire —dijo—. Mañana. Al atardecer. Desde la tercera almena de la torre del noreste. Que lo vea usted. No que se lo cuente yo. Que lo vea.
 
 —¿Y después?
 
@@ -250,13 +250,13 @@ Lanther se tocó la jarra del cuello.
 
 —La que llega tarde —dijo.
 
-* * *
+---
 
 El Emperador subió a la muralla al día siguiente. Al atardecer. Solo, sin escolta, por la escalera de la puerta sur.
 
 En la tercera almena había un capitán de la Armada de cuarenta y seis años que sonreía. Se cuadró al verlo. El Emperador le dijo que descansara.
 
-Esperaron los dos. Mirando al suroeste.
+Esperaron los dos. Mirando al noreste.
 
 El sol tocó el mar. La aguja apareció.
 
@@ -284,7 +284,7 @@ Y lloró un poco.
 
 —Cada noche, majestad —dijo.
 
-* * *
+---
 
 Esa noche, en el palacio, el Emperador de Banderbill no tocó el arpa.
 
@@ -302,13 +302,13 @@ Arthal II se levantó. Fue a la ventana. Miró al sur. A la luz roja.
 
 Y por primera vez en ciento ochenta y cinco años, tuvo miedo.
 
-* * *
+---
 
 En el barrio élfico, a esa misma hora, en una cocina, un elfo de setecientos veintiocho años con la mano derecha cerrada como un puño de raíz se despertó también.
 
 No por un latido. Por una pizarra.
 
-La pizarra colgaba de la pared desde el 523. Sesenta y dos años. Con dos palabras escritas en tiza, con letra de niño. Todavía no.
+La pizarra colgaba de la pared desde el 523. Sesenta y dos años. Con dos palabras escritas en tiza, con letra de niño. *Todavía no.*
 
 Esa noche, sin que nadie la tocara, la tiza se había caído.
 
@@ -330,7 +330,7 @@ Cogió la pluma con la mano izquierda. La mojó.
 
 Y no escribió nada.
 
-Se quedó así hasta el alba. Con la pluma mojada en la mano izquierda, encima de la hoja en blanco, sin tocarla. Mientras la tinta se secaba en la punta. Mientras fuera, por el este, salía el sol por detrás de la colina, y en el suroeste, a siete kilómetros, una luz roja se apagaba.
+Se quedó así hasta el alba. Con la pluma mojada en la mano izquierda, encima de la hoja en blanco, sin tocarla. Mientras la tinta se secaba en la punta. Mientras fuera, por el este, salía el sol por detrás de la colina, y en el noreste, a siete kilómetros, una luz roja se apagaba.
 
 Cuando Matías Vell, ya viejo, abrió la biblioteca por la mañana, lo encontró dormido en la silla, con el diario abierto y la pluma seca en la mano.
 

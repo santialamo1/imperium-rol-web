@@ -1,4 +1,4 @@
-## Capítulo 67 · Nesturil
+# Capítulo 67 · Nesturil
 
 *El Séptimo Infierno, debajo de Orac. Verano del año 1438 de la Nueva Era (831 D.bA).*
 
@@ -14,7 +14,7 @@ Al décimo intentó acordarse de la poza de Lindos por la mañana, del agua en l
 
 Entonces empezó a contar.
 
-* * *
+---
 
 No los días. En el Infierno no hay días; hay una luz roja que no sube ni baja. Contó otra cosa. Las cosas de arriba que todavía tenía.
 
@@ -30,17 +30,17 @@ La cara del Emperador.
 
 Esa la tenía de sobra.
 
-* * *
+---
 
 Había sido fácil. Eso era lo raro. Lo difícil de verdad suele ser fácil al final, cuando ya se ha decidido.
 
-Los Tres eran de Lindos. Finderil Arrowsong, el hijo de Illidan, con su arco que cantaba. Ardan, el de las manos de curandero, que no había matado nunca a nadie y lo decía. Seliel, la más joven, que tenía ciento diez años y la risa de una niña. Se habían criado juntos. Nesturil los había visto crecer desde la ventana de la torre de la princesa, tirando flechas a las manzanas de los sauces.
+Los Tres eran de Lindos. Finderil Arrowsong, el hijo de Aelthar, con su arco que cantaba. Ardan, el de las manos de curandero, que no había matado nunca a nadie y lo decía. Seliel, la más joven, que tenía ciento diez años y la risa de una niña. Se habían criado juntos. Nesturil los había visto crecer desde la ventana de la torre de la princesa, tirando flechas a las manzanas de los sauces.
 
 En el invierno del 1437, después del octavo Rincón, después de que el orco grande se llevara la Vara a Orac delante de cuatro mil hombres, Finderil dijo que iba a recuperarla.
 
 Solo, primero. Luego con Ardan, que no quiso dejarlo ir solo. Luego con Seliel, que no quiso quedarse.
 
-Nadie se lo mandó. El Emperador no lo supo hasta que ya se habían ido. Nesturil lo supo porque Seliel le dejó una nota debajo del tablero, en el ala este, entre las piedras negras: Vamos a traerla. No se lo digas. Si no volvemos, dile que no fue culpa suya.
+Nadie se lo mandó. El Emperador no lo supo hasta que ya se habían ido. Nesturil lo supo porque Seliel le dejó una nota debajo del tablero, en el ala este, entre las piedras negras: *Vamos a traerla. No se lo digas. Si no volvemos, dile que no fue culpa suya.*
 
 No volvieron.
 
@@ -48,7 +48,7 @@ Los cogieron en la playa roja. En la primera noche. Nesturil lo supo después po
 
 El Demonio los condenó al fuego. Al Séptimo. Para siempre.
 
-* * *
+---
 
 Nesturil fue a Orac sola.
 
@@ -80,7 +80,7 @@ Luego sonrió. Una sonrisa de verdad, que le pasó por todas las caras a la vez.
 
 Y aceptó.
 
-* * *
+---
 
 Los Tres se despertaron en la orilla de Lindos, junto a la poza, al alba del día siguiente. Vivos. Enteros. Sin saber cómo habían llegado. Con una nota en el carcaj de Finderil, en la letra de Nesturil, que había escrito en el barco de Rinkel antes de bajar:
 
@@ -92,7 +92,7 @@ Se lo contaba para ver si le daba miedo.
 
 No le daba.
 
-* * *
+---
 
 La jaula estaba en una sala grande, roja, sin techo que se viera. Colgada de una cadena. Debajo, a veinte pasos, el suelo; y en el suelo, fuego. No mucho. Lo justo para que el aire temblara.
 
@@ -108,7 +108,51 @@ El olor de la biblioteca de Lindos se le fue así. Una tarde. Con un tirón.
 
 La canción de los sauces se le fue en tres. Primero la segunda estrofa. Luego el final. Luego el principio.
 
-* * *
+---
+
+Lo que no se le iba era lo que le contó el de gris de lo de abajo.
+
+No de lo de abajo de la jaula. De lo otro.
+
+Se lo contó una noche, si es que había noche, sentado en el suelo de piedra caliente, con la espalda contra la pared y las piernas cruzadas, como un tío que cuenta un cuento a una sobrina que no quiere dormirse.
+
+—Esto es el Séptimo —dijo—. Debajo de Orac. Mío. —Se miró las uñas—. Pero hay otro sitio. Más abajo que esto. Más abajo que nada. No es mío.
+
+—¿De quién es?
+
+—De nadie. Era de antes. —Se encogió de hombros—. El Abismo Infernal. Está debajo de la montaña de ceniza, de Tundra Zero, tan hondo que no hay escalera ni cueva ni grieta que llegue. No se baja andando. No se baja de ninguna manera con el cuerpo. Si cavaras mil años, princesa, te encontrarías con que has cavado mil años.
+
+—Entonces no se llega.
+
+—Se llega. —Sonrió—. Por magia. Arriba, en la ceniza, hay unas piedras. Negras, lisas, más largas que un hombre, que no ha tallado nadie y a las que no se les pega la ceniza. Casi todas están tumbadas; alguna queda de pie. Los monolitos. Son de antes que todo. Se parecen mucho a una que tienen los de la Torre, al otro lado del mar, la que bebe aliento. Si sabes la palabra y pones la mano, la piedra te lleva. No a ti: lo que eres por dentro. Y lo deja allí abajo, en el Abismo Infernal, el tiempo que la piedra quiere. —Se le fueron un momento todas las caras a la vez—. Yo he puesto la mano. Una vez. ¿Quieres ver lo que vi?
+
+Nesturil no contestó.
+
+El de gris levantó una mano hacia la jaula, desde abajo, sin levantarse. Nesturil sintió dos dedos en la frente, aunque nadie la tocaba.
+
+Y lo vio.
+
+No con los ojos. Como se ve lo que otro recuerda: torcido, a trozos, con el color equivocado. Un fondo sin fondo, rojo y blanco, donde el calor no subía sino que estaba, quieto, como está el agua en un pozo. Y en ese calor, figuras. Demonios, pero no los de la sala de la jaula: más grandes, negros por dentro y rojos por fuera, con cuernos que les salían de los hombros. Demonios infernales, dijo la voz del de gris dentro de su cabeza, con un poco de asco, como un señor que habla de los criados de otra casa. Y entre ellos, quieto, un gólem: un gólem infernal, de hierro fundido que no terminaba de enfriarse nunca, con grietas por donde se le veía el fuego de dentro, alto como la torre de la princesa, que estaba de guardia delante de algo.
+
+Delante de algo que dormía.
+
+Nesturil no lo vio entero. Nadie lo ve entero, dijo la voz. Vio una curva. Una escama del tamaño de una puerta, roja, que se movía despacio, arriba y abajo, como se mueve el pecho de lo que respira. Y oyó la respiración: un ruido de fuelle enorme que no se oía con los oídos.
+
+El Dragón Infernal, dijo la voz. El que no me hace caso.
+
+Y en ese momento, en el recuerdo del de gris, la escama se paró. Un momento. Como se para alguien que escucha.
+
+El de gris bajó la mano.
+
+—Me oyó —dijo, desde el suelo. Ya no sonreía—. Me oyó pensar. Y la piedra me soltó. —Se levantó, se sacudió la ceniza que no tenía—. No he vuelto a poner la mano.
+
+Nesturil se quedó mirando el fuego del suelo, a veinte pasos, mucho rato.
+
+Pensó que era la primera vez que le veía al de gris algo parecido al miedo. Y que no se lo había enseñado para asustarla a ella.
+
+Se lo había enseñado para tener a alguien a quien contárselo.
+
+---
 
 Ithil bajó el día cuarenta.
 
@@ -138,7 +182,7 @@ Luego sacó algo de la manga. Un saquito. De tela vieja, gris, atado con un cord
 
 —Abre la mano.
 
-* * *
+---
 
 Nesturil sacó la mano entre los barrotes.
 
@@ -162,7 +206,7 @@ Miró a las brujas. Que habían dejado de tejer. Las tres. Con las agujas en el 
 
 —Porque lo de arriba se va con los tirones —dijo—. Y la sal no se deja tirar. Es lo que es. Por eso se hizo de sal, él. Para no irse.
 
-* * *
+---
 
 —¿Por qué me ayudas?
 
@@ -182,7 +226,7 @@ No entera. El principio. Las primeras notas. Como vuelve el olor de una casa cua
 
 Y se fue.
 
-* * *
+---
 
 Después de eso las brujas tejían y Nesturil no perdía nada.
 
@@ -198,7 +242,7 @@ Las brujas tejieron.
 
 Ella cantó.
 
-* * *
+---
 
 La noche en que vinieron a por ella, la sala tembló.
 
@@ -212,7 +256,7 @@ Hacia arriba.
 
 Las brujas se levantaron.
 
-* * *
+---
 
 Bajaron por una luz.
 
@@ -228,11 +272,11 @@ Ardan, detrás, con las manos vacías, cogiendo a un soldado herido del brazo y 
 
 Seliel. Riéndose. Con una espada que no sabía usar. Riéndose de miedo.
 
-No volváis, había escrito. No me busquéis.
+*No volváis*, había escrito. *No me busquéis.*
 
 Volvieron.
 
-* * *
+---
 
 Lo que pasó luego no lo vio bien.
 
@@ -250,7 +294,7 @@ Vio a Ardan caer.
 
 No muerto. Herido. En la pierna. Y a Seliel arrastrarlo hacia la luz, sin reírse ya.
 
-* * *
+---
 
 Perdieron.
 
@@ -270,7 +314,7 @@ No lo oyó.
 
 La luz se cerró.
 
-* * *
+---
 
 La sacaron del Infierno por un pasillo largo, de piedra negra, que subía.
 
@@ -290,7 +334,7 @@ Fría.
 
 Le volvió entera.
 
-* * *
+---
 
 El orco que la llevaba habló con otro. En su lengua. Nesturil entendió una palabra, porque la había oído muchas veces en el ala este, en boca de los soldados heridos que volvían del Este.
 

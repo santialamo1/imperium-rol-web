@@ -1,4 +1,4 @@
-## Capítulo 74 · Lanther
+# Capítulo 74 · Lanther
 
 *La colina de Banderbill. Otoño del año 954 de la Nueva Era (347 D.bA).*
 
@@ -10,7 +10,7 @@ Llevaba novecientos cuarenta y tres años sentándose en el suelo de los pasillo
 
 Se le había quedado la costumbre.
 
-* * *
+---
 
 Larath estaba a su lado. De pie. No se sentaba.
 
@@ -30,7 +30,7 @@ Larath hizo un nudo. Lo deshizo.
 
 Lanther no contestó. No había nada que contestar. En novecientos años había aprendido que había preguntas que no se contestaban y frases que no eran preguntas, y esta era de las dos.
 
-* * *
+---
 
 Dentro, Selis gritó.
 
@@ -54,7 +54,7 @@ Largo.
 
 Lanther cerró los ojos.
 
-* * *
+---
 
 Y luego, un llanto.
 
@@ -76,11 +76,11 @@ Y debajo de ese, como siempre, como en todos, el otro. El de siempre. El del mur
 
 *Tum.*
 
-* * *
+---
 
 Salió el médico. Elfo, de Nix, el mismo de las dos veces. Con la cara.
 
-No con la cara. Con otra.
+No con *la* cara. Con otra.
 
 —Un varón —dijo—. Sano. Grita mucho. —Y luego, más bajo, mirando a Larath —: La madre, bien. Cansada. Bien.
 
@@ -94,7 +94,7 @@ Se quedó así. Con el nudo en las manos. Mirándolo.
 
 —Ponle nombre —dijo Lanther.
 
-* * *
+---
 
 Lo dejaron pasar al rato.
 
@@ -116,7 +116,7 @@ El niño dejó de llorar. Abrió los ojos. Grises. Los de todos los recién naci
 
 Miraron arriba.
 
-* * *
+---
 
 —¿Cómo se llama? —preguntó Lanther. Desde la puerta.
 
@@ -136,7 +136,7 @@ Lo dijo para dentro. Probó cómo sonaba. Como se prueban las cosas que se van a
 
 Sonaba a piedra. A algo que aguanta.
 
-* * *
+---
 
 —¿Quiere cogerlo? —preguntó Selis.
 
@@ -152,7 +152,7 @@ Pesaba lo que pesan todos. Nada. Lo que pesa un pan. Lo que pesa una jarra de ba
 
 A este.
 
-* * *
+---
 
 El niño la miró. Con los ojos que no veían.
 
@@ -168,7 +168,7 @@ Y luego siguió.
 
 Igual que su abuelo. Que se paraba en las puertas.
 
-* * *
+---
 
 Lanther se lo devolvió a Selis.
 
@@ -200,7 +200,7 @@ Sein se quitó las gafas.
 
 —Uno basta —dijo. Bajito. Como quien reza—. Lo escribí hace dos años. Uno basta.
 
-* * *
+---
 
 Esa noche, Lanther subió a la tercera almena.
 
@@ -226,7 +226,7 @@ Nada.
 
 —Bueno —dijo—. Que conste.
 
-* * *
+---
 
 Bajó a la biblioteca al amanecer.
 
@@ -238,9 +238,9 @@ Había escrito.
 
 Lanther se acercó. Leyó.
 
-*Larath ha concebido a su primer hijo, Astragal. El nombre de su sucesor se debe en honor a su padre, Astral, y al de su abuelo, Asgal.*
+*Larath ha concebido a su primer hijo, Astragal. El nombre de su sucesor se debe* *en honor a su padre, Astral, y al de su abuelo, Asgal.*
 
-* * *
+---
 
 Lanther lo leyó otra vez.
 
@@ -248,7 +248,7 @@ Lanther lo leyó otra vez.
 
 El padre de Larath. El abuelo de Larath. Bien escritos. En su sitio. Con sus nombres. Por primera vez desde el 907, en el diario, Astral estaba donde tenía que estar: delante de Asgal. Hijo de Asgal. Padre de Larath.
 
-Y dos hojas más atrás, en la del 952, seguía el error. La muerte de Asgal ha sido anunciada. Sin tachar.
+Y dos hojas más atrás, en la del 952, seguía el error. *La muerte de Asgal ha sido* *anunciada.* Sin tachar.
 
 Lanther miró al elfo viejo.
 
@@ -262,9 +262,9 @@ Lanther miró al elfo viejo.
 
 Lanther asintió.
 
-—Y además —dijo Érandiul—, primer. He puesto primer hijo. —Cerró los ojos—. No sé si habrá segundo. Nadie lo sabe. Pero lo he puesto. Para que esté. Por si acaso. — Sonrió con media boca—. Es lo único que he escrito en mil años que no sabía si era verdad.
+—Y además —dijo Érandiul—, *primer*. He puesto *primer hijo*. —Cerró los ojos—. No sé si habrá segundo. Nadie lo sabe. Pero lo he puesto. Para que esté. Por si acaso. — Sonrió con media boca—. Es lo único que he escrito en mil años que no sabía si era verdad.
 
-* * *
+---
 
 A media mañana llegó un carro del muelle.
 
@@ -274,13 +274,13 @@ La caja era de hierro negro. Pesaba. Dentro, envuelto en piel de foca, había un
 
 Y una nota. En letra de enano, que es como de clavos.
 
-*Para el niño. Cuando tenga brazos. Es lo que hay dentro de un escudo antes de que sea escudo. Que le pongan lo que quiera encima. Dalbur.*
+*Para el niño. Cuando tenga brazos. Es lo que hay dentro de un escudo antes de que* *sea escudo. Que le pongan lo que quiera encima. Dalbur.*
 
 Y debajo, otra letra. Más torcida. De hombre.
 
-*Lo que duerme ha abierto un ojo esta noche. Un momento. Y lo ha vuelto a cerrar. Como si escuchara algo. Ilan Hask.*
+*Lo que duerme ha abierto un ojo esta noche. Un momento. Y lo ha vuelto a cerrar.* *Como si escuchara algo. Ilan Hask.*
 
-* * *
+---
 
 Lanther llevó el disco al sótano.
 

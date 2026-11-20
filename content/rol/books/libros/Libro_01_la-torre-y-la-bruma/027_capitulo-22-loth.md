@@ -1,4 +1,4 @@
-## Capítulo 22 · Loth
+# Capítulo 22 · Loth
 
 *Concordia. Año 88, tres días después.*
 
@@ -24,7 +24,7 @@ El vendedor se lo contó con gusto. Se lo contó todo. La emperatriz, la niña, 
 
 Loth se fue sin contestar.
 
-* * *
+---
 
 La plaza estaba limpia. Habían retirado las piras. Habían barrido las cenizas. Solo quedaban dos círculos negros en el empedrado, uno grande y uno más pequeño, que los barrenderos no habían conseguido borrar.
 
@@ -44,7 +44,7 @@ Eran nombres eufesios. Los nombres de los clanes. Los repitió en voz baja, uno 
 
 Buscó a Nadi.
 
-La buscó durante horas. Hasta que se puso el sol y la plaza se llenó de antorchas y de borrachos que celebraban al nuevo emperador. Repitió su nombre mil veces, en voz baja, con las manos en las cenizas. Nadi. Nadi. Nadi.
+La buscó durante horas. Hasta que se puso el sol y la plaza se llenó de antorchas y de borrachos que celebraban al nuevo emperador. Repitió su nombre mil veces, en voz baja, con las manos en las cenizas. *Nadi. Nadi. Nadi.*
 
 Nada.
 
@@ -76,10 +76,10 @@ La voz se apagó.
 
 Loth se levantó. Le dolían las rodillas. Le dolía todo. Miró la torre, la llama blanca en la cúspide, que ardía tranquila sobre la ciudad en fiesta.
 
-Sintió otra vez el empujón. El rechazo. Vete. Aquí no.
+Sintió otra vez el empujón. El rechazo. *Vete. Aquí no.*
 
 —Me voy —le dijo a la torre, en voz alta, en la lengua de la arena—. Pero volveré.
 
-Se marchó de Concordia esa misma noche, por la puerta del noroeste, la que daba al camino de las colinas peladas, el camino de la niebla. No volvió la vista atrás.
+Se marchó de Concordia esa misma noche, por la puerta del noreste, la que daba al camino de las colinas peladas, el camino de la niebla. No volvió la vista atrás.
 
 Volvería sesenta y un años después. Y no vendría solo.

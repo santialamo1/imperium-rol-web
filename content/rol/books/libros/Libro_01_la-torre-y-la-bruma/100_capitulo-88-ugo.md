@@ -1,4 +1,4 @@
-## Capítulo 88 · Ugo
+# Capítulo 88 · Ugo
 
 *Banderbill. Año 1 de la Nueva Era, el primer invierno entero.*
 
@@ -6,7 +6,7 @@ Maese Ugo había hecho pan durante treinta y un años en el barrio del puerto de
 
 En Banderbill, el primer invierno, le robaron dos sacos en una noche. Y entonces maese Ugo entendió que estaban de verdad en el fin del mundo.
 
-* * *
+---
 
 Quedaban once sacos. Once sacos de harina de trigo, de los treinta que habían sacado de las bodegas de las galeras de Meridio, más lo que habían conseguido moler de las semillas de un centeno silvestre que crecía en los prados del delta y que daba un pan negro, áspero, que sabía a tierra mojada y que los niños escupían. Once sacos para quinientas setenta y tres personas hasta la primavera. Hasta la primera cosecha de los huertos, si los huertos daban algo, que nadie lo sabía, porque nadie sabía qué crecía en aquella tierra ni cuándo.
 
@@ -20,7 +20,7 @@ Bander había aprobado la cuenta al día siguiente, delante de todos, en la expl
 
 Luego llegó el invierno.
 
-* * *
+---
 
 Llegó de golpe, una noche de la luna de las nieblas, con un viento del norte que bajaba de las montañas negras y helaba el agua de los cubos dentro de las casas. Se fueron los salmones. Se fueron las bayas. El bosque se quedó mudo bajo la nieve. Los cazadores volvían con las manos vacías y los dedos negros de congelación. El mar se puso de un gris de plomo y las barcas de los pescadores no podían salir de la bahía.
 
@@ -34,7 +34,7 @@ No porque fuera necesario. Porque le parecía que a la gente le gustaba oír su 
 
 Bander hacía cola como todos. Detrás de una viuda Germa y delante de un guardia Zelto. Cogía su media hogaza, decía gracias, maese, y se iba. Mara también. Livia también. La primera semana, la gente se quedaba mirándolos. La segunda, ya no.
 
-* * *
+---
 
 Los dos sacos desaparecieron la noche del vigésimo día de la luna de las nieblas.
 
@@ -48,7 +48,7 @@ Luego se levantó, subió al horno y amasó las cuarenta hornadas, como cada ma�
 
 Y a mediodía fue a ver al emperador.
 
-* * *
+---
 
 Encontraron al ladrón antes del anochecer. No fue difícil. Banderbill era una colina con ochenta casas de troncos y una empalizada, y en la nieve las huellas se seguían como un hilo.
 
@@ -58,7 +58,7 @@ No negó nada. Cuando entraron, estaba sentado junto al fuego con el niño en br
 
 —Sí —dijo—. Fui yo.
 
-* * *
+---
 
 Lo juzgaron al día siguiente en la casa del panadero, porque era la única con una mesa lo bastante grande y porque hacía frío para hacerlo fuera. Vinieron todos los que cupieron, que eran muchos, apretados contra las paredes, con el vaho saliendo de las bocas. Los que no cupieron esperaron fuera, en la nieve, con las orejas pegadas a las rendijas de los troncos.
 
@@ -106,9 +106,9 @@ Tobías parpadeó. Rebuscó en su memoria, que era muy buena.
 
 Tobías tragó saliva. La dijo en voz alta, en la casa del panadero, delante de todos, trescientos y pico años después de que la escribiera, con letra grande y torpe, un guardia que había mirado desde un balcón:
 
-—Y el emperador, el primero.
+—*Y el emperador, el primero.*
 
-* * *
+---
 
 La sentencia de Bander VI en el primer invierno de Banderbill fue esta, y Tobías Grull la apuntó en sus crónicas palabra por palabra:
 
@@ -134,7 +134,7 @@ Bander tardó en contestar.
 
 —Porque si un día hay que elegir quién pasa hambre en esta colina —dijo—, quiero que sea yo el primero. Así nadie tendrá que robar por miedo a que le toque. Sabrán que antes me toca a mí.
 
-* * *
+---
 
 Aquel invierno no se murió nadie de hambre en Banderbill. Murió de frío un viejo pescador de Pisor que se empeñó en salir a la bahía, y de pulmonía una tejedora Germa que ya venía enferma desde el mar. De hambre, nadie.
 

@@ -1,4 +1,4 @@
-## Capítulo 73 · Sein
+# Capítulo 73 · Sein
 
 *El sótano de la biblioteca de Banderbill. Año 952 de la Nueva Era (345 D.bA).*
 
@@ -10,33 +10,31 @@ En el libro quincuagésimo, la hoja sin numerar —la misma desde el 915, que Se
 
 Todas decían lo mismo, de distintas maneras.
 
-* * *
+---
 
 *Año 915. La cadena se está haciendo fina.*
 
-*Año 919. Brena no tendrá más hijos. Lo ha dicho el médico elfo otra vez. Astral se ha parado en la puerta.*
+*Año 919. Brena no tendrá más hijos. Lo ha dicho el médico elfo otra vez. Astral se* *ha parado en la puerta.*
 
-*Año 924. Larath tiene nueve años. Sano. Se sube a los tejados. Que no se suba a los tejados.*
+*Año 924. Larath tiene nueve años. Sano. Se sube a los tejados. Que no se suba a los* *tejados.*
 
 *Año 930. Astral ya no tiene ofrenda. Larath, sí.*
 
-*Año 933. Larath se ha roto un brazo. En un tejado. Ha bajado Lanther a sostenerlo mientras el médico se lo ponía. Larath no ha llorado. Lanther, un poco. Año 938. Larath se casa. Con Selis, hija de un cordelero de la calle de abajo. Bien.*
+*Año 933. Larath se ha roto un brazo. En un tejado. Ha bajado Lanther a sostenerlo* *mientras el médico se lo ponía. Larath no ha llorado. Lanther, un poco.* *Año 938. Larath se casa. Con Selis, hija de un cordelero de la calle de abajo. Bien.*
 
-*Año 941. Selis ha perdido un niño. En el cuarto mes.*  
-*Año 946. Selis ha perdido otro.*  
-*Año 950. Astral tose.*
+*Año 941. Selis ha perdido un niño. En el cuarto mes.* *Año 946. Selis ha perdido otro.* *Año 950. Astral tose.*
 
-* * *
+---
 
 Astral se murió en la primavera del 952, de la tos, con noventa y dos años. Los mismos que su padre. Lo dijo alguien en el entierro. Que los Bhargaras se morían a los noventa y dos ahora, como si fuera una costumbre.
 
 Sein no lo apuntó. No era verdad. Era una coincidencia. Las coincidencias no se apuntan.
 
-Se paró en la puerta del cuarto antes de morirse. Astral. Lo contaron los pajes. Que pidió que lo llevaran a la ventana, y en el umbral, en brazos de dos hombres, dijo un momento, y miró el suelo del otro lado.
+Se paró en la puerta del cuarto antes de morirse. Astral. Lo contaron los pajes. Que pidió que lo llevaran a la ventana, y en el umbral, en brazos de dos hombres, dijo *un* *momento*, y miró el suelo del otro lado.
 
 Y luego pasó.
 
-* * *
+---
 
 Coronaron a Larath a la semana siguiente.
 
@@ -50,9 +48,9 @@ Lo dijo porque lo decía todo el mundo. No sabía por qué.
 
 Sein estaba al fondo de la sala del trono. Con las gafas. Con el libro debajo del brazo. Lo apuntó todo, de pie, en la columna del haber.
 
-*Año 952. Larath, vigésimo primer Emperador. Hijo único de Astral. Sin hijos. Dos perdidos.*
+*Año 952. Larath, vigésimo primer Emperador. Hijo único de Astral. Sin hijos. Dos* *perdidos.*
 
-* * *
+---
 
 Por la tarde, Sein subió a los tejados.
 
@@ -66,7 +64,7 @@ Sein se sentó un poco más abajo. Agarrado a una chimenea.
 
 Nadie dijo nada durante un rato.
 
-* * *
+---
 
 —Me lo ha explicado —dijo Larath al fin. Sin volverse—. Lo de la ofrenda. Ahora que soy yo.
 
@@ -86,7 +84,7 @@ Larath dejó de dar vueltas al aro.
 
 —Que no la voy a dar hasta que tenga dos hijos.
 
-* * *
+---
 
 Sein no dijo nada. Lanther tampoco.
 
@@ -102,7 +100,7 @@ Larath se encogió de hombros.
 
 —Entonces no la doy —dijo—. Y me la llevo. Y se pierde una. Que es mejor que perder la línea por darla.
 
-* * *
+---
 
 Lanther habló por primera vez.
 
@@ -120,7 +118,7 @@ Larath la miró.
 
 Lanther tardó mucho.
 
-—No —dijo—. Tenía dieciocho años. Me la dio mi hermano en un valle negro, al borde de un agujero, deprisa, porque se moría. Me dijo para que alguien se acuerde. —Se tocó el pecho—. He tardado novecientos años en saber de qué.
+—No —dijo—. Tenía dieciocho años. Me la dio mi hermano en un valle negro, al borde de un agujero, deprisa, porque se moría. Me dijo *para que alguien se acuerde*. —Se tocó el pecho—. He tardado novecientos años en saber de qué.
 
 —¿Y de qué?
 
@@ -138,7 +136,7 @@ Larath le tendió la mano.
 
 —Vamos, señor Vell —dijo—. Le bajo yo. Sé hacer nudos.
 
-* * *
+---
 
 Esa noche bajó a la biblioteca de arriba. A la sala del fondo. Donde estaba el diario.
 
@@ -148,9 +146,9 @@ Esa noche había escrito.
 
 Sein se acercó. Leyó.
 
-*La muerte de Asgal ha sido anunciada. Su hijo, Larath, es coronado como el Vigésimo primer Emperador de Banderbill.*
+*La muerte de Asgal ha sido anunciada. Su hijo, Larath, es coronado como el* *Vigésimo primer Emperador de Banderbill.*
 
-* * *
+---
 
 Sein se quedó quieto.
 
@@ -166,23 +164,23 @@ Lo leyó otra vez. Se quitó las gafas. Las limpió con el borde de la manga. Se
 
 —Lo sé.
 
-—Asgal se murió hace cuarenta y cinco años. Lo escribiste tú. Seguramente debido a su avanzada edad. —Sein buscó la hoja. Hacia atrás. La encontró—. Aquí. 907. Y el hijo de Asgal es Astral, no Larath. Larath es el nieto.
+—Asgal se murió hace cuarenta y cinco años. Lo escribiste tú. *Seguramente debido* *a su avanzada edad.* —Sein buscó la hoja. Hacia atrás. La encontró—. Aquí. 907. Y el hijo de Asgal es Astral, no Larath. Larath es el nieto.
 
 —Lo sé, Sein.
 
-* * *
+---
 
 Sein esperó.
 
 Érandiul miró la línea. La mano izquierda le temblaba encima del papel. Tenía la piel tan fina que se le veían los huesos por dentro, como las ramas de un árbol de invierno.
 
-—Iba a poner Astral —dijo—. Mojé la pluma. Pensé Astral. Y la mano escribió Asgal.
+—Iba a poner Astral —dijo—. Mojé la pluma. Pensé *Astral*. Y la mano escribió *Asgal*.
 
 —¿Por qué?
 
-—Porque a Asgal lo vi nacer. —El elfo viejo cerró los ojos—. En una forja. En el hielo. No lo vi; me lo contaron. Pero lo apunté. Y lo vi coronarse con un aro de hierro de los enanos. Y lo vi en la escalera, en el 892, gritando arriba. Y lo vi morirse, viejo, con el aro en el regazo. —Abrió los ojos—. A Astral lo vi pararse en las puertas. Eso es todo lo que vi de Astral. Que se paraba. Era un buen Emperador. No pasó nada. —Le tembló la boca—. Y de lo que no pasa nada, no se acuerda la mano.
+—Porque a Asgal lo vi nacer. —El elfo viejo cerró los ojos—. En una forja. En el hielo. No lo vi; me lo contaron. Pero lo apunté. Y lo vi coronarse con un aro de hierro de los enanos. Y lo vi en la escalera, en el 892, gritando *arriba*. Y lo vi morirse, viejo, con el aro en el regazo. —Abrió los ojos—. A Astral lo vi pararse en las puertas. Eso es todo lo que vi de Astral. Que se paraba. Era un buen Emperador. No pasó nada. —Le tembló la boca—. Y de lo que no pasa nada, no se acuerda la mano.
 
-* * *
+---
 
 —¿Lo corriges?
 
@@ -204,7 +202,7 @@ Sein le quitó la pluma de la mano. La limpió. La dejó en el tintero.
 
 No corrigió nada.
 
-* * *
+---
 
 Bajó al sótano.
 
@@ -212,19 +210,19 @@ Estaban la pelirroja y Wenna, que olía a castañas aunque no fuera tiempo. Y Mi
 
 No estaba Tibbet.
 
-Tibbet estaba en Annkör desde el 948. Había ido a ver la montaña. La suya. La que se llamaba Sombrero aunque él había perdido la votación de los continentes, en el 816, veintitrés a uno; la montaña se la habían puesto después, de consuelo, un muchacho Hask y unos enanos. Había escrito una carta desde Tiama: Es más alta de lo que pensaba. No me la voy a poner. Y debajo: Número 119. De líquenes. Pican. Volvería en primavera, decía. Lo decía cada año.
+Tibbet estaba en Annkör desde el 948. Había ido a ver la montaña. La suya. La que se llamaba Sombrero aunque él había perdido la votación de los continentes, en el 816, veintitrés a uno; la montaña se la habían puesto después, de consuelo, un muchacho Hask y unos enanos. Había escrito una carta desde Tiama: *Es más alta de lo que pensaba. No me* *la voy a poner.* Y debajo: *Número 119. De líquenes. Pican.* Volvería en primavera, decía. Lo decía cada año.
 
 No estaba Verawel. Verawel estaba en el bosque de Nix desde el 940. Se había ido andando, con la mitad del cuerpo de madera, a echar raíces en un claro donde había nacido. Se había quedado allí. De pie. Iban a verlo en primavera. Tenía hojas.
 
-No estaba Ilwen. Ilwen se había ido al bosque blanco, al norte del bosque muerto, con los suyos, los que cantaban hacia abajo. Escribía una carta cada diez años. Las cartas no decían nada. Decían aquí sigo.
+No estaba Ilwen. Ilwen se había ido al bosque blanco, al norte del bosque muerto, con los suyos, los que cantaban hacia abajo. Escribía una carta cada diez años. Las cartas no decían nada. Decían *aquí sigo*.
 
 No estaba Ottherius. Ottherius se había vuelto a Rinkel en el 940, a la choza de su madre, en el borde del desierto, con un arcón. Dentro del arcón, un rollo atado que no se había desatado nunca. Decía que en la colina había demasiados latidos y que ya no oía el suyo. Decía que el rollo estaba más tranquilo lejos del mar.
 
-No estaba Ithil. Ithil estaba en Orac. Desde el 893. Escribía menos. Una vez, en el 920, una tablilla de piedra con una sola palabra, en élfico: bien.
+No estaba Ithil. Ithil estaba en Orac. Desde el 893. Escribía menos. Una vez, en el 920, una tablilla de piedra con una sola palabra, en élfico: *bien*.
 
 Eran pocos. En el sótano. Para todo lo que había que llevar.
 
-* * *
+---
 
 Sein abrió el libro. Por la hoja sin numerar.
 
@@ -234,7 +232,7 @@ La puso encima de la mesa. Delante de Wenna.
 
 Wenna lo leyó.
 
-Las cuarenta y dos líneas. Desde el 915. La cadena se está haciendo fina. Hasta la última, que había escrito esa tarde:
+Las cuarenta y dos líneas. Desde el 915. *La cadena se está haciendo fina.* Hasta la última, que había escrito esa tarde:
 
 *Año 952. Larath, hijo único. Sin hijos. Dos perdidos. Selis tiene treinta y uno.*
 
@@ -242,7 +240,7 @@ Wenna levantó la vista.
 
 —Hace la cuenta —dijo Sein—. Hazla.
 
-* * *
+---
 
 Wenna no la hizo en voz alta. La hizo Sein. Porque era lo que hacía.
 
@@ -252,7 +250,7 @@ Wenna no la hizo en voz alta. La hizo Sein. Porque era lo que hacía.
 
 —Puede. Llevo novecientos años apuntando casualidades. —Sein se quitó las gafas —. Cinco seguidas ya no son casualidad. Son una columna.
 
-* * *
+---
 
 —Si Larath no tiene hijos —dijo el tío Teo—. ¿Qué pasa?
 
@@ -266,7 +264,7 @@ Lanther habló.
 
 Era la primera vez que Sein le oía decir eso en ese tono. Desde el año 58, cuando le dio la suya.
 
-* * *
+---
 
 —Hay una cosa —dijo Lanther.
 
@@ -278,9 +276,9 @@ Pequeño. De cristal de las islas de los gnomos. Del tamaño de un dedo. Con un 
 
 Lo puso encima de la mesa. Al lado del libro.
 
-—Bhargaras IX —dijo—. El que dijo que no. No quiso dar su vida a nadie. Se cortó, y la dejó caer aquí, y la tapó. Y me lo dio. Y me dijo: para quien haga falta.
+—Bhargaras IX —dijo—. El que dijo que no. No quiso dar su vida a nadie. Se cortó, y la dejó caer aquí, y la tapó. Y me lo dio. Y me dijo: *para quien haga falta*.
 
-* * *
+---
 
 Sein lo conocía. Lo había apuntado cuando se lo dio IX. En una columna que no era ninguna, porque entonces no tenía hoja sin numerar.
 
@@ -294,7 +292,7 @@ Y en el 856, cuando murió XI:
 
 *XI no lo quiso. Dijo que ya había dado lo suyo.*
 
-* * *
+---
 
 —Lo hablamos —dijo Lanther—. Hace mucho. En el 790, en este sótano, con Verawel y con Ilwen. Lo que era. —Miró el frasco—. Es sangre de la línea. Fuera de un cuerpo. Guardada. No ha envejecido. No se ha secado. Si un día no queda nadie con la sangre… si un día no hay nadie a quien cortarle la palma…
 
@@ -302,7 +300,7 @@ Y en el 856, cuando murió XI:
 
 —Queda esto. Una vez. Una gota.
 
-* * *
+---
 
 —¿Y para qué sirve? —preguntó el tío Teo.
 
@@ -316,7 +314,7 @@ Lanther no contestó enseguida.
 
 Nadie dijo nada.
 
-* * *
+---
 
 Sein miró el frasco. Mucho tiempo.
 
@@ -332,13 +330,13 @@ La pluma se quedó así. Un rato. Encima del papel. Goteó una vez. Una mancha p
 
 Dejó la pluma.
 
-* * *
+---
 
 Esa noche, cuando se fueron todos, Sein se quedó.
 
 Con el frasco. Y con el libro.
 
-Pensó en Larath. Que hacía nudos. Que se había roto un brazo en un tejado y no había llorado. Que se había puesto el aro y había dicho así sin saber por qué.
+Pensó en Larath. Que hacía nudos. Que se había roto un brazo en un tejado y no había llorado. Que se había puesto el aro y había dicho *así* sin saber por qué.
 
 Pensó en Selis. Treinta y un años. Dos perdidos.
 
@@ -346,9 +344,8 @@ Pensó en Érandiul, arriba, dormido, con la pluma limpia en el tintero y un err
 
 Y escribió, al fin. No en la hoja sin numerar. En el margen de la primera hoja del libro. Donde no escribía nunca. Donde solo había escrito una vez, en el 750, una cosa sobre Lanther que nadie había leído.
 
-*Año 952. Esta noche he puesto la pluma encima de la hoja y no he sabido qué poner. Es la primera vez en novecientos años.*
+*Año 952. Esta noche he puesto la pluma encima de la hoja y no he sabido qué* *poner. Es la primera vez en novecientos años.*
 
 *Que no se muera Larath. Que no se muera Selis. Que tengan uno.*
 
-*Uno basta.*  
-*Que conste.*
+*Uno basta.* *Que conste.*

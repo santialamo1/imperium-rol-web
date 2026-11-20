@@ -1,4 +1,4 @@
-## Capítulo 56 · Yaakov
+# Capítulo 56 · Yaakov
 
 *Desierto de la Niebla. Año 245, la Batalla de las Sombras.*
 
@@ -26,7 +26,7 @@ Gracias a la Madre Ysh-Neva y a su linaje, el Imperio sabía ahora lo que Braco 
 
 Yaakov tenía doce años cuando tuvo esa conversación. Tenía treinta y tres ahora. Y llevaba veintiún años pensando en ella.
 
-* * *
+---
 
 —Viene —dijo Ysh-Neva.
 
@@ -40,7 +40,7 @@ Ysh-Neva cerró los ojos. Escuchó.
 
 —¿Y la jarra?
 
-—Con él. Siempre la lleva con él desde Ummat. No se fía de nadie más. —Ysh-Neva abrió los ojos—. Es la segunda, Yaakov. La que nos dijo nuestra espía. La que guarda en una caja de plata, colgada del cuello de la mujer del velo.
+—Con él. Siempre la lleva con él desde Ummat. No se fía de nadie más. —Ysh- Neva abrió los ojos—. Es la segunda, Yaakov. La que nos dijo nuestra espía. La que guarda en una caja de plata, colgada del cuello de la mujer del velo.
 
 Yaakov asintió. Miró hacia arriba. Hacia el cielo, o hacia donde debería estar el cielo: un techo gris, espeso, uniforme, sin un solo resquicio. La niebla aquí era tan densa que a mediodía parecía el crepúsculo. No se veía el sol. No se veía nada.
 
@@ -48,7 +48,7 @@ Yaakov asintió. Miró hacia arriba. Hacia el cielo, o hacia donde debería esta
 
 —El ojo siempre está ahí arriba. —Ysh-Neva sonrió—. Aunque no lo veas. Esa es la primera cosa que aprendemos los libres. La última que olvidaron las Madres.
 
-* * *
+---
 
 Los muertos salieron de la niebla a mediodía, como había previsto Ysh-Neva.
 
@@ -76,7 +76,7 @@ Donde tocaban, la niebla se evaporaba. Y los muertos que quedaban debajo, sin la
 
 Las sombras, por primera vez en mil años, se dibujaron en las dunas. Miles de sombras de cuerpos que caían. Por eso la llamarían así: la Batalla de las Sombras.
 
-* * *
+---
 
 El Padre de la Bruma no huyó.
 
@@ -100,7 +100,7 @@ Loth miró a Ysh-Neva. Por primera vez, algo cambió en su cara.
 
 —Las Madres les quitaban a sus hijos —dijo—. Yo les quité a las Madres. ¿No es justo?
 
-—Nada de lo que haces es justo —dijo Ysh-Neva—. Solo es necesario. Para ti. Para tu cosa del pozo. —Dio un paso adelante—. ¿Sabes cómo te llaman los niños de mi clan, Padre de la Bruma? No te llaman monstruo. No te llaman demonio. Te llaman el que no suelta. Porque eso es lo que eres. Un hombre que no sabe soltar.
+—Nada de lo que haces es justo —dijo Ysh-Neva—. Solo es necesario. Para ti. Para tu cosa del pozo. —Dio un paso adelante—. ¿Sabes cómo te llaman los niños de mi clan, Padre de la Bruma? No te llaman monstruo. No te llaman demonio. Te llaman *el que* *no suelta*. Porque eso es lo que eres. Un hombre que no sabe soltar.
 
 Loth la miró durante un largo rato.
 
@@ -116,13 +116,13 @@ Y la mujer del velo, a su lado, hizo algo que nadie esperaba.
 
 Se arrancó la caja de plata del cuello. La arrojó hacia arriba, hacia la duna, hacia el ejército imperial. La caja voló por el aire, girando, brillando bajo el sol, y cayó a los pies de Yaakov Tiberius.
 
-Loth, en el suelo, gritó su nombre. Seren. Lo gritó como si le arrancaran el corazón.
+Loth, en el suelo, gritó su nombre. *Seren.* Lo gritó como si le arrancaran el corazón.
 
 Yaakov abrió la caja. Dentro había una jarra de sal negra, del tamaño de una cabeza de niño. Latía.
 
 La estrelló contra una piedra.
 
-* * *
+---
 
 El grito de Loth hizo temblar el desierto por segunda vez en medio siglo.
 
@@ -136,7 +136,7 @@ La mujer del velo no contestó. No podía. Pero Ysh-Neva, en lo alto de la duna,
 
 —Dice que no tires tanto.
 
-Loth se quedó quieto. Luego, sin una palabra, se dio la vuelta y caminó hacia el oeste, hacia donde la niebla todavía era espesa, hacia el Pozo Primero. La mujer del velo lo siguió. Los muertos que quedaban, también, arrastrando los pies.
+Loth se quedó quieto. Luego, sin una palabra, se dio la vuelta y caminó hacia el este, hacia donde la niebla todavía era espesa, hacia el Pozo Primero. La mujer del velo lo siguió. Los muertos que quedaban, también, arrastrando los pies.
 
 Yaakov no los persiguió. Sus hombres estaban agotados. Los espejos, a punto de romperse. Y la niebla ya empezaba a cerrarse otra vez sobre el agujero en el cielo.
 
@@ -146,9 +146,9 @@ Yaakov no los persiguió. Sus hombres estaban agotados. Los espejos, a punto de 
 
 —Volverá.
 
-—Lo sé. —Yaakov miró hacia el oeste, hacia la figura que se alejaba—. Pero hoy no.
+—Lo sé. —Yaakov miró hacia el este, hacia la figura que se alejaba—. Pero hoy no.
 
-* * *
+---
 
 Yaakov Tiberius, noveno emperador de los pueblos jurados, el Vencedor de las Sombras, murió cuatro años después, en el verano del año doscientos cuarenta y nueve, a los treinta y siete años, de unas fiebres repentinas que lo atacaron la noche del banquete de su aniversario de coronación y que se lo llevaron en dos días.
 

@@ -1,4 +1,4 @@
-## Capítulo 66 · Gregorian
+# Capítulo 66 · Gregorian
 
 *Colinas de Askel. Año 299, el Atardecer Rojo.*
 
@@ -34,7 +34,7 @@ Una jarra.
 
 —El resto del ejército va a hacer lo que yo les diga. —Gregorian se subió a su caballo—. En cuanto me vean.
 
-* * *
+---
 
 Cabalgó hasta el centro de las líneas imperiales. Hasta el punto exacto donde la retirada empezaba a convertirse en desbandada. Se detuvo allí, delante de los hombres que huían, y se quitó el yelmo, para que le vieran la cara.
 
@@ -54,7 +54,7 @@ Nadie aplaudió. Nadie gritó su nombre. Pero la línea dejó de retroceder.
 
 Fue suficiente.
 
-* * *
+---
 
 Llegaron a la colina del brezo con el sol ya bajo, rojo, enorme, en el horizonte del oeste. La niebla allí era tan espesa que los braseros de sal apenas conseguían abrir un círculo de veinte pasos. Los muertos los atacaban desde todas partes. La Tercera Legión, la de los Ibaro, formaba un círculo de escudos alrededor de los Custodios, y los Custodios nombraban y nombraban, y los muertos caían, y otros ocupaban su lugar.
 
@@ -114,13 +114,13 @@ La mujer del velo no se movió. Se quedó allí, inmóvil, con la daga en alto, 
 
 Merel estrelló la jarra contra la roca.
 
-* * *
+---
 
 El grito del Padre de la Bruma, esta vez, se oyó en Concordia.
 
 En el campo de batalla, una séptima parte del ejército de la niebla se desplomó. Los demás se quedaron inmóviles, perdidos, sin amo. Y el ejército imperial, que había aguantado una hora en su línea como Gregorian les había pedido, cargó.
 
-Los quemaron con fuego de sal. Los decapitaron. Los Custodios que quedaban en pie nombraron hasta caer desmayados. Y el sol se puso sobre las colinas de Askel, rojo como la sangre, enorme, tiñendo de escarlata la niebla que se retiraba hacia el oeste, la hierba pisoteada, los cuerpos, las armaduras, los estandartes. Por eso la llamarían así. El Atardecer Rojo.
+Los quemaron con fuego de sal. Los decapitaron. Los Custodios que quedaban en pie nombraron hasta caer desmayados. Y el sol se puso sobre las colinas de Askel, rojo como la sangre, enorme, tiñendo de escarlata la niebla que se retiraba hacia el este, la hierba pisoteada, los cuerpos, las armaduras, los estandartes. Por eso la llamarían así. El Atardecer Rojo.
 
 Gregorian Bhargaras bajó de la colina del brezo con la mejilla abierta y la Custodia Merel desmayada en brazos. La mujer del velo había desaparecido. No la vio irse. Un momento estaba allí, temblando, y al siguiente ya no.
 
@@ -144,7 +144,7 @@ Gregorian Bhargaras se arrodilló en el barro de las colinas de Askel, al atarde
 
 Fue el primer emperador coronado en un campo de batalla. No sería el último.
 
-* * *
+---
 
 Esa noche, en su tienda, mientras un físico le cosía la mejilla, Gregorian le pidió a la Custodia Merel, que había despertado, que le contara lo que había oído al romper la jarra.
 
@@ -154,10 +154,10 @@ Merel tardó en contestar. Era una mujer joven, Lato de los bosques de abedules 
 
 —¿Qué decía?
 
-—Decía: Quedan cuatro. —Merel bajó la vista—. Y la cosa grande le contestó.
+—Decía: *Quedan cuatro*. —Merel bajó la vista—. Y la cosa grande le contestó.
 
 —¿Qué le contestó?
 
 Merel se estremeció.
 
-—Le dijo: Bastan.
+—Le dijo: *Bastan.*

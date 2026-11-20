@@ -1,4 +1,4 @@
-## Capítulo 48 · Andriath
+# Capítulo 48 · Andriath
 
 *El sur. El Fuerte Novel. Verano del año 132 de la Nueva Era.*
 
@@ -8,15 +8,15 @@
 
 *el rey: nada. Lo ha pedido él. Que conste que lo ha pedido él.*
 
-El fuerte se llamó Novel porque el primer día, al clavar la primera estaca, un sargento de Gijor dijo que aquello era una novedad, que nunca en la historia de la colina se había levantado nada tan lejos, y Andriath se rió y dijo pues que se llame así. Luego se arrepintió. Le parecía un nombre de posada. Pero los hombres ya lo decían, y lo que dicen seiscientos hombres no se desdice.
+El fuerte se llamó Novel porque el primer día, al clavar la primera estaca, un sargento de Gijor dijo que aquello era una novedad, que nunca en la historia de la colina se había levantado nada tan lejos, y Andriath se rió y dijo *pues que se llame así*. Luego se arrepintió. Le parecía un nombre de posada. Pero los hombres ya lo decían, y lo que dicen seiscientos hombres no se desdice.
 
 Estaba en el sur. Muy al sur. A veinte días de marcha de la colina, por el camino de la costa y luego por los bosques, donde los árboles eran distintos —más altos, más oscuros, con hojas grandes como platos y lianas colgando— y el aire pesaba y olía a fruta podrida. Al sur de Bhargaras, decía el pergamino del pacto. Al este del campamento orco.
 
 El campamento orco no lo había visto nadie. Pero se oía.
 
-Por las noches. Desde el oeste. Bum. Bum. Bum.
+Por las noches. Desde el oeste. *Bum. Bum. Bum.*
 
-* * *
+---
 
 Andriath tenía cincuenta y cinco años y se le notaban.
 
@@ -36,7 +36,7 @@ En la colina, la gente había dejado de preguntar hacía mucho. Sein Vell se hab
 
 —Yo me creo lo que apunto. —Sein abrió el cuaderno—. Y aquí pone que me faltan cuarenta barriles de clavos, majestad. ¿Dónde están?
 
-* * *
+---
 
 El fuerte creció deprisa. Seiscientos hombres de la colina y doscientos elfos del sur. Los elfos no sabían construir con piedra, pero sabían qué árboles se podían cortar sin que el bosque se enfadara, y dónde había agua, y cómo hacer que la madera recién cortada no se pudriera con la humedad, cantándole. Los hombres se reían de ellos al principio. Luego dejaron de reírse, cuando vieron que la empalizada de los elfos no se pudría y la suya sí.
 
@@ -44,12 +44,11 @@ Andriath trabajaba con todos. Cargaba. Cavaba. Comía con los soldados, en el su
 
 No era miedo. Lo conocía, el miedo. Lo había sentido muchas veces en el patio del cuartel, antes de un combate de práctica con alguien mejor que él, que eran pocos. Esto era otra cosa. Más baja. Más tranquila. Como la cuenta que se hace de cabeza sin querer.
 
-Cincuenta y cinco años. Mi padre murió a los sesenta y cinco. Mi abuelo, el panadero, a los sesenta y nueve. Mi bisabuelo, el que oía, a los… No sabía a cuántos. Nadie sabía bien cuántos años tenía Bander cuando murió. Muchos.
+*Cincuenta y cinco años. Mi padre murió a los sesenta y cinco. Mi abuelo, el* *panadero, a los sesenta y nueve. Mi bisabuelo, el que oía, a los…* No sabía a cuántos. Nadie sabía bien cuántos años tenía Bander cuando murió. Muchos.
 
-*Me quedan diez. Veinte, si tengo suerte.*  
-*Y ella seguirá teniendo veinte años.*
+*Me quedan diez. Veinte, si tengo suerte.* *Y ella seguirá teniendo veinte años.*
 
-* * *
+---
 
 —¿Lo piensas mucho? —le preguntó Sein, una noche.
 
@@ -83,7 +82,7 @@ Andriath se rió. No le salió muy bien.
 
 —Casimir contaba muertos que ya estaban muertos. Es más fácil. —Sein cerró el cuaderno—. Los vivos se mueven.
 
-* * *
+---
 
 Los elfos del sur tenían un jefe. Se llamaba Aerith, era viejo, de los viejos de verdad, y tenía una cicatriz que le cruzaba la cara de la frente a la barbilla, de un hacha orca, del año ciento diez. No hablaba la lengua de los humanos. Hablaba con Sein, que había aprendido la de los elfos en setenta años de Orden, y Sein traducía.
 
@@ -117,13 +116,13 @@ Aerith habló mucho rato. Muy bajo. Mirando hacia el oeste, hacia los tambores.
 
 Sein no contestó. Aerith tampoco.
 
-* * *
+---
 
 Esa noche, Andriath le escribió a su abuela.
 
-No sabía escribir bien. Le costaba. Las letras le salían grandes, torcidas, como las de Corvo, decía Sein, que había visto la letra de Corvo. Pero escribió. A la que no se muere. Como escribía su padre.
+No sabía escribir bien. Le costaba. Las letras le salían grandes, torcidas, como las de Corvo, decía Sein, que había visto la letra de Corvo. Pero escribió. *A la que no se* *muere.* Como escribía su padre.
 
-*Abuela: el jefe de los orcos lleva una piedra del río colgada del cuello. Una de las tuyas. Con veta blanca. Los elfos dicen que se la dieron desde abajo. No sé qué quiere decir. Sein tampoco, o no me lo dice. El fuerte estará acabado en otoño. Los tambores suenan más cerca cada noche. Tengo cincuenta y cinco años y me duelen las rodillas. Bhargaras está en la colina, con el aro de regente, por si acaso. Es mejor que yo con los papeles. Peor con la espada. Dile que practique.*
+*Abuela: el jefe de los orcos lleva una piedra del río colgada del cuello. Una de las* *tuyas. Con veta blanca. Los elfos dicen que se la dieron desde abajo. No sé qué quiere* *decir. Sein tampoco, o no me lo dice. El fuerte estará acabado en otoño. Los tambores* *suenan más cerca cada noche. Tengo cincuenta y cinco años y me duelen las rodillas.* *Bhargaras está en la colina, con el aro de regente, por si acaso. Es mejor que yo con los* *papeles. Peor con la espada. Dile que practique.*
 
 *Si me pasa algo, no vengas tarde.*
 
@@ -141,7 +140,7 @@ Sein se subió las gafas.
 
 Andriath se rió. Esta vez le salió bien.
 
-* * *
+---
 
 El fuerte se terminó en otoño. Una empalizada doble de troncos cantados, con un foso en medio y cuatro torres de piedra en las esquinas. Un patio grande. Barracones para mil hombres. Un pozo que los elfos encontraron cantándole a la tierra. Una herrería. Una capilla del dios del cielo que pidieron los soldados de Gijor, y al lado, porque lo pidieron los elfos, un castaño joven, plantado en el centro del patio, para que hubiera un sitio donde sentarse a decidir cosas.
 
@@ -171,7 +170,7 @@ Andriath miró hacia el oeste otra vez. Hacia el resplandor.
 
 —No —dijo—. Por eso.
 
-* * *
+---
 
 Se fue al amanecer. Con cien hombres de escolta y Sein en el carro de intendencia, con el cuaderno.
 

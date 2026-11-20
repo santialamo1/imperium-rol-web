@@ -1,4 +1,4 @@
-## Capítulo 35 · Helen
+# Capítulo 35 · Helen
 
 *Pantanos de Pisor y Concordia. Año 153.*
 
@@ -40,9 +40,9 @@ El sacerdote parpadeó.
 
 —Entonces no sabes lo que dicen. —Helen lo miró desde el caballo—. Sabes lo que te han dicho que dicen. Que no es lo mismo.
 
-* * *
+---
 
-Helen había leído los libros. Todos. En la Gran Biblioteca que había abierto dos años antes en el ala este del palacio, había hecho copiar cada tratado, cada crónica, cada colección de leyendas de los tres pueblos y de los clanes menores que había encontrado. Y había leído los que hablaban de los tocados por la niebla. Eran pocos, y malos, y se contradecían. Unos decían que los que oían a los muertos eran brujos. Otros, que eran santos. Uno, un tratado Hinur de hacía doscientos años, decía que eran personas que oyen, como hay quien ve mejor de lejos.
+Helen había leído los libros. Todos. En la Gran Biblioteca que había abierto dos años antes en el ala este del palacio, había hecho copiar cada tratado, cada crónica, cada colección de leyendas de los tres pueblos y de los clanes menores que había encontrado. Y había leído los que hablaban de los tocados por la niebla. Eran pocos, y malos, y se contradecían. Unos decían que los que oían a los muertos eran brujos. Otros, que eran santos. Uno, un tratado Hinur de hacía doscientos años, decía que eran *personas que oyen,* *como hay quien ve mejor de lejos*.
 
 Esa frase la había escrito su abuela. O la había dicho, al menos, a alguien que la escribió. Helen lo sabía porque había leído los pergaminos de la abuela Nadia, los que su madre Mira le dio a escondidas el año en que la coronaron, envueltos en un paño de cocina, con la orden de no enseñárselos a nadie.
 
@@ -52,7 +52,7 @@ Y Helen no oía a los muertos. Nunca los había oído. Era de las dos de cada tr
 
 Pero sabía lo que era. Y sabía que, si había nacido en una aldea de los pantanos de Pisor en lugar de en una casa del barrio Germa, la que estaría atada a aquel poste, con una piedra en los tobillos, podría haber sido su madre. O su tío Henricus. O ella misma, con otra suerte.
 
-* * *
+---
 
 —Desatadla —dijo.
 
@@ -100,7 +100,7 @@ El hombre se quedó blanco.
 
 —Entonces no le hace daño a nadie. Solo tiene frío. —Helen recogió las riendas—. Decid su nombre en voz alta, mirando hacia arriba, una tarde de sol. Con cariño, no con miedo. Y dejará de pedir que lo saquen.
 
-* * *
+---
 
 Volvieron a Concordia en seis días. La niña viajó delante de Braco, en su caballo, envuelta en su capa. No habló en los dos primeros. Al tercero, le preguntó a Braco si era verdad que el emperador Henricus oía a los muertos. Braco le dijo que sí. Al cuarto, le preguntó si a él también le hablaban. Braco le dijo que no, que él era de los que no oyen, y que lo lamentaba a veces, porque le habría gustado oír a alguien. Al quinto, la niña le preguntó a quién.
 
@@ -108,7 +108,7 @@ Braco no contestó. Pero Helen, que cabalgaba a su lado, vio cómo se le cerraba
 
 El sexto día llegaron a Concordia. Helen no llevó a la niña al palacio. La llevó al barrio Germa.
 
-* * *
+---
 
 —No —dijo Nadia.
 
@@ -126,7 +126,7 @@ Estaba sentada junto al fuego de la cocina, en la casa de siempre, con una taza 
 
 —Todo el mundo se entera de todo. Eso es lo único que he aprendido en setenta y cinco años.
 
-Helen se sentó en el taburete, frente a ella. Se quedaron en silencio mucho rato. En el rincón, la niña pelirroja se dio la vuelta en sueños y murmuró algo. Un nombre. Abuelo.
+Helen se sentó en el taburete, frente a ella. Se quedaron en silencio mucho rato. En el rincón, la niña pelirroja se dio la vuelta en sueños y murmuró algo. Un nombre. *Abuelo.*
 
 Nadia la miró. Algo en su cara se ablandó.
 
@@ -144,7 +144,7 @@ Nadia cerró los ojos.
 
 Nadia no contestó.
 
-* * *
+---
 
 Lo hablaron hasta el amanecer. Al final llegaron a un acuerdo, como llegan las mujeres de una familia: sin que ninguna de las dos ganara del todo.
 
@@ -166,7 +166,7 @@ Nadia se rió. Fue una risa cansada, de vieja.
 
 —Tu madre es una exagerada.
 
-* * *
+---
 
 La niña pelirroja, Hilde Tamm, de los pantanos de Pisor, fue la primera novicia de la Academia de los Custodios. Durmió los dos primeros años en un catre en el despacho del viejo Aaro, porque no había todavía dormitorios, y aprendió a leer con los pergaminos sin firmar de un tratado antiguo que nadie sabía de dónde venía.
 

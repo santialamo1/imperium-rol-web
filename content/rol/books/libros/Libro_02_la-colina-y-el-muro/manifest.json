@@ -1,7 +1,7 @@
 {
   "title": "Libro Segundo: La Colina y el Muro",
   "book": 2,
-  "source_pages": 898,
+  "source_pages": 900,
   "sections": [
     {
       "index": 1,
@@ -10,16 +10,16 @@
       "file": "001_prologo-el-hombre-que-sumaba-muertos.md",
       "start_page": 5,
       "end_page": 17,
-      "chars": 20781
+      "chars": 20811
     },
     {
       "index": 2,
-      "title": "DE LAS CRÓNICAS DE BANDERBILL, LIBRO SEGUNDO (I)",
+      "title": "De las Crónicas de Banderbill, Libro Segundo (I)",
       "type": "seccion",
       "file": "002_de-las-cronicas-de-banderbill-libro-segundo-i.md",
       "start_page": 18,
       "end_page": 19,
-      "chars": 3059
+      "chars": 3113
     },
     {
       "index": 3,
@@ -28,7 +28,7 @@
       "file": "003_primera-parte-la-noche-del-dolor.md",
       "start_page": 20,
       "end_page": 20,
-      "chars": 25
+      "chars": 62
     },
     {
       "index": 4,
@@ -37,7 +37,7 @@
       "file": "004_capitulo-1-tobias.md",
       "start_page": 21,
       "end_page": 31,
-      "chars": 16983
+      "chars": 17030
     },
     {
       "index": 5,
@@ -46,7 +46,7 @@
       "file": "005_capitulo-2-mara.md",
       "start_page": 32,
       "end_page": 41,
-      "chars": 14615
+      "chars": 14654
     },
     {
       "index": 6,
@@ -55,7 +55,7 @@
       "file": "006_capitulo-3-bhargaras.md",
       "start_page": 42,
       "end_page": 50,
-      "chars": 12891
+      "chars": 12919
     },
     {
       "index": 7,
@@ -64,7 +64,7 @@
       "file": "007_capitulo-4-livia.md",
       "start_page": 51,
       "end_page": 58,
-      "chars": 12185
+      "chars": 12215
     },
     {
       "index": 8,
@@ -73,7 +73,7 @@
       "file": "008_capitulo-5-seren.md",
       "start_page": 59,
       "end_page": 66,
-      "chars": 11784
+      "chars": 11815
     },
     {
       "index": 9,
@@ -82,7 +82,7 @@
       "file": "009_capitulo-6-lanther.md",
       "start_page": 67,
       "end_page": 76,
-      "chars": 14459
+      "chars": 14481
     },
     {
       "index": 10,
@@ -91,7 +91,7 @@
       "file": "010_capitulo-7-bander.md",
       "start_page": 77,
       "end_page": 86,
-      "chars": 14310
+      "chars": 14355
     },
     {
       "index": 11,
@@ -100,7 +100,7 @@
       "file": "011_capitulo-8-tobias.md",
       "start_page": 87,
       "end_page": 97,
-      "chars": 16370
+      "chars": 16405
     },
     {
       "index": 12,
@@ -109,7 +109,7 @@
       "file": "012_capitulo-9-loth.md",
       "start_page": 98,
       "end_page": 106,
-      "chars": 12948
+      "chars": 12984
     },
     {
       "index": 13,
@@ -118,7 +118,7 @@
       "file": "013_capitulo-10-bhargaras.md",
       "start_page": 107,
       "end_page": 114,
-      "chars": 10648
+      "chars": 10677
     },
     {
       "index": 14,
@@ -127,7 +127,7 @@
       "file": "014_capitulo-11-erandiul.md",
       "start_page": 115,
       "end_page": 122,
-      "chars": 11834
+      "chars": 11888
     },
     {
       "index": 15,
@@ -136,7 +136,7 @@
       "file": "015_capitulo-12-bander.md",
       "start_page": 123,
       "end_page": 133,
-      "chars": 14725
+      "chars": 14763
     },
     {
       "index": 16,
@@ -145,7 +145,7 @@
       "file": "016_capitulo-13-livia.md",
       "start_page": 134,
       "end_page": 143,
-      "chars": 13663
+      "chars": 13700
     },
     {
       "index": 17,
@@ -154,7 +154,7 @@
       "file": "017_capitulo-14-loth.md",
       "start_page": 144,
       "end_page": 157,
-      "chars": 19091
+      "chars": 19113
     },
     {
       "index": 18,
@@ -163,16 +163,16 @@
       "file": "018_capitulo-15-bhargaras.md",
       "start_page": 158,
       "end_page": 170,
-      "chars": 17369
+      "chars": 17414
     },
     {
       "index": 19,
-      "title": "DEL DIARIO DE LA FAMILIA ÉRANDIUL (I)",
+      "title": "Del Diario de la familia Érandiul (I)",
       "type": "seccion",
       "file": "019_del-diario-de-la-familia-erandiul-i.md",
       "start_page": 171,
       "end_page": 171,
-      "chars": 1652
+      "chars": 1699
     },
     {
       "index": 20,
@@ -181,7 +181,7 @@
       "file": "020_segunda-parte-el-valle-negro.md",
       "start_page": 172,
       "end_page": 172,
-      "chars": 31
+      "chars": 64
     },
     {
       "index": 21,
@@ -190,7 +190,7 @@
       "file": "021_capitulo-16-pim.md",
       "start_page": 173,
       "end_page": 184,
-      "chars": 16799
+      "chars": 16830
     },
     {
       "index": 22,
@@ -199,7 +199,7 @@
       "file": "022_capitulo-17-casimir.md",
       "start_page": 185,
       "end_page": 196,
-      "chars": 15816
+      "chars": 15841
     },
     {
       "index": 23,
@@ -208,7 +208,7 @@
       "file": "023_capitulo-18-livia.md",
       "start_page": 197,
       "end_page": 206,
-      "chars": 14350
+      "chars": 14442
     },
     {
       "index": 24,
@@ -217,7 +217,7 @@
       "file": "024_capitulo-19-pim.md",
       "start_page": 207,
       "end_page": 219,
-      "chars": 18023
+      "chars": 18050
     },
     {
       "index": 25,
@@ -226,7 +226,7 @@
       "file": "025_capitulo-20-ilsa.md",
       "start_page": 220,
       "end_page": 230,
-      "chars": 14677
+      "chars": 14709
     },
     {
       "index": 26,
@@ -235,7 +235,7 @@
       "file": "026_capitulo-21-lanther.md",
       "start_page": 231,
       "end_page": 241,
-      "chars": 15512
+      "chars": 15551
     },
     {
       "index": 27,
@@ -244,7 +244,7 @@
       "file": "027_capitulo-22-erandiul.md",
       "start_page": 242,
       "end_page": 251,
-      "chars": 13304
+      "chars": 13345
     },
     {
       "index": 28,
@@ -253,7 +253,7 @@
       "file": "028_capitulo-23-bhargaras.md",
       "start_page": 252,
       "end_page": 263,
-      "chars": 16792
+      "chars": 16811
     },
     {
       "index": 29,
@@ -262,7 +262,7 @@
       "file": "029_capitulo-24-livia.md",
       "start_page": 264,
       "end_page": 274,
-      "chars": 14634
+      "chars": 14668
     },
     {
       "index": 30,
@@ -270,656 +270,647 @@
       "type": "capitulo",
       "file": "030_capitulo-25-bhargaras.md",
       "start_page": 275,
-      "end_page": 286,
-      "chars": 15561
+      "end_page": 287,
+      "chars": 15745
     },
     {
       "index": 31,
       "title": "Capítulo 26 · Lanther",
       "type": "capitulo",
       "file": "031_capitulo-26-lanther.md",
-      "start_page": 287,
-      "end_page": 299,
-      "chars": 16232
+      "start_page": 288,
+      "end_page": 300,
+      "chars": 16247
     },
     {
       "index": 32,
       "title": "Capítulo 27 · Mara",
       "type": "capitulo",
       "file": "032_capitulo-27-mara.md",
-      "start_page": 300,
-      "end_page": 311,
-      "chars": 15825
+      "start_page": 301,
+      "end_page": 312,
+      "chars": 15843
     },
     {
       "index": 33,
       "title": "Capítulo 28 · Lanther",
       "type": "capitulo",
       "file": "033_capitulo-28-lanther.md",
-      "start_page": 312,
-      "end_page": 323,
-      "chars": 16817
+      "start_page": 313,
+      "end_page": 324,
+      "chars": 17116
     },
     {
       "index": 34,
       "title": "Capítulo 29 · Érandiul",
       "type": "capitulo",
       "file": "034_capitulo-29-erandiul.md",
-      "start_page": 324,
-      "end_page": 337,
-      "chars": 18938
+      "start_page": 325,
+      "end_page": 338,
+      "chars": 18990
     },
     {
       "index": 35,
       "title": "Capítulo 30 · Lanther",
       "type": "capitulo",
       "file": "035_capitulo-30-lanther.md",
-      "start_page": 338,
-      "end_page": 353,
-      "chars": 22068
+      "start_page": 339,
+      "end_page": 354,
+      "chars": 22096
     },
     {
       "index": 36,
-      "title": "DE LAS CRÓNICAS DE BANDERBILL, LIBRO SEGUNDO (II)",
+      "title": "De las Crónicas de Banderbill, Libro Segundo (II)",
       "type": "seccion",
       "file": "036_de-las-cronicas-de-banderbill-libro-segundo-ii.md",
-      "start_page": 354,
-      "end_page": 356,
-      "chars": 3600
+      "start_page": 355,
+      "end_page": 357,
+      "chars": 3659
     },
     {
       "index": 37,
-      "title": "DEL DIARIO DE LA FAMILIA ÉRANDIUL (II)",
+      "title": "Del Diario de la familia Érandiul (II)",
       "type": "seccion",
       "file": "037_del-diario-de-la-familia-erandiul-ii.md",
-      "start_page": 357,
-      "end_page": 358,
-      "chars": 2898
+      "start_page": 358,
+      "end_page": 359,
+      "chars": 2956
     },
     {
       "index": 38,
       "title": "TERCERA PARTE: LA REINA QUE NO ENVEJECE",
       "type": "parte",
       "file": "038_tercera-parte-la-reina-que-no-envejece.md",
-      "start_page": 359,
-      "end_page": 359,
-      "chars": 31
+      "start_page": 360,
+      "end_page": 360,
+      "chars": 74
     },
     {
       "index": 39,
       "title": "Capítulo 31 · Livia",
       "type": "capitulo",
       "file": "039_capitulo-31-livia.md",
-      "start_page": 360,
-      "end_page": 369,
-      "chars": 13616
+      "start_page": 361,
+      "end_page": 370,
+      "chars": 13689
     },
     {
       "index": 40,
       "title": "Capítulo 32 · Sein",
       "type": "capitulo",
       "file": "040_capitulo-32-sein.md",
-      "start_page": 370,
-      "end_page": 380,
-      "chars": 14319
+      "start_page": 371,
+      "end_page": 381,
+      "chars": 14347
     },
     {
       "index": 41,
       "title": "Capítulo 33 · Pim",
       "type": "capitulo",
       "file": "041_capitulo-33-pim.md",
-      "start_page": 381,
-      "end_page": 391,
-      "chars": 14533
+      "start_page": 382,
+      "end_page": 392,
+      "chars": 14593
     },
     {
       "index": 42,
       "title": "Capítulo 34 · Lanther",
       "type": "capitulo",
       "file": "042_capitulo-34-lanther.md",
-      "start_page": 392,
-      "end_page": 405,
-      "chars": 18002
+      "start_page": 393,
+      "end_page": 406,
+      "chars": 18051
     },
     {
       "index": 43,
       "title": "Capítulo 35 · Érandiul",
       "type": "capitulo",
       "file": "043_capitulo-35-erandiul.md",
-      "start_page": 406,
-      "end_page": 416,
-      "chars": 14353
+      "start_page": 407,
+      "end_page": 417,
+      "chars": 14395
     },
     {
       "index": 44,
       "title": "Capítulo 36 · Amael",
       "type": "capitulo",
       "file": "044_capitulo-36-amael.md",
-      "start_page": 417,
-      "end_page": 427,
-      "chars": 14279
+      "start_page": 418,
+      "end_page": 428,
+      "chars": 14324
     },
     {
       "index": 45,
       "title": "Capítulo 37 · Lanther",
       "type": "capitulo",
       "file": "045_capitulo-37-lanther.md",
-      "start_page": 428,
-      "end_page": 439,
-      "chars": 14408
+      "start_page": 429,
+      "end_page": 440,
+      "chars": 14445
     },
     {
       "index": 46,
       "title": "Capítulo 38 · Érandiul",
       "type": "capitulo",
       "file": "046_capitulo-38-erandiul.md",
-      "start_page": 440,
-      "end_page": 448,
-      "chars": 11558
+      "start_page": 441,
+      "end_page": 449,
+      "chars": 11614
     },
     {
       "index": 47,
       "title": "Capítulo 39 · Loth",
       "type": "capitulo",
       "file": "047_capitulo-39-loth.md",
-      "start_page": 449,
-      "end_page": 459,
-      "chars": 14192
+      "start_page": 450,
+      "end_page": 460,
+      "chars": 14260
     },
     {
       "index": 48,
       "title": "Capítulo 40 · Livia",
       "type": "capitulo",
       "file": "048_capitulo-40-livia.md",
-      "start_page": 460,
-      "end_page": 469,
-      "chars": 13309
+      "start_page": 461,
+      "end_page": 470,
+      "chars": 13348
     },
     {
       "index": 49,
       "title": "Capítulo 41 · Lanther",
       "type": "capitulo",
       "file": "049_capitulo-41-lanther.md",
-      "start_page": 470,
-      "end_page": 478,
-      "chars": 10728
+      "start_page": 471,
+      "end_page": 479,
+      "chars": 10754
     },
     {
       "index": 50,
       "title": "Capítulo 42 · Livia",
       "type": "capitulo",
       "file": "050_capitulo-42-livia.md",
-      "start_page": 479,
-      "end_page": 490,
-      "chars": 14764
+      "start_page": 480,
+      "end_page": 491,
+      "chars": 15100
     },
     {
       "index": 51,
       "title": "Capítulo 43 · Amael",
       "type": "capitulo",
       "file": "051_capitulo-43-amael.md",
-      "start_page": 491,
-      "end_page": 501,
-      "chars": 14648
+      "start_page": 492,
+      "end_page": 502,
+      "chars": 14686
     },
     {
       "index": 52,
-      "title": "DE LAS CRÓNICAS DE BANDERBILL, LIBRO SEGUNDO (III)",
+      "title": "De las Crónicas de Banderbill, Libro Segundo (III)",
       "type": "seccion",
       "file": "052_de-las-cronicas-de-banderbill-libro-segundo-iii.md",
-      "start_page": 502,
-      "end_page": 503,
-      "chars": 2072
+      "start_page": 503,
+      "end_page": 504,
+      "chars": 2132
     },
     {
       "index": 53,
-      "title": "DEL DIARIO DE LA FAMILIA ÉRANDIUL (III)",
+      "title": "Del Diario de la familia Érandiul (III)",
       "type": "seccion",
       "file": "053_del-diario-de-la-familia-erandiul-iii.md",
-      "start_page": 504,
-      "end_page": 505,
-      "chars": 2311
+      "start_page": 505,
+      "end_page": 506,
+      "chars": 2372
     },
     {
       "index": 54,
       "title": "CUARTA PARTE: DE MANO A MANO",
       "type": "parte",
       "file": "054_cuarta-parte-de-mano-a-mano.md",
-      "start_page": 506,
-      "end_page": 506,
-      "chars": 32
+      "start_page": 507,
+      "end_page": 507,
+      "chars": 64
     },
     {
       "index": 55,
       "title": "Capítulo 44 · Amael",
       "type": "capitulo",
       "file": "055_capitulo-44-amael.md",
-      "start_page": 507,
-      "end_page": 514,
-      "chars": 10178
+      "start_page": 508,
+      "end_page": 515,
+      "chars": 10210
     },
     {
       "index": 56,
       "title": "Capítulo 45 · Ilsa",
       "type": "capitulo",
       "file": "056_capitulo-45-ilsa.md",
-      "start_page": 515,
-      "end_page": 525,
-      "chars": 14518
+      "start_page": 516,
+      "end_page": 526,
+      "chars": 14823
     },
     {
       "index": 57,
       "title": "Capítulo 46 · Andriath",
       "type": "capitulo",
       "file": "057_capitulo-46-andriath.md",
-      "start_page": 526,
-      "end_page": 537,
-      "chars": 15715
+      "start_page": 527,
+      "end_page": 538,
+      "chars": 15747
     },
     {
       "index": 58,
       "title": "Capítulo 47 · Verawel",
       "type": "capitulo",
       "file": "058_capitulo-47-verawel.md",
-      "start_page": 538,
-      "end_page": 547,
-      "chars": 12604
+      "start_page": 539,
+      "end_page": 548,
+      "chars": 12651
     },
     {
       "index": 59,
       "title": "Capítulo 48 · Andriath",
       "type": "capitulo",
       "file": "059_capitulo-48-andriath.md",
-      "start_page": 548,
-      "end_page": 555,
-      "chars": 11111
+      "start_page": 549,
+      "end_page": 556,
+      "chars": 11143
     },
     {
       "index": 60,
       "title": "Capítulo 49 · Panbor",
       "type": "capitulo",
       "file": "060_capitulo-49-panbor.md",
-      "start_page": 556,
-      "end_page": 567,
-      "chars": 14697
+      "start_page": 557,
+      "end_page": 568,
+      "chars": 14721
     },
     {
       "index": 61,
       "title": "Capítulo 50 · Andriath",
       "type": "capitulo",
       "file": "061_capitulo-50-andriath.md",
-      "start_page": 568,
-      "end_page": 577,
-      "chars": 13429
+      "start_page": 569,
+      "end_page": 578,
+      "chars": 13544
     },
     {
       "index": 62,
       "title": "Capítulo 51 · Tibbet Tornasol",
       "type": "capitulo",
       "file": "062_capitulo-51-tibbet-tornasol.md",
-      "start_page": 578,
-      "end_page": 586,
-      "chars": 10729
+      "start_page": 579,
+      "end_page": 587,
+      "chars": 10758
     },
     {
       "index": 63,
       "title": "Capítulo 52 · Andriath",
       "type": "capitulo",
       "file": "063_capitulo-52-andriath.md",
-      "start_page": 587,
-      "end_page": 595,
-      "chars": 11468
+      "start_page": 588,
+      "end_page": 596,
+      "chars": 11488
     },
     {
       "index": 64,
       "title": "Capítulo 53 · Bhargaras VIII",
       "type": "capitulo",
       "file": "064_capitulo-53-bhargaras-viii.md",
-      "start_page": 596,
-      "end_page": 605,
-      "chars": 13339
+      "start_page": 597,
+      "end_page": 606,
+      "chars": 13359
     },
     {
       "index": 65,
       "title": "Capítulo 54 · Érandiul",
       "type": "capitulo",
       "file": "065_capitulo-54-erandiul.md",
-      "start_page": 606,
-      "end_page": 614,
-      "chars": 11659
+      "start_page": 607,
+      "end_page": 615,
+      "chars": 11723
     },
     {
       "index": 66,
       "title": "Capítulo 55 · Lanther",
       "type": "capitulo",
       "file": "066_capitulo-55-lanther.md",
-      "start_page": 615,
-      "end_page": 624,
-      "chars": 11855
+      "start_page": 616,
+      "end_page": 625,
+      "chars": 11898
     },
     {
       "index": 67,
-      "title": "DEL DIARIO DE LA FAMILIA ÉRANDIUL (IV)",
+      "title": "Del Diario de la familia Érandiul (IV)",
       "type": "seccion",
       "file": "067_del-diario-de-la-familia-erandiul-iv.md",
-      "start_page": 625,
-      "end_page": 627,
-      "chars": 5275
+      "start_page": 626,
+      "end_page": 628,
+      "chars": 5357
     },
     {
       "index": 68,
       "title": "QUINTA PARTE: LOS CIENTO NOVENTA Y NUEVE AÑOS",
       "type": "parte",
       "file": "068_quinta-parte-los-ciento-noventa-y-nueve-anos.md",
-      "start_page": 628,
-      "end_page": 628,
-      "chars": 33
+      "start_page": 629,
+      "end_page": 629,
+      "chars": 82
     },
     {
       "index": 69,
       "title": "Capítulo 56 · Bhargaras IX",
       "type": "capitulo",
       "file": "069_capitulo-56-bhargaras-ix.md",
-      "start_page": 629,
-      "end_page": 631,
-      "chars": 3758
+      "start_page": 630,
+      "end_page": 632,
+      "chars": 3790
     },
     {
       "index": 70,
       "title": "Capítulo 57 · Bredinlo",
       "type": "capitulo",
       "file": "070_capitulo-57-bredinlo.md",
-      "start_page": 632,
-      "end_page": 643,
-      "chars": 16180
+      "start_page": 633,
+      "end_page": 644,
+      "chars": 16591
     },
     {
       "index": 71,
       "title": "Capítulo 58 · Bhargaras IX",
       "type": "capitulo",
       "file": "071_capitulo-58-bhargaras-ix.md",
-      "start_page": 644,
-      "end_page": 649,
-      "chars": 7665
+      "start_page": 645,
+      "end_page": 650,
+      "chars": 7691
     },
     {
       "index": 72,
       "title": "Capítulo 59 · Ada Vell",
       "type": "capitulo",
       "file": "072_capitulo-59-ada-vell.md",
-      "start_page": 650,
-      "end_page": 665,
-      "chars": 22782
+      "start_page": 651,
+      "end_page": 666,
+      "chars": 22824
     },
     {
       "index": 73,
       "title": "Capítulo 60 · Kildo",
       "type": "capitulo",
       "file": "073_capitulo-60-kildo.md",
-      "start_page": 666,
-      "end_page": 680,
-      "chars": 21125
+      "start_page": 667,
+      "end_page": 681,
+      "chars": 21152
     },
     {
       "index": 74,
       "title": "Capítulo 61 · Odile, Custodia de la balanza",
       "type": "capitulo",
       "file": "074_capitulo-61-odile-custodia-de-la-balanza.md",
-      "start_page": 681,
-      "end_page": 689,
-      "chars": 11220
+      "start_page": 682,
+      "end_page": 690,
+      "chars": 11279
     },
     {
       "index": 75,
       "title": "Capítulo 62 · Lanther",
       "type": "capitulo",
       "file": "075_capitulo-62-lanther.md",
-      "start_page": 690,
-      "end_page": 703,
-      "chars": 20653
+      "start_page": 691,
+      "end_page": 704,
+      "chars": 20686
     },
     {
       "index": 76,
       "title": "Capítulo 63 · Niestrel",
       "type": "capitulo",
       "file": "076_capitulo-63-niestrel.md",
-      "start_page": 704,
-      "end_page": 713,
-      "chars": 12882
+      "start_page": 705,
+      "end_page": 714,
+      "chars": 12922
     },
     {
       "index": 77,
       "title": "Capítulo 64 · Pim",
       "type": "capitulo",
       "file": "077_capitulo-64-pim.md",
-      "start_page": 714,
-      "end_page": 723,
-      "chars": 12216
+      "start_page": 715,
+      "end_page": 724,
+      "chars": 12293
     },
     {
       "index": 78,
       "title": "Capítulo 65 · Tibbet Tornasol",
       "type": "capitulo",
       "file": "078_capitulo-65-tibbet-tornasol.md",
-      "start_page": 724,
-      "end_page": 737,
-      "chars": 19675
+      "start_page": 725,
+      "end_page": 738,
+      "chars": 19708
     },
     {
       "index": 79,
       "title": "Capítulo 66 · Jonas Vell",
       "type": "capitulo",
       "file": "079_capitulo-66-jonas-vell.md",
-      "start_page": 738,
-      "end_page": 747,
-      "chars": 13408
+      "start_page": 739,
+      "end_page": 748,
+      "chars": 13430
     },
     {
       "index": 80,
       "title": "Capítulo 67 · Sein",
       "type": "capitulo",
       "file": "080_capitulo-67-sein.md",
-      "start_page": 748,
-      "end_page": 757,
-      "chars": 11685
+      "start_page": 749,
+      "end_page": 758,
+      "chars": 11701
     },
     {
       "index": 81,
       "title": "Capítulo 68 · Érandiul",
       "type": "capitulo",
       "file": "081_capitulo-68-erandiul.md",
-      "start_page": 758,
-      "end_page": 768,
-      "chars": 13907
+      "start_page": 759,
+      "end_page": 769,
+      "chars": 13939
     },
     {
       "index": 82,
-      "title": "DEL DIARIO DE LA FAMILIA ÉRANDIUL (V)",
+      "title": "Del Diario de la familia Érandiul (V)",
       "type": "seccion",
       "file": "082_del-diario-de-la-familia-erandiul-v.md",
-      "start_page": 769,
-      "end_page": 769,
-      "chars": 1575
+      "start_page": 770,
+      "end_page": 770,
+      "chars": 1626
     },
     {
       "index": 83,
       "title": "SEXTA PARTE: EL GRAN TEMBLOR",
       "type": "parte",
       "file": "083_sexta-parte-el-gran-temblor.md",
-      "start_page": 770,
-      "end_page": 770,
-      "chars": 33
+      "start_page": 771,
+      "end_page": 771,
+      "chars": 65
     },
     {
       "index": 84,
       "title": "Capítulo 69 · Dalla Hask",
       "type": "capitulo",
       "file": "084_capitulo-69-dalla-hask.md",
-      "start_page": 771,
-      "end_page": 779,
-      "chars": 10986
+      "start_page": 772,
+      "end_page": 780,
+      "chars": 11000
     },
     {
       "index": 85,
       "title": "Capítulo 70 · Érandiul",
       "type": "capitulo",
       "file": "085_capitulo-70-erandiul.md",
-      "start_page": 780,
-      "end_page": 788,
-      "chars": 11157
+      "start_page": 781,
+      "end_page": 789,
+      "chars": 11175
     },
     {
       "index": 86,
       "title": "Capítulo 71 · Nimrath",
       "type": "capitulo",
       "file": "086_capitulo-71-nimrath.md",
-      "start_page": 789,
-      "end_page": 797,
-      "chars": 10957
+      "start_page": 790,
+      "end_page": 798,
+      "chars": 10970
     },
     {
       "index": 87,
       "title": "Capítulo 72 · Lindiel",
       "type": "capitulo",
       "file": "087_capitulo-72-lindiel.md",
-      "start_page": 798,
-      "end_page": 808,
-      "chars": 14247
+      "start_page": 799,
+      "end_page": 809,
+      "chars": 14260
     },
     {
       "index": 88,
       "title": "Capítulo 73 · Lanther",
       "type": "capitulo",
       "file": "088_capitulo-73-lanther.md",
-      "start_page": 809,
-      "end_page": 818,
-      "chars": 12481
+      "start_page": 810,
+      "end_page": 819,
+      "chars": 12484
     },
     {
       "index": 89,
       "title": "Capítulo 74 · Ithil",
       "type": "capitulo",
       "file": "089_capitulo-74-ithil.md",
-      "start_page": 819,
-      "end_page": 828,
-      "chars": 12286
+      "start_page": 820,
+      "end_page": 829,
+      "chars": 12313
     },
     {
       "index": 90,
       "title": "Capítulo 75 · Lindiel II",
       "type": "capitulo",
       "file": "090_capitulo-75-lindiel-ii.md",
-      "start_page": 829,
-      "end_page": 837,
-      "chars": 10822
+      "start_page": 830,
+      "end_page": 838,
+      "chars": 10843
     },
     {
       "index": 91,
       "title": "Capítulo 76 · Arthal II",
       "type": "capitulo",
       "file": "091_capitulo-76-arthal-ii.md",
-      "start_page": 838,
-      "end_page": 847,
-      "chars": 12365
+      "start_page": 839,
+      "end_page": 848,
+      "chars": 12384
     },
     {
       "index": 92,
       "title": "Capítulo 77 · Lanther",
       "type": "capitulo",
       "file": "092_capitulo-77-lanther.md",
-      "start_page": 848,
-      "end_page": 858,
-      "chars": 14322
+      "start_page": 849,
+      "end_page": 859,
+      "chars": 14357
     },
     {
       "index": 93,
       "title": "Capítulo 78 · Érandiul",
       "type": "capitulo",
       "file": "093_capitulo-78-erandiul.md",
-      "start_page": 859,
-      "end_page": 870,
-      "chars": 14912
+      "start_page": 860,
+      "end_page": 871,
+      "chars": 14952
     },
     {
       "index": 94,
-      "title": "DE LAS CRÓNICAS DE BANDERBILL, LIBRO SEGUNDO (IV)",
+      "title": "De las Crónicas de Banderbill, Libro Segundo (IV)",
       "type": "seccion",
       "file": "094_de-las-cronicas-de-banderbill-libro-segundo-iv.md",
-      "start_page": 871,
-      "end_page": 873,
-      "chars": 3432
+      "start_page": 872,
+      "end_page": 874,
+      "chars": 3487
     },
     {
       "index": 95,
-      "title": "DEL DIARIO DE LA FAMILIA ÉRANDIUL (VI)",
+      "title": "Del Diario de la familia Érandiul (VI)",
       "type": "seccion",
       "file": "095_del-diario-de-la-familia-erandiul-vi.md",
-      "start_page": 874,
-      "end_page": 876,
-      "chars": 3474
+      "start_page": 875,
+      "end_page": 877,
+      "chars": 3552
     },
     {
       "index": 96,
       "title": "Epílogo · Una piedra a unos kilómetros",
       "type": "seccion",
       "file": "096_epilogo-una-piedra-a-unos-kilometros.md",
-      "start_page": 877,
-      "end_page": 886,
-      "chars": 11659
+      "start_page": 878,
+      "end_page": 887,
+      "chars": 11706
     },
     {
       "index": 97,
       "title": "APÉNDICES",
       "type": "seccion",
       "file": "097_apendices.md",
-      "start_page": 887,
-      "end_page": 887,
-      "chars": 0
+      "start_page": 888,
+      "end_page": 888,
+      "chars": 12
     },
     {
       "index": 98,
-      "title": "CRONOLOGÍA DEL LIBRO SEGUNDO",
+      "title": "Cronología del Libro Segundo",
       "type": "seccion",
       "file": "098_cronologia-del-libro-segundo.md",
-      "start_page": 888,
-      "end_page": 892,
-      "chars": 7585
+      "start_page": 889,
+      "end_page": 893,
+      "chars": 7959
     },
     {
       "index": 99,
-      "title": "LÍNEAS DE SANGRE",
+      "title": "Líneas de sangre",
       "type": "seccion",
       "file": "099_lineas-de-sangre.md",
-      "start_page": 893,
-      "end_page": 893,
-      "chars": 992
+      "start_page": 894,
+      "end_page": 895,
+      "chars": 2676
     },
     {
       "index": 100,
-      "title": "Las vidas prestadas",
+      "title": "Breve glosario",
       "type": "seccion",
-      "file": "100_las-vidas-prestadas.md",
-      "start_page": 894,
-      "end_page": 894,
-      "chars": 1586
+      "file": "100_breve-glosario.md",
+      "start_page": 896,
+      "end_page": 899,
+      "chars": 4895
     },
     {
       "index": 101,
-      "title": "BREVE GLOSARIO",
+      "title": "Geografía",
       "type": "seccion",
-      "file": "101_breve-glosario.md",
-      "start_page": 895,
-      "end_page": 897,
-      "chars": 4450
-    },
-    {
-      "index": 102,
-      "title": "GEOGRAFÍA",
-      "type": "seccion",
-      "file": "102_geografia.md",
-      "start_page": 898,
-      "end_page": 898,
-      "chars": 889
+      "file": "101_geografia.md",
+      "start_page": 900,
+      "end_page": 900,
+      "chars": 1289
     }
   ]
 }

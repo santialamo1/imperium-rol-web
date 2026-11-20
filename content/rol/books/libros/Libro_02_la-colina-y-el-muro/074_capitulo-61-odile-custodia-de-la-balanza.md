@@ -1,4 +1,4 @@
-## Capítulo 61 · Odile, Custodia de la balanza
+# Capítulo 61 · Odile, Custodia de la balanza
 
 *El Mercado del valle negro. Invierno del año 221 de la Nueva Era.*
 
@@ -20,7 +20,7 @@ La Fiel, Wenna, que era enorme, y redonda, y tenía la cara colorada y lisa de u
 
 —Con cara de que se puede —le dijo—. El resto lo pone la balanza.
 
-* * *
+---
 
 El Mercado estaba en el claro de la fuente, al fondo del valle negro, donde el agua salía caliente de entre las piedras y no se helaba nunca. Antes, decían, había sido un claro sin más. Una fuente, un roble y nada. Ahora era una ciudad pequeña. Sin muralla. Sin rey. Con casas de madera alrededor de la fuente, en círculo, y puestos, y tabernas, y un establo para las mulas de los tramperos que mordían a todo el mundo.
 
@@ -28,11 +28,11 @@ En el centro, al lado de la fuente, la balanza. En un poste de roble negro, viej
 
 Y más allá, a cien pasos, en la boca del agujero, el Guardián.
 
-* * *
+---
 
 Era un hombre de sal. De pie. Con los brazos abiertos. Con la cara de espanto. Con algo en el pecho, una jarra agrietada, metida dentro de la sal como un corazón de piedra.
 
-Nadie sabía quién era. Bueno: todos lo sabían, más o menos, como se saben las cosas de los cuentos. Era el rey que se quedó. El que bajó al agujero a tapar lo de abajo. El de la cara de espanto. Bhargaras el Séptimo, decían los de la colina cuando venían, con mucho respeto, quitándose el sombrero. El Guardián, decían los del Mercado, que no se quitaban nada.
+Nadie sabía quién era. Bueno: todos lo sabían, más o menos, como se saben las cosas de los cuentos. Era el rey que se quedó. El que bajó al agujero a tapar lo de abajo. El de la cara de espanto. Bhargaras el Séptimo, decían los de la colina cuando venían, con mucho respeto, quitándose el sombrero. *El Guardián*, decían los del Mercado, que no se quitaban nada.
 
 Y alrededor, en las piedras negras del valle, las Madres.
 
@@ -46,7 +46,7 @@ Al Guardián no.
 
 Al Guardián le llevaban piedritas.
 
-* * *
+---
 
 Era una costumbre. Nadie sabía de cuándo. De siempre. Los niños del Mercado cogían piedritas de sal de la orilla de la fuente, de las que dejaba el agua al secarse, blancas, del tamaño de una lenteja, y se las llevaban al Guardián. Se acercaban corriendo, hasta la raya —había una raya en el suelo, pintada con cal, a diez pasos de la estatua, que no se cruzaba—, y tiraban la piedrita hacia los pies del Guardián, y salían corriendo, gritando.
 
@@ -62,7 +62,7 @@ Su madre había tardado en contestar.
 
 —No —había dicho—. Pero por si acaso.
 
-* * *
+---
 
 La hija de Odile se llamaba Pía y tenía seis años y era la que más piedritas tiraba de todo el Mercado.
 
@@ -86,9 +86,9 @@ Odile se quedó muy quieta.
 
 —¿Qué cuentos?
 
-—De una biblioteca. —Pía tiró otra—. Y de una niña pelirroja que se sentaba en el suelo. Y de una señora que se llamaba algo con s. Que no se acuerda cómo. Siempre empieza a decirlo y no se acuerda.
+—De una biblioteca. —Pía tiró otra—. Y de una niña pelirroja que se sentaba en el suelo. Y de una señora que se llamaba algo con *s*. Que no se acuerda cómo. Siempre empieza a decirlo y no se acuerda.
 
-* * *
+---
 
 Odile se lo contó a la Fiel esa noche.
 
@@ -118,9 +118,9 @@ Wenna se comió la castaña.
 
 Wenna no contestó. Cogió otra castaña.
 
-—A alguien que le diga cómo se llamaba la de la s —dijo al final.
+—A alguien que le diga cómo se llamaba la de la *s* —dijo al final.
 
-* * *
+---
 
 El hombre de la raya llegó tres días después. Con la nieve.
 
@@ -132,7 +132,7 @@ Tenía una raya en la frente. Blanca. Vieja. Hecha con un hierro.
 
 La cola entera se apartó de él.
 
-* * *
+---
 
 Odile lo vio desde la balanza. Vio la raya. Vio cómo la gente se apartaba, como se aparta el agua de una gota de aceite. Vio a un trampero, un tal Gunnar, grande, con la barba roja, de los que bajaban del norte con pieles de foca, que se llevaba la mano al cinto. Donde no tenía nada; las armas se dejaban en la entrada del Mercado, en un cobertizo, con un chico que las vigilaba. Pero se llevaba la mano igual. Por costumbre.
 
@@ -156,7 +156,7 @@ Wenna estaba sentada en su taburete, al lado de la balanza, como siempre, con la
 
 *Tú.*
 
-* * *
+---
 
 Odile tenía veintinueve años y nueve de Custodia y nunca había tenido que hacer aquello.
 
@@ -180,7 +180,7 @@ Le salió bajito. Lo repitió.
 
 —Pues pregúntale.
 
-* * *
+---
 
 Y entonces lo vio Odile. Por el rabillo del ojo. Al fondo, a cien pasos, en las piedras negras del valle, alrededor del Guardián.
 
@@ -202,7 +202,7 @@ No hacían nada. Solo miraban.
 
 Y Odile oyó, o creyó oír, muy bajo, como se oye el mar en una caracola, una canción. Sin palabras. Una nana. Que venía de las piedras negras.
 
-* * *
+---
 
 Duró lo que dura una respiración larga.
 
@@ -232,9 +232,9 @@ La balanza se equilibró.
 
 —Hedda la de las redes —dijo Gunnar—. Sigue viva. La vi en otoño. Te espera.
 
-* * *
+---
 
-El hombre de la raya se fue al día siguiente, con las botas nuevas y el pan, por el camino del sur, hacia Pisor. Odile no supo nunca cómo se llamaba. No lo preguntó. En el Mercado no se preguntaba.
+El hombre de la raya se fue al día siguiente, con las botas nuevas y el pan, por el camino de la costa, hacia los barcos que iban a Pisor. Odile no supo nunca cómo se llamaba. No lo preguntó. En el Mercado no se preguntaba.
 
 Esa tarde, Pía fue a la raya pintada con cal, con su bolsita de piedritas, y se quedó mucho rato hablando sola, sin tirar ninguna.
 
@@ -246,7 +246,7 @@ Pía la miró. Tenía la cara seria. Muy seria. De seis años.
 
 —Que hoy ha sido como en la biblioteca —dijo—. Cuando la niña pelirroja le leía cuentos. Que se le ha ido un poco de frío.
 
-—¿Y la señora de la s?
+—¿Y la señora de la *s*?
 
 Pía negó con la cabeza.
 

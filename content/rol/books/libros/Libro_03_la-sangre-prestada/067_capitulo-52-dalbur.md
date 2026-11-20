@@ -1,6 +1,6 @@
-## Capítulo 52 · Dalbur
+# Capítulo 52 · Dalbur
 
-*Bajo el glaciar de Kûr, en el continente helado. Años 811 a 814 de la Nueva Era (204–207 D.bA).*
+*Bajo el glaciar de Kûr, en el continente helado. Años 811 a 814 de la Nueva Era* *(204–207 D.bA).*
 
 Los enanos de Kûr llevaban cuatrocientos años sin ver a nadie que no fuera enano, gólem o yeti, y Dalbur, hijo de Dalgrim, hijo de nadie que se acordara, fue el primero en ver a los altos, y lo primero que pensó fue que se iban a morir de frío.
 
@@ -8,7 +8,7 @@ Lo segundo, que tenían buenas botas.
 
 Lo tercero, que el más alto de todos, el que llevaba un aro de plata gris encima de un gorro de piel, tenía la misma cara que tienen los enanos jóvenes cuando bajan por primera vez a la veta profunda: la de no saber si lo que oyen es el corazón de la montaña o el suyo.
 
-* * *
+---
 
 Los vio desde la boca de la galería del este. La que daba al valle de las fumarolas. Estaba allí por casualidad; había subido a por agua caliente para el temple, porque el agua de las fumarolas era la única que no se helaba en el cubo antes de llegar a la fragua. Y los vio.
 
@@ -18,9 +18,11 @@ Venían hacia las fumarolas. Hacia el calor. Como todo lo que vivía en Kûr.
 
 Y detrás de ellos, a media legua, en la ladera, un gólem.
 
-* * *
+---
 
 Los gólems de hielo los habían hecho los abuelos de los abuelos. Para picar. Para cargar. Para guardar las puertas. Eran altos como tres enanos uno encima de otro, de hielo azul de la veta vieja, con una piedra de runas en el pecho que les decía qué hacer. Durante doscientos años habían picado, cargado y guardado.
+
+No eran los únicos. En las salas de abajo de Kûr, en fila, quietos, estaban los otros, los de antes de los de hielo: un gólem de piedra para cada puerta vieja; los gólems de bronce de las fraguas, verdes de óxido, que soplaban los fuelles; los gólems de hierro de las minas, negros, que se oxidaban y había que engrasar cada invierno; tres gólems de plata en la sala de las runas, que no hacían nada más que guardar y que brillaban en la oscuridad; y un gólem de oro, uno, el del rey, que no se había movido en cuatrocientos años y que los niños enanos tocaban en la rodilla para tener suerte. Los de hielo eran los que trabajaban. Los otros ya solo esperaban.
 
 Luego, una primavera, las runas se borraron.
 
@@ -32,7 +34,7 @@ Ahora andaban. Por todo Kûr. Sin rumbo. Doscientos años andando. Y lo que se l
 
 Los cuarenta altos estaban delante.
 
-* * *
+---
 
 Dalbur dejó el cubo.
 
@@ -42,7 +44,7 @@ Y bajó.
 
 No lo pensó. Los enanos no piensan mucho cuando hay un gólem. Se piensa después. Y se bebe.
 
-* * *
+---
 
 Llegó antes que el gólem. Por poco.
 
@@ -62,7 +64,7 @@ Delante. Sin que nadie se lo dijera.
 
 Dalbur lo vio. Y le gustó.
 
-* * *
+---
 
 El gólem llegó.
 
@@ -72,7 +74,7 @@ Iba a pasar por encima de ellos. Como pasaba por encima de todo.
 
 Dalbur se puso delante del muchacho.
 
-—Quieto —le dijo al gólem. En enano. En la lengua de las runas. La palabra que estaba en todas las piedras de los pechos. La primera que aprendía un enano de Kûr. Quieto.
+—*Quieto* —le dijo al gólem. En enano. En la lengua de las runas. La palabra que estaba en todas las piedras de los pechos. La primera que aprendía un enano de Kûr. *Quieto.*
 
 El gólem no se paró. Nunca se paraban. Las runas estaban borradas. No entendían.
 
@@ -82,7 +84,7 @@ Siempre dudaban. Un momento. Como si se acordaran de algo.
 
 Y en ese momento, Dalbur saltó.
 
-* * *
+---
 
 Le dio en la piedra del pecho. Con el martillo. Con todo.
 
@@ -116,7 +118,7 @@ El del aro miró.
 
 Y sonrió. Como sonríen los enanos jóvenes cuando, en la veta profunda, por fin, oyen el corazón de la montaña y saben que no es el suyo.
 
-* * *
+---
 
 Los enanos de Kûr eran trescientos. Habían sido tres mil.
 
@@ -128,7 +130,7 @@ Y habían oído algo. Abajo.
 
 Dalbur tardó en contestar. Buscó la palabra. No la tenía en la lengua del aro. La dibujó en la ceniza. Un círculo. Con una raya que subía.
 
-—Latido —dijo el del aro. Despacio. Mirando el dibujo—. Abajo. ¿Un latido?
+—*Latido* —dijo el del aro. Despacio. Mirando el dibujo—. Abajo. ¿Un latido?
 
 Dalbur asintió.
 
@@ -138,7 +140,7 @@ El del aro se quedó muy quieto.
 
 Dalbur no entendió todas las palabras. Pero entendió la cara.
 
-* * *
+---
 
 No lo oían todos. Lo oían pocos. Los que cavaban más hondo. Y a los que lo oían les pasaban cosas. Se quedaban quietos. Se olvidaban de comer. Algunos bajaban. Más hondo. Solos. Por la veta. Y no volvían.
 
@@ -152,7 +154,7 @@ Dalbur se encogió de hombros.
 
 —Que viniera alguien —dijo. En enano. Y luego, en la lengua que estaban aprendiendo los dos, mal—: Alguien. De fuera.
 
-* * *
+---
 
 Los yetis no eran malos.
 
@@ -164,9 +166,9 @@ Había que no perderse. Eso era todo.
 
 Y había que no tirarles lanzas.
 
-El del aro lo entendió. Lo mandó. A los yetis no se les tira nada. Lo apuntó el elfo viejo del sombrero, que había venido con ellos y que no salía de la fragua porque decía que era el único sitio de Kûr donde le funcionaba la mano.
+El del aro lo entendió. Lo mandó. *A los yetis no se les tira nada.* Lo apuntó el elfo viejo del sombrero, que había venido con ellos y que no salía de la fragua porque decía que era el único sitio de Kûr donde le funcionaba la mano.
 
-* * *
+---
 
 El tercer mes, el del aro le pidió a Dalbur un sitio.
 
@@ -180,7 +182,7 @@ Los viejos se quedaron callados.
 
 Luego dijeron que sí.
 
-* * *
+---
 
 La avanzada se hizo en dos años.
 
@@ -190,11 +192,11 @@ Y en el centro, una fragua. Grande. Para los dos pueblos.
 
 El del aro le preguntó a Dalbur cómo se llamaba aquello en enano. El sitio. El valle de las fumarolas.
 
-—Tiama —dijo Dalbur.
+—*Tiama* —dijo Dalbur.
 
-Quería decir donde la montaña respira.
+Quería decir *donde la montaña respira*.
 
-El del aro lo repitió. Tiama. Le gustó.
+El del aro lo repitió. *Tiama.* Le gustó.
 
 Y el elfo viejo lo apuntó en el diario. Con la izquierda. Sin explicar de dónde venía. Como si lo hubiera inventado el Emperador.
 
@@ -208,7 +210,7 @@ Dalbur lo pensó.
 
 Le dio la razón.
 
-* * *
+---
 
 El muchacho del pelo negro se llamaba Ilan.
 
@@ -222,7 +224,7 @@ Ilan le preguntó de qué.
 
 —De hielo —dijo Dalbur.
 
-* * *
+---
 
 Tardó un año.
 
@@ -234,7 +236,7 @@ Y en la empuñadura, una runa. Una sola. La primera que aprendía un enano de K�
 
 *Quieto.*
 
-* * *
+---
 
 Se la dio en el solsticio de invierno. En la fragua. Con todos los enanos mirando y la mitad de los altos.
 
@@ -244,13 +246,13 @@ Ilan la cogió con las dos manos. Con guantes.
 
 No dijo nada. Se le pusieron los ojos brillantes.
 
-—¿Por qué quieto? —preguntó el del aro. Mirando la runa.
+—¿Por qué *quieto*? —preguntó el del aro. Mirando la runa.
 
 Dalbur se lo explicó. Despacio. Con las palabras que tenían.
 
 Que era la primera palabra. La que estaba en las piedras de los gólems. La que les decía que no anduvieran. Que no fueran a ningún sitio. Que se quedaran donde estaban.
 
-Que una espada que se llamaba quieto servía para eso. Para que algo que anda sin rumbo se pare. Para que algo que quiere bajar, o subir, o irse, se quede.
+Que una espada que se llamaba *quieto* servía para eso. Para que algo que anda sin rumbo se pare. Para que algo que quiere bajar, o subir, o irse, se quede.
 
 —¿Y qué tengo que parar? —dijo Ilan.
 
@@ -258,7 +260,7 @@ Dalbur lo miró.
 
 —No sé —dijo. En enano. Y luego en la otra lengua, mal—: Algo. Algún día. Lo sabrás.
 
-* * *
+---
 
 Esa noche, el elfo viejo del sombrero se sentó al lado de Dalbur en la fragua.
 

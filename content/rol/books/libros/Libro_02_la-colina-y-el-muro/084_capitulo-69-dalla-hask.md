@@ -1,4 +1,4 @@
-## Capítulo 69 · Dalla Hask
+# Capítulo 69 · Dalla Hask
 
 *Nix. Invierno del año 357 de la Nueva Era.*
 
@@ -8,11 +8,11 @@
 
 Dalla Hask tenía diecinueve años, una ballesta gnoma que disparaba tres virotes seguidos sin recargar y un novio en el barrio del puerto que se llamaba Dax y hacía barcas, y la noche que cayó Nix perdió las tres cosas en ese orden.
 
-* * *
+---
 
 Llevaban seis meses oyendo los tambores.
 
-Desde el otoño. Desde las nubes. Seis meses de tambores en el Dorck, lejos, de noche, cada noche, siempre a la misma hora, siempre el mismo ritmo: tres golpes, una pausa, tres golpes. Al principio la gente de Nix no dormía. Luego dormía mal. Luego se acostumbró. A los tres meses, los niños jugaban a los tambores en la plaza: tres golpes en una olla, una pausa, tres golpes, y salían corriendo, gritando ¡que vienen los orcos!, y se reían.
+Desde el otoño. Desde las nubes. Seis meses de tambores en el Dorck, lejos, de noche, cada noche, siempre a la misma hora, siempre el mismo ritmo: tres golpes, una pausa, tres golpes. Al principio la gente de Nix no dormía. Luego dormía mal. Luego se acostumbró. A los tres meses, los niños jugaban a los tambores en la plaza: tres golpes en una olla, una pausa, tres golpes, y salían corriendo, gritando *¡que vienen los orcos!*, y se reían.
 
 Dalla también se había acostumbrado. Le daba vergüenza, pero era verdad.
 
@@ -22,7 +22,7 @@ Tres golpes. Pausa. Tres golpes.
 
 Dalla bostezó.
 
-* * *
+---
 
 La capitana Drusa Vane pasaba revista cada mañana en su caballo blanco, y cada mañana decía lo mismo.
 
@@ -32,7 +32,7 @@ Lo decía bien alto, para que la oyera todo el Batallón. Ochocientos. En el pat
 
 —No van a venir —decía Drusa—. Llevan seis meses tocando. Si fueran a venir, ya habrían venido. Quieren asustarnos. Que nos vayamos. Que les dejemos el sur. — Acariciaba al caballo—. No nos vamos a ir.
 
-Y el Batallón gritaba. ¡No!
+Y el Batallón gritaba. *¡No!*
 
 Había un viejo, a veces, en la muralla. Un elfo. Con un sombrero que le quedaba grande. Lo llamaban el viejo de la miel. Se sentaba en la muralla este, al lado de la garita de Dalla, y miraba el Dorck. Con él, a veces, un hombre de unos cuarenta años con gafas, que apuntaba cosas.
 
@@ -46,7 +46,7 @@ El viejo de la miel la miró. Tenía los ojos cansados.
 
 —Cuando dejen de tocar.
 
-* * *
+---
 
 Dejaron de tocar el día veintiuno de diciembre. La víspera del día más corto del año.
 
@@ -66,7 +66,7 @@ Miró a su izquierda. El viejo de la miel estaba de pie en la muralla. Con el so
 
 —La campana. Tócala. Ahora.
 
-* * *
+---
 
 Lo que vino después lo recordaría a trozos. Como se recuerdan las pesadillas. Como recordaba, decían, Lanther la Noche del Dolor: solo el olor.
 
@@ -78,7 +78,7 @@ Dalla disparó. No sabía a qué. A la oscuridad. Tres virotes. Recargó. Tres v
 
 Y entonces los vio.
 
-* * *
+---
 
 No venían corriendo.
 
@@ -100,7 +100,7 @@ Estaba detrás de ellos. Con el sombrero en la mano. Mirando.
 
 —Como si alguien los hubiera entrenado —dijo—. Durante mucho tiempo. Desde muy lejos.
 
-* * *
+---
 
 Llegaron a la muralla con escalas. Escalas de verdad, de madera, con ganchos de hierro arriba, que se clavaban en las almenas. Y subieron.
 
@@ -112,7 +112,7 @@ En el patio del cuartel. En su caballo blanco. Con la espada en alto, gritando �
 
 Dalla lo vio. Lo recordaría siempre. El caballo blanco dando vueltas, buscándola. Más que a ella. Más que su cara.
 
-* * *
+---
 
 Y luego vio la retaguardia.
 
@@ -134,7 +134,7 @@ En el pecho. Pequeño. Como cuando alguien te tira de la manga.
 
 Y algo dentro de ella, algo que no sabía que tenía, se agarró. Fuerte. Como se agarra un niño a la pierna de su madre.
 
-Dax, pensó. Sin querer. Hacia arriba.
+*Dax*, pensó. Sin querer. Hacia arriba.
 
 El tirón se cortó.
 
@@ -142,7 +142,7 @@ La figura de la cara de niño ladeó la cabeza. Un poco. Como se ladea la cabeza
 
 Luego el humo se cerró.
 
-* * *
+---
 
 —¡Dalla!
 
@@ -162,7 +162,7 @@ El viejo de la miel la miró. Con aquellos ojos cansados.
 
 Dalla fue.
 
-* * *
+---
 
 El puerto estaba ardiendo.
 
@@ -174,7 +174,7 @@ Dalla lo buscó. Gritó su nombre. Por las calles del puerto, entre el humo, ent
 
 No contestó nadie.
 
-Encontró sus herramientas. En el suelo, delante del astillero. La gubia, el mazo, el cepillo. Las suyas; las conocía, tenían las iniciales grabadas en el mango, D. M., Dax Marrel. Tiradas en el suelo como se tiran las cosas cuando sales corriendo.
+Encontró sus herramientas. En el suelo, delante del astillero. La gubia, el mazo, el cepillo. Las suyas; las conocía, tenían las iniciales grabadas en el mango, *D. M.*, Dax Marrel. Tiradas en el suelo como se tiran las cosas cuando sales corriendo.
 
 O cuando te llevan.
 
@@ -182,11 +182,11 @@ Dalla cogió la gubia. Se la metió en el cinto.
 
 Y se fue al río.
 
-* * *
+---
 
 En el vado de los sauces había ciento cuarenta personas.
 
-De ochocientos soldados y once mil vecinos. Ciento cuarenta. Soldados, la mayoría. Algunos niños. Unos cuantos gnomos, cubiertos de hollín, que no se reían. Una docena de elfos del barrio de los árboles. Un enano que había bajado a Nix a vender cazos y que no paraba de decir piedra, piedra sin que nadie supiera por qué.
+De ochocientos soldados y once mil vecinos. Ciento cuarenta. Soldados, la mayoría. Algunos niños. Unos cuantos gnomos, cubiertos de hollín, que no se reían. Una docena de elfos del barrio de los árboles. Un enano que había bajado a Nix a vender cazos y que no paraba de decir *piedra, piedra* sin que nadie supiera por qué.
 
 El viejo de la miel. Sentado en una piedra, con el sombrero en las rodillas.
 
@@ -202,7 +202,7 @@ Y debajo, más pequeño:
 
 *No he sabido proponer nada. Doce años. Lo tengo apuntado.*
 
-* * *
+---
 
 —¿A dónde vamos? —preguntó alguien. Un soldado. Con la voz rota.
 
@@ -222,9 +222,9 @@ El viejo de la miel se puso el sombrero. Le resbaló hasta las cejas. Se lo subi
 
 El viejo de la miel se levantó. Le costó. Le crujieron las rodillas.
 
-—Entonces vamos a llamar —dijo—. Hace doscientos años, alguien les pidió que nos abrieran la puerta el día que viniera algo. —Miró hacia el norte, hacia Nix, que ardía en el cielo como una segunda puesta de sol—. Ha venido algo.
+—Entonces vamos a llamar —dijo—. Hace doscientos años, alguien les pidió que nos abrieran la puerta el día que viniera algo. —Miró hacia el oeste, hacia Nix, que ardía en el cielo como una segunda puesta de sol—. Ha venido algo.
 
-* * *
+---
 
 Caminaron toda la noche. Hacia el sur. Por el bosque.
 

@@ -1,4 +1,4 @@
-## Capítulo 61 · El Señor
+# Capítulo 61 · El Señor
 
 *En ninguna parte. Invierno del año 1419 de la Nueva Era (812 D.bA).*
 
@@ -6,7 +6,7 @@ Lo que se dejó salvar.
 
 Así lo llama él. No lo dice en voz alta, porque no tiene voz, salvo la que toma prestada a los que tienen miedo. Lo piensa. Lo que se dejó salvar. Como se piensa el nombre de una pieza en un juego que se juega solo.
 
-* * *
+---
 
 La noche del fuego la oyó entera.
 
@@ -22,7 +22,7 @@ Oyó al Emperador.
 
 Eso no era ruido de fondo.
 
-* * *
+---
 
 El Emperador tenía miedo desde los seis años.
 
@@ -30,21 +30,21 @@ Lo sabe porque lo oyó empezar. Una noche de invierno del 1377, en la calle del 
 
 El Señor lo oyó desde el primer día.
 
-Y lo siguió oyendo. Cada noche. Nueve años. Mientras el niño escribía en un cuaderno, con faltas, lo que oía. Mientras aprendía a leer solo para poder escribir. Mientras apuntaba nombres. Corin. Teo. El de las gafas. La que se ríe. La que pesa. El que más tiene.
+Y lo siguió oyendo. Cada noche. Nueve años. Mientras el niño escribía en un cuaderno, con faltas, lo que oía. Mientras aprendía a leer solo para poder escribir. Mientras apuntaba nombres. Corin. Teo. El de las gafas. La que se ríe. La que pesa. *El que más* *tiene.*
 
-El Señor podía haberlo tomado. Era fácil. Un niño con miedo, solo, que no se lo cuenta a nadie, es la cosa más fácil del mundo. Un poco de voz, una noche, en el oído: Diles que lo sabes. Diles que lo cuentas. Y el niño lo habría hecho a los nueve años, y lo habrían bajado por la trampilla a los nueve años, y Teo le habría dado un vaso de leche y una vida corta, y se habría acabado.
+El Señor podía haberlo tomado. Era fácil. Un niño con miedo, solo, que no se lo cuenta a nadie, es la cosa más fácil del mundo. Un poco de voz, una noche, en el oído: *Diles que lo sabes. Diles que lo cuentas.* Y el niño lo habría hecho a los nueve años, y lo habrían bajado por la trampilla a los nueve años, y Teo le habría dado un vaso de leche y una vida corta, y se habría acabado.
 
 No lo tomó.
 
 Lo dejó crecer.
 
-* * *
+---
 
 Porque el Señor sabe una cosa que no saben los de abajo.
 
 Que lo que uno coge no pesa igual que lo que le dan.
 
-Los veintidós Emperadores que hubo antes, desde Astragal, tenían la vida porque alguien se la daba. Sentados en la cocina de un horno, con una navaja de pelar fruta, con un dedo. ¿Quieres? Sí. Y la vida pasaba de uno a otro como pasa el pan de la mesa a la boca. Limpia.
+Los veintidós Emperadores que hubo antes, desde Astragal, tenían la vida porque alguien se la daba. Sentados en la cocina de un horno, con una navaja de pelar fruta, con un dedo. *¿Quieres?* *Sí.* Y la vida pasaba de uno a otro como pasa el pan de la mesa a la boca. Limpia.
 
 Esa vida no le sirve al Señor. No hace ruido. El que la recibe se siente deudor, no dueño. Cuida. Teme perderla, sí, pero teme como teme el que cuida un fuego ajeno. Poco.
 
@@ -58,7 +58,7 @@ Mucho.
 
 Para siempre.
 
-* * *
+---
 
 Ahora, sentado en un trono de roble con la camisa manchada de humo, el sexto tiene un papel en las manos. Y tiene miedo de no saber leerlo. Y tiene miedo de que lo lean otros. Y tiene miedo de que lo que dice sea verdad, y de que no lo sea. Y tiene miedo, debajo de todo, desde los seis años, de que alguien mire.
 
@@ -66,7 +66,7 @@ El Señor lo oye.
 
 Y el ruido es bueno.
 
-* * *
+---
 
 El pergamino lo dejó salvar porque es la mejor semilla que ha sembrado en ochocientos años.
 
@@ -84,7 +84,7 @@ El chico de las gafas, con las manos quemadas, sacándolo de una vitrina rota mi
 
 Que se dejen creer.
 
-* * *
+---
 
 Al orco no le ha dicho nada.
 
@@ -98,13 +98,13 @@ La casa del horno no le hace falta. Le hacía falta hace mil años. Ahora la tie
 
 Al orco lo dejará tranquilo un tiempo. Tiene la piedra que no sabe en qué mano está. Eso le basta al Señor. Un orco que no sabe en qué mano tiene la piedra es un orco que obedece por costumbre.
 
-Cuando la Espada llegue a esa mano, se callará. El Señor lo sabe. Le parece bien. Una espada que habla es una espada que puede decir algo.
+Cuando la Espada llegue a esa mano, casi no le hablará. Le quedará poco que decir. El Señor lo sabe. Le parece bien. Una espada que habla es una espada que puede decir algo.
 
-* * *
+---
 
 Hay cosas que no oye.
 
-Lo sabe. No le gusta saberlo, pero lo sabe. Lo sabe desde que el Guardián levantó la cabeza un dedo, en un valle helado, y lo miró, y el Señor no oyó qué pensaba.
+Lo sabe. No le gusta saberlo, pero lo sabe. Lo sabe desde que el Guardián levantó la cabeza un dedo, en un valle de ceniza, y lo miró, y el Señor no oyó qué pensaba.
 
 No oye a los que no tienen miedo.
 
@@ -122,7 +122,7 @@ No oye al de la torre del muelle cuando come manzanas. Oye a Baervan el resto de
 
 Lo apunta. Él también apunta. A su manera.
 
-No oye al de abajo. Al drow del arpa. Nunca lo ha oído. Ni una vez en todos los siglos. Ese le pregunta cosas. ¿Qué quieres? Se lo preguntó hace sesenta años, en la sala de los túneles, y el Señor, por primera vez en su existencia, contestó la verdad.
+No oye al de abajo. Al drow del arpa. Nunca lo ha oído. Ni una vez en todos los siglos. Ese le pregunta cosas. *¿Qué quieres?* Se lo preguntó hace sesenta años, en la sala de los túneles, y el Señor, por primera vez en su existencia, contestó la verdad.
 
 *Que algo me llame.*
 
@@ -130,7 +130,7 @@ No sabe por qué contestó.
 
 No sabe por qué, desde entonces, cuando baja a la sala de los túneles, se queda un rato más del que necesita.
 
-* * *
+---
 
 Y hay otro al que no oye.
 
@@ -142,9 +142,9 @@ Lo que duerme no tiene miedo y no da miedo. No se mueve. No pide. No escucha.
 
 Pero respira.
 
-Y cada vez que respira, el muro de Banderbill, arriba, en la colina, hace tum.
+Y cada vez que respira, el muro de Banderbill, arriba, en la colina, hace *tum*.
 
-El Señor lleva ochocientos años contando los tum. Como los cuentan los de abajo, los de la Orden, con los relojes de arena, en la sala del muro. Les dejan creer que son los únicos que cuentan.
+El Señor lleva ochocientos años contando los *tum*. Como los cuentan los de abajo, los de la Orden, con los relojes de arena, en la sala del muro. Les dejan creer que son los únicos que cuentan.
 
 Ciento ochenta y cinco antes de la caída. Ciento noventa después.
 
@@ -152,7 +152,7 @@ Ciento noventa y nueve ahora.
 
 Se está despertando.
 
-* * *
+---
 
 El Señor no sabe si quiere que se despierte.
 
@@ -160,7 +160,7 @@ Eso tampoco lo dice. Pero lo piensa, en las noches largas del invierno del 1419,
 
 Si lo que duerme se despierta, lo llamará.
 
-Eso cree. Eso espera. Que algo me llame. Lleva desde antes de los nombres esperando a que algo lo llame, a que alguien le diga ven, a que el hueco de abajo se abra y él pueda bajar y dejar de oír.
+Eso cree. Eso espera. Que algo me llame. Lleva desde antes de los nombres esperando a que algo lo llame, a que alguien le diga *ven*, a que el hueco de abajo se abra y él pueda bajar y dejar de oír.
 
 Y para eso hace falta sangre. Mucha. De todos. Los siete trozos juntos en una mano con miedo. El continente entero oyéndose.
 
@@ -184,7 +184,9 @@ Y piensa, sin querer pensarlo, que a lo mejor eso ya es que lo llamen.
 
 Y se va.
 
-* * *
+A veces, al irse, pasa por la puerta norte y lame las piedras negras donde se quedó la sangre de la pelirroja en el 892. Sabe a sal. Y a una cúpula. Y a un hombre que se deshacía mirando al sol, y no del todo. No sabe qué es. Lo guarda.
+
+---
 
 En la colina, esa noche, el sexto se quedó dormido en el trono con el papel en las manos.
 

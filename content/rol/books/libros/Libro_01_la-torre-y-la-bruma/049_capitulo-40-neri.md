@@ -1,4 +1,4 @@
-## Capítulo 40 · Neri
+# Capítulo 40 · Neri
 
 *Fortaleza de Kel-Mar, río Ceniza. Año 165, invierno.*
 
@@ -14,9 +14,9 @@ Neri dejó de mecer a la niña. Escuchó.
 
 El rumor siguió un rato. Luego se calló.
 
-El viento, pensó. Y se dijo que era el viento, porque Corvo estaba en Concordia, en el funeral de su abuela, y la torre estaba llena de soldados que dormían, y Teodor, el mayor, de cinco años, roncaba en el jergón de al lado con la boca abierta, y no había ninguna razón para que no fuera el viento.
+*El viento*, pensó. Y se dijo que era el viento, porque Corvo estaba en Concordia, en el funeral de su abuela, y la torre estaba llena de soldados que dormían, y Teodor, el mayor, de cinco años, roncaba en el jergón de al lado con la boca abierta, y no había ninguna razón para que no fuera el viento.
 
-* * *
+---
 
 La segunda noche no era el viento.
 
@@ -42,7 +42,7 @@ Algunos de esos nombres eran de soldados que estaban durmiendo en aquel momento 
 
 Y la voz no era la de él. Eso fue lo que más la asustó. Neri conocía la voz del Padre de la Bruma: la había oído toda la vida, cansada, triste, cantando hacia el río. Esta era otra. Más honda. Más lenta. Sin tristeza ninguna. Como si la tierra misma hubiera aprendido a hablar y no supiera para qué servían las palabras más que para contar.
 
-* * *
+---
 
 Fue a ver al capitán al alba.
 
@@ -72,7 +72,7 @@ El capitán Hesk dejó la pluma.
 
 Neri abrió la boca. La cerró.
 
-Podía decírselo. Podía decirle: porque soy eufesia, capitán. Porque nací en un oasis libre al pie de las colinas, entre el río y la niebla, y oigo a los muertos desde que tengo memoria, como los oyen todos los de mi sangre. Porque mi hijo también los oye. Porque conozco esa voz que dice nombres. La conocemos todos los libres. Y esta vez no es la voz del que nos echó de nuestros pozos. Es la de algo peor.
+Podía decírselo. Podía decirle: *porque soy eufesia, capitán. Porque nací en un oasis* *libre al pie de las colinas, entre el río y la niebla, y oigo a los muertos desde que tengo* *memoria, como los oyen todos los de mi sangre. Porque mi hijo también los oye. Porque* *conozco esa voz que dice nombres. La conocemos todos los libres. Y esta vez no es la voz* *del que nos echó de nuestros pozos. Es la de algo peor.*
 
 Y el capitán Hesk la miraría. Y al día siguiente lo sabría toda la guarnición. Y en un mes lo sabría todo el Imperio: que el último Bhargaras, el nieto del emperador Henricus, el que había renunciado a la corona, se había casado en secreto con una eufesia. Que sus hijos eran medio eufesios. Que oían. Y alguien escarbaría. Y encontraría lo demás: a Nadia, en el barrio Germa, y la canción, y de dónde venía de verdad la sangre de los Bhargaras.
 
@@ -82,7 +82,7 @@ Corvo le había hecho prometer, la noche de la boda, con el cordel gris atado a 
 
 Y salió del despacho.
 
-* * *
+---
 
 No fue a la torre. Fue a los lavaderos.
 
@@ -100,9 +100,9 @@ Las mujeres la miraron.
 
 Neri siguió lavando.
 
-—Mi abuela era de los montes del sur —dijo—. Allí se dice que, cuando los perros no paran de aullar hacia el oeste tres noches seguidas, hay que irse al bosque. Los perros de la fortaleza llevan dos noches aullando. —Retorció una camisa—. Es una superstición. Ya lo sé. Pero mi abuela me lo decía, y yo tengo dos hijos.
+—Mi abuela era de los montes del sur —dijo—. Allí se dice que, cuando los perros no paran de aullar hacia el este tres noches seguidas, hay que irse al bosque. Los perros de la fortaleza llevan dos noches aullando. —Retorció una camisa—. Es una superstición. Ya lo sé. Pero mi abuela me lo decía, y yo tengo dos hijos.
 
-Era mentira. Su abuela no le había dicho nunca nada de perros. Pero los perros de la fortaleza aullaban hacia el oeste desde hacía dos noches, y eso era verdad, y las mujeres lo habían oído.
+Era mentira. Su abuela no le había dicho nunca nada de perros. Pero los perros de la fortaleza aullaban hacia el este desde hacía dos noches, y eso era verdad, y las mujeres lo habían oído.
 
 Una de ellas, una Germa vieja con las manos rojas de lejía, viuda de un sargento, dejó de frotar.
 
@@ -116,7 +116,7 @@ Nadie dijo nada durante un rato. Se oía el agua. Los niños, jugando en el barr
 
 —Yo voy —dijo la Germa vieja—. Al bosque. Con la señora. Si es una tontería, habremos pasado frío tres noches, y ya está.
 
-* * *
+---
 
 Salieron al anochecer por la poterna del sur. Ciento siete. Neri los contó al pasar: mujeres, niños, cuatro viejos, una docena de soldados jóvenes que habían escuchado a sus madres o a sus novias y que desertaban sin saberlo, porque nadie les había dado permiso para salir.
 
@@ -128,7 +128,7 @@ Cuando llegaron a la linde del bosque, Neri se volvió a mirar. El capitán segu
 
 Neri no volvió.
 
-* * *
+---
 
 Llegó a medianoche.
 
@@ -166,9 +166,9 @@ Al otro lado de la colina, el rumor de los muertos que caminaban se detuvo.
 
 Neri lo sintió detenerse. Miles de pasos que se paraban a la vez, en la nieve. Como se para un rebaño cuando oye a lo lejos el silbido del pastor. Los muertos conocían aquella canción. Llevaban dieciséis años oyéndola cada noche, cantada hacia el río por el hombre que los había levantado.
 
-La voz honda siguió diciendo nombres, impaciente. Los muertos tardaron en obedecerla. Cuando por fin echaron a andar otra vez, lo hicieron hacia el este, hacia las aldeas del río. Sin volver la cabeza hacia la colina de los robles.
+La voz honda siguió diciendo nombres, impaciente. Los muertos tardaron en obedecerla. Cuando por fin echaron a andar otra vez, lo hicieron hacia el oeste, hacia las aldeas del río. Sin volver la cabeza hacia la colina de los robles.
 
-* * *
+---
 
 Esperaron tres días en el bosque. Cuando se acabó la comida, Neri los sacó de allí y echó a andar hacia el camino de Concordia. Por el camino se les unieron cinco más: dos campesinos de una aldea quemada, una niña sola, un soldado con una pierna rota que había saltado de la muralla, un perro. Ciento doce personas, sin contar el perro.
 
@@ -178,17 +178,19 @@ Supo quién era antes de verle la cara.
 
 —Corvo —dijo.
 
-* * *
+---
 
-Neri de las colinas murió en el año doscientos uno, vieja, en la fortaleza de Kel-Mar, que habían reconstruido piedra a piedra después de aquella noche y que todos los soldados del Ceniza seguían llamando la casa de las voces.
+Neri de las colinas murió en el año doscientos uno, vieja, en la fortaleza de Kel- Mar, que habían reconstruido piedra a piedra después de aquella noche y que todos los soldados del Ceniza seguían llamando la casa de las voces.
 
-Le sobrevivieron tres hijos, once nietos y un bisnieto. Nunca le dijo a nadie de dónde era. Los cronistas la llamaron, cuando la mencionaron, la esposa del comandante Corvo, de origen incierto.
+Le sobrevivieron tres hijos, once nietos y un bisnieto. Nunca le dijo a nadie de dónde era. Los cronistas la llamaron, cuando la mencionaron, *la esposa del comandante* *Corvo, de origen incierto*.
+
+Los suyos, los de las colinas, los que cantaban la canción de la arena, a él no lo llamaban comandante. Lo llamaban *el Segundo*, en su lengua. El segundo Bhargaras: el que vino después del Primero y dijo que no a la corona, las dos veces. Neri guardaba las cosas de los dos en un arcón de pino, con el cordel gris de la boda atado al asa, y cuando se murió el arcón fue a la biblioteca de abajo de Concordia, con sus papeles dentro. En las listas de palacio no consta. Alguien lo raspó.
 
 La víspera de morir, mandó llamar al mayor de sus nietos, un muchacho de diecisiete años que oía a los muertos como su padre y como su abuela, y le dijo algo en la lengua de la arena que el muchacho no entendió del todo y que anotó, años después, en el margen de una crónica familiar:
 
-*El Padre sabe que estamos aquí. Lo ha sabido siempre. Nos deja en paz porque cantamos su canción. Pero no le digáis vuestros nombres. Nunca. Que no os nombre él.*
+*El Padre sabe que estamos aquí. Lo ha sabido siempre. Nos deja en paz porque* *cantamos su canción. Pero no le digáis vuestros nombres. Nunca. Que no os nombre él.*
 
-El muchacho le preguntó por qué los había dejado en paz aquella noche de Kel-Mar. Por qué la niebla, que se había llevado a tres mil hombres, había dejado vivir a ciento doce personas en una cabaña de carboneros.
+El muchacho le preguntó por qué los había dejado en paz aquella noche de Kel- Mar. Por qué la niebla, que se había llevado a tres mil hombres, había dejado vivir a ciento doce personas en una cabaña de carboneros.
 
 Neri tardó mucho en contestar.
 

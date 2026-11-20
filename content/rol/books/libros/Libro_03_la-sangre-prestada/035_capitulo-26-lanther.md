@@ -1,4 +1,4 @@
-## Capítulo 26 · Lanther
+# Capítulo 26 · Lanther
 
 *Banderbill. Otoño del año 630 y primavera del 631 de la Nueva Era (23 y 24 D.bA).*
 
@@ -16,7 +16,7 @@ Y el Emperador. De pie. En el centro. Con el arpa sin cuerdas a la espalda y la 
 
 —Ya lo sé. —El Emperador dejó la corona en la mesa. Al lado del libro de Sein—. Por eso he venido con tiempo.
 
-* * *
+---
 
 Lo había propuesto Sein en el 531. Un miembro por cada hijo de la sangre. Que la Orden creciera. Se había votado tres a uno, en contra. Lanther había dicho entonces que no se fabrica gente que no se muere para una guerra.
 
@@ -34,11 +34,11 @@ Mil ciento doce muertos. Una capitana mirando una estrella.
 
 —Para acordarse.
 
-* * *
+---
 
 El Emperador se sentó. En el borde de la mesa. Le crujieron las rodillas; tenía doscientos treinta años y desde Arghâl le crujían.
 
-—Él dijo que volvería —dijo—. Por la colina. Tú lo oíste. —Miró a Lanther—. No ha vuelto. Han pasado veintitrés años. Puede tardar doscientos. Puede tardar quinientos. Cuando vuelva, yo no estaré. Mi hijo, a lo mejor tampoco. Mi nieto no se acordará de Arghâl más que por un renglón del Diario que dice dura noticia. —Se pasó la mano por la cara—. Vosotros sí. Pero sois cinco. Y uno no habla con nadie que no sea un pan.
+—Él dijo que volvería —dijo—. Por la colina. Tú lo oíste. —Miró a Lanther—. No ha vuelto. Han pasado veintitrés años. Puede tardar doscientos. Puede tardar quinientos. Cuando vuelva, yo no estaré. Mi hijo, a lo mejor tampoco. Mi nieto no se acordará de Arghâl más que por un renglón del Diario que dice *dura noticia*. —Se pasó la mano por la cara—. Vosotros sí. Pero sois cinco. Y uno no habla con nadie que no sea un pan.
 
 Nadie se rio.
 
@@ -48,7 +48,7 @@ Nadie se rio.
 
 —Quiero hacer uno que se acuerde de otra manera.
 
-* * *
+---
 
 —Ottherius —dijo Lanther.
 
@@ -72,7 +72,7 @@ Sein no levantó la vista del libro.
 
 —Que yo oigo la roca —dijo el Emperador—. Debajo. Lo que duerme. Lo oigo desde los diecisiete años. Me lo dio mi padre sin querer. Tú lo sabes. —Se tocó el pecho—. Pero el otro no está en la roca. El otro, el que escucha, el que traduce, no hace ruido. No late. No duerme. Anda. Y toca cosas. Y las cosas que toca se acuerdan. —Miró a Lanther —. Cuando yo me muera, nadie oirá lo que duerme. Lo acepto. Pero que haya alguien que oiga por dónde ha pasado el que anda.
 
-* * *
+---
 
 Lanther se volvió hacia la ventana.
 
@@ -88,7 +88,7 @@ Fuera, en la fuente, había niños. Jugando al juego de la aguja: uno se ponía 
 
 Lanther no contestó.
 
-* * *
+---
 
 Fue Wenna la que habló. Desde la butaca. Sin levantarse; ya no se levantaba si no hacía falta.
 
@@ -106,24 +106,23 @@ Wenna asintió. Despacio.
 
 —Entonces pon una regla —dijo—. Que no se pueda dar porque toca.
 
-* * *
+---
 
 La regla la escribió Sein. Esa noche. En la última hoja del libro de la ofrenda, el del cofre, el de Corvo, debajo de las reglas viejas, con la letra cuidadosa de un hombre que ha escrito mucho:
 
-*Desde el año 630 (23 D.bA), por acuerdo de la Orden, a petición de Arthal II y con el voto en contra y luego a favor de Lanther:*
+*Desde el año 630 (23 D.bA), por acuerdo de la Orden, a petición de Arthal II y con* *el voto en contra y luego a favor de Lanther:*
 
-*Que cada Emperador de la sangre pueda dar su ofrenda una vez que tenga un hijo de la sangre vivo. Nunca antes. Para que la línea no cuelgue de un solo hilo.*
+*Que cada Emperador de la sangre pueda dar su ofrenda una vez que tenga un hijo* *de la sangre vivo. Nunca antes. Para que la línea no cuelgue de un solo hilo.*
 
-*Que la dé a quien haga falta para acordarse. No para el hierro. No para el amor. No porque toca.*
+*Que la dé a quien haga falta para acordarse. No para el hierro. No para el amor.* *No porque toca.*
 
-*Que la Orden pueda decir que no.*  
-*Que conste.*
+*Que la Orden pueda decir que no.* *Que conste.*
 
 Debajo, siete firmas. La de Érandiul, con la izquierda. La de Tibbet, un sombrero dibujado. La de Wenna, una balanza. La de Saelith, una hoja. La de Sein. La del Emperador.
 
 Y la de Lanther. La última. Pequeña. Al lado de la cuarta regla.
 
-* * *
+---
 
 Lo que la hizo cambiar no fue Wenna. Ni el Emperador. Ni la regla.
 
@@ -155,7 +154,7 @@ Lanther lo miró.
 
 —Me voy a morir pronto —dijo Joss—. Este invierno, o el que viene. Y luego no va a subir nadie. —Le cogió la mano. La de ella, de cara de dieciocho, con la suya de noventa y un años, llena de manchas—. Que haya alguien, reina. Que suba. Aunque sea un loco que habla con las cucharas.
 
-* * *
+---
 
 La ofrenda se hizo diez días después. En la habitación del arcón. De noche.
 
@@ -173,7 +172,7 @@ Sein carraspeó.
 
 —Ya lo sé —dijo Ottherius—. Me lo ha dicho.
 
-* * *
+---
 
 Lanther le explicó lo que iba a pasar. Sin adornos. Como se lo habían explicado a ella. La sangre del que dijo que no. Una vez en la vida. A otro. Dura lo que dura la línea. No cura heridas. No hace a nadie más fuerte, ni más listo, ni mejor. Solo hace que no se acabe.
 
@@ -201,7 +200,7 @@ Sein se quitó las gafas.
 
 Y por primera vez en seiscientos años le tendió a alguien el libro de cuentas abierto. Por la primera página.
 
-* * *
+---
 
 Ottherius puso la mano entera.
 
@@ -209,7 +208,7 @@ Se le fue el color de la cara. Se le llenaron los ojos. No dijo nada durante muc
 
 Al final levantó la mano. Despacio. Como se levanta la mano de la cara de un muerto.
 
-—Aquí hay un viejo —dijo— que escribió Tobías Vell, el que no tachaba, y se murió. Y hay un niño que tenía once años y ningún apellido. Y hay una cosa debajo de la primera línea. Escrita con un dedo, sin tinta. Que no se ve. —Miró a Sein—. Pone perdón.
+—Aquí hay un viejo —dijo— que escribió *Tobías Vell, el que no tachaba*, y se murió. Y hay un niño que tenía once años y ningún apellido. Y hay una cosa debajo de la primera línea. Escrita con un dedo, sin tinta. Que no se ve. —Miró a Sein—. Pone *perdón*.
 
 Sein no se puso las gafas. Se quedó con ellas en la mano.
 
@@ -219,7 +218,7 @@ Sein no se puso las gafas. Se quedó con ellas en la mano.
 
 —A todos los que iba a apuntar.
 
-* * *
+---
 
 El Emperador se hizo el corte con el cuchillo curvo del elfo. El de Lanther. El que le había dado el elfo a una muchacha de botas de río, hacía seiscientos años. Ella se lo tendió sin decir nada.
 
@@ -231,7 +230,7 @@ Le puso la mano en la boca a Ottherius. Le sopló en la cara.
 
 Y dijo su nombre.
 
-* * *
+---
 
 Ottherius gritó.
 
@@ -249,21 +248,21 @@ Ottherius la miró. Con los ojos verdes llenos de lágrimas. Riéndose. Llorando
 
 —Todo —dijo—. Antes las cosas hablaban cuando las tocaba. Ahora hablan siempre. La mesa. El cofre. El cuchillo. Tu espada. Tu espada… —Se le cortó la voz—. Tu espada se acuerda de un hombre ciego que la llevaba al hombro. Y de una niña que la arrastraba. Y de un hermano. Y no se calla. No se calla nunca. —Se rio otra vez—. Ahora sí que me van a llamar loco.
 
-* * *
+---
 
 No se le pasó.
 
 Se le hizo soportable, con los años. Aprendió a no oír, como se aprende a no oír el mar cuando se vive en el puerto. Pero no se le pasó. Y fue más raro desde entonces. Hablaba solo por la calle. Saludaba a las puertas. Le pedía perdón a las sillas antes de sentarse.
 
-En la colina le llamaron el loco de Rinkel. En Rinkel, el loco de la colina.
+En la colina le llamaron *el loco de Rinkel*. En Rinkel, *el loco de la colina*.
 
 A él le daba igual. Se lo dijo a Lanther, años después: que era mejor que lo llamaran loco que lo que era de verdad. Que a los locos nadie les pregunta qué saben.
 
-* * *
+---
 
 Joss Hask se murió en la primavera del 631. En la tercera almena. Con la cara levantada.
 
-Lo encontraron al alba los cadetes que subían a bajarlo. Tenía los ojos abiertos. Sonriendo. Mirando el sitio del cielo donde, de noche, al suroeste, sale una estrella.
+Lo encontraron al alba los cadetes que subían a bajarlo. Tenía los ojos abiertos. Sonriendo. Mirando el sitio del cielo donde, de noche, al noreste, sale una estrella.
 
 Lanther estaba allí. Había subido sola, a medianoche, sin decírselo a nadie, y se había sentado a su lado en el suelo. No habían hablado. Él le había cogido la mano. Ella había mirado arriba con él.
 
@@ -275,7 +274,7 @@ Y luego, más bajo, para él solo:
 
 —Te oigo. Vete.
 
-* * *
+---
 
 Esa noche, en la tercera almena, subió alguien.
 
