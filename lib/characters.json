@@ -67,7 +67,7 @@
     "name": "Genieveve de Leogrand",
     "slug": "genieveve-de-leogrand",
     "category": "Emperadores del Primer Imperio",
-    "race": "Humano",
+    "race": "Humana",
     "className": "Guerrera",
     "height": "1,73 m",
     "weight": "78 kg",
@@ -128,7 +128,7 @@
     "name": "Henricus Bhargaras",
     "slug": "henricus-bhargaras",
     "category": "Emperadores del Primer Imperio",
-    "race": "Humano",
+    "race": "Humano (linaje eufesio)",
     "className": "Clérigo / oyente",
     "height": "1,74 m",
     "weight": "84 kg",
@@ -163,7 +163,7 @@
     "name": "Helen Dorian",
     "slug": "helen-dorian",
     "category": "Emperadores del Primer Imperio",
-    "race": "Humano",
+    "race": "Humana (linaje Bhargaras)",
     "className": "Clériga / gobernante",
     "height": "1,59 m",
     "weight": "66 kg",
@@ -203,7 +203,7 @@
     "weight": "84 kg",
     "build": "Atlética",
     "hair": "Gris ceniza",
-    "eyes": "Grises",
+    "eyes": "Azules",
     "combat": "Muy alto",
     "diplomacy": "Medio",
     "strategy": "Muy alto",
@@ -227,7 +227,7 @@
     "name": "Lexandra Tiberius",
     "slug": "lexandra-tiberius",
     "category": "Emperadores del Primer Imperio",
-    "race": "Humano",
+    "race": "Humana",
     "className": "Guerrera / diplomática",
     "height": "1,62 m",
     "weight": "52 kg",
@@ -322,7 +322,7 @@
     "name": "Gregorian Bhargaras",
     "slug": "gregorian-bhargaras",
     "category": "Emperadores del Primer Imperio",
-    "race": "Humano",
+    "race": "Humano (linaje eufesio)",
     "className": "Guerrero / oyente",
     "height": "1,83 m",
     "weight": "94 kg",
@@ -354,7 +354,7 @@
     "name": "Meridio Bhargaras",
     "slug": "meridio-bhargaras",
     "category": "Emperadores del Primer Imperio",
-    "race": "Humano",
+    "race": "Humano (linaje eufesio)",
     "className": "Gobernante / navegante",
     "height": "1,84 m",
     "weight": "88 kg",
@@ -376,7 +376,7 @@
     "history": [
       "Meridio Bhargaras fue el duodécimo emperador de los pueblos jurados. Hijo de Gregorian Bhargaras, heredó el trono en el año 331 y gobernó hasta el 354. Fue padre de tres hijos, de los cuales sobrevivieron dos, y hermano mayor de Aremir Bhargaras, quien lo sucedió en el trono.",
       "Meridio fue un gobernante prudente y sensato, con un reinado inicialmente estable. Heredó de su familia la capacidad de escuchar a los muertos, aunque terminó enfrentándose a algo mucho más peligroso: la voz de Loth. Era observador, desconfiado y valoraba mucho la lealtad. Sin embargo, su necesidad de encontrar respuestas y la confianza que depositó en aquella voz terminaron debilitando su criterio.",
-      "Durante sus primeros dieciocho años de gobierno, Meridio mantuvo la estabilidad del Imperio. Restauró leyes de Lexandra Tiberius, permitió nuevamente que los eufesios poseyeran tierras y reforzó las fortalezas del río Ceniza. En el año 349, a los 54 años, comenzó a escuchar una voz que se dirigía directamente a él. Al principio creyó que era inofensiva, pero esta conocía secretos que nadie más podía saber y comenzó a ganarse su confianza mediante consejos que parecían razonables. Con el tiempo, Loth empezó a darle órdenes. En el año 350, Meridio retiró la Tercera Legión de Kel-Dun siguiendo sus indicaciones. Poco después, la fortaleza cayó y cientos de soldados quedaron abandonados. Su hijo Haltair descubriría años más tarde que también hubo irregularidades en los registros y pagos de aquella legión. Meridio terminó comprendiendo que había sido manipulado. En sus últimos escritos dejó advertencias sobre los planes de Loth y las jarras de sal negra. Se envenenó en el año 354, tras veintitrés años de reinado. Su hermana Aremir heredó un Imperio debilitado y desterró al canciller Orvane, cuya influencia durante aquellos años también quedó bajo sospecha."
+      "Durante sus primeros dieciocho años de gobierno, Meridio mantuvo la estabilidad del Imperio. Restauró leyes de Lexandra Tiberius, permitió nuevamente que los eufesios poseyeran tierras y reforzó las fortalezas del río Ceniza. En el año 349, a los 54 años, comenzó a escuchar una voz que se dirigía directamente a él. Al principio creyó que era inofensiva, pero esta conocía secretos que nadie más podía saber y comenzó a ganarse su confianza mediante consejos que parecían razonables. Con el tiempo, Loth empezó a darle órdenes. En el año 350, Meridio retiró la Tercera Legión de Kel-Dun siguiendo sus indicaciones. Poco después, la fortaleza cayó y cientos de soldados quedaron abandonados. Su sobrino Haltair descubriría años más tarde que también hubo irregularidades en los registros y pagos de aquella legión. Meridio terminó comprendiendo que había sido manipulado. En sus últimos escritos dejó advertencias sobre los planes de Loth y las jarras de sal negra. Se envenenó en el año 354, tras veintitrés años de reinado. Su hermana Aremir heredó un Imperio debilitado y desterró al canciller Orvane, cuya influencia durante aquellos años también quedó bajo sospecha."
     ],
     "source": "Emperadores de la Ceniza — Libro I"
   },
@@ -385,7 +385,7 @@
     "name": "Aremir Bhargaras, la Restauradora",
     "slug": "aremir-bhargaras-la-restauradora",
     "category": "Emperadores del Primer Imperio",
-    "race": "Humano",
+    "race": "Humana (linaje eufesio)",
     "className": "Gobernante",
     "height": "1,63 m",
     "weight": "62 kg",
@@ -416,7 +416,7 @@
     "name": "Haltair Bhargaras, el Amable",
     "slug": "haltair-bhargaras-el-amable",
     "category": "Emperadores del Primer Imperio",
-    "race": "Humano",
+    "race": "Humano (linaje eufesio)",
     "className": "Gobernante",
     "height": "1,81 m",
     "weight": "92 kg",
@@ -440,7 +440,8 @@
     "history": [
       "Haltair Bhargaras fue el decimocuarto emperador de los pueblos jurados. Hijo de Aremir Bhargaras y sobrino de Meridio, heredó de ella el trono en el año 386 y gobernó hasta el 412. Se casó con Ilaria Kalo y fue padre de Bander Bhargaras.",
       "Fue un gobernante cercano, paciente y compasivo, que entendía la amabilidad como una forma de ejercer autoridad, no como debilidad. A diferencia de su madre, prefería comprender las circunstancias antes de castigar. También era valiente y estaba dispuesto a exponerse por sus soldados. Su mayor preocupación fue proteger a su familia y, especialmente, a Bander, cuyo don para escuchar y liberar a los muertos era extraordinario.",
-      "Antes de ser emperador, en el año 362, participó en la reconquista de Kel-Dun. Junto a nueve Custodios y cuarenta voluntarios, consiguió liberar a los 812 soldados muertos que permanecían atrapados en la fortaleza. La operación permitió que todos descansaran sin que muriera ningún soldado vivo. En el año 383 encontró en los archivos Kalo de Pisor información sobre los reclutas desaparecidos de Kel-Dun. Allí conoció a Ilaria Kalo, con quien terminó casándose. En el año 385 nació su hijo Bander. Durante su reinado mantuvo una forma de gobierno distinta a la de Aremir. En el año 395, ante un caso de corrupción relacionado con el robo de grano, decidió investigar primero las necesidades de la población antes de aplicar un castigo. Para Haltair, la amabilidad era una herramienta de gobierno y una forma de conseguir que las personas actuaran correctamente sin recurrir siempre al miedo. Bander manifestó su extraordinario don desde pequeño: a los cuatro años liberó a siete muertos sin entrenamiento. Haltair e Ilaria buscaron protegerlo y evitar que la Academia lo separara de su familia. Más adelante, Odrun Hask comenzó a enseñarle a controlar sus habilidades. En el año 412, durante la Noche Más Larga, la niebla llegó a Concordia. Haltair descendió a la cripta de la Torre de la Unión y se enfrentó a Loth. Este utilizó su nombre secreto para intentar arrebatarle la vida. Antes de morir, Haltair consiguió que Loth prometiera no tocar a los seiscientos refugiados que escapaban por el túnel de Lisandro. También intentó proteger a Bander, asegurándole a Loth que su hijo estaba lejos de Concordia. Finalmente, murió en los escalones de la Torre de la Unión, sin llegar a saber que Bander había regresado para ayudar a los refugiados. Su legado quedó marcado por una idea: la bondad podía ser una forma de fortaleza, incluso frente a quienes gobernaban mediante el miedo."
+      "Antes de ser emperador, en el año 362, participó en la reconquista de Kel-Dun. Junto a nueve Custodios y cuarenta voluntarios, consiguió liberar a los 812 soldados muertos que permanecían atrapados en la fortaleza. La operación permitió que todos descansaran sin que muriera ningún soldado vivo. En el año 383 encontró en los archivos Kalo de Pisor información sobre los reclutas desaparecidos de Kel-Dun. Allí conoció a Ilaria Kalo, con quien terminó casándose. En el año 385 nació su hijo Bander. Durante su reinado mantuvo una forma de gobierno distinta a la de Aremir. En el año 395, ante un caso de corrupción relacionado con el robo de grano, decidió investigar primero las necesidades de la población antes de aplicar un castigo. Para Haltair, la amabilidad era una herramienta de gobierno y una forma de conseguir que las personas actuaran correctamente sin recurrir siempre al miedo. Bander manifestó su extraordinario don desde pequeño: a los cuatro años liberó a siete muertos sin entrenamiento. Haltair e Ilaria buscaron protegerlo y evitar que la Academia lo separara de su familia. Más adelante, Odrun Hask comenzó a enseñarle a controlar sus habilidades. En el año 412, durante la Noche Más Larga, la niebla llegó a Concordia. Haltair descendió a la cripta de la Torre de la Unión y se enfrentó a Loth. Este utilizó su nombre secreto para intentar arrebatarle la vida. Antes de morir, Haltair consiguió que Loth prometiera no tocar a los seiscientos refugiados que escapaban por el túnel de Lisandro. También intentó proteger a Bander, asegurándole a Loth que su hijo estaba lejos de Concordia. Finalmente, murió en los escalones de la Torre de la Unión, sin llegar a saber que Bander había regresado para ayudar a los refugiados. Su legado quedó marcado por una idea: la bondad podía ser una forma de fortaleza, incluso frente a quienes gobernaban mediante el miedo.",
+      "## II. GOBERNANTES DE BANDERBILL Y LA NUEVA ERA"
     ],
     "source": "Emperadores de la Ceniza — Libro I"
   },
@@ -492,7 +493,7 @@
     "weight": "82 kg",
     "build": "Atlética",
     "hair": "Negro",
-    "eyes": "Marrones",
+    "eyes": "Grises",
     "combat": "Muy alto",
     "diplomacy": "Medio",
     "strategy": "Alto",
@@ -509,8 +510,7 @@
       "children": "Sin hijos"
     },
     "history": [
-      "Hijo de Bander Bhargaras VI y Mara Renod, hermano de Lanther. Fue el segundo emperador de Banderbill y gobernó entre los años 27 y 29 de la Nueva Era. No tuvo descendencia.",
-      "- Fue un gobernante marcado por la muerte de su padre y la necesidad de proteger la ciudad recién fundada.\n- Desconfiaba de la magia y de las profecías. Consideraba que aquello que no se comprendía podía convertirse en una fuente de miedo.\n- Tenía un carácter combativo y decidido; encabezaba personalmente las expediciones contra las amenazas.\n- Su destino quedó ligado a una de las jarras de Loth y a la protección de algo que permanecía oculto bajo el Valle Negro.\n- Su hermana Lanther heredó la responsabilidad de continuar la dinastía y proteger Banderbill.",
+      "Hijo de Bander Bhargaras VI y Mara Renod, hermano de Lanther. Fue el segundo emperador de Banderbill y gobernó entre los años 27 y 29 de la Nueva Era. No tuvo descendencia.\n- Fue un gobernante marcado por la muerte de su padre y la necesidad de proteger la ciudad recién fundada.\n- Desconfiaba de la magia y de las profecías. Consideraba que aquello que no se comprendía podía convertirse en una fuente de miedo.\n- Tenía un carácter combativo y decidido; encabezaba personalmente las expediciones contra las amenazas.\n- Su destino quedó ligado a una de las jarras de Loth y a la protección de algo que permanecía oculto bajo el Valle Negro.\n- Su hermana Lanther heredó la responsabilidad de continuar la dinastía y proteger Banderbill.",
       "En el año 27, durante la Noche del Dolor, su padre, Bander, murió tras enfrentarse a las medusas que amenazaban la ciudad. Bhargaras tomó el mando, derrotó a las criaturas y persiguió a las restantes por las montañas, destruyendo sus cuevas. Tras su coronación inició una campaña para eliminar las amenazas que rodeaban Banderbill. También expulsó a los brujos de la ciudad y cerró la escuela de la Custodia, prohibiendo enseñar o practicar el arte de escuchar, nombrar y liberar a los muertos. Estableció que los nombres de los fallecidos solo podían pronunciarse una vez al año y por boca del emperador. En el año 29 encabezó una expedición hacia el Valle Negro, acompañado por soldados y por el elfo Érandiul. Allí se enfrentó a las medusas y encontró una amenaza relacionada con las jarras de Loth. Finalmente fue sellado en sal junto a una de ellas, convirtiéndose en el Último Guardián. Su hermana Lanther quedó como única integrante de la familia real y asumió la responsabilidad de proteger la ciudad. Con el tiempo, Bhargaras pasó a ser una figura legendaria: permaneció bajo el Valle Negro, custodiando aquello que no debía despertar."
     ],
     "source": "Emperadores de la Ceniza — Libro II"
@@ -520,7 +520,7 @@
     "name": "Lanther",
     "slug": "lanther",
     "category": "Gobernantes de Banderbill",
-    "race": "Humano",
+    "race": "Humana (vida prestada)",
     "className": "Guerrera / gobernante",
     "height": "1,70 m",
     "weight": "66 kg",
@@ -544,8 +544,7 @@
       "grandchildren": "Andriath"
     },
     "history": [
-      "Lanther Bhargaras es hija de Bander y Mara, y hermana de Bhargaras VII. Nació en la colina y creció en Banderbill, dentro de la familia imperial. Desde joven se distingue por su carácter independiente, su vínculo con el río y su costumbre de coleccionar piedras. Tiene el cabello cobrizo, es alta y de hombros anchos. Su vida queda ligada a la historia de la casa Bhargaras y a la continuidad de la Orden.",
-      "- Es valiente, decidida y de carácter fuerte; no se acomoda fácilmente a lo que se espera de una princesa.\n- Mantiene un vínculo profundo con su familia, especialmente con su madre y su hermano, aunque suele expresar sus afectos más mediante acciones que con palabras.\n- Tiene una sensibilidad particular hacia las piedras y los latidos que vienen de la montaña.\n- Recibió de su hermano, Bhargaras VII, una vida prestada. Por eso conserva el aspecto de una joven de dieciocho años y no envejece.\n- Forma parte de la Orden y carga con el peso de recordar a quienes ya no están. Su longevidad también significa ver morir a muchas personas queridas.",
+      "Lanther Bhargaras es hija de Bander y Mara, y hermana de Bhargaras VII. Nació en la colina y creció en Banderbill, dentro de la familia imperial. Desde joven se distingue por su carácter independiente, su vínculo con el río y su costumbre de coleccionar piedras. Tiene el cabello cobrizo, es alta y de hombros anchos. Su vida queda ligada a la historia de la casa Bhargaras y a la continuidad de la Orden.\n- Es valiente, decidida y de carácter fuerte; no se acomoda fácilmente a lo que se espera de una princesa.\n- Mantiene un vínculo profundo con su familia, especialmente con su madre y su hermano, aunque suele expresar sus afectos más mediante acciones que con palabras.\n- Tiene una sensibilidad particular hacia las piedras y los latidos que vienen de la montaña.\n- Recibió de su hermano, Bhargaras VII, una vida prestada. Por eso conserva el aspecto de una joven de dieciocho años y no envejece.\n- Forma parte de la Orden y carga con el peso de recordar a quienes ya no están. Su longevidad también significa ver morir a muchas personas queridas.",
       "Durante la Noche del Dolor y los acontecimientos del Valle Negro, Lanther demuestra su valentía al permanecer junto a Livia cuando podría haberse marchado con su hermano. En el año 29, su hermano Bhargaras VII le entregó su vida prestada antes de quedar sellado en sal en el Valle Negro. Lanther levantó el muro de Banderbill en el año 30 y fue coronada reina en el año 31. La vida prestada conservó su juventud, pero la obligó a atravesar generaciones y despedidas. Su papel dentro de la Orden se profundiza: entrega su propia vida a Sein Vell para que pueda continuar su tarea de recordar y llevar las cuentas. También conserva una gota de sangre de Bhargaras IX, guardada para cuando sea necesaria. Lanther sigue siendo una figura central de la Orden y permanece junto a Astragal. Participa en la decisión de utilizar aquella gota para transformar el hierro en un escudo destinado a proteger la ciudad, en lugar de emplearla para prolongar otra vida. En síntesis: Lanther es una mujer marcada por la pérdida, la responsabilidad y la memoria. Su fortaleza no está solamente en su valentía, sino también en su capacidad de permanecer, cuidar y sostener a otros a través del tiempo."
     ],
     "source": "Emperadores de la Ceniza — Libros II, III, IV"
@@ -580,8 +579,7 @@
       "grandchildren": "Bhargaras VIII"
     },
     "history": [
-      "Amael es hijo de Lanther y Teo Ruald, aunque su verdadera ascendencia permanece oculta durante buena parte de su vida. Nació en Banderbill y llegó a convertirse en emperador. Heredó de su madre una naturaleza extraordinaria, pero no su longevidad: su vida fue humana y limitada. Desde pequeño destacó por su inteligencia y por una capacidad excepcional para leer y comprender textos antiguos.",
-      "- Es observador, inteligente, curioso y especialmente sensible a aquello que los demás prefieren callar.\n- Tiene una relación muy profunda con su madre, Lanther, aunque también carga con el dolor de saber que ella vivirá mucho más que él.\n- Su vínculo con Teo es afectuoso y genuino. Lo reconoce como su verdadero padre, más allá de cualquier secreto.\n- Siente un gran respeto por la memoria y el conocimiento. Cree que las historias deben conservarse para que los acontecimientos no sean olvidados ni distorsionados.\n- No es un personaje definido por la ambición de poder, sino por sus afectos, su curiosidad y su deseo de dejar algo duradero.",
+      "Amael es hijo de Lanther y Teo Ruald, aunque su verdadera ascendencia permanece oculta durante buena parte de su vida. Nació en Banderbill y llegó a convertirse en emperador. Heredó de su madre una naturaleza extraordinaria, pero no su longevidad: su vida fue humana y limitada. Desde pequeño destacó por su inteligencia y por una capacidad excepcional para leer y comprender textos antiguos.\n- Es observador, inteligente, curioso y especialmente sensible a aquello que los demás prefieren callar.\n- Tiene una relación muy profunda con su madre, Lanther, aunque también carga con el dolor de saber que ella vivirá mucho más que él.\n- Su vínculo con Teo es afectuoso y genuino. Lo reconoce como su verdadero padre, más allá de cualquier secreto.\n- Siente un gran respeto por la memoria y el conocimiento. Cree que las historias deben conservarse para que los acontecimientos no sean olvidados ni distorsionados.\n- No es un personaje definido por la ambición de poder, sino por sus afectos, su curiosidad y su deseo de dejar algo duradero.",
       "Amael aprendió a leer prácticamente solo desde muy pequeño y recibió de Livia conocimientos sobre escrituras antiguas. A los siete años descubrió que su madre no envejecía y comprendió que él, a diferencia de ella, sí moriría algún día. Durante su infancia también descubrió la verdad sobre su padre: Teo, el panadero de Banderbill, y no el supuesto soldado desconocido del que hablaban los demás. Con el paso de los años se convirtió en emperador y decidió construir una gran biblioteca para preservar documentos, testimonios e historias. Cumplió así una promesa que había hecho durante su infancia a Verawel. En el año 63 tomó una decisión trascendental: entregó su propia vida a Teo para que este pudiera permanecer junto a su madre y no tuviera que verla quedarse sola. Amael murió en el año 107, a los sesenta y cinco años, dejando atrás una importante huella en la historia de Banderbill."
     ],
     "source": "Emperadores de la Ceniza — Libro II"
@@ -615,8 +613,7 @@
       "grandchildren": "Bhargaras IX"
     },
     "history": [
-      "Andriath es hijo de Amael y nieto de Lanther. Nació en Banderbill y heredó la corona tras la muerte de su padre, convirtiéndose en rey. Fue un gobernante y guerrero que debió afrontar una época de creciente conflicto entre humanos, elfos y orcos. Su reinado quedó marcado por la Guerra Racial y por la formación de una alianza entre distintas razas para enfrentar la amenaza orca.",
-      "- Es un hombre valiente, decidido y comprometido con la protección de su pueblo y sus aliados.\n- Tiene un fuerte sentido del deber y no duda en asumir riesgos personalmente.\n- Mantiene una relación especial con su abuela Lanther, quien le transmite conocimientos y experiencias que marcarán su vida.\n- Aunque es un guerrero, también demuestra curiosidad, capacidad de diálogo y apertura hacia otras culturas.\n- Su liderazgo se caracteriza por buscar alianzas y cooperación antes que limitarse a la fuerza militar.",
+      "Andriath es hijo de Amael y nieto de Lanther. Nació en Banderbill y heredó la corona tras la muerte de su padre, convirtiéndose en rey. Fue un gobernante y guerrero que debió afrontar una época de creciente conflicto entre humanos, elfos y orcos. Su reinado quedó marcado por la Guerra Racial y por la formación de una alianza entre distintas razas para enfrentar la amenaza orca.\n- Es un hombre valiente, decidido y comprometido con la protección de su pueblo y sus aliados.\n- Tiene un fuerte sentido del deber y no duda en asumir riesgos personalmente.\n- Mantiene una relación especial con su abuela Lanther, quien le transmite conocimientos y experiencias que marcarán su vida.\n- Aunque es un guerrero, también demuestra curiosidad, capacidad de diálogo y apertura hacia otras culturas.\n- Su liderazgo se caracteriza por buscar alianzas y cooperación antes que limitarse a la fuerza militar.",
       "Tras la muerte de Amael, Andriath asumió el trono de Banderbill. Durante su reinado se casó y tuvo un hijo, Bhargaras VIII. También entregó voluntariamente su ofrenda a Wenna, la Fiel del Mercado, estableciendo con ella un vínculo que tendría consecuencias duraderas. Ante los ataques orcos contra los asentamientos élficos, ordenó construir el Fuerte Novel para defenderlos. Sin embargo, el fuerte fue arrasado por Panbor y su ejército. Lejos de rendirse, Andriath emprendió una expedición marítima en busca de otros pueblos élficos que pudieran sumarse a la guerra. En ese viaje encontró a los gnomos y consiguió establecer con ellos una alianza junto a humanos y elfos: la Triple Alianza. Finalmente, participó en la batalla contra los orcos en su último campamento. Allí se enfrentó personalmente a su jefe y murió en el combate, en el año 145. Su hijo Bhargaras VIII heredó la corona y rebautizó el antiguo Fuerte Novel como Ullathorpe."
     ],
     "source": "Emperadores de la Ceniza — Libro II"
@@ -632,7 +629,7 @@
     "weight": "82 kg",
     "build": "Atlética",
     "hair": "Rubio oscuro",
-    "eyes": "Marrones",
+    "eyes": "Grises",
     "combat": "Alto",
     "diplomacy": "Alto",
     "strategy": "Alto",
@@ -650,8 +647,7 @@
       "grandchildren": "Bhargaras X"
     },
     "history": [
-      "Bhargaras VIII fue hijo de Andriath y Hilde, y descendiente de la línea real de Banderbill. Nació en el año 108 y sucedió a su padre tras su muerte en la batalla contra los orcos, en el año 145. Fue el sexto monarca de la dinastía y gobernó hasta el año 165. Su reinado estuvo marcado por la reconstrucción posterior a la Guerra Racial, el fortalecimiento de las relaciones con otros pueblos y el crecimiento de los territorios humanos. Estuvo casado con Ysolde y fue padre de Bhargaras IX, quien heredó la corona.",
-      "- Observador y reflexivo: prefería escuchar y comprender los problemas antes que apresurarse a dar órdenes. Su costumbre de pasar tiempo en el puerto y estudiar mapas fue inicialmente cuestionada por el Consejo.\n- Interesado en el conocimiento y la planificación: leía mucho, analizaba las rutas comerciales y comprendía la importancia de conectar los distintos asentamientos.\n- Cercano a los gnomos: desarrolló una relación de afecto y confianza con ellos, especialmente con Tibbet Tornasol.\n- Práctico y visionario: supo reconocer las necesidades de Banderbill y proyectar soluciones que favorecieran el desarrollo de sus ciudades y el comercio.\n- Afectuoso, aunque reservado: su vínculo con Tibbet y la preocupación que demuestra ante la inminente muerte de su padre revelan una faceta sensible.\n- Legado de cooperación: su gobierno continuó el acercamiento entre humanos, elfos y gnomos, y abrió nuevas posibilidades de contacto con otros pueblos.",
+      "Bhargaras VIII fue hijo de Andriath y Hilde, y descendiente de la línea real de Banderbill. Nació en el año 108 y sucedió a su padre tras su muerte en la batalla contra los orcos, en el año 145. Fue el sexto monarca de la dinastía y gobernó hasta el año 165. Su reinado estuvo marcado por la reconstrucción posterior a la Guerra Racial, el fortalecimiento de las relaciones con otros pueblos y el crecimiento de los territorios humanos. Estuvo casado con Ysolde y fue padre de Bhargaras IX, quien heredó la corona.\n- Observador y reflexivo: prefería escuchar y comprender los problemas antes que apresurarse a dar órdenes. Su costumbre de pasar tiempo en el puerto y estudiar mapas fue inicialmente cuestionada por el Consejo.\n- Interesado en el conocimiento y la planificación: leía mucho, analizaba las rutas comerciales y comprendía la importancia de conectar los distintos asentamientos.\n- Cercano a los gnomos: desarrolló una relación de afecto y confianza con ellos, especialmente con Tibbet Tornasol.\n- Práctico y visionario: supo reconocer las necesidades de Banderbill y proyectar soluciones que favorecieran el desarrollo de sus ciudades y el comercio.\n- Afectuoso, aunque reservado: su vínculo con Tibbet y la preocupación que demuestra ante la inminente muerte de su padre revelan una faceta sensible.\n- Legado de cooperación: su gobierno continuó el acercamiento entre humanos, elfos y gnomos, y abrió nuevas posibilidades de contacto con otros pueblos.",
       "Tras la muerte de Andriath en el año 145, Bhargaras VIII asumió el trono de Banderbill. Una de sus primeras decisiones fue honrar a los aliados que habían participado en la Guerra Racial: rebautizó el antiguo Fuerte Novel como Ullathorpe y llamó Nueva Esperanza al archipiélago donde habían encontrado a los gnomos. Durante el año 146 nació su hijo, Bhargaras IX. Ese mismo año, Bhargaras VIII entregó su ofrenda a Tibbet Tornasol, el gnomo con quien mantenía una relación especialmente cercana. El registro de esa entrega conserva una razón sencilla: «Porque lo quería». Como rey, dedicó buena parte de su atención al puerto de Banderbill. Observó que sus instalaciones eran insuficientes para el creciente movimiento comercial y comenzó a proyectar una red de tres puertos: uno en Banderbill, otro en Nix y un tercero en Nueva Esperanza. Para desarrollar esta idea estudió mapas y escuchó las necesidades de quienes trabajaban en el puerto. Aunque no llegó a completar personalmente el proyecto, dejó establecida una visión que su hijo continuaría. En el año 156, un campamento establecido al oeste de Tawarsinan recibió de él el nombre de Nix. El asentamiento había surgido luego de que los elfos de aquella ciudad rechazaran la entrada de los humanos. Con el tiempo, el campamento creció hasta convertirse en un pueblo y posteriormente en una ciudad. Bhargaras VIII murió en el año 165, a los cincuenta y siete años, a causa de una fiebre pulmonar que contrajo mientras observaba a los gnomos probar una nueva embarcación bajo la lluvia. Había pedido que su funeral se celebrara siguiendo las costumbres gnomos, con tres días de festejos y fuegos de colores. Tibbet se encargó de organizarlo. Tras su muerte, Bhargaras IX asumió la corona."
     ],
     "source": "Emperadores de la Ceniza — Libro II"
@@ -685,8 +681,7 @@
       "grandchildren": "Arthal"
     },
     "history": [
-      "Bhargaras IX fue hijo de Bhargaras VIII y nació en Banderbill en el año 146. Heredó la corona tras la muerte de su padre, en el año 165, y gobernó hasta el año 197. Estuvo casado con Alys y fue padre de Bhargaras X. Su reinado transcurrió durante un largo período de paz. Continuó el proyecto de expansión comercial iniciado por su padre y fortaleció los vínculos entre Banderbill, Nix y Nueva Esperanza.",
-      "- Observador y perseverante: heredó de su padre la costumbre de escuchar y prestar atención a lo que sucedía en el puerto.\n- Constructor y planificador: asumió proyectos ambiciosos y tuvo la paciencia necesaria para llevarlos adelante durante décadas.\n- Comprometido con la convivencia: gobernó en una época en la que distintas razas compartían territorios, comerciaban y construían vínculos.\n- Consciente de las dificultades de la paz: comprendió que gobernar en tiempos tranquilos también exigía esfuerzo, negociación y capacidad para atender intereses diferentes.\n- Afectuoso y cercano: amaba profundamente a su esposa Alys y mantuvo una relación de confianza con Tibbet Tornasol.\n- Generoso: antes de morir, entregó una gota de su propia sangre para que su vida quedara preservada en un frasco, destinada a quien pudiera necesitarla.",
+      "Bhargaras IX fue hijo de Bhargaras VIII y nació en Banderbill en el año 146. Heredó la corona tras la muerte de su padre, en el año 165, y gobernó hasta el año 197. Estuvo casado con Alys y fue padre de Bhargaras X. Su reinado transcurrió durante un largo período de paz. Continuó el proyecto de expansión comercial iniciado por su padre y fortaleció los vínculos entre Banderbill, Nix y Nueva Esperanza.\n- Observador y perseverante: heredó de su padre la costumbre de escuchar y prestar atención a lo que sucedía en el puerto.\n- Constructor y planificador: asumió proyectos ambiciosos y tuvo la paciencia necesaria para llevarlos adelante durante décadas.\n- Comprometido con la convivencia: gobernó en una época en la que distintas razas compartían territorios, comerciaban y construían vínculos.\n- Consciente de las dificultades de la paz: comprendió que gobernar en tiempos tranquilos también exigía esfuerzo, negociación y capacidad para atender intereses diferentes.\n- Afectuoso y cercano: amaba profundamente a su esposa Alys y mantuvo una relación de confianza con Tibbet Tornasol.\n- Generoso: antes de morir, entregó una gota de su propia sangre para que su vida quedara preservada en un frasco, destinada a quien pudiera necesitarla.",
       "Tras la muerte de su padre, Bhargaras IX asumió el trono en el año 165. Desde su primer Consejo se propuso completar un proyecto que había quedado pendiente: construir tres grandes puertos para mejorar la comunicación y el comercio entre los asentamientos. El proyecto llevó treinta años. El puerto de Banderbill se convirtió en una enorme instalación marítima, con numerosos muelles y una torre de señalización construida con tecnología gnoma. En Nix se levantó un puerto fluvial que favoreció el crecimiento de la ciudad. Por último, los gnomos construyeron en Nueva Esperanza un extraordinario puerto de coral, con muelles en espiral y grúas de bambú que funcionaban por sí solas. Bhargaras visitó la obra terminada en el año 189. Durante su reinado hubo un prolongado período de paz y prosperidad, aunque no estuvo exento de dificultades. Bhargaras descubrió que mantener la paz era una tarea compleja: debía escuchar a pueblos distintos, atender sus necesidades y encontrar soluciones en las que todos pudieran tener parte de razón. En ese sentido, reconocía en su padre una virtud que intentaba imitar: saber escuchar. En el año 196 enfermó de los pulmones, una dolencia que recordaba a la que había terminado con la vida de su padre. Durante su enfermedad, se ocupó de dejar preparado el futuro de su familia y casó a su hijo con una joven de Nix. Antes de morir, en el año 197, recibió la visita de Lanther. En ese encuentro decidió entregar una gota de su sangre para conservar su vida en un pequeño frasco de cristal gnomo. Cuando Lanther le preguntó a quién debía destinarla, Bhargaras respondió: «Para quien haga falta». Fue la primera vida entregada a la Orden y no a una persona concreta. Murió poco después, acompañado por Alys. Tibbet Tornasol organizó su despedida con fuegos de colores, siguiendo las costumbres de los gnomos. Su hijo Bhargaras X heredó la corona."
     ],
     "source": "Emperadores de la Ceniza — Libro II"
@@ -696,7 +691,7 @@
     "name": "Bhargaras X",
     "slug": "bhargaras-x",
     "category": "Gobernantes de Banderbill",
-    "race": "Humano",
+    "race": "Humano (ascendencia mixta en su descendencia)",
     "className": "Gobernante",
     "height": "1,73 m",
     "weight": "70 kg",
@@ -720,8 +715,7 @@
       "grandchildren": "Eandir"
     },
     "history": [
-      "Bhargaras X fue hijo de Bhargaras IX y octavo sucesor de la corona de Banderbill. Gobernó entre los años 197 y 218, durante el prolongado período de paz que siguió a la Guerra Racial. Se casó con Mirela, una mujer de Nix cuya abuela era elfa, y fue padre de Arthal, quien lo sucedió en el trono. Su reinado estuvo marcado por una tensión entre la convivencia de las distintas razas y el intento de imponer límites a esa integración.",
-      "- Atento y observador: heredó de su padre la costumbre de escuchar lo que ocurría en el puerto y prestar atención a los asuntos cotidianos.\n- Cercano a su pueblo: no parecía necesitar siempre la distancia y el protocolo de la corona. Se lo veía caminar sin escolta y ocuparse personalmente de ciertos asuntos.\n- Prudente y conciliador: ante los conflictos entre humanos y otras razas, fue capaz de intervenir para evitar que las diferencias se convirtieran en divisiones permanentes.\n- Comprometido con la convivencia: su matrimonio con Mirela y el nacimiento de Arthal representaban una unión entre distintas herencias culturales y raciales.",
+      "Bhargaras X fue hijo de Bhargaras IX y octavo sucesor de la corona de Banderbill. Gobernó entre los años 197 y 218, durante el prolongado período de paz que siguió a la Guerra Racial. Se casó con Mirela, una mujer de Nix cuya abuela era elfa, y fue padre de Arthal, quien lo sucedió en el trono. Su reinado estuvo marcado por una tensión entre la convivencia de las distintas razas y el intento de imponer límites a esa integración.\n- Atento y observador: heredó de su padre la costumbre de escuchar lo que ocurría en el puerto y prestar atención a los asuntos cotidianos.\n- Cercano a su pueblo: no parecía necesitar siempre la distancia y el protocolo de la corona. Se lo veía caminar sin escolta y ocuparse personalmente de ciertos asuntos.\n- Prudente y conciliador: ante los conflictos entre humanos y otras razas, fue capaz de intervenir para evitar que las diferencias se convirtieran en divisiones permanentes.\n- Comprometido con la convivencia: su matrimonio con Mirela y el nacimiento de Arthal representaban una unión entre distintas herencias culturales y raciales.",
       "Tras la muerte de Bhargaras IX, en el año 197, asumió el trono. Durante su reinado tuvo que afrontar un conflicto político impulsado por Olbrecht Saur, quien promovió una ley que impedía acceder a la herencia a quienes tuvieran más de una cuarta parte de sangre de otra raza. La medida afectaba especialmente a las familias de ascendencia mixta. Ada Vell descubrió irregularidades en los graneros de los Saur y presentó un escrito mediante la pila de los viernes, un mecanismo por el que llegaban mensajes al rey. Bhargaras X leyó el documento y fue personalmente a hablar con Olbrecht, sin escolta. Poco después, Saur pidió retirar la ley ante el Consejo. El episodio mostró la importancia que el rey daba a escuchar las denuncias y resolver los conflictos sin recurrir a la fuerza. En el año 200 nació su hijo Arthal, que tenía una oreja ligeramente puntiaguda. Bhargaras X murió en el año 218, tras gobernar durante veintiún años. Su hijo lo sucedió y se proclamó Emperador de las cuatro razas."
     ],
     "source": "Emperadores de la Ceniza — Libro II"
@@ -731,7 +725,7 @@
     "name": "Arthal",
     "slug": "arthal",
     "category": "Gobernantes de Banderbill",
-    "race": "Humano",
+    "race": "Humano con ascendencia élfica",
     "className": "Gobernante / guerrero",
     "height": "1,87 m",
     "weight": "90 kg",
@@ -754,8 +748,7 @@
       "grandchildren": "Niestrel"
     },
     "history": [
-      "Arthal fue hijo de Bhargaras X y Mirela de Nix, y noveno sucesor de la corona de Banderbill. Nació en el año 200 y tenía ascendencia humana y élfica por parte de su madre, algo visible en una de sus orejas, ligeramente puntiaguda. Asumió el trono en el año 218, tras la muerte de su padre, y gobernó hasta el año 250. Fue el primer monarca en proclamarse formalmente Emperador de las cuatro razas, dando un nuevo significado político a la convivencia entre humanos, elfos, gnomos y enanos.",
-      "- Orgulloso de su identidad: no ocultaba su ascendencia élfica ni consideraba que fuera un impedimento para gobernar.\n- Visionario: comprendía que los pueblos ya no eran comunidades separadas, sino parte de una misma sociedad. Quería que esa realidad tuviera reconocimiento político.\n- Consciente del peso de la historia: valoraba los símbolos y lo que representaban. Su decisión sobre la corona demuestra que buscaba una identidad imperial propia, sin borrar por completo el pasado.\n- Firme y decidido: tenía una idea clara de lo que quería construir y sabía expresarla ante quienes lo rodeaban.",
+      "Arthal fue hijo de Bhargaras X y Mirela de Nix, y noveno sucesor de la corona de Banderbill. Nació en el año 200 y tenía ascendencia humana y élfica por parte de su madre, algo visible en una de sus orejas, ligeramente puntiaguda. Asumió el trono en el año 218, tras la muerte de su padre, y gobernó hasta el año 250. Fue el primer monarca en proclamarse formalmente Emperador de las cuatro razas, dando un nuevo significado político a la convivencia entre humanos, elfos, gnomos y enanos.\n- Orgulloso de su identidad: no ocultaba su ascendencia élfica ni consideraba que fuera un impedimento para gobernar.\n- Visionario: comprendía que los pueblos ya no eran comunidades separadas, sino parte de una misma sociedad. Quería que esa realidad tuviera reconocimiento político.\n- Consciente del peso de la historia: valoraba los símbolos y lo que representaban. Su decisión sobre la corona demuestra que buscaba una identidad imperial propia, sin borrar por completo el pasado.\n- Firme y decidido: tenía una idea clara de lo que quería construir y sabía expresarla ante quienes lo rodeaban.",
       "Tras la muerte de Bhargaras X, Arthal fue coronado en el año 218. Durante la ceremonia recibió una corona de oro de once libras, forjada por el enano Kildo e incrustada con once cristales de Alkar. En su interior se incorporó el antiguo aro de hierro que había pertenecido a la corona de Bander, elegido originalmente por Mara Renod. Antes de su coronación, Arthal había expresado su deseo de dejar atrás la imagen de una simple colina gobernada por hombres y establecer un verdadero imperio. Le explicó a Kildo que las cuatro razas compartían puertos, plazas y costumbres, y que esa unión merecía un nombre y una corona propios. Durante la ceremonia, al escuchar el sonido del aro de hierro integrado en la nueva corona, Arthal cerró los ojos y dejó escapar una lágrima. Cuando Kildo lo llamó «Piedra», Arthal sonrió y respondió en voz baja: «Que se oiga». Gobernó hasta el año 250, cuando murió y fue sucedido por su hijo Eandir. Su reinado consolidó el título de Emperador de las cuatro razas y dejó una imagen duradera de unidad entre los pueblos."
     ],
     "source": "Emperadores de la Ceniza — Libro II"
@@ -765,7 +758,7 @@
     "name": "Eandir",
     "slug": "eandir",
     "category": "Gobernantes de Banderbill",
-    "race": "Humano",
+    "race": "Humano con ascendencia élfica",
     "className": "Gobernante",
     "height": "1,80 m",
     "weight": "84 kg",
@@ -787,8 +780,7 @@
       "grandchildren": "Eandir II"
     },
     "history": [
-      "Eandir fue hijo de Arthal y décimo sucesor del trono de Banderbill. Gobernó entre los años 250 y 277, durante el período de paz y prosperidad que siguió a la Guerra Racial. Fue padre de Niestrel, quien heredó la corona tras su muerte.",
-      "- Vínculo familiar: fue hijo de Arthal y padre de Niestrel el Justo.\n- Relación con Lanther: ella lo vio solamente dos veces durante sus veintisiete años de reinado, pues pasó buena parte de ese tiempo en el sur, vigilando uno de los Rincones.\n- Contexto de su reinado: gobernó en una época de convivencia entre las cuatro razas.",
+      "Eandir fue hijo de Arthal y décimo sucesor del trono de Banderbill. Gobernó entre los años 250 y 277, durante el período de paz y prosperidad que siguió a la Guerra Racial. Fue padre de Niestrel, quien heredó la corona tras su muerte.\n- Vínculo familiar: fue hijo de Arthal y padre de Niestrel el Justo.\n- Relación con Lanther: ella lo vio solamente dos veces durante sus veintisiete años de reinado, pues pasó buena parte de ese tiempo en el sur, vigilando uno de los Rincones.\n- Contexto de su reinado: gobernó en una época de convivencia entre las cuatro razas.",
       "Eandir heredó la corona de su padre, Arthal, en el año 250. Durante su reinado mantuvo las costumbres de gobierno de su familia: cada viernes firmaba los documentos que se depositaban en la pila, pero lo hacía sin leerlos, siguiendo una práctica que también habían mantenido su padre y su abuelo. Era un hombre aficionado a la caza, bebía poco y quería mucho a su esposa y a su hijo, Niestrel. En una escena del Consejo se lo muestra escuchando a su hermano, el príncipe Corin, hablar sobre los riesgos que podían representar los orcos y la venta de pólvora. Eandir se rio ante la respuesta de Corin, quien proponía estudiar y leer para comprender mejor esos problemas. Entre los años 262 y 264, Corin investigó los cuadernos de Bredinlo y logró deducir dónde se encontraba el octavo Rincón. Allí se encontró con Lanther, pero no intentó tomar la vara que ella custodiaba. Posteriormente, un documento firmado por Eandir lo nombró Intendente de los Puertos del Sur y de las Islas, con residencia en Nueva Esperanza. Corin partió hacia allí en 264. Eandir murió en el año 277 y fue sucedido por su hijo Niestrel, conocido posteriormente como Niestrel el Justo."
     ],
     "source": "Emperadores de la Ceniza — Libro II"
@@ -798,7 +790,7 @@
     "name": "Niestrel, el Justo",
     "slug": "niestrel-el-justo",
     "category": "Gobernantes de Banderbill",
-    "race": "Humano",
+    "race": "Humano con ascendencia élfica",
     "className": "Gobernante / jurista",
     "height": "1,80 m",
     "weight": "90 kg",
@@ -821,8 +813,7 @@
       "grandchildren": "Lindiel"
     },
     "history": [
-      "Niestrel fue hijo de Eandir y heredó el trono de Banderbill en el año 277. Gobernó hasta el año 303, durante un período de paz y convivencia entre las cuatro razas. Su reinado quedó especialmente asociado a una decisión que cambió la forma de ejercer el poder: comenzó a leer personalmente los documentos que llegaban cada viernes al palacio, en lugar de limitarse a firmarlos. Fue padre de Eandir II, quien lo sucedió.",
-      "- Justo y responsable: no se conformaba con aprobar decisiones sin conocer su contenido. Comprendió que gobernar implicaba prestar atención a lo que sucedía y asumir la responsabilidad por las consecuencias.\n- Atento y observador: tenía interés por los asuntos de su reino y por aquello que podía quedar oculto detrás de los procedimientos habituales.\n- Desconfiado de las apariencias: entendió que la Orden podía influir en las decisiones del Imperio y que debía existir vigilancia sobre sus acciones.\n- Comprometido con la justicia: su legado no se basa solamente en su título, sino en haber intervenido cuando descubrió que algunos documentos podían esconder decisiones injustas.",
+      "Niestrel fue hijo de Eandir y heredó el trono de Banderbill en el año 277. Gobernó hasta el año 303, durante un período de paz y convivencia entre las cuatro razas. Su reinado quedó especialmente asociado a una decisión que cambió la forma de ejercer el poder: comenzó a leer personalmente los documentos que llegaban cada viernes al palacio, en lugar de limitarse a firmarlos. Fue padre de Eandir II, quien lo sucedió.\n- Justo y responsable: no se conformaba con aprobar decisiones sin conocer su contenido. Comprendió que gobernar implicaba prestar atención a lo que sucedía y asumir la responsabilidad por las consecuencias.\n- Atento y observador: tenía interés por los asuntos de su reino y por aquello que podía quedar oculto detrás de los procedimientos habituales.\n- Desconfiado de las apariencias: entendió que la Orden podía influir en las decisiones del Imperio y que debía existir vigilancia sobre sus acciones.\n- Comprometido con la justicia: su legado no se basa solamente en su título, sino en haber intervenido cuando descubrió que algunos documentos podían esconder decisiones injustas.",
       "Al asumir la corona en el año 277, Niestrel heredó las costumbres administrativas de sus antecesores. Durante buena parte de su reinado, los documentos de la llamada pila de los viernes llegaban al palacio y eran firmados sin que el emperador los leyera personalmente. Entre los años 289 y 291 comenzó a investigar aquella práctica. Descubrió que algunos documentos contenían una pequeña marca, un palote que solo podía verse al trasluz, y que pertenecía a los Vell, los cronistas de la biblioteca. También descubrió que detrás de muchas decisiones imperiales había una intervención de la Orden, cuyos integrantes llevaban años influyendo en el gobierno sin que el emperador lo supiera. En lugar de destruir los documentos o enfrentarse directamente a la Orden, decidió mantenerlos bajo vigilancia. Desde el año 291 y durante los doce años restantes de su reinado, leyó personalmente todos los papeles de los viernes. Cuando encontraba uno con la marca de los Vell, lo revisaba dos veces y escribía en el margen «Visto». En dos ocasiones encontró documentos con decisiones que no consideró aceptables. En esos casos escribió otra palabra y los devolvió sin firmar. Los documentos no volvieron a aparecer la semana siguiente. Su decisión quedó resumida en una frase que escribió en su cuaderno: «Detrás de cada acción del Emperador, la Orden». Después añadió que detrás de la Orden también debía estar el Emperador, atento a lo que hacía. Niestrel murió en el año 303, tras veintiséis años de reinado. Su hijo, Eandir II, heredó la corona. Las Crónicas terminaron llamándolo el Justo, aunque él habría preferido que lo recordaran como «el que lee»."
     ],
     "source": "Emperadores de la Ceniza — Libro II"
@@ -832,7 +823,7 @@
     "name": "Eandir II",
     "slug": "eandir-ii",
     "category": "Gobernantes de Banderbill",
-    "race": "Humano",
+    "race": "Humano con ascendencia élfica",
     "className": "Gobernante",
     "height": "1,75 m",
     "weight": "86 kg",
@@ -855,8 +846,7 @@
       "grandchildren": "Lindiel II"
     },
     "history": [
-      "Eandir II fue hijo de Niestrel el Justo y de Ilaria. Fue el duodécimo emperador de Banderbill y gobernó entre los años 303 y 344. Sucedió a su padre en el trono y fue sucedido por su hijo Lindiel, quien asumió la corona en el año 344. Su reinado transcurrió durante la etapa de paz y prosperidad conocida como la época dorada. Después de su muerte, en el año 356, comenzaron a aparecer señales de una amenaza procedente del este.",
-      "- Distante de los asuntos cotidianos: a diferencia de su padre, no acostumbraba leer los documentos que llegaban a la pila de los viernes.\n- Poco interesado en la administración directa: decidió que un secretario firmara esos documentos en su nombre, utilizando un sello imperial. Según el relato, leerlos le provocaba dolor de cabeza.\n- Contraste con Niestrel: su forma de gobernar marcó una diferencia importante respecto de su padre, que había descubierto el valor de aquellos documentos y la información que contenían.",
+      "Eandir II fue hijo de Niestrel el Justo y de Ilaria. Fue el duodécimo emperador de Banderbill y gobernó entre los años 303 y 344. Sucedió a su padre en el trono y fue sucedido por su hijo Lindiel, quien asumió la corona en el año 344. Su reinado transcurrió durante la etapa de paz y prosperidad conocida como la época dorada. Después de su muerte, en el año 356, comenzaron a aparecer señales de una amenaza procedente del este.\n- Distante de los asuntos cotidianos: a diferencia de su padre, no acostumbraba leer los documentos que llegaban a la pila de los viernes.\n- Poco interesado en la administración directa: decidió que un secretario firmara esos documentos en su nombre, utilizando un sello imperial. Según el relato, leerlos le provocaba dolor de cabeza.\n- Contraste con Niestrel: su forma de gobernar marcó una diferencia importante respecto de su padre, que había descubierto el valor de aquellos documentos y la información que contenían.",
       "Tras la muerte de Niestrel, en el año 303, Eandir II recibió la corona imperial. Una de las primeras decisiones que conocemos de su reinado fue delegar la lectura y firma de los documentos de los viernes. Desde entonces, un secretario se ocupó de la pila utilizando un sello en nombre del emperador. Esta decisión tuvo consecuencias para los registros de la Orden. Durante los veintiséis años posteriores a la muerte de Niestrel, la columna del debe que Sein llevaba en su Crónica permaneció en blanco. La información que antes podía obtenerse a través de los documentos imperiales dejó de llegarle de la misma manera. Entre los años 329 y 331, durante el gobierno de Eandir II, un comprador procedente del oeste realizó dos operaciones comerciales importantes: pagó con hierro rojo doscientas lámparas y doce barriles de pólvora en cada ocasión. La Orden observó estos movimientos, pero decidió esperar. No se ha establecido que Eandir II conociera esas operaciones o participara en esas decisiones. En el año 344 terminó su reinado y fue coronado su hijo Lindiel, decimotercer emperador de Banderbill."
     ],
     "source": "Emperadores de la Ceniza — Libro II"
@@ -866,7 +856,7 @@
     "name": "Lindiel",
     "slug": "lindiel",
     "category": "Gobernantes de Banderbill",
-    "race": "Humano",
+    "race": "Humano con ascendencia élfica",
     "className": "Guerrero / gobernante",
     "height": "1,82 m",
     "weight": "74 kg",
@@ -889,8 +879,7 @@
       "grandchildren": "Arthal II"
     },
     "history": [
-      "Lindiel fue hijo de Eandir II y decimotercer emperador de Banderbill. Gobernó entre los años 344 y 375. Estaba casado con Cela, una mujer originaria de Nix, y fue padre de Lindiel II, quien heredó la corona tras su muerte. Su reinado comenzó durante la época de paz y prosperidad, pero quedó marcado por una transformación dramática: la destrucción de Nix, la caída de Tawarsinan, el aislamiento de los pueblos y una grave crisis de hambre. Lindiel tuvo que gobernar en un mundo muy diferente al que había recibido de sus antecesores.",
-      "- Escritor y poeta: tenía una profunda inclinación por la escritura. Había escrito poemas durante buena parte de su vida, muchos de ellos dedicados a Cela.\n- Atento a las necesidades de su pueblo: leía personalmente los documentos de los viernes, retomando el hábito de leer personalmente las decisiones que había defendido su abuelo Niestrel.\n- Humilde y cercano: durante la hambruna compartía la misma comida que los demás habitantes de la colina.\n- Responsable y comprometido: no se limitaba a dar órdenes desde el palacio. Estaba dispuesto a exponerse personalmente para ayudar a quienes dependían de sus decisiones.\n- Afectuoso y reservado: amaba profundamente a Cela, aunque le costaba expresar sus sentimientos. También conservaba una sensibilidad especial hacia la poesía incluso en los momentos más difíciles.",
+      "Lindiel fue hijo de Eandir II y decimotercer emperador de Banderbill. Gobernó entre los años 344 y 375. Estaba casado con Cela, una mujer originaria de Nix, y fue padre de Lindiel II, quien heredó la corona tras su muerte. Su reinado comenzó durante la época de paz y prosperidad, pero quedó marcado por una transformación dramática: la destrucción de Nix, la caída de Tawarsinan, el aislamiento de los pueblos y una grave crisis de hambre. Lindiel tuvo que gobernar en un mundo muy diferente al que había recibido de sus antecesores.\n- Escritor y poeta: tenía una profunda inclinación por la escritura. Había escrito poemas durante buena parte de su vida, muchos de ellos dedicados a Cela.\n- Atento a las necesidades de su pueblo: leía personalmente los documentos de los viernes, retomando el hábito de leer personalmente las decisiones que había defendido su abuelo Niestrel.\n- Humilde y cercano: durante la hambruna compartía la misma comida que los demás habitantes de la colina.\n- Responsable y comprometido: no se limitaba a dar órdenes desde el palacio. Estaba dispuesto a exponerse personalmente para ayudar a quienes dependían de sus decisiones.\n- Afectuoso y reservado: amaba profundamente a Cela, aunque le costaba expresar sus sentimientos. También conservaba una sensibilidad especial hacia la poesía incluso en los momentos más difíciles.",
       "Lindiel asumió el trono en el año 344. Durante sus primeros trece años de gobierno disfrutó de un período de paz, buenas cosechas y prosperidad. Continuó la costumbre de leer personalmente los documentos de los viernes, a diferencia de la práctica de delegar la firma que había seguido su padre Eandir II. Sin embargo, en el año 357 llegó la noticia de la destrucción de Nix. La ciudad había caído ante una nueva horda de orcos, y la noticia golpeó especialmente a Lindiel porque Cela era originaria de allí y buena parte de su familia vivía en la ciudad. Al año siguiente también cayó Tawarsinan. Los barcos de Nueva Esperanza dejaron de llegar y el comercio se interrumpió, dando paso a una crisis que terminó provocando hambre en la colina. Durante los años siguientes, Ullathorpe sufrió constantes asedios. Los orcos llegaban desde el sur, quemaban los campos y mantenían a la ciudad aislada. Lindiel comprendió que la amenaza no podía resolverse con los recursos militares disponibles. En el año 375, cuando tenía cincuenta y tres años, decidió acompañar personalmente un convoy de grano hacia Ullathorpe. Llevaba trescientos sacos, suficientes para alimentar a la ciudad hasta la siguiente cosecha. Durante el trayecto se encontró con familias hambrientas y llegó a entregar parte de las provisiones a quienes se las pedían. Al llegar a las cercanías de Ullathorpe, el convoy cayó en una emboscada. Lindiel ordenó que el carro llegara a la ciudad y permaneció detrás, protegiendo su avance junto a sus hombres. El carro consiguió entrar con doscientos noventa y cuatro sacos. Lindiel, en cambio, fue alcanzado por una lanza y murió en el camino. En sus últimos momentos tuvo un encuentro inesperado con un orco que se detuvo a mirarlo. Lindiel le entregó el poema que había escrito para Cela durante aquella mañana. El orco tomó el papel y se marchó. Poco después, Lanther encontró al emperador muerto, con una sonrisa en el rostro. Fue enterrado en la cripta bajo la torre de la colina, con un botón nuevo de su casaca entre las manos. Su hijo, Lindiel II, recibió el aro de hierro y asumió el trono. Durante su coronación recordó el sacrificio de su padre y destacó que había conseguido llevar el grano a Ullathorpe, aunque hubiera tenido que entregar su propia vida para hacerlo."
     ],
     "source": "Emperadores de la Ceniza — Libro II"
@@ -900,7 +889,7 @@
     "name": "Lindiel II",
     "slug": "lindiel-ii",
     "category": "Gobernantes de Banderbill",
-    "race": "Humano",
+    "race": "Humano con ascendencia élfica",
     "className": "Gobernante / organizador",
     "height": "1,75 m",
     "weight": "80 kg",
@@ -924,8 +913,7 @@
       "grandchildren": "Lindos"
     },
     "history": [
-      "Lindiel II fue hijo de Lindiel y decimocuarto emperador de Banderbill. Asumió la corona en el año 375, tras la muerte de su padre durante una emboscada en el camino de Ullathorpe. Tenía veintiséis años y había pasado aquel invierno dentro de la ciudad sitiada, por lo que conocía de cerca el hambre y las consecuencias de la guerra. Gobernó hasta el año 417. Se casó con Aeloen, una elfa superviviente de Tawarsinan, y fue padre de Arthal II, quien lo sucedió en el trono. Su reinado estuvo marcado por la búsqueda de una respuesta a la amenaza orca y por la creación de la Armada Imperial.",
-      "- Reflexivo y reservado: hablaba poco y tenía la costumbre de escuchar. Disfrutaba de la lectura, especialmente de las antiguas Crónicas de Livia.\n- Marcado por el sacrificio de su padre: había presenciado la llegada del convoy de grano a Ullathorpe y conocía el costo que había tenido salvar a sus habitantes.\n- Realista y consciente de sus límites: no pretendía tener todas las respuestas. Reconocía que los recursos disponibles no alcanzaban para vencer la amenaza que enfrentaban.\n- Comprometido con la defensa del Imperio: impulsó la formación de un ejército permanente y quiso que sus habitantes pudieran verlo y reconocerlo.\n- Atento al sufrimiento ajeno: su experiencia durante el asedio y su relación con Aeloen, también marcada por las pérdidas de la guerra, lo acercaron al dolor de quienes habían perdido sus hogares y familias.",
+      "Lindiel II fue hijo de Lindiel y decimocuarto emperador de Banderbill. Asumió la corona en el año 375, tras la muerte de su padre durante una emboscada en el camino de Ullathorpe. Tenía veintiséis años y había pasado aquel invierno dentro de la ciudad sitiada, por lo que conocía de cerca el hambre y las consecuencias de la guerra. Gobernó hasta el año 417. Se casó con Aeloen, una elfa superviviente de Tawarsinan, y fue padre de Arthal II, quien lo sucedió en el trono. Su reinado estuvo marcado por la búsqueda de una respuesta a la amenaza orca y por la creación de la Armada Imperial.\n- Reflexivo y reservado: hablaba poco y tenía la costumbre de escuchar. Disfrutaba de la lectura, especialmente de las antiguas Crónicas de Livia.\n- Marcado por el sacrificio de su padre: había presenciado la llegada del convoy de grano a Ullathorpe y conocía el costo que había tenido salvar a sus habitantes.\n- Realista y consciente de sus límites: no pretendía tener todas las respuestas. Reconocía que los recursos disponibles no alcanzaban para vencer la amenaza que enfrentaban.\n- Comprometido con la defensa del Imperio: impulsó la formación de un ejército permanente y quiso que sus habitantes pudieran verlo y reconocerlo.\n- Atento al sufrimiento ajeno: su experiencia durante el asedio y su relación con Aeloen, también marcada por las pérdidas de la guerra, lo acercaron al dolor de quienes habían perdido sus hogares y familias.",
       "En el año 375 recibió el aro de hierro y asumió el trono en una Banderbill golpeada por la guerra y la escasez. Durante la ceremonia recordó públicamente el sacrificio de su padre: destacó que había llevado grano a Ullathorpe y que había entregado seis sacos a personas hambrientas que encontró en el camino. No se puso la corona imperial de once libras, sino solamente el antiguo aro de hierro. Desde el comienzo de su reinado comprendió que no alcanzaba con resistir los ataques orcos. En el año 398, la Orden aprobó una propuesta de Sein Vell para crear un ejército que pudiera sostenerse económicamente por sí mismo. Lanther lo llamó Armada. En ese mismo período conoció a Aeloen, una elfa de Tawarsinan que había perdido a su hija durante la caída de la ciudad. Ambos compartían el hábito de leer las antiguas Crónicas de Livia y comenzaron a encontrarse en el sótano de la biblioteca. Lindiel II buscaba algo más que un matrimonio: quería que su futuro heredero tuviera ascendencia humana y élfica, como símbolo de una unión real entre los pueblos. Se casaron en la primavera de 399. En el año 400 nació su hijo, Arthal II, de ascendencia humana y élfica. Ese mismo año, Lindiel II decidió que la Armada desfilara por primera vez en la plaza de la colina. Eran tres mil soldados de las cuatro razas, hombres y mujeres que marchaban juntos bajo una misma insignia. Quería que la población pudiera verlos y comprender que existía una fuerza organizada para defenderlos. Lindiel II murió en el año 417, después de gobernar durante cuarenta y dos años. Su hijo Arthal II heredó la corona y, tras su coronación, condujo la Armada hacia el sur, despejó el antiguo campamento orco y comenzó la reconstrucción de Nix."
     ],
     "source": "Emperadores de la Ceniza — Libro II"
@@ -959,8 +947,7 @@
       "grandchildren": "Liminus"
     },
     "history": [
-      "Arthal II fue hijo de Lindiel II y Aeloen, una elfa originaria de Tawarsinan. Fue el decimoquinto emperador de Banderbill y asumió la corona en el año 417, tras la muerte de su padre. Su ascendencia humana y élfica tenía un significado especial en un Imperio profundamente dividido por las guerras y los conflictos entre pueblos. Su coronación representó también la continuidad de un proyecto de unión entre las cuatro razas. Su reinado comenzó con una campaña militar hacia el sur, destinada a recuperar territorios y reconstruir Nix.",
-      "- Identidad entre dos culturas: es el primer emperador medio elfo. No intenta ocultar sus rasgos élficos, aunque sabe que su origen despierta curiosidad y desconfianza.\n- Humilde y cercano: no busca ocupar un lugar privilegiado entre sus soldados. Marcha a pie, en la cuarta fila, junto a los demás integrantes de la Armada.\n- Compasivo: incluso frente a sus enemigos, es capaz de reconocer el sufrimiento. No siente odio hacia los orcos y comprende que muchos de ellos también son víctimas de fuerzas que desconocen.\n- Valiente, pero no temerario: participa del combate y lucha junto a sus soldados, aunque no busca protagonizar la batalla ni convertirse en héroe de los cantares.\n- Respetuoso con la memoria: presta atención a las historias de quienes lo precedieron y comprende el valor de los pequeños gestos, las pérdidas y los recuerdos.",
+      "Arthal II fue hijo de Lindiel II y Aeloen, una elfa originaria de Tawarsinan. Fue el decimoquinto emperador de Banderbill y asumió la corona en el año 417, tras la muerte de su padre. Su ascendencia humana y élfica tenía un significado especial en un Imperio profundamente dividido por las guerras y los conflictos entre pueblos. Su coronación representó también la continuidad de un proyecto de unión entre las cuatro razas. Su reinado comenzó con una campaña militar hacia el sur, destinada a recuperar territorios y reconstruir Nix.\n- Identidad entre dos culturas: es el primer emperador medio elfo. No intenta ocultar sus rasgos élficos, aunque sabe que su origen despierta curiosidad y desconfianza.\n- Humilde y cercano: no busca ocupar un lugar privilegiado entre sus soldados. Marcha a pie, en la cuarta fila, junto a los demás integrantes de la Armada.\n- Compasivo: incluso frente a sus enemigos, es capaz de reconocer el sufrimiento. No siente odio hacia los orcos y comprende que muchos de ellos también son víctimas de fuerzas que desconocen.\n- Valiente, pero no temerario: participa del combate y lucha junto a sus soldados, aunque no busca protagonizar la batalla ni convertirse en héroe de los cantares.\n- Respetuoso con la memoria: presta atención a las historias de quienes lo precedieron y comprende el valor de los pequeños gestos, las pérdidas y los recuerdos.",
       "Arthal nació en el año 400. Su madre, Aeloen, le enseñó a utilizar el arco desde que tenía cuatro años. También recibió de su tío Nimrath una espada élfica, ligera y curva, que llevaría consigo al convertirse en emperador. En marzo de 417 murió su padre, Lindiel II, a los sesenta y ocho años. Una semana después, Arthal recibió el aro de hierro en la plaza de Banderbill. Tenía diecisiete años. Durante su coronación dejó claro que no pensaba esconder su ascendencia élfica y anunció que conduciría la Armada hacia el sur para recuperar los territorios perdidos. Recordó una enseñanza de su padre: debía marchar al lado de quienes lo acompañaran, ni delante ni detrás. En abril partió con seis mil soldados. Arthal no encabezó las filas: marchó en la cuarta, vestido con la misma capa gris que los demás. Durante la campaña atravesó el Bosque Dorck y descubrió que los orcos que lo habitaban ya no estaban organizados como la antigua horda. Según Dalla Hask, la fuerza que los había adiestrado había desaparecido y los había dejado atrás. La batalla contra el último campamento orco duró medio día. La Armada venció y los orcos huyeron. Arthal combatió junto a sus compañeros y presenció la muerte de Dalla Hask, una veterana superviviente de la destrucción de Nix. Al terminar el combate encontró a un orco anciano que no había luchado ni huido. El orco le entregó un papel que había conservado durante cuarenta y dos años: contenía un poema escrito por su abuelo, Lindiel, destinado a Cela. Arthal comprendió el valor de aquel recuerdo y, cuando el anciano murió, decidió enterrarlo en el mismo lugar, pese a las objeciones de algunos capitanes. Ese verano reconstruyó Nix sobre sus antiguas ruinas. Se levantó un nuevo puerto, con muelles de piedra construidos por los enanos y grúas de bambú fabricadas por los gnomos. En el astillero hizo colocar una placa en memoria de Dax Marrel, un carpintero que había muerto construyendo barcas. También llevó el poema recuperado a su abuela Cela y se lo leyó. En otoño regresó a Banderbill con cinco mil seiscientos soldados. Nix estaba nuevamente en pie y los barcos de Nueva Esperanza habían vuelto a llegar. Arthal había conseguido recuperar una ciudad y abrir el camino para la recuperación del comercio y de la presencia imperial en el sur."
     ],
     "source": "Emperadores de la Ceniza — Libros II, III"
@@ -970,7 +957,7 @@
     "name": "Lindos",
     "slug": "lindos",
     "category": "Gobernantes de Banderbill",
-    "race": "Humano",
+    "race": "Humano con ascendencia élfica",
     "className": "Navegante / gobernante",
     "height": "1,80 m",
     "weight": "72 kg",
@@ -995,8 +982,7 @@
       "grandchildren": "Isra, Bhargaras XI"
     },
     "history": [
-      "Lindos fue hijo de Arthal II e Iselde Hask, y el decimosexto emperador de Banderbill. Nació en el año 621 y heredó la corona en 702, tras la muerte de su padre. Tenía una cuarta parte de ascendencia élfica y estaba casado con Maren, una mujer de Nix vinculada al trabajo de los astilleros. Fue padre de Liminus, quien lo sucedió en el trono. Desde joven sintió una profunda fascinación por el mar y por los territorios que todavía no aparecían en los mapas. Su reinado quedó marcado por la construcción de grandes navíos y por las expediciones hacia el este, que permitieron descubrir un nuevo continente.",
-      "- Curioso e inquieto: desde niño quería saber qué había más allá del horizonte. No se conformaba con los límites conocidos ni aceptaba que el mar fuera una frontera definitiva.\n- Perseverante y paciente: fue capaz de dedicar décadas a preparar una expedición, reuniendo recursos, construyendo barcos y aprendiendo navegación.\n- Apasionado por el mar: conocía los barcos por sus velas y sus nombres. Pasaba buena parte de su tiempo en el puerto y aprendió a navegar y a trabajar en los astilleros.\n- Humilde y trabajador: durante su aprendizaje en Nix pidió ser tratado como un aprendiz más, barriendo virutas y cepillando tablas junto a los carpinteros.\n- Afectuoso y leal: mantuvo un vínculo profundo con Maren, quien compartía su deseo de explorar, aunque eligió quedarse en Nix y esperarlo.\n- Respetuoso con la memoria: recibió de su padre un arpa sin cuerdas que perteneció a su hermana Elen y la llevó consigo como recuerdo durante sus viajes.",
+      "Lindos fue hijo de Arthal II e Iselde Hask, y el decimosexto emperador de Banderbill. Nació en el año 621 y heredó la corona en 702, tras la muerte de su padre. Tenía una cuarta parte de ascendencia élfica y estaba casado con Maren, una mujer de Nix vinculada al trabajo de los astilleros. Fue padre de Liminus, quien lo sucedió en el trono. Desde joven sintió una profunda fascinación por el mar y por los territorios que todavía no aparecían en los mapas. Su reinado quedó marcado por la construcción de grandes navíos y por las expediciones hacia el este, que permitieron descubrir un nuevo continente.\n- Curioso e inquieto: desde niño quería saber qué había más allá del horizonte. No se conformaba con los límites conocidos ni aceptaba que el mar fuera una frontera definitiva.\n- Perseverante y paciente: fue capaz de dedicar décadas a preparar una expedición, reuniendo recursos, construyendo barcos y aprendiendo navegación.\n- Apasionado por el mar: conocía los barcos por sus velas y sus nombres. Pasaba buena parte de su tiempo en el puerto y aprendió a navegar y a trabajar en los astilleros.\n- Humilde y trabajador: durante su aprendizaje en Nix pidió ser tratado como un aprendiz más, barriendo virutas y cepillando tablas junto a los carpinteros.\n- Afectuoso y leal: mantuvo un vínculo profundo con Maren, quien compartía su deseo de explorar, aunque eligió quedarse en Nix y esperarlo.\n- Respetuoso con la memoria: recibió de su padre un arpa sin cuerdas que perteneció a su hermana Elen y la llevó consigo como recuerdo durante sus viajes.",
       "Desde los quince años, Lindos pasaba horas observando el puerto de Banderbill. Conocía los nombres de los barcos y distinguía sus velas, pero lo que más le interesaba era saber hasta dónde se extendía el mar. Su padre, Arthal II, lo envió a Nix cuando tenía veinte años para que aprendiera sobre navegación, comercio y construcción naval. Allí pasó tres años trabajando como aprendiz en los astilleros. Aprendió a barrer virutas, cepillar tablas y construir cascos. Durante ese período navegó con Lanther hacia el sur, hasta un punto donde ya no se veían las islas conocidas. Al regresar, decidió que algún día construiría un barco capaz de llevar provisiones para un año entero, para no tener que dar la vuelta por falta de agua. En 650 conoció a Maren, una joven de Nix que trabajaba en las gradas. Se enamoraron y ella compartió su pasión por los barcos y el mar. Tuvieron un hijo, Liminus. En 672 compró en secreto unas gradas de construcción en Nix, utilizando un nombre falso. Allí comenzó a construir dos enormes navíos destinados a una expedición hacia el este. El proyecto se mantuvo oculto durante décadas, aunque su padre conocía su existencia y lo apoyaba en silencio. En 702, tras la muerte de Arthal II, Lindos heredó la corona imperial. Ese mismo año, su padre le había entregado un arpa sin cuerdas que había pertenecido a Elen, su hermana fallecida. Le pidió que la llevara al este, le pusiera cuerdas y tocara una canción que nadie hubiera escuchado. Lindos conservó el instrumento durante sus viajes. En 715 partió hacia el este con cinco barcos y una expedición numerosa. Durante la travesía encontraron tres pequeñas islas con un oasis de agua dulce extraordinariamente fría. Lindos quedó profundamente impresionado por aquel lugar y decidió que, si algún día moría, quería hacerlo allí. Después de reabastecerse, continuaron navegando y descubrieron una extensa tierra cubierta de hierba, bosques y ríos: un nuevo continente. Durante aquella expedición, Lanther lo condujo hasta el octavo Rincón, un lugar que la Orden había mantenido oculto durante siglos. Allí Lindos descubrió la historia de Bredinlo y de la vara que custodiaba. Comprendió la importancia de aquel secreto y dejó constancia de su visita en la pared de la casa: «Lindos. 715. Por el sur. No la he tocado». En 734 murió en las tres islas, con los pies dentro de la poza del oasis. Rechazó tanto la vida que podía ofrecerle la séptima jarra como la gota de sangre que había dejado Bhargaras IX para quien la necesitara. Sus últimas palabras fueron: «Ya he llegado». La jarra se deshizo en el agua y quedó la Lágrima. Su hijo Liminus heredó la corona."
     ],
     "source": "Emperadores de la Ceniza — Libro III"
@@ -1006,7 +992,7 @@
     "name": "Liminus",
     "slug": "liminus",
     "category": "Gobernantes de Banderbill",
-    "race": "Humano",
+    "race": "Humano con ascendencia élfica",
     "className": "Gobernante / navegante",
     "height": "1,88 m",
     "weight": "70 kg",
@@ -1042,7 +1028,7 @@
     "name": "Bhargaras XI",
     "slug": "bhargaras-xi",
     "category": "Gobernantes de Banderbill",
-    "race": "Humano",
+    "race": "Humano con ascendencia élfica",
     "className": "Navegante / emperador",
     "height": "1,73 m",
     "weight": "68 kg",
@@ -1069,7 +1055,7 @@
     "history": [
       "Fue el decimoctavo emperador de Banderbill. Hijo de Liminus y Tessa Ardel, nació en el año 740 y heredó el trono tras la muerte de su padre, en el año 800. Se casó con Kerin, piloto del barco Rosa, y fue padre de Asgal.",
       "Tenía un espíritu aventurero, heredado de su abuelo Lindos y de su padre. No quería limitarse a gobernar desde Lindos: deseaba conocer los territorios que todavía no aparecían en los mapas. Era curioso, decidido y confiaba en la exploración como una forma de descubrir nuevas posibilidades.",
-      "Tras asumir el trono en el año 800, decidió continuar el espíritu explorador de su familia. Entre los años 810 y 811 organizó una expedición hacia el norte junto al almirante Hesper Hask. Después de varios meses de viaje descubrieron un continente helado, al que llamaron Annkör. Durante las exploraciones encontraron enanos, gólems de hielo y yetis, por lo que establecieron una avanzada que terminaría convirtiéndose en Tiama. En el año 817 realizó una ofrenda a Dalbur, hijo de Dalgrim, con el propósito de que Tiama tuviera quien la protegiera. Su reinado estuvo marcado por los viajes y los descubrimientos, aunque también por los peligros que encontraron en aquellas tierras. En el año 856, durante el descubrimiento de Orac, Bhargaras XI y Hesper Hask murieron en la nieve de la ladera norte. Su hijo Asgal fue coronado como decimonoveno emperador."
+      "Tras asumir el trono en el año 800, decidió continuar el espíritu explorador de su familia. Entre los años 810 y 811 organizó una expedición hacia el norte junto al almirante Hesper Hask. Después de varios meses de viaje descubrieron un continente helado, al que llamaron Annkör. Durante las exploraciones encontraron enanos, gólems de hielo y yetis, por lo que establecieron una avanzada que terminaría convirtiéndose en Tiama. En el año 817 realizó una ofrenda a Dalbur, hijo de Dalgrim, con el propósito de que Tiama tuviera quien la protegiera. Su reinado estuvo marcado por los viajes y los descubrimientos, aunque también por los peligros que encontraron en aquellas tierras. En el año 856, durante el descubrimiento de la Isla Siniestra, Bhargaras XI y Hesper Hask murieron en la nieve de la ladera norte. Su hijo Asgal fue coronado como decimonoveno emperador."
     ],
     "source": "Emperadores de la Ceniza — Libro III"
   },
@@ -1078,7 +1064,7 @@
     "name": "Asgal",
     "slug": "asgal",
     "category": "Gobernantes de Banderbill",
-    "race": "Humano",
+    "race": "Humano con ascendencia élfica",
     "className": "Guerrero / emperador",
     "height": "1,88 m",
     "weight": "98 kg",
@@ -1103,7 +1089,7 @@
       "grandchildren": "Larath"
     },
     "history": [
-      "Fue el decimonoveno emperador de Banderbill. Hijo de Bhargaras XI y Kerin, nació en el año 815, en Tiama. Heredó el trono en el año 856, tras la muerte de su padre durante la expedición a Orac. Se casó con Nela Ruald y tuvo un hijo, Astral.",
+      "Fue el decimonoveno emperador de Banderbill. Hijo de Bhargaras XI y Kerin, nació en el año 815, en Tiama. Heredó el trono en el año 856, tras la muerte de su padre durante la expedición a la Isla Siniestra. Se casó con Nela Ruald y tuvo un hijo, Astral.",
       "Fue un gobernante marcado por la responsabilidad y la protección de su pueblo. Aunque heredó el espíritu explorador de su familia, comprendió que también debía prepararse para las amenazas que podían llegar desde el norte. Su vínculo con Tiama y con Dalbur fue muy importante durante su vida.",
       "Tras la muerte de su padre, Asgal fue coronado emperador. En sus primeros años mantuvo una relación cercana con Dalbur y los enanos de Tiama, lugar donde había nacido. En el año 858 se casó con Nela Ruald y, dos años después, nació su hijo Astral. Desde el año 866 tuvo indicios de que Banderbill enfrentaría una amenaza que llegaría desde debajo de la tierra. A pesar de saber que la muralla no impediría por completo el ataque, ordenó construirla durante décadas. Para él, no solo servía como defensa: también permitía que su pueblo supiera cuál era su hogar y qué debía proteger. En el año 885 guardó su ofrenda para alguien que pudiera necesitarla en el futuro. En el año 892, el Demonio atacó Banderbill y consiguió entrar por debajo de la tierra. La muralla y sus defensores fueron fundamentales para resistir el ataque. Al año siguiente, Asgal entregó su vida a Mirela Vell, para que pudiera terminar una frase que había quedado inconclusa. Murió en el año 907, probablemente por su avanzada edad. Su hijo Astral heredó el trono y se convirtió en el vigésimo emperador."
     ],
@@ -1114,7 +1100,7 @@
     "name": "Astral",
     "slug": "astral",
     "category": "Gobernantes de Banderbill",
-    "race": "Humano",
+    "race": "Humano con ascendencia élfica",
     "className": "Gobernante / guerrero",
     "height": "1,76 m",
     "weight": "86 kg",
@@ -1150,7 +1136,7 @@
     "name": "Larath",
     "slug": "larath",
     "category": "Gobernantes de Banderbill",
-    "race": "Humano",
+    "race": "Humano con ascendencia élfica",
     "className": "Gobernante",
     "height": "1,87 m",
     "weight": "70 kg",
@@ -1185,7 +1171,7 @@
     "name": "Astragal",
     "slug": "astragal",
     "category": "Gobernantes de Banderbill",
-    "race": "Humano",
+    "race": "Humano con ascendencia élfica",
     "className": "Paladín / gobernante",
     "height": "1,80 m",
     "weight": "90 kg",
@@ -1220,7 +1206,7 @@
     "name": "Arispar — Almad Larien",
     "slug": "arispar-almad-larien",
     "category": "Gobernantes de Banderbill",
-    "race": "Humano",
+    "race": "Humano (vida prestada)",
     "className": "Gobernante / bardo",
     "height": "1,79 m",
     "weight": "64 kg",
@@ -1241,7 +1227,8 @@
     "history": [
       "Vigésimo tercer emperador de Banderbill y comandante de la Armada Imperial. Nació en 1371, hijo de Lia, una cocinera de la casa de los Ruald. Su nombre de teatro, Arispar, se lo dio Corin Ruald en 1394. Llegó al poder en 1417, durante la caída del Parlamento y la abdicación de Hatmie.",
       "Almad creció lejos de los privilegios y del poder. Fue un hombre observador, reservado y marcado por las injusticias que presenció desde pequeño. Su destino quedó ligado a la profecía del Sexto y a la necesidad de mantener dormido aquello que se oculta bajo Banderbill. Su ascenso al trono también estuvo acompañado de decisiones difíciles y cuestionables.",
-      "Desde niño trabajó en la casa de los Ruald y, a los seis años, escuchó por accidente conversaciones secretas de la Orden. A los dieciocho ingresó en la Armada y llegó a convertirse en un soldado respetado. Con el tiempo comprendió que su origen y la sangre de los Ruald estaban relacionados con un antiguo secreto. En 1416, Corin le entregó parte de su sangre, un acto que permitió a Almad recibir una vida prolongada, aunque provocó que Corin envejeciera rápidamente. En 1417, Almad encabezó el movimiento que terminó con el Parlamento. Los cuatro parlamentarios murieron durante la llamada Traición Justiciera y Hatmie abdicó. Tras detener los enfrentamientos entre los soldados y expulsar a las Hordas del Caos, se proclamó emperador y comandante de la Armada. En 1419 enfrentó una nueva invasión caótica, durante la cual la Biblioteca de Banderbill fue incendiada. Allí encontró el pergamino de los Fragmentos de Alkar, dando inicio a una nueva etapa de su historia."
+      "Desde niño trabajó en la casa de los Ruald y, a los seis años, escuchó por accidente conversaciones secretas de la Orden. A los dieciocho ingresó en la Armada y llegó a convertirse en un soldado respetado. Con el tiempo comprendió que su origen y la sangre de los Ruald estaban relacionados con un antiguo secreto. En 1416, Corin le entregó parte de su sangre, un acto que permitió a Almad recibir una vida prolongada, aunque provocó que Corin envejeciera rápidamente. En 1417, Almad encabezó el movimiento que terminó con el Parlamento. Los cuatro parlamentarios murieron durante la llamada Traición Justiciera y Hatmie abdicó. Tras detener los enfrentamientos entre los soldados y expulsar a las Hordas del Caos, se proclamó emperador y comandante de la Armada. En 1419 enfrentó una nueva invasión caótica, durante la cual la Biblioteca de Banderbill fue incendiada. Allí encontró el pergamino de los Fragmentos de Alkar, dando inicio a una nueva etapa de su historia.",
+      "## III. FIGURAS HISTÓRICAS Y PERSONAJES FUNDAMENTALES"
     ],
     "source": "Emperadores de la Ceniza — Libro IV"
   },
@@ -1250,22 +1237,17 @@
     "name": "Loth — Emrah, Padre de la Bruma",
     "slug": "loth-emrah-padre-de-la-bruma",
     "category": "Figuras históricas",
-    "race": "Humano",
+    "race": "Humano eufesio (transformado)",
     "className": "Nigromante / Cantor de la Bruma",
     "height": "1,80 m",
     "weight": "64 kg",
     "build": "Delgada",
     "hair": "Castaño oscuro",
     "eyes": "Del color de la niebla",
-    "age": "Más de diecisiete siglos al llegar a 1439",
-    "origin": "Eufesia, Sahr-Ennet",
     "combat": "Muy alto",
     "diplomacy": "Alto",
     "strategy": "Alto",
     "economy": "Medio",
-    "necromancy": "Muy alta",
-    "mistManipulation": "Muy alta",
-    "magicKnowledge": "Muy alto",
     "personality": "Reservado, paciente, obsesivo y perspicaz",
     "betrayValues": "Sí",
     "betrayAllies": "Sí",
@@ -1282,14 +1264,19 @@
       "RELACIONES Y TENSIONES",
       "- Ishra: Su madre, cuya desaparición marcó su infancia.\n- Nadi: Su hermana menor, a quien creyó perdida durante siglos.\n- Seren: Su esposa, a quien consiguió traer de vuelta, aunque no como era antes.\n- Anwe: Su hija y principal motivo de su obsesión.\n- Entidad del Pozo Primero: El ser con el que pactó para recuperar a su familia.\n- Lanther: Vinculada a los secretos de las jarras y a los acontecimientos relacionados con su existencia."
     ],
-    "source": "Emperadores de la Ceniza — Libros I, II, III, IV"
+    "source": "Emperadores de la Ceniza — Libros I, II, III, IV",
+    "age": "Más de diecisiete siglos al llegar a 1439",
+    "origin": "Eufesia, Sahr-Ennet",
+    "magicKnowledge": "Muy alto",
+    "mistManipulation": "Muy alta",
+    "necromancy": "Muy alta"
   },
   {
     "id": 39,
     "name": "Nadi — Nadia Bhargaras",
     "slug": "nadi-nadia-bhargaras",
     "category": "Figuras históricas",
-    "race": "Humano",
+    "race": "Humana eufesia",
     "className": "Clériga / oyente",
     "height": "1,75 m",
     "weight": "72 kg",
@@ -1322,7 +1309,7 @@
     "name": "Seren",
     "slug": "seren",
     "category": "Figuras históricas",
-    "race": "Humano",
+    "race": "Humana eufesia (muerta ligada)",
     "className": "Oyente / espíritu ligado",
     "height": "Variable",
     "weight": "Variable",
@@ -1353,7 +1340,7 @@
     "name": "Sahra",
     "slug": "sahra",
     "category": "Figuras históricas",
-    "race": "Humano",
+    "race": "Humana eufesia",
     "className": "Hechicera / Madre Velada",
     "height": "1,60 m",
     "weight": "66 kg",
@@ -1383,12 +1370,12 @@
     "name": "Ysh-Neva",
     "slug": "ysh-neva",
     "category": "Figuras históricas",
-    "race": "Humano",
+    "race": "Humana eufesia",
     "className": "Clériga / líder tribal",
     "height": "1,61 m",
     "weight": "52 kg",
     "build": "Delgada",
-    "hair": "Rojizo",
+    "hair": "Negro",
     "eyes": "Ámbar",
     "combat": "Medio",
     "diplomacy": "Muy alto",
@@ -1407,7 +1394,7 @@
     "history": [
       "Fue la Madre de Kel-Ammar y una de las principales líderes de los clanes libres del desierto. Hija de Ysh-Orra y nieta de Ysh-Amel, nació en un campamento de refugiados después de la destrucción de Kel-Ammar. Fue madre de Ysh-Talia y abuela de Yared Tiberius.",
       "Era una mujer firme, paciente y diplomática, marcada por la violencia que sufrió su pueblo. Buscó reconstruir la confianza entre los clanes libres y el Imperio, sin renunciar a sus propias leyes y costumbres. Consideraba que los muertos debían ser liberados, sin importar de qué pueblo fueran.",
-      "Su abuela murió durante la quema de Kel-Ammar, ordenada por Braco Arenar en el año 190. Su madre, Ysh-Orra, sobrevivió y fue enviada al sur. Ysh-Neva creció escuchando el dolor de su familia y de su pueblo. Con los años reconstruyó Kel-Ammar y se convirtió en una figura de referencia para los clanes libres. En el año 220 estableció un pacto con la emperatriz Lexandra Tiberius. Ambas trabajaron para acercar a sus pueblos y resolver sus diferencias. En el año 226 llevó a doce niños de los clanes libres a la Academia de los Custodios, incluida su propia hija Ysh-Talia, para demostrar su confianza y permitirles aprender a liberar a los muertos. También participó junto a Lexandra en la resolución de conflictos entre las leyes del Imperio y las de los clanes. Su legado fue construir una alianza que permitió durante décadas una convivencia entre ambos pueblos. Murió antes de que esa alianza se quebrara tras la persecución de los eufesios."
+      "Su abuela murió durante la quema de Kel-Ammar, ordenada por Braco Arenar en el año 190. Su madre, Ysh-Orra, sobrevivió y fue enviada al sur. Ysh-Neva creció escuchando el dolor de su familia y de su pueblo. Con los años reconstruyó Kel-Ammar y se convirtió en una figura de referencia para los clanes libres. En el año 220 estableció un pacto con la emperatriz Lexandra Tiberius. Ambas trabajaron para acercar a sus pueblos y resolver sus diferencias. En el año 226 llevó a doce niños de los clanes libres a la Academia de los Custodios, incluida su propia hija Ysh-Talia, para demostrar su confianza y permitirles aprender a liberar a los muertos. También participó junto a Lexandra en la resolución de conflictos entre las leyes del Imperio y las de los clanes. Su legado fue construir una alianza que permitió durante décadas la convivencia entre ambos pueblos. La fecha de su muerte no está establecida en las crónicas consultadas."
     ],
     "source": "Emperadores de la Ceniza — Libro I"
   },
@@ -1446,7 +1433,7 @@
     "name": "Mara Renod",
     "slug": "mara-renod",
     "category": "Figuras históricas",
-    "race": "Humano",
+    "race": "Humana",
     "className": "Gobernante",
     "height": "1,61 m",
     "weight": "58 kg",
@@ -1477,13 +1464,13 @@
     "name": "Livia Heredicus, la Última",
     "slug": "livia-heredicus-la-ultima",
     "category": "Figuras históricas",
-    "race": "Humano",
+    "race": "Humana",
     "className": "Clériga / oyente",
     "height": "1,78 m",
     "weight": "76 kg",
     "build": "Atlética",
     "hair": "Rubio",
-    "eyes": "Ámbar",
+    "eyes": "Grises",
     "combat": "Bajo",
     "diplomacy": "Alto",
     "strategy": "Alto",
@@ -1535,7 +1522,7 @@
     "name": "Sein Vell",
     "slug": "sein-vell",
     "category": "Figuras históricas",
-    "race": "Humano",
+    "race": "Humano (vida prestada)",
     "className": "Escriba / administrador",
     "height": "1,76 m",
     "weight": "62 kg",
@@ -1568,7 +1555,7 @@
     "height": "1,89 m",
     "weight": "92 kg",
     "build": "Musculosa",
-    "hair": "Castaño oscuro",
+    "hair": "Blanco",
     "eyes": "Grises",
     "combat": "Medio",
     "diplomacy": "Alto",
@@ -1593,7 +1580,7 @@
     "name": "Wenna de Pisor",
     "slug": "wenna-de-pisor",
     "category": "Figuras históricas",
-    "race": "Humano",
+    "race": "Humana (vida prestada)",
     "className": "Clériga / custodia",
     "height": "1,61 m",
     "weight": "68 kg",
@@ -1621,7 +1608,7 @@
     "name": "Tibbet Tornasol",
     "slug": "tibbet-tornasol",
     "category": "Figuras históricas",
-    "race": "Gnomo",
+    "race": "Gnomo (vida prestada)",
     "className": "Mago / investigador",
     "height": "1,12 m",
     "weight": "26 kg",
@@ -1640,7 +1627,7 @@
     "history": [
       "Fue un gnomo que recibió la ofrenda de Bhargaras VIII en el año 146, obteniendo una vida extraordinariamente larga. Se convirtió en compañero de Sein Vell y en un personaje cercano a varios emperadores. Era conocido por sus sombreros de hojas, sus listas y su particular manera de percibir el mundo.",
       "Tibbet era curioso, ingenioso, observador y bastante excéntrico. Tenía un olfato extraordinario y podía reconocer cosas que otros pasaban por alto. Detrás de su humor y sus ocurrencias, sentía una profunda preocupación por los olvidados y por las injusticias que nadie quería registrar.",
-      "Acompañó a Andriath durante sus viajes y fue testigo de la muerte del primer rey de la colina, a quien encontró en el círculo de piedras rojas. Con los años se convirtió en un investigador incansable. Registraba acontecimientos, seguía pistas y conservaba listas de cosas que todavía no habían ocurrido. En una de sus investigaciones ayudó a descubrir los abusos cometidos contra los habitantes de las minas y consiguió que sus denuncias fueran escuchadas. En el año 1067 se instaló en el Fuerte Abandonado, donde permaneció durante siglos custodiando un escudo y reuniendo objetos que el mundo había olvidado. En el año 1436 utilizó las cinco notas que había conservado de la canción de Odelia para hacer desaparecer las riquezas acumuladas y conseguir que él mismo fuera olvidado. Así pudo entregar el escudo a un soldado que lo necesitaba, cumpliendo una promesa que había guardado durante mucho tiempo."
+      "Acompañó a Andriath durante sus viajes y, tras la última batalla contra los orcos en 145, encontró el cuerpo del rey en el círculo de piedras rojas. Con los años se convirtió en un investigador incansable. Registraba acontecimientos, seguía pistas y conservaba listas de cosas que todavía no habían ocurrido. En una de sus investigaciones ayudó a descubrir los abusos cometidos contra los habitantes de las minas y consiguió que sus denuncias fueran escuchadas. En el año 1067 se instaló en el Fuerte Abandonado, donde permaneció durante siglos custodiando un escudo y reuniendo objetos que el mundo había olvidado. En el año 1436 utilizó las cinco notas que había conservado de la canción de Odelia para hacer desaparecer las riquezas acumuladas y conseguir que él mismo fuera olvidado. Así pudo entregar el escudo a un soldado que lo necesitaba, cumpliendo una promesa que había guardado durante mucho tiempo."
     ],
     "source": "Emperadores de la Ceniza — Libros II, III, IV"
   },
@@ -1649,12 +1636,12 @@
     "name": "Verawel",
     "slug": "verawel",
     "category": "Figuras históricas",
-    "race": "Elfo",
+    "race": "Elfo (vida prestada)",
     "className": "Mago / erudito",
     "height": "1,84 m",
     "weight": "88 kg",
     "build": "Musculosa",
-    "hair": "Castaño oscuro",
+    "hair": "Blanco",
     "eyes": "Marrones",
     "combat": "Medio",
     "diplomacy": "Alto",
@@ -1677,7 +1664,7 @@
     "name": "Ithil",
     "slug": "ithil",
     "category": "Figuras históricas",
-    "race": "Elfo Drow",
+    "race": "Elfo drow",
     "className": "Guerrero / comandante",
     "height": "1,80 m",
     "weight": "72 kg",
@@ -1707,7 +1694,7 @@
     "name": "Ilwen",
     "slug": "ilwen",
     "category": "Figuras históricas",
-    "race": "Elfo",
+    "race": "Elfa",
     "className": "Guardabosques / diplomática",
     "height": "1,81 m",
     "weight": "74 kg",
@@ -1735,7 +1722,7 @@
     "name": "Teo Ruald",
     "slug": "teo-ruald",
     "category": "Figuras históricas",
-    "race": "Humano",
+    "race": "Humano (vida prestada)",
     "className": "Trabajador / panadero",
     "height": "1,71 m",
     "weight": "82 kg",
@@ -1765,7 +1752,7 @@
     "name": "Dalbur",
     "slug": "dalbur",
     "category": "Figuras históricas",
-    "race": "Enano",
+    "race": "Enano (vida prestada)",
     "className": "Herrero / guerrero",
     "height": "1,48 m",
     "weight": "62 kg",
@@ -1795,7 +1782,7 @@
     "name": "Ottherius",
     "slug": "ottherius",
     "category": "Figuras históricas",
-    "race": "Elfo",
+    "race": "Elfo (vida prestada)",
     "className": "Mago / erudito",
     "height": "1,87 m",
     "weight": "98 kg",
@@ -1823,7 +1810,7 @@
     "name": "Mirela Vell",
     "slug": "mirela-vell",
     "category": "Figuras históricas",
-    "race": "Humano",
+    "race": "Humana (vida prestada)",
     "className": "Cronista / investigadora",
     "height": "1,60 m",
     "weight": "58 kg",
@@ -1854,13 +1841,13 @@
     "name": "Baervan",
     "slug": "baervan",
     "category": "Figuras históricas",
-    "race": "Gnomo",
+    "race": "Gnomo (vida prestada)",
     "className": "Guerrero / comandante",
     "height": "1,18 m",
     "weight": "36 kg",
     "build": "Musculosa",
     "hair": "Rubio oscuro",
-    "eyes": "Azules",
+    "eyes": "Marrones claros",
     "combat": "Muy alto",
     "diplomacy": "Alto",
     "strategy": "Muy alto",
@@ -1882,7 +1869,7 @@
     "name": "Hatmie, Doncella de Banderbill",
     "slug": "hatmie-doncella-de-banderbill",
     "category": "Figuras históricas",
-    "race": "Gnomo",
+    "race": "Gnoma",
     "className": "Guerrera / gobernante",
     "height": "1,16 m",
     "weight": "35 kg",
@@ -1901,7 +1888,7 @@
     "history": [
       "Fue una gnoma que ejerció como Doncella de Banderbill durante más de ciento cuarenta años. Recibió el cargo en el año 1257 y se convirtió en una figura fundamental para la protección del palacio y los secretos de la ciudad. Mantuvo una relación cercana con Lanther, quien le confió una llave y conocimientos que debían permanecer ocultos.",
       "Hatmie era discreta, paciente y perseverante. No buscaba reconocimiento ni disfrutaba ocupar un lugar de autoridad. Sin embargo, tenía una gran determinación y estaba dispuesta a afrontar peligros por aquello que consideraba importante. También era curiosa y conservaba un cuaderno personal donde registraba acontecimientos de su vida.",
-      "Durante siglos protegió Banderbill y colaboró con Lanther en la búsqueda de los antiguos Rincones. En el año 1300 abrió el sexto Rincón, bajo el hielo de Tundra Zero, donde encontró una medusa dormida. En 1320 viajó a las montañas rojas junto a Bruno Ruald y descubrió una puerta oculta. Tras abrirla, encontró registros de Odelia y una piedra blanca, información que llevó a Lanther para que pudiera comprender su significado. En 1402 cerró el palacio y comenzó a investigar por su cuenta los secretos que todavía permanecían ocultos. Quince años después, durante la Traición Justiciera, permitió la llegada de Almad Larien y finalmente abdicó. Se retiró hacia el sur acompañada por doce gnomos, dejando atrás el cargo que había ocupado durante generaciones."
+      "Durante siglos protegió Banderbill y colaboró con Lanther en la búsqueda de los antiguos Rincones. En el año 1300 abrió el sexto Rincón, bajo la ceniza de Tundra Zero, donde encontró una medusa dormida. En 1320 viajó a las montañas rojas junto a Bruno Ruald y descubrió una puerta oculta. Tras abrirla, encontró registros de Odelia y una piedra blanca, información que llevó a Lanther para que pudiera comprender su significado. En 1402 cerró el palacio y comenzó a investigar por su cuenta los secretos que todavía permanecían ocultos. Quince años después, durante la Traición Justiciera, permitió la llegada de Almad Larien y finalmente abdicó. Se retiró a la ciudad baja de Banderbill, protegida por doce gnomos, dejando atrás el cargo que había ocupado durante generaciones."
     ],
     "source": "Emperadores de la Ceniza — Libro IV"
   },
@@ -1938,7 +1925,7 @@
     "name": "Mhorkvel — El Demonio, el de Gris",
     "slug": "mhorkvel-el-demonio-el-de-gris",
     "category": "Figuras históricas",
-    "race": "Demonio",
+    "race": "Entidad sobrenatural (origen desconocido)",
     "className": "Entidad demoníaca / manipulador",
     "height": "Variable",
     "weight": "Variable / no determinado",
@@ -1967,7 +1954,7 @@
     "name": "Jhark",
     "slug": "jhark",
     "category": "Figuras históricas",
-    "race": "Humano",
+    "race": "Medioelfa",
     "className": "Pirata / capitana",
     "height": "1,85 m",
     "weight": "80 kg",
@@ -1984,11 +1971,11 @@
     "selfSacrifice": "Depende",
     "family": {},
     "history": [
-      "Fue una capitana pirata de Rinkel que apareció en el año 1439, después de que la Armada Imperial abandonara las Islas Piratas. Reunió una flota de cuarenta barcos y cerca de dos mil hombres, muchos de ellos personas desplazadas y sin recursos. No pertenecía a las Hordas de Orac ni obedecía al Demonio.",
+      "Fue una capitana pirata de Rinkel cuyos ataques se hicieron temidos en las tierras del sur antes de 1439, tras el retiro de la Armada Imperial de las Islas Piratas. Reunió una flota de cuarenta barcos y cerca de dos mil hombres, muchos de ellos personas desplazadas y sin recursos. No pertenecía a las Hordas de Orac ni obedecía al Demonio.",
       "Jhark era una mujer decidida, desafiante y ambiciosa, pero también tenía una visión particular de la justicia. No se consideraba una simple saqueadora: veía a sus hombres como personas abandonadas por el Imperio y justificaba sus ataques como una forma de conseguir alimento y recursos para ellos. Su aspecto era imponente, con el cabello negro rapado de un lado, una cicatriz que le atravesaba la boca y una casaca roja de capitana.",
-      "En 1439 comenzó sus ataques contra las tierras del sur. Quemó el puerto de Nix y los arrabales de Ullathorpe, además de destruir graneros y cosechas. Sus acciones agravaron el hambre de la población y aumentaron el descontento contra Arispar, quien se negó a enviar tropas porque estaba concentrado en encontrar los Fragmentos de Alkar. Durante la batalla de Lindos, Jhark consiguió extraer la Lágrima del Creador de la poza. Se enfrentó a Arispar en el puente de los sauces y le explicó que no había bebido la piedra porque todavía no sabía si quería vivir para siempre. Finalmente cayó al canal y su cuerpo nunca fue encontrado. La Lágrima terminó en manos de Arispar, aunque él nunca confirmó haberla bebido."
+      "En 1438 ya había realizado incursiones por el río que afectaron a aldeas del borde del Dorck. En 1439 intensificó sus ataques contra las tierras del sur. Quemó el puerto de Nix y los arrabales de Ullathorpe, además de destruir graneros y cosechas. Sus acciones agravaron el hambre de la población y aumentaron el descontento contra Arispar, quien se negó a enviar tropas porque estaba concentrado en encontrar los Fragmentos de Alkar. Durante la batalla de Lindos, Jhark consiguió extraer la Lágrima del Creador de la poza. Se enfrentó a Arispar en el puente de los sauces y le explicó que no había bebido la piedra porque todavía no sabía si quería vivir para siempre. Finalmente cayó al canal y su cuerpo nunca fue encontrado. La Lágrima terminó en manos de Arispar, aunque él nunca confirmó haberla bebido."
     ],
-    "source": "Emperadores de la Ceniza — Libro IV"
+    "source": "Emperadores de la Ceniza — Libros IV, V"
   },
   {
     "id": 63,
@@ -2002,13 +1989,10 @@
     "build": "Corpulenta, de hombros anchos",
     "hair": "Castaño oscuro",
     "eyes": "Azules",
-    "age": "41 años en 1439",
-    "origin": "Campos del río, Ullathorpe",
     "combat": "Medio",
     "diplomacy": "Alto",
     "strategy": "Medio-alto",
     "economy": "Bajo",
-    "leadership": "Muy alto",
     "personality": "Firme, humilde, inconforme, empático, perseverante",
     "betrayValues": "No fácilmente",
     "betrayAllies": "No fácilmente",
@@ -2022,14 +2006,17 @@
       "Fausto cuestiona la desigualdad entre Banderbill y las regiones más perjudicadas, así como la indiferencia de las autoridades imperiales frente a las necesidades de los habitantes más humildes. No busca riquezas ni reconocimiento personal: quiere que quienes gobiernan comprendan que detrás de sus decisiones existen familias, trabajadores y personas que también merecen ser escuchadas.",
       "Nacido en los campos del río, Fausto llevó durante gran parte de su vida una existencia sencilla como granjero. Viudo y padre de una hija, Ada, conoció de primera mano las dificultades de quienes dependen de la tierra para sobrevivir. La destrucción de Ullathorpe terminó por arrebatarle aquello que había construido. Sin hogar y con su familia atravesando las consecuencias de la guerra, decidió emprender un viaje hasta Banderbill para exigir respuestas directamente al Emperador Arispar. Allí se enfrentó a la indiferencia de la corte y reclamó que las autoridades dejaran de mirar únicamente sus propios intereses. Su exigencia quedó resumida en una frase que define su pensamiento: «¡Míranos! ¡Míranos una vez!» Tras regresar a Ullathorpe, comenzó a recorrer los campos, las viviendas y los lugares donde se refugiaban los habitantes desplazados. Compartió lo que había visto en la capital y habló sobre las diferencias entre quienes vivían rodeados de riquezas y quienes apenas conseguían alimento. Con el paso del tiempo, otras personas comenzaron a escucharlo. Su palabra encontró lugar entre aquellos que compartían su descontento y que, hasta entonces, no habían tenido a nadie dispuesto a representar sus necesidades."
     ],
-    "source": "Emperadores de la Ceniza — Libro IV"
+    "source": "Emperadores de la Ceniza — Libro IV",
+    "age": "41 años en 1439",
+    "origin": "Campos del río, Ullathorpe",
+    "leadership": "Muy alto"
   },
   {
     "id": 64,
     "name": "Corin Ruald",
     "slug": "corin-ruald",
     "category": "Figuras históricas",
-    "race": "Humano",
+    "race": "Humano (linaje Bhargaras)",
     "className": "Trabajador / panadero",
     "height": "1,84 m",
     "weight": "80 kg",
@@ -2059,7 +2046,7 @@
     "name": "Imane Ruald",
     "slug": "imane-ruald",
     "category": "Figuras históricas",
-    "race": "Humano",
+    "race": "Humana (linaje Bhargaras)",
     "className": "Trabajadora / panadera",
     "height": "1,72 m",
     "weight": "82 kg",
@@ -2089,7 +2076,7 @@
     "name": "Nesturil",
     "slug": "nesturil",
     "category": "Figuras históricas",
-    "race": "Elfo",
+    "race": "Elfa",
     "className": "Noble / diplomática",
     "height": "1,74 m",
     "weight": "78 kg",
@@ -2117,7 +2104,7 @@
     "name": "Pim — Torvald Hennek",
     "slug": "pim-torvald-hennek",
     "category": "Figuras históricas",
-    "race": "Liche",
+    "race": "Humano transformado (liche)",
     "className": "Nigromante / liche",
     "height": "Variable",
     "weight": "Variable",
@@ -2147,7 +2134,7 @@
     "name": "Odelia",
     "slug": "odelia",
     "category": "Figuras históricas",
-    "race": "Elfo",
+    "race": "Elfa",
     "className": "Maga / maestra",
     "height": "1,70 m",
     "weight": "66 kg",
@@ -2175,7 +2162,7 @@
     "name": "Migyur",
     "slug": "migyur",
     "category": "Figuras históricas",
-    "race": "Yeti",
+    "race": "Yeti (criatura singular)",
     "className": "Criatura / guardián",
     "height": "2,31 m",
     "weight": "202 kg",
@@ -2222,7 +2209,8 @@
     "history": [
       "Fue un joven de Pisor que estudió en la Escuela de las Formas de Banderbill. A los 29 años comenzó a investigar una antigua magia relacionada con las hojas de una corteza especial. Su descubrimiento dio origen a la Vara de Bredinlo, uno de los objetos más peligrosos de la historia del Imperio.",
       "Bredinlo era inteligente, curioso y ambicioso en sus estudios. Tenía facilidad para aprender y no se conformaba con repetir las enseñanzas de sus maestros. Sin embargo, no era cruel: sentía un profundo respeto por las personas y llegó a sufrir mucho por la muerte de alguien que consideraba cercano.",
-      "Entre los años 178 y 183 descubrió seis hojas de una corteza dura y aprendió a utilizarlas para crear una vara con una piedra blanca en la punta. Su poder era extraordinario: permitía destruir un objetivo con solo señalarlo, sin necesidad de tocarlo. Durante una prueba, utilizó la vara sobre una maceta y terminó provocando la muerte accidental de Pell, el conserje de la Escuela. Aquel hecho dio origen a los Ocho Rincones, creados para encerrar y marcar a los criminales. Bredinlo fue llevado al octavo Rincón junto con su vara, que nadie había conseguido destruir. Permaneció allí durante 41 años y nunca volvió a utilizarla, ni siquiera para escapar. En ese tiempo aprendió a comunicarse con la fuente de la cueva mediante las formas suaves. Murió en el año 223, dejando un cuaderno con sus pensamientos y la vara todavía intacta. Siglos después, el objeto fue encontrado por la Armada, y quedó en manos de Glokark, que la llevaba consigo en Orac."
+      "Entre los años 178 y 183 descubrió seis hojas de una corteza dura y aprendió a utilizarlas para crear una vara con una piedra blanca en la punta. Su poder era extraordinario: permitía destruir un objetivo con solo señalarlo, sin necesidad de tocarlo. Durante una prueba, utilizó la vara sobre una maceta y terminó provocando la muerte accidental de Pell, el conserje de la Escuela. Aquel hecho dio origen a los Ocho Rincones, creados para encerrar y marcar a los criminales. Bredinlo fue llevado al octavo Rincón junto con su vara, que nadie había conseguido destruir. Permaneció allí durante 41 años y nunca volvió a utilizarla, ni siquiera para escapar. En ese tiempo aprendió a comunicarse con la fuente de la cueva mediante las formas suaves. Murió en el año 223, dejando un cuaderno con sus pensamientos y la vara todavía intacta. Siglos después, el objeto fue encontrado por la Armada, y quedó en manos de Glokark, que la llevaba consigo en Orac.",
+      "## IV. OTRAS FIGURAS DESTACADAS"
     ],
     "source": "Emperadores de la Ceniza — Libros II, III, IV"
   },
@@ -2231,7 +2219,7 @@
     "name": "Aelia de los Ibaro",
     "slug": "aelia-de-los-ibaro",
     "category": "Otras figuras destacadas",
-    "race": "Humano",
+    "race": "Humana",
     "className": "Noble / intrigante",
     "height": "1,64 m",
     "weight": "60 kg",
@@ -2293,13 +2281,13 @@
     "name": "Corvo Bhargaras",
     "slug": "corvo-bhargaras",
     "category": "Otras figuras destacadas",
-    "race": "Humano",
+    "race": "Humano (linaje eufesio)",
     "className": "Noble / oyente",
     "height": "1,77 m",
     "weight": "62 kg",
     "build": "Delgada",
     "hair": "Rubio oscuro",
-    "eyes": "Azules",
+    "eyes": "Grises",
     "combat": "Medio",
     "diplomacy": "Alto",
     "strategy": "Alto",
@@ -2310,7 +2298,7 @@
     "selfSacrifice": "Sí",
     "family": {
       "father": "Henricus Bhargaras",
-      "mother": "Clarisa de los Hinur",
+      "mother": "Clarisa de Hinurvald",
       "grandfather": "Teodor Bhargaras",
       "grandmother": "Nadi (Nadia)",
       "spouse": "Neri",
@@ -2319,7 +2307,7 @@
     "history": [
       "Hijo de Henricus Bhargaras y nieto de Nadia, fue el heredero legítimo del Imperio tras la muerte de su padre en el año 149. Aunque tenía derecho a la sucesión, rechazó la corona y nunca ocupó el trono.",
       "Corvo era reservado, responsable y profundamente protector con su familia. No rechazó la corona por falta de capacidad, sino porque comprendía el peligro que podía representar para quienes amaba. Su decisión estuvo marcada por una frase que heredó de su padre: «La corona es una deuda».",
-      "Tras la muerte de Henricus en el Vado de las Cenizas, Corvo rechazó por primera vez el trono y defendió que su prima Helen debía gobernar. Consideraba que ella había demostrado estar preparada para enfrentar a Loth y proteger al Imperio. Durante el reinado de Helen, desarticuló la conspiración de los señores Varga, Oswin, Hadric Venn y Orl en el año 158. En el año 159 se casó en secreto con Neri, una eufesia libre de los clanes del desierto. Cuando volvió a recibir la corona tras la muerte de Helen, en el año 165, la rechazó nuevamente. Sabía que aceptar convertiría a Neri en emperatriz y expondría su origen, poniendo en peligro a su esposa y a sus descendientes. Se arrodilló ante Braco Arenar y reconoció su autoridad. Corvo continuó su vida junto a Neri y sus tres hijos, manteniendo su historia familiar lejos de los registros oficiales. Su descendencia continuó la línea Bhargaras y conservó durante generaciones el secreto de su existencia como emperador."
+      "Tras la muerte de Henricus en el Vado de las Cenizas, Corvo rechazó por primera vez el trono y defendió que su prima Helen debía gobernar. Consideraba que ella había demostrado estar preparada para enfrentar a Loth y proteger al Imperio. Durante el reinado de Helen, desarticuló la conspiración de los señores Varga, Oswin, Hadric Venn y Orl en el año 158. En el año 159 se casó en secreto con Neri, una eufesia libre de los clanes del desierto. Cuando volvió a recibir la corona tras la muerte de Helen, en el año 165, la rechazó nuevamente. Sabía que aceptar convertiría a Neri en emperatriz y expondría su origen, poniendo en peligro a su esposa y a sus descendientes. Se arrodilló ante Braco Arenar y reconoció su autoridad. Corvo continuó su vida junto a Neri y sus tres hijos, manteniendo su historia familiar lejos de los registros oficiales. Su descendencia continuó la línea Bhargaras, aunque la existencia de su familia permaneció durante generaciones lejos de los registros imperiales."
     ],
     "source": "Emperadores de la Ceniza — Libro I"
   },
@@ -2328,7 +2316,7 @@
     "name": "Ismena Vell",
     "slug": "ismena-vell",
     "category": "Otras figuras destacadas",
-    "race": "Humano",
+    "race": "Humana (linaje Bhargaras)",
     "className": "Clériga / custodia",
     "height": "1,74 m",
     "weight": "84 kg",
@@ -2361,7 +2349,7 @@
     "name": "Octavia Heredicus",
     "slug": "octavia-heredicus",
     "category": "Otras figuras destacadas",
-    "race": "Humano",
+    "race": "Humana",
     "className": "Noble / intrigante",
     "height": "1,59 m",
     "weight": "60 kg",
@@ -2391,12 +2379,12 @@
     "name": "Ysh-Talia",
     "slug": "ysh-talia",
     "category": "Otras figuras destacadas",
-    "race": "Humano",
+    "race": "Humana eufesia",
     "className": "Diplomática / clériga",
     "height": "1,63 m",
     "weight": "70 kg",
     "build": "Musculosa",
-    "hair": "Castaño claro",
+    "hair": "Negro con canas",
     "eyes": "Marrones",
     "combat": "Medio",
     "diplomacy": "Muy alto",
@@ -2472,9 +2460,9 @@
     "history": [
       "Enano de Thrumbar Hondopico, hijo de Brun y antiguo herrero de la ciudad-cueva. Su vida quedó ligada a las montañas rojas y a una capacidad poco común: podía escuchar lo que las piedras y los metales guardaban en su interior.",
       "Era reservado, paciente y observador. Hablaba poco y prefería comprender antes que intervenir. Su relación con la piedra era casi instintiva: podía percibir cambios en las vetas, reconocer sonidos ocultos y descubrir historias que otros no podían escuchar.",
-      "En el año 467, cuando tenía 323 años, Kildo abandonó la forja porque sus manos ya no podían trabajar como antes. Se instaló junto a una enorme roca roja, a tres jornadas de Banderbill, donde construyó una pequeña casa y pasó décadas escuchando su vibración. Para él, aquella piedra seguía trabajando, aunque nadie pudiera ver cómo. En el año 498, Sein Vell y la reina Lanther lo visitaron porque la roca había cambiado: ya no zumbaba, sino que tarareaba una melodía. Kildo descubrió que una veta blanca se extendía desde allí hacia el suroeste, en dirección a las lomas del brezo y al mar. Su conocimiento permitió relacionar aquel canto con secretos mucho más antiguos. También participó en la construcción de la corona de Arthal II. En el año 218 trabajó el oro de once lingotes e incorporó once cristales de Alkar, dejando en su interior el antiguo aro de hierro de Bander. Diseñó una abertura para que el hierro pudiera seguir respirando y su historia no quedara oculta. A lo largo de los siglos mantuvo contacto con Tibbet Tornasol y los integrantes de la Orden, aunque nunca perteneció formalmente a ella. Su capacidad para escuchar las piedras lo convirtió en un testigo importante de los cambios que se producían bajo la tierra."
+      "En el año 467, cuando tenía 323 años, Kildo abandonó la forja porque sus manos ya no podían trabajar como antes. Se instaló junto a una enorme roca roja, a tres jornadas de Banderbill, donde construyó una pequeña casa y pasó décadas escuchando su vibración. Para él, aquella piedra seguía trabajando, aunque nadie pudiera ver cómo. En el año 498, Sein Vell y la reina Lanther lo visitaron porque la roca había cambiado: ya no zumbaba, sino que tarareaba una melodía. Kildo descubrió que una veta blanca se extendía desde allí hacia el suroeste, en dirección a las lomas del brezo y al mar. Su conocimiento permitió relacionar aquel canto con secretos mucho más antiguos. También participó en la construcción de la corona de Arthal II. En el año 218 trabajó el oro de once lingotes e incorporó once cristales de Alkar, dejando en su interior el antiguo aro de hierro de Bander. Diseñó una abertura para que el hierro pudiera seguir respirando y su historia no quedara oculta. A lo largo de los siglos mantuvo contacto con Tibbet Tornasol y los integrantes de la Orden, aunque nunca perteneció formalmente a ella. Su capacidad para escuchar las piedras lo convirtió en un testigo importante de los cambios que se producían bajo la tierra. Murió en el año 505, al pie de la roca roja cuya voz había vigilado durante décadas."
     ],
-    "source": "Emperadores de la Ceniza — Libro II"
+    "source": "Emperadores de la Ceniza — Libros II, III"
   },
   {
     "id": 79,
@@ -2500,9 +2488,9 @@
       "children": "Lis Hask"
     },
     "history": [
-      "Descendiente de la familia Hask y uno de los almirantes más importantes de la Armada de Banderbill. Nació alrededor del año 705 y su vida quedó ligada a Wonder, la exploración del norte y el descubrimiento de Orac. Recibió una ofrenda de Liminus en el año 745, que le concedió una vida extraordinariamente larga.",
+      "Descendiente de la familia Hask y uno de los almirantes más importantes de la Armada de Banderbill. Nació alrededor del año 705 y su vida quedó ligada a Wonder, la exploración del norte y el descubrimiento de la Isla Siniestra. Recibió una ofrenda de Liminus en el año 745, que le concedió una vida extraordinariamente larga.",
       "Era impulsivo, obstinado y valiente, aunque sus decisiones no siempre nacían del valor: muchas veces actuaba por enojo o por no soportar ver sufrir a otros. Su historia estuvo marcada por las pérdidas y por una enseñanza familiar: mirar hacia arriba y recordar a quienes ya no estaban.",
-      "En el año 729, con apenas veinticuatro años, desobedeció una orden durante un ataque orco a Wonder. Persiguió a un grupo de enemigos hasta el Bosque Muerto junto a veinte soldados. Allí encontró una espada clavada en una raíz blanca. Su superior, Edran Vos, murió durante el enfrentamiento, y Hesper cargó durante años con la culpa de haberlo llevado hasta allí. En el año 745, Liminus le concedió su ofrenda para que pudiera recordar a los compañeros que había perdido. Desde entonces, Hesper dejó de envejecer normalmente y se convirtió en almirante. En 782 rescató del agua a una joven orca llamada Grâshka. También sufrió la muerte de su hija Lis, en el año 798. Entre 810 y 811 acompañó a Bhargaras XI en la expedición al norte que permitió descubrir Annkör, conocer a los enanos de Kûr y fundar Tiama. En el año 856, durante el descubrimiento de Orac, murió junto al emperador en la nieve de la ladera norte. Había servido como almirante durante ciento once años. Su legado continuó a través de la familia Hask, cuyos descendientes siguieron vinculados a la Armada y a la protección de las tierras del norte."
+      "En el año 729, con apenas veinticuatro años, desobedeció una orden durante un ataque orco a Wonder. Persiguió a un grupo de enemigos hasta el Bosque Muerto junto a veinte soldados. Allí encontró una espada clavada en una raíz blanca. Su superior, Edran Vos, murió durante el enfrentamiento, y Hesper cargó durante años con la culpa de haberlo llevado hasta allí. En el año 745, Liminus le concedió su ofrenda para que pudiera recordar a los compañeros que había perdido. Desde entonces, Hesper dejó de envejecer normalmente y se convirtió en almirante. En 782 rescató del agua a una joven orca llamada Grâshka. También sufrió la muerte de su hija Lis, en el año 798. Entre 810 y 811 acompañó a Bhargaras XI en la expedición al norte que permitió descubrir Annkör, conocer a los enanos de Kûr y fundar Tiama. En el año 856, durante el descubrimiento de la Isla Siniestra, murió junto al emperador en la nieve de la ladera norte. Había servido como almirante durante ciento once años. Su legado continuó a través de la familia Hask, cuyos descendientes siguieron vinculados a la Armada y a la protección de las tierras del norte."
     ],
     "source": "Emperadores de la Ceniza — Libro III"
   },
@@ -2511,7 +2499,7 @@
     "name": "Grâshka",
     "slug": "grashka",
     "category": "Otras figuras destacadas",
-    "race": "Orco",
+    "race": "Orca",
     "className": "Guerrera",
     "height": "1,95 m",
     "weight": "76 kg",
@@ -2532,16 +2520,16 @@
     "history": [
       "Orca nacida en Orac, hija de una sociedad sometida a la voluntad del Señor y de la raíz que dominaba la isla. Su vida estuvo marcada por el deseo de conocer el mundo exterior y por su vínculo con Hesper Hask, quien la rescató del mar y le mostró una forma distinta de entender la vida.",
       "Era curiosa, observadora y perseverante. Desde pequeña sintió fascinación por aquello que no conocía, especialmente los árboles y el cielo. Su mayor transformación no fue física, sino interior: aprendió que podía tener deseos propios y negarse a obedecer.",
-      "En el año 729, cuando todavía era joven, participó en el ataque orco contra Wonder junto a su hermano Gorth. Durante el combate presenció cómo los habitantes de la ciudad liberaban a sus muertos mediante una palabra pronunciada hacia el cielo. Aquella experiencia la marcó profundamente. También perdió a Gorth durante el asalto y, antes de retirarse, consiguió tocar por primera vez un árbol rojo. El Señor había escuchado su deseo de conocer un árbol y le permitió viajar hasta Wonder. Sin embargo, convirtió aquel regalo en una deuda: Grâshka debía regresar y contarle lo que había visto. En el año 782, durante otro viaje, Hesper Hask la rescató del agua. La llevó a Wonder, le dio comida y la dejó marchar. Años después, cuando volvió a encontrarse con él, comprendió que existían personas capaces de ayudar sin exigir nada a cambio. En el año 856, acompañó al Señor hasta la nieve de Orac, donde presenció la muerte de Hesper. Cuando recibió la orden de llevar su cuerpo hasta la raíz, decidió desobedecer y lo dejó en una cala. A partir de entonces comenzó a cuestionar el poder que gobernaba su pueblo. En sus últimos años tuvo un hijo llamado Thrak. Se negó a que siguiera destinado a servir al Señor y encontró en Ithil una forma de comprender que podía resistirse a su influencia. Murió siendo anciana, después de pedirle a Lanther que le enseñara la palabra que los humanos pronunciaban hacia el cielo cuando alguien moría. Su historia representa el comienzo de una resistencia silenciosa dentro de Orac."
+      "En el año 729, cuando todavía era joven, participó en el ataque orco contra Wonder junto a su hermano Gorth. Durante el combate presenció cómo los habitantes de la ciudad liberaban a sus muertos mediante una palabra pronunciada hacia el cielo. Aquella experiencia la marcó profundamente. También perdió a Gorth durante el asalto y, antes de retirarse, consiguió tocar por primera vez un árbol rojo. El Señor había escuchado su deseo de conocer un árbol y le permitió viajar hasta Wonder. Sin embargo, convirtió aquel regalo en una deuda: Grâshka debía regresar y contarle lo que había visto. En el año 782, durante otro viaje, Hesper Hask la rescató del agua. La llevó a Wonder, le dio comida y la dejó marchar. Años después, cuando volvió a encontrarse con él, comprendió que existían personas capaces de ayudar sin exigir nada a cambio. En el año 856, acompañó al Señor hasta la Isla Siniestra, donde presenció la muerte de Hesper. Cuando recibió la orden de llevar su cuerpo hasta la raíz, decidió desobedecer y lo dejó en una cala. A partir de entonces comenzó a cuestionar el poder que gobernaba su pueblo. En sus últimos años tuvo un hijo llamado Thrak. Se negó a que siguiera destinado a servir al Señor y encontró en Ithil una forma de comprender que podía resistirse a su influencia. Murió siendo anciana, después de pedirle a Lanther que le enseñara la palabra que los humanos pronunciaban hacia el cielo cuando alguien moría. Su historia representa el comienzo de una resistencia silenciosa dentro de Orac."
     ],
     "source": "Emperadores de la Ceniza — Libro III"
   },
   {
     "id": 81,
-    "name": "Brena Hask (capitana de Arghâl)",
-    "slug": "brena-hask-capitana-de-arghal",
+    "name": "Brena Hask (capitana de la Armada de Banderbill)",
+    "slug": "brena-hask-capitana-de-la-armada-de-banderbill",
     "category": "Otras figuras destacadas",
-    "race": "Humano",
+    "race": "Humana",
     "className": "Guerrera / capitana",
     "height": "1,63 m",
     "weight": "60 kg",
@@ -2561,7 +2549,7 @@
       "children": "Iselde Hask"
     },
     "history": [
-      "Hija de Joss Hask, capitán general de la Armada, y descendiente de una familia marcada por la tradición militar. Fue capitana de la Primera Compañía de la Armada Imperial y una de las figuras centrales del asedio y la caída de Arghâl en el año 607.",
+      "Hija de Joss Hask, capitán general de la Armada, y descendiente de una familia marcada por la tradición militar. Fue capitana de la Primera Compañía de la Armada de Banderbill y una de las figuras centrales del asedio y la caída de Arghâl en el año 607.",
       "Era disciplinada, valiente y perseverante. Tenía una fuerte conexión con las tradiciones de su familia, especialmente con la costumbre de mirar hacia arriba antes de combatir. No era una líder que buscara gloria: asumía la responsabilidad de sus soldados y mantenía la determinación incluso ante situaciones que parecían imposibles.",
       "En el año 598 comenzó a investigar unas antiguas cuevas bajo la ladera este de Banderbill. Aquella investigación la llevó a descubrir señales de algo que amenazaba a la ciudad. Con el tiempo, preparó a su compañía para combatir en túneles y terrenos subterráneos, incluso solicitando la ayuda de doscientos enanos. Entre los años 606 y 607 participó en el cerco de Arghâl, que se extendió durante casi un año. Al frente de tres mil soldados, permaneció ante la puerta norte de la ciudad, resistiendo una extraña canción que surgía desde el interior y debilitaba a quienes la escuchaban. La noche del 2 al 3 de marzo de 607, cuando la puerta finalmente se abrió, Brena pronunció la palabra que los soldados utilizaban para despedir a sus muertos y encabezó el avance sobre Arghâl. Consiguieron entrar en la ciudad, pero durante el combate fue herida por un hombre que la atacó por sorpresa. Murió mirando una estrella, recordando la canción de su madre y pensando en su padre, que seguramente estaría mirando el mismo cielo desde Banderbill. Su muerte quedó ligada a la caída de Arghâl y al nacimiento del Imperio. Su hija Iselde continuó el legado familiar y se convirtió en emperatriz al casarse con Arthal II."
     ],
@@ -2599,15 +2587,15 @@
   },
   {
     "id": 83,
-    "name": "Illidan",
-    "slug": "illidan",
+    "name": "Aelthar",
+    "slug": "aelthar",
     "category": "Otras figuras destacadas",
     "race": "Elfo",
     "className": "Mago",
     "height": "1,83 m",
     "weight": "94 kg",
     "build": "Robusta",
-    "hair": "Rojizo",
+    "hair": "Blanco",
     "eyes": "Claros, casi transparentes",
     "combat": "Medio",
     "diplomacy": "Medio",
@@ -2632,7 +2620,7 @@
     "name": "Aira Dunmar",
     "slug": "aira-dunmar",
     "category": "Otras figuras destacadas",
-    "race": "Humano",
+    "race": "Humana",
     "className": "Barda / actriz",
     "height": "1,62 m",
     "weight": "68 kg",
@@ -2691,7 +2679,7 @@
     "name": "Ilan Hask (el custodio)",
     "slug": "ilan-hask-el-custodio",
     "category": "Otras figuras destacadas",
-    "race": "Humano",
+    "race": "Humano (vida prestada)",
     "className": "Guerrero / guardián",
     "height": "1,72 m",
     "weight": "66 kg",
@@ -2712,7 +2700,7 @@
     "history": [
       "Descendiente de la familia Hask, hijo de Edran y tataranieto del almirante Hesper Hask. Nació en el año 875 y recibió la vida de Astral en el 930, con el propósito de vigilar aquello que dormía bajo las montañas de Tiama.",
       "Reservado, paciente y profundamente responsable. No entendía su tarea como un honor, sino como una obligación que debía cumplir mientras viviera. Su mayor virtud era escuchar: podía percibir cosas que ni siquiera Dalbur, el gran herrero enano, lograba oír.",
-      "En el año 891 llegó a Tiama y comenzó a vigilar la cueva de cristal junto a Dalbur. Allí permaneció durante décadas, atento a una presencia encerrada detrás de una rendija en la montaña. Utilizaba la espada de hielo de su abuelo, forjada por Dalbur y marcada con la runa «Quieto», para mantenerla contenida. En el año 930, Astral viajó hasta Tiama y le entregó su vida para que pudiera continuar con esa tarea. Ilan rechazó abandonar la cueva incluso cuando Asgal se lo pidió: consideraba que, si se marchaba, nadie podría escuchar aquello que dormía allí. Durante siglos permaneció frente a la rendija, acompañado por su gato y su espada. En el año 1437, después de 507 años de vigilancia, murió allí. Su última acción fue cantar, y Dalbur dejó grabado su nombre en la piedra para que nadie olvidara su sacrificio."
+      "En el año 891 llegó a Tiama y comenzó a vigilar la cueva de cristal junto a Dalbur. Allí permaneció durante décadas, atento a una presencia encerrada detrás de una rendija en la montaña. Utilizaba la espada de hielo de su abuelo, forjada por Dalbur y marcada con la runa «Quieto», para mantenerla contenida. En el año 930, Astral viajó hasta Tiama y le entregó su vida para que pudiera continuar con esa tarea. Ilan rechazó abandonar la cueva incluso cuando Asgal se lo pidió: consideraba que, si se marchaba, nadie podría escuchar aquello que dormía allí. Durante siglos permaneció frente a la rendija, acompañado por su gato y su espada. En el año 1437, después de 507 años de vigilancia desde que recibiera la vida prestada en 930, murió allí. Su última acción fue cantar, y Dalbur dejó grabado su nombre en la piedra para que nadie olvidara su sacrificio."
     ],
     "source": "Emperadores de la Ceniza — Libro IV"
   },
@@ -2737,10 +2725,10 @@
     "betrayAllies": "No",
     "selfSacrifice": "Sí",
     "family": {
-      "father": "Illidan"
+      "father": "Aelthar"
     },
     "history": [
-      "Elfo de Lindos, hijo del mago Illidan. Creció junto a Ardan y Seliel, y era conocido por su arco, cuya música acompañaba sus disparos. Su historia quedó ligada al rescate de Nesturil y a los conflictos con el Demonio.",
+      "Elfo de Lindos, hijo del mago Aelthar. Creció junto a Ardan y Seliel, y era conocido por su arco, cuya música acompañaba sus disparos. Su historia quedó ligada al rescate de Nesturil y a los conflictos con el Demonio.",
       "Valiente, leal y muy unido a sus amigos. Su mayor debilidad también era una de sus virtudes: no estaba dispuesto a abandonar a alguien querido, incluso cuando eso lo ponía en peligro.",
       "En el invierno de 1437, después de que un grupo de orcos se llevara la Vara a Orac, Finderil decidió recuperarla. Ardan y Seliel lo acompañaron por voluntad propia. Sin embargo, los tres fueron capturados en la Playa Roja y condenados por el Demonio al Séptimo Infierno. Para liberarlos, Nesturil ofreció su propia alma a cambio de la de ellos. Los tres regresaron vivos a Lindos, sin conocer inicialmente el sacrificio que había hecho la princesa. En 1438, Finderil participó en la expedición organizada por Arispar para rescatarla. Mientras el emperador atacaba Arghâl para distraer al Demonio, Finderil y sus compañeros descendieron al Infierno. Su historia quedó marcada por la lealtad entre amigos y por la deuda que contrajeron con Nesturil."
     ],
@@ -2751,7 +2739,7 @@
     "name": "Ezer",
     "slug": "ezer",
     "category": "Otras figuras destacadas",
-    "race": "Humano",
+    "race": "Humano eufesio",
     "className": "Clérigo / custodio",
     "height": "1,81 m",
     "weight": "92 kg",
