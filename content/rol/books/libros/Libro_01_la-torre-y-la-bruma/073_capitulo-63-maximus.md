@@ -102,7 +102,7 @@ Al cuarto mandó llamar al jefe de la casa imperial y le pidió una lista. Todos
 
 Tardaron un mes. La lista tenía dieciocho nombres. Quince estaban muertos. Dos eran ancianas que no recordaban nada. Y uno, el último, tenía al lado una anotación de puño y letra de su madre, en el libro de cuentas de la casa:
 
-*Sefa. Eufesia. Criada. Lavó al niño al nacer. Despedida en el 231 por orden de* *Darius. Diez monedas y una carta.*
+*Sefa. Eufesia. Criada. Lavó al niño al nacer. Despedida en el 231 por orden de Darius. Diez monedas y una carta.*
 
 Maximus se quedó mirando el nombre mucho tiempo.
 

@@ -6,7 +6,7 @@ Los cronistas dirían que Hector Tiberius expandió el Imperio más que ningún 
 
 Lo que no dirían es que lo hizo para no tener que estar en Concordia.
 
-Era la verdad, y Hector lo sabía, y a veces se odiaba por ello. Cada vez que el Consejo se volvía insoportable, cada vez que los señores de los tres pueblos empezaban a conspirar unos contra otros con la sutileza de un jabalí en celo, cada vez que un embajador lo miraba con una sonrisa que decía *sé algo que tú no*, Hector encontraba un pueblo que conquistar en algún rincón del mapa, y se iba. Dejaba el gobierno en manos de su madre mientras ella vivió, y después en manos de Livia, que resultó tener un talento natural para la administración y una paciencia infinita para los imbéciles. Y él se iba a dormir en el barro, a comer gachas frías y a pelear con hombres que al menos tenían la decencia de intentar matarlo de frente.
+Era la verdad, y Hector lo sabía, y a veces se odiaba por ello. Cada vez que el Consejo se volvía insoportable, cada vez que los señores de los tres pueblos empezaban a conspirar unos contra otros con la sutileza de un jabalí en celo, cada vez que un embajador lo miraba con una sonrisa que decía sé algo que tú no, Hector encontraba un pueblo que conquistar en algún rincón del mapa, y se iba. Dejaba el gobierno en manos de su madre mientras ella vivió, y después en manos de Livia, que resultó tener un talento natural para la administración y una paciencia infinita para los imbéciles. Y él se iba a dormir en el barro, a comer gachas frías y a pelear con hombres que al menos tenían la decencia de intentar matarlo de frente.
 
 Con cada pueblo que conquistaba, sin embargo, cumplía la promesa. Antes de anexionar un clan, llevaba a sus caudillos a Concordia y los hacía jurar paz sobre la Sal Negra, en la cripta, bajo la torre. No todos lo aceptaban. Los que se negaban, Hector los dejaba ir con honor y volvía a por ellos la primavera siguiente con un ejército. Los que juraban... juraban. Y la piedra bebía, y los que llevaban un cuchillo escondido morían, y el resto quedaba cosido al Imperio con aquella costura invisible que ninguno podía romper sin sentir el peso en el pecho.
 
@@ -116,7 +116,7 @@ No fue el corazón ni la pierna. Fue una tos, una tos seca que empezó en otoño
 
 El Consejo se reunió de urgencia. La cuestión de la sucesión, que llevaba años supurando bajo la superficie como una herida mal cerrada, estalló de golpe. Los señores Suhon querían a un Heredicus: al nieto de Livia, Lucius el Joven, un muchacho de quince años, pálido y de buen corazón, que se mareaba al ver sangre. Los señores Ibaro querían a uno de los suyos, el gobernador de Pisor, un viejo zorro llamado Olaf Venn. Los Zelto estaban divididos entre tres candidatos, y los clanes menores —los Germa, los Jenon, los Hinur— amenazaban con no reconocer a ninguno.
 
-Hector escuchó las discusiones desde la cama, a través de la puerta, con los ojos cerrados. Escuchó cómo los señores se acusaban unos a otros de traición, de soborno, de brujería. Escuchó cómo se ofrecían tierras y títulos y novias a cambio de votos. Escuchó cómo el nombre del pequeño Lucius el Joven se usaba como una moneda, igual que la piedra usaba el nombre de los Heredicus. *Como quien cuenta monedas.*
+Hector escuchó las discusiones desde la cama, a través de la puerta, con los ojos cerrados. Escuchó cómo los señores se acusaban unos a otros de traición, de soborno, de brujería. Escuchó cómo se ofrecían tierras y títulos y novias a cambio de votos. Escuchó cómo el nombre del pequeño Lucius el Joven se usaba como una moneda, igual que la piedra usaba el nombre de los Heredicus. Como quien cuenta monedas.
 
 Y escuchó, al final de una larga noche, la voz de Genieveve, que había entrado en la sala del Consejo sin que nadie la invitara.
 
@@ -140,7 +140,7 @@ Tosió. Esperaron.
 
 —Majestad —dijo Olaf Venn—, sin heredero, el Imperio...
 
-—Tendrá heredero. —Hector se incorporó un poco sobre los almohadones—. Lo decreto ahora, y que el escriba lo apunte, y que lo graben en piedra en la plaza para que nadie lo olvide. *Cuando el emperador muera sin heredero nombrado, que la fuerza elija.* *Que cualquier hombre o mujer de los pueblos jurados que se crea digno se presente en la* *plaza de Concordia. Que luchen. Uno contra uno, hasta que no quede más que uno en pie.* *Y que el último en pie se siente en el trono, sea quien sea, venga de donde venga, y que* *ningún señor ni consejo ni sacerdote pueda negarle la corona.*
+—Tendrá heredero. —Hector se incorporó un poco sobre los almohadones—. Lo decreto ahora, y que el escriba lo apunte, y que lo graben en piedra en la plaza para que nadie lo olvide. Cuando el emperador muera sin heredero nombrado, que la fuerza elija. Que cualquier hombre o mujer de los pueblos jurados que se crea digno se presente en la plaza de Concordia. Que luchen. Uno contra uno, hasta que no quede más que uno en pie. Y que el último en pie se siente en el trono, sea quien sea, venga de donde venga, y que ningún señor ni consejo ni sacerdote pueda negarle la corona.
 
 El silencio que siguió fue absoluto. Luego, poco a poco, uno por uno, los señores se volvieron hacia la puerta. Hacia donde estaba Genieveve de Leogrand, de pie, con la espalda contra el marco, con los brazos cruzados y la cara inexpresiva.
 
@@ -164,7 +164,7 @@ Esa noche, cuando el Consejo se marchó, Genieveve entró en la alcoba y se sent
 
 Ella no respondió. Le tomó la mano, la mano grande y nudosa del viejo emperador, y la sostuvo un rato en silencio. Luego se inclinó y le dijo algo al oído, tan bajo que ni siquiera él estuvo seguro después de haberlo entendido.
 
-Le pareció que decía: *Perdonadme por lo que voy a hacer para ganar.*
+Le pareció que decía: Perdonadme por lo que voy a hacer para ganar.
 
 Pero Hector Tiberius tenía setenta y siete años, y fiebre, y sueño, y pensó que lo había imaginado.
 

@@ -42,7 +42,7 @@ El hombre de gris miró hacia la niebla. Hacia el otro lado del río.
 
 —No mientras ella viva —dijo Loth.
 
-Se dio la vuelta y cruzó el vado. Los muertos grises lo siguieron, todos a la vez, en silencio, dando la espalda al ejército imperial como si de pronto no existiera. La mujer del velo fue la última. Antes de entrar en la niebla, se volvió. Miró a Helen. Y Helen juraría hasta el día de su muerte que, por un instante, bajo el velo, aquella cosa gris y silenciosa sacudió levemente la cabeza. Como quien dice: *no*.
+Se dio la vuelta y cruzó el vado. Los muertos grises lo siguieron, todos a la vez, en silencio, dando la espalda al ejército imperial como si de pronto no existiera. La mujer del velo fue la última. Antes de entrar en la niebla, se volvió. Miró a Helen. Y Helen juraría hasta el día de su muerte que, por un instante, bajo el velo, aquella cosa gris y silenciosa sacudió levemente la cabeza. Como quien dice: no.
 
 Luego la niebla se cerró. Y el sol salió sobre el río Ceniza.
 

@@ -62,7 +62,7 @@ Nombres de calles. De casas. De gente.
 
 Ithil se acercó a mirar.
 
-*Biblioteca. Sótano. Siete. El que suma. La de las castañas. El gnomo. El que oye. El* *de corteza. El panadero, que creen que no sé.* Y una silla dibujada con un sombrero encima. *El elfo viejo. Mil veinticinco. No escribe.*
+Biblioteca. Sótano. Siete. El que suma. La de las castañas. El gnomo. El que oye. El de corteza. El panadero, que creen que no sé. Y una silla dibujada con un sombrero encima. El elfo viejo. Mil veinticinco. No escribe.
 
 *Tercera almena. Ella.*
 
@@ -128,7 +128,7 @@ El Señor no dijo nada en mucho rato. Los escribas seguían escribiendo. Las plu
 
 Ithil se quedó helado.
 
-—No lo sabía nadie —dijo el Señor—. Porque no me preguntaba nadie. En toda la vida. Ni los orcos, ni los tuyos, ni los de sal, ni la pelirroja en la plaza. Ella me dijo *no*. Eso no es preguntar. —Lo miró—. Tú me has preguntado *por qué*.
+—No lo sabía nadie —dijo el Señor—. Porque no me preguntaba nadie. En toda la vida. Ni los orcos, ni los tuyos, ni los de sal, ni la pelirroja en la plaza. Ella me dijo no. Eso no es preguntar. —Lo miró—. Tú me has preguntado por qué.
 
 —Sí.
 
@@ -152,7 +152,7 @@ Ithil no dijo nada.
 
 Pensó en el almirante. En la nieve. Mirando arriba. Con la boca abierta. Sin contestar.
 
-Pensó en Grâshka. En la boca de la cueva. *No quiero.* Mirando arriba.
+Pensó en Grâshka. En la boca de la cueva. No quiero. Mirando arriba.
 
 Pensó en una niña de catorce años que le preguntó qué hacía.
 
@@ -198,7 +198,7 @@ El Señor miró al suelo. Abajo. Hacia donde latía la raíz. Y más abajo todav
 
 El Señor no contestó a eso.
 
-—Luego subí —dijo—. Aquí. Lo de abajo de aquí, el fuego, los niveles, lo que vosotros llamáis el Infierno, eso lo hice yo. Y la piedra la partí en cuatro, para que nadie la pudiera juntar. Y me puse al lado del que duerme, y escuché, hasta que ya no fui otra cosa. *El que escucha.* Eso soy aquí. —Se tocó la oreja—. Pero allí tenía nombre. Me lo puso él, el primer día. Así.
+—Luego subí —dijo—. Aquí. Lo de abajo de aquí, el fuego, los niveles, lo que vosotros llamáis el Infierno, eso lo hice yo. Y la piedra la partí en cuatro, para que nadie la pudiera juntar. Y me puse al lado del que duerme, y escuché, hasta que ya no fui otra cosa. El que escucha. Eso soy aquí. —Se tocó la oreja—. Pero allí tenía nombre. Me lo puso él, el primer día. Así.
 
 Y lo hizo.
 
@@ -230,7 +230,7 @@ Los escribas volvieron a escribir.
 
 ---
 
-Ithil se quedó en la sala mucho rato. Mirando el plano. *Tercera almena. Ella.*
+Ithil se quedó en la sala mucho rato. Mirando el plano. Tercera almena. Ella.
 
 Luego salió. Fue a la boca de la cueva grande. Grâshka estaba allí. Con el cubo de agua. Como siempre.
 
@@ -264,7 +264,7 @@ La escribió en una tablilla de piedra negra, con un punzón. Para que no ardier
 
 *Para la que dijo que no.*
 
-*Doce años. Cuando tiemble. Por abajo, no por la muralla. Viene él. En persona.* *Tiene que mirarlos de cerca porque no oye a los que miran arriba.*
+*Doce años. Cuando tiemble. Por abajo, no por la muralla. Viene él. En persona. Tiene que mirarlos de cerca porque no oye a los que miran arriba.*
 
 *Se llama Mhorkvel. Nadie se lo había preguntado.*
 

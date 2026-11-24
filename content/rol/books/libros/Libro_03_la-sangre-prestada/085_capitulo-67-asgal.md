@@ -4,11 +4,11 @@
 
 No entraron por la muralla.
 
-Asgal lo sabía. Lo había sabido desde el 866, desde que Sein bajó de la almena con la cuenta y Ottherius dijo *por abajo*. Lo había sabido desde el 881, desde la tablilla de piedra negra en la barriga de un pez: *Por abajo, no por la muralla*. Lo sabía mientras subía cada mañana a la cantera con el pico, treinta y cinco años, tres leguas de piedra. Lo sabía.
+Asgal lo sabía. Lo había sabido desde el 866, desde que Sein bajó de la almena con la cuenta y Ottherius dijo por abajo. Lo había sabido desde el 881, desde la tablilla de piedra negra en la barriga de un pez: Por abajo, no por la muralla. Lo sabía mientras subía cada mañana a la cantera con el pico, treinta y cinco años, tres leguas de piedra. Lo sabía.
 
 La hizo igual.
 
-Porque una muralla no es para que no entren. Se lo había dicho Dalbur, en Tiama, de niño, delante de la muralla de hielo azul. *Una muralla es para que los de dentro sepan* *dónde está el dentro.*
+Porque una muralla no es para que no entren. Se lo había dicho Dalbur, en Tiama, de niño, delante de la muralla de hielo azul. Una muralla es para que los de dentro sepan dónde está el dentro.
 
 Así que los de dentro lo sabían.
 
@@ -18,7 +18,7 @@ Y cuando empezaron a salir del suelo, nadie corrió hacia la muralla. Corrieron 
 
 Fue antes del alba.
 
-Los barcos de la bahía llevaban toda la noche acercándose. Ochenta. Cien. Asgal dejó de contar. Barcos negros, bien hechos, con quilla, con remos, con la figura de una cara gris en la proa de cada uno, con la boca abierta. Corvo Hask salió a esperarlos con la Armada, cuarenta barcos de aquí y de Wonder, como le había enseñado el que no envejecía: *en el mar, que no lleguen a la playa*.
+Los barcos de la bahía llevaban toda la noche acercándose. Ochenta. Cien. Asgal dejó de contar. Barcos negros, bien hechos, con quilla, con remos, con la figura de una cara gris en la proa de cada uno, con la boca abierta. Corvo Hask salió a esperarlos con la Armada, cuarenta barcos de aquí y de Wonder, como le había enseñado el que no envejecía: en el mar, que no lleguen a la playa.
 
 Desde la almena se veían las luces. Se oían, de lejos, los golpes de las quillas. Los gritos. El fuego del gnomo, el de aceite, que el herrero de Lindos había enseñado a los de la colina hacía un siglo, prendiendo en las velas negras.
 
@@ -52,7 +52,7 @@ Y de los agujeros salieron.
 
 Los drows primero. Altos, grises, de pelo blanco, con escudos de piedra negra y lanzas largas. En filas. Callados. Como habían salido de las puertas de la Isla Siniestra en el 856, según Érandiul. Detrás, orcos. Muchos. Con hachas. Con los ojos amarillos fijos. Y detrás, otros. Hombres. Con ropa de pescador, de pastor, de soldado. Con los ojos quietos.
 
-Algunos los conocía la gente. Eran de las aldeas de la costa norte. De las que no habían querido meterse detrás de la muralla. *Es invierno*, había dicho el Emperador. Y algunos no se habían creído que fuera el invierno.
+Algunos los conocía la gente. Eran de las aldeas de la costa norte. De las que no habían querido meterse detrás de la muralla. Es invierno, había dicho el Emperador. Y algunos no se habían creído que fuera el invierno.
 
 Ahora salían de debajo de la tierra con los ojos quietos.
 
@@ -106,7 +106,7 @@ Asgal lo miró.
 
 —¿Qué?
 
-—Nos pregunta. A todos. Ahora. —Durg se tocó la cabeza—. Lo oigo. Aquí. Los de mi barrio lo oyen. *¿Qué queréis?* —Le temblaba el hacha—. Y los de los ojos quietos le contestaron. Por eso tienen los ojos quietos. Le contestaron. Y él se lo quedó.
+—Nos pregunta. A todos. Ahora. —Durg se tocó la cabeza—. Lo oigo. Aquí. Los de mi barrio lo oyen. ¿Qué queréis? —Le temblaba el hacha—. Y los de los ojos quietos le contestaron. Por eso tienen los ojos quietos. Le contestaron. Y él se lo quedó.
 
 Asgal miró a lo largo del muro. A los orcos del barrio de abajo. Algunos tenían la cabeza baja. Mirando al suelo. A la ladera. A los que venían. Con la boca abierta.
 
@@ -128,7 +128,7 @@ Y gritó:
 
 No sabía si funcionaría.
 
-Nadie lo sabía. Ithil lo había escrito en una tablilla. *No oye a los que miran arriba.* Pero nadie lo había probado con miles. En una batalla. Con la tierra temblando.
+Nadie lo sabía. Ithil lo había escrito en una tablilla. No oye a los que miran arriba. Pero nadie lo había probado con miles. En una batalla. Con la tierra temblando.
 
 Asgal miró arriba.
 
@@ -204,7 +204,7 @@ Asgal lo vio mirar arriba. Un momento.
 
 Y la clavó en el borde del agujero. Hasta la guarda.
 
-—*¡Quieto!*
+*—¡Quieto!*
 
 ---
 

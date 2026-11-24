@@ -8,7 +8,7 @@ Su madre decía que era un defecto. Su padre decía que era una forma de memoria
 
 La ventana de su cuarto daba al puerto. Desde ella se veían los muelles nuevos, los que había mandado hacer su padre después de Arghâl, de piedra gris, con norays de hierro; los almacenes de la Armada; las gradas donde los carpinteros de ribera de Nix, que venían a la colina por temporadas, levantaban cascos de pino. Y más allá, el mar. Gris en invierno, verde en verano, azul tres días al año.
 
-Lindos se sabía los barcos por la forma de la vela. La *Garza*, que tenía un remiendo en la cangreja con forma de pez. La *Hija de Hakon*, de Nix, con el casco pintado de negro y una franja roja. La *Paciencia*, de los gnomos de las islas, que no tenía velas sino una cosa que zumbaba en la popa y que nadie más que los gnomos entendía. La *Tozuda Segunda*, que era la nieta de otra *Tozuda* que había traído de Concordia a una niña pelirroja con una espada demasiado grande.
+Lindos se sabía los barcos por la forma de la vela. La Garza, que tenía un remiendo en la cangreja con forma de pez. La Hija de Hakon, de Nix, con el casco pintado de negro y una franja roja. La Paciencia, de los gnomos de las islas, que no tenía velas sino una cosa que zumbaba en la popa y que nadie más que los gnomos entendía. La Tozuda Segunda, que era la nieta de otra Tozuda que había traído de Concordia a una niña pelirroja con una espada demasiado grande.
 
 Eso se lo había contado la niña pelirroja. Que ahora no era una niña. Que ahora era su tía tatarabuela, o algo así, con una cara de dieciocho años que no cambiaba nunca, y que venía a cenar a palacio una vez al mes y se sentaba a su lado.
 
@@ -246,10 +246,12 @@ Maren dejó el mazo. Lo miró. Tenía los ojos oscuros, de los de la costa, de l
 
 En el registro de la biblioteca, el de Amael, hay una línea de Benet Vell del 650:
 
-*El príncipe ha vuelto de Nix con brea en las manos y una muchacha en la boca. No* *dice su nombre. Lo dice todo el rato sin decirlo.*
+*El príncipe ha vuelto de Nix con brea en las manos y una muchacha en la boca. No dice su nombre. Lo dice todo el rato sin decirlo.*
 
 Y en el libro de cuentas, en el haber, con la letra de Sein:
 
-*Año 650. El príncipe ha preguntado otra vez cuánto cuesta un barco que no se dé* *la vuelta. Le he dicho que vuelva cuando sepa cuánto mide el mar.*
+*Año 650. El príncipe ha preguntado otra vez cuánto cuesta un barco que no se dé la vuelta. Le he dicho que vuelva cuando sepa cuánto mide el mar.*
 
-*Me ha dicho que va a ir a medirlo.* *Empiezo a apartar.*
+*Me ha dicho que va a ir a medirlo.*
+
+*Empiezo a apartar.*

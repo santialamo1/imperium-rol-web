@@ -2,13 +2,9 @@
 
 *Banderbill. Año 165 de la Nueva Era.*
 
-*De la Crónica de Ada Vell, primera de su nombre, año 165. El rey Bhargaras*
+*De la Crónica de Ada Vell, primera de su nombre, año 165. El rey Bhargaras VIII fue enterrado con fuegos de colores. Lo pidió él. Lo organizó un gnomo. El Consejo protestó. La plaza no.*
 
-*VIII fue enterrado con fuegos de colores. Lo pidió él. Lo organizó un gnomo. El*
-
-*Consejo protestó. La plaza no.*
-
-Su padre se murió un martes de primavera, a los cincuenta y siete años, de una fiebre de pulmón que cogió en el puerto mirando cómo los gnomos probaban una barca nueva bajo la lluvia, y lo último que dijo fue *que se rían*.
+Su padre se murió un martes de primavera, a los cincuenta y siete años, de una fiebre de pulmón que cogió en el puerto mirando cómo los gnomos probaban una barca nueva bajo la lluvia, y lo último que dijo fue que se rían.
 
 Se rieron.
 
@@ -28,7 +24,7 @@ Tibbet se sonó con la manga.
 
 ---
 
-Le pusieron el aro de hierro en la plaza al día siguiente. Le estaba grande. A todos les estaba grande al principio; lo había dicho su padre. *Luego te crece la cabeza. O se* *encoge el aro. No sé cuál de las dos.*
+Le pusieron el aro de hierro en la plaza al día siguiente. Le estaba grande. A todos les estaba grande al principio; lo había dicho su padre. Luego te crece la cabeza. O se encoge el aro. No sé cuál de las dos.
 
 El primer año no hizo nada.
 

@@ -40,7 +40,7 @@ Eluret dejó de sonreír.
 
 Estaba escrito en la pared.
 
-Eluret no lo había visto nunca. Llevaba ciento cuarenta y seis años entrando en esa cuadra y no lo había visto. En la viga de madera del último establo, a la altura de los ojos de un niño de seis años, rayado con un clavo, con letras torcidas: *LAS COSAS SE QUEDAN CON EL NOMBRE DE LO QUE LES PASÓ UNA VEZ.*
+Eluret no lo había visto nunca. Llevaba ciento cuarenta y seis años entrando en esa cuadra y no lo había visto. En la viga de madera del último establo, a la altura de los ojos de un niño de seis años, rayado con un clavo, con letras torcidas: LAS COSAS SE QUEDAN CON EL NOMBRE DE LO QUE LES PASÓ UNA VEZ.
 
 *AUNQUE YA NO LES PASE. E.*
 
@@ -56,7 +56,7 @@ Se acordaba de haberlo dicho. Con seis años, muy serio, porque se lo había oí
 
 A lo mejor no lo había escrito él. A lo mejor lo había escrito Gal, las dos cosas, la primera con la letra de Eluret, imitándola, para que constara que era suya. Gal hacía esas cosas. Le gustaba que las cosas fueran de quien eran.
 
-O a lo mejor sí lo había escrito él y se le había olvidado. Hacía ciento cuarenta y seis años. Se le olvidaban cosas. Se le olvidaban más cada año. Los nombres de los caballos. Los de sus nietos. Una vez, el año pasado, el de Bruna, su mujer, muerta en el 1061, y se pasó una noche entera llorando en la cama porque no le venía, hasta que al alba le vino solo, como vienen las cosas, y lo dijo en voz alta, *Bruna*, y se durmió.
+O a lo mejor sí lo había escrito él y se le había olvidado. Hacía ciento cuarenta y seis años. Se le olvidaban cosas. Se le olvidaban más cada año. Los nombres de los caballos. Los de sus nietos. Una vez, el año pasado, el de Bruna, su mujer, muerta en el 1061, y se pasó una noche entera llorando en la cama porque no le venía, hasta que al alba le vino solo, como vienen las cosas, y lo dijo en voz alta, Bruna, y se durmió.
 
 —¿Está bien? —preguntó Tilda.
 
@@ -98,11 +98,11 @@ Se sentó en el suelo, al lado de Eluret. Sin preguntar.
 
 Eluret le señaló la viga. Baervan la miró. Leyó. Dos veces.
 
-—*A* —dijo.
+—A —dijo.
 
 —Sí.
 
-—*E*.
+—E.
 
 —No me acuerdo de haberlo escrito.
 
@@ -140,7 +140,7 @@ Baervan no dijo nada.
 
 —De Gal se acuerda.
 
-—De Gal me acuerdo de todo. —Eluret sonrió—. Es lo único que no se me va. Lo de Gal. Lo tengo todo. El día del caballo. El día de la almena. El frasco. La Punta Gris. Los nombres. El escudo. Lo que dijo al final. —Se calló un momento—. *Quédate tú a contarlo.* Y no lo he contado. No sé contar. Sé escribir nombres en un cuaderno.
+—De Gal me acuerdo de todo. —Eluret sonrió—. Es lo único que no se me va. Lo de Gal. Lo tengo todo. El día del caballo. El día de la almena. El frasco. La Punta Gris. Los nombres. El escudo. Lo que dijo al final. —Se calló un momento—. Quédate tú a contarlo. Y no lo he contado. No sé contar. Sé escribir nombres en un cuaderno.
 
 —Ya es contarlo.
 
@@ -218,11 +218,11 @@ Eluret la miró mucho rato. La gnoma de quince años, huérfana, con la horca, c
 
 Esa noche, Eluret durmió en la paja. Por primera vez desde el 968.
 
-Baervan no durmió. Se quedó sentado, contra la viga, con la lámpara, mirando las letras. *Lo dijo él. Lo apunto yo.* Y pensó en Sein, en el sótano, con su tercera columna. Y en Verawel, que había bajado a los archivos cincuenta y ocho años buscando a alguien que estaba en la calle de enfrente. Y en él mismo, que sabía, y no lo decía.
+Baervan no durmió. Se quedó sentado, contra la viga, con la lámpara, mirando las letras. Lo dijo él. Lo apunto yo. Y pensó en Sein, en el sótano, con su tercera columna. Y en Verawel, que había bajado a los archivos cincuenta y ocho años buscando a alguien que estaba en la calle de enfrente. Y en él mismo, que sabía, y no lo decía.
 
 Y pensó que a lo mejor Eluret tenía razón. Que a lo mejor lo estaba guardando para alguien que todavía no había nacido.
 
-Y pensó, sin saber por qué, en la palabra *llave*.
+Y pensó, sin saber por qué, en la palabra llave.
 
 ---
 

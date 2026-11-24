@@ -1,6 +1,6 @@
 # Capítulo 64 · El ojo amarillo
 
-*El islote negro, al sur de Rinkel, entre la costa y las Islas Piratas. Verano del año* *1436 de la Nueva Era (829 D.bA).*
+*El islote negro, al sur de Rinkel, entre la costa y las Islas Piratas. Verano del año 1436 de la Nueva Era (829 D.bA).*
 
 Tiene un ojo.
 
@@ -12,9 +12,9 @@ Lleva mirándolo desde que el agua tenía otro sabor.
 
 ---
 
-No piensa en palabras. Las palabras son cosas que hacen los pequeños con la boca, en las barcas, cuando pasan por delante. Ruidos cortos. Algunos los conoce de tanto oírlos: *monstruo*, *ojo*, *no te acerques*, *reza*. Los pequeños de las islas los repiten mucho, sobre todo *reza*. Le dejan cosas en la roca de la entrada. Pescado. Collares. A veces un pequeño, atado, que llora.
+No piensa en palabras. Las palabras son cosas que hacen los pequeños con la boca, en las barcas, cuando pasan por delante. Ruidos cortos. Algunos los conoce de tanto oírlos: monstruo, ojo, no te acerques, reza. Los pequeños de las islas los repiten mucho, sobre todo reza. Le dejan cosas en la roca de la entrada. Pescado. Collares. A veces un pequeño, atado, que llora.
 
-Al pequeño atado no se lo come. Nunca se lo ha comido. Lo deja en la roca hasta que deja de llorar y luego lo empuja con la punta de un brazo hacia el agua, hacia la barca que espera más lejos, y la barca se lo lleva y los pequeños gritan *¡lo ha devuelto!* como si fuera algo.
+Al pequeño atado no se lo come. Nunca se lo ha comido. Lo deja en la roca hasta que deja de llorar y luego lo empuja con la punta de un brazo hacia el agua, hacia la barca que espera más lejos, y la barca se lo lleva y los pequeños gritan ¡lo ha devuelto! como si fuera algo.
 
 Para él no es nada. No come cosas que lloran.
 
@@ -86,7 +86,7 @@ A miedo.
 
 ---
 
-Hay otro en las barcas de la estrella. Un pequeño que manda a los otros. Lo oye gritar desde lejos, con una voz rota de gritar mucho, y los demás corren hacia donde él dice. Los demás lo llaman *Gloval*. *Comandante*. Henry, a veces, los que están más cerca.
+Hay otro en las barcas de la estrella. Un pequeño que manda a los otros. Lo oye gritar desde lejos, con una voz rota de gritar mucho, y los demás corren hacia donde él dice. Los demás lo llaman Gloval. Comandante. Henry, a veces, los que están más cerca.
 
 El de la voz rota no mira el ojo.
 
@@ -122,7 +122,7 @@ Lo miran.
 
 Al ojo. Desde dentro. Desde atrás.
 
-Uno grita. Otro levanta una espada. Otro, el de la voz rota, Gloval, le baja la espada al que la ha levantado y le dice algo, bajo, que el agua le trae: *No. No lo toques. Es lo único* *que tenemos entre ellos y nosotros.*
+Uno grita. Otro levanta una espada. Otro, el de la voz rota, Gloval, le baja la espada al que la ha levantado y le dice algo, bajo, que el agua le trae: No. No lo toques. Es lo único que tenemos entre ellos y nosotros.
 
 Y se quedan. Contra la pared. Mirándolo. Temblando.
 
@@ -220,7 +220,7 @@ Los verdes se van al alba.
 
 Él se queda en la boca de la cueva. Con el ojo abierto. Con los brazos rotos, tres; con hierros clavados que no sabe quitarse; con la piel quemada. No se muere. No se muere de eso. Se muere de otras cosas, más despacio, como se muere el agua cuando se queda quieta.
 
-Los pequeños de las islas vuelven a mediodía. Los que quedan. Pocos. Se acercan en una barca. Lo miran. No le dejan pescado. Uno dice *está vivo*. Otro dice *ya no guarda* *nada*. Otro dice *reza*. Se van.
+Los pequeños de las islas vuelven a mediodía. Los que quedan. Pocos. Se acercan en una barca. Lo miran. No le dejan pescado. Uno dice está vivo. Otro dice ya no guarda nada. Otro dice reza. Se van.
 
 Él mira el mar.
 

@@ -1,6 +1,6 @@
 # Capítulo 65 · Lanther
 
-*La colina de Banderbill, el muro de piedras de río. Verano del año 885 de la Nueva* *Era (278 D.bA).*
+*La colina de Banderbill, el muro de piedras de río. Verano del año 885 de la Nueva Era (278 D.bA).*
 
 La última piedra del tramo del Ojo la puso una niña de diez años que se llamaba Ada Ruald, y no cantó.
 
@@ -44,7 +44,7 @@ En el año ochenta y tantos. No en el treinta, con los demás; después. Un niñ
 
 Lanther estaba en el muro ese día. Lo vio. Le preguntó qué hacía.
 
-*Le pongo un ojo*, le dijo el niño. *Para que vea lo que viene.*
+Le pongo un ojo, le dijo el niño. Para que vea lo que viene.
 
 Se llamaba Andriath.
 
@@ -70,7 +70,7 @@ Nada.
 
 Lanther no se volvió. Conocía la voz.
 
-Wenna se sentó a su lado. Con el sombrero de ala mala, el del *95*, que se le caía encima de un ojo. Olía a castañas. Siempre. Ochocientos años oliendo a castañas.
+Wenna se sentó a su lado. Con el sombrero de ala mala, el del 95, que se le caía encima de un ojo. Olía a castañas. Siempre. Ochocientos años oliendo a castañas.
 
 —Lo sé —dijo Lanther.
 
@@ -78,7 +78,7 @@ Wenna se sentó a su lado. Con el sombrero de ala mala, el del *95*, que se le c
 
 —Lo sé.
 
-—Él no dijo su nombre. —Wenna miró la piedra—. Cuando la puso. Me lo contaste tú, en el 140, cuando me lo contaste todo. Que el niño puso la piedra y se rio y dijo *para que vea lo que viene*. Pero no dijo su nombre. Porque entonces no se decía. Eso lo inventó Asgal. Lo de los nombres.
+—Él no dijo su nombre. —Wenna miró la piedra—. Cuando la puso. Me lo contaste tú, en el 140, cuando me lo contaste todo. Que el niño puso la piedra y se rio y dijo para que vea lo que viene. Pero no dijo su nombre. Porque entonces no se decía. Eso lo inventó Asgal. Lo de los nombres.
 
 Lanther no dijo nada.
 
@@ -190,7 +190,7 @@ Asgal no dijo nada.
 
 Se puso de rodillas. Delante de él. Como se había puesto su padre delante de un enano en una fragua.
 
-—En el 61 —dijo—, un hombre que se llamaba Loth me dio una jarra. Con una vida dentro. *Para cuando te canses*, me dijo. *O para quien haga falta.* La guardé seiscientos setenta y tres años. No la di. Ni a tu bisabuelo Lindos, que se moría en un oasis. Él no la quiso. —Le cogió la mano—. ¿Sabes por qué no la di antes?
+—En el 61 —dijo—, un hombre que se llamaba Loth me dio una jarra. Con una vida dentro. Para cuando te canses, me dijo. O para quien haga falta. La guardé seiscientos setenta y tres años. No la di. Ni a tu bisabuelo Lindos, que se moría en un oasis. Él no la quiso. —Le cogió la mano—. ¿Sabes por qué no la di antes?
 
 —No.
 
@@ -250,7 +250,7 @@ Un puñado. Blanco. Fino. Como el de las salinas del sur. Puesto con cuidado en 
 
 Y al lado, una tablilla. De piedra negra. Con letras torcidas hechas con punzón.
 
-Lanther la leyó. *Para la que dijo que no.* La leyó entera. *Se llama Mhorkvel. Nadie* *se lo había preguntado. Si le preguntas, tiene que contestar. Una vez.*
+Lanther la leyó. Para la que dijo que no. La leyó entera. Se llama Mhorkvel. Nadie se lo había preguntado. Si le preguntas, tiene que contestar. Una vez.
 
 Cogió la sal con la mano. La olió.
 

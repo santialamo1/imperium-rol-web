@@ -92,7 +92,7 @@ Teodor dudó un instante. Uno solo, tan breve que cualquier otro no lo habría n
 
 Drolnar lo miró un rato más. Luego asintió, y cambió de tema, y no volvió a mencionarlo durante diecisiete años.
 
-Pero esa noche, solo en su alcoba, con la jaula de plata vacía junto a la cama, pensó en aquel instante de duda en la voz de su capitán, y en la manera en que había dicho *muy* *callada*, y se preguntó qué escondía un hombre honrado como Teodor Bhargaras. Y luego, porque era cansado y viejo y tenía un banquete con veneno dentro de tres semanas, dejó de preguntárselo.
+Pero esa noche, solo en su alcoba, con la jaula de plata vacía junto a la cama, pensó en aquel instante de duda en la voz de su capitán, y en la manera en que había dicho muy callada, y se preguntó qué escondía un hombre honrado como Teodor Bhargaras. Y luego, porque era cansado y viejo y tenía un banquete con veneno dentro de tres semanas, dejó de preguntárselo.
 
 ---
 

@@ -1,117 +1,114 @@
-# Emperadores de la Ceniza — Libro Primero: La Torre y la Bruma
+# Índice — Libro Primero: La Torre y la Bruma
 
-Libro 1 · 789 páginas originales · 111 secciones
-
-## Contenido
-
-- [Prólogo · El niño de la bruma](001_prologo-el-nino-de-la-bruma.md)
-- [DE LAS CRÓNICAS DE BANDERBILL (I)](002_de-las-cronicas-de-banderbill-i.md)
-- [PRIMERA PARTE: LA PIEDRA Y EL JURAMENTO](003_primera-parte-la-piedra-y-el-juramento.md)
-- [Capítulo 1 · Lucius](004_capitulo-1-lucius.md)
-- [Capítulo 2 · Hector](005_capitulo-2-hector.md)
-- [Capítulo 3 · Lucius](006_capitulo-3-lucius.md)
-- [Capítulo 4 · Varo](007_capitulo-4-varo.md)
-- [Capítulo 5 · Tullo](008_capitulo-5-tullo.md)
-- [Capítulo 6 · Hector](009_capitulo-6-hector.md)
-- [Capítulo 7 · Livia](010_capitulo-7-livia.md)
-- [Capítulo 8 · Hector](011_capitulo-8-hector.md)
-- [Capítulo 9 · Aelia](012_capitulo-9-aelia.md)
-- [Capítulo 10 · Hector](013_capitulo-10-hector.md)
-- [DE LAS CRÓNICAS DE BANDERBILL (II)](014_de-las-cronicas-de-banderbill-ii.md)
-- [SEGUNDA PARTE: LOS TREINTA Y DOS](015_segunda-parte-los-treinta-y-dos.md)
-- [Capítulo 11 · Sahra](016_capitulo-11-sahra.md)
-- [Capítulo 12 · Genieveve](017_capitulo-12-genieveve.md)
-- [Capítulo 13 · Torvald](018_capitulo-13-torvald.md)
-- [Capítulo 14 · Ilda](019_capitulo-14-ilda.md)
-- [Capítulo 15 · Genieveve](020_capitulo-15-genieveve.md)
-- [Capítulo 16 · Drolnar](021_capitulo-16-drolnar.md)
-- [Capítulo 17 · Nadi](022_capitulo-17-nadi.md)
-- [Capítulo 18 · Genieveve](023_capitulo-18-genieveve.md)
-- [Capítulo 19 · Drolnar](024_capitulo-19-drolnar.md)
-- [Capítulo 20 · Teodor](025_capitulo-20-teodor.md)
-- [Capítulo 21 · Brida](026_capitulo-21-brida.md)
-- [Capítulo 22 · Loth](027_capitulo-22-loth.md)
-- [DE LAS CRÓNICAS DE BANDERBILL (III)](028_de-las-cronicas-de-banderbill-iii.md)
-- [TERCERA PARTE: CENIZA](029_tercera-parte-ceniza.md)
-- [Capítulo 23 · Drolnar](030_capitulo-23-drolnar.md)
-- [Capítulo 24 · Loth](031_capitulo-24-loth.md)
-- [Capítulo 25 · Loth](032_capitulo-25-loth.md)
-- [DE LAS CRÓNICAS DE BANDERBILL (IV)](033_de-las-cronicas-de-banderbill-iv.md)
-- [Capítulo 26 · Drolnar](034_capitulo-26-drolnar.md)
-- [Capítulo 27 · Drolnar](035_capitulo-27-drolnar.md)
-- [Capítulo 28 · Henricus](036_capitulo-28-henricus.md)
-- [Capítulo 29 · Mira](037_capitulo-29-mira.md)
-- [Capítulo 30 · Clarisa](038_capitulo-30-clarisa.md)
-- [Capítulo 31 · Henricus](039_capitulo-31-henricus.md)
-- [Capítulo 32 · Henricus](040_capitulo-32-henricus.md)
-- [Capítulo 33 · Helen](041_capitulo-33-helen.md)
-- [CUARTA PARTE: LA EDAD DE ORO](042_cuarta-parte-la-edad-de-oro.md)
-- [Capítulo 34 · Nadia](043_capitulo-34-nadia.md)
-- [Capítulo 35 · Helen](044_capitulo-35-helen.md)
-- [Capítulo 36 · Corvo](045_capitulo-36-corvo.md)
-- [Capítulo 37 · Ermengarda](046_capitulo-37-ermengarda.md)
-- [Capítulo 38 · Braco](047_capitulo-38-braco.md)
-- [Capítulo 39 · Corvo](048_capitulo-39-corvo.md)
-- [Capítulo 40 · Neri](049_capitulo-40-neri.md)
-- [Capítulo 41 · Loth](050_capitulo-41-loth.md)
-- [Capítulo 42 · Hilde](051_capitulo-42-hilde.md)
-- [Capítulo 43 · Ismena](052_capitulo-43-ismena.md)
-- [Capítulo 44 · Braco](053_capitulo-44-braco.md)
-- [Capítulo 45 · Ismena](054_capitulo-45-ismena.md)
-- [Capítulo 46 · Esdras](055_capitulo-46-esdras.md)
-- [Capítulo 47 · Lexandra](056_capitulo-47-lexandra.md)
-- [Capítulo 48 · Darius](057_capitulo-48-darius.md)
-- [Capítulo 49 · Octavia](058_capitulo-49-octavia.md)
-- [Capítulo 50 · Ysh-Neva](059_capitulo-50-ysh-neva.md)
-- [Capítulo 51 · Ansel](060_capitulo-51-ansel.md)
-- [Capítulo 52 · Lexandra](061_capitulo-52-lexandra.md)
-- [Capítulo 53 · Lexandra](062_capitulo-53-lexandra.md)
-- [Capítulo 54 · Yaakov](063_capitulo-54-yaakov.md)
-- [Capítulo 55 · Tamar](064_capitulo-55-tamar.md)
-- [Capítulo 56 · Yaakov](065_capitulo-56-yaakov.md)
-- [QUINTA PARTE: EL ATARDECER ROJO](066_quinta-parte-el-atardecer-rojo.md)
-- [Capítulo 57 · Ysh-Neva](067_capitulo-57-ysh-neva.md)
-- [Capítulo 58 · Maximus](068_capitulo-58-maximus.md)
-- [Capítulo 59 · Maximus](069_capitulo-59-maximus.md)
-- [Capítulo 60 · Ezer](070_capitulo-60-ezer.md)
-- [Capítulo 61 · Sefa](071_capitulo-61-sefa.md)
-- [Capítulo 62 · Rahel](072_capitulo-62-rahel.md)
-- [Capítulo 63 · Maximus](073_capitulo-63-maximus.md)
-- [Capítulo 64 · Yared](074_capitulo-64-yared.md)
-- [Capítulo 65 · Arn Pelle](075_capitulo-65-arn-pelle.md)
-- [Capítulo 66 · Gregorian](076_capitulo-66-gregorian.md)
-- [Capítulo 67 · Gregorian](077_capitulo-67-gregorian.md)
-- [Capítulo 68 · Gregorian](078_capitulo-68-gregorian.md)
-- [Capítulo 69 · Meridio](079_capitulo-69-meridio.md)
-- [Capítulo 70 · Meridio](080_capitulo-70-meridio.md)
-- [Capítulo 71 · Aremir](081_capitulo-71-aremir.md)
-- [Capítulo 72 · Haltair](082_capitulo-72-haltair.md)
-- [Capítulo 73 · Aremir](083_capitulo-73-aremir.md)
-- [Capítulo 74 · Ilaria](084_capitulo-74-ilaria.md)
-- [Capítulo 75 · Ilaria](085_capitulo-75-ilaria.md)
-- [DE LAS CRÓNICAS DE BANDERBILL (V)](086_de-las-cronicas-de-banderbill-v.md)
-- [SEXTA PARTE: LA CAÍDA DE CONCORDIA](087_sexta-parte-la-caida-de-concordia.md)
-- [Capítulo 76 · Casimir](088_capitulo-76-casimir.md)
-- [Capítulo 77 · Odrun](089_capitulo-77-odrun.md)
-- [Capítulo 78 · Bander](090_capitulo-78-bander.md)
-- [Capítulo 79 · Mara](091_capitulo-79-mara.md)
-- [Capítulo 80 · Casimir](092_capitulo-80-casimir.md)
-- [Capítulo 81 · Darian](093_capitulo-81-darian.md)
-- [Capítulo 82 · Haltair](094_capitulo-82-haltair.md)
-- [Capítulo 83 · Bander](095_capitulo-83-bander.md)
-- [Capítulo 84 · Loth](096_capitulo-84-loth.md)
-- [Capítulo 85 · Tobías](097_capitulo-85-tobias.md)
-- [Capítulo 86 · Mara](098_capitulo-86-mara.md)
-- [Capítulo 87 · Bander](099_capitulo-87-bander.md)
-- [Capítulo 88 · Ugo](100_capitulo-88-ugo.md)
-- [Capítulo 89 · Gorm](101_capitulo-89-gorm.md)
-- [Capítulo 90 · Tobías](102_capitulo-90-tobias.md)
-- [Capítulo 91 · Livia](103_capitulo-91-livia.md)
-- [Capítulo 92 · Mara](104_capitulo-92-mara.md)
-- [Epílogo · Seren](105_epilogo-seren.md)
-- [DE LAS CRÓNICAS DE BANDERBILL (VI)](106_de-las-cronicas-de-banderbill-vi.md)
-- [APÉNDICES](107_apendices.md)
-- [CRONOLOGÍA DEL PRIMER IMPERIO](108_cronologia-del-primer-imperio.md)
-- [LÍNEAS DE SANGRE](109_lineas-de-sangre.md)
-- [BREVE GLOSARIO](110_breve-glosario.md)
-- [NOTAS DEL AUTOR](111_notas-del-autor.md)
+- **001. Prólogo · El niño de la bruma** — páginas 5–10
+- **002. De las Crónicas de Banderbill (I)** — páginas 11–12
+- **003. PRIMERA PARTE: LA PIEDRA Y EL JURAMENTO** — páginas 13–13
+- **004. Capítulo 1 · Lucius** — páginas 14–22
+- **005. Capítulo 2 · Hector** — páginas 23–30
+- **006. Capítulo 3 · Lucius** — páginas 31–37
+- **007. Capítulo 4 · Varo** — páginas 38–45
+- **008. Capítulo 5 · Tullo** — páginas 46–53
+- **009. Capítulo 6 · Hector** — páginas 54–59
+- **010. Capítulo 7 · Livia** — páginas 60–68
+- **011. Capítulo 8 · Hector** — páginas 69–77
+- **012. Capítulo 9 · Aelia** — páginas 78–83
+- **013. Capítulo 10 · Hector** — páginas 84–92
+- **014. De las Crónicas de Banderbill (II)** — páginas 93–93
+- **015. SEGUNDA PARTE: LOS TREINTA Y DOS** — páginas 94–94
+- **016. Capítulo 11 · Sahra** — páginas 95–102
+- **017. Capítulo 12 · Genieveve** — páginas 103–109
+- **018. Capítulo 13 · Torvald** — páginas 110–116
+- **019. Capítulo 14 · Ilda** — páginas 117–124
+- **020. Capítulo 15 · Genieveve** — páginas 125–134
+- **021. Capítulo 16 · Drolnar** — páginas 135–142
+- **022. Capítulo 17 · Nadi** — páginas 143–151
+- **023. Capítulo 18 · Genieveve** — páginas 152–160
+- **024. Capítulo 19 · Drolnar** — páginas 161–166
+- **025. Capítulo 20 · Teodor** — páginas 167–170
+- **026. Capítulo 21 · Brida** — páginas 171–177
+- **027. Capítulo 22 · Loth** — páginas 178–181
+- **028. De las Crónicas de Banderbill (III)** — páginas 182–182
+- **029. TERCERA PARTE: CENIZA** — páginas 183–183
+- **030. Capítulo 23 · Drolnar** — páginas 184–190
+- **031. Capítulo 24 · Loth** — páginas 191–198
+- **032. Capítulo 25 · Loth** — páginas 199–209
+- **033. De las Crónicas de Banderbill (IV)** — páginas 210–210
+- **034. Capítulo 26 · Drolnar** — páginas 211–218
+- **035. Capítulo 27 · Drolnar** — páginas 219–226
+- **036. Capítulo 28 · Henricus** — páginas 227–234
+- **037. Capítulo 29 · Mira** — páginas 235–241
+- **038. Capítulo 30 · Clarisa** — páginas 242–250
+- **039. Capítulo 31 · Henricus** — páginas 251–258
+- **040. Capítulo 32 · Henricus** — páginas 259–269
+- **041. Capítulo 33 · Helen** — páginas 270–273
+- **042. CUARTA PARTE: LA EDAD DE ORO** — páginas 274–274
+- **043. Capítulo 34 · Nadia** — páginas 275–282
+- **044. Capítulo 35 · Helen** — páginas 283–291
+- **045. Capítulo 36 · Corvo** — páginas 292–299
+- **046. Capítulo 37 · Ermengarda** — páginas 300–308
+- **047. Capítulo 38 · Braco** — páginas 309–315
+- **048. Capítulo 39 · Corvo** — páginas 316–323
+- **049. Capítulo 40 · Neri** — páginas 324–333
+- **050. Capítulo 41 · Loth** — páginas 334–341
+- **051. Capítulo 42 · Hilde** — páginas 342–350
+- **052. Capítulo 43 · Ismena** — páginas 351–357
+- **053. Capítulo 44 · Braco** — páginas 358–367
+- **054. Capítulo 45 · Ismena** — páginas 368–373
+- **055. Capítulo 46 · Esdras** — páginas 374–379
+- **056. Capítulo 47 · Lexandra** — páginas 380–385
+- **057. Capítulo 48 · Darius** — páginas 386–394
+- **058. Capítulo 49 · Octavia** — páginas 395–402
+- **059. Capítulo 50 · Ysh-Neva** — páginas 403–412
+- **060. Capítulo 51 · Ansel** — páginas 413–422
+- **061. Capítulo 52 · Lexandra** — páginas 423–433
+- **062. Capítulo 53 · Lexandra** — páginas 434–441
+- **063. Capítulo 54 · Yaakov** — páginas 442–449
+- **064. Capítulo 55 · Tamar** — páginas 450–456
+- **065. Capítulo 56 · Yaakov** — páginas 457–464
+- **066. QUINTA PARTE: EL ATARDECER ROJO** — páginas 465–465
+- **067. Capítulo 57 · Ysh-Neva** — páginas 466–475
+- **068. Capítulo 58 · Maximus** — páginas 476–482
+- **069. Capítulo 59 · Maximus** — páginas 483–490
+- **070. Capítulo 60 · Ezer** — páginas 491–500
+- **071. Capítulo 61 · Sefa** — páginas 501–508
+- **072. Capítulo 62 · Rahel** — páginas 509–516
+- **073. Capítulo 63 · Maximus** — páginas 517–524
+- **074. Capítulo 64 · Yared** — páginas 525–533
+- **075. Capítulo 65 · Arn Pelle** — páginas 534–542
+- **076. Capítulo 66 · Gregorian** — páginas 543–550
+- **077. Capítulo 67 · Gregorian** — páginas 551–556
+- **078. Capítulo 68 · Gregorian** — páginas 557–565
+- **079. Capítulo 69 · Meridio** — páginas 566–571
+- **080. Capítulo 70 · Meridio** — páginas 572–580
+- **081. Capítulo 71 · Aremir** — páginas 581–585
+- **082. Capítulo 72 · Haltair** — páginas 586–595
+- **083. Capítulo 73 · Aremir** — páginas 596–602
+- **084. Capítulo 74 · Ilaria** — páginas 603–611
+- **085. Capítulo 75 · Ilaria** — páginas 612–618
+- **086. De las Crónicas de Banderbill (V)** — páginas 619–619
+- **087. SEXTA PARTE: LA CAÍDA DE CONCORDIA** — páginas 620–620
+- **088. Capítulo 76 · Casimir** — páginas 621–628
+- **089. Capítulo 77 · Odrun** — páginas 629–637
+- **090. Capítulo 78 · Bander** — páginas 638–645
+- **091. Capítulo 79 · Mara** — páginas 646–653
+- **092. Capítulo 80 · Casimir** — páginas 654–660
+- **093. Capítulo 81 · Darian** — páginas 661–668
+- **094. Capítulo 82 · Haltair** — páginas 669–677
+- **095. Capítulo 83 · Bander** — páginas 678–694
+- **096. Capítulo 84 · Loth** — páginas 695–702
+- **097. Capítulo 85 · Tobías** — páginas 703–710
+- **098. Capítulo 86 · Mara** — páginas 711–726
+- **099. Capítulo 87 · Bander** — páginas 727–734
+- **100. Capítulo 88 · Ugo** — páginas 735–742
+- **101. Capítulo 89 · Gorm** — páginas 743–752
+- **102. Capítulo 90 · Tobías** — páginas 753–759
+- **103. Capítulo 91 · Livia** — páginas 760–767
+- **104. Capítulo 92 · Mara** — páginas 768–775
+- **105. Epílogo · Seren** — páginas 776–778
+- **106. De las Crónicas de Banderbill (VI)** — páginas 779–781
+- **107. APÉNDICES** — páginas 782–782
+- **108. Cronología del Primer Imperio** — páginas 783–789
+- **109. Líneas de sangre** — páginas 790–791
+- **110. Breve glosario** — páginas 792–793
+- **111. De la tierra que dejamos** — páginas 794–796
+- **112. Lo que contaba el abuelo de gorm** — páginas 797–799

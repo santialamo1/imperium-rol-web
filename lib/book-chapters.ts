@@ -1,4 +1,4 @@
-
+import "server-only";
 import { readdir, readFile } from "node:fs/promises";
 import path from "node:path";
 
@@ -20,8 +20,6 @@ const BOOK_NUMBERS: Record<string, number> = {
   "libro-v": 5,
 };
 
-// Ubicación definitiva de los cinco libros Markdown.
-// Esta carpeta está fuera de public.
 const BOOKS_DIRECTORY = path.join(
   process.cwd(),
   "content",
@@ -30,8 +28,7 @@ const BOOKS_DIRECTORY = path.join(
   "libros",
 );
 
-// Libro V: capítulos autorizados para publicación.
-// Agregar aquí los IDs sin la extensión .md.
+// Sin capítulos aprobados, el Libro V no requiere una carpeta física.
 const PUBLISHED_BOOK_V = new Set<string>([]);
 
 type ManifestEntry = {
@@ -55,7 +52,9 @@ function isManifestEntry(
 
   return (
     Number.isSafeInteger(entry.index) &&
+    (entry.index as number) > 0 &&
     typeof entry.title === "string" &&
+    (entry.title as string).trim().length > 0 &&
     typeof entry.file === "string" &&
     /^[^/\\\0]+\.md$/i.test(entry.file) &&
     (
@@ -70,6 +69,13 @@ async function loadIndex(bookSlug: string) {
   const bookNumber = BOOK_NUMBERS[bookSlug];
 
   if (!bookNumber) {
+    return null;
+  }
+
+  // Los capítulos del Libro V deben aprobarse explícitamente.
+  // Si todavía no se aprobó ninguno, las APIs devuelven vacío/404
+  // sin depender de que exista su carpeta en el despliegue.
+  if (bookSlug === "libro-v" && PUBLISHED_BOOK_V.size === 0) {
     return null;
   }
 
@@ -175,27 +181,43 @@ async function loadIndex(bookSlug: string) {
       .map((entry) => entry.name),
   );
 
-  // Orden exacto del manifest.json.
-  const entries = data.sections
-    .filter(isManifestEntry)
-    .sort((a, b) => a.index - b.index)
-    .filter((entry) =>
-      availableFiles.has(entry.file),
-    )
-    .filter(
-      (entry) =>
-        bookSlug !== "libro-v" ||
-        PUBLISHED_BOOK_V.has(
-          entry.file.replace(/\.md$/i, ""),
-        ),
-    );
+  // Validar el manifiesto completo: omitir entradas o archivos faltantes
+  // silenciosamente podría publicar libros incompletos.
+  const entries: ManifestEntry[] = [];
+  const seenIndexes = new Set<number>();
+  const seenFiles = new Set<string>();
 
-  // En los libros I-IV evitamos activar el PDF
-  // silenciosamente cuando faltan los Markdown.
-  if (
-    bookSlug !== "libro-v" &&
-    entries.length === 0
-  ) {
+  for (const [position, candidate] of data.sections.entries()) {
+    if (!isManifestEntry(candidate)) {
+      throw new Error(
+        `Entrada ${position + 1} inválida en el manifiesto: ${manifestPath}`,
+      );
+    }
+
+    if (seenIndexes.has(candidate.index) || seenFiles.has(candidate.file)) {
+      throw new Error(
+        `Índice o archivo repetido en el manifiesto: ${manifestPath} (${candidate.file})`,
+      );
+    }
+    seenIndexes.add(candidate.index);
+    seenFiles.add(candidate.file);
+
+    const isPublished =
+      bookSlug !== "libro-v" ||
+      PUBLISHED_BOOK_V.has(candidate.file.replace(/\.md$/i, ""));
+
+    if (isPublished && !availableFiles.has(candidate.file)) {
+      throw new Error(
+        `Falta el capítulo publicado ${candidate.file} indicado en ${manifestPath}`,
+      );
+    }
+    if (isPublished) entries.push(candidate);
+  }
+
+  // Orden exacto indicado por los índices del manifiesto.
+  entries.sort((a, b) => a.index - b.index);
+
+  if (bookSlug !== "libro-v" && entries.length === 0) {
     throw new Error(
       `No encontré capítulos .md del ${bookSlug} indicados en ${manifestPath}`,
     );
@@ -233,8 +255,6 @@ export async function getBookChapter(
     return null;
   }
 
-  // Solo se permiten archivos registrados
-  // y autorizados en el índice.
   const entry = index.entries.find(
     (item) =>
       item.file.replace(/\.md$/i, "") ===

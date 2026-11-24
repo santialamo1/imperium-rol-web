@@ -30,9 +30,9 @@ Lo sabe porque lo oyó empezar. Una noche de invierno del 1377, en la calle del 
 
 El Señor lo oyó desde el primer día.
 
-Y lo siguió oyendo. Cada noche. Nueve años. Mientras el niño escribía en un cuaderno, con faltas, lo que oía. Mientras aprendía a leer solo para poder escribir. Mientras apuntaba nombres. Corin. Teo. El de las gafas. La que se ríe. La que pesa. *El que más* *tiene.*
+Y lo siguió oyendo. Cada noche. Nueve años. Mientras el niño escribía en un cuaderno, con faltas, lo que oía. Mientras aprendía a leer solo para poder escribir. Mientras apuntaba nombres. Corin. Teo. El de las gafas. La que se ríe. La que pesa. El que más tiene.
 
-El Señor podía haberlo tomado. Era fácil. Un niño con miedo, solo, que no se lo cuenta a nadie, es la cosa más fácil del mundo. Un poco de voz, una noche, en el oído: *Diles que lo sabes. Diles que lo cuentas.* Y el niño lo habría hecho a los nueve años, y lo habrían bajado por la trampilla a los nueve años, y Teo le habría dado un vaso de leche y una vida corta, y se habría acabado.
+El Señor podía haberlo tomado. Era fácil. Un niño con miedo, solo, que no se lo cuenta a nadie, es la cosa más fácil del mundo. Un poco de voz, una noche, en el oído: Diles que lo sabes. Diles que lo cuentas. Y el niño lo habría hecho a los nueve años, y lo habrían bajado por la trampilla a los nueve años, y Teo le habría dado un vaso de leche y una vida corta, y se habría acabado.
 
 No lo tomó.
 
@@ -44,7 +44,7 @@ Porque el Señor sabe una cosa que no saben los de abajo.
 
 Que lo que uno coge no pesa igual que lo que le dan.
 
-Los veintidós Emperadores que hubo antes, desde Astragal, tenían la vida porque alguien se la daba. Sentados en la cocina de un horno, con una navaja de pelar fruta, con un dedo. *¿Quieres?* *Sí.* Y la vida pasaba de uno a otro como pasa el pan de la mesa a la boca. Limpia.
+Los veintidós Emperadores que hubo antes, desde Astragal, tenían la vida porque alguien se la daba. Sentados en la cocina de un horno, con una navaja de pelar fruta, con un dedo. ¿Quieres? Sí. Y la vida pasaba de uno a otro como pasa el pan de la mesa a la boca. Limpia.
 
 Esa vida no le sirve al Señor. No hace ruido. El que la recibe se siente deudor, no dueño. Cuida. Teme perderla, sí, pero teme como teme el que cuida un fuego ajeno. Poco.
 
@@ -122,7 +122,7 @@ No oye al de la torre del muelle cuando come manzanas. Oye a Baervan el resto de
 
 Lo apunta. Él también apunta. A su manera.
 
-No oye al de abajo. Al drow del arpa. Nunca lo ha oído. Ni una vez en todos los siglos. Ese le pregunta cosas. *¿Qué quieres?* Se lo preguntó hace sesenta años, en la sala de los túneles, y el Señor, por primera vez en su existencia, contestó la verdad.
+No oye al de abajo. Al drow del arpa. Nunca lo ha oído. Ni una vez en todos los siglos. Ese le pregunta cosas. ¿Qué quieres? Se lo preguntó hace sesenta años, en la sala de los túneles, y el Señor, por primera vez en su existencia, contestó la verdad.
 
 *Que algo me llame.*
 
@@ -142,9 +142,9 @@ Lo que duerme no tiene miedo y no da miedo. No se mueve. No pide. No escucha.
 
 Pero respira.
 
-Y cada vez que respira, el muro de Banderbill, arriba, en la colina, hace *tum*.
+Y cada vez que respira, el muro de Banderbill, arriba, en la colina, hace tum.
 
-El Señor lleva ochocientos años contando los *tum*. Como los cuentan los de abajo, los de la Orden, con los relojes de arena, en la sala del muro. Les dejan creer que son los únicos que cuentan.
+El Señor lleva ochocientos años contando los tum. Como los cuentan los de abajo, los de la Orden, con los relojes de arena, en la sala del muro. Les dejan creer que son los únicos que cuentan.
 
 Ciento ochenta y cinco antes de la caída. Ciento noventa después.
 
@@ -160,7 +160,7 @@ Eso tampoco lo dice. Pero lo piensa, en las noches largas del invierno del 1419,
 
 Si lo que duerme se despierta, lo llamará.
 
-Eso cree. Eso espera. Que algo me llame. Lleva desde antes de los nombres esperando a que algo lo llame, a que alguien le diga *ven*, a que el hueco de abajo se abra y él pueda bajar y dejar de oír.
+Eso cree. Eso espera. Que algo me llame. Lleva desde antes de los nombres esperando a que algo lo llame, a que alguien le diga ven, a que el hueco de abajo se abra y él pueda bajar y dejar de oír.
 
 Y para eso hace falta sangre. Mucha. De todos. Los siete trozos juntos en una mano con miedo. El continente entero oyéndose.
 

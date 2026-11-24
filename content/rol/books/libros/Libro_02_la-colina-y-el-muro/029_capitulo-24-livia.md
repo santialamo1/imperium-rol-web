@@ -68,7 +68,7 @@ No quería. No lo decidió. Las piernas se movieron solas. Un paso. Otro. Hacia 
 
 *Quien te nombra te tendrá.*
 
-Él sabía su nombre. El otro. El de dentro. El que le había puesto Bander en la cubierta de la *Tozuda* para protegerla. Lo sabía desde hacía veintinueve años; lo había tocado con la punta de la niebla en el primer invierno, como se toca una cerradura con una llave. Y ahora, por fin, estaba lo bastante cerca para usarlo.
+Él sabía su nombre. El otro. El de dentro. El que le había puesto Bander en la cubierta de la Tozuda para protegerla. Lo sabía desde hacía veintinueve años; lo había tocado con la punta de la niebla en el primer invierno, como se toca una cerradura con una llave. Y ahora, por fin, estaba lo bastante cerca para usarlo.
 
 Otro paso.
 
@@ -92,13 +92,13 @@ Lo había escrito.
 
 ---
 
-Lo dijo en voz alta. Muy alta. Con la voz de capitán de Mara, la de la *Tozuda*, la que asusta al miedo. Lo dijo por encima del crujido de las de sal y de los gritos de los soldados y del latido continuo de lo de abajo. Y Loth la oyó.
+Lo dijo en voz alta. Muy alta. Con la voz de capitán de Mara, la de la Tozuda, la que asusta al miedo. Lo dijo por encima del crujido de las de sal y de los gritos de los soldados y del latido continuo de lo de abajo. Y Loth la oyó.
 
 Dejó de tirar. Un instante.
 
 —¿Qué?
 
-—No te lo ha prometido. —Livia notó que le corrían lágrimas por la cara. No lloraba. Eran los ojos. Era el sol—. *Anwe* no quiere decir *la que respira*. No del todo. En la lengua de las Madres, en la lengua de las piedras, en la lengua de eso de ahí abajo, *anwe* quiere decir *volverá*. *Lo que volverá.* —Dio un paso. Hacia él. Esta vez por su propia voluntad—. Cuando te dijo *te devolveré a Anwe*, no te estaba hablando de tu hija. Te estaba hablando de sí mismo. De su otra mitad. De lo que volverá. Te prometió lo que él quería. Con la palabra que tú querías oír.
+—No te lo ha prometido. —Livia notó que le corrían lágrimas por la cara. No lloraba. Eran los ojos. Era el sol—. Anwe no quiere decir la que respira. No del todo. En la lengua de las Madres, en la lengua de las piedras, en la lengua de eso de ahí abajo, anwe quiere decir volverá. Lo que volverá. —Dio un paso. Hacia él. Esta vez por su propia voluntad—. Cuando te dijo te devolveré a Anwe, no te estaba hablando de tu hija. Te estaba hablando de sí mismo. De su otra mitad. De lo que volverá. Te prometió lo que él quería. Con la palabra que tú querías oír.
 
 Loth se quedó blanco. Más blanco de lo que ya era.
 
@@ -108,7 +108,7 @@ Loth se quedó blanco. Más blanco de lo que ya era.
 
 —Mientes.
 
-—Seren se lo puso a tu hija como bendición. *La que respira. La que volverá.* Porque quería que si alguna vez se perdía, volviera. Lo puso con amor. —Otro paso—. Y él lo ha usado para tirar de ti durante cuatrocientos años. Con hambre. Es la misma palabra, Loth. La misma. Solo cambia cómo la dices.
+—Seren se lo puso a tu hija como bendición. La que respira. La que volverá. Porque quería que si alguna vez se perdía, volviera. Lo puso con amor. —Otro paso—. Y él lo ha usado para tirar de ti durante cuatrocientos años. Con hambre. Es la misma palabra, Loth. La misma. Solo cambia cómo la dices.
 
 Loth la miraba. Con los ojos enrojecidos. Con la boca abierta.
 
@@ -118,11 +118,11 @@ Y detrás de él, a un paso, la figura del velo gris se movió.
 
 Fue entonces cuando Livia sacó el pergamino.
 
-Lo llevaba en el zurrón, con el cuaderno de corteza, desde que salieron de la colina. El pergamino de Nadia. Dieciséis hojas, cosidas por un extremo, atadas con un cordón de cuero ennegrecido. No se lo había dicho a nadie. Lo había sacado del arcón de Tobías la noche antes de partir y se lo había metido en el zurrón sin saber por qué. *Algún día te hará* *falta*, le había dicho Tobías. *No sé para qué. Espero que para algo bueno.*
+Lo llevaba en el zurrón, con el cuaderno de corteza, desde que salieron de la colina. El pergamino de Nadia. Dieciséis hojas, cosidas por un extremo, atadas con un cordón de cuero ennegrecido. No se lo había dicho a nadie. Lo había sacado del arcón de Tobías la noche antes de partir y se lo había metido en el zurrón sin saber por qué. Algún día te hará falta, le había dicho Tobías. No sé para qué. Espero que para algo bueno.
 
 Lo desató. Lo abrió por la hoja doce.
 
-La nana. Escrita con la letra infantil de Nadi, temblorosa, de una niña de ocho años que acababa de salir del desierto. *Duerme, arena, duerme ya, la bruma viene y se va; quien* *te nombra te tendrá, quien te ama volverá.* Y debajo, añadido después, con la letra de mujer madura, firme, apretada, de Nadia a los sesenta años, un verso más. Uno que Tobías no había leído nunca en voz alta. Uno que no se cantaba en la colina. Uno que se había perdido.
+La nana. Escrita con la letra infantil de Nadi, temblorosa, de una niña de ocho años que acababa de salir del desierto. Duerme, arena, duerme ya, la bruma viene y se va; quien te nombra te tendrá, quien te ama volverá. Y debajo, añadido después, con la letra de mujer madura, firme, apretada, de Nadia a los sesenta años, un verso más. Uno que Tobías no había leído nunca en voz alta. Uno que no se cantaba en la colina. Uno que se había perdido.
 
 El verso que cantaba la madre de Loth, Ishra, en la tienda, cuando él era niño, antes de dormirlo. Con su nombre. Con el de dentro.
 
@@ -162,13 +162,13 @@ Con lo que sea. Con hambre o con amor. Pero que se lo diga.
 
 Livia cerró los ojos.
 
-Pensó en lo que le había dicho Tobías. *Que lo que guardes, lo guardes por amor.*
+Pensó en lo que le había dicho Tobías. Que lo que guardes, lo guardes por amor.
 
-Pensó en lo que había escrito Neri en el margen del libro de Corvo. *Lo que se da* *por voluntad, vuelve. Lo que se coge por hambre, no.*
+Pensó en lo que había escrito Neri en el margen del libro de Corvo. Lo que se da por voluntad, vuelve. Lo que se coge por hambre, no.
 
 Pensó en la muchacha de la túnica gris, la de los refugios, que se había plantado delante de doscientas de sal con una nana y no les había pedido nada.
 
-Pensó en Bander, en la cubierta de la *Tozuda*, con siete heridas, con nueve años ella, inclinándose para susurrarle al oído una palabra que no sabía lo que quería decir. Con amor. Sin saber hacerlo bien.
+Pensó en Bander, en la cubierta de la Tozuda, con siete heridas, con nueve años ella, inclinándose para susurrarle al oído una palabra que no sabía lo que quería decir. Con amor. Sin saber hacerlo bien.
 
 Abrió los ojos.
 
@@ -178,7 +178,13 @@ Y cantó.
 
 ---
 
-*Duerme, arena, duerme ya,* *la bruma viene y se va;* *quien te nombra te tendrá,* *quien te ama volverá.*
+*Duerme, arena, duerme ya,*
+
+*la bruma viene y se va;*
+
+*quien te nombra te tendrá,*
+
+*quien te ama volverá.*
 
 Muy bajo. Sin hambre. Mirando hacia arriba.
 
@@ -220,9 +226,13 @@ La figura del velo gris se arrodilló a su lado.
 
 Lo que pasó entonces, Livia lo escribiría esa noche en el cuaderno de corteza cuatro veces, y las cuatro lo tacharía, y la quinta lo dejaría como estaba, aunque no le gustara, porque no encontró otra forma de decirlo.
 
-*La muerta le levantó el velo. A sí misma. Con las dos manos. Y debajo había una* *cara. Una mujer del desierto, morena, joven, con el pelo negro. No era de sal. No era gris.* *Era una cara. La cara que debía de tener la noche en que nació su hija. Y Loth la miró, y* *ella lo miró, y ella dijo una palabra.*
+*La muerta le levantó el velo. A sí misma. Con las dos manos. Y debajo había una cara. Una mujer del desierto, morena, joven, con el pelo negro. No era de sal. No era gris. Era una cara. La cara que debía de tener la noche en que nació su hija. Y Loth la miró, y ella lo miró, y ella dijo una palabra.*
 
-*No sé cuál. No la oí. La oyó él.* *Creo que era su nombre. El de dentro.* *Con amor.*
+*No sé cuál. No la oí. La oyó él.*
+
+*Creo que era su nombre. El de dentro.*
+
+*Con amor.*
 
 Y Loth se deshizo.
 

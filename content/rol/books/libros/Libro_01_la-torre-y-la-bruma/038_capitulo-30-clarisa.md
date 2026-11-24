@@ -6,7 +6,7 @@ Clarisa de Hinurvald llevaba trece años casada con Henricus Bhargaras y todaví
 
 No era por respeto. Lo sabía. Era miedo, del bueno, del que se cultiva. Las damas de la corte la llamaban «la Loba» a sus espaldas, por el Lobo del Hinur, aquel padre de Hector que todos los niños de Tiber conocían por las canciones, y porque Clarisa había nacido en los valles helados del norte, donde las mujeres cazaban con sus maridos y no se reían de los chistes que no tenían gracia. Era alta, huesuda, con la nariz rota de una caída en el hielo a los siete años y unos ojos azules tan claros que parecían agua de deshielo. No era hermosa. No había querido serlo nunca.
 
-Henricus la había elegido por eso. Se lo dijo la noche de bodas, borracho y feliz: *Eres la única mujer de la corte que me mira como si yo fuera un herrero.* Clarisa le contestó que es que lo era, y él se rió tanto que se cayó de la cama.
+Henricus la había elegido por eso. Se lo dijo la noche de bodas, borracho y feliz: Eres la única mujer de la corte que me mira como si yo fuera un herrero. Clarisa le contestó que es que lo era, y él se rió tanto que se cayó de la cama.
 
 Lo quería. Mucho. Más de lo que nunca le diría. Y por eso, aquella mañana de primavera del año ciento treinta y seis, cuando lord Anselm Druve le pidió audiencia privada en el jardín de los tejos, supo antes de que abriera la boca que iba a tener que destruirlo.
 
@@ -22,7 +22,7 @@ Era un Zelto de sesenta años, fino, de barba gris recortada en punta, con la pi
 
 Clarisa no dijo nada.
 
-—Doce y once, majestad. Doce y once. —Anselm sonrió—. Kurtz anotó la diferencia en el margen y escribió: *Probablemente uno quemado del todo. Huesos* *pequeños.* Y nadie volvió a mirarlo. Un niño de menos. ¿Qué más daba?
+—Doce y once, majestad. Doce y once. —Anselm sonrió—. Kurtz anotó la diferencia en el margen y escribió: Probablemente uno quemado del todo. Huesos pequeños. Y nadie volvió a mirarlo. Un niño de menos. ¿Qué más daba?
 
 —Sigo esperando la parte curiosa.
 
@@ -32,7 +32,7 @@ El jardín estaba en silencio. Un mirlo saltó de un tejo a otro.
 
 —¿Qué queréis, lord Anselm?
 
-—Majestad, me ofendéis. —Anselm se llevó una mano al pecho—. Yo no quiero nada. Solo soy un viejo aficionado a las historias. Pero hay otros en el Consejo, menos discretos que yo, que recuerdan todavía lo que dijo el sumo sacerdote en la plaza aquella noche. *Si los dejamos vivir, la niebla vivirá en ellos.* Y si alguien les contara que la niebla vive en el trono... —Se encogió de hombros—. Bueno. Ya sabéis cómo es el pueblo. Lo que hizo con doce niños.
+—Majestad, me ofendéis. —Anselm se llevó una mano al pecho—. Yo no quiero nada. Solo soy un viejo aficionado a las historias. Pero hay otros en el Consejo, menos discretos que yo, que recuerdan todavía lo que dijo el sumo sacerdote en la plaza aquella noche. Si los dejamos vivir, la niebla vivirá en ellos. Y si alguien les contara que la niebla vive en el trono... —Se encogió de hombros—. Bueno. Ya sabéis cómo es el pueblo. Lo que hizo con doce niños.
 
 —¿Y si el príncipe Corvo se casara con vuestra hija?
 

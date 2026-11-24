@@ -2,11 +2,7 @@
 
 *El valle negro. Años 90 a 95 de la Nueva Era.*
 
-*Del libro de cuentas de Sein Vell, año 95. En el valle negro hay ahora más*
-
-*gente que en Pisor el año que llegamos. Nadie la ha llevado. Ha ido sola.*
-
-*Apuntado en la columna de las cosas que no se pueden apuntar.*
+*Del libro de cuentas de Sein Vell, año 95. En el valle negro hay ahora más gente que en Pisor el año que llegamos. Nadie la ha llevado. Ha ido sola. Apuntado en la columna de las cosas que no se pueden apuntar.*
 
 Los tramperos empezaron a bajar al valle el año que la fuente no se heló.
 
@@ -24,7 +20,7 @@ Lo negro. Lo liso. El agujero en el centro.
 
 Las veintidós.
 
-Ilsa los oyó dudar. Los oyó desde la cabaña, a media legua: tres corazones que se paraban un instante y luego echaban a correr. Los oyó pensar en darse la vuelta. En las historias. *Si las ves, no las mires. Si te miran, no te muevas. Si te tocan, ya eres de ellas.*
+Ilsa los oyó dudar. Los oyó desde la cabaña, a media legua: tres corazones que se paraban un instante y luego echaban a correr. Los oyó pensar en darse la vuelta. En las historias. Si las ves, no las mires. Si te miran, no te muevas. Si te tocan, ya eres de ellas.
 
 Y los oyó pensar en el frío. En los dedos de los pies. En el humo.
 
@@ -84,7 +80,7 @@ Y cambiaban entre ellos.
 
 Ilsa los veía desde la cabaña. Junto a la fuente. En el círculo de hierba verde. Un pastor que le daba a un trampero un queso a cambio de una piel de zorro. Un buscador de vetas que le daba a un cazador un cuchillo bueno a cambio de una semana de carne seca. Discutían. Regateaban. Se gritaban. Se reían.
 
-Nadie había decidido que aquello fuera un mercado. Nadie lo llamaba así. Era la fuente. *Vamos a la fuente.* *Nos vemos en la fuente.* *Te lo cambio en la fuente.*
+Nadie había decidido que aquello fuera un mercado. Nadie lo llamaba así. Era la fuente. Vamos a la fuente. Nos vemos en la fuente. Te lo cambio en la fuente.
 
 Pero era un mercado.
 
@@ -148,7 +144,7 @@ Esa noche, en la cabaña grande, se reunieron las Custodias.
 
 Eran catorce. De las veinte niñas que bajaron con Ilsa el año veintiocho, quedaban cuatro, viejas, de setenta y tantos años. Las otras diez habían llegado después, a lo largo de los años, de una en una, solas, sin que nadie las mandara: muchachas de la colina, de los pueblos de la costa, de las aldeas del norte, que oían. Que oían a las montañas, o a los muertos, o a las piedras, y que no sabían qué hacer con ello, y que un día oían, además, una canción muy lejos, hacia el norte, y echaban a andar.
 
-Y no estaban solas. En las cabañas de más arriba vivían los que había echado de la colina Bhargaras VII el año veintisiete, los que oían. Habían llegado de uno en uno, siguiendo la misma canción. Se llamaban *Custodios*, como los de Concordia; y cada una de las catorce era una *Custodia*.
+Y no estaban solas. En las cabañas de más arriba vivían los que había echado de la colina Bhargaras VII el año veintisiete, los que oían. Habían llegado de uno en uno, siguiendo la misma canción. Se llamaban Custodios, como los de Concordia; y cada una de las catorce era una Custodia.
 
 La más joven había llegado hacía doce años. Se llamaba Wenna. Era de familia de Pisor. Tenía cuarenta y tres años, los ojos muy grandes y una manera de mirar a la gente como si les estuviera midiendo. Decía que de niña, en el mercado de Banderbill, había llamado bruja a una reina, y que la reina le había dicho que a las brujas les gustaban las coles.
 
@@ -164,7 +160,7 @@ Wenna miró a Ilsa.
 
 Ilsa estaba junto al fuego. Con el bastón en las rodillas. Con los ojos cerrados. Escuchando.
 
-—Una —dijo Ilsa—. Basta con una. *Aquí no se levanta un arma.* El que la levante, se va. Y no vuelve.
+—Una —dijo Ilsa—. Basta con una. Aquí no se levanta un arma. El que la levante, se va. Y no vuelve.
 
 —¿Y si no se va?
 
@@ -180,7 +176,7 @@ No bastaba con no levantar armas. Había que saber quién tenía razón. Lo de l
 
 Hacía falta algo más. Algo que no fuera una vieja. Algo que no se muriera.
 
-Ilsa pensó en la colina. En el contable que se quedó sumando. En el niño de los palotes. *Que conste. Constará.*
+Ilsa pensó en la colina. En el contable que se quedó sumando. En el niño de los palotes. Que conste. Constará.
 
 Pensó en una balanza.
 
@@ -218,7 +214,7 @@ Wenna se quedó mirando la balanza.
 
 ---
 
-La llamaron *la Fiel*. No a la balanza; a la que la cuidaba. Fue cosa de los tramperos. *Ve a ver a la Fiel. Que lo pese la Fiel. Lo que diga la Fiel.* Wenna protestó al principio; le parecía un nombre de perro. Luego dejó de protestar.
+La llamaron la Fiel. No a la balanza; a la que la cuidaba. Fue cosa de los tramperos. Ve a ver a la Fiel. Que lo pese la Fiel. Lo que diga la Fiel. Wenna protestó al principio; le parecía un nombre de perro. Luego dejó de protestar.
 
 Y el mercado creció.
 

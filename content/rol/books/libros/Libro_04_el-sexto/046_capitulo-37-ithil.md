@@ -68,7 +68,7 @@ Se le quedó mirando mucho rato.
 
 Ithil no se movió.
 
-—En el fuerte del norte —dijo el gnomo—. En el 1080. El de la punta. Tibbet escribió una línea en su lista. *Un drow que sabe que hay una pared que no es una pared. Y* *que no lo dice.* —Se rascó la barba—. No la he leído. Me la contó él. Bajó a la colina en el 1200 y algo, a la reunión del pan, una vez, y me la contó en la escalera. Me dijo que tenías el pelo blanco y una bolsita en el cuello y que te tocaste la bolsita con dos dedos antes de irte.
+—En el fuerte del norte —dijo el gnomo—. En el 1080. El de la punta. Tibbet escribió una línea en su lista. Un drow que sabe que hay una pared que no es una pared. Y que no lo dice. —Se rascó la barba—. No la he leído. Me la contó él. Bajó a la colina en el 1200 y algo, a la reunión del pan, una vez, y me la contó en la escalera. Me dijo que tenías el pelo blanco y una bolsita en el cuello y que te tocaste la bolsita con dos dedos antes de irte.
 
 Ithil se llevó la mano al pecho. Sin querer. Con dos dedos.
 
@@ -184,7 +184,7 @@ Ithil se quedó helado.
 
 ---
 
-Sabía la regla. La sabía desde el 880. *El que pregunta, tiene que contestar. Si le* *preguntan.* Era del Señor. Más vieja que el Señor. Pero no sabía si valía para los demás. Si un gnomo le preguntaba algo a él, en una torre, en Orac, ¿tenía que contestar? ¿Y quién le preguntaría después al gnomo? ¿Y qué se le quedaría a quién?
+Sabía la regla. La sabía desde el 880. El que pregunta, tiene que contestar. Si le preguntan. Era del Señor. Más vieja que el Señor. Pero no sabía si valía para los demás. Si un gnomo le preguntaba algo a él, en una torre, en Orac, ¿tenía que contestar? ¿Y quién le preguntaría después al gnomo? ¿Y qué se le quedaría a quién?
 
 —No —dijo.
 
@@ -202,7 +202,7 @@ Ithil no contestó.
 
 No era la pregunta que Ithil esperaba.
 
-Esperaba *qué quieres*. Esperaba *qué contestaste*. Esperaba *por qué me has traído* *aquí*.
+Esperaba qué quieres. Esperaba qué contestaste. Esperaba por qué me has traído aquí.
 
 —¿Qué? —dijo.
 
@@ -276,7 +276,7 @@ El gnomo se quedó quieto en el suelo. Con la espalda contra la pared.
 
 —Vale —dijo—. Pregunta.
 
-Ithil pensó en la pregunta. La de siempre. La que el Señor le había hecho cuarenta días. *¿Qué quieres?* La que el gnomo había contestado con risas mirando arriba. La que Ithil, si la hacía, oiría contestar, porque esa era la regla, y la que quedaría en la torre, entre los dos, para siempre.
+Ithil pensó en la pregunta. La de siempre. La que el Señor le había hecho cuarenta días. ¿Qué quieres? La que el gnomo había contestado con risas mirando arriba. La que Ithil, si la hacía, oiría contestar, porque esa era la regla, y la que quedaría en la torre, entre los dos, para siempre.
 
 No la hizo.
 

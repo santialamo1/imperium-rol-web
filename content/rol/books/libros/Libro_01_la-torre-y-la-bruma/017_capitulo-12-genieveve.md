@@ -30,7 +30,7 @@ Sahra suspiró, y el velo se hinchó levemente con su aliento, que no olía a na
 
 —La leche de bruma no se ordeña de una cabra, niña. Es aliento. Aliento joven, que todavía no se ha gastado en mentiras. Las Madres lo recogen en Eufesia, de los que nacen con el don y no se pueden usar para otra cosa. —Sahra se encogió de hombros bajo el lino —. Se paga como se paga todo. Con lo que hay.
 
-Genieveve pensó en el viejo Hector, muerto hacía tres días, en su mano nudosa, en sus ojos de león cansado. *Tú no peleas para no perder. Peleas para que nadie más vuelva* *a tocarte.* Pensó en Leogrand, en el castillo de piedra gris colgado sobre el desfiladero, en las noches de invierno en que su tío entraba en su alcoba y ella tenía once años y nadie, nadie en todo el clan, levantó una mano para impedirlo, porque era el señor y ella era una sobrina huérfana y en Leogrand una ofensa que se lleva a juicio se convierte en dos.
+Genieveve pensó en el viejo Hector, muerto hacía tres días, en su mano nudosa, en sus ojos de león cansado. Tú no peleas para no perder. Peleas para que nadie más vuelva a tocarte. Pensó en Leogrand, en el castillo de piedra gris colgado sobre el desfiladero, en las noches de invierno en que su tío entraba en su alcoba y ella tenía once años y nadie, nadie en todo el clan, levantó una mano para impedirlo, porque era el señor y ella era una sobrina huérfana y en Leogrand una ofensa que se lleva a juicio se convierte en dos.
 
 Pensó en el niño. En Aurel, con dos años y medio, rubio como ella, dormido en una casita de piedra en el valle bajo Leogrand, al cuidado de una nodriza Germa llamada Ilda Orvane que no sabía leer y que creía que la madre del niño era una prima lejana muerta de parto. Pensó en el día en que había matado a su tío, a los diecinueve años, con un cuchillo de cocina, y en cómo había huido del castillo para no volver; y en el amante de una sola noche, seis años después, un arquero de paso que ni siquiera supo su nombre y que le dejó a Aurel en las entrañas como quien deja una moneda olvidada sobre la mesa de una posada. Pensó en el mundo al que había traído a Aurel y en el mundo que quería darle.
 
@@ -40,7 +40,7 @@ Pensó en el niño. En Aurel, con dos años y medio, rubio como ella, dormido en
 
 El primer combate fue contra un herrero Germa llamado Bodo, un gigante con las manos llenas de quemaduras que luchaba con un martillo de forja y no sabía muy bien por qué se había inscrito. Le dijo a Genieveve, antes de empezar, que lo hacía porque su mujer le había dicho que si ganaba podría comprarle una vaca.
 
-Genieveve le rompió la muñeca en el tercer intercambio y le dejó vivir. La multitud abucheó. Querían sangre. El decreto de Hector decía *hasta que no quede más que uno en* *pie*, y el herrero, aunque gimiendo, seguía en pie.
+Genieveve le rompió la muñeca en el tercer intercambio y le dejó vivir. La multitud abucheó. Querían sangre. El decreto de Hector decía hasta que no quede más que uno en pie, y el herrero, aunque gimiendo, seguía en pie.
 
 Ella se volvió hacia la tribuna del Consejo, donde los treinta y dos señores la miraban con caras de piedra.
 
@@ -50,9 +50,9 @@ Olaf Venn sonrió, aquella sonrisa de zorro viejo.
 
 —El decreto no habla de espadas, muchacha. Habla de uno.
 
-Genieveve miró a Bodo. El herrero sostenía la muñeca rota contra el pecho y la miraba con ojos de buey asustado. *Su mujer quería una vaca.*
+Genieveve miró a Bodo. El herrero sostenía la muñeca rota contra el pecho y la miraba con ojos de buey asustado. Su mujer quería una vaca.
 
-La leche de bruma le cantaba en las venas, fría, impaciente. Sintió, por un instante, algo que no era suyo: un hambre. Un hambre ajena, inmensa, que miraba al herrero como un lobo mira a un cordero. *Aliento*, susurraba. *Aliento caliente.*
+La leche de bruma le cantaba en las venas, fría, impaciente. Sintió, por un instante, algo que no era suyo: un hambre. Un hambre ajena, inmensa, que miraba al herrero como un lobo mira a un cordero. Aliento, susurraba. Aliento caliente.
 
 Le cortó el cuello a Bodo con un movimiento limpio, rápido, casi piadoso. Él cayó sin un ruido.
 
@@ -74,7 +74,7 @@ El vigésimo séptimo fue un muchacho Hinur de diecisiete años, flaco como un j
 
 —Cuando te suelte, échate a correr y no pares hasta tu aldea. Si vuelves a Concordia, te mato. Si tu padre te vuelve a mandar, mato a tu padre.
 
-El chico corrió. La multitud abucheó otra vez. Esta vez, Genieveve ni siquiera miró a la tribuna. Contó en voz alta, *veintisiete*, y nadie se atrevió a discutírselo.
+El chico corrió. La multitud abucheó otra vez. Esta vez, Genieveve ni siquiera miró a la tribuna. Contó en voz alta, veintisiete, y nadie se atrevió a discutírselo.
 
 El trigésimo segundo fue Olaf Venn.
 
@@ -94,7 +94,7 @@ Genieveve sintió que el frío de la leche se le subía a la cara.
 
 Genieveve lo miró. Pensó en Aurel. Pensó en el castillo de Leogrand y en todas las noches de invierno.
 
-*Un trono regalado es una deuda*, había dicho Hector.
+Un trono regalado es una deuda, había dicho Hector.
 
 —Es una apuesta excelente, mi señor —dijo—. Lástima que no vayáis a cobrarla.
 

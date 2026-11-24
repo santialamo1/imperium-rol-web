@@ -2,13 +2,7 @@
 
 *El Mercado del valle negro. Invierno del año 221 de la Nueva Era.*
 
-*De la Crónica de Ada Vell, tercera de su nombre, año 221. En el Mercado no*
-
-*hay rey. Hay una balanza, una fuente que no se hiela, veintidós Madres de sal*
-
-*que no se mueven y una mujer gorda que no se muere. Funciona mejor que la*
-
-*colina. No lo pongo en la Crónica oficial.*
+*De la Crónica de Ada Vell, tercera de su nombre, año 221. En el Mercado no hay rey. Hay una balanza, una fuente que no se hiela, veintidós Madres de sal que no se mueven y una mujer gorda que no se muere. Funciona mejor que la colina. No lo pongo en la Crónica oficial.*
 
 En el Mercado se pesaba todo, y lo que no se podía pesar se pesaba igual.
 
@@ -32,7 +26,7 @@ Y más allá, a cien pasos, en la boca del agujero, el Guardián.
 
 Era un hombre de sal. De pie. Con los brazos abiertos. Con la cara de espanto. Con algo en el pecho, una jarra agrietada, metida dentro de la sal como un corazón de piedra.
 
-Nadie sabía quién era. Bueno: todos lo sabían, más o menos, como se saben las cosas de los cuentos. Era el rey que se quedó. El que bajó al agujero a tapar lo de abajo. El de la cara de espanto. Bhargaras el Séptimo, decían los de la colina cuando venían, con mucho respeto, quitándose el sombrero. *El Guardián*, decían los del Mercado, que no se quitaban nada.
+Nadie sabía quién era. Bueno: todos lo sabían, más o menos, como se saben las cosas de los cuentos. Era el rey que se quedó. El que bajó al agujero a tapar lo de abajo. El de la cara de espanto. Bhargaras el Séptimo, decían los de la colina cuando venían, con mucho respeto, quitándose el sombrero. El Guardián, decían los del Mercado, que no se quitaban nada.
 
 Y alrededor, en las piedras negras del valle, las Madres.
 
@@ -86,7 +80,7 @@ Odile se quedó muy quieta.
 
 —¿Qué cuentos?
 
-—De una biblioteca. —Pía tiró otra—. Y de una niña pelirroja que se sentaba en el suelo. Y de una señora que se llamaba algo con *s*. Que no se acuerda cómo. Siempre empieza a decirlo y no se acuerda.
+—De una biblioteca. —Pía tiró otra—. Y de una niña pelirroja que se sentaba en el suelo. Y de una señora que se llamaba algo con s. Que no se acuerda cómo. Siempre empieza a decirlo y no se acuerda.
 
 ---
 
@@ -118,7 +112,7 @@ Wenna se comió la castaña.
 
 Wenna no contestó. Cogió otra castaña.
 
-—A alguien que le diga cómo se llamaba la de la *s* —dijo al final.
+—A alguien que le diga cómo se llamaba la de la s —dijo al final.
 
 ---
 
@@ -246,7 +240,7 @@ Pía la miró. Tenía la cara seria. Muy seria. De seis años.
 
 —Que hoy ha sido como en la biblioteca —dijo—. Cuando la niña pelirroja le leía cuentos. Que se le ha ido un poco de frío.
 
-—¿Y la señora de la *s*?
+—¿Y la señora de la s?
 
 Pía negó con la cabeza.
 

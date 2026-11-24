@@ -4,7 +4,7 @@
 
 La orden llegó al atardecer, en un pliego sellado con el lacre azul del Estratega, y Hilde Tamm, Custodia de segundo grado de la Academia de Concordia, cuarenta y tres años, Ibaro de los pantanos de Pisor, la leyó dos veces antes de entender que le estaban pidiendo que matara a doscientos muertos que todavía no habían hecho nada.
 
-*Quemad el oasis. Todo. Palmeras, pozos, tiendas, osario. Antes del amanecer.* *Ningún muerto de Kel-Ammar debe quedar en pie cuando él llegue. B. A.*
+*Quemad el oasis. Todo. Palmeras, pozos, tiendas, osario. Antes del amanecer. Ningún muerto de Kel-Ammar debe quedar en pie cuando él llegue. B. A.*
 
 Hilde dobló el pliego. Lo guardó en la manga. Miró hacia el oasis.
 
@@ -28,7 +28,7 @@ No mucho. No todavía. Pero Hilde los oía desde allí, desde la cresta de la du
 
 El fuego no mataba a los muertos de la bruma. Eso lo sabía todo el mundo desde el Vado. Pero los deshacía. Quemaba los cuerpos, los huesos, la carne seca, y dejaba las almas sin un sitio al que volver. Y un alma sin cuerpo, sin nombre y sin nadie que la soltara, se quedaba flotando en el aire de la frontera durante años, débil, perdida, gritando en silencio, hasta que la niebla se la bebía.
 
-Era mejor que dejarlos convertirse en soldados. Eso decían los manuales de Braco Arenar, que Hilde había estudiado durante diez años en la Academia. Los manuales eran muy claros. *Un muerto quemado no lucha. Un muerto que no lucha no mata a ningún vivo.* *Cada osario quemado en la frontera son cien soldados nuestros que vuelven a casa.*
+Era mejor que dejarlos convertirse en soldados. Eso decían los manuales de Braco Arenar, que Hilde había estudiado durante diez años en la Academia. Los manuales eran muy claros. Un muerto quemado no lucha. Un muerto que no lucha no mata a ningún vivo. Cada osario quemado en la frontera son cien soldados nuestros que vuelven a casa.
 
 Hilde había quemado seis osarios en tres años de campaña. Los seis, de pueblos que el ejército de la niebla ya había tomado. Los seis, llenos de muertos que ya estaban de pie.
 
@@ -96,7 +96,7 @@ Hilde había aprendido a soltar a los muertos de una anciana Custodia que había
 
 A veces funcionaba. Casi siempre, no.
 
-La niña de la esquina este se llamaba Liri. No era su nombre. Era el que Hilde le dio, después de escucharla preguntar por su madre durante casi una hora, hasta que la niña se calló, agotada, y Hilde le dijo, en voz baja, en la lengua del desierto que había aprendido de los libros: *Liri. Tu madre está en el sur. Está bien. Vete hacia arriba, Liri. Ella irá* *luego.*
+La niña de la esquina este se llamaba Liri. No era su nombre. Era el que Hilde le dio, después de escucharla preguntar por su madre durante casi una hora, hasta que la niña se calló, agotada, y Hilde le dijo, en voz baja, en la lengua del desierto que había aprendido de los libros: Liri. Tu madre está en el sur. Está bien. Vete hacia arriba, Liri. Ella irá luego.
 
 Y la niña se fue.
 
@@ -114,9 +114,9 @@ El tirón del este se hizo más fuerte. De pronto. Como si alguien, al otro lado
 
 —¡Hilde! —gritó alguien.
 
-Ella no se levantó. Siguió con las manos en la arena. Siguió escuchando al muerto que tenía debajo, un hombre mayor que repetía una y otra vez el nombre de un camello, *Dabbi, Dabbi, Dabbi,* como si fuera lo único que le importaba en el mundo.
+Ella no se levantó. Siguió con las manos en la arena. Siguió escuchando al muerto que tenía debajo, un hombre mayor que repetía una y otra vez el nombre de un camello, Dabbi, Dabbi, Dabbi, como si fuera lo único que le importaba en el mundo.
 
-*Dabbi está bien*, le dijo. *Dabbi está en el sur. Vete hacia arriba.*
+*Dabbi está bien, le dijo. Dabbi está en el sur. Vete hacia arriba.*
 
 Se fue.
 
@@ -130,7 +130,7 @@ Braco Arenar había venido. Sin escolta. Con una antorcha en la mano y un cánta
 
 No bajó. No dio ninguna orden. Se quedó en la cresta, con la antorcha en alto, mirándola.
 
-*Tú decides*, decía aquella antorcha. *Tú prendiste la primera, dijiste. Tú decides* *cuándo.*
+Tú decides, decía aquella antorcha. Tú prendiste la primera, dijiste. Tú decides cuándo.
 
 ---
 

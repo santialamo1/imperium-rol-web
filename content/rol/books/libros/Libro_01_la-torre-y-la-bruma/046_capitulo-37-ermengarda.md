@@ -26,7 +26,7 @@ Luego subió a la casa y empezó a contar.
 
 Contó lo que había pasado en el Vado. Contó quién estaba en la primera línea y quién en la segunda. Contó quién había diseñado el despliegue: una muchacha de veinticinco años, sobrina del emperador, que había leído todos los tratados de estrategia de la biblioteca imperial y que había propuesto poner a los señores y sus mesnadas en la orilla, donde el emperador quería tener a la nobleza «para que se viera que los señores dan la cara». Contó quién había sobrevivido: la muchacha. De pie en la orilla, mientras la mujer del velo se acercaba. Y el hombre de gris, en lugar de matarla, le había hablado. Y se había ido.
 
-*No mientras ella viva*, había dicho. Lo sabía todo el ejército. Nadie sabía de quién hablaba.
+No mientras ella viva, había dicho. Lo sabía todo el ejército. Nadie sabía de quién hablaba.
 
 La muchacha se llamaba Helen Dorian. Un mes después se sentó en el trono.
 

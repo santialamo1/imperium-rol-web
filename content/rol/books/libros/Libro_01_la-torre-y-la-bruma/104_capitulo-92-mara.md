@@ -4,7 +4,7 @@
 
 Mara Renod dormía con un cuchillo de destripar debajo de la almohada desde los once años, y en seis años de matrimonio con un emperador no había encontrado ningún motivo para dejar de hacerlo.
 
-—Es un cuchillo de pescado —le había dicho Bander la primera noche, en la *Tozuda*, cuando lo encontró al ir a abrazarla—. ¿Qué vas a hacer con un cuchillo de pescado? ¿Destripar a un asesino?
+—Es un cuchillo de pescado —le había dicho Bander la primera noche, en la Tozuda, cuando lo encontró al ir a abrazarla—. ¿Qué vas a hacer con un cuchillo de pescado? ¿Destripar a un asesino?
 
 —Si hace falta.
 
@@ -112,7 +112,7 @@ Se arrodilló delante de él.
 
 —La oigo…
 
-—No la oyes a ella. Oyes otra cosa. Oyes que la echas de menos. —Bander le puso una mano en el hombro—. Yo la nombré. El día veintinueve, en la cubierta de la tercera galera, mirando hacia arriba. *Ebbe, hija de Joran.* La sentí irse. Se fue hacia arriba, Joran. No está en el mar. No está con él. No está en ninguna parte donde nadie pueda tirar de ella.
+—No la oyes a ella. Oyes otra cosa. Oyes que la echas de menos. —Bander le puso una mano en el hombro—. Yo la nombré. El día veintinueve, en la cubierta de la tercera galera, mirando hacia arriba. Ebbe, hija de Joran. La sentí irse. Se fue hacia arriba, Joran. No está en el mar. No está con él. No está en ninguna parte donde nadie pueda tirar de ella.
 
 Joran lo miró con los ojos llenos de lágrimas.
 
@@ -124,7 +124,7 @@ Joran se quedó muy quieto. Luego, despacio, se dobló sobre sí mismo, con la f
 
 ---
 
-La colina se enteró al amanecer. No hubo forma de evitarlo; Mara había gritado al final, cuando todo terminó, y medio barrio se había despertado. Para el mediodía, había cuarenta personas delante de la casa de Bander pidiendo la cabeza del tonelero. El tío Gorm, con un hacha. La Custodia Orla, con cara de *ya os lo dije*. Maese Ugo, que no pedía nada pero estaba allí.
+La colina se enteró al amanecer. No hubo forma de evitarlo; Mara había gritado al final, cuando todo terminó, y medio barrio se había despertado. Para el mediodía, había cuarenta personas delante de la casa de Bander pidiendo la cabeza del tonelero. El tío Gorm, con un hacha. La Custodia Orla, con cara de ya os lo dije. Maese Ugo, que no pedía nada pero estaba allí.
 
 Bander salió a la puerta. Tenía ojeras. Mara estaba detrás de él, con un vestido limpio y las manos todavía oliendo a sangre aunque se las había frotado con arena tres veces.
 

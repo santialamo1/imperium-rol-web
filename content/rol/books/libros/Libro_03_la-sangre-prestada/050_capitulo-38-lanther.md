@@ -6,7 +6,7 @@ Al cuarto mes, el agua empezó a oler a lo que huele el agua que lleva mucho tie
 
 No ese día. Pero pronto. Lo supo como se sabe que va a llover: por el olor. El agua de los barriles de la bodega olía a madera podrida y a hierro, y los hombres la bebían con la nariz tapada, y luego se miraban. No decían nada. Se miraban.
 
-Lanther conocía esa mirada. La había visto en el año diez, sin haber nacido, en las historias que le contaba su padre en la barca de la bahía. *Al tercer mes, los hombres* *empezaron a mirarse. Al cuarto, a mirarme a mí. Y yo me di la vuelta.*
+Lanther conocía esa mirada. La había visto en el año diez, sin haber nacido, en las historias que le contaba su padre en la barca de la bahía. Al tercer mes, los hombres empezaron a mirarse. Al cuarto, a mirarme a mí. Y yo me di la vuelta.
 
 Ahora la miraban a ella. Y al Emperador.
 
@@ -14,7 +14,7 @@ Ahora la miraban a ella. Y al Emperador.
 
 Eran seis barcos. Habían salido de Nix el primer día de la primavera, con la marea de la mañana, con media colina en el espigón y la otra media en los acantilados de la Punta, mirando.
 
-La *Iselde* delante. Luego la *Brena*, la *Maren*, la *Tozuda Tercera*, la *Garza Grande* y el sexto, que no tenía nombre todavía y que los marineros llamaban *el Sin Nombre*, y que el Emperador dijo que se llamaría como lo primero que vieran al otro lado.
+La Iselde delante. Luego la Brena, la Maren, la Tozuda Tercera, la Garza Grande y el sexto, que no tenía nombre todavía y que los marineros llamaban el Sin Nombre, y que el Emperador dijo que se llamaría como lo primero que vieran al otro lado.
 
 Mil cien personas. Marineros de Nix y de la colina. Soldados de la Armada, doscientos. Carpinteros. Un médico elfo y dos humanos. Veinte gnomos con cristales que zumbaban, por si había que empujar sin viento. Diez enanos, para el agua, porque los enanos encontraban agua donde no había. Un cocinero orco de Arghâl, Grum, que había pedido ir y al que nadie le había dicho que no porque nadie se atrevía.
 
@@ -22,7 +22,7 @@ Un elfo de ochocientos cincuenta y ocho años con un sombrero gris puesto del to
 
 Y una muchacha pelirroja de dieciocho años de cara con una espada de hierro negro a la espalda que no sabía nadar.
 
-Maren se quedó en el espigón. Como había dicho. Con el pelo blanco recogido con un trozo de cabo. No lloró. Levantó la mano. La tuvo levantada hasta que la *Iselde* dobló el cabo de la Punta y ya no se la veía.
+Maren se quedó en el espigón. Como había dicho. Con el pelo blanco recogido con un trozo de cabo. No lloró. Levantó la mano. La tuvo levantada hasta que la Iselde dobló el cabo de la Punta y ya no se la veía.
 
 El Emperador estuvo en la popa todo ese rato. Con la mano levantada también.
 
@@ -32,7 +32,7 @@ Luego se volvió. Y miró al este. Y no volvió a mirar atrás.
 
 El primer mes fue fácil.
 
-Viento del oeste, constante, de los que empujan. Mar tranquilo. Los barcos de Lindos se portaban como había dicho el maestro de Nix: como hojas. Hacían en un día lo que un barco de la colina hacía en tres. Los marineros cantaban. El cocinero orco hacía un guiso de pescado con algo que llamaba *hierba de las lomas* que todo el mundo odió la primera semana y nadie podía dejar de comer la segunda.
+Viento del oeste, constante, de los que empujan. Mar tranquilo. Los barcos de Lindos se portaban como había dicho el maestro de Nix: como hojas. Hacían en un día lo que un barco de la colina hacía en tres. Los marineros cantaban. El cocinero orco hacía un guiso de pescado con algo que llamaba hierba de las lomas que todo el mundo odió la primera semana y nadie podía dejar de comer la segunda.
 
 Érandiul escribía. No en el diario; en una tablilla de cera, con la izquierda, con la letra de niño. Lo que veía. Peces que volaban. Una ballena que acompañó a la flota dos días y luego se fue. Una tormenta pequeña. El color del agua, que cambiaba según la hora, y que él apuntaba con palabras élficas que no tenían traducción.
 
@@ -46,11 +46,11 @@ El segundo mes empezaron las tormentas.
 
 No las pequeñas. Las otras. Las que vienen del sur sin avisar, con el cielo verde, y levantan olas como colinas, y hacen que un barco grande como una ballena se ponga de pie sobre la popa y luego caiga de cara contra el agua con un ruido de puerta enorme.
 
-La primera duró tres días. La *Garza Grande* perdió el palo mayor. Murieron cuatro hombres: dos se cayeron por la borda, uno se rompió la cabeza contra un cabrestante, uno se ahogó en la bodega cuando entró el agua por una escotilla mal cerrada.
+La primera duró tres días. La Garza Grande perdió el palo mayor. Murieron cuatro hombres: dos se cayeron por la borda, uno se rompió la cabeza contra un cabrestante, uno se ahogó en la bodega cuando entró el agua por una escotilla mal cerrada.
 
 Los enterraron en el mar.
 
-El Emperador leyó los nombres. En la cubierta de la *Iselde*, con los otros cinco barcos alrededor, con las velas a medio arriar, con el mar todavía picado. Cuatro nombres. Despacio.
+El Emperador leyó los nombres. En la cubierta de la Iselde, con los otros cinco barcos alrededor, con las velas a medio arriar, con el mar todavía picado. Cuatro nombres. Despacio.
 
 Luego miró a Lanther.
 
@@ -66,7 +66,7 @@ La segunda tormenta duró seis días.
 
 La tercera, nueve.
 
-Después de la tercera, la flota se había separado. La *Tozuda Tercera* no aparecía. La buscaron dos días. La encontraron al tercero, a la deriva, con la vela rota y la tripulación entera achicando agua con cubos. La remolcaron. Los enanos de la *Iselde* pasaron a bordo, oyeron la madera con la oreja pegada al casco, encontraron la vía de agua y la taparon con brea y cuero y una canción.
+Después de la tercera, la flota se había separado. La Tozuda Tercera no aparecía. La buscaron dos días. La encontraron al tercero, a la deriva, con la vela rota y la tripulación entera achicando agua con cubos. La remolcaron. Los enanos de la Iselde pasaron a bordo, oyeron la madera con la oreja pegada al casco, encontraron la vía de agua y la taparon con brea y cuero y una canción.
 
 Murieron once en total. Hasta el tercer mes.
 
@@ -90,9 +90,9 @@ Y los hombres empezaron a mirarse.
 
 Al cuarto mes, se lo dijeron.
 
-No los marineros. Los capitanes. Los seis. Subieron a la *Iselde* una mañana, en los botes, con la cara de los que han pasado la noche hablando. Se pusieron delante del Emperador en la cubierta.
+No los marineros. Los capitanes. Los seis. Subieron a la Iselde una mañana, en los botes, con la cara de los que han pasado la noche hablando. Se pusieron delante del Emperador en la cubierta.
 
-El de la *Brena* habló por todos. Era un hombre de Nix, de cincuenta años, que se llamaba Ferrán y que había navegado toda su vida.
+El de la Brena habló por todos. Era un hombre de Nix, de cincuenta años, que se llamaba Ferrán y que había navegado toda su vida.
 
 —Majestad —dijo—. Queda agua para cuarenta días. Si nos damos la vuelta hoy, con este viento, que no hay, y con los cristales, que se cansan, llegamos a Nix en sesenta. Si llegamos.
 
@@ -138,11 +138,11 @@ El Emperador se quitó el arpa de la espalda.
 
 La sostuvo en las manos. Sin cuerdas.
 
-—Mi padre me dio esto —dijo— y me dijo *ve*. —La miró—. No me dijo *vuelve*. Me dijo *ve*. —Levantó la vista—. Yo no os voy a decir *ve*. No tengo derecho. Tenéis mujeres en Nix, hijos, madres. Yo también. Tengo una mujer en el espigón que no ha bajado la mano.
+—Mi padre me dio esto —dijo— y me dijo ve. —La miró—. No me dijo vuelve. Me dijo ve. —Levantó la vista—. Yo no os voy a decir ve. No tengo derecho. Tenéis mujeres en Nix, hijos, madres. Yo también. Tengo una mujer en el espigón que no ha bajado la mano.
 
 Le temblaba la voz.
 
-—Os voy a decir lo que voy a hacer yo —dijo—. Voy a seguir veinte días. Veinte. Ni uno más. Con la *Iselde*. Con los que quieran venir. Y los demás barcos pueden darse la vuelta hoy, con toda el agua que necesiten, que les damos de la nuestra. —Se puso el arpa a la espalda otra vez—. Si en veinte días no hay tierra, me doy la vuelta. Como el padre de ella. Y me arrepentiré toda la vida, como él. Y será poca vida, porque no llegaré.
+—Os voy a decir lo que voy a hacer yo —dijo—. Voy a seguir veinte días. Veinte. Ni uno más. Con la Iselde. Con los que quieran venir. Y los demás barcos pueden darse la vuelta hoy, con toda el agua que necesiten, que les damos de la nuestra. —Se puso el arpa a la espalda otra vez—. Si en veinte días no hay tierra, me doy la vuelta. Como el padre de ella. Y me arrepentiré toda la vida, como él. Y será poca vida, porque no llegaré.
 
 ---
 
@@ -160,17 +160,17 @@ Grum subió. Se puso en la cubierta. Era enorme, gris, con los colmillos limados
 
 Se volvió a la cocina.
 
-Ferrán, el capitán de la *Brena*, se rio. Sin querer. Se tapó la boca.
+Ferrán, el capitán de la Brena, se rio. Sin querer. Se tapó la boca.
 
 Luego se quitó el gorro.
 
-—La *Brena* se queda —dijo—. Si el guiso aguanta.
+—La Brena se queda —dijo—. Si el guiso aguanta.
 
 ---
 
 Se quedaron los seis.
 
-No todos los hombres. Ciento treinta pidieron volver. El Emperador les dio la *Garza Grande*, la del palo mayor roto, que habían arreglado con un palo de repuesto, y agua para setenta días, y los mejores gnomos. Se fueron al oeste una mañana sin viento, con los cristales zumbando. La flota los vio irse.
+No todos los hombres. Ciento treinta pidieron volver. El Emperador les dio la Garza Grande, la del palo mayor roto, que habían arreglado con un palo de repuesto, y agua para setenta días, y los mejores gnomos. Se fueron al oeste una mañana sin viento, con los cristales zumbando. La flota los vio irse.
 
 Nadie les dijo nada. Nadie los llamó cobardes. El Emperador no dejó.
 
@@ -180,7 +180,7 @@ Quedaron cinco barcos.
 
 ---
 
-Esa noche, Lanther subió a la cofa de la *Iselde*.
+Esa noche, Lanther subió a la cofa de la Iselde.
 
 No sabía por qué. No había subido nunca. Le daba miedo la altura, no tanto como el agua, pero le daba. Subió por los obenques, despacio, con la espada a la espalda, contando los peldaños de cuerda como contaba los escalones de las torres.
 
@@ -218,7 +218,7 @@ Y en ese momento, en el este, en el horizonte, donde no había nada, hubo algo.
 
 Un pájaro.
 
-Blanco. Grande. Volando bajo, rozando el agua. Hacia el oeste. Hacia ellos. Pasó por encima de la *Iselde*, por encima de la cofa, a dos varas de la cabeza de Lanther. Lanther lo vio bien. Tenía las patas manchadas de barro.
+Blanco. Grande. Volando bajo, rozando el agua. Hacia el oeste. Hacia ellos. Pasó por encima de la Iselde, por encima de la cofa, a dos varas de la cabeza de Lanther. Lanther lo vio bien. Tenía las patas manchadas de barro.
 
 Barro.
 
@@ -234,9 +234,9 @@ Luego, más alto:
 
 ---
 
-No había tierra. No esa noche. Ni la siguiente. Pasaron nueve días más. Los barriles olían a muerto. El cocinero orco hizo el guiso con agua de mar y algo que llamaba *paciencia* y que era cebolla podrida.
+No había tierra. No esa noche. Ni la siguiente. Pasaron nueve días más. Los barriles olían a muerto. El cocinero orco hizo el guiso con agua de mar y algo que llamaba paciencia y que era cebolla podrida.
 
-El día nueve, al alba, el vigía de la *Brena* gritó.
+El día nueve, al alba, el vigía de la Brena gritó.
 
 No era un continente. Era poco. Tres manchas. Pequeñas. Marrones. Muy juntas, encima de una raya de arena baja que apenas salía del agua.
 
@@ -246,7 +246,7 @@ En la del medio había algo verde.
 
 Palmeras.
 
-Y donde hay palmeras, dijo el enano más viejo de la *Iselde*, con la voz rota, con la oreja pegada a la borda como si pudiera oír la isla desde allí, hay agua.
+Y donde hay palmeras, dijo el enano más viejo de la Iselde, con la voz rota, con la oreja pegada a la borda como si pudiera oír la isla desde allí, hay agua.
 
 ---
 
@@ -260,4 +260,4 @@ No escribió. Todavía no. Se quedó mirando la costa del oasis con el diario ab
 
 Y luego, sin que nadie se lo pidiera, se quitó el sombrero.
 
-Para el sol. Para las islas. Para un rey que había dicho *veinte días* y había aguantado veintinueve.
+Para el sol. Para las islas. Para un rey que había dicho veinte días y había aguantado veintinueve.

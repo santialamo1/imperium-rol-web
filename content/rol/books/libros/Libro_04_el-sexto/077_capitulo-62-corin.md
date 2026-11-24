@@ -14,7 +14,7 @@ Lo notaba desde el invierno del 1416. Desde la noche de la primera nevada, en la
 
 Desde entonces, cada mes, un poco más.
 
-No le había dicho nada a nadie. A Imane no. A la mujer de abajo, la vieja de la Orden, la de la cara de treinta y uno, sí; ella le había preguntado, una tarde, en la puerta del horno, *¿te cansas?*, y él había dicho que sí, y ella había asentido y no había dicho nada más. Como quien ya lo sabe.
+No le había dicho nada a nadie. A Imane no. A la mujer de abajo, la vieja de la Orden, la de la cara de treinta y uno, sí; ella le había preguntado, una tarde, en la puerta del horno, ¿te cansas?, y él había dicho que sí, y ella había asentido y no había dicho nada más. Como quien ya lo sabe.
 
 ---
 
@@ -66,7 +66,7 @@ Más grande. Mucho más. Con el pelo blanco, trenzado. Con un brazo lleno de cic
 
 Estaba quieto. Mirando hacia la plaza de la biblioteca, desde donde venía el humo.
 
-Corin lo había visto una vez. Hacía muchos años. De chico, en el 1380, desde el tejado, en uno de los ataques: un orco grande, de pelo negro todavía, en la playa, de pie entre los muertos, mirando la colina. Su padre le había dicho que era el general. *El que no* *se va nunca.*
+Corin lo había visto una vez. Hacía muchos años. De chico, en el 1380, desde el tejado, en uno de los ataques: un orco grande, de pelo negro todavía, en la playa, de pie entre los muertos, mirando la colina. Su padre le había dicho que era el general. El que no se va nunca.
 
 Ahora tenía el pelo blanco.
 
@@ -176,7 +176,7 @@ La puso en la mesa, delante de Imane.
 
 Imane lo miró sin entender.
 
-—Dijo: *para él. Para cuando vuelva.*
+*—Dijo: para él. Para cuando vuelva.*
 
 —¿Para quién?
 

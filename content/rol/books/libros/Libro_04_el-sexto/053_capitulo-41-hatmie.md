@@ -1,6 +1,6 @@
 # Capítulo 41 · Hatmie
 
-*Las montañas rojas, al oeste de Ullathorpe. Verano del año 1320 de la Nueva Era* *(713 D.bA).*
+*Las montañas rojas, al oeste de Ullathorpe. Verano del año 1320 de la Nueva Era (713 D.bA).*
 
 Los carros de los Ruald salían de Rinkel los lunes, con la primera luz, y llegaban a las minas de las montañas rojas el viernes por la tarde.
 
@@ -70,7 +70,7 @@ La pelirroja no abrió los ojos.
 
 El páramo fue como dijo Bruno.
 
-Cinco días. Arena en los dientes, en las orejas, en la llave del pecho, que se le puso caliente por primera vez en sesenta años y le dejó una marca roja en la piel. Diez carros, treinta mulos, veinte hombres, dos mujeres que guisaban, un perro. Y Hatmie, sentada encima de los sacos vacíos del tercer carro, con un sombrero de paja de Tibbet —el ciento cuarenta y uno, que le había mandado él por correo desde el Fuerte cuando se enteró del viaje, con una nota: *Para el sol. No para la arena. Para la arena no hay sombrero.*— tapándole la cara.
+Cinco días. Arena en los dientes, en las orejas, en la llave del pecho, que se le puso caliente por primera vez en sesenta años y le dejó una marca roja en la piel. Diez carros, treinta mulos, veinte hombres, dos mujeres que guisaban, un perro. Y Hatmie, sentada encima de los sacos vacíos del tercer carro, con un sombrero de paja de Tibbet —el ciento cuarenta y uno, que le había mandado él por correo desde el Fuerte cuando se enteró del viaje, con una nota: Para el sol. No para la arena. Para la arena no hay sombrero.— tapándole la cara.
 
 Los carreteros no le hablaban. La miraban de lado. Por la noche, alrededor del fuego, se callaban cuando ella se sentaba.
 
@@ -124,7 +124,7 @@ Ulmo la miró. Luego miró a la montaña. Luego otra vez a ella.
 
 —¿Qué muro?
 
-—El de la colina. Hace *tum*.
+—El de la colina. Hace tum.
 
 Ulmo se quedó callado. Luego siguió empujando el carro.
 
@@ -252,7 +252,7 @@ Lanther lo abrió.
 
 Leyó la letra élfica en voz alta. Despacio.
 
-—*Séptima. Montañas rojas. 618. Uno. Un hombre de sal que se escapó del otro,* *del que escucha, y que no se quiere morir porque si se muere vuelve con él. Lo he dormido* *aquí, donde canta lo de abajo, para que no oiga la voz del otro. Es la última que hago. Me* *ha costado el nombre. No me acuerdo de cómo me llamo. Hay una más, que no he cantado* *yo, que guarda ella, y que no tiene que encontrar nadie. Ella sabe. Yo ya no.*
+*—Séptima. Montañas rojas. 618. Uno. Un hombre de sal que se escapó del otro, del que escucha, y que no se quiere morir porque si se muere vuelve con él. Lo he dormido aquí, donde canta lo de abajo, para que no oiga la voz del otro. Es la última que hago. Me ha costado el nombre. No me acuerdo de cómo me llamo. Hay una más, que no he cantado yo, que guarda ella, y que no tiene que encontrar nadie. Ella sabe. Yo ya no.*
 
 —Ella eres tú —dijo Hatmie.
 
@@ -268,7 +268,7 @@ Se quedó mucho rato mirándola.
 
 La pelirroja no contestó enseguida. Le temblaba la mano. La de la cicatriz.
 
-—Pone *Ya lo sé* —dijo.
+—Pone Ya lo sé —dijo.
 
 ---
 
@@ -318,7 +318,11 @@ Luego sacó la navaja de su abuela.
 
 Y debajo de la hache, en la viga, muy pequeño, rayó:
 
-*6. Hielo. Una que no quería mirar.* *7. Sal. Uno que no quería volver.* *8. No.*
+*6. Hielo. Una que no quería mirar.*
+
+*7. Sal. Uno que no quería volver.*
+
+*8. No.*
 
 Dejó la piedra blanca en el alféizar del cuarto. Al lado de la manzana.
 

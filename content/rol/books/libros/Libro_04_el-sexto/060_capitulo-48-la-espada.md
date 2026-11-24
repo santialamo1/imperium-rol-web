@@ -1,6 +1,6 @@
 # Capítulo 48 · La Espada
 
-*El Bosque Muerto, al norte de Wonder, en Rhagnark. Otoño del año 1400 de la* *Nueva Era (793 D.bA).*
+*El Bosque Muerto, al norte de Wonder, en Rhagnark. Otoño del año 1400 de la Nueva Era (793 D.bA).*
 
 No profetizo.
 
@@ -74,7 +74,7 @@ Ha venido solo. Ha andado tres semanas desde el oeste, desde la costa de enfrent
 
 Se llama Aelthar.
 
-Lo sé porque se lo dice a sí mismo. En voz alta. Muchas veces. *Aelthar. Aelthar.* *Me llamo Aelthar.* Como se dice uno el nombre cuando le da miedo olvidarlo.
+Lo sé porque se lo dice a sí mismo. En voz alta. Muchas veces. Aelthar. Aelthar. Me llamo Aelthar. Como se dice uno el nombre cuando le da miedo olvidarlo.
 
 ---
 
@@ -154,15 +154,15 @@ Luego dice, sin levantar la cabeza:
 
 No contesto. No sé contestar.
 
-Pero si supiera, le diría: *No. Eso es lo que va a pasar si son como son.*
+Pero si supiera, le diría: No. Eso es lo que va a pasar si son como son.
 
-Y le diría también: *Casi nadie se tuerce.*
+Y le diría también: Casi nadie se tuerce.
 
 ---
 
 Se queda en el claro tres días.
 
-Sin comer. Sentado al lado de la raíz. Hablando solo. Repitiendo lo que vio, para no olvidarlo. *Una gnoma. Una puerta. Una sombra de una cocina. Una cabaña. Un balcón.* *Un fuego. Una mano dura como la roca.* Lo repite muchas veces. Cada vez un poco distinto. Cada vez un poco más roto.
+Sin comer. Sentado al lado de la raíz. Hablando solo. Repitiendo lo que vio, para no olvidarlo. Una gnoma. Una puerta. Una sombra de una cocina. Una cabaña. Un balcón. Un fuego. Una mano dura como la roca. Lo repite muchas veces. Cada vez un poco distinto. Cada vez un poco más roto.
 
 El tercer día dice algo nuevo.
 
@@ -190,7 +190,7 @@ La otra escucha. Es más joven. Está más cerca. Se ha metido en el latido de l
 
 La segunda ha oído lo que ha visto Aelthar.
 
-Ha oído *el sexto*.
+Ha oído el sexto.
 
 Y le ha gustado mucho.
 

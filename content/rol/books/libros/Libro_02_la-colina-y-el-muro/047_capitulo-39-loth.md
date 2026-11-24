@@ -10,7 +10,7 @@ La decía en voz alta, sentado en la alfombra raída de la tienda de piel de cab
 
 *Había una mujer.*
 
-A veces le salía un trozo más. *Me cantó.* A veces otro. *Me cogió de la mano.* Y entonces se quedaba quieto, con la boca abierta, esperando que viniera el siguiente, como se espera el siguiente golpe de una ola. Y no venía. Y se quedaba con la frase colgando, como una cuerda cortada.
+A veces le salía un trozo más. Me cantó. A veces otro. Me cogió de la mano. Y entonces se quedaba quieto, con la boca abierta, esperando que viniera el siguiente, como se espera el siguiente golpe de una ola. Y no venía. Y se quedaba con la frase colgando, como una cuerda cortada.
 
 Tardó un año en darse cuenta de que eran dos mujeres.
 
@@ -18,11 +18,11 @@ Tardó otro en darse cuenta de que no sabía cómo se llamaba él.
 
 ---
 
-Eso fue lo peor. Lo descubrió una noche sin buscarlo. El viejo le había preguntado algo —le preguntaba poco, y siempre cosas pequeñas, si quería agua, si tenía frío—, y en la pregunta había dicho *tú*, y Loth había pensado: *tú quién*.
+Eso fue lo peor. Lo descubrió una noche sin buscarlo. El viejo le había preguntado algo —le preguntaba poco, y siempre cosas pequeñas, si quería agua, si tenía frío—, y en la pregunta había dicho tú, y Loth había pensado: tú quién.
 
 Y había buscado.
 
-Tenía uno. El de fuera. Loth. Lo sabía porque el viejo lo llamaba así a veces, *Loth,* *el agua*, y porque lo había oído en muchas bocas, durante mucho tiempo, gritado con miedo, susurrado con odio, cantado en canciones de cuna para asustar a los niños. *Loth, el* *Padre de la Bruma.* Ese lo tenía. Le quedaba como un abrigo viejo.
+Tenía uno. El de fuera. Loth. Lo sabía porque el viejo lo llamaba así a veces, Loth, el agua, y porque lo había oído en muchas bocas, durante mucho tiempo, gritado con miedo, susurrado con odio, cantado en canciones de cuna para asustar a los niños. Loth, el Padre de la Bruma. Ese lo tenía. Le quedaba como un abrigo viejo.
 
 Pero debajo no había nada.
 
@@ -34,7 +34,7 @@ Pero él no se había ido.
 
 Él estaba aquí. En una tienda. Con un viejo. Sin nombre.
 
-*Un nombre que no se puede coger*, pensó, sin saber de dónde le venía la frase, *es un* *nombre del que no se puede tirar.*
+Un nombre que no se puede coger, pensó, sin saber de dónde le venía la frase, es un nombre del que no se puede tirar.
 
 Se rió. Por primera vez. Era una risa ronca, rota, que asustó al viejo.
 
@@ -44,9 +44,9 @@ Tampoco él podía tirar de sí mismo.
 
 ---
 
-El viejo se llamaba Yared. Eso lo supo en el tercer año, porque se lo preguntó, y el viejo se quedó un rato muy largo pensando, como si hiciera mucho tiempo que nadie le preguntaba, y luego lo dijo. *Yared. Hijo de Talia. Nieto de Neva. Tiberius, por mi padre.*
+El viejo se llamaba Yared. Eso lo supo en el tercer año, porque se lo preguntó, y el viejo se quedó un rato muy largo pensando, como si hiciera mucho tiempo que nadie le preguntaba, y luego lo dijo. Yared. Hijo de Talia. Nieto de Neva. Tiberius, por mi padre.
 
-*Tiberius.* Loth conocía ese nombre. Le sonaba a lobo. A brazalete de oro. A una mujer muerta en un nicho, con cardos secos.
+Tiberius. Loth conocía ese nombre. Le sonaba a lobo. A brazalete de oro. A una mujer muerta en un nicho, con cardos secos.
 
 Otro trozo.
 
@@ -66,7 +66,7 @@ Yared asintió. Miró el hueco.
 
 Loth lo miró.
 
-Y por primera vez desde que salió de la sal sintió algo que conocía. Lo reconoció enseguida, como se reconoce el olor de la casa de uno al entrar después de un viaje. Una mano que se levanta sola. Un tirón. Un gesto de toda la vida. *No dejar que se vaya.*
+Y por primera vez desde que salió de la sal sintió algo que conocía. Lo reconoció enseguida, como se reconoce el olor de la casa de uno al entrar después de un viaje. Una mano que se levanta sola. Un tirón. Un gesto de toda la vida. No dejar que se vaya.
 
 Podía hacerlo. No con el nombre; el de Yared no lo sabía. Pero podía. Siempre había podido. Tenía las manos para eso. Podía cogerlo cuando se fuera, cuando saliera de él el hilo gris, y retenerlo, y tenerlo allí, sentado en su alfombra, mirando el hueco, para siempre. Un muerto quieto. Con nombre. Como los doscientos mil de las cubiertas.
 
@@ -76,7 +76,7 @@ Y se le paró en el aire.
 
 *No tires.*
 
-No sabía quién lo decía. Una voz de mujer. No de las dos que le faltaban; de otra. Más vieja. De una tienda como esta, de una arena como esta, hacía mucho, muchísimo. *Vuelve pronto. Y no tires tanto.*
+No sabía quién lo decía. Una voz de mujer. No de las dos que le faltaban; de otra. Más vieja. De una tienda como esta, de una arena como esta, hacía mucho, muchísimo. Vuelve pronto. Y no tires tanto.
 
 Bajó la mano.
 
@@ -110,7 +110,7 @@ No sabía cómo se llamaba lo que había hecho. Pero sabía que era lo contrario
 
 Se quedó en la tienda rota veinte años más. Solo. Junto al pozo. Mirando el agujero del techo. No contaba los días; había dejado de contar con Casimir. Sabía que pasaban porque la niebla se aclaraba y se oscurecía, y porque a veces llegaban caravanas de los clanes libres, de lejos, y lo miraban desde las dunas sin acercarse, y se iban.
 
-*Me cantó*, pensó. *Había una mujer. Me cantó, y yo me dormí, y cuando me desperté* *había un agujero en el techo.*
+*Me cantó, pensó. Había una mujer. Me cantó, y yo me dormí, y cuando me desperté había un agujero en el techo.*
 
 ---
 
@@ -136,7 +136,7 @@ Bajó por la escalera de caracol. La conocía. La había bajado una noche, hací
 
 *Hola, sobrino.*
 
-Otro trozo. Le vino tan de golpe que se tuvo que apoyar en la pared. Un muchacho en una cama, viejo, flaco, con los ojos blancos. Una mano en el pecho. *Tío. Has tardado.*
+Otro trozo. Le vino tan de golpe que se tuvo que apoyar en la pared. Un muchacho en una cama, viejo, flaco, con los ojos blancos. Una mano en el pecho. Tío. Has tardado.
 
 Siguió bajando.
 
@@ -144,7 +144,7 @@ En la cripta estaban los nichos. Muchos. Con nombres en piedra. Y uno sin nombre
 
 Los cardos estaban secos. Del todo. Hechos polvo, casi. Llevaban treinta años sin que nadie los cambiara.
 
-*El viejo de las cuentas.* Otro trozo. *Se quedó en la colina sumando.*
+*El viejo de las cuentas. Otro trozo. Se quedó en la colina sumando.*
 
 Y entre los cardos, en el polvo, una jarra.
 
@@ -154,7 +154,7 @@ Sana.
 
 Loth se arrodilló delante del nicho. No la tocó. La miró. Latía. Muy despacio. Como late algo que duerme y no tiene prisa por despertar.
 
-*La séptima*, pensó. *La dejé aquí. No supe por qué. Para tener algo que volver a* *buscar.*
+*La séptima, pensó. La dejé aquí. No supe por qué. Para tener algo que volver a buscar.*
 
 La había vuelto a buscar.
 
@@ -166,11 +166,19 @@ Se quedó en Concordia dos años. En la cripta, casi siempre. Sentado en el suel
 
 Le venían trozos.
 
-Una tienda en el desierto. Una cuna volcada. Una niña con una mata de pelo negro que le agarraba un dedo. *Anwe.* Eso le vino entero, un día, de golpe, y se echó a llorar en la cripta, a gritos, como no había llorado en cuatrocientos años. *Anwe. La que respira.* Su hija. Se la llevó la bruma. Era una deuda.
+Una tienda en el desierto. Una cuna volcada. Una niña con una mata de pelo negro que le agarraba un dedo. Anwe. Eso le vino entero, un día, de golpe, y se echó a llorar en la cripta, a gritos, como no había llorado en cuatrocientos años. Anwe. La que respira. Su hija. Se la llevó la bruma. Era una deuda.
 
-Y luego otro trozo, encima del primero, como una hoja que cae encima de otra en un charco. Una mujer en una playa, en la Noche del Dolor, de pie entre braseros. Rubia. De ojos grises. Que se volvió cuando él dijo *Anwe*. Que no era su hija.
+Y luego otro trozo, encima del primero, como una hoja que cae encima de otra en un charco. Una mujer en una playa, en la Noche del Dolor, de pie entre braseros. Rubia. De ojos grises. Que se volvió cuando él dijo Anwe. Que no era su hija.
 
-*Le pusieron ese nombre. Un hombre que hablaba con los muertos. Para protegerla.* *Y yo creí…* *Creí que me la devolvían.* *Me mintieron.* *No.* *Me mentí.*
+*Le pusieron ese nombre. Un hombre que hablaba con los muertos. Para protegerla. Y yo creí…*
+
+*Creí que me la devolvían.*
+
+*Me mintieron.*
+
+*No.*
+
+*Me mentí.*
 
 ---
 
@@ -178,11 +186,11 @@ La otra tardó más.
 
 La que le cogió la mano. La de la arena. La del velo.
 
-Le venía a trozos tan pequeños que no los podía juntar. Una mano fría, de sal, encima de la suya, en una cubierta. Una voz que cruje. *Seren.* Un nombre, eso sí. Ese lo tenía. Ese no lo había usado nadie, o lo había usado alguien con amor y por eso estaba todavía allí, como una piedra en el fondo de un río que el agua no se ha llevado. *Seren.*
+Le venía a trozos tan pequeños que no los podía juntar. Una mano fría, de sal, encima de la suya, en una cubierta. Una voz que cruje. Seren. Un nombre, eso sí. Ese lo tenía. Ese no lo había usado nadie, o lo había usado alguien con amor y por eso estaba todavía allí, como una piedra en el fondo de un río que el agua no se ha llevado. Seren.
 
 Pero no le venía la cara.
 
-Se pasaba los días intentándolo. En la cripta. Con los ojos cerrados. *Seren.* Y le venía un velo. Una figura alta, de sal, de pie en el fondo de una cueva. Una mano. Pero no la cara.
+Se pasaba los días intentándolo. En la cripta. Con los ojos cerrados. Seren. Y le venía un velo. Una figura alta, de sal, de pie en el fondo de una cueva. Una mano. Pero no la cara.
 
 Hasta que un día, en el segundo año, le vino otra cosa.
 
@@ -216,7 +224,7 @@ Ahora, en la cripta, debajo de la torre, debajo del clavo, le habló.
 
 Loth se incorporó en el suelo.
 
-*Más deprisa. Está ahí. Lo noto. Al otro lado del mar. La otra mitad. Lo noto. Hay* *un trozo mío allí. Uno pequeño. Cerca de ella. Debajo de un muchacho de sal. Lo noto.* *Ve. Tráelo. Más deprisa.*
+*Más deprisa. Está ahí. Lo noto. Al otro lado del mar. La otra mitad. Lo noto. Hay un trozo mío allí. Uno pequeño. Cerca de ella. Debajo de un muchacho de sal. Lo noto. Ve. Tráelo. Más deprisa.*
 
 Loth no se movió.
 
@@ -234,7 +242,7 @@ Loth se quedó quieto en el suelo de la cripta.
 
 Y le vino otro trozo. El último de ese año. El más afilado.
 
-Una mujer rubia, de ojos grises, en un valle negro. Con las manos en su cara. Diciéndole, muy bajito, para que no lo oyera nadie más: *Nunca te prometió a tu hija. Te* *prometió su otra mitad. «Anwe» con el punto encima. Lo que volverá. No ella. Él.*
+Una mujer rubia, de ojos grises, en un valle negro. Con las manos en su cara. Diciéndole, muy bajito, para que no lo oyera nadie más: Nunca te prometió a tu hija. Te prometió su otra mitad. «Anwe» con el punto encima. Lo que volverá. No ella. Él.
 
 —No —dijo Loth. En voz alta. A la piedra. Al clavo. A lo que latía debajo—. No me la prometiste a ella. Te prometiste a ti.
 

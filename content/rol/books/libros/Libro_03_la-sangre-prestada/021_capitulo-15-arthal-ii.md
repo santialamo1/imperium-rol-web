@@ -24,11 +24,11 @@ Luego, una raya entre los dos.
 
 Tres años después, la pared parecía la palma de una mano vieja.
 
-Rayas. Cientos. Unas gruesas, otras finas como pelos. Que salían del punto del noreste y se abrían hacia todos lados, como las raíces de un árbol arrancado. Hacia el este, hasta los acantilados. Hacia el sur, hasta un punto donde había escrito, con su letra de firmar, *roca roja*. Hacia el norte, hasta el borde de la pared, donde la cal se acababa. Y hacia el suroeste, hacia la colina.
+Rayas. Cientos. Unas gruesas, otras finas como pelos. Que salían del punto del noreste y se abrían hacia todos lados, como las raíces de un árbol arrancado. Hacia el este, hasta los acantilados. Hacia el sur, hasta un punto donde había escrito, con su letra de firmar, roca roja. Hacia el norte, hasta el borde de la pared, donde la cal se acababa. Y hacia el suroeste, hacia la colina.
 
 Las del suroeste eran las que más le preocupaban. Eran seis. Gruesas. Que avanzaban despacio, cada noche un poco, por debajo de las lomas. Y que llegaban, o casi, al punto de la colina.
 
-Una de ellas, la más gruesa, la había tachado él mismo en el 598. Con una equis. Debajo había escrito: *Aldric. Tapado.*
+Una de ellas, la más gruesa, la había tachado él mismo en el 598. Con una equis. Debajo había escrito: Aldric. Tapado.
 
 Las otras cinco no estaban tapadas.
 
@@ -46,7 +46,7 @@ Estaba de pie delante de la pared. Con los brazos cruzados. Había subido por la
 
 —La séptima. La de debajo. —Lanther no la tocó—. La que está desde siempre. Es la raíz que tocó Lucius.
 
-El Emperador no sabía quién era Lucius. Lo había leído en los cuadernos de Livia Heredicus, de niño: el primer rey ciego, el del año uno, el que se arrodilló en la playa la primera noche y puso la mano en la roca y dijo *aquí*. Un cuento. Lo sabían todos los niños de la colina.
+El Emperador no sabía quién era Lucius. Lo había leído en los cuadernos de Livia Heredicus, de niño: el primer rey ciego, el del año uno, el que se arrodilló en la playa la primera noche y puso la mano en la roca y dijo aquí. Un cuento. Lo sabían todos los niños de la colina.
 
 —¿Era verdad?
 
@@ -58,7 +58,7 @@ Esa tarde había Consejo.
 
 El Emperador llevaba tres años preparando ese Consejo. Desde la noche del arpa. Lo había ido preparando como se prepara una tarta de manzana: despacio, con ingredientes que se añaden uno a uno, y que no se ven hasta que está hecha.
 
-Había metido a la capitana general en el Consejo. A su tío Nimrath, que no hablaba pero votaba. Al gnomo del sombrero, que se llamaba Tibbet Tornasol y que había resultado ser, según los papeles del archivo, el mismo gnomo que había firmado como testigo la Triple Alianza en el 134. Había prohibido el hierro rojo. Había mandado a la Primera Compañía a las cuevas. Había pedido a los enanos de la ciudad-cueva que vinieran a cavar contraminas, y los enanos habían venido, doscientos, y no habían pedido nada a cambio, y cuando les preguntó por qué, el más viejo le dijo *por Kildo* y no le explicó quién era Kildo.
+Había metido a la capitana general en el Consejo. A su tío Nimrath, que no hablaba pero votaba. Al gnomo del sombrero, que se llamaba Tibbet Tornasol y que había resultado ser, según los papeles del archivo, el mismo gnomo que había firmado como testigo la Triple Alianza en el 134. Había prohibido el hierro rojo. Había mandado a la Primera Compañía a las cuevas. Había pedido a los enanos de la ciudad-cueva que vinieran a cavar contraminas, y los enanos habían venido, doscientos, y no habían pedido nada a cambio, y cuando les preguntó por qué, el más viejo le dijo por Kildo y no le explicó quién era Kildo.
 
 Y había esperado.
 
@@ -72,7 +72,7 @@ El Emperador se sentó en la cabecera. Con la funda del aro en el cinto.
 
 Alrededor de la mesa, once. El canciller, que ya no era Ostrander sino su nieto. La capitana general, que ya no era Rauna sino Joss Hask, sonriendo. Brena Hask, su hija, detrás de él, de pie, con la espada de su padre. Nimrath. Tibbet, con un sombrero de hojas de haya, el setenta y tres. Los del gremio. Y maese Corbel.
 
-Maese Corbel el joven tenía setenta y ocho años. Seguía llamándose *el joven* porque su padre había vivido mucho y nadie se había acostumbrado. Era enorme, rosado, amable. Tenía la notaría del gremio, los almacenes del puerto, la mitad de las casas de la calle de los Herreros y un asiento en el Consejo desde el 551.
+Maese Corbel el joven tenía setenta y ocho años. Seguía llamándose el joven porque su padre había vivido mucho y nadie se había acostumbrado. Era enorme, rosado, amable. Tenía la notaría del gremio, los almacenes del puerto, la mitad de las casas de la calle de los Herreros y un asiento en el Consejo desde el 551.
 
 Era el hombre más rico de la colina. Lo había hecho con hierro rojo.
 
@@ -184,7 +184,7 @@ El Emperador la miró. Las orejas hacia delante.
 
 Tres años.
 
-El Emperador lo apuntó en un papel. *Año 606.* Lo dobló. Se lo guardó en la funda del aro, al lado del hierro.
+El Emperador lo apuntó en un papel. Año 606. Lo dobló. Se lo guardó en la funda del aro, al lado del hierro.
 
 Se levantó la sesión.
 
@@ -250,7 +250,7 @@ El Emperador no contestó.
 
 Érandiul dejó la taza. Miró la pizarra en blanco. El borrón.
 
-—Yo le puse nombre —dijo—. A él y a los suyos. *Drow.* El que mira hacia abajo. Lo hice porque había que hacerlo. Pero un nombre no es un sitio, majestad. Es una dirección. Uno puede darse la vuelta.
+—Yo le puse nombre —dijo—. A él y a los suyos. Drow. El que mira hacia abajo. Lo hice porque había que hacerlo. Pero un nombre no es un sitio, majestad. Es una dirección. Uno puede darse la vuelta.
 
 —¿Y si no puede?
 

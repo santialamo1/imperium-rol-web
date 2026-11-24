@@ -1,6 +1,6 @@
 # Capítulo 69 · Lanther
 
-*La ladera norte de la colina de Banderbill, delante de la puerta del muro de dentro.* *Mediodía y tarde del año 892 de la Nueva Era (285 D.bA).*
+*La ladera norte de la colina de Banderbill, delante de la puerta del muro de dentro. Mediodía y tarde del año 892 de la Nueva Era (285 D.bA).*
 
 Arriba había un cielo de primavera, azul, con dos nubes pequeñas que se movían hacia el este, y un pájaro.
 
@@ -12,7 +12,7 @@ Lanther miró la golondrina mucho rato.
 
 Pensó en su hermano.
 
-No en el de sal. En el de antes. En el muchacho de diecisiete años, con la mandíbula cuadrada y los ojos grises, que en el año veintinueve, en un valle negro, con el suelo temblando, le había dicho *yo bajo*. Y le había puesto la mano en la boca. Y le había soplado en la cara. Y había dicho su nombre. *Lanther.* Y había bajado.
+No en el de sal. En el de antes. En el muchacho de diecisiete años, con la mandíbula cuadrada y los ojos grises, que en el año veintinueve, en un valle negro, con el suelo temblando, le había dicho yo bajo. Y le había puesto la mano en la boca. Y le había soplado en la cara. Y había dicho su nombre. Lanther. Y había bajado.
 
 Ochocientos sesenta y tres años.
 
@@ -52,7 +52,7 @@ Lanther no contestó.
 
 —No es lo mismo. Yo pregunto siempre.
 
-—Lo sé. —Lanther se cruzó de brazos—. Pero tú tienes una regla. Me la contó un general con manos de arpista. *El que pregunta tiene que contestar.* No dice nada de que el que contesta tenga que contestar. —Se encogió de hombros—. Así que no te contesto. Y ahora te pregunto yo.
+—Lo sé. —Lanther se cruzó de brazos—. Pero tú tienes una regla. Me la contó un general con manos de arpista. El que pregunta tiene que contestar. No dice nada de que el que contesta tenga que contestar. —Se encogió de hombros—. Así que no te contesto. Y ahora te pregunto yo.
 
 ---
 
@@ -140,7 +140,7 @@ Y ella levantó la cabeza. Y miró arriba. Y lo dijo entero. Como se dice a los 
 
 No fue una pelea.
 
-Bastián Vell lo escribió así, en el muro, deprisa, en la última hoja: *No fue una* *pelea.* Y lo subrayó.
+Bastián Vell lo escribió así, en el muro, deprisa, en la última hoja: No fue una pelea. Y lo subrayó.
 
 Fue otra cosa.
 
@@ -198,7 +198,7 @@ Otro.
 
 Lanther se miró la palma. Sangraba. No mucho.
 
-—Porque no era una pregunta —dijo—. Era una cuenta. Me has preguntado mil veces. Yo te he contestado una: *no*. Y hoy otra: *te oigo, vete*. —Se encogió de hombros—. Lo demás te lo debía. Por lo que te oí.
+—Porque no era una pregunta —dijo—. Era una cuenta. Me has preguntado mil veces. Yo te he contestado una: no. Y hoy otra: te oigo, vete. —Se encogió de hombros—. Lo demás te lo debía. Por lo que te oí.
 
 —Eso no es…
 

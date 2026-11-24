@@ -20,11 +20,11 @@ La oyó por primera vez en el borde de la bruma, a la salida de Sahr-Ennet, mien
 
 Aquella noche, mientras Imra entraba en el gris de la mano de otra Madre, sin llorar, porque no entendía, Sahra oyó la voz.
 
-*Qué desperdicio*, dijo.
+Qué desperdicio, dijo.
 
 Sahra se quedó helada.
 
-*Tanto aliento*, dijo la voz. *Tan joven. Tan limpio. Y se lo dais a la bruma, que lo* *derrama como agua en la arena. La bruma no es nada. La bruma es una boca que no sabe* *a quién le da de comer.*
+*Tanto aliento, dijo la voz. Tan joven. Tan limpio. Y se lo dais a la bruma, que lo derrama como agua en la arena. La bruma no es nada. La bruma es una boca que no sabe a quién le da de comer.*
 
 —¿Quién eres? —susurró Sahra.
 
@@ -42,7 +42,7 @@ El posadero se puso pálido.
 
 Sahra no contestó. No podía decirle que lo sabía porque la voz se lo había contado, durante cuarenta noches de camino, como se le cuenta un cuento a una niña antes de dormir. Que la voz le había hablado de una muchacha de once años en un castillo de piedra gris colgado sobre un desfiladero, y de un tío que entraba en su alcoba en las noches de invierno, y de un cuchillo de cocina, y de un viejo emperador cojo que la miraba entrenar cada mañana en el patio de armas y que por las tardes jugaba con ella al tablero de los tres reyes. Que la voz conocía a aquella mujer mejor que nadie en el mundo, porque la voz conocía a todos los que alguna vez habían deseado algo con tanta fuerza que les dolía.
 
-*Ella quiere*, le había dicho la voz. *Quiere más que nadie. Dale lo que quiere.*
+Ella quiere, le había dicho la voz. Quiere más que nadie. Dale lo que quiere.
 
 —Dile que ha venido una Madre de Eufesia —dijo Sahra—. Que trae algo para ella. Y que el viejo de la torre se muere.
 
@@ -136,7 +136,7 @@ No se lo bebió. Todavía no. Lo guardó en su arcón, en el barracón de la Gua
 
 Sahra se marchó al día siguiente hacia el este, de vuelta al desierto, a preparar más.
 
-Hector Tiberius dictó el decreto de la sucesión el primer día del invierno del año setenta y dos. *Que la fuerza elija.* Murió tres días después. En la plaza de Concordia se abrieron las listas de combatientes.
+Hector Tiberius dictó el decreto de la sucesión el primer día del invierno del año setenta y dos. Que la fuerza elija. Murió tres días después. En la plaza de Concordia se abrieron las listas de combatientes.
 
 Genieveve de Leogrand fue la primera en inscribirse.
 

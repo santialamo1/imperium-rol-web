@@ -1,6 +1,6 @@
 # Capítulo 55 · Migyur
 
-*Las cuevas de sal del glaciar de Kûr, en Annkör. Invierno del año 822 de la Nueva* *Era (215 D.bA).*
+*Las cuevas de sal del glaciar de Kûr, en Annkör. Invierno del año 822 de la Nueva Era (215 D.bA).*
 
 Hambre.
 
@@ -20,7 +20,7 @@ Ahora tenía hambre.
 
 No tenía nombre. Los de su manada no tenían nombres. Tenían olores. El suyo era a nieve de la mañana y a leche todavía, porque era joven, un invierno solo, la cabeza a la altura del pecho de la madre.
 
-El nombre se lo pondrían otros. Más tarde. Los pequeños de pelo en la cara. Y querría decir *el que se lo tragó*.
+El nombre se lo pondrían otros. Más tarde. Los pequeños de pelo en la cara. Y querría decir el que se lo tragó.
 
 Todavía no se lo había tragado.
 
@@ -256,7 +256,7 @@ Dalbur se quedó mirándolas mucho rato.
 
 Luego se lo contó al elfo viejo. El elfo viejo lo apuntó. No en el diario. En una hoja aparte. Para la pelirroja.
 
-*Huellas de una cría de yeti. Hacia la grieta del glaciar viejo. Más hondas en el* *centro. Dalbur dice que lo miraban. Dalbur dice que no oye el latido. Que lo que lo* *miraba, sí.*
+*Huellas de una cría de yeti. Hacia la grieta del glaciar viejo. Más hondas en el centro. Dalbur dice que lo miraban. Dalbur dice que no oye el latido. Que lo que lo miraba, sí.*
 
 ---
 

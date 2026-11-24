@@ -16,7 +16,7 @@ Desde la noche de la cueva. Desde que la voz de abajo le había dado un cuerpo n
 
 No olía a nada.
 
-Eso era lo peor. Pim se acordaba de oler. De cuando era Pim Hennek, un muchacho de Puerto Salobre, y olía la brea de las barcas y el pan de su madre y el pelo de una niña pelirroja que bajaba a la playa con las redes al hombro. Se acordaba del olor de las cosas. Pero no lo tenía. Tenía la palabra *olor*, y la palabra no olía.
+Eso era lo peor. Pim se acordaba de oler. De cuando era Pim Hennek, un muchacho de Puerto Salobre, y olía la brea de las barcas y el pan de su madre y el pelo de una niña pelirroja que bajaba a la playa con las redes al hombro. Se acordaba del olor de las cosas. Pero no lo tenía. Tenía la palabra olor, y la palabra no olía.
 
 En las salinas daba igual. Allí no olía a nada para nadie.
 
@@ -32,7 +32,7 @@ Había estado veintitrés años. Viendo lo que hacía el de gris. Cómo plantaba
 
 Y cómo, cada vez que pasaba al lado de Pim, se paraba un momento. Y lo miraba. Con curiosidad. Como se mira una cosa rara.
 
-*Me pediste que me fuera*, le había dicho una vez. *En Arghâl. Nadie me lo había* *pedido nunca. Lo guardo.*
+Me pediste que me fuera, le había dicho una vez. En Arghâl. Nadie me lo había pedido nunca. Lo guardo.
 
 En el 630, Pim se fue.
 
@@ -266,7 +266,7 @@ Porque el papel le contó todo. Un muchacho de Puerto Salobre. Una madre con una
 
 Y una cosa más, al final. En la última línea. Que no se leía con los ojos. Que se oía con el dedo.
 
-No era *te oigo, vete*.
+No era te oigo, vete.
 
 Era lo que Pim no había escrito. Lo que había pensado mientras escribía la última línea.
 

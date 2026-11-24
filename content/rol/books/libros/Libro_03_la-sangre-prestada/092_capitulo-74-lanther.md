@@ -80,7 +80,7 @@ Y debajo de ese, como siempre, como en todos, el otro. El de siempre. El del mur
 
 Salió el médico. Elfo, de Nix, el mismo de las dos veces. Con la cara.
 
-No con *la* cara. Con otra.
+No con la cara. Con otra.
 
 —Un varón —dijo—. Sano. Grita mucho. —Y luego, más bajo, mirando a Larath —: La madre, bien. Cansada. Bien.
 
@@ -238,7 +238,7 @@ Había escrito.
 
 Lanther se acercó. Leyó.
 
-*Larath ha concebido a su primer hijo, Astragal. El nombre de su sucesor se debe* *en honor a su padre, Astral, y al de su abuelo, Asgal.*
+*Larath ha concebido a su primer hijo, Astragal. El nombre de su sucesor se debe en honor a su padre, Astral, y al de su abuelo, Asgal.*
 
 ---
 
@@ -248,7 +248,7 @@ Lanther lo leyó otra vez.
 
 El padre de Larath. El abuelo de Larath. Bien escritos. En su sitio. Con sus nombres. Por primera vez desde el 907, en el diario, Astral estaba donde tenía que estar: delante de Asgal. Hijo de Asgal. Padre de Larath.
 
-Y dos hojas más atrás, en la del 952, seguía el error. *La muerte de Asgal ha sido* *anunciada.* Sin tachar.
+Y dos hojas más atrás, en la del 952, seguía el error. La muerte de Asgal ha sido anunciada. Sin tachar.
 
 Lanther miró al elfo viejo.
 
@@ -262,7 +262,7 @@ Lanther miró al elfo viejo.
 
 Lanther asintió.
 
-—Y además —dijo Érandiul—, *primer*. He puesto *primer hijo*. —Cerró los ojos—. No sé si habrá segundo. Nadie lo sabe. Pero lo he puesto. Para que esté. Por si acaso. — Sonrió con media boca—. Es lo único que he escrito en mil años que no sabía si era verdad.
+—Y además —dijo Érandiul—, primer. He puesto primer hijo. —Cerró los ojos—. No sé si habrá segundo. Nadie lo sabe. Pero lo he puesto. Para que esté. Por si acaso. — Sonrió con media boca—. Es lo único que he escrito en mil años que no sabía si era verdad.
 
 ---
 
@@ -274,11 +274,11 @@ La caja era de hierro negro. Pesaba. Dentro, envuelto en piel de foca, había un
 
 Y una nota. En letra de enano, que es como de clavos.
 
-*Para el niño. Cuando tenga brazos. Es lo que hay dentro de un escudo antes de que* *sea escudo. Que le pongan lo que quiera encima. Dalbur.*
+*Para el niño. Cuando tenga brazos. Es lo que hay dentro de un escudo antes de que sea escudo. Que le pongan lo que quiera encima. Dalbur.*
 
 Y debajo, otra letra. Más torcida. De hombre.
 
-*Lo que duerme ha abierto un ojo esta noche. Un momento. Y lo ha vuelto a cerrar.* *Como si escuchara algo. Ilan Hask.*
+*Lo que duerme ha abierto un ojo esta noche. Un momento. Y lo ha vuelto a cerrar. Como si escuchara algo. Ilan Hask.*
 
 ---
 

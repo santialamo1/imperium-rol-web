@@ -2,11 +2,7 @@
 
 *Banderbill, el Bosque Dorck y Nix. Año 417 de la Nueva Era.*
 
-*De la Crónica de Aren Vell, año 417. El Emperador tiene diecisiete años y las*
-
-*orejas de su madre. En la plaza alguien ha dicho «orejudo». Lo ha dicho bajito.*
-
-*El Emperador lo ha oído. Ha sonreído. Los elfos oyen todo.*
+*De la Crónica de Aren Vell, año 417. El Emperador tiene diecisiete años y las orejas de su madre. En la plaza alguien ha dicho «orejudo». Lo ha dicho bajito. El Emperador lo ha oído. Ha sonreído. Los elfos oyen todo.*
 
 Su padre se murió en marzo, de viejo, a los sesenta y ocho años, en la cama, con la ventana abierta para que entrara el ruido de la Armada entrenando en el valle, y lo último que le dijo a Arthal fue que fuera al lado.
 
@@ -32,7 +28,7 @@ La plaza lo miraba.
 
 No con cariño. Arthal lo sabía. Con curiosidad. Con desconfianza. Con un poco de miedo. Era el primero. El primero que no era del todo de la colina.
 
-Alguien dijo *orejudo*. Bajito. Al fondo.
+Alguien dijo orejudo. Bajito. Al fondo.
 
 Arthal lo oyó. Sonrió.
 
@@ -40,7 +36,7 @@ Y subió al pilón.
 
 ---
 
-—Me llamo Arthal —dijo—. En la lengua de mi madre quiere decir *el que sube*. En la de mi padre no quiere decir nada.
+—Me llamo Arthal —dijo—. En la lengua de mi madre quiere decir el que sube. En la de mi padre no quiere decir nada.
 
 Silencio.
 
@@ -148,9 +144,9 @@ Pero había una diferencia.
 
 Los de la Armada miraban hacia arriba.
 
-Se lo había enseñado Dalla. A todos. Los seis mil. En el valle de detrás de la colina, durante diecisiete años. *Antes de cada carga, se mira arriba. Un momento. Al cielo. Y se* *dice un nombre. Uno. El que sea. Hacia arriba. Y luego se baja la vista y se va.*
+Se lo había enseñado Dalla. A todos. Los seis mil. En el valle de detrás de la colina, durante diecisiete años. Antes de cada carga, se mira arriba. Un momento. Al cielo. Y se dice un nombre. Uno. El que sea. Hacia arriba. Y luego se baja la vista y se va.
 
-*¿Para qué?*, le había preguntado un recluta, el primer año.
+¿Para qué?, le había preguntado un recluta, el primer año.
 
 *Para que, si te mueres, sepas a dónde ir.*
 
@@ -202,7 +198,7 @@ Arthal lo cogió.
 
 Lo desdobló.
 
-Por un lado había una lista. *Panadería de Ruald, calle de los toneleros. Un pan por* *boca, cada dos días.*
+Por un lado había una lista. Panadería de Ruald, calle de los toneleros. Un pan por boca, cada dos días.
 
 Por el otro, un poema. Sobre una mujer que cosía un botón. Con el tercer verso tachado y reescrito encima con otra tinta. Con dos versos añadidos al final.
 
@@ -218,7 +214,7 @@ El orco dijo algo. En su lengua. Despacio. Una palabra. Mirando hacia arriba.
 
 Arthal no la entendió. Pero se la oyó a los gnomos después, a los que sabían algo de la lengua de los orcos, y los gnomos discutieron mucho, y al final dijeron que no tenía traducción. Que era una palabra nueva. Que no la habían oído nunca. Que la habría inventado él.
 
-Que más o menos quería decir *lo que se dice de los muertos mirando hacia arriba*.
+Que más o menos quería decir lo que se dice de los muertos mirando hacia arriba.
 
 ---
 

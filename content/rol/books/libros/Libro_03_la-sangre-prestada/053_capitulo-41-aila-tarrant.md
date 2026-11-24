@@ -1,6 +1,6 @@
 # Capítulo 41 · Aila Tarrant
 
-*La costa del nuevo continente. Primavera y verano del año 721 de la Nueva Era* *(114 D.bA).*
+*La costa del nuevo continente. Primavera y verano del año 721 de la Nueva Era (114 D.bA).*
 
 Lo primero que hizo Aila Tarrant en el nuevo continente fue caerse de culo en el barro, y lo segundo, reírse, y las dos cosas las vio el Emperador.
 
@@ -56,7 +56,7 @@ La organizó el Emperador. Aila lo supo por fin entonces: que el viejo de la pla
 
 El Emperador no se acordaba. O hacía como que no.
 
-Lo vio cada día. En el barro, como todos. Con la corona torcida. Dirigiendo a los carpinteros. Marcando con estacas dónde iban los troncos. Discutiendo con los enanos sobre la profundidad del foso. Cargando troncos él mismo, a los cien años, con un cuarto de elfo y las rodillas de un carpintero, hasta que su hijo, el alférez mayor, un hombre serio de cincuenta y tres años que miraba el hombro de la gente al hablar, le quitaba el tronco de las manos y le decía *abuelo, siéntate*.
+Lo vio cada día. En el barro, como todos. Con la corona torcida. Dirigiendo a los carpinteros. Marcando con estacas dónde iban los troncos. Discutiendo con los enanos sobre la profundidad del foso. Cargando troncos él mismo, a los cien años, con un cuarto de elfo y las rodillas de un carpintero, hasta que su hijo, el alférez mayor, un hombre serio de cincuenta y tres años que miraba el hombro de la gente al hablar, le quitaba el tronco de las manos y le decía abuelo, siéntate.
 
 —Padre —corregía el Emperador—. Soy tu padre.
 
@@ -82,15 +82,15 @@ En la sexta semana abrió la taberna.
 
 No era una taberna. Era una tienda grande, de lona de vela, con un fuego en medio y unas mesas hechas con tablas de los barcos. La abrió un orco. Grum. Uno enorme, gris, con los colmillos limados, que había sido cocinero en el primer viaje del Emperador, en el 715, y que decía que había salvado la expedición con un guiso.
 
-La taberna se llamaba *El Guiso*. Naturalmente.
+La taberna se llamaba El Guiso. Naturalmente.
 
-Servía un guiso. Uno solo. De lo que hubiera: pescado, aves de patas largas, unos bichos como conejos con cuernos que había por las colinas, hierbas del bosque, algo que Grum llamaba *paciencia*. Siempre el mismo y siempre distinto. Por una moneda de cobre, un cuenco y un trozo de pan.
+Servía un guiso. Uno solo. De lo que hubiera: pescado, aves de patas largas, unos bichos como conejos con cuernos que había por las colinas, hierbas del bosque, algo que Grum llamaba paciencia. Siempre el mismo y siempre distinto. Por una moneda de cobre, un cuenco y un trozo de pan.
 
 Aila fue la primera noche. Con Tom y los niños. Por no cocinar.
 
 Era lo mejor que había comido nunca.
 
-No porque estuviera bueno; no lo estaba. Porque era caliente y había un fuego y había gente. Mucha gente. Sentada en las tablas. Hablando. Riendo. Con el barro hasta las rodillas y la lluvia golpeando la lona y un orco gordo gritando *¡el que no se lo acabe* *friega!*
+No porque estuviera bueno; no lo estaba. Porque era caliente y había un fuego y había gente. Mucha gente. Sentada en las tablas. Hablando. Riendo. Con el barro hasta las rodillas y la lluvia golpeando la lona y un orco gordo gritando ¡el que no se lo acabe friega!
 
 Había un hombre en la mesa del fondo. Un viejo. Con una corona torcida. Comiéndose el guiso con una cuchara de madera.
 
@@ -146,13 +146,13 @@ Había dejado de llover. Por primera vez en seis semanas. Y el cielo, por el oes
 
 Nella abrió la boca.
 
-—*¡Wonder!* —gritó.
+—¡Wonder! —gritó.
 
 Toda la tienda se volvió.
 
 ---
 
-Era una palabra gnoma. La había aprendido de los niños gnomos del barco. Los gnomos de las islas la decían cuando veían algo que no esperaban. Un pez de colores. Una ola grande. Un sombrero bonito. *¡Wonder!* Quería decir, más o menos, *mira lo que no* *sabía que había*.
+Era una palabra gnoma. La había aprendido de los niños gnomos del barco. Los gnomos de las islas la decían cuando veían algo que no esperaban. Un pez de colores. Una ola grande. Un sombrero bonito. ¡Wonder! Quería decir, más o menos, mira lo que no sabía que había.
 
 Nella la había dicho cien veces en el barco. Ahora la dijo gritando. Con la cara iluminada de rojo. Con los ojos muy abiertos. Encima de un banco. En una taberna de lona en mitad del barro.
 
@@ -166,7 +166,7 @@ Se quedaron allí. Doscientas personas en el barro. Mirando el sol ponerse sobre
 
 ---
 
-—*Wonder* —dijo el Emperador. Bajito. Probándola.
+—Wonder —dijo el Emperador. Bajito. Probándola.
 
 Aila lo miró.
 
@@ -174,7 +174,7 @@ El Emperador tenía la cara iluminada de rojo también. Lloraba. Hacia arriba. C
 
 —¿Qué dice la niña? —le preguntó a Aila.
 
-—Es de los gnomos. Quiere decir… —Aila buscó—. *Mira lo que no sabías que* *había.*
+—Es de los gnomos. Quiere decir… —Aila buscó—. Mira lo que no sabías que había.
 
 El Emperador se quedó callado.
 
@@ -194,7 +194,7 @@ Aila no se enteró hasta que la gente se volvió a mirarla.
 
 ---
 
-—Yo no sé ser alcaldesa —le dijo al Emperador después. En la tienda de *El Guiso*. Furiosa—. Coso velas.
+—Yo no sé ser alcaldesa —le dijo al Emperador después. En la tienda de El Guiso. Furiosa—. Coso velas.
 
 —Yo no sé ser Emperador —dijo el Emperador—. Hago barcos.
 
@@ -214,7 +214,7 @@ Fue alcaldesa de Wonder veintiséis años. Hasta que se murió, en el 747, de vi
 
 Tom tuvo trigo en dos años. Como había dicho. Se lo dijo cada noche durante veinticuatro.
 
-Nella se casó con un muchacho de Nix y tuvo seis hijos y una taberna que se llamó *La Maravilla* y que no le hizo nunca la competencia a *El Guiso*, porque *El Guiso* no se la hacía a nadie.
+Nella se casó con un muchacho de Nix y tuvo seis hijos y una taberna que se llamó La Maravilla y que no le hizo nunca la competencia a El Guiso, porque El Guiso no se la hacía a nadie.
 
 Bram murió en el 729. A los doce años. En la empalizada. Cuando llegaron los barcos del oeste.
 
@@ -228,7 +228,7 @@ Que la ciudad la llamarían Wonder.
 
 No dice por qué.
 
-Érandiul estaba en la tienda de *El Guiso* aquella tarde. Vio a la niña en el banco. La oyó gritar.
+Érandiul estaba en la tienda de El Guiso aquella tarde. Vio a la niña en el banco. La oyó gritar.
 
 No lo escribió. Dijo que había cosas que si se escriben se estropean.
 

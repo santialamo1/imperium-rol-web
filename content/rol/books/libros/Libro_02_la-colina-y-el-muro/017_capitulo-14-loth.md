@@ -62,7 +62,7 @@ La vio en lo alto de la playa, junto al camino que subía a la colina. De pie. C
 
 No gritaba nombres. Gritaba órdenes.
 
-*¡Ese brasero, más sal! ¡Tú, a la izquierda! ¡No te quedes ahí parado como un* *bacalao, muévete! ¡Más sal, he dicho! ¡Que alguien le dé agua a la Custodia! ¡Pim, los* *chicos del cabo sur se están quedando sin voz, manda a los de reserva!*
+*¡Ese brasero, más sal! ¡Tú, a la izquierda! ¡No te quedes ahí parado como un bacalao, muévete! ¡Más sal, he dicho! ¡Que alguien le dé agua a la Custodia! ¡Pim, los chicos del cabo sur se están quedando sin voz, manda a los de reserva!*
 
 Loth la miró y la reconoció. La había visto una vez. En la playa de Puerto Salobre, hacía veintisiete años, en la popa de un barco que se alejaba. Una muchacha de veinticuatro años con un cuchillo en la mano y siete heridas ajenas en el camisón.
 
@@ -74,15 +74,15 @@ Ella no lo vio. Estaba demasiado ocupada gritando.
 
 Hacia la medianoche, Loth dejó de dar órdenes a los muertos.
 
-No lo decidió. Se le fue. Como se le había ido el tirón en la proa de la nave, la noche en que Seren le puso la mano encima. Estaba de pie en la arena, cerca del agua, con miles de muertos pasando a su lado hacia los braseros, y de pronto se dio cuenta de que ya no tiraba de ellos. Que iban solos. Por inercia. Por la última orden que les había dado en Puerto Salobre. *Id a la colina.*
+No lo decidió. Se le fue. Como se le había ido el tirón en la proa de la nave, la noche en que Seren le puso la mano encima. Estaba de pie en la arena, cerca del agua, con miles de muertos pasando a su lado hacia los braseros, y de pronto se dio cuenta de que ya no tiraba de ellos. Que iban solos. Por inercia. Por la última orden que les había dado en Puerto Salobre. Id a la colina.
 
 Y en la colina los soltaban.
 
-La voz del pozo le gritaba. Desde abajo. Desde lejos. Desde el otro lado del mar. *¡Tira! ¡Tira, cantor! ¡Están ahí, están ahí los dos, el trozo y la mano, están ahí arriba, en* *esa colina, tráemelos, tráemelos!*
+La voz del pozo le gritaba. Desde abajo. Desde lejos. Desde el otro lado del mar. ¡Tira! ¡Tira, cantor! ¡Están ahí, están ahí los dos, el trozo y la mano, están ahí arriba, en esa colina, tráemelos, tráemelos!
 
 Loth no tiraba.
 
-Se quedó de pie en la arena mirando cómo un niño de doce años soltaba a una panadera muerta, y pensó en el vivo de la capa azul. En su libro de cuentas. En la página de rayas. *No sé si esto es una pérdida o una ganancia. Lo apunto en las dos columnas.*
+Se quedó de pie en la arena mirando cómo un niño de doce años soltaba a una panadera muerta, y pensó en el vivo de la capa azul. En su libro de cuentas. En la página de rayas. No sé si esto es una pérdida o una ganancia. Lo apunto en las dos columnas.
 
 Buscó al vivo con los ojos. No lo encontró. Se habría quedado en la nave. O habría bajado a la playa y estaría escondido detrás de alguna roca, con el libro en las rodillas, contando hilos.
 
@@ -224,7 +224,7 @@ Salió de golpe, como sale en las tierras donde no hay niebla. Un borde de fuego
 
 Le quemó.
 
-Le quemó como el agujero de la niebla en la nave grande, como cuando era niño y su madre le decía *no mires al ojo, que te seca*. Le quemó los ojos, la piel, el pelo blanco. Notó que se le secaba algo por dentro. Que la bruma que llevaba dentro, la que le había entrado en el pozo, la que le mantenía unido, se le evaporaba por los poros como el rocío de una piedra.
+Le quemó como el agujero de la niebla en la nave grande, como cuando era niño y su madre le decía no mires al ojo, que te seca. Le quemó los ojos, la piel, el pelo blanco. Notó que se le secaba algo por dentro. Que la bruma que llevaba dentro, la que le había entrado en el pozo, la que le mantenía unido, se le evaporaba por los poros como el rocío de una piedra.
 
 No apartó la cara.
 
@@ -280,7 +280,7 @@ Buscando adónde ir.
 
 Era suya. Era un trozo de él. Un séptimo de su vida. El cuarto. Lo había puesto allí él mismo, en un niño de cuatro años, en Concordia. Y ahora salía, y buscaba, y Loth lo notaba tirar de él, tirar hacia él, como tira un hijo hacia su madre.
 
-*¡Cógelo!*, gritó la voz del pozo. *¡Cógelo, cantor, cógelo, es tuyo, es mío, cógelo!*
+¡Cógelo!, gritó la voz del pozo. ¡Cógelo, cantor, cógelo, es tuyo, es mío, cógelo!
 
 Loth levantó la mano.
 

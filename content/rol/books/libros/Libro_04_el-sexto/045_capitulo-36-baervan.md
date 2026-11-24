@@ -1,6 +1,6 @@
 # Capítulo 36 · Baervan
 
-*La plaza del Consejo, Banderbill. Atardecer del 15 de la primavera del año 1256* *de la Nueva Era (649 D.bA).*
+*La plaza del Consejo, Banderbill. Atardecer del 15 de la primavera del año 1256 de la Nueva Era (649 D.bA).*
 
 La escalinata del palacio tenía cuarenta y dos escalones, y Baervan los bajó contándolos, porque el tío Ilan de Tiama decía en sus cartas que cuando uno tiene miedo hay que contar cosas tontas en voz alta, y Baervan tenía miedo, y no tenía nada más tonto a mano que los escalones.
 
@@ -64,7 +64,7 @@ En la boca de la calle, entre el humo, había un hombre de gris.
 
 Baervan no lo había visto nunca.
 
-Sabía cómo era. Se lo habían contado. Lanther, una vez, en la almena, con la voz rara, entre la rabia y la pena. Mirela, en la crónica del 892, que había leído cien veces. Un niño de Ullathorpe en el 1104 que le había dicho que en la posada de Joss había un señor que pagaba la segunda ronda. Ludo Marren, en el comedor de la posada, en el 1100 y pico, antes de morirse, que le había dicho *tenía la cara de nadie y los ojos de un escribano*.
+Sabía cómo era. Se lo habían contado. Lanther, una vez, en la almena, con la voz rara, entre la rabia y la pena. Mirela, en la crónica del 892, que había leído cien veces. Un niño de Ullathorpe en el 1104 que le había dicho que en la posada de Joss había un señor que pagaba la segunda ronda. Ludo Marren, en el comedor de la posada, en el 1100 y pico, antes de morirse, que le había dicho tenía la cara de nadie y los ojos de un escribano.
 
 Era así.
 
@@ -108,7 +108,7 @@ El hombre de gris no lo miró. Siguió mirando a Baervan.
 
 Esa era la pregunta.
 
-Baervan lo supo en cuanto la oyó. Lo supo porque Lanther se lo había dicho, en la almena, hacía cien años, sin que él le preguntara: *te va a preguntar qué quieres. Siempre lo* *pregunta. Y lo que contestes, te lo da. Y se queda con lo de debajo.* Lo supo porque Ludo Marren se lo había dicho. Porque el general blanco de Orac, el de los ojos sin pupila, llevaba setecientos años sin poder mirar arriba por haber contestado una vez.
+Baervan lo supo en cuanto la oyó. Lo supo porque Lanther se lo había dicho, en la almena, hacía cien años, sin que él le preguntara: te va a preguntar qué quieres. Siempre lo pregunta. Y lo que contestes, te lo da. Y se queda con lo de debajo. Lo supo porque Ludo Marren se lo había dicho. Porque el general blanco de Orac, el de los ojos sin pupila, llevaba setecientos años sin poder mirar arriba por haber contestado una vez.
 
 *Que no me olviden.*
 
@@ -266,7 +266,7 @@ El orco no contestó.
 
 Baervan se rio. Bajito.
 
-—Le dije —dijo— *la llave la tiene ella*.
+—Le dije —dijo— la llave la tiene ella.
 
 El orco se quedó callado.
 

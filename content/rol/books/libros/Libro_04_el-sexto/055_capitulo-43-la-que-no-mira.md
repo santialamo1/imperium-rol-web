@@ -1,6 +1,6 @@
 # Capítulo 43 · La que no mira
 
-*El sexto Rincón, bajo la ceniza de Tundra Zero. Sin estación. Año 1340 de la Nueva* *Era (733 D.bA), según los de arriba.*
+*El sexto Rincón, bajo la ceniza de Tundra Zero. Sin estación. Año 1340 de la Nueva Era (733 D.bA), según los de arriba.*
 
 Es de tarde.
 
@@ -16,13 +16,13 @@ Es lo único bueno.
 
 No tiene nombre.
 
-No lo ha tenido nunca. Las de su sangre no se ponen nombres. Se llaman por el sitio. *La de la cueva de arriba. La de la grieta del río. La de la boca.* Ella era la de la boca. La más pequeña. La que se quedaba en la boca del agujero mientras las otras bajaban a las cuevas de las montañas negras a dormir, porque alguien tenía que quedarse en la boca.
+No lo ha tenido nunca. Las de su sangre no se ponen nombres. Se llaman por el sitio. La de la cueva de arriba. La de la grieta del río. La de la boca. Ella era la de la boca. La más pequeña. La que se quedaba en la boca del agujero mientras las otras bajaban a las cuevas de las montañas negras a dormir, porque alguien tenía que quedarse en la boca.
 
 Mirando.
 
 Para que no se acercaran.
 
-Los de sangre caliente tienen otros nombres para ellas. Los ha oído, a lo largo de los siglos, gritados desde lejos, en la boca de las cuevas, antes del silencio. A la más vieja, la que bajó primero, la que tenía en la cabeza cien de las que duermen y todas blancas, la llamaban *la medusa matriarca*. A la que sabía las palabras de antes, las que no son de ninguna lengua y que hacen que el agua suba por las paredes, *la medusa arcana*. Y a ella, a la de la boca, la pequeña, la que se quedaba, los pocos que llegaron a decir algo antes de ponerse grises le dijeron *la medusa guardiana*.
+Los de sangre caliente tienen otros nombres para ellas. Los ha oído, a lo largo de los siglos, gritados desde lejos, en la boca de las cuevas, antes del silencio. A la más vieja, la que bajó primero, la que tenía en la cabeza cien de las que duermen y todas blancas, la llamaban la medusa matriarca. A la que sabía las palabras de antes, las que no son de ninguna lengua y que hacen que el agua suba por las paredes, la medusa arcana. Y a ella, a la de la boca, la pequeña, la que se quedaba, los pocos que llegaron a decir algo antes de ponerse grises le dijeron la medusa guardiana.
 
 No le gusta. Pero es verdad.
 
@@ -36,7 +36,7 @@ Eso es lo que no le dijo a la de las manos de corteza, porque no habla, porque l
 
 *Lo de abajo la llama y ella no quiere ir.*
 
-Es verdad. Lo de abajo llama. Siempre. Desde antes de que hubiera montañas negras, desde antes de que hubiera valle. No con palabras. Con un latido. Como un corazón al que le falta algo, que late para que el algo vuelva. *Tum.* Y luego mucho rato. *Tum.*
+Es verdad. Lo de abajo llama. Siempre. Desde antes de que hubiera montañas negras, desde antes de que hubiera valle. No con palabras. Con un latido. Como un corazón al que le falta algo, que late para que el algo vuelva. Tum. Y luego mucho rato. Tum.
 
 Las de su sangre nacieron de ese latido. Eso lo sabe. Lo sabe como sabe que tiene frío. Nacieron de lo que sobraba cuando se hizo el mundo, de las raspaduras, de lo que se cayó de la mesa. Nacieron con el latido dentro. Y el latido las llama para que vuelvan a ser lo que eran antes de ser ellas.
 
@@ -96,7 +96,7 @@ Se lo dice a lo de abajo. Cada noche.
 
 Lo de abajo no se va.
 
-Pero ella, que no es lo de abajo, que está al lado, en una habitación con una tarde, oye la frase cada noche, y cada noche se le duerme un poco más una de las que tiene en la cabeza. Porque es lo que diría ella. Si hablara. *Te oigo. Vete.* Es lo que le habría dicho al latido, todos estos siglos, si hubiera sabido decirlo.
+Pero ella, que no es lo de abajo, que está al lado, en una habitación con una tarde, oye la frase cada noche, y cada noche se le duerme un poco más una de las que tiene en la cabeza. Porque es lo que diría ella. Si hablara. Te oigo. Vete. Es lo que le habría dicho al latido, todos estos siglos, si hubiera sabido decirlo.
 
 ---
 
@@ -108,11 +108,11 @@ No es lo de abajo. Eso lo sabe muy bien. Lo de abajo late. El gris habla. Lo de 
 
 Le habló una vez. Hace poco. Hace un sueño.
 
-*Te puedo despertar*, le dijo. *Te puedo quitar la venda. Puedes salir de aquí. Puedes* *subir. Hay una colina, al noroeste, llena de gente que no te ha hecho nada. Hay un muro* *que hace* tum *como lo de abajo, y te gustaría. Solo tienes que mirar. Una vez. A quien yo* *te diga.*
+*Te puedo despertar, le dijo. Te puedo quitar la venda. Puedes salir de aquí. Puedes subir. Hay una colina, al noroeste, llena de gente que no te ha hecho nada. Hay un muro que hace tum como lo de abajo, y te gustaría. Solo tienes que mirar. Una vez. A quien yo te diga.*
 
 Ella no contestó.
 
-*¿Qué quieres?*, le preguntó el gris.
+¿Qué quieres?, le preguntó el gris.
 
 Ella se dio la vuelta en la cama. Hacia la pared.
 
@@ -142,7 +142,7 @@ Nadie había hecho eso nunca. Nadie se había ido de su lado sin pedirle nada.
 
 ---
 
-La de las manos de corteza escribió una cosa. Ella la oyó. *Que no se despierte hasta que haya alguien que pueda mirarla sin quedarse de piedra.*
+La de las manos de corteza escribió una cosa. Ella la oyó. Que no se despierte hasta que haya alguien que pueda mirarla sin quedarse de piedra.
 
 Ha estado pensando en eso. Si se puede pensar dormida. Si esto que hace, en la tarde que no se acaba, es pensar.
 
@@ -162,7 +162,7 @@ El gris volvió anoche. O hace diez años. Da igual.
 
 Esta vez no le preguntó qué quería.
 
-*Lo de arriba se está partiendo*, le dijo. *La colina. Los de sangre caliente. Ya no se* *ríen. Ya no tienen al gnomo. Tienen una pequeña que abre y cierra una puerta y no sabe* *para qué. Dentro de poco se pelearán. Lo noto. Lo huelo. Y cuando se partan, la sal de las* *veintidós se agrietará, y el de piedra mirará otra vez hacia abajo, y tú despertarás de* *todas formas. Sin venda. Sin que nadie te lo pida.*
+*Lo de arriba se está partiendo, le dijo. La colina. Los de sangre caliente. Ya no se ríen. Ya no tienen al gnomo. Tienen una pequeña que abre y cierra una puerta y no sabe para qué. Dentro de poco se pelearán. Lo noto. Lo huelo. Y cuando se partan, la sal de las veintidós se agrietará, y el de piedra mirará otra vez hacia abajo, y tú despertarás de todas formas. Sin venda. Sin que nadie te lo pida.*
 
 *Y entonces mirarás. Porque es lo único que sabes hacer que no sea bajar.*
 
@@ -184,7 +184,7 @@ No sabe qué es el pan.
 
 Las de su sangre no comen pan. Pero la pequeña que vino olía un poco a eso, debajo del calor. A harina. A horno. A algo que se hace por la mañana, temprano, para otros.
 
-Y el gris, cuando dijo *colina*, olió también un poco a eso. Sin querer. Como huele el que tiene hambre de algo y lo nombra sin nombrarlo.
+Y el gris, cuando dijo colina, olió también un poco a eso. Sin querer. Como huele el que tiene hambre de algo y lo nombra sin nombrarlo.
 
 La de la nuca se volvió a dormir.
 

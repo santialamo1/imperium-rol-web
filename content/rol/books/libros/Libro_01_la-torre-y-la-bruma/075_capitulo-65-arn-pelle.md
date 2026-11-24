@@ -16,9 +16,9 @@ El sargento Arn Pelle tenía la cicatriz del labio de nacimiento, como su padre 
 
 Arn tenía cincuenta y dos años, treinta de ellos en las fortalezas del río Ceniza. Era Hinur, de las colinas de sal, bajito y ancho, calvo desde los treinta como todos los varones de su familia, y llevaba en el cuello, en un cordón de cuero, un trocito de bronce pulido del tamaño de una moneda que había sido de su abuelo. Un fragmento de espejo. De los de las Sombras.
 
-*Lo más estúpido que he visto en mi vida*, había dicho su abuelo, el sargento Pelle, cuando el emperador Yaakov le enseñó el primero de aquellos espejos. Y luego los espejos habían funcionado, y una mujer del velo había arrojado una caja, y el Padre de la Bruma había gritado como un niño, y el abuelo había vuelto a casa con aquel trocito de bronce y la costumbre de contarlo en todas las bodas.
+Lo más estúpido que he visto en mi vida, había dicho su abuelo, el sargento Pelle, cuando el emperador Yaakov le enseñó el primero de aquellos espejos. Y luego los espejos habían funcionado, y una mujer del velo había arrojado una caja, y el Padre de la Bruma había gritado como un niño, y el abuelo había vuelto a casa con aquel trocito de bronce y la costumbre de contarlo en todas las bodas.
 
-Arn no había conocido a su abuelo. Pero había heredado el bronce, la cicatriz y la historia. Y una frase que su padre repetía siempre que la contaba: *Los que ganan las* *guerras no son los que pegan más fuerte. Son los que miran donde nadie mira.*
+Arn no había conocido a su abuelo. Pero había heredado el bronce, la cicatriz y la historia. Y una frase que su padre repetía siempre que la contaba: Los que ganan las guerras no son los que pegan más fuerte. Son los que miran donde nadie mira.
 
 Arn miraba. Por eso daba raciones de más.
 
@@ -112,7 +112,7 @@ El eufesio no contestó. Y Arn, que miraba donde nadie miraba, vio en su cara al
 
 No esperó la respuesta. Echó a correr.
 
-No hacia los muertos. Hacia las cuadras. Porque su padre le había enseñado otra cosa, aparte de mirar: *Cuando la batalla está perdida, el que vale no es el que muere en* *ella. Es el que llega a contarla.* Ensilló una yegua torda con las manos temblando, mientras oía detrás de él los gritos de la guarnición —seiscientos hombres despertándose con la niebla dentro de las murallas—, y salió al galope por la puerta del sur, con la niebla pisándole los talones, y no miró atrás.
+No hacia los muertos. Hacia las cuadras. Porque su padre le había enseñado otra cosa, aparte de mirar: Cuando la batalla está perdida, el que vale no es el que muere en ella. Es el que llega a contarla. Ensilló una yegua torda con las manos temblando, mientras oía detrás de él los gritos de la guarnición —seiscientos hombres despertándose con la niebla dentro de las murallas—, y salió al galope por la puerta del sur, con la niebla pisándole los talones, y no miró atrás.
 
 Oyó a Ruy gritar su nombre. Una vez. Luego dejó de oírlo.
 
@@ -138,7 +138,7 @@ Cuando terminó, el salón estaba en silencio.
 
 Arn dudó.
 
-—No lo sé, mi general. Hablaba en su lengua. Pero dijo una palabra muchas veces, mirando al norte, hacia las otras fortalezas. Una palabra que sonaba como *nombres*. Como si los contara.
+—No lo sé, mi general. Hablaba en su lengua. Pero dijo una palabra muchas veces, mirando al norte, hacia las otras fortalezas. Una palabra que sonaba como nombres. Como si los contara.
 
 El general joven se puso pálido. Arn no entendió por qué, entonces.
 
@@ -176,7 +176,7 @@ Maximus se levantó. Tenía setenta y cuatro años y se levantó como un hombre 
 
 Arn Pelle luchó en las colinas de Askel diez días después.
 
-Vio caer al emperador en la colina del estandarte. Vio cómo el ejército empezaba a deshacerse. Vio a un general joven de ojos oscuros quitarse el yelmo en mitad de la desbandada y decir *Yo sigo aquí*, y vio a los hombres dejar de correr. Vio el sol rojo, enorme, sobre el brezo. Oyó un latido, lento, profundo, que venía del norte, y luego un crujido, como de loza rota, y luego un grito que no era humano y que hizo que los muertos grises se detuvieran en seco y se derrumbaran como marionetas a las que han cortado los hilos.
+Vio caer al emperador en la colina del estandarte. Vio cómo el ejército empezaba a deshacerse. Vio a un general joven de ojos oscuros quitarse el yelmo en mitad de la desbandada y decir Yo sigo aquí, y vio a los hombres dejar de correr. Vio el sol rojo, enorme, sobre el brezo. Oyó un latido, lento, profundo, que venía del norte, y luego un crujido, como de loza rota, y luego un grito que no era humano y que hizo que los muertos grises se detuvieran en seco y se derrumbaran como marionetas a las que han cortado los hilos.
 
 Y luego, al atardecer, cuando todo terminó, encontró en el barro de la colina del estandarte la corona de tres puntas. La cogió. Nadie más la quería. Nadie más se atrevía a tocarla.
 
@@ -202,6 +202,6 @@ Arn no contestó. Se terminó la cerveza y se fue a casa.
 
 Esa noche, antes de dormir, sacó el trocito de bronce del cordón y lo miró a la luz de la vela. Y pensó en un hombre alto de ojos oscuros, de pie junto a una puerta abierta, pasando el pulgar por un espejo que había ayudado a ganar a su padre una batalla, cincuenta y cuatro años atrás.
 
-*Gracias*, le había dicho.
+Gracias, le había dicho.
 
 Arn creía, ahora, que lo entendía.

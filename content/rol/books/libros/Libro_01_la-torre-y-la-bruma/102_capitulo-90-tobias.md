@@ -24,7 +24,7 @@ Ahora tenía en una caja de pino, en la casa que le habían construido junto a l
 
 Y tenía quinientas setenta y tres personas —seiscientas veinte ahora, con los niños nacidos en la colina y los cuarenta y uno que había traído el tío Gorm de las islas Ulvar el año anterior, aunque doce viejos habían muerto— que recordaban cosas. Cada una, cosas distintas. Muchas, contradictorias.
 
-Y tenía un emperador que le había dicho, en una roca a la salida de un túnel, *Alguien tendrá que escribir esto*, y que desde entonces le preguntaba cada semana, con una sonrisa, cuánto le faltaba.
+Y tenía un emperador que le había dicho, en una roca a la salida de un túnel, Alguien tendrá que escribir esto, y que desde entonces le preguntaba cada semana, con una sonrisa, cuánto le faltaba.
 
 ---
 
@@ -40,7 +40,7 @@ Se reunían en la casa del panadero, alrededor del horno, porque era la única c
 
 —No es un elogio. —Orla lo miró con unos ojos pálidos, cansados—. Están demasiado bien escritos. Se entiende todo. Se entiende quién es él.
 
-No hacía falta decir quién era *él*. En Banderbill nunca hacía falta.
+No hacía falta decir quién era él. En Banderbill nunca hacía falta.
 
 —En el capítulo de la quema —siguió Orla— cuentas cómo murió su madre. En el de la tienda, cómo le enseñaban los nombres. En el de la jaula, cómo encontró a su hermana tres días tarde. —Pasó una página—. Cuando el lector llega al Vado de las Cenizas y ve a ese hombre arrodillado junto al cadáver de Henricus Bhargaras, cantando, ya no sabe si odiarlo o llorar por él.
 
@@ -100,7 +100,7 @@ Bander se quedó callado mucho rato. Miró el fuego del horno.
 
 Maese Ugo se rió. Luego Bander. Luego, a regañadientes, la Custodia Orla, que se tapó la boca con la mano como si le diera vergüenza.
 
-Mara no se rió. Se quedó mirando a su marido con una expresión que Tobías no supo descifrar entonces, y que años después, cuando escribió aquel capítulo, describió como *la cara de una mujer que acaba de entender que va a pasarse la vida vigilando la* *espalda de un hombre que se niega a vigilársela él mismo*.
+Mara no se rió. Se quedó mirando a su marido con una expresión que Tobías no supo descifrar entonces, y que años después, cuando escribió aquel capítulo, describió como la cara de una mujer que acaba de entender que va a pasarse la vida vigilando la espalda de un hombre que se niega a vigilársela él mismo.
 
 Cuando se fueron todos, Bander lo retuvo en la puerta, con la mano en el hombro.
 

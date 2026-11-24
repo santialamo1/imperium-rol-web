@@ -36,7 +36,7 @@ Aquella noche, antes de dormir, Loth hizo algo que no había hecho nunca. Se inc
 
 —Si alguna vez me pierdes —le dijo—, llámame así. Solo así. Y te oiré aunque esté al otro lado del desierto.
 
-Nadi la repitió en voz baja para no olvidarla. *Emrah.* Sonaba como el viento entre las tiendas. Luego, con la lógica de los niños, la metió en la canción de la arena, en un verso que se inventó ella misma, para no perderla nunca: *duerme, Emrah, duerme ya.* Loth se rió y no la corrigió.
+Nadi la repitió en voz baja para no olvidarla. Emrah. Sonaba como el viento entre las tiendas. Luego, con la lógica de los niños, la metió en la canción de la arena, en un verso que se inventó ella misma, para no perderla nunca: duerme, Emrah, duerme ya. Loth se rió y no la corrigió.
 
 ---
 
@@ -144,7 +144,13 @@ Nadi cantaba.
 
 Era lo único que podía hacer. Cada noche, en la oscuridad del sótano, cantaba la canción de la arena, la que Loth le había enseñado. Al principio sola, muy bajito. Luego, poco a poco, los otros niños empezaron a cantar con ella. Seli. Ferah. Los gemelos Abd. Incluso Kesh, una noche, movió los labios.
 
-*Duerme, arena, duerme ya,* *la bruma viene y se va;* *quien te nombra te tendrá,* *quien te ama volverá.*
+*Duerme, arena, duerme ya,*
+
+*la bruma viene y se va;*
+
+*quien te nombra te tendrá,*
+
+*quien te ama volverá.*
 
 Y una noche, alguien respondió desde arriba.
 

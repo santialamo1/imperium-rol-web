@@ -1,6 +1,6 @@
 # Capítulo 49 · Ilwen
 
-*Los bosques blancos del norte de Rhagnark, lejos al norte de Wonder. Primavera* *del año 763 de la Nueva Era (156 D.bA).*
+*Los bosques blancos del norte de Rhagnark, lejos al norte de Wonder. Primavera del año 763 de la Nueva Era (156 D.bA).*
 
 Los ciervos lo supieron antes que nadie.
 
@@ -36,7 +36,7 @@ Ilwen no lo llamaba ciudad. No sabía lo que era una ciudad. Lo llamaba el sitio
 
 Los que vinieron del sur, en las casas que flotaban, lo llamarían Illiandor.
 
-Porque se lo preguntaron a un viejo. Y el viejo, que no entendió la pregunta, contestó lo que le pareció: *illiandor*. Que en la lengua del bosque blanco quería decir *donde se canta bajo*.
+Porque se lo preguntaron a un viejo. Y el viejo, que no entendió la pregunta, contestó lo que le pareció: illiandor. Que en la lengua del bosque blanco quería decir donde se canta bajo.
 
 ---
 
@@ -46,9 +46,9 @@ Los árboles más viejos del sitio del invierno, los del techo, los que ya estab
 
 Al noreste, detrás de la cresta de los pinos, donde el bosque blanco se acababa y empezaba el otro, el verde, el oscuro, el que olía a agua parada, había un sitio donde no se llevaban las manadas nunca.
 
-Gaugin. Así lo llamaban los viejos; los gnomos de las casas flotantes, años después, lo pondrían en sus cartas como *el Dungeon Gaugin*, con su palabra para los agujeros que tienen dueño. Una garganta de piedra, honda, con cuevas en las paredes, en mitad del bosque verde. Allí vivían los cíclopes. Ilwen no los había visto. Había visto las piedras que tiraban: peñascos del tamaño de un ciervo, rodados hasta la linde, con las huellas de unas manos enormes todavía marcadas en el musgo. Y había visto, un verano, desde lejos, el humo de sus fuegos, y oído un canto que no era canto, de garganta, que hacía callarse a todos los pájaros del valle.
+Gaugin. Así lo llamaban los viejos; los gnomos de las casas flotantes, años después, lo pondrían en sus cartas como el Dungeon Gaugin, con su palabra para los agujeros que tienen dueño. Una garganta de piedra, honda, con cuevas en las paredes, en mitad del bosque verde. Allí vivían los cíclopes. Ilwen no los había visto. Había visto las piedras que tiraban: peñascos del tamaño de un ciervo, rodados hasta la linde, con las huellas de unas manos enormes todavía marcadas en el musgo. Y había visto, un verano, desde lejos, el humo de sus fuegos, y oído un canto que no era canto, de garganta, que hacía callarse a todos los pájaros del valle.
 
-Y en Gaugin, decían los viejos, vivía también el basilisco. El que no hay que mirar. No te mata la mirada del basilisco, decían; te para. Te deja quieto, con los ojos abiertos, sin poder mover nada, ni los párpados, un día o dos o tres, y mientras tanto el basilisco se acerca, despacio, que tiene todo el tiempo. Por eso los elfos del bosque blanco, cuando iban al bosque verde a buscar la resina, iban de dos en dos y con los ojos en el suelo. Y por eso Ilwen, cuando era pequeña y se portaba mal, oía a su abuela decirle: *mira que te miro*.
+Y en Gaugin, decían los viejos, vivía también el basilisco. El que no hay que mirar. No te mata la mirada del basilisco, decían; te para. Te deja quieto, con los ojos abiertos, sin poder mover nada, ni los párpados, un día o dos o tres, y mientras tanto el basilisco se acerca, despacio, que tiene todo el tiempo. Por eso los elfos del bosque blanco, cuando iban al bosque verde a buscar la resina, iban de dos en dos y con los ojos en el suelo. Y por eso Ilwen, cuando era pequeña y se portaba mal, oía a su abuela decirle: mira que te miro.
 
 El bosque verde tenía otras cosas, más pequeñas y no menos malas. Los hombres lagarto de las charcas, que pescaban con lanzas de hueso y no se metían con nadie si nadie se metía en el agua. Las plantas carnívoras gigantes de los claros húmedos, unas flores rojas del tamaño de una cama que se cerraban sobre lo que se posaba en ellas, ciervo incluido. La sierpe del río, larga como tres barcas, que solo se veía en las crecidas. La serpiente ancestral, que era más vieja que la sierpe y más gorda, y que dormía enroscada en las raíces de los árboles más viejos del bosque verde y a la que los elfos dejaban leche en un cuenco, no porque se la bebiera sino por si acaso. Las tortugas gigantes del lago grande, que se subían a tomar el sol a las piedras y que tenían, decían, la edad de los Ancestrales. Y los castores, que hacían diques en todos los arroyos de la linde y que eran lo único del bosque verde que le gustaba a Ilwen.
 
@@ -70,7 +70,7 @@ Dos que no hacían ruido. Que estaban un poco aparte, en la orilla, mirando los 
 
 Orejas largas. Los dos.
 
-*Dos de los nuestros*, había dicho Sarha. *Que no son de los nuestros.*
+Dos de los nuestros, había dicho Sarha. Que no son de los nuestros.
 
 ---
 
@@ -100,7 +100,7 @@ El de la corteza lo intentó otra vez. Más despacio. Con otras palabras.
 
 Tampoco.
 
-El del sombrero dijo algo. Una sola palabra. Antigua. Muy antigua. Una que Ilwen conocía, porque la decían los viejos del sitio del invierno en las canciones de cuna, y que quería decir *árbol*. Pero no cualquier árbol. El primero. El que había.
+El del sombrero dijo algo. Una sola palabra. Antigua. Muy antigua. Una que Ilwen conocía, porque la decían los viejos del sitio del invierno en las canciones de cuna, y que quería decir árbol. Pero no cualquier árbol. El primero. El que había.
 
 Ilwen la repitió. Como se decía en el bosque blanco.
 
@@ -212,7 +212,7 @@ Hesper escuchó. Luego miró al suelo. A las raíces de los árboles blancos. Al
 
 —¿Quién te ha dicho eso?
 
-—La pelirroja. En el 745. En la colina. —Hesper se tocó el pecho, donde le latía algo que no era suyo—. Y un orco viejo en una taberna. *Uno que pregunta.* —Miró al norte. Hacia el oeste. Hacia el mar—. A lo que pregunta no se le canta. ¿Verdad? A ese no le hace nada una nana.
+—La pelirroja. En el 745. En la colina. —Hesper se tocó el pecho, donde le latía algo que no era suyo—. Y un orco viejo en una taberna. Uno que pregunta. —Miró al norte. Hacia el oeste. Hacia el mar—. A lo que pregunta no se le canta. ¿Verdad? A ese no le hace nada una nana.
 
 Érandiul no contestó.
 

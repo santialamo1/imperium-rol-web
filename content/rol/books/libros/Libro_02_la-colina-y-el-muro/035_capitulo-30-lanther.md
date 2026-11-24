@@ -4,7 +4,7 @@
 
 Los orcos llegaron la noche de la víspera del día más corto, cuando la ciudad entera estaba en la plaza de la fuente diciendo nombres.
 
-Lanther los oyó antes que las campanas. Los oyó en los pies, como los había oído el elfo: un latido sordo, enorme, que subía del bosque del norte y hacía temblar el agua del pilón en pequeños círculos. *Bum. Bum. Bum.* Dejó de decir el nombre que estaba diciendo —el de su madre, mirando hacia arriba, con la piedra de veta blanca en la mano— y se quedó quieta.
+Lanther los oyó antes que las campanas. Los oyó en los pies, como los había oído el elfo: un latido sordo, enorme, que subía del bosque del norte y hacía temblar el agua del pilón en pequeños círculos. Bum. Bum. Bum. Dejó de decir el nombre que estaba diciendo —el de su madre, mirando hacia arriba, con la piedra de veta blanca en la mano— y se quedó quieta.
 
 Junto a ella, Érandiul ya se había quitado el sombrero. Lo hacía ahora siempre, desde la puerta del norte, como si después de dos años de llevarlo encajado hasta las orejas tuviera que recuperar el tiempo perdido. Escuchaba con la cabeza ladeada.
 
@@ -46,7 +46,7 @@ Hacia el sur. Hacia el bosque y las montañas. Por donde habían venido.
 
 Lanther, en la torre, con la piedra en la mano, no le contestó.
 
-Le habría tenido que decir *porque el muro canta*. Y Hakon no creía en esas cosas. Nadie en el Consejo creía en esas cosas. Las había prohibido su hermano.
+Le habría tenido que decir porque el muro canta. Y Hakon no creía en esas cosas. Nadie en el Consejo creía en esas cosas. Las había prohibido su hermano.
 
 Así que no dijo nada. Y la ciudad se contó, como se cuentan siempre estas cosas, que los orcos habían visto el muro y habían tenido miedo. Que era verdad.
 
@@ -56,13 +56,23 @@ No era toda la verdad.
 
 El invierno fue largo. La gente lo pasó mirándola.
 
-Lo notaba en todas partes. En el mercado, en el puerto, en el cuartel, en la panadería de Teo el joven, donde seguía yendo a amasar los martes por la tarde, después del río, porque su madre lo hacía. La miraban. Con respeto, muchos. Con cariño, algunos. Con algo parecido a la devoción, unos pocos, sobre todo los de la obra del muro, que la llamaban *la de las piedras* y le dejaban flores secas en la puerta del palacio. Y con otra cosa, otros.
+Lo notaba en todas partes. En el mercado, en el puerto, en el cuartel, en la panadería de Teo el joven, donde seguía yendo a amasar los martes por la tarde, después del río, porque su madre lo hacía. La miraban. Con respeto, muchos. Con cariño, algunos. Con algo parecido a la devoción, unos pocos, sobre todo los de la obra del muro, que la llamaban la de las piedras y le dejaban flores secas en la puerta del palacio. Y con otra cosa, otros.
 
 La oía. No podía dejar de oírla. Debajo de las palabras amables, debajo de las reverencias. Como se oye el agua corriendo debajo del hielo.
 
-*Una mujer.* *Diecinueve años.* *Se viste de hombre.* *Habla con las piedras.* *Trae a los de las orejas.* *No se casa.*
+*Una mujer.*
 
-*No envejece. Dicen que no envejece. Mira la cara que tiene. Mira la de su madre a* *su edad.*
+*Diecinueve años.*
+
+*Se viste de hombre.*
+
+*Habla con las piedras.*
+
+*Trae a los de las orejas.*
+
+*No se casa.*
+
+*No envejece. Dicen que no envejece. Mira la cara que tiene. Mira la de su madre a su edad.*
 
 *Su hermano, en paz descanse, no creía en la magia. Y ella sí.*
 
@@ -252,7 +262,7 @@ La coronaron esa misma tarde, en la plaza de la fuente, sin obispos ni sacerdote
 
 Le puso el aro Livia. No lo había previsto nadie; tenía que habérselo puesto Hakon, como capitán de la Guardia, o Teo el joven, como el más antiguo del Consejo. Pero cuando llegó el momento, Hakon le dio el cojín de terciopelo a Livia sin decir nada, con la mano vendada, y Livia lo cogió, y se quedó mirando el aro un momento.
 
-El aro de hierro. El que forjó en el año uno el herrero de la colonia, un Germa joven, con un ancla de las galeras de Meridio, y que maese Ugo le puso a su padre en la cabeza porque nadie más se atrevía. El que tenía grabado por dentro, en letras pequeñas, *Más que a mis ojos*.
+El aro de hierro. El que forjó en el año uno el herrero de la colonia, un Germa joven, con un ancla de las galeras de Meridio, y que maese Ugo le puso a su padre en la cabeza porque nadie más se atrevía. El que tenía grabado por dentro, en letras pequeñas, Más que a mis ojos.
 
 —Tu madre dijo esto mismo —le dijo Livia, bajito—. Cuando se lo puso a tu hermano. Lo copió de lo que le dijo tu padre a ella sobre un barril. Así que lo digo yo, para que conste. —Se lo puso—. Más que a mis ojos.
 
@@ -340,9 +350,9 @@ Y nadie lo supo nunca. Salvo un elfo que esa noche no podía dormir y había baj
 
 Lo escribió en su cuaderno al día siguiente. En una sola línea.
 
-*Lo que los hombres no saben es que ella, en secreto, entabló una amistad con un* *hermano de mi pueblo que huyó de la destrucción: Verawel.*
+*Lo que los hombres no saben es que ella, en secreto, entabló una amistad con un hermano de mi pueblo que huyó de la destrucción: Verawel.*
 
-No escribió *de mano a mano*. Eso lo guardó.
+No escribió de mano a mano. Eso lo guardó.
 
 ---
 
@@ -356,7 +366,7 @@ Una jarra.
 
 De sal. Pequeña. Del tamaño de un puño. Cerrada con un tapón de cera negra.
 
-Se la había dejado un hombre de pelo blanco hacía tantos años que no se acordaba. *Guárdamela*, le había dicho. *No la abras. No la rompas. Si se rompe, no te asustes.* Y Yared la había guardado. Y la jarra lo había guardado a él: lo sabía, aunque nadie se lo había dicho; lo sabía porque todos los que conocía se habían muerto y él no.
+Se la había dejado un hombre de pelo blanco hacía tantos años que no se acordaba. Guárdamela, le había dicho. No la abras. No la rompas. Si se rompe, no te asustes. Y Yared la había guardado. Y la jarra lo había guardado a él: lo sabía, aunque nadie se lo había dicho; lo sabía porque todos los que conocía se habían muerto y él no.
 
 Hacía dos años, una noche, la jarra se había rajado.
 

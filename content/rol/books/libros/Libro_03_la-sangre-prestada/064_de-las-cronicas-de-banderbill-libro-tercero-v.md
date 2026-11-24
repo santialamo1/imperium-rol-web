@@ -1,6 +1,6 @@
 # De las Crónicas de Banderbill, Libro Tercero (V)
 
-*Escrito por Rufo Vell, cronista de la biblioteca, en el invierno del año 785 de la* *Nueva Era (178 D.bA). En Lindos, en la casa de madera roja de al lado de la poza, porque* *el Emperador ya no sale de aquí. Con una nota al pie en otra letra.*
+*Escrito por Rufo Vell, cronista de la biblioteca, en el invierno del año 785 de la Nueva Era (178 D.bA). En Lindos, en la casa de madera roja de al lado de la poza, porque el Emperador ya no sale de aquí. Con una nota al pie en otra letra.*
 
 Me llamo Rufo. Tengo cincuenta años, el apellido desde el 758, y soy el primer Vell que escribe una crónica fuera de la colina.
 
@@ -14,11 +14,11 @@ Y funciona. Que es lo raro.
 
 Lo que más ha cambiado en estos veinte años no se ve.
 
-Se cuenta. Lo cuenta el señor Vell de las gafas, el otro, que no es pariente mío, que lleva el apellido desde antes que nadie y que me recibió en la biblioteca, el primer día, con un libro de cuentas abierto y una frase que no entendí: *Ahora hay que sumar dos veces*.
+Se cuenta. Lo cuenta el señor Vell de las gafas, el otro, que no es pariente mío, que lleva el apellido desde antes que nadie y que me recibió en la biblioteca, el primer día, con un libro de cuentas abierto y una frase que no entendí: Ahora hay que sumar dos veces.
 
 Lo entendí después.
 
-Hay que sumar dos veces porque hay dos de todo. Dos continentes: el de la colina y el de Wonder, que nadie se pone de acuerdo en cómo llamar, y que en los papeles del Consejo es *el Continente* y *el Nuevo Continente*, como si uno fuera el de verdad y el otro una copia. Dos cosechas, una en primavera y otra en otoño, porque en Wonder las estaciones van al revés de lo que uno espera. Dos Armadas, la de la colina y la de Wonder, que se tienen celos y que solo se ponen de acuerdo en una cosa: en el almirante. Dos monedas, porque en Wonder se paga en ruedas de madera roja con un agujero, y nadie ha conseguido que dejen de hacerlo.
+Hay que sumar dos veces porque hay dos de todo. Dos continentes: el de la colina y el de Wonder, que nadie se pone de acuerdo en cómo llamar, y que en los papeles del Consejo es el Continente y el Nuevo Continente, como si uno fuera el de verdad y el otro una copia. Dos cosechas, una en primavera y otra en otoño, porque en Wonder las estaciones van al revés de lo que uno espera. Dos Armadas, la de la colina y la de Wonder, que se tienen celos y que solo se ponen de acuerdo en una cosa: en el almirante. Dos monedas, porque en Wonder se paga en ruedas de madera roja con un agujero, y nadie ha conseguido que dejen de hacerlo.
 
 Y una cuenta larga. Cuatro meses de barco de una punta a otra. Todo lo que se decide en la colina llega a Wonder cuatro meses tarde. Todo lo que pasa en Wonder se sabe en la colina cuatro meses después. Cuando llegó a Wonder la noticia de que el Emperador se iba a vivir a las islas, el Emperador ya llevaba allí tres meses, y en Wonder se hicieron fiestas de despedida para un hombre que ya se había ido.
 
@@ -30,7 +30,7 @@ Me ha dicho que no lo sabe. Que lo apunta para cuando lo sepa.
 
 ---
 
-Wonder tiene ahora doce mil habitantes. Más que Nix. Una muralla de piedra gris con ocho torres. Un puerto con cuarenta barcos. Una plaza con un banco de madera roja que no deja tocar nadie porque encima de ese banco, dicen, se dijo el nombre. La alcaldesa es una nieta de Aila Tarrant. La taberna de *El Guiso* la lleva un bisnieto de Grum, que se murió en el 771, viejísimo, removiendo. Lo enterraron con el cucharón. El guiso sigue siendo el mismo. Dicen que el caldo no se ha vaciado nunca desde el 721. Que se le va echando.
+Wonder tiene ahora doce mil habitantes. Más que Nix. Una muralla de piedra gris con ocho torres. Un puerto con cuarenta barcos. Una plaza con un banco de madera roja que no deja tocar nadie porque encima de ese banco, dicen, se dijo el nombre. La alcaldesa es una nieta de Aila Tarrant. La taberna de El Guiso la lleva un bisnieto de Grum, que se murió en el 771, viejísimo, removiendo. Lo enterraron con el cucharón. El guiso sigue siendo el mismo. Dicen que el caldo no se ha vaciado nunca desde el 721. Que se le va echando.
 
 Al norte de Wonder está el bosque rojo. Al norte del bosque rojo, el muerto. Al norte del muerto, el blanco, donde viven los elfos del Este, en su ciudad de árboles que ellos no llaman ciudad. Hay comercio. Poco, pero hay. Los elfos dan miel y resina y madera caída. Nosotros damos sal y telas. Los elfos no regatean, lo que pone muy nerviosos a los mercaderes de Wonder.
 
@@ -52,7 +52,7 @@ Es el undécimo de ese nombre, aunque no lo será hasta que se muera su padre, y
 
 —¿Qué hay ahí? —pregunta.
 
-Nadie lo sabe. Arriba del mapa, hacia el norte, solo hay mar. Y una nota de la Emperatriz, con su letra, en la esquina: *Aquí hace frío. Dicen.*
+Nadie lo sabe. Arriba del mapa, hacia el norte, solo hay mar. Y una nota de la Emperatriz, con su letra, en la esquina: Aquí hace frío. Dicen.
 
 El heredero dice que algún día irá a ver si es verdad.
 
@@ -78,12 +78,12 @@ No pregunto. Soy un Vell. Apunto.
 
 ---
 
-— —
-
 *Al pie, en otra letra, pequeña, de niño:*
 
-*No se ha ido a Nix. Amasa de noche, en el horno de la calle de abajo, con la barba* *distinta. Se hace pasar por el sobrino del tío Teo. Ya van cuatro sobrinos.*
+*No se ha ido a Nix. Amasa de noche, en el horno de la calle de abajo, con la barba distinta. Se hace pasar por el sobrino del tío Teo. Ya van cuatro sobrinos.*
 
-*El niño Teo, el hijo de Isra, le ha visto la cara una noche. Le ha preguntado si es su* *tío. Le ha dicho que sí.*
+*El niño Teo, el hijo de Isra, le ha visto la cara una noche. Le ha preguntado si es su tío. Le ha dicho que sí.*
 
-*No es mentira. Que conste.* *S.*
+*No es mentira. Que conste.*
+
+*S.*

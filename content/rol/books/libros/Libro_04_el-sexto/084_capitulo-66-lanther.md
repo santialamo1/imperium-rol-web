@@ -1,6 +1,6 @@
 # Capítulo 66 · Lanther
 
-*La punta de los pájaros, al norte de Wonder. Otoño del año 1437 de la Nueva Era* *(830 D.bA).*
+*La punta de los pájaros, al norte de Wonder. Otoño del año 1437 de la Nueva Era (830 D.bA).*
 
 Los pájaros seguían allí.
 
@@ -14,7 +14,7 @@ Detrás de ella venían cuatro mil hombres.
 
 No los había traído ella.
 
-Eso lo tenía que decir, aunque fuera solo para sí misma, porque nadie más se lo iba a preguntar. No los había traído. No había dicho dónde estaba. Cuando el Emperador la llamó a la sala del trono, en el verano, con los veintiséis sabios detrás y el pergamino en la mano, y le leyó en voz alta la línea nueva, *el octavo, cerca de la ciudad de los magos, al* *norte*, y le preguntó, mirándola, *tú sabes dónde está*, ella dijo:
+Eso lo tenía que decir, aunque fuera solo para sí misma, porque nadie más se lo iba a preguntar. No los había traído. No había dicho dónde estaba. Cuando el Emperador la llamó a la sala del trono, en el verano, con los veintiséis sabios detrás y el pergamino en la mano, y le leyó en voz alta la línea nueva, el octavo, cerca de la ciudad de los magos, al norte, y le preguntó, mirándola, tú sabes dónde está, ella dijo:
 
 —Sí.
 
@@ -56,7 +56,7 @@ Cuatro mil hombres buscando por la costa al norte de Wonder, en las calas, en lo
 
 Lanther fue con ellos.
 
-No la obligó nadie. Fue. Montada en un caballo pequeño que no le gustaba, detrás del Emperador, con la capa vieja, sin decir nada. Los soldados la miraban de reojo. Sabían quién era, más o menos: la del muro, la que había estado al lado del Emperador en el balcón el día del discurso, la que no envejecía. *La pesadora*, decían algunos, confundiéndola con la otra, con Wenna. A ella no le importaba.
+No la obligó nadie. Fue. Montada en un caballo pequeño que no le gustaba, detrás del Emperador, con la capa vieja, sin decir nada. Los soldados la miraban de reojo. Sabían quién era, más o menos: la del muro, la que había estado al lado del Emperador en el balcón el día del discurso, la que no envejecía. La pesadora, decían algunos, confundiéndola con la otra, con Wenna. A ella no le importaba.
 
 Fue porque no podía no ir.
 
@@ -98,7 +98,7 @@ El Emperador la vio. No dijo nada. Esperó.
 
 La puerta de la casa no tenía cerradura. Nunca la había tenido. Lanther la empujó y crujió como en el 715.
 
-Dentro, lo de siempre. La cama deshecha, con la manta que ya no era manta. La mesa. La silla. La fuente de la esquina, que seguía manando en su pila de piedra con su ruido de agua pequeña. Y las paredes escritas del suelo al techo, con carbón, con tiza, con la punta de un cuchillo, con la letra de pescador de Bredinlo. *He soñado con Pell. Barría.* *No me miraba.* *La vara late más deprisa cuando estoy triste. No voy a estar triste.* *Otra* *vez. Otra vez. Otra vez.*
+Dentro, lo de siempre. La cama deshecha, con la manta que ya no era manta. La mesa. La silla. La fuente de la esquina, que seguía manando en su pila de piedra con su ruido de agua pequeña. Y las paredes escritas del suelo al techo, con carbón, con tiza, con la punta de un cuchillo, con la letra de pescador de Bredinlo. He soñado con Pell. Barría. No me miraba. La vara late más deprisa cuando estoy triste. No voy a estar triste. Otra vez. Otra vez. Otra vez.
 
 Los soldados que entraron detrás leyeron eso y se callaron.
 
@@ -128,7 +128,7 @@ Sangre. La de él. La de los Bhargaras. La de la línea.
 
 Lo que cierra una sangre, lo abre esa sangre.
 
-Por eso Lanther lo había guardado tranquila setecientos veinte años. Porque la línea se acabó con Astragal. *Ni hermanos, ni tíos, ni primos, ni hijos.* Porque no quedaba nadie que pudiera poner la mano en esa estrella. Salvo una familia de panaderos en la calle del Horno que no sabía que lo era, y a la que nadie iba a traer nunca a una punta de roca al norte de Wonder.
+Por eso Lanther lo había guardado tranquila setecientos veinte años. Porque la línea se acabó con Astragal. Ni hermanos, ni tíos, ni primos, ni hijos. Porque no quedaba nadie que pudiera poner la mano en esa estrella. Salvo una familia de panaderos en la calle del Horno que no sabía que lo era, y a la que nadie iba a traer nunca a una punta de roca al norte de Wonder.
 
 Salvo eso.
 
@@ -156,7 +156,7 @@ Nadie lo vio más que ella.
 
 Un momento. Lo que tarda uno en respirar. La estrella de ocho puntas, bajo la mano del Emperador, se puso roja como se había puesto bajo la mano de Lindos setecientos veinte años antes. Y la piedra de alrededor se volvió transparente. No se abrió: se volvió aire. Como se vuelve aire una cosa que se ha acordado de que no tiene por qué estar.
 
-Los magos gritaron que habían sido ellos. *¡Las plegarias!* Los clérigos cayeron de rodillas. Los cuatro mil, en la ladera, rugieron.
+Los magos gritaron que habían sido ellos. ¡Las plegarias! Los clérigos cayeron de rodillas. Los cuatro mil, en la ladera, rugieron.
 
 El Emperador se quedó con la mano en el aire. Mirándose la palma.
 
@@ -216,7 +216,7 @@ Lanther se paró detrás de él.
 
 El Emperador se quedó quieto.
 
-Luego hizo un gesto. Al comandante que tenía al lado. Un hombre de Wonder, joven, ambicioso, de los que habían subido con el oro. *Cógela.*
+Luego hizo un gesto. Al comandante que tenía al lado. Un hombre de Wonder, joven, ambicioso, de los que habían subido con el oro. Cógela.
 
 El comandante dio un paso. Extendió la mano.
 

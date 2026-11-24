@@ -12,7 +12,7 @@ A los veinte años, Bander Bhargaras había partido once espadas de entrenamient
 
 —Eso decía tu tío abuelo Meridio, y mira cómo acabó.
 
-Bander soltó una carcajada. Era una de esas cosas que solo su padre se atrevía a decir: bromear sobre Meridio el Loco, al que el resto de la corte mencionaba en susurros, como se menciona a un pariente con la sífilis. Haltair no. Haltair había leído el diario. Su madre, la vieja Aremir, se lo había dado cuando cumplió treinta años, y él había llorado tres días seguidos, y luego había mandado tallar en la tumba de su tío, en la cripta de la torre, una sola línea: *No estaba loco. Estaba ocupado.*
+Bander soltó una carcajada. Era una de esas cosas que solo su padre se atrevía a decir: bromear sobre Meridio el Loco, al que el resto de la corte mencionaba en susurros, como se menciona a un pariente con la sífilis. Haltair no. Haltair había leído el diario. Su madre, la vieja Aremir, se lo había dado cuando cumplió treinta años, y él había llorado tres días seguidos, y luego había mandado tallar en la tumba de su tío, en la cripta de la torre, una sola línea: No estaba loco. Estaba ocupado.
 
 —Una más —insistió Bander—. Una. Si gano, me dejas ir a Puerto Salobre con la escolta del tesoro.
 
@@ -62,7 +62,7 @@ Bander la miró. Ella lo miró a él, de arriba abajo, deteniéndose en la capa 
 
 —¿Cómo lo sabes?
 
-—Porque eres el único hombre en todo Puerto Salobre que se ha quedado mirando el mar con la boca abierta como un bacalao. —Le sonrió. Tenía un hoyuelo en la mejilla izquierda—. Me llamo Mara. Mara Renod. Mi padre es el capitán de la *Tozuda*, esa coca de ahí, la que tiene el mascarón con forma de cabra. Y mi tío Gorm es ese señor de ahí, el que está vomitando por la borda.
+—Porque eres el único hombre en todo Puerto Salobre que se ha quedado mirando el mar con la boca abierta como un bacalao. —Le sonrió. Tenía un hoyuelo en la mejilla izquierda—. Me llamo Mara. Mara Renod. Mi padre es el capitán de la Tozuda, esa coca de ahí, la que tiene el mascarón con forma de cabra. Y mi tío Gorm es ese señor de ahí, el que está vomitando por la borda.
 
 Bander miró. En la cubierta de la coca con el mascarón de cabra, un hombre enorme, calvo, con una barba rojiza que le llegaba al pecho, estaba efectivamente asomado por la borda, vomitando.
 
@@ -74,7 +74,7 @@ Bander miró. En la cubierta de la coca con el mascarón de cabra, un hombre eno
 
 —Sobre todo borracho. Sobrio no sabe ni hacer un nudo.
 
-Desde la cubierta de la *Tozuda*, el tío Gorm se incorporó, se limpió la barba con la manga, y gritó con una voz que debió de oírse en Concordia:
+Desde la cubierta de la Tozuda, el tío Gorm se incorporó, se limpió la barba con la manga, y gritó con una voz que debió de oírse en Concordia:
 
 —¡MARA! ¿QUIÉN ES ESE PISAVERDE?
 
@@ -96,7 +96,7 @@ Era verdad. A medias.
 
 ---
 
-—Los oyes, ¿verdad? —le preguntó Mara una noche, en la cubierta de la *Tozuda*, mientras el tío Gorm roncaba en la popa abrazado a un barril y las estrellas se reflejaban en el agua negra del puerto.
+—Los oyes, ¿verdad? —le preguntó Mara una noche, en la cubierta de la Tozuda, mientras el tío Gorm roncaba en la popa abrazado a un barril y las estrellas se reflejaban en el agua negra del puerto.
 
 Bander no contestó enseguida. Estaba tumbado boca arriba sobre la cubierta, con las manos detrás de la cabeza. Ella estaba tumbada a su lado. No se tocaban. Todavía no.
 

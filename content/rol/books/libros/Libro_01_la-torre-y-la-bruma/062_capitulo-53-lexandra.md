@@ -4,9 +4,9 @@
 
 El mercader se llamaba Osbert Rusk, vendía sal de Pisor a los clanes libres a precio de oro y llevaba once años engañándolos con las pesas, y cuando un muchacho de los pozos del este le abrió el cuello con un cuchillo de esquilar delante de su propia caravana, la mitad del oasis pensó que se lo había buscado y la otra mitad, que iba a costarles una guerra.
 
-Lexandra Tiberius lo supo a media mañana, en su tienda, mientras intentaba conjugar el verbo *escuchar* en la lengua de la arena por octava vez con una niña de nueve años que le hacía de maestra y se reía de ella sin disimulo.
+Lexandra Tiberius lo supo a media mañana, en su tienda, mientras intentaba conjugar el verbo escuchar en la lengua de la arena por octava vez con una niña de nueve años que le hacía de maestra y se reía de ella sin disimulo.
 
-—*Shem-ar* —repetía la niña—. No *shamar*. *Shamar* es lo que se le dice a las cabras.
+—Shem-ar —repetía la niña—. No shamar. Shamar es lo que se le dice a las cabras.
 
 —Lo sé. Llevo cuatro años diciéndoselo a la Madre.
 
@@ -144,15 +144,15 @@ Lexandra miró a Ysh-Neva. Ysh-Neva asintió despacio.
 
 ---
 
-Dan-Eli pesó lana y sal en el mercado de Kel-Ammar durante siete años. Luego, cuando se cumplió la sentencia, se quedó. Pesó durante cuarenta más. Los mercaderes del norte acabaron llamándolo *el Fiel*, porque su balanza era la única de todo el desierto de la que nadie había tenido nunca una queja. Y los pastores de los pozos, que habían sido estafados durante generaciones, empezaron a llevar su lana a Kel-Ammar desde cien leguas a la redonda solo para que se la pesara él.
+Dan-Eli pesó lana y sal en el mercado de Kel-Ammar durante siete años. Luego, cuando se cumplió la sentencia, se quedó. Pesó durante cuarenta más. Los mercaderes del norte acabaron llamándolo el Fiel, porque su balanza era la única de todo el desierto de la que nadie había tenido nunca una queja. Y los pastores de los pozos, que habían sido estafados durante generaciones, empezaron a llevar su lana a Kel-Ammar desde cien leguas a la redonda solo para que se la pesara él.
 
 Marta Rusk volvió a Pisor y no regresó nunca al desierto. Pero cada año, en el aniversario, mandaba con la primera caravana del verano un saquito de sal de Pisor para el mercado de Kel-Ammar. Sin nota. Dan-Eli lo pesaba, delante de todos, y siempre pesaba exactamente lo mismo: una libra.
 
 Lexandra Tiberius escribió a su hijo aquella misma noche. Una carta larga, en la que le contaba el juicio palabra por palabra. Al final, en una postdata, añadió:
 
-*Ansel dice que deberíamos llamarlo «el juicio de las dos sales», para que suene a* *algo. Yo creo que es mejor no llamarlo de ninguna manera, para que no suene a nada. Las* *cosas que suenan a algo se las acaba apropiando alguien. Las que no suenan a nada se* *quedan en los que las hicieron.*
+*Ansel dice que deberíamos llamarlo «el juicio de las dos sales», para que suene a algo. Yo creo que es mejor no llamarlo de ninguna manera, para que no suene a nada. Las cosas que suenan a algo se las acaba apropiando alguien. Las que no suenan a nada se quedan en los que las hicieron.*
 
-*La Madre y yo hemos discutido tres horas y hemos cedido las dos. Ninguna de las* *dos está contenta. Creo que eso significa que ha salido bien.*
+*La Madre y yo hemos discutido tres horas y hemos cedido las dos. Ninguna de las dos está contenta. Creo que eso significa que ha salido bien.*
 
 *Tu madre, que sigue sin saber conjugar «escuchar».*
 

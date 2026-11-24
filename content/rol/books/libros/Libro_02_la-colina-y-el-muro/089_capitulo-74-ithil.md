@@ -2,11 +2,7 @@
 
 *Bajo las ruinas de Tawarsinan. Año 400 de la Nueva Era.*
 
-*Del libro de cuentas de Sein Vell, año 400. Debe: los que se fueron. No sé*
-
-*cuántos. Saelith dice que trescientos. El elfo del sombrero dice que más. Ellos*
-
-*no se cuentan. Ya no.*
+*Del libro de cuentas de Sein Vell, año 400. Debe: los que se fueron. No sé cuántos. Saelith dice que trescientos. El elfo del sombrero dice que más. Ellos no se cuentan. Ya no.*
 
 Llevaba cuarenta y dos años bajando, e Ithil todavía no había encontrado el fondo.
 
@@ -66,9 +62,9 @@ No se la había dado.
 
 Ithil se acordaba de su cara. Pelirroja. De dieciocho años. En la cueva de sal de las montañas rojas, al lado de una mesa vacía. Con una espada de hierro negro y un frasquito de barro colgado del cuello. Con unos ojos grises que lo miraban como lo miraba su madre cuando era niño y hacía algo que no debía.
 
-*Lo que se coge con hambre tira*, le había dicho. *El que baja a buscar a los que* *enseñan a no mirar acaba aprendiendo a no mirar.*
+*Lo que se coge con hambre tira, le había dicho. El que baja a buscar a los que enseñan a no mirar acaba aprendiendo a no mirar.*
 
-*Ya lo sé*, le había contestado él.
+Ya lo sé, le había contestado él.
 
 *Entonces, ¿por qué bajas?*
 
@@ -76,7 +72,7 @@ Ithil no le había contestado a eso.
 
 Se lo contestó a sí mismo, después, muchas veces, en la oscuridad.
 
-*Porque Elen gritó un nombre hacia arriba. Con todas sus fuerzas. Y se cayó la* *plataforma igual.*
+*Porque Elen gritó un nombre hacia arriba. Con todas sus fuerzas. Y se cayó la plataforma igual.*
 
 ---
 
@@ -200,7 +196,7 @@ Pensó en Nimrath. En la orilla del río. Con los pies en el agua fría. Que no 
 
 Pensó en Elen.
 
-Pensó en lo que le había dicho la pelirroja. *Acaba aprendiendo a no mirar.*
+Pensó en lo que le había dicho la pelirroja. Acaba aprendiendo a no mirar.
 
 —¿Qué cuesta? —preguntó.
 
@@ -242,13 +238,13 @@ Era blanco.
 
 En la superficie, en el año 400, en una ciudad de humanos a la que habían ido a parar los elfos que se quedaron, un viejo con un sombrero que le quedaba grande abrió un diario al que le quedaban once hojas y escribió una entrada.
 
-*La caída de la ciudad dividió a los elfos supervivientes. Algunos solo deseábamos* *reconstruirlo todo, mientras que otros, cegados por el horror, deseaban la aniquilación de* *los orcos.*
+*La caída de la ciudad dividió a los elfos supervivientes. Algunos solo deseábamos reconstruirlo todo, mientras que otros, cegados por el horror, deseaban la aniquilación de los orcos.*
 
-Se detuvo. Buscó una palabra. Para los que se fueron. Para los que bajaron. Una palabra que no fuera *elfo*.
+Se detuvo. Buscó una palabra. Para los que se fueron. Para los que bajaron. Una palabra que no fuera elfo.
 
-La encontró en la lengua de su madre. Una palabra vieja. Que no se usaba. Que quería decir *el que mira hacia abajo*. Que se decía, en Tawarsinan, hacía tres mil años, del niño que dijo el nombre que no había que decir.
+La encontró en la lengua de su madre. Una palabra vieja. Que no se usaba. Que quería decir el que mira hacia abajo. Que se decía, en Tawarsinan, hacía tres mil años, del niño que dijo el nombre que no había que decir.
 
-*Estos elfos, que apodamos «Drows»*, escribió, *nos abandonaron y nos acusaron de* *débiles.*
+*Estos elfos, que apodamos «Drows», escribió, nos abandonaron y nos acusaron de débiles.*
 
 La miró mucho rato.
 

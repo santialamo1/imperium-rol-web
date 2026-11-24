@@ -1,6 +1,6 @@
 # Capítulo 24 · Lanther
 
-*La casa de Eluret, en el barrio élfico de Banderbill, y la sala del Consejo.* *Primavera del año 1112 de la Nueva Era (505 D.bA).*
+*La casa de Eluret, en el barrio élfico de Banderbill, y la sala del Consejo. Primavera del año 1112 de la Nueva Era (505 D.bA).*
 
 Lanther había visto morir a mucha gente, y había aprendido que los que se mueren despacio se mueren de una cosa sola, al final, aunque tengan cien. Una cosa que les queda pendiente. Que se les queda en la boca. Que no se van hasta que la sueltan.
 
@@ -76,11 +76,11 @@ Y no sabía qué contestarle a un medio elfo de ciento cincuenta y seis años en
 
 Porque ella tampoco lo sabía.
 
-Lo pensaba desde el 1067. Desde la noche en que Gal se murió y ella se quedó en la almena hasta el alba y luego bajó al sótano y Sein le dijo, sin levantar la vista, *ya está*. Y ella dijo *ya está*. Y los dos sabían que no estaba. Que había una panadería en la calle del Horno. Que había una línea. Que había una sangre que no sabía que era sangre, y que ellos dos, y Teo, y luego Verawel, y luego Baervan, habían decidido entre todos, sin decirlo nunca en voz alta, que era mejor que siguiera sin saberlo.
+Lo pensaba desde el 1067. Desde la noche en que Gal se murió y ella se quedó en la almena hasta el alba y luego bajó al sótano y Sein le dijo, sin levantar la vista, ya está. Y ella dijo ya está. Y los dos sabían que no estaba. Que había una panadería en la calle del Horno. Que había una línea. Que había una sangre que no sabía que era sangre, y que ellos dos, y Teo, y luego Verawel, y luego Baervan, habían decidido entre todos, sin decirlo nunca en voz alta, que era mejor que siguiera sin saberlo.
 
 Y el Imperio se partía. Un dedo cada año.
 
-Lanther lo oía. En la muralla. En el *tum* de las piedras, de noche, que ya no era el mismo. Que se había vuelto más lento. Más hondo. Como el de alguien que duerme mal.
+Lanther lo oía. En la muralla. En el tum de las piedras, de noche, que ya no era el mismo. Que se había vuelto más lento. Más hondo. Como el de alguien que duerme mal.
 
 ---
 
@@ -218,7 +218,7 @@ Lanther salió de la sala la primera. Bajó a la plaza. Fue a la muralla. Subió
 
 Escuchó.
 
-Y la muralla, esa noche, hizo *tum* como lo hacía antes. Como en tiempos de Gal. Como en tiempos de su padre. Rápido. Ligero. Como el corazón de alguien que se ha quitado un peso.
+Y la muralla, esa noche, hizo tum como lo hacía antes. Como en tiempos de Gal. Como en tiempos de su padre. Rápido. Ligero. Como el corazón de alguien que se ha quitado un peso.
 
 Y debajo de la muralla, debajo de la colina, debajo de las cuevas viejas, muy lejos, muy hondo, Lanther oyó otra cosa.
 
@@ -236,7 +236,7 @@ Y pensó que cien años buenos, para un recaudador paciente, son cien años de e
 
 ---
 
-En el Diario de la familia Érandiul, esa noche, con la letra de la mano izquierda, alguien escribió: *Tengo un buen presentimiento sobre este Gnomo.*
+En el Diario de la familia Érandiul, esa noche, con la letra de la mano izquierda, alguien escribió: Tengo un buen presentimiento sobre este Gnomo.
 
 Lanther lo leyó años después, en el sótano, en la copia de Mirela.
 

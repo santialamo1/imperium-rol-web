@@ -1,6 +1,6 @@
 # Capítulo 61 · Asgal
 
-*Tiama y la colina de Banderbill. Del otoño del 856 a la primavera del 857 de la* *Nueva Era (249–250 D.bA).*
+*Tiama y la colina de Banderbill. Del otoño del 856 a la primavera del 857 de la Nueva Era (249–250 D.bA).*
 
 Dalbur lo supo antes que nadie, y se lo dijo a medianoche, en la puerta de su casa, en camisa, descalzo en la nieve, con el martillo en la mano sin saber por qué lo había cogido.
 
@@ -28,11 +28,11 @@ Dalbur no contestó.
 
 La carta tardó siete meses.
 
-Llegó en primavera. En el *Garza*. Que venía de Lindos, con la mitad de la tripulación de antes, y con el casco remendado con tablas de otro barco. Con la bandera a media asta.
+Llegó en primavera. En el Garza. Que venía de Lindos, con la mitad de la tripulación de antes, y con el casco remendado con tablas de otro barco. Con la bandera a media asta.
 
 Asgal la leyó en el muelle. Delante de todos. Era de Érandiul. Con la izquierda. Corta.
 
-*Alteza. Su padre murió en una isla negra, al norte, en mitad del Mar de la Eterna* *Penuria, el último día del verano, al lado de una raíz, con la espada de su abuelo en la* *mano, mirando arriba. El almirante murió en la nieve de la misma isla. Yo vivo. No sé por* *qué. Venga a la colina. Hay que coronarlo. Hay que contarle cosas que no se pueden* *escribir. É.*
+*Alteza. Su padre murió en una isla negra, al norte, en mitad del Mar de la Eterna Penuria, el último día del verano, al lado de una raíz, con la espada de su abuelo en la mano, mirando arriba. El almirante murió en la nieve de la misma isla. Yo vivo. No sé por qué. Venga a la colina. Hay que coronarlo. Hay que contarle cosas que no se pueden escribir. É.*
 
 Y una posdata. Con la letra más pequeña. Más torcida.
 
@@ -98,7 +98,7 @@ Se lo pidió. Asgal. En el muelle. Antes de embarcar.
 
 —Era tu bisabuelo.
 
-—Por eso. —Ilan miró el Sombrero, allá al este, sobre el Pasaje Norte. La montaña del glaciar. La ladera este, donde estaba la cueva de cristal—. Alguien tiene que quedarse con lo que duerme ahí. Dalbur no oye. Yo sí. La espada sí. —Tocó la empuñadura—. Si me voy, y se despierta, no hay nadie que le diga *quieto*.
+—Por eso. —Ilan miró el Sombrero, allá al este, sobre el Pasaje Norte. La montaña del glaciar. La ladera este, donde estaba la cueva de cristal—. Alguien tiene que quedarse con lo que duerme ahí. Dalbur no oye. Yo sí. La espada sí. —Tocó la empuñadura—. Si me voy, y se despierta, no hay nadie que le diga quieto.
 
 Asgal no insistió.
 
@@ -140,19 +140,19 @@ Asgal no supo nunca quién había sido. Inés Vell sí. Lo apuntó. Era un enano
 
 Esa noche, el sótano.
 
-Estaban todos. Sein. Wenna. Tibbet con el *103*. Verawel. Ottherius. Y Érandiul, en su silla, con el sombrero puesto, con mil un años, con una manga de camisa manchada de tinta encima de la mesa, doblada, que no dejaba que nadie tocara.
+Estaban todos. Sein. Wenna. Tibbet con el 103. Verawel. Ottherius. Y Érandiul, en su silla, con el sombrero puesto, con mil un años, con una manga de camisa manchada de tinta encima de la mesa, doblada, que no dejaba que nadie tocara.
 
 Y la pelirroja. De pie. En un rincón. Sin sentarse.
 
-La silla del almirante estaba vacía. Con un casco encima. Abollado. Que había traído un soldado del *Rosa*.
+La silla del almirante estaba vacía. Con un casco encima. Abollado. Que había traído un soldado del Rosa.
 
 ---
 
 Érandiul se lo contó todo.
 
-La niebla. La isla. Las gaviotas que se fueron. La comida en las mesas. La raíz. El grito. El almirante empujándolo contra una puerta. *Yo ya sé cómo me muero. Es un alivio.* La sala de los escribas. Los planos. La cruz encima del Guardián. El círculo debajo de la colina. La palabra que no sabía leer.
+La niebla. La isla. Las gaviotas que se fueron. La comida en las mesas. La raíz. El grito. El almirante empujándolo contra una puerta. Yo ya sé cómo me muero. Es un alivio. La sala de los escribas. Los planos. La cruz encima del Guardián. El círculo debajo de la colina. La palabra que no sabía leer.
 
-Y el drow. Con manos de arpista. *Llévatelo. Que lo sepa ella. La que dijo que no.*
+Y el drow. Con manos de arpista. Llévatelo. Que lo sepa ella. La que dijo que no.
 
 Cuando terminó, nadie dijo nada.
 
@@ -176,7 +176,7 @@ La pelirroja lo miró.
 
 —Y no fuiste.
 
-—Y no fui. —A la pelirroja se le movió la cara—. Y se murió tu padre. Y se murió Hesper, al que yo le dije en el 745 que la respuesta que valía era *para acordarme*. Y se murieron mil doscientos. —Se le quebró la voz—. Y yo estaba aquí. En una almena. Mirando arriba.
+—Y no fui. —A la pelirroja se le movió la cara—. Y se murió tu padre. Y se murió Hesper, al que yo le dije en el 745 que la respuesta que valía era para acordarme. Y se murieron mil doscientos. —Se le quebró la voz—. Y yo estaba aquí. En una almena. Mirando arriba.
 
 Nadie dijo nada.
 
@@ -264,11 +264,11 @@ Se quitó el aro de hierro. Lo dejó en la mesa. Al lado del casco abollado del 
 
 Érandiul escribió la entrada esa noche. En la silla del fondo. Con el sombrero. Con la izquierda.
 
-*Así, cuando regresamos, Asgal, hijo de Bhargaras XI, es coronado como* *Emperador, siendo así el décimo noveno Emperador de Banderbill.*
+*Así, cuando regresamos, Asgal, hijo de Bhargaras XI, es coronado como Emperador, siendo así el décimo noveno Emperador de Banderbill.*
 
 Asgal la leyó por encima de su hombro.
 
-—*Cuando regresamos* —dijo—. Yo no regresé. No fui.
+—Cuando regresamos —dijo—. Yo no regresé. No fui.
 
 —Regresé yo —dijo Érandiul—. Y usted vino. —Secó la tinta—. Desde Annkör. Con un aro de hierro de enano. Eso también es regresar, alteza. A un sitio donde no había estado nunca.
 

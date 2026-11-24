@@ -4,7 +4,7 @@
 
 La piedra sabía su nombre.
 
-Lo supo en cuanto se acercó. Antes de tocarla. Antes incluso de extender la mano. La piedra latía, rápida, inquieta, y en cada latido había una palabra. No *Heredicus*, como había oído un muchacho llamado Lisandro cuatrocientos once años atrás. Otra.
+Lo supo en cuanto se acercó. Antes de tocarla. Antes incluso de extender la mano. La piedra latía, rápida, inquieta, y en cada latido había una palabra. No Heredicus, como había oído un muchacho llamado Lisandro cuatrocientos once años atrás. Otra.
 
 *Emrah. Emrah. Emrah.*
 
@@ -18,13 +18,13 @@ La piedra no contestó. Las piedras no contestan. Pero en el fondo del mundo, en
 
 —Me dijiste que la piedra no me conocía. Que yo no había jurado. Que mi sangre no había jurado.
 
-*Y es verdad. Tú no juraste.* Una pausa, larga, como la de una montaña que piensa. *Pero yo te conozco. Y la piedra es yo. Es mi corazón. La mitad que me robaron. Y un* *corazón conoce a quien lleva su aliento dentro. Tú me diste siete partes de ti en el fondo* *del pozo. ¿Lo recuerdas? Yo te di algo a cambio.*
+Y es verdad. Tú no juraste. Una pausa, larga, como la de una montaña que piensa. Pero yo te conozco. Y la piedra es yo. Es mi corazón. La mitad que me robaron. Y un corazón conoce a quien lleva su aliento dentro. Tú me diste siete partes de ti en el fondo del pozo. ¿Lo recuerdas? Yo te di algo a cambio.
 
 Loth sintió frío. Él, que no sentía nada desde hacía doscientos noventa y dos años.
 
 —¿Qué me diste?
 
-*Lo mismo que tú le diste al niño Bhargaras. Un trozo de mí. Para que no pudieras* *soltarme nunca. Para que, estuvieras donde estuvieras, me oyeras. Y para que, cuando* *llegara el momento, la piedra te reconociera.* La voz se volvió dulce, casi tierna. *Ahora* *pon la mano, cantor. Saca el clavo. Y te devolveré a Anwe. Respirando. Te lo prometo.*
+Lo mismo que tú le diste al niño Bhargaras. Un trozo de mí. Para que no pudieras soltarme nunca. Para que, estuvieras donde estuvieras, me oyeras. Y para que, cuando llegara el momento, la piedra te reconociera. La voz se volvió dulce, casi tierna. Ahora pon la mano, cantor. Saca el clavo. Y te devolveré a Anwe. Respirando. Te lo prometo.
 
 Loth no puso la mano.
 
@@ -40,7 +40,7 @@ Miró a Seren. Ella no lo miraba a él; miraba hacia arriba, hacia la bóveda de
 
 Un silencio.
 
-*Lo sabía*, admitió la cosa del pozo.
+Lo sabía, admitió la cosa del pozo.
 
 —Y por eso me dijiste que Maximus era la sangre de la piedra. Por eso me hiciste matarlo. Para que no quedara ninguno que pudiera cerrarla otra vez si la abría otro.
 
@@ -50,13 +50,13 @@ Un silencio.
 
 Otro silencio. Más largo.
 
-*Una*, dijo la cosa del pozo. *Una niña. Nueve años. Rubia. Ojos grises. Se llama* *Livia. Se va por el túnel. Hacia el mar. Con el niño Bhargaras.*
+Una, dijo la cosa del pozo. Una niña. Nueve años. Rubia. Ojos grises. Se llama Livia. Se va por el túnel. Hacia el mar. Con el niño Bhargaras.
 
 Loth cerró los ojos.
 
 Le había prometido a Haltair que no tocaría a los seiscientos. Se lo había prometido en los escalones de la torre, mientras el emperador amable se moría delante de él. Era lo único que le habían pedido en mucho tiempo que no fuera lo otro.
 
-*Tráemela*, dijo la cosa del pozo. *Tráeme a la niña. Pon su mano en la piedra. Y* *todo habrá terminado.*
+Tráemela, dijo la cosa del pozo. Tráeme a la niña. Pon su mano en la piedra. Y todo habrá terminado.
 
 Seren le apretó la muñeca.
 
@@ -90,7 +90,7 @@ Casimir se quedó inmóvil.
 
 Casimir Vell miró a Loth. Y Loth vio en su cara, por fin, la comprensión. La misma que había visto en tantas caras a lo largo de cuatrocientos años. La de alguien que acaba de descubrir que el mundo es mentira.
 
-—Nunca he mentido sobre lo que quiero —dijo Loth, con suavidad—. Te lo dije. Lo he dicho siempre. Y tú lo sabías, canciller. Sabías lo que quiero. Sabías lo que hago. Lo sabía tu abuelo. Lo sabía todo el mundo. Lo que no sabías, lo que nadie sabe nunca, es que *lo que quiero* no tiene nada que ver contigo. Ni con tu emperatriz. Ni con tu venganza. — Se acercó al trono—. Te usé, Casimir Vell. Como tú usaste a tu amigo el príncipe. Como tu tatarabuela usó a los niños de las jaulas. Como la piedra usa los nombres. Así es como funciona todo. Todos usan a todos. La única diferencia es que yo no finjo lo contrario.
+—Nunca he mentido sobre lo que quiero —dijo Loth, con suavidad—. Te lo dije. Lo he dicho siempre. Y tú lo sabías, canciller. Sabías lo que quiero. Sabías lo que hago. Lo sabía tu abuelo. Lo sabía todo el mundo. Lo que no sabías, lo que nadie sabe nunca, es que lo que quiero no tiene nada que ver contigo. Ni con tu emperatriz. Ni con tu venganza. — Se acercó al trono—. Te usé, Casimir Vell. Como tú usaste a tu amigo el príncipe. Como tu tatarabuela usó a los niños de las jaulas. Como la piedra usa los nombres. Así es como funciona todo. Todos usan a todos. La única diferencia es que yo no finjo lo contrario.
 
 —¿Vas a matarme?
 
@@ -138,7 +138,7 @@ Y otra. Más joven. Un hombre, que cantaba la misma nana, con el cielo muy bonit
 
 No le respondieron. No lo oían. O lo oían y no querían contestar. Estaban allí, en la llama, con todos los demás, y no estaban atrapados. No estaban en la nada. Estaban en paz.
 
-*La torre es un clavo*, le había dicho la cosa del pozo. *Sácalo.*
+La torre es un clavo, le había dicho la cosa del pozo. Sácalo.
 
 Pero un clavo, comprendió Loth, de rodillas en la cámara de cristal, con la luz de los mil colores bañándole la cara, no solo sujeta lo que hay debajo. También sostiene lo que hay encima.
 
@@ -152,7 +152,7 @@ Ella estaba de pie junto a la llama, con el velo levantado por primera vez desde
 
 Y lloraba. Lágrimas grises, que le resbalaban por la cara y caían sobre el suelo de piedra y se evaporaban en volutas de niebla.
 
-*Ahora lo sabes*, dijo su voz, dentro de él. *Ahora sabes adónde va lo que se suelta.*
+Ahora lo sabes, dijo su voz, dentro de él. Ahora sabes adónde va lo que se suelta.
 
 —¿Anwe? —preguntó Loth. Le temblaba la voz—. ¿Está ahí? ¿Está en la llama?
 

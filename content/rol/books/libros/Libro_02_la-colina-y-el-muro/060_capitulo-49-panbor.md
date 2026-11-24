@@ -2,9 +2,7 @@
 
 *El Fuerte Novel y las montañas rojas. Invierno del año 133 de la Nueva Era.*
 
-*Del libro de cuentas de Sein Vell, año 133. Debe: el Fuerte Novel. Setecientos*
-
-*menos diez. No sé apuntar el otro lado. No sé ni cómo se llama el otro lado.*
+*Del libro de cuentas de Sein Vell, año 133. Debe: el Fuerte Novel. Setecientos menos diez. No sé apuntar el otro lado. No sé ni cómo se llama el otro lado.*
 
 Panbor no sabía contar más allá de las manos, y no le hacía falta.
 
@@ -44,11 +42,11 @@ La piedra hablaba.
 
 No con palabras. Panbor no habría sabido qué hacer con palabras; los hermanos tenían pocas, y las de la colina eran demasiadas y demasiado blandas. La piedra hablaba con lo que hay debajo de las palabras. Con el estómago. Con el pecho. Como habla el hambre.
 
-*Ve*, decía. *Allí. Al este. Donde están los que tienen árboles. Donde están los que* *tienen pan. Ve. Coge.*
+*Ve, decía. Allí. Al este. Donde están los que tienen árboles. Donde están los que tienen pan. Ve. Coge.*
 
 Y Panbor iba.
 
-No era el más grande de los hermanos. Había tres más grandes, y dos más fuertes, y uno que tiraba el hacha más lejos. Pero era el que oía la piedra. Y cuando él decía *vamos*, los hermanos iban, porque detrás de su voz había otra, más honda, que les apretaba el estómago a ellos también.
+No era el más grande de los hermanos. Había tres más grandes, y dos más fuertes, y uno que tiraba el hacha más lejos. Pero era el que oía la piedra. Y cuando él decía vamos, los hermanos iban, porque detrás de su voz había otra, más honda, que les apretaba el estómago a ellos también.
 
 En una mano de inviernos, los hermanos dejaron de pelearse entre ellos. Por primera vez desde que los viejos recordaban. Dejaron de matarse por una cabra, por una cueva, por una hembra. Iban todos juntos. Hacia el este. Hacia los árboles. Detrás de Panbor. Detrás de la piedra.
 
@@ -70,7 +68,7 @@ Había un fuerte igual, decían los viejos, mucho más al norte. En la colina de
 
 Este no cantaba tanto. La madera canta menos que la piedra.
 
-*Ve*, dijo la piedra. *Ahora. Coge.*
+Ve, dijo la piedra. Ahora. Coge.
 
 Panbor fue.
 
@@ -78,7 +76,7 @@ Panbor fue.
 
 Esperó a la noche más negra. Sin luna. Con lluvia. Una mano de manos de hermanos detrás de él: cientos, en el bosque, quietos, con las hachas, oliendo a barro.
 
-No tocaron los tambores. Por primera vez. El Sincara se lo había enseñado: *el* *tambor avisa. El que avisa, pierde.* Llevaban cuatro lunas tocándolos cada noche, para que los de la colina se acostumbraran. Y la noche anterior habían parado.
+No tocaron los tambores. Por primera vez. El Sincara se lo había enseñado: el tambor avisa. El que avisa, pierde. Llevaban cuatro lunas tocándolos cada noche, para que los de la colina se acostumbraran. Y la noche anterior habían parado.
 
 Los de la colina habían doblado la guardia. Panbor lo vio desde el bosque. Más antorchas en la empalizada. Más sombras en las torres.
 
@@ -160,7 +158,7 @@ Era roja. Por dentro. Como el agua de los arroyos cuando bajan con lluvia. Trans
 
 Latía como late un corazón.
 
-*Bien*, dijo la piedra. No con el estómago. Con palabras. Por primera vez. Una voz que no era la del Sincara. Más honda. Más vieja. Que venía de muy abajo, de debajo de todas las montañas. *Bien. Tráemela.*
+Bien, dijo la piedra. No con el estómago. Con palabras. Por primera vez. Una voz que no era la del Sincara. Más honda. Más vieja. Que venía de muy abajo, de debajo de todas las montañas. Bien. Tráemela.
 
 ---
 
@@ -174,7 +172,7 @@ Nadie le discutió nada nunca más.
 
 Dejó a los hermanos en el fuerte quemado. Le dijo al más grande, a Gruk, que se quedara, que esperara, que los de la colina vendrían y que había que estar. Y se fue al oeste. Solo. Con la piedra roja contra el pecho.
 
-*Tráemela*, decía la piedra.
+Tráemela, decía la piedra.
 
 ---
 
@@ -226,7 +224,7 @@ Panbor no quería.
 
 Era la primera vez en su vida que no quería algo que le mandaban. La piedra le había cerrado la espalda. La piedra le había quitado el miedo. La piedra le había hecho el primero. Sin la piedra era un hermano más. Uno de una mano de manos.
 
-*Déjala*, dijo la voz. La de abajo. La honda. *Déjala. Ya has hecho lo que tenías que* *hacer. Ya está llena. Déjala donde pueda tenerla.*
+Déjala, dijo la voz. La de abajo. La honda. Déjala. Ya has hecho lo que tenías que hacer. Ya está llena. Déjala donde pueda tenerla.
 
 Panbor se quitó la tira de cuero del cuello.
 

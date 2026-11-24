@@ -2,15 +2,11 @@
 
 *Banderbill. Años 75 a 77 de la Nueva Era.*
 
-*Del libro de cuentas de Sein Vell, años 75 a 77. Debe: un panadero. Haber: un*
-
-*niño que todavía no tiene nombre de dentro, porque su padre lo está buscando*
-
-*en un diccionario.*
+*Del libro de cuentas de Sein Vell, años 75 a 77. Debe: un panadero. Haber: un niño que todavía no tiene nombre de dentro, porque su padre lo está buscando en un diccionario.*
 
 La primera carta llegó el año que murió Teo, y no la firmaba nadie.
 
-Llegó en un barco de Pisor, entre sacos de sal, con el sello de cera roto y sin dirección. Solo un nombre en el pliego de fuera, con una letra que Amael no conocía, una letra de mano izquierda o de alguien que escribía con la otra mano para que no lo reconocieran: *Al que lee.*
+Llegó en un barco de Pisor, entre sacos de sal, con el sello de cera roto y sin dirección. Solo un nombre en el pliego de fuera, con una letra que Amael no conocía, una letra de mano izquierda o de alguien que escribía con la otra mano para que no lo reconocieran: Al que lee.
 
 El capitán del barco no sabía quién se la había dado. Se la había dado un pescador de la costa oeste, que se la había dado un pastor, que la había encontrado en la puerta de su cabaña con dos monedas de cobre encima y una piedra para que no se volara. Así contaban siempre: de mano en mano, hacia atrás, hasta que el hilo se perdía en algún sitio del oeste donde no vivía nadie.
 
@@ -90,7 +86,7 @@ No se despertó.
 
 ---
 
-Amael le dijo su nombre. El de fuera. Mirando hacia arriba, hacia las vigas negras de la panadería, como le había enseñado su madre a los cuatro años en la fuente. *Teo.* No sabía el de dentro. Nadie lo sabía ya; se había muerto con sus padres.
+Amael le dijo su nombre. El de fuera. Mirando hacia arriba, hacia las vigas negras de la panadería, como le había enseñado su madre a los cuatro años en la fuente. Teo. No sabía el de dentro. Nadie lo sabía ya; se había muerto con sus padres.
 
 No vio nada. Amael no veía nada nunca. Pero le pareció que el olor del pan, que llevaba semanas apagado, volvía un momento. Y se iba por la ventana.
 
@@ -106,7 +102,7 @@ Al otro día le salió un poco mejor.
 
 ---
 
-La segunda carta llegó a los tres meses. *Al que lee.* La misma letra de mano izquierda. El mismo palote.
+La segunda carta llegó a los tres meses. Al que lee. La misma letra de mano izquierda. El mismo palote.
 
 *Lo siento. Lo oí desde aquí. Que conste que lo oí.*
 
@@ -116,9 +112,9 @@ Amael se sentó en la escalera del sótano con la carta en la mano. Mucho rato. 
 
 No sabía adónde mandarla. Escribió igual.
 
-*Mamá: he hecho pan. Me sale mal. Ya mejorará. La masa tiene setenta años. Dice* *el tío Sein en su cuaderno —no, perdona, no sé lo que dice el tío Sein en su cuaderno, eso* *me lo invento— que se apunta en el haber. Me caso en primavera. Se llama Maren. Es* *copista. Tiene una letra más bonita que la mía y no le importa que lea en la cama. Ven a la* *boda. O no vengas. Ya sé que no vendrás. Pero que conste que te he invitado.*
+*Mamá: he hecho pan. Me sale mal. Ya mejorará. La masa tiene setenta años. Dice el tío Sein en su cuaderno —no, perdona, no sé lo que dice el tío Sein en su cuaderno, eso me lo invento— que se apunta en el haber. Me caso en primavera. Se llama Maren. Es copista. Tiene una letra más bonita que la mía y no le importa que lea en la cama. Ven a la boda. O no vengas. Ya sé que no vendrás. Pero que conste que te he invitado.*
 
-La dobló. La selló. Escribió en el pliego de fuera: *A la que no se muere.*
+La dobló. La selló. Escribió en el pliego de fuera: A la que no se muere.
 
 Y se la dio al capitán del primer barco que salía hacia Pisor, con dos monedas de cobre, y le dijo que se la diera a un pescador de la costa oeste, que se la diera a un pastor, que la dejara en la puerta de su cabaña con una piedra encima para que no se volara.
 
@@ -190,9 +186,9 @@ La comadrona lo apuntó.
 
 ---
 
-Esa noche, en la biblioteca, en el libro de registro, debajo de *Año 63. Primer día.* *Libros: once*, que ya estaba muy lejos, en una página de muchas páginas después, Amael escribió:
+Esa noche, en la biblioteca, en el libro de registro, debajo de Año 63. Primer día. Libros: once, que ya estaba muy lejos, en una página de muchas páginas después, Amael escribió:
 
-*Año 77. Nace Andriath. Sano. Grande. Le he dicho un nombre que no sé de dónde* *ha salido.*
+*Año 77. Nace Andriath. Sano. Grande. Le he dicho un nombre que no sé de dónde ha salido.*
 
 *Debe: un panadero, hace dos años. Haber: la masa madre sigue viva.*
 
@@ -200,7 +196,7 @@ Esa noche, en la biblioteca, en el libro de registro, debajo de *Año 63. Primer
 
 *Que conste.*
 
-Y al día siguiente llegó la tercera carta. *Al que lee.* Con un palote.
+Y al día siguiente llegó la tercera carta. Al que lee. Con un palote.
 
 *Andriath. Bonito. Yo no te lo he dicho.*
 

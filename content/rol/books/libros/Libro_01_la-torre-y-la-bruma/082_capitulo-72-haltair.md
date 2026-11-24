@@ -42,7 +42,7 @@ Detrás de él, sentado sobre una roca, el Custodio Belen —un Mator de los pan
 
 —¿Saben que están muertos?
 
-—Algunos sí. La mayoría, no. —Belen abrió los ojos—. Él les dejó la última orden que recibieron vivos. *Guardad el vado.* Y la están cumpliendo.
+—Algunos sí. La mayoría, no. —Belen abrió los ojos—. Él les dejó la última orden que recibieron vivos. Guardad el vado. Y la están cumpliendo.
 
 ---
 
@@ -82,7 +82,7 @@ Rufo lo miró como si se hubiera vuelto loco.
 
 Esperaron siete. El jinete volvió con el rollo, el intendente, y una carta de la emperatriz.
 
-*Hijo. El intendente me ha contado lo que has pedido. Me he reído por primera vez* *en un mes. Haz lo que creas, pero recuerda: si vuelves sin la mitad de tus hombres, te* *desheredo. Si vuelves sin la fortaleza, no pasa nada. Si vuelves con una idea mejor que la* *mía, te nombraré heredero en el Consejo y me jubilaré a criar cabras. — A.*
+*Hijo. El intendente me ha contado lo que has pedido. Me he reído por primera vez en un mes. Haz lo que creas, pero recuerda: si vuelves sin la mitad de tus hombres, te desheredo. Si vuelves sin la fortaleza, no pasa nada. Si vuelves con una idea mejor que la mía, te nombraré heredero en el Consejo y me jubilaré a criar cabras. — A.*
 
 *P. D.: No me jubilaré a criar cabras.*
 
@@ -138,7 +138,7 @@ El tercer día, Rufo Daine se acercó a él con el rollo en la mano.
 
 —Alteza. —Le temblaba la voz. Al capitán con la cara partida en dos, que había estado en la caída de Kel-Mar, le temblaba la voz—. El siguiente.
 
-Haltair miró el rollo. *Tercera cohorte. Torre norte. Sargento Pell Daine, de* *Valdorno. Hijo de Ario y de Mira.*
+Haltair miró el rollo. Tercera cohorte. Torre norte. Sargento Pell Daine, de Valdorno. Hijo de Ario y de Mira.
 
 —Mi hermano —dijo Rufo—. No el tío de ningún muchacho. Mi hermano pequeño. No lo sabía. No sabía que estaba en la Tercera. Me escribió en el trescientos cuarenta y nueve que lo habían destinado al sur. —Miró la torre norte. Una silueta gris, en la almena, con la capa hecha jirones—. Doce años. Doce años ahí arriba. Y yo pasando por el camino real cada primavera.
 

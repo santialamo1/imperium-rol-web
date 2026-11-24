@@ -1,6 +1,6 @@
 # Capítulo 55 · Nim
 
-*La cabaña del Sur, a dos leguas del bosque de Banderbill. Primavera del año 1417* *de la Nueva Era (810 D.bA).*
+*La cabaña del Sur, a dos leguas del bosque de Banderbill. Primavera del año 1417 de la Nueva Era (810 D.bA).*
 
 Nim Fennick tenía sesenta y dos años, que para un gnomo es la mitad de la vida, y llevaba cuarenta en la guardia de la doncella, que no era una guardia.
 
@@ -72,7 +72,7 @@ Nim no dijo nada.
 
 Nim pensó mucho tiempo.
 
-Pensó en la doncella. En la puerta de bronce. En la manzana, cada mañana, en la ventana del comedor. En la espada rota en su costado. En los ciento sesenta años que llevaba sujetando algo que no era suyo, sola, sin que nadie la ayudara, sin que nadie le dijera *ya está, ya puedes soltar*.
+Pensó en la doncella. En la puerta de bronce. En la manzana, cada mañana, en la ventana del comedor. En la espada rota en su costado. En los ciento sesenta años que llevaba sujetando algo que no era suyo, sola, sin que nadie la ayudara, sin que nadie le dijera ya está, ya puedes soltar.
 
 Pensó en el gnomo. Al que no había conocido. Al que conocía todo el mundo.
 
@@ -94,7 +94,7 @@ Asintieron. Uno a uno.
 
 ---
 
-El mensaje llegó al Parlamento en la primavera. Lo llevó un niño del puerto que no sabía de quién era. *Los cinco quieren hablar con los cuatro. En la cabaña del Sur, a dos* *leguas del bosque. Sin guardias. Con escolta de la doncella. El día de la luna nueva.*
+El mensaje llegó al Parlamento en la primavera. Lo llevó un niño del puerto que no sabía de quién era. Los cinco quieren hablar con los cuatro. En la cabaña del Sur, a dos leguas del bosque. Sin guardias. Con escolta de la doncella. El día de la luna nueva.
 
 El Parlamento se reunió en el comedor del cuartel. Debajo de la manzana. Discutieron tres días.
 
@@ -262,7 +262,7 @@ Se acercó a Nim.
 
 Nim levantó la vista.
 
-—Ella nos mandó —dijo—. Nos dijo *cuídalos*.
+—Ella nos mandó —dijo—. Nos dijo cuídalos.
 
 El grande no dijo nada.
 
@@ -284,7 +284,7 @@ Nim no sabía por qué. Lo pensó toda la vida y no lo supo. Fue con él. Detrá
 
 A lo mejor fue por la doncella. Por verle la cara cuando se lo dijeran. Por estar.
 
-A lo mejor fue porque el grande había dicho *lo voy a traer*.
+A lo mejor fue porque el grande había dicho lo voy a traer.
 
 A lo mejor fue porque ya no había otro sitio adonde ir.
 

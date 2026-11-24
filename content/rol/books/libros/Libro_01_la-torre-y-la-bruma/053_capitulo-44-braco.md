@@ -16,7 +16,7 @@ Y la tercera, la que lo despertaba por las noches con el mechón rubio apretado 
 
 Braco no necesitó mirar. Ya olía el humo.
 
-Era el oasis de Kel-Sahim, o lo había sido hasta esa mañana. Un puñado de palmeras enanas, tres pozos, cuarenta tiendas de pelo de camello. Un clan eufesio de los que Braco había aprendido a llamar *libres*: los que no seguían al Padre de la Bruma, los que habían huido de él hacia el sur, hacia el borde del desierto, donde la niebla era más fina y el ojo del cielo se dejaba ver algunos mediodías. No eran enemigos. No eran aliados. Eran gente.
+Era el oasis de Kel-Sahim, o lo había sido hasta esa mañana. Un puñado de palmeras enanas, tres pozos, cuarenta tiendas de pelo de camello. Un clan eufesio de los que Braco había aprendido a llamar libres: los que no seguían al Padre de la Bruma, los que habían huido de él hacia el sur, hacia el borde del desierto, donde la niebla era más fina y el ojo del cielo se dejaba ver algunos mediodías. No eran enemigos. No eran aliados. Eran gente.
 
 Y eran un problema, porque los muertos los usaban.
 
@@ -36,7 +36,7 @@ Y la guerra no espera a los que pelean.
 
 Esdras no contestó. No hizo falta. El humo hablaba por él.
 
-Braco cerró los ojos. Vio, como cada noche, la cara de Helen Dorian. *Prométeme* *que lo entenderás.*
+Braco cerró los ojos. Vio, como cada noche, la cara de Helen Dorian. Prométeme que lo entenderás.
 
 Lo había entendido. Ese era el problema. Lo entendía todo. Entendía a los clanes libres que no querían abandonar a sus muertos. Entendía al Padre de la Bruma, que solo quería que le devolvieran a los suyos. Entendía a sus propios soldados, que habían visto a sus hermanos levantarse grises de entre los muertos y que ya no distinguían entre un eufesio libre y uno muerto, porque todos hablaban la misma lengua y todos tenían el mismo acento cantarín.
 
@@ -110,7 +110,7 @@ La Custodia dio un paso adelante. Cerró los ojos. Escuchó. Durante un largo ra
 
 —Excepto él. —Hilde abrió los ojos. Estaban llenos de lágrimas—. Majestad, ella... ella está ahí dentro. Está despierta. Lleva despierta todo este tiempo. Y lo único que dice, lo único, es...
 
-—*No tires tanto* —dijo Braco.
+—No tires tanto —dijo Braco.
 
 Hilde lo miró con asombro. Braco no explicó cómo lo sabía. Los pergaminos de Nadia. Los había leído tantas veces.
 
@@ -190,9 +190,9 @@ Todos a la vez. Decenas de miles. Con las armas alzadas, a mitad de un golpe. In
 
 Los demás retrocedieron hacia la niebla. Despacio. Sin dar la espalda.
 
-La mujer del velo fue la última. Antes de desaparecer en el gris, se volvió hacia Braco. Y por segunda vez en su vida, Braco Arenar la vio sacudir levemente la cabeza bajo el velo. Pero esta vez, le pareció, no decía *no*. Decía otra cosa. Algo que no supo descifrar hasta mucho después, cuando ya era un anciano sentado en un trono, contándole la historia a una muchacha Tiberius de pelo negro que le haría muchas preguntas.
+La mujer del velo fue la última. Antes de desaparecer en el gris, se volvió hacia Braco. Y por segunda vez en su vida, Braco Arenar la vio sacudir levemente la cabeza bajo el velo. Pero esta vez, le pareció, no decía no. Decía otra cosa. Algo que no supo descifrar hasta mucho después, cuando ya era un anciano sentado en un trono, contándole la historia a una muchacha Tiberius de pelo negro que le haría muchas preguntas.
 
-Le pareció que decía: *gracias*.
+Le pareció que decía: gracias.
 
 ---
 

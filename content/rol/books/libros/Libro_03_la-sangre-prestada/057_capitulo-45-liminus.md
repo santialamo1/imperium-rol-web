@@ -1,6 +1,6 @@
 # Capítulo 45 · Liminus
 
-*Banderbill, el oasis y el bosque de Wonder. Años 734 a 739 de la Nueva Era (127–* *132 D.bA).*
+*Banderbill, el oasis y el bosque de Wonder. Años 734 a 739 de la Nueva Era (127– 132 D.bA).*
 
 La corona pesaba once libras y Liminus no se la puso nunca después del primer día.
 
@@ -24,7 +24,7 @@ No lo había hecho nunca. Lo sabía, porque su padre se lo había contado, que h
 
 Bajó.
 
-El gnomo estaba en una silla. Con un sombrero que tenía cosido un *92* en la cinta. Se levantó cuando lo vio. Se quitó el sombrero. Se lo volvió a poner.
+El gnomo estaba en una silla. Con un sombrero que tenía cosido un 92 en la cinta. Se levantó cuando lo vio. Se quitó el sombrero. Se lo volvió a poner.
 
 —Majestad —dijo.
 
@@ -84,7 +84,7 @@ La pelirroja tardó en contestar.
 
 —Una que no se toca.
 
-Liminus la miró. Llevaba sesenta y seis años conociéndola. La había visto en las fiestas, en los funerales, en el espigón de Nix, en la popa del barco tocando un arpa sin cuerdas con su padre. Sabía, como sabían todos en la familia, sin que nadie lo dijera nunca en voz alta, que la pelirroja no envejecía. Que la pelirroja era más vieja que la colina. Que la pelirroja, cuando decía *no se toca*, era *no se toca*.
+Liminus la miró. Llevaba sesenta y seis años conociéndola. La había visto en las fiestas, en los funerales, en el espigón de Nix, en la popa del barco tocando un arpa sin cuerdas con su padre. Sabía, como sabían todos en la familia, sin que nadie lo dijera nunca en voz alta, que la pelirroja no envejecía. Que la pelirroja era más vieja que la colina. Que la pelirroja, cuando decía no se toca, era no se toca.
 
 —Vale —dijo.
 
@@ -102,7 +102,7 @@ La pelirroja se rio. Bajito.
 
 En Wonder, la ciudad había cambiado.
 
-Ya no era de barro. Era de madera roja y de piedra. Tenía calles. Tenía una plaza, con un banco en medio, donde una niña había gritado una palabra gnoma que ahora era el nombre de todo. Tenía una muralla. No de troncos; de piedra gris del acantilado, el doble de alta que la empalizada, con cuatro torres. La había mandado hacer su padre después del 729. *Que se refuerce la ciudad*, había escrito el elfo viejo en el diario. Y se había reforzado.
+Ya no era de barro. Era de madera roja y de piedra. Tenía calles. Tenía una plaza, con un banco en medio, donde una niña había gritado una palabra gnoma que ahora era el nombre de todo. Tenía una muralla. No de troncos; de piedra gris del acantilado, el doble de alta que la empalizada, con cuatro torres. La había mandado hacer su padre después del 729. Que se refuerce la ciudad, había escrito el elfo viejo en el diario. Y se había reforzado.
 
 Los orcos habían vuelto. Dos veces más. En el 731 y en el 733. Menos barcos. Los habían rechazado con menos muertos. La muralla servía.
 
@@ -110,7 +110,7 @@ Y en el puerto había un almirante.
 
 No se llamaba así todavía. Era capitán. Se llamaba Hesper Hask. Tenía veintinueve años, el pelo negro, la nariz rota y la costumbre de mirar arriba a todas horas, como si esperase que le cayera algo. Mandaba la flotilla de Wonder: ocho barcos. Patrullaba la costa. Cuando venían los barcos feos del oeste, salía a esperarlos al mar. Los esperaba en el mar para que no llegaran a la playa.
 
-Liminus lo invitó a cenar. En *El Guiso*. Donde Grum, que estaba más viejo y más gordo y que lloró al verlo porque se parecía a su padre.
+Liminus lo invitó a cenar. En El Guiso. Donde Grum, que estaba más viejo y más gordo y que lloró al verlo porque se parecía a su padre.
 
 —Quiero ver el norte —le dijo Liminus a Hesper. Con el guiso delante—. Los bosques. Lo que haya más allá del bosque rojo.
 
@@ -150,7 +150,7 @@ Liminus se volvió.
 
 La pelirroja no contestó.
 
-No desembarcaron. Hesper no quiso; el viento cambiaba. Pero Liminus apuntó en su cuaderno, con su letra, que era de Emperador y no de cronista y se notaba: *Al norte del* *bosque muerto, árboles blancos de los de Nix. Volver.*
+No desembarcaron. Hesper no quiso; el viento cambiaba. Pero Liminus apuntó en su cuaderno, con su letra, que era de Emperador y no de cronista y se notaba: Al norte del bosque muerto, árboles blancos de los de Nix. Volver.
 
 Volvería. No él. La Armada. Veintiocho años después.
 
@@ -188,7 +188,7 @@ Liminus la miró. Ella tenía una cara rara. Como de miedo.
 
 —¿Así cómo?
 
-—*Aquí.* —La pelirroja tragó—. Los de tu familia decís *aquí* y se hace verdad.
+—Aquí. —La pelirroja tragó—. Los de tu familia decís aquí y se hace verdad.
 
 Liminus no entendió. Pero tuvo cuidado. Pensó un poco. Y lo dijo de otra manera.
 
@@ -224,7 +224,7 @@ La pelirroja pidió una cosa antes de que empezaran.
 
 —Por la cosa.
 
-Liminus lo mandó. Lo escribió en el acta de fundación. La primera ley de la ciudad. *La poza no se toca. El agua se coge de la orilla.* Se cumpliría siglos. Los niños de la ciudad lo aprenderían antes que a nadar: que en la poza no se nada. Ninguno sabría por qué. Algunos dirían que había un monstruo. Otros que estaba encantada. Otros que era la tumba del Emperador viejo. Ninguno acertaría.
+Liminus lo mandó. Lo escribió en el acta de fundación. La primera ley de la ciudad. La poza no se toca. El agua se coge de la orilla. Se cumpliría siglos. Los niños de la ciudad lo aprenderían antes que a nadar: que en la poza no se nada. Ninguno sabría por qué. Algunos dirían que había un monstruo. Otros que estaba encantada. Otros que era la tumba del Emperador viejo. Ninguno acertaría.
 
 ---
 
@@ -232,7 +232,7 @@ El día de la fundación, Liminus subió a la loma. Con la gente detrás. Con Te
 
 Al lado de la tumba de su padre, pusieron una piedra. Gris. De la colina. Con un nombre cincelado.
 
-Liminus le había dado muchas vueltas al nombre. Tessa le había propuesto *Oasis*, que era bonito. Los pescadores, *Las Tres*. El herrero gnomo, una palabra que significaba *sitio donde hay agua y no debería*, y que era muy larga.
+Liminus le había dado muchas vueltas al nombre. Tessa le había propuesto Oasis, que era bonito. Los pescadores, Las Tres. El herrero gnomo, una palabra que significaba sitio donde hay agua y no debería, y que era muy larga.
 
 Liminus puso la mano en la piedra.
 
@@ -242,7 +242,7 @@ La gente aplaudió.
 
 La pelirroja, abajo, en la orilla de la poza, dijo la palabra élfica. Hacia arriba.
 
-Y el elfo viejo, al lado de ella, con el diario abierto en las rodillas, escribió con la izquierda que el Emperador *en el día de ayer decidió fundar una ciudad, la cuál llamará* *Lindos, en honor a su padre.*
+Y el elfo viejo, al lado de ella, con el diario abierto en las rodillas, escribió con la izquierda que el Emperador en el día de ayer decidió fundar una ciudad, la cuál llamará Lindos, en honor a su padre.
 
 —Es hoy —le dijo la pelirroja—. No ayer.
 

@@ -1,10 +1,8 @@
 # Capítulo 52 · Andriath
 
-*El último campamento orco, al sur del bosque de las hojas grandes. Verano del* *año 145 de la Nueva Era.*
+*El último campamento orco, al sur del bosque de las hojas grandes. Verano del año 145 de la Nueva Era.*
 
-*Del libro de cuentas de Sein Vell, año 145. No apunto nada. Que conste que no*
-
-*apunto nada.*
+*Del libro de cuentas de Sein Vell, año 145. No apunto nada. Que conste que no apunto nada.*
 
 La guerra duró once años y Andriath estuvo en todas las batallas.
 
@@ -126,7 +124,7 @@ Y entonces se acordó de su abuela.
 
 No de la reina. De la chica pelirroja que había entrado en la biblioteca el día que se murió su padre, con las botas llenas de barro, diciendo que había reventado dos caballos. Que lo había llevado al Mercado. Que le había enseñado a dar.
 
-*Nombrar hacia arriba*, le había dicho. *Con amor. Así se suelta.*
+Nombrar hacia arriba, le había dicho. Con amor. Así se suelta.
 
 Andriath levantó la cara.
 
@@ -188,7 +186,7 @@ Bhargaras VIII se enteró en la colina, una semana después, por un jinete. Esta
 
 Lo cerró.
 
-Cogió el aro de hierro de su padre, que le había dejado en la mesa del Consejo antes de irse, *por si acaso*, y se lo puso. Le estaba grande.
+Cogió el aro de hierro de su padre, que le había dejado en la mesa del Consejo antes de irse, por si acaso, y se lo puso. Le estaba grande.
 
 Bajó a la plaza. Subió al pilón. Era lo que se hacía.
 
@@ -200,7 +198,7 @@ La plaza no dijo nada.
 
 Murmullos. Alguien silbó.
 
-—No voy a ir el primero —repitió—. Porque he leído todas las Crónicas. Todas. Y en todas, el emperador va el primero, y se muere el primero, y luego hay otro, y otro. Y la colina sigue. Y está bien. Pero yo voy a ir *con vosotros*. Ni delante ni detrás. Al lado.
+—No voy a ir el primero —repitió—. Porque he leído todas las Crónicas. Todas. Y en todas, el emperador va el primero, y se muere el primero, y luego hay otro, y otro. Y la colina sigue. Y está bien. Pero yo voy a ir con vosotros. Ni delante ni detrás. Al lado.
 
 Silencio.
 
@@ -214,7 +212,7 @@ Y la plaza se rió. Sin querer.
 
 ---
 
-El fuerte quemado lo reconstruyeron ese otoño. Piedra, esta vez. Y lo llamaron Ullathorpe, que en la lengua de los elfos del sur quería decir *el sitio donde se cayó el árbol* *joven*, por un árbol que había en el patio, con un tajo de hacha en el tronco, que no se murió. Que siguió creciendo. Torcido.
+El fuerte quemado lo reconstruyeron ese otoño. Piedra, esta vez. Y lo llamaron Ullathorpe, que en la lengua de los elfos del sur quería decir el sitio donde se cayó el árbol joven, por un árbol que había en el patio, con un tajo de hacha en el tronco, que no se murió. Que siguió creciendo. Torcido.
 
 Y a las islas de los gnomos las llamaron Nueva Esperanza.
 

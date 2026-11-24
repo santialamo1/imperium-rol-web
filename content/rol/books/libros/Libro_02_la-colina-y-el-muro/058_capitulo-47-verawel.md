@@ -2,9 +2,7 @@
 
 *Banderbill. Primavera del año 132 de la Nueva Era.*
 
-*Del libro de cuentas de Sein Vell, año 132. Los elfos han vendido algo. No sé el*
-
-*qué. No sé a cambio de qué. Lo apunto en las dos columnas y que se peleen.*
+*Del libro de cuentas de Sein Vell, año 132. Los elfos han vendido algo. No sé el qué. No sé a cambio de qué. Lo apunto en las dos columnas y que se peleen.*
 
 El consejo se reunió debajo del castaño, como siempre, y por primera vez en cien años el castaño no daba sombra suficiente.
 
@@ -26,7 +24,7 @@ El elfo del sombrero, que ya no llevaba sombrero desde hacía un siglo, que nadi
 
 Leyó despacio. Con su voz de corteza seca.
 
-El rey de Banderbill, Andriath, hijo de Amael, nieto de Lanther, decía que los elfos y los humanos llevaban cien años viviendo juntos en la colina sin un solo pacto escrito. Que era hora de escribirlo. Que los elfos del sur estaban sufriendo un azote orco como el que destruyó la aldea de los bosques del norte en el año treinta. Que los humanos estaban dispuestos a devolver la ayuda que habían recibido entonces. Que levantarían un fuerte en el sur, entre las aldeas élficas y el campamento orco, y que lo guarnecerían con hombres de la colina, y que protegerían a los elfos del sur y del norte y de donde fuera *para siempre,* *mientras haya un Bhargaras en el trono y un elfo que lo pida*.
+El rey de Banderbill, Andriath, hijo de Amael, nieto de Lanther, decía que los elfos y los humanos llevaban cien años viviendo juntos en la colina sin un solo pacto escrito. Que era hora de escribirlo. Que los elfos del sur estaban sufriendo un azote orco como el que destruyó la aldea de los bosques del norte en el año treinta. Que los humanos estaban dispuestos a devolver la ayuda que habían recibido entonces. Que levantarían un fuerte en el sur, entre las aldeas élficas y el campamento orco, y que lo guarnecerían con hombres de la colina, y que protegerían a los elfos del sur y del norte y de donde fuera para siempre, mientras haya un Bhargaras en el trono y un elfo que lo pida.
 
 A cambio, pedía una cosa.
 
@@ -50,7 +48,7 @@ Nadie se rió.
 
 Hablaron hasta la noche.
 
-Los del sur querían el fuerte. No les importaba el precio. Habían visto sus árboles cortados, sus casas en el suelo, a sus hijos con hachas de piedra clavadas. Querían hombres con espadas entre ellos y los orcos. Lo demás les daba igual. *Que se lleven las flautas, que* *se lleven las estrellas, que se lleven lo que quieran.*
+Los del sur querían el fuerte. No les importaba el precio. Habían visto sus árboles cortados, sus casas en el suelo, a sus hijos con hachas de piedra clavadas. Querían hombres con espadas entre ellos y los orcos. Lo demás les daba igual. Que se lleven las flautas, que se lleven las estrellas, que se lleven lo que quieran.
 
 Los viejos de la colina dudaban. Llevaban cien años entre humanos. Los conocían. Sabían lo que hacían con lo que aprendían: lo usaban. Todo. Siempre. No sabían mirar sin tocar.
 
@@ -68,7 +66,7 @@ El viejo giró la cara hacia el fondo. Hacia la raíz donde estaba Verawel. Con 
 
 Verawel se levantó.
 
-No le gustaba hablar delante de nadie. No le había gustado nunca. Lo hacía mal: se quedaba callado demasiado rato antes de cada frase, pensando, y la gente creía que había terminado y se ponía a hablar, y él se quedaba con la frase a medias. Livia se reía de él por eso. *Hablas como escribe Neri. Con puntos encima y debajo y nadie sabe en qué tiempo* *estás.*
+No le gustaba hablar delante de nadie. No le había gustado nunca. Lo hacía mal: se quedaba callado demasiado rato antes de cada frase, pensando, y la gente creía que había terminado y se ponía a hablar, y él se quedaba con la frase a medias. Livia se reía de él por eso. Hablas como escribe Neri. Con puntos encima y debajo y nadie sabe en qué tiempo estás.
 
 Livia llevaba setenta y un años muerta. Seguía oyéndola.
 
@@ -130,7 +128,7 @@ Lo supo mientras levantaba la mano. Lo supo como se saben las cosas que uno no q
 
 Y sabía, mientras levantaba la mano, que lo que no se enseña a la luz se aprende a oscuras.
 
-*Lo que no se cree*, había dicho la reina en el Consejo, ochenta años antes, con un niño en el pecho, *se teme igual. Solo que a oscuras.*
+Lo que no se cree, había dicho la reina en el Consejo, ochenta años antes, con un niño en el pecho, se teme igual. Solo que a oscuras.
 
 Votó a favor igual.
 
@@ -180,9 +178,9 @@ Verawel miró el cofre.
 
 Esa noche, en la casa pequeña cerca del palacio, Érandiul escribió el pacto en su cuaderno.
 
-*Nuestra raza enseñó a los hombres el arte de la magia, la botánica, la navegación,* *la equitación, la filosofía, la política y la música, entre algunas cosas más, a cambio de su* *eterna protección.*
+*Nuestra raza enseñó a los hombres el arte de la magia, la botánica, la navegación, la equitación, la filosofía, la política y la música, entre algunas cosas más, a cambio de su eterna protección.*
 
-No escribió *las formas suaves*. No escribió *lo blando*. No escribió *y guardamos lo* *duro*. Escribió *el arte de la magia*, entero, como si se lo hubieran dado entero.
+No escribió las formas suaves. No escribió lo blando. No escribió y guardamos lo duro. Escribió el arte de la magia, entero, como si se lo hubieran dado entero.
 
 Verawel lo leyó por encima de su hombro. Érandiul le dejó.
 
@@ -208,7 +206,7 @@ Antes de irse, pasó por la biblioteca. Era temprano; no había nadie salvo una 
 
 —Maren.
 
-—Te pareces a como te describía él. —Maren dejó la pluma—. Mi marido. *El elfo* *del pelo casi blanco que no sonríe nunca salvo cuando Livia se equivoca.*
+—Te pareces a como te describía él. —Maren dejó la pluma—. Mi marido. El elfo del pelo casi blanco que no sonríe nunca salvo cuando Livia se equivoca.
 
 —Ya no se equivoca.
 
@@ -216,11 +214,11 @@ Antes de irse, pasó por la biblioteca. Era temprano; no había nadie salvo una 
 
 Verawel no contestó.
 
-Fue a la estantería del fondo. A la de los cuadernos de Livia. Los de arriba. Buscó el tercero. Lo abrió por la página tachada. La que Amael había copiado entera, con la tachadura, para que la leyera todo el mundo. *Hay un elfo de pelo casi blanco que lee las letras de las Madres mejor que yo…*
+Fue a la estantería del fondo. A la de los cuadernos de Livia. Los de arriba. Buscó el tercero. Lo abrió por la página tachada. La que Amael había copiado entera, con la tachadura, para que la leyera todo el mundo. Hay un elfo de pelo casi blanco que lee las letras de las Madres mejor que yo…
 
 La leyó. Toda. Hasta el final.
 
-*… y que me ha dicho que la palabra de las Madres para «guardar» y la palabra* *para «abrazar» son la misma con un punto distinto.*
+*… y que me ha dicho que la palabra de las Madres para «guardar» y la palabra para «abrazar» son la misma con un punto distinto.*
 
 Cerró el cuaderno.
 

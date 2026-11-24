@@ -84,7 +84,7 @@ Haltair la miró durante mucho tiempo.
 
 Ilaria no contestó enseguida.
 
-Pensó en la vieja Aremir, en su lecho de muerte, tres años antes, cogiéndole la mano con sus dedos de ochenta y un años, fríos como raíces. *¿Le has dado un nombre* *secreto?*, le había preguntado. Ilaria le había dicho que sí. *Dale otro. Y otro más. Tres. Y* *que no los sepa nadie. Ni tú cuál usas. Mézclalos.*
+Pensó en la vieja Aremir, en su lecho de muerte, tres años antes, cogiéndole la mano con sus dedos de ochenta y un años, fríos como raíces. ¿Le has dado un nombre secreto?, le había preguntado. Ilaria le había dicho que sí. Dale otro. Y otro más. Tres. Y que no los sepa nadie. Ni tú cuál usas. Mézclalos.
 
 Ilaria lo había hecho. No uno. Tres. Tres palabras inventadas, susurradas en tres noches distintas al oído de un niño dormido. Y luego, siguiendo el consejo de la vieja, se había obligado a olvidarlas. A no pensar en ellas. A no recordar cuál era la primera, cuál la segunda, cuál la tercera. Le había costado meses. A veces, de madrugada, todavía se le escapaba una sílaba. Ilaria apretaba los dientes y pensaba en otra cosa.
 

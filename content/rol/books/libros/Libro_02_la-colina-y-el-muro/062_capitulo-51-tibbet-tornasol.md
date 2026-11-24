@@ -2,9 +2,7 @@
 
 *La Colina. Años 141 a 144 de la Nueva Era.*
 
-*Del libro de cuentas de Sein Vell, año 141. Haber: un gnomo. No sé si es haber.*
-
-*Lo pongo en haber porque en el debe ya no me cabe nada más que haga ruido.*
+*Del libro de cuentas de Sein Vell, año 141. Haber: un gnomo. No sé si es haber. Lo pongo en haber porque en el debe ya no me cabe nada más que haga ruido.*
 
 Lo primero que hizo Tibbet Tornasol en la colina fue encender una lámpara dentro de la biblioteca, y lo segundo fue salir corriendo de la biblioteca porque la lámpara había encendido también un estante.
 
@@ -86,7 +84,7 @@ Tibbet sonrió. Contó con los dedos. Despacio. Disfrutándolo.
 
 ---
 
-Sein no le dijo nada. Le dijo: *ven mañana*.
+Sein no le dijo nada. Le dijo: ven mañana.
 
 Tibbet fue mañana. Y en el rincón del fondo de la biblioteca, en la mesa pequeña, había una silla más.
 
@@ -138,7 +136,7 @@ Luego se cayó de espaldas en el suelo de la biblioteca, se puso las manos en la
 
 Lanther se quedó callada.
 
-Sein, en su silla, apuntaba algo. Tibbet lo vio de reojo. *Año 143. El gnomo sabe.*
+Sein, en su silla, apuntaba algo. Tibbet lo vio de reojo. Año 143. El gnomo sabe.
 
 —¿Qué más hueles? —preguntó Lanther.
 
@@ -168,7 +166,7 @@ Tibbet los miró a los dos.
 
 Lanther abrió los ojos. Grises. Como el mar en invierno.
 
-—Porque es mío —dijo—. Mi sangre. Mi nieto del nieto. Y porque es de la colina. Y en esta colina, desde hace ciento cuarenta años, hay una costumbre que yo no he sabido quitar. —Cogió la espada de la mesa—. *El emperador, el primero.*
+—Porque es mío —dijo—. Mi sangre. Mi nieto del nieto. Y porque es de la colina. Y en esta colina, desde hace ciento cuarenta años, hay una costumbre que yo no he sabido quitar. —Cogió la espada de la mesa—. El emperador, el primero.
 
 ---
 
@@ -180,7 +178,7 @@ Pensó en el rey. En el día de la playa. En el hombre de cincuenta y siete año
 
 Pensó en la chica que olía a tres.
 
-En el frasquito de barro que le colgaba del cuello. Dormido. *Que no es de nadie* *todavía.*
+En el frasquito de barro que le colgaba del cuello. Dormido. Que no es de nadie todavía.
 
 Y pensó una cosa que no había pensado nunca, en sus noventa y un años de gnomo, que era una edad mediana para un gnomo, ni joven ni vieja. Pensó que los de la colina se morían muy deprisa. Y que eso era lo que los hacía reírse así. Sin querer. Cayéndose de los botes.
 

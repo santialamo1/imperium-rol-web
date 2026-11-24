@@ -28,17 +28,17 @@ No dijo nada. No hizo falta. Esa era una cosa que había aprendido de Helen Dori
 
 Volvió en dos semanas con cinco páginas.
 
-La primera decía: *Fuego.* Los muertos grises solo se detenían si se les cortaba la cabeza o se les quemaba. El fuego era más rápido. Había que armar a las guarniciones de la frontera con brea, con aceite, con flechas incendiarias. Había que entrenar a los soldados para luchar con antorchas.
+La primera decía: Fuego. Los muertos grises solo se detenían si se les cortaba la cabeza o se les quemaba. El fuego era más rápido. Había que armar a las guarniciones de la frontera con brea, con aceite, con flechas incendiarias. Había que entrenar a los soldados para luchar con antorchas.
 
-La segunda decía: *Sal.* Los cronistas del Vado habían notado que los muertos evitaban pisar las zonas donde los carros de intendencia habían derramado sacos de sal. Braco había hecho pruebas con los cadáveres que se trajeron de la batalla, los que nunca se levantaron —los que el emperador Henricus había liberado—, y con un perro muerto al que un sacerdote Ibaro intentó, sin éxito, insuflar vida con una salmodia que había copiado de un eufesio prisionero. No había funcionado. Pero en las leyendas de los nómadas, recogidas por los mercaderes, se hablaba de faroles de sal, de varas de sal, de jarras de sal. La sal era importante. No sabía por qué. Había que averiguarlo.
+La segunda decía: Sal. Los cronistas del Vado habían notado que los muertos evitaban pisar las zonas donde los carros de intendencia habían derramado sacos de sal. Braco había hecho pruebas con los cadáveres que se trajeron de la batalla, los que nunca se levantaron —los que el emperador Henricus había liberado—, y con un perro muerto al que un sacerdote Ibaro intentó, sin éxito, insuflar vida con una salmodia que había copiado de un eufesio prisionero. No había funcionado. Pero en las leyendas de los nómadas, recogidas por los mercaderes, se hablaba de faroles de sal, de varas de sal, de jarras de sal. La sal era importante. No sabía por qué. Había que averiguarlo.
 
-La tercera decía: *Nombres.* El emperador Henricus había liberado a doscientos muertos diciendo sus nombres. Braco no sabía cómo. Nadie lo sabía. Pero si había funcionado una vez, había que entender por qué.
+La tercera decía: Nombres. El emperador Henricus había liberado a doscientos muertos diciendo sus nombres. Braco no sabía cómo. Nadie lo sabía. Pero si había funcionado una vez, había que entender por qué.
 
-La cuarta decía: *Él.* El monstruo de la niebla tenía un nombre, una historia, unos motivos. Había llorado sobre el cuerpo del emperador. Había dicho que no volvería mientras alguien viviera. ¿Quién? ¿Por qué? Había que saberlo. Un enemigo que no se entiende es un enemigo que no se puede vencer.
+La cuarta decía: Él. El monstruo de la niebla tenía un nombre, una historia, unos motivos. Había llorado sobre el cuerpo del emperador. Había dicho que no volvería mientras alguien viviera. ¿Quién? ¿Por qué? Había que saberlo. Un enemigo que no se entiende es un enemigo que no se puede vencer.
 
 La quinta página estaba en blanco, excepto por una línea al pie:
 
-*Majestad: no sé si podemos ganar esta guerra. Pero sé que la perderemos si la* *luchamos como la luchó vuestro tío, con valor y sin entender. Dejadme entender.*
+*Majestad: no sé si podemos ganar esta guerra. Pero sé que la perderemos si la luchamos como la luchó vuestro tío, con valor y sin entender. Dejadme entender.*
 
 Helen leyó las cinco páginas dos veces. Luego levantó la vista.
 

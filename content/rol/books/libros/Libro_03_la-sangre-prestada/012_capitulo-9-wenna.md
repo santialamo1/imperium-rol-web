@@ -6,11 +6,11 @@ La balanza del Mercado se había quedado coja una semana en el año 290, y en do
 
 Fue por un clavo. Un clavo del platillo izquierdo que se aflojó una noche de helada. Por la mañana, cuando Wenna pesó la primera lana del día, el platillo izquierdo bajó un pelo más de la cuenta. Un pelo. Nadie lo habría notado. Lo notó un tratante de lana de Pisor, un hombre bajito y desconfiado que llevaba su propia balanza de bolsillo para comprobar las de los demás, y que se lo dijo a todo el Mercado a gritos, subido en un barril.
 
-Wenna arregló el clavo en una hora. Le devolvió al de Pisor la diferencia: tres granos de plata. Le devolvió la diferencia a todos los que habían pesado esa semana: cuarenta y un granos de plata, de su bolsillo. Puso un cartel en la balanza: *Ha estado coja.* *Ya no. Perdón.*
+Wenna arregló el clavo en una hora. Le devolvió al de Pisor la diferencia: tres granos de plata. Le devolvió la diferencia a todos los que habían pesado esa semana: cuarenta y un granos de plata, de su bolsillo. Puso un cartel en la balanza: Ha estado coja. Ya no. Perdón.
 
 La gente le cambió el nombre a la posada.
 
-*La Balanza Coja.* Desde entonces. El dueño decía que era un homenaje. Wenna decía que era una venganza. Las dos cosas eran verdad.
+La Balanza Coja. Desde entonces. El dueño decía que era un homenaje. Wenna decía que era una venganza. Las dos cosas eran verdad.
 
 Por eso, cuando en el otoño del 547 una niña del Mercado le dijo que alguien en el sur estaba pesando mal, Wenna se levantó de la silla sin terminarse las castañas.
 
@@ -42,7 +42,7 @@ Tres semanas que antes habrían sido dos. Tenía cuatrocientos noventa y cinco a
 
 Iba en Duquesa. Duquesa segunda; la primera se había muerto en el 519, odiando a todo el mundo hasta el final. La segunda era nieta de la primera y odiaba igual.
 
-Llevaba la balanza en el cinto. La pequeña, la de viaje, la que había hecho Kildo en el 120, de bronce, con los platillos del tamaño de una mano. Llevaba un saco de castañas. Llevaba un papel de Sein, en el que Sein le pedía, con su letra pequeña y redonda, que no hiciera nada. *Mira. Vuelve. Cuéntamelo. No pesas nada allí. No compras nada. No vendes* *nada. Que conste.*
+Llevaba la balanza en el cinto. La pequeña, la de viaje, la que había hecho Kildo en el 120, de bronce, con los platillos del tamaño de una mano. Llevaba un saco de castañas. Llevaba un papel de Sein, en el que Sein le pedía, con su letra pequeña y redonda, que no hiciera nada. Mira. Vuelve. Cuéntamelo. No pesas nada allí. No compras nada. No vendes nada. Que conste.
 
 Wenna había leído el papel una vez y lo había usado para encender el fuego la primera noche.
 
@@ -84,7 +84,7 @@ Wenna se paró.
 
 —No sé qué quiere decir.
 
-—Quiere decir *mercado*. —El hombre se levantó. Le hizo una reverencia pequeña —. En la lengua del oeste. ¿Viene a vender o a comprar?
+—Quiere decir mercado. —El hombre se levantó. Le hizo una reverencia pequeña —. En la lengua del oeste. ¿Viene a vender o a comprar?
 
 —A mirar.
 
@@ -92,7 +92,7 @@ Wenna se paró.
 
 Wenna se quedó quieta. Con la mano en el cinto, en la balanza de bronce.
 
-Era su frase. La de Ilsa, la que fundó el Mercado. *Aquí no se levanta un arma.* Estaba escrita en una tabla de roble, a la entrada del claro del valle negro, desde el año 90. La habían copiado en Nix, en Pisor, en Ullathorpe, en los mercados de toda la costa.
+Era su frase. La de Ilsa, la que fundó el Mercado. Aquí no se levanta un arma. Estaba escrita en una tabla de roble, a la entrada del claro del valle negro, desde el año 90. La habían copiado en Nix, en Pisor, en Ullathorpe, en los mercados de toda la costa.
 
 Pero el hombre de la puerta la había dicho con su voz. Con la de Wenna. Exactamente con su voz. Con la de cien años, la que le salía de la tripa.
 
@@ -300,7 +300,7 @@ Cuando llegó al Mercado, tres semanas después, Dorota estaba esperándola en e
 
 —Mi tío dice que pesa bien.
 
-—Tu tío es tonto. —Wenna se bajó de la mula. Le costó—. Que no vuelva a bajar allí. Ni él ni nadie del Mercado. Pon un cartel en la raya. *Al sur no se pesa.*
+—Tu tío es tonto. —Wenna se bajó de la mula. Le costó—. Que no vuelva a bajar allí. Ni él ni nadie del Mercado. Pon un cartel en la raya. Al sur no se pesa.
 
 Dorota la miró con los ojos muy abiertos.
 

@@ -2,9 +2,7 @@
 
 *Tawarsinan. Otoño del año 156 de la Nueva Era.*
 
-*Del libro de cuentas de Sein Vell, año 156. Recuento. Lo hago cada cincuenta*
-
-*años, por si me he equivocado. No me he equivocado nunca. Lo hago igual.*
+*Del libro de cuentas de Sein Vell, año 156. Recuento. Lo hago cada cincuenta años, por si me he equivocado. No me he equivocado nunca. Lo hago igual.*
 
 Entró de noche, por detrás, sola, y no por la puerta.
 
@@ -74,7 +72,7 @@ Los siete abrieron los ojos a la vez.
 
 Los siete se encogieron. Como si les hubiera tirado una piedra.
 
-—*No hables* —dijo el mismo, dentro de su cabeza—. *Aquí no se habla.*
+—No hables —dijo el mismo, dentro de su cabeza—. Aquí no se habla.
 
 —¿Por qué?
 
@@ -98,7 +96,7 @@ Lo sabía por Loth.
 
 Por la última noche. En la cúpula de Concordia. Antes de deshacerse mirando al sol. Cuando ella le dijo que no le daba la vida, y él se rió, y después de reírse, mientras Livia metía la mano en la llama, le dijo algo. Bajo. Para ella.
 
-*Está partido, sobrina. Lo de abajo. En dos. No lo partió nadie; se partió solo, de* *hambre, hace mucho. Una mitad está al este, al otro lado del estrecho, en un valle negro,* *debajo de tu hermano. La otra está al sur. Debajo de unos que no hablan. Y las dos* *mitades se buscan. Como se buscan las dos mitades de una jarra rota.*
+*Está partido, sobrina. Lo de abajo. En dos. No lo partió nadie; se partió solo, de hambre, hace mucho. Una mitad está al este, al otro lado del estrecho, en un valle negro, debajo de tu hermano. La otra está al sur. Debajo de unos que no hablan. Y las dos mitades se buscan. Como se buscan las dos mitades de una jarra rota.*
 
 Ella no le había preguntado cómo lo sabía. Loth sabía cosas. Loth había estado dentro de una jarra veintiocho años, y dentro de las jarras se oía lo de abajo como se oye el mar dentro de una caracola.
 
@@ -188,7 +186,7 @@ Tenía la cara de cuarenta años. Siempre la tendría. Con las gafas nuevas de T
 
 Sein no dijo nada. Escribió.
 
-—Y otra cosa —dijo Lanther. Se sentó a su lado. Metió los pies en el agua. Estaba fría—. El orco gris. El de la piedra. El que se llevó la gema. Se la llevó a alguien que quiere juntar las dos mitades. Eso dijo Loth. *Lo que está partido quiere juntarse.*
+—Y otra cosa —dijo Lanther. Se sentó a su lado. Metió los pies en el agua. Estaba fría—. El orco gris. El de la piedra. El que se llevó la gema. Se la llevó a alguien que quiere juntar las dos mitades. Eso dijo Loth. Lo que está partido quiere juntarse.
 
 —¿Quién?
 

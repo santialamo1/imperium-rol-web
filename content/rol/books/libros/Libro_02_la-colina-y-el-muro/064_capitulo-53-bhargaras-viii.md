@@ -2,11 +2,7 @@
 
 *Las montañas del sur, más allá del último campamento. Año 146 de la Nueva Era.*
 
-*Del libro de cuentas de Sein Vell, año 146. Haber: un pueblo que no sabíamos*
-
-*que existía. Debe: lo que tienen debajo. Lo apunto en las dos columnas porque*
-
-*no sé en cuál va.*
+*Del libro de cuentas de Sein Vell, año 146. Haber: un pueblo que no sabíamos que existía. Debe: lo que tienen debajo. Lo apunto en las dos columnas porque no sé en cuál va.*
 
 Mandó a treinta hombres y no fue con ellos, y se pasó los nueve días que tardaron en volver sentado en la muralla de Ullathorpe, mirando al sur, odiándose.
 
@@ -140,9 +136,9 @@ Thrumbar lo miró.
 
 Los Cristales de Alkar.
 
-Así los llamaban. Por Alkar, el primero, el que bajó a la montaña hacía mil años — eso decía Thrumbar; los enanos contaban los años por picos, y Bhargaras no supo nunca si eran mil años o mil picos— y encontró la primera veta y se quedó a vivir al lado porque, decía la canción, *la piedra le cantaba nanas*.
+Así los llamaban. Por Alkar, el primero, el que bajó a la montaña hacía mil años — eso decía Thrumbar; los enanos contaban los años por picos, y Bhargaras no supo nunca si eran mil años o mil picos— y encontró la primera veta y se quedó a vivir al lado porque, decía la canción, la piedra le cantaba nanas.
 
-Los enanos picaban la veta. Desde siempre. Con cuidado. Con un cuidado que Bhargaras no había visto nunca en nadie: picos pequeños, de bronce, nunca de hierro, porque el hierro *la despierta*; golpes cortos; una canción, en voz baja, mientras se picaba, siempre la misma, de catorce notas. Y lo que sacaban lo tallaban. Cristales. Del tamaño de una uña. Blancos. Que brillaban solos.
+Los enanos picaban la veta. Desde siempre. Con cuidado. Con un cuidado que Bhargaras no había visto nunca en nadie: picos pequeños, de bronce, nunca de hierro, porque el hierro la despierta; golpes cortos; una canción, en voz baja, mientras se picaba, siempre la misma, de catorce notas. Y lo que sacaban lo tallaban. Cristales. Del tamaño de una uña. Blancos. Que brillaban solos.
 
 Y con los cristales hacían cosas.
 

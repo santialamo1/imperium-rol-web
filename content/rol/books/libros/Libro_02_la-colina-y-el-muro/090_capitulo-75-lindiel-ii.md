@@ -2,11 +2,7 @@
 
 *Banderbill. Años 399 y 400 de la Nueva Era.*
 
-*De la Crónica de Aren Vell, año 400. Hoy se ha gritado algo en la plaza que no*
-
-*se había gritado nunca. Lo he apuntado tres veces para estar seguro de cómo*
-
-*se escribe.*
+*De la Crónica de Aren Vell, año 400. Hoy se ha gritado algo en la plaza que no se había gritado nunca. Lo he apuntado tres veces para estar seguro de cómo se escribe.*
 
 Lindiel II se casó a los cincuenta años con una elfa que no lo quería, y fue lo mejor que hizo en su vida, y tardó un año entero en entender por qué.
 
@@ -40,7 +36,7 @@ Hablaron poco, esa noche y las siguientes. Ella no hablaba casi. Él tampoco; ha
 
 Una noche, ella habló.
 
-—Esta página —dijo. La tachada. La que copió Amael—. *Serás él si guardas por* *miedo.* ¿Qué quiere decir?
+—Esta página —dijo. La tachada. La que copió Amael—. Serás él si guardas por miedo. ¿Qué quiere decir?
 
 —No lo sé.
 
@@ -142,7 +138,7 @@ Lindiel II la miró.
 
 —Arthal se llamaba un Emperador —dijo—. El noveno. El padre de mi tatarabuelo.
 
-—Lo sé. —Aeloen no levantó la vista del niño—. Arthal en la lengua vieja quiere decir *el que sube*. —Hizo una pausa—. No lo sabía él. Se lo puso alguien que no hablaba la lengua vieja. Por casualidad.
+—Lo sé. —Aeloen no levantó la vista del niño—. Arthal en la lengua vieja quiere decir el que sube. —Hizo una pausa—. No lo sabía él. Se lo puso alguien que no hablaba la lengua vieja. Por casualidad.
 
 —¿Y ahora?
 
@@ -188,7 +184,7 @@ Hacia el cielo. Un momento. Sin tira de cuero.
 
 Y sonreír.
 
-Lindiel II la conoció. No sabía de qué. Luego lo supo: de un informe. *Dalla Hask,* *de Nix. Superviviente. Instructora. Lleva la gubia de su novio.*
+Lindiel II la conoció. No sabía de qué. Luego lo supo: de un informe. Dalla Hask, de Nix. Superviviente. Instructora. Lleva la gubia de su novio.
 
 ---
 
@@ -222,7 +218,7 @@ Esa noche, en la biblioteca, en el rincón del fondo, un hombre de unos cuarenta
 
 Escribió:
 
-*Año 400. Desfile. Tres mil. Una de cada diez piedritas del Mercado. Primera vez* *que se grita. Lo gritó el elfo.*
+*Año 400. Desfile. Tres mil. Una de cada diez piedritas del Mercado. Primera vez que se grita. Lo gritó el elfo.*
 
 Y en el debe, enfrente, después de mirar mucho rato la página:
 
@@ -232,4 +228,6 @@ Y en el debe, enfrente, después de mirar mucho rato la página:
 
 Y al lado, en otra letra, una letra grande y torcida, de alguien que escribía poco y apretaba demasiado la pluma, alguien había escrito, esa misma noche, sin que Sein la viera llegar:
 
-*Y la nombré yo. Que conste.* *L.*
+*Y la nombré yo. Que conste.*
+
+*L.*

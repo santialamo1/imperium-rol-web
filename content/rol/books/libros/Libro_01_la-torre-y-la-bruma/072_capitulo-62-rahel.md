@@ -12,7 +12,7 @@ No volvió a hablarle a Yared en siete años.
 
 ---
 
-La enterraron al amanecer, en la arena, junto a las palmeras que la Madre Ysh-Neva había plantado una a una después de que el viejo Braco quemara las anteriores. El osario nuevo estaba al pie de la roca, pero Rahel no quiso. *Allí no*, dijo, con las únicas palabras que dijo aquel día. *Allí están los viejos. Ella tiene miedo de los viejos.*
+La enterraron al amanecer, en la arena, junto a las palmeras que la Madre Ysh-Neva había plantado una a una después de que el viejo Braco quemara las anteriores. El osario nuevo estaba al pie de la roca, pero Rahel no quiso. Allí no, dijo, con las únicas palabras que dijo aquel día. Allí están los viejos. Ella tiene miedo de los viejos.
 
 Yared cavó la tumba con sus manos. Nadie le ayudó; no lo permitió. Tenía treinta y cinco años, la mandíbula cuadrada de su padre, los ojos oscuros de su madre, y un silencio dentro que Rahel conocía desde hacía cinco años y que nunca había conseguido abrir.
 
@@ -102,7 +102,7 @@ Rahel se arrodilló junto a ella.
 
 —Puedes. Eres su madre.
 
-Rahel miró hacia arriba. El cielo del desierto, negro, con las estrellas medio borradas por la bruma. Pensó en la niña. En su risa. En cómo se metía el pulgar en la boca para dormir, aunque Rahel le decía que se le iban a torcer los dientes. En cómo decía *mamá* con la *m* muy larga, *mmmmamá*, como si le costara arrancar. En el calor de su cuerpo los tres días de la fiebre, y luego en el frío.
+Rahel miró hacia arriba. El cielo del desierto, negro, con las estrellas medio borradas por la bruma. Pensó en la niña. En su risa. En cómo se metía el pulgar en la boca para dormir, aunque Rahel le decía que se le iban a torcer los dientes. En cómo decía mamá con la m muy larga, mmmmamá, como si le costara arrancar. En el calor de su cuerpo los tres días de la fiebre, y luego en el frío.
 
 —Neva —dijo.
 
@@ -166,7 +166,7 @@ Si no hubiera soltado a Neva, ¿habría vuelto Yared a la niebla? ¿Habría vuel
 
 No lo sabía. Nadie lo sabía.
 
-Pero cuando llegaron las noticias de Kel-Dun, del Atardecer Rojo, de los muertos grises caminando por las colinas de Askel, Rahel fue a la tumba de su hija, junto a las palmeras, y se sentó en la arena, y pensó que al menos ella, la pequeña, la del pulgar en la boca y la *m* muy larga, no estaba allí. No caminaba en ningún ejército. No servía a nadie.
+Pero cuando llegaron las noticias de Kel-Dun, del Atardecer Rojo, de los muertos grises caminando por las colinas de Askel, Rahel fue a la tumba de su hija, junto a las palmeras, y se sentó en la arena, y pensó que al menos ella, la pequeña, la del pulgar en la boca y la m muy larga, no estaba allí. No caminaba en ningún ejército. No servía a nadie.
 
 Eso, al menos, lo había hecho bien.
 

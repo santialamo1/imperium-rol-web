@@ -2,15 +2,11 @@
 
 *Nix. Otoño del año 356 de la Nueva Era.*
 
-*De la Crónica de Jonas Vell, año 356. El elfo del sombrero ha pedido papel.*
-
-*Mucho. Dice que se le está acabando el diario. Le he dado una resma. Me ha*
-
-*dicho que con la mitad le sobra.*
+*De la Crónica de Jonas Vell, año 356. El elfo del sombrero ha pedido papel. Mucho. Dice que se le está acabando el diario. Le he dado una resma. Me ha dicho que con la mitad le sobra.*
 
 El aire se puso pesado un jueves, y Érandiul lo notó antes que nadie porque era el único en Nix que todavía se acordaba de cómo pesaba el aire el año 30.
 
-Estaba en el mercado. En el de los jueves, el del puerto del río, donde las barcas de los gnomos descargaban fruta de las islas y los enanos vendían cazos que no se abollaban y los elfos de Nix, que ya no eran del sur ni del norte, que eran de Nix, vendían miel. Tenía un vaso de agua con miel en la mano. Lo tenía siempre. Doscientos años de agua con miel; los humanos del mercado lo llamaban *el viejo de la miel* y le guardaban un taburete.
+Estaba en el mercado. En el de los jueves, el del puerto del río, donde las barcas de los gnomos descargaban fruta de las islas y los enanos vendían cazos que no se abollaban y los elfos de Nix, que ya no eran del sur ni del norte, que eran de Nix, vendían miel. Tenía un vaso de agua con miel en la mano. Lo tenía siempre. Doscientos años de agua con miel; los humanos del mercado lo llamaban el viejo de la miel y le guardaban un taburete.
 
 Y el aire se puso pesado.
 
@@ -50,7 +46,7 @@ Y luego, en una línea, de norte a sur, a lo largo de leguas, cien.
 
 No eran hogueras. Las hogueras se encienden despacio. Estas se encendían de golpe, enteras, como si alguien hubiera prendido fuego a los árboles desde dentro. Y no se apagaban.
 
-*Algunos bosques desaparecieron bajo unas llamas que salen de ninguna parte*, escribió a la mañana siguiente. Con la mano temblando.
+Algunos bosques desaparecieron bajo unas llamas que salen de ninguna parte, escribió a la mañana siguiente. Con la mano temblando.
 
 ---
 
@@ -234,15 +230,15 @@ Una carta.
 
 *A la que no se muere.*
 
-Se la había visto escribir a Amael. *Al que lee.* Cartas sin firmar, con un palote. Él nunca había escrito ninguna. Los elfos no escribían cartas; escribían cortezas, y las cortezas eran para todos, no para uno.
+Se la había visto escribir a Amael. Al que lee. Cartas sin firmar, con un palote. Él nunca había escrito ninguna. Los elfos no escribían cartas; escribían cortezas, y las cortezas eran para todos, no para uno.
 
 Esta era para una.
 
-*No sé dónde estás. Hace doce años que te fuiste al oeste a ver con tus ojos. El* *gnomo dice que hueles lejos. El de las gafas dice que no ha llegado ningún papel con un* *palote en seis años.*
+*No sé dónde estás. Hace doce años que te fuiste al oeste a ver con tus ojos. El gnomo dice que hueles lejos. El de las gafas dice que no ha llegado ningún papel con un palote en seis años.*
 
-*Aquí el aire pesa. Como en el 30. ¿Te acuerdas? Tú tenías diecinueve años y yo me* *quité el sombrero en una puerta a medio hacer. Y tú me dijiste que ya lo sabías. Que tenías* *a una mujer que se iba a enamorar de mí.* *No se enamoró de mí. Se enamoró de Verawel. Tenías razón a medias. Como siempre.*
+*Aquí el aire pesa. Como en el 30. ¿Te acuerdas? Tú tenías diecinueve años y yo me quité el sombrero en una puerta a medio hacer. Y tú me dijiste que ya lo sabías. Que tenías a una mujer que se iba a enamorar de mí. No se enamoró de mí. Se enamoró de Verawel. Tenías razón a medias. Como siempre.*
 
-*Se oyen tambores en el Dorck. Hay fuegos que salen de ninguna parte. Hay* *ochocientos soldados que no han peleado nunca y una capitana que le habla a su caballo.*
+*Se oyen tambores en el Dorck. Hay fuegos que salen de ninguna parte. Hay ochocientos soldados que no han peleado nunca y una capitana que le habla a su caballo.*
 
 *No sé qué hacer. No soy guerrero. Soy el que apunta.*
 
@@ -308,7 +304,7 @@ Era un hombre de unos cuarenta años con gafas. Con la capa llena de barro. Con 
 
 —No he mandado ninguna carta.
 
-—Ya. Por eso. —Sein se puso las gafas—. Dice que hueles a carta *sin mandar*. Que es peor.
+—Ya. Por eso. —Sein se puso las gafas—. Dice que hueles a carta sin mandar. Que es peor.
 
 Entró. Se sentó en la silla de la mesa. Miró el diario, abierto, con el círculo con una raya.
 

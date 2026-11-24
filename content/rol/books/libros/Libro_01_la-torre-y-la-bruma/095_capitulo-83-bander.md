@@ -178,7 +178,9 @@ Pero los cien no eran muertos comunes. Eran los mejores guerreros de cuatro sigl
 
 Le hirieron en el hombro con una lanza. En el muslo, con una espada. En la cara, con algo que no vio. Retrocedió un peldaño. Dos. Diez. La escalera era estrecha, y eso lo salvaba: nunca podían atacarlo más de dos a la vez. Pero era larga, y cada peldaño que perdía era un peldaño más cerca de la cripta.
 
-*Brunhild de Leogrand. Te oigo. Vete.* *Torvald Piel de Hierro. Te oigo. Vete.*
+*Brunhild de Leogrand. Te oigo. Vete.*
+
+*Torvald Piel de Hierro. Te oigo. Vete.*
 
 *Sergio Mato, capitán de la Guardia. Te oigo. Vete.*
 
@@ -226,11 +228,11 @@ Cantó.
 
 No la nana. No sabía por qué, pero no cantó la nana. Cantó otra cosa. Algo que había leído en un libro prohibido de la Gran Biblioteca, a escondidas, con su abuela. Las primeras palabras de una ley. La primera ley de un reinado. Las palabras de una emperatriz que no quería que nadie volviera a tocarla, ni a ella ni a nadie.
 
-—*Cualquier hombre que tome a una mujer o a un niño contra su voluntad* —recitó Bander, con un hilo de voz— *será castrado en la plaza de su aldea. Sea campesino o* *señor. Sea quien sea.*
+—Cualquier hombre que tome a una mujer o a un niño contra su voluntad —recitó Bander, con un hilo de voz— será castrado en la plaza de su aldea. Sea campesino o señor. Sea quien sea.
 
 Genieveve se detuvo. Las espadas en alto.
 
-—*Y si su señor lo protege* —siguió Bander—, *el señor perderá sus tierras. Y yo* *misma iré a buscarlo.*
+*—Y si su señor lo protege —siguió Bander—, el señor perderá sus tierras. Y yo misma iré a buscarlo.*
 
 Dentro de la emperatriz gris, la voz callada se movió. Muy poco. Como alguien que despierta.
 
@@ -254,7 +256,7 @@ Y Bander dijo el único nombre que tenía:
 
 Ella abrió la boca. Exhaló. Una exhalación larga, muy larga, mucho más larga de lo que un cuerpo humano puede exhalar. Y antes de que el hilo blanco terminara de salir, Bander juraría hasta el día de su muerte que la oyó decir algo, con una voz ronca, olvidada, que no se había usado en tres siglos:
 
-—*Treinta y tres.*
+*—Treinta y tres.*
 
 Luego cayó. Y su hilo subió por el hueco de la escalera, hacia la llama.
 
@@ -298,7 +300,13 @@ Era duda.
 
 Bander aprovechó ese momento. No para atacar; no tenía fuerzas. Para cantar. La nana. La canción de su familia, la que su abuela Aremir le había cantado junto a la ventana la noche en que nació, la que todos los Bhargaras cantaban sin saber lo que significaba.
 
-*Duerme, arena, duerme ya,* *la bruma viene y se va;* *quien te nombra te tendrá,* *quien te ama volverá.*
+*Duerme, arena, duerme ya,*
+
+*la bruma viene y se va;*
+
+*quien te nombra te tendrá,*
+
+*quien te ama volverá.*
 
 Loth se quedó inmóvil.
 
@@ -346,11 +354,11 @@ Loth la miró. Durante un largo rato, ninguno de los dos se movió.
 
 —Si se va —dijo Loth, muy bajo—, me quedo solo.
 
-*Ya estás solo*, dijo la voz de Seren, y Bander la oyó, y supo que Loth también la oía. *Llevas solo desde que entraste en el pozo. Desde antes. Desde que tiraste de mí. Yo no* *estoy aquí, Loth. Lo que tú tienes no soy yo. Es lo que no quieres soltar.*
+Ya estás solo, dijo la voz de Seren, y Bander la oyó, y supo que Loth también la oía. Llevas solo desde que entraste en el pozo. Desde antes. Desde que tiraste de mí. Yo no estoy aquí, Loth. Lo que tú tienes no soy yo. Es lo que no quieres soltar.
 
 Loth cerró los ojos.
 
-*Deja que se vaya. Por favor. Es lo único que te he pedido en trescientos años que* *no sea lo otro.*
+*Deja que se vaya. Por favor. Es lo único que te he pedido en trescientos años que no sea lo otro.*
 
 Loth no abrió los ojos. Pero bajó la mano. Despacio.
 

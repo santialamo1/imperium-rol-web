@@ -1,6 +1,6 @@
 # Capítulo 22 · Verawel
 
-*La biblioteca de Banderbill y la calle del Horno. Invierno del año 1110 de la Nueva* *Era (503 D.bA).*
+*La biblioteca de Banderbill y la calle del Horno. Invierno del año 1110 de la Nueva Era (503 D.bA).*
 
 El tercero no dijo nunca que era de la sangre. Lo dijeron por él.
 
@@ -8,7 +8,7 @@ Verawel lo vio el primer día, como lo vio todo el mundo que pasaba por la plaza
 
 Mirando hacia arriba.
 
-No a la biblioteca. No al dintel, *Para que quepan todos*. Más arriba. Al cielo gris de enero, por encima del tejado, donde no había nada.
+No a la biblioteca. No al dintel, Para que quepan todos. Más arriba. Al cielo gris de enero, por encima del tejado, donde no había nada.
 
 Verawel pasó a su lado tres mañanas seguidas, y las tres mañanas el hombre estaba igual. Al cuarto día se paró.
 
@@ -40,7 +40,7 @@ Estaban en el sótano. Verawel en la silla de las visitas, con las manos en las 
 
 —No ha dicho nada —dijo Verawel.
 
-—No hace falta. Marren ya ha dicho bastante. —Sein pasó una hoja—. Ha encontrado una partida de bautismo de Ullathorpe del 1070. De un niño que se llamaba Abel. Hijo de una criada de la posada de Joss. Padre desconocido. —Levantó la vista—. Y ha encontrado una carta de la criada, del 1069, que dice que el padre era *un señor de la* *colina que llevaba un aro de hierro*.
+—No hace falta. Marren ya ha dicho bastante. —Sein pasó una hoja—. Ha encontrado una partida de bautismo de Ullathorpe del 1070. De un niño que se llamaba Abel. Hijo de una criada de la posada de Joss. Padre desconocido. —Levantó la vista—. Y ha encontrado una carta de la criada, del 1069, que dice que el padre era un señor de la colina que llevaba un aro de hierro.
 
 —¿Es verdad?
 
@@ -58,7 +58,7 @@ Verawel se quedó callado.
 
 Verawel había empezado a buscar en el 1052.
 
-En la reunión de las once sillas. Cuando preguntó *¿has mirado a las hijas?* y nadie le contestó. Desde entonces había bajado a los archivos cada noche, sin pedir nada a nadie, y había mirado a las hijas. A todas. A las que se casaron con Hask y con Vell y con mercaderes de Nix y con capitanes de la Armada. A las que se murieron niñas. A las que se fueron.
+En la reunión de las once sillas. Cuando preguntó ¿has mirado a las hijas? y nadie le contestó. Desde entonces había bajado a los archivos cada noche, sin pedir nada a nadie, y había mirado a las hijas. A todas. A las que se casaron con Hask y con Vell y con mercaderes de Nix y con capitanes de la Armada. A las que se murieron niñas. A las que se fueron.
 
 Llevaba cincuenta y ocho años. Era un elfo; tenía tiempo. Y había sido árbol; tenía paciencia. Los árboles no buscan agua: crecen hacia ella, despacio, un dedo cada año, hasta que la tocan.
 
@@ -94,7 +94,7 @@ Sein no se movió.
 
 Estaban en el sótano, la noche siguiente a lo de Abel. La lámpara. El libro abierto. Sein con la pluma en la mano, quieta, a un dedo del papel, con una gota de tinta en la punta que no caía.
 
-—Isra, hija de Liminus —dijo Verawel—. La que se escapó. La que dijeron que se había ido a Lindos con un mercader. Se casó en el 760 con Berto Ruald. El tataranieto de la masa madre. El que tenía la panadería de la calle del Horno. —Hizo una pausa—. Los Vell apuntaron la boda en una línea. *La nieta del Emperador se casa con un panadero. Hay pan* *para todos.* Nadie más la apuntó. En el registro de la colina no está. En el del Consejo no está. Y en tus libros, el del 760 está metido hacia dentro.
+—Isra, hija de Liminus —dijo Verawel—. La que se escapó. La que dijeron que se había ido a Lindos con un mercader. Se casó en el 760 con Berto Ruald. El tataranieto de la masa madre. El que tenía la panadería de la calle del Horno. —Hizo una pausa—. Los Vell apuntaron la boda en una línea. La nieta del Emperador se casa con un panadero. Hay pan para todos. Nadie más la apuntó. En el registro de la colina no está. En el del Consejo no está. Y en tus libros, el del 760 está metido hacia dentro.
 
 La gota de tinta cayó. En el libro. Una mancha redonda, negra, en la columna del haber.
 
@@ -210,7 +210,7 @@ El de los Fragmentos. El que había empezado en el 640, en la letra de las Madre
 
 Lo desenrolló.
 
-La espada. La lágrima. La gema de Migyur. La gema de Panbor. El pergamino de las almas. La vara. El escudo, que Mirela había apuntado a lápiz en el 954 con un signo de pregunta, y que él había pasado a tinta en el 1031, sin signo de pregunta, con una línea: *Lo* *tiene un gnomo. Late.*
+La espada. La lágrima. La gema de Migyur. La gema de Panbor. El pergamino de las almas. La vara. El escudo, que Mirela había apuntado a lápiz en el 954 con un signo de pregunta, y que él había pasado a tinta en el 1031, sin signo de pregunta, con una línea: Lo tiene un gnomo. Late.
 
 Cogió la pluma.
 

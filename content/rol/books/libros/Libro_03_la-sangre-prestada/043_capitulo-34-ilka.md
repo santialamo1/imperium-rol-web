@@ -90,7 +90,7 @@ El agujero. Redondo. Del tamaño de una plaza pequeña. Rodeado de piedras puest
 
 Y en la boca del agujero, de pie, encajado en el cuello de piedra, blanco de sal desde el pelo hasta las botas, el Guardián.
 
-Ilka lo había visto mil veces. Todos los niños del Mercado lo habían visto. Le tiraban piedritas *por si acaso*, una cada uno, cuando eran pequeños, y luego se iban corriendo. A sus pies había un montón. Miles de piedritas. Y entre ellas, castañas. Muchas. Secas, viejas, de cientos de otoños.
+Ilka lo había visto mil veces. Todos los niños del Mercado lo habían visto. Le tiraban piedritas por si acaso, una cada uno, cuando eran pequeños, y luego se iban corriendo. A sus pies había un montón. Miles de piedritas. Y entre ellas, castañas. Muchas. Secas, viejas, de cientos de otoños.
 
 Y una que no estaba seca.
 

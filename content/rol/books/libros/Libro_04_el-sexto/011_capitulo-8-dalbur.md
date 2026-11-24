@@ -1,6 +1,6 @@
 # Capítulo 8 · Dalbur
 
-*La forja de Tiama, en las montañas blancas de Annkör. Del invierno del año 1029* *a la primavera del 1030 de la Nueva Era (422–423 D.bA).*
+*La forja de Tiama, en las montañas blancas de Annkör. Del invierno del año 1029 a la primavera del 1030 de la Nueva Era (422–423 D.bA).*
 
 El hierro de la veta no quería ser escudo. Quería ser espada.
 
@@ -16,7 +16,7 @@ Dalbur escupió en el suelo.
 
 Tenía la vida de Bhargaras XI desde el 817. Doscientos doce años con la cara de ciento cuarenta, que en un enano es la cara de un hombre en lo mejor de la vida: la barba hasta el cinturón, gris oscuro, trenzada en tres los días de fiesta; las cejas como dos tejados; las manos como dos yunques pequeños. No había vuelto al sur desde el 856, cuando el Emperador que le dio la vida se murió en la Isla Siniestra con casi toda su flota, y él se quedó en Tiama porque alguien tenía que quedarse, y luego se quedó porque ya era suyo.
 
-Tiama era suya. No tenía título. No lo quería. Los del sur le llamaban gobernador y él contestaba a las cartas firmando *Dalbur, herrero*. Seis mil almas en la ciudad de hielo apisonado, en la ladera de la montaña más alta de las montañas blancas, con gólems de piedra en las puertas y yetis en los establos y una forja en el centro de todo, excavada en la roca, con una chimenea que subía hasta la cumbre por dentro de la montaña y que en invierno echaba humo como un volcán.
+Tiama era suya. No tenía título. No lo quería. Los del sur le llamaban gobernador y él contestaba a las cartas firmando Dalbur, herrero. Seis mil almas en la ciudad de hielo apisonado, en la ladera de la montaña más alta de las montañas blancas, con gólems de piedra en las puertas y yetis en los establos y una forja en el centro de todo, excavada en la roca, con una chimenea que subía hasta la cumbre por dentro de la montaña y que en invierno echaba humo como un volcán.
 
 Era la mejor forja del mundo. Lo decía él. Nadie le llevaba la contraria.
 
@@ -278,7 +278,7 @@ Astragal había dicho que no.
 
 Dalbur lo vio irse desde el muelle de hielo, con Eluret y la pelirroja, en la cubierta del barco, hasta que se perdió en la niebla del fiordo.
 
-Luego volvió a la forja. Cogió el martillo pequeño. Y en el yunque, en la cara de abajo, la que no veía nadie, la que tocaba la roca, grabó con un punzón, en runas de enano, una línea: *Aquí se hizo una puerta con hierro que quería ser espada. 1030. Dalbur, herrero.*
+Luego volvió a la forja. Cogió el martillo pequeño. Y en el yunque, en la cara de abajo, la que no veía nadie, la que tocaba la roca, grabó con un punzón, en runas de enano, una línea: Aquí se hizo una puerta con hierro que quería ser espada. 1030. Dalbur, herrero.
 
 Y debajo, más pequeño:
 

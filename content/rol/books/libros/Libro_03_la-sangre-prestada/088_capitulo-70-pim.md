@@ -1,6 +1,6 @@
 # Capítulo 70 · Pim
 
-*La tercera almena de la colina de Banderbill. La noche después del ataque, año* *892 de la Nueva Era (285 D.bA).*
+*La tercera almena de la colina de Banderbill. La noche después del ataque, año 892 de la Nueva Era (285 D.bA).*
 
 Pim subió a la almena porque era el único sitio de la colina donde nadie iba a buscarlo, y porque ella estaría allí.
 
@@ -38,7 +38,7 @@ Abajo, en la colina, alguien lloraba. Lejos. En la calle de los Tintoreros. Una 
 
 Lanther se volvió.
 
-—Me puse delante de él —dijo Pim—. A diez pasos. Esperando que me preguntara. Como siempre. Desde el año 300. *¿Qué quieres?* Y no me preguntó. —Se tocó el hueco de la cara—. Dijo que ya no sabía qué contestaría. Que me había perdido. Hace siete años. Una noche que miré arriba en la calle de abajo, debajo de esta almena, porque tú mirabas arriba y yo no sabía qué otra cosa hacer.
+—Me puse delante de él —dijo Pim—. A diez pasos. Esperando que me preguntara. Como siempre. Desde el año 300. ¿Qué quieres? Y no me preguntó. —Se tocó el hueco de la cara—. Dijo que ya no sabía qué contestaría. Que me había perdido. Hace siete años. Una noche que miré arriba en la calle de abajo, debajo de esta almena, porque tú mirabas arriba y yo no sabía qué otra cosa hacer.
 
 Lanther no dijo nada.
 
@@ -56,7 +56,7 @@ Lanther se rio. Bajito. Le dolió; se tocó las costillas.
 
 —Ithil también —dijo.
 
-—Ithil me enseñó. —Pim miró al norte—. En Arghâl. En el 606. Me dijo que él le había contestado *que no me olviden*. Y que desde entonces no podía tocar un arpa. Que lo único que podía hacer era no contestar más. Que no se le había ocurrido preguntar. — Crujió la sal—. Se le ocurrió en el 880. Tardó cuatrocientos años.
+—Ithil me enseñó. —Pim miró al norte—. En Arghâl. En el 606. Me dijo que él le había contestado que no me olviden. Y que desde entonces no podía tocar un arpa. Que lo único que podía hacer era no contestar más. Que no se le había ocurrido preguntar. — Crujió la sal—. Se le ocurrió en el 880. Tardó cuatrocientos años.
 
 —Y te mandó la tablilla.
 
@@ -104,11 +104,11 @@ Pim no contestó.
 
 No porque no quisiera. Porque no lo sabía.
 
-Llevaba seiscientos años de sal. Antes de la sal había habido otra cosa: un cuerpo que se pudría, una escuela en una cueva, sesenta niños, unas tablillas de cera. Y antes, una barca. Y antes, una playa. Pim se acordaba de eso a trozos, como se acuerda uno de una casa en la que vivió de pequeño, por el olor de una escalera. Pero había algo más atrás. Más dentro. Algo que había dado. En la cueva, en el año 300, al hombre de gris. *De nada* *que te haga falta*, le había dicho el hombre de gris. *Dame lo que no te haga falta y te doy* *un cuerpo que no tenga hambre.* Y Pim, que tenía hambre, que se moría de hambre en una cueva de sal de las montañas rojas, le dio la cara.
+Llevaba seiscientos años de sal. Antes de la sal había habido otra cosa: un cuerpo que se pudría, una escuela en una cueva, sesenta niños, unas tablillas de cera. Y antes, una barca. Y antes, una playa. Pim se acordaba de eso a trozos, como se acuerda uno de una casa en la que vivió de pequeño, por el olor de una escalera. Pero había algo más atrás. Más dentro. Algo que había dado. En la cueva, en el año 300, al hombre de gris. De nada que te haga falta, le había dicho el hombre de gris. Dame lo que no te haga falta y te doy un cuerpo que no tenga hambre. Y Pim, que tenía hambre, que se moría de hambre en una cueva de sal de las montañas rojas, le dio la cara.
 
 Y con la cara se fue lo que había detrás.
 
-El nombre de dentro. No *Pim*. *Pim* se lo decía todo el mundo, desde siempre, en la costa, en la Gaviota, en la colina. El otro. El de antes de Pim. El que nadie decía.
+El nombre de dentro. No Pim. Pim se lo decía todo el mundo, desde siempre, en la costa, en la Gaviota, en la colina. El otro. El de antes de Pim. El que nadie decía.
 
 —No me acuerdo —dijo.
 
@@ -152,7 +152,7 @@ Pim no se movió.
 
 Sein se quitó las gafas. Se las limpió. Se las puso. Y leyó. Despacio. Con la voz de los números.
 
-—*Pim Hennek. De la Gaviota. De los once de las barcas. Le ha dicho la reina que* *se vaya y se ha ido por el río, llorando. No sé si está muerto. Apuntado aparte. Que* *vuelva.*
+*—Pim Hennek. De la Gaviota. De los once de las barcas. Le ha dicho la reina que se vaya y se ha ido por el río, llorando. No sé si está muerto. Apuntado aparte. Que vuelva.*
 
 ---
 

@@ -32,7 +32,7 @@ Luego Sein abrió el cuaderno. Por una página vieja. Se la enseñó.
 
 Tam no sabía leer.
 
-Sein se lo leyó. En voz baja. Livia no lo oyó, pero no le hizo falta. Sabía qué página era. *Precio: un niño. Lección: sangre.* Y debajo, en el margen, pequeño: *Lo propuse yo.*
+Sein se lo leyó. En voz baja. Livia no lo oyó, pero no le hizo falta. Sabía qué página era. Precio: un niño. Lección: sangre. Y debajo, en el margen, pequeño: Lo propuse yo.
 
 Tam escuchó. Con el martillo en la mano.
 
@@ -48,9 +48,9 @@ Esa noche, Sein no apuntó nada. Fue la única noche en dieciocho años que Livi
 
 Le pusieron nombre al barco el día que lo botaron, en la primavera del sesenta y uno.
 
-Lo propuso Lanther. Livia esperaba *Mara*, o *Tozuda*, o *Bhargaras*. No.
+Lo propuso Lanther. Livia esperaba Mara, o Tozuda, o Bhargaras. No.
 
-—*Odo* —dijo Lanther.
+—Odo —dijo Lanther.
 
 Tam se quedó quieto en la arena.
 
@@ -74,11 +74,11 @@ Asintió igual.
 
 El mar ya no soltaba a nadie.
 
-Eso fue lo primero que notó Livia. Lo notó en la primera noche, tumbada en la litera de popa, con el *Odo* meciéndose en el agua negra y Verawel sentado a su lado con la mano en la suya. Lo notó como se nota que se ha ido un ruido que llevabas tanto tiempo oyendo que ya no lo oías.
+Eso fue lo primero que notó Livia. Lo notó en la primera noche, tumbada en la litera de popa, con el Odo meciéndose en el agua negra y Verawel sentado a su lado con la mano en la suya. Lo notó como se nota que se ha ido un ruido que llevabas tanto tiempo oyendo que ya no lo oías.
 
 El silencio.
 
-La primera vez que cruzó aquel mar, con nueve años, en la proa de la *Tozuda*, con las rodillas contra el pecho, el mar estaba lleno. Lo recordaba. No lo oía; no había oído nunca a los muertos como Bander, como Orla, como Pim. Pero lo sentía. Una pesadez. Una presión, como la del agua cuando te sumerges hondo. Miles de cosas debajo de la quilla, esperando. Mirando hacia arriba.
+La primera vez que cruzó aquel mar, con nueve años, en la proa de la Tozuda, con las rodillas contra el pecho, el mar estaba lleno. Lo recordaba. No lo oía; no había oído nunca a los muertos como Bander, como Orla, como Pim. Pero lo sentía. Una pesadez. Una presión, como la del agua cuando te sumerges hondo. Miles de cosas debajo de la quilla, esperando. Mirando hacia arriba.
 
 Ahora no había nada.
 
@@ -100,17 +100,19 @@ Escribía la tercera Crónica.
 
 No sabía si la terminaría. Lo sabía, en realidad. Sabía que no. Lo sabía como se sabe que va a llover: en los huesos. Tenía setenta años. Tenía una tos que no se iba. Tenía una cuerda de trescientos sesenta y cinco nudos en el bolsillo del manto que le decía, cada mañana, que algo al otro lado del mar latía cada cuatro respiraciones.
 
-Iba a un sitio del que no iba a volver. Lo había decidido hacía tres años, en la casa de libros, cuando dijo *hay que ir*. No se lo había dicho a nadie. A Verawel tampoco. Pero Verawel lo sabía. Lo veía en cómo le cogía la mano por las noches: no como se coge la mano de alguien a quien quieres, sino como se coge la de alguien a quien vas a perder. Con un poco más de fuerza. Para acordarte.
+Iba a un sitio del que no iba a volver. Lo había decidido hacía tres años, en la casa de libros, cuando dijo hay que ir. No se lo había dicho a nadie. A Verawel tampoco. Pero Verawel lo sabía. Lo veía en cómo le cogía la mano por las noches: no como se coge la mano de alguien a quien quieres, sino como se coge la de alguien a quien vas a perder. Con un poco más de fuerza. Para acordarte.
 
 Escribía de noche. Las últimas páginas.
 
-*El mar está limpio*, escribió. *Tobías no lo vería. Bander no lo vería. Mara se ahogó* *en él cuando ya estaba limpio, y creo que por eso lo eligió: para que no la cogiera nadie.* *Yo lo cruzo por segunda vez, y por primera vez no tengo miedo de lo que hay debajo.* *Tengo miedo de lo que hay delante.*
+*El mar está limpio, escribió. Tobías no lo vería. Bander no lo vería. Mara se ahogó en él cuando ya estaba limpio, y creo que por eso lo eligió: para que no la cogiera nadie. Yo lo cruzo por segunda vez, y por primera vez no tengo miedo de lo que hay debajo. Tengo miedo de lo que hay delante.*
 
-*Le he dicho a Verawel que cuando yo no esté, se quede con la colina. Con Amael.* *Que le enseñe las letras que yo no le enseñé. Que le dé la hoja doce, la que cosí en la tapa,* *cuando tenga cincuenta años y sepa qué hacer con ella.*
+*Le he dicho a Verawel que cuando yo no esté, se quede con la colina. Con Amael. Que le enseñe las letras que yo no le enseñé. Que le dé la hoja doce, la que cosí en la tapa, cuando tenga cincuenta años y sepa qué hacer con ella.*
 
-*Verawel dice que no.* *Verawel dice que se queda conmigo.*
+*Verawel dice que no.*
 
-*Le he dicho que conmigo no se puede quedar nadie, porque a donde voy no hay* *sitio para dos.*
+*Verawel dice que se queda conmigo.*
+
+*Le he dicho que conmigo no se puede quedar nadie, porque a donde voy no hay sitio para dos.*
 
 *No me ha contestado. Me ha cogido la mano más fuerte.*
 
@@ -146,7 +148,7 @@ Era lo que no se esperaba. Había salido de allí con nueve años, en brazos de 
 
 Había una posada. Sin techo. Con una muestra colgando de una cadena, oxidada, con un gallo pintado que ya no se veía.
 
-—*El Gallo Ronco* —dijo Livia—. Mi padre paraba aquí. Cuando íbamos al campo. Me compraba un dulce de miel.
+—El Gallo Ronco —dijo Livia—. Mi padre paraba aquí. Cuando íbamos al campo. Me compraba un dulce de miel.
 
 Nadie dijo nada.
 
@@ -184,7 +186,7 @@ Y no se fue.
 
 No había arriba. Había niebla.
 
-Livia se quedó quieta, con la mano levantada, mirándolo. El herrero la miró a ella. Con aquella cara. *Lo intento. No puedo. No sé por dónde.*
+Livia se quedó quieta, con la mano levantada, mirándolo. El herrero la miró a ella. Con aquella cara. Lo intento. No puedo. No sé por dónde.
 
 —No pueden —dijo Lanther, a su lado. Muy bajo—. No mientras ardan allí arriba. —Señaló la torre. Al fondo. Alta, negra, agrietada de arriba abajo, con una cúpula de cristal en la punta y dentro algo gris que parpadeaba—. Mientras la llama los tenga, no tienen adónde ir. Están atados a ella. Y ella al clavo. Y el clavo a lo de abajo.
 

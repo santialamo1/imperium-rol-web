@@ -2,17 +2,13 @@
 
 *El Mar del Sur y el archipiélago. Años 134 a 140 de la Nueva Era.*
 
-*Del libro de cuentas de Sein Vell, año 134. Para la expedición: cuatro barcos,*
-
-*doscientos hombres, ochenta elfos, un rey de cincuenta y siete años que no sabe*
-
-*nadar. Lo he apuntado en el debe por si acaso.*
+*Del libro de cuentas de Sein Vell, año 134. Para la expedición: cuatro barcos, doscientos hombres, ochenta elfos, un rey de cincuenta y siete años que no sabe nadar. Lo he apuntado en el debe por si acaso.*
 
 No sabía nadar. Era lo único de lo que se avergonzaba.
 
 Su abuela, decían, no se habría casado nunca con un hombre que no supiera nadar. Lo había decidido a los once años después de sacar a un mercader de Gijor del río de una oreja. Andriath lo sabía porque su padre lo contaba en la biblioteca, riéndose, y lo había escrito Livia en el primer cuaderno. Y Andriath, que había nacido en una colina sobre el mar y que había pasado su infancia en el patio del cuartel y no en la playa, se hundía como una piedra.
 
-Así que se subió al *Hakon*, el barco grande, el de tres palos que habían construido los carpinteros del puerto copiando los dibujos de un tal Tam que se guardaban en la biblioteca, y se agarró a la borda, y no se soltó en cuarenta días.
+Así que se subió al Hakon, el barco grande, el de tres palos que habían construido los carpinteros del puerto copiando los dibujos de un tal Tam que se guardaban en la biblioteca, y se agarró a la borda, y no se soltó en cuarenta días.
 
 ---
 
@@ -42,7 +38,7 @@ Andriath suspiró.
 
 ---
 
-Cuatro. El *Hakon*, el *Casimir*, el *Mara* y el *Odo*, que era otro *Odo*, no el de Tam; el de Tam seguía en la Punta Gris, decían, varado en la cala, con la quilla cubierta de algas, esperando a nadie. Doscientos hombres de la colina. Ochenta elfos del sur, que sabían leer las estrellas. Sein, con el cuaderno. Y Andriath, agarrado a la borda.
+Cuatro. El Hakon, el Casimir, el Mara y el Odo, que era otro Odo, no el de Tam; el de Tam seguía en la Punta Gris, decían, varado en la cala, con la quilla cubierta de algas, esperando a nadie. Doscientos hombres de la colina. Ochenta elfos del sur, que sabían leer las estrellas. Sein, con el cuaderno. Y Andriath, agarrado a la borda.
 
 Dejó a su hijo en la colina. Bhargaras VIII. Veintiséis años. Con el aro de regente.
 
@@ -76,7 +72,7 @@ Se torció hacia el oeste, y ellos siguieron hacia el sur. Mar abierto. Azul. Co
 
 Andriath vomitó catorce días seguidos.
 
-—Tu bisabuelo también vomitaba —le dijo Sein, que no vomitaba nunca, que no se mareaba, que estaba sentado en la cubierta con el cuaderno en las rodillas como si estuviera en la biblioteca—. En la *Tozuda*. La primera travesía. Lo pone Tobías. Catorce días también.
+—Tu bisabuelo también vomitaba —le dijo Sein, que no vomitaba nunca, que no se mareaba, que estaba sentado en la cubierta con el cuaderno en las rodillas como si estuviera en la biblioteca—. En la Tozuda. La primera travesía. Lo pone Tobías. Catorce días también.
 
 —Mi bisabuelo tenía siete heridas.
 
@@ -92,7 +88,7 @@ El día treinta y uno vieron un pájaro.
 
 El día treinta y cuatro, algas.
 
-El día treinta y ocho, un elfo de los del sur, encaramado al palo mayor del *Hakon*, se puso a gritar en su lengua y a señalar algo con el brazo. Sein tradujo: *verde*.
+El día treinta y ocho, un elfo de los del sur, encaramado al palo mayor del Hakon, se puso a gritar en su lengua y a señalar algo con el brazo. Sein tradujo: verde.
 
 El día cuarenta, al amanecer, Andriath soltó la borda.
 
@@ -220,7 +216,7 @@ Andriath se la estrechó. Tuvo que agacharse.
 
 Sein lo apuntó.
 
-*Año 134. Triple Alianza. Elfos, gnomos, humanos. Sin pergamino. Firmado con un* *apretón de manos, en una playa, con el rey agachado. Que conste que el rey estaba* *agachado.*
+*Año 134. Triple Alianza. Elfos, gnomos, humanos. Sin pergamino. Firmado con un apretón de manos, en una playa, con el rey agachado. Que conste que el rey estaba agachado.*
 
 ---
 

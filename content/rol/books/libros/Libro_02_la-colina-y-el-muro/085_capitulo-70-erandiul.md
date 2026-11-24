@@ -2,11 +2,7 @@
 
 *Tawarsinan. Invierno del año 357 al 358 de la Nueva Era.*
 
-*De la Crónica de Jonas Vell, año 357. El primero no ha vuelto. Ha mandado*
-
-*una nota: «En Tawarsinan. Ciento treinta y uno. Abrieron». Nada más. Es la*
-
-*nota más larga que ha mandado nunca.*
+*De la Crónica de Jonas Vell, año 357. El primero no ha vuelto. Ha mandado una nota: «En Tawarsinan. Ciento treinta y uno. Abrieron». Nada más. Es la nota más larga que ha mandado nunca.*
 
 Tardaron nueve días. Ocho murieron por el camino. Érandiul los apuntó a todos, de noche, a la luz de un fuego pequeño que Sein no dejaba hacer más grande, en las treinta hojas que le quedaban del diario.
 
@@ -176,13 +172,13 @@ Y le decía algo. Al niño humano. Desde arriba. Bajito. En la lengua vieja.
 
 Érandiul tenía oídos de elfo. La oyó.
 
-—*Sí. Casas.*
+*—Sí. Casas.*
 
 ---
 
 Esa noche no durmió.
 
-Se sentó en la plataforma de la sala de los sabios, con el diario en las rodillas, con las treinta hojas que le quedaban. Abajo, en la plaza, los humanos habían hecho fuego. Un fuego pequeño, porque Sein no dejaba hacerlo más grande ni allí. Estaban sentados alrededor. Hablando bajo. Los gnomos dormían amontonados como cachorros. El enano decía *piedra* en sueños.
+Se sentó en la plataforma de la sala de los sabios, con el diario en las rodillas, con las treinta hojas que le quedaban. Abajo, en la plaza, los humanos habían hecho fuego. Un fuego pequeño, porque Sein no dejaba hacerlo más grande ni allí. Estaban sentados alrededor. Hablando bajo. Los gnomos dormían amontonados como cachorros. El enano decía piedra en sueños.
 
 Y en las plataformas de alrededor, en la oscuridad, cientos de elfos los miraban.
 
@@ -222,11 +218,11 @@ Mojó la pluma.
 
 Y escribió, despacio, con la letra cansada, en la lengua de la colina, para que la leyeran los que vinieran detrás:
 
-*Los que sobrevivimos, escapamos hacia Tawarsinan en busca de refuerzos, y los* *encontramos.*
+*Los que sobrevivimos, escapamos hacia Tawarsinan en busca de refuerzos, y los encontramos.*
 
 La leyó.
 
-*Y los encontramos.* Era verdad. Era la verdad más grande que había escrito en trescientos veintisiete años de diario. Y era mentira, también. Porque no era eso lo que habían ido a buscar, y no era eso lo que iban a traer.
+Y los encontramos. Era verdad. Era la verdad más grande que había escrito en trescientos veintisiete años de diario. Y era mentira, también. Porque no era eso lo que habían ido a buscar, y no era eso lo que iban a traer.
 
 No lo tachó.
 

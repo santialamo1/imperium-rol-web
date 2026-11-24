@@ -1,6 +1,6 @@
 # Del Diario de la familia Érandiul (XIX)
 
-*Año 1438. Copiado tal como está, con la letra de la mano izquierda. Las faltas son* *del original.*
+*Año 1438. Copiado tal como está, con la letra de la mano izquierda. Las faltas son del original.*
 
 Año 1438 (o 831 D.bA). Del rescate de Nesturil y la Segunda Batalla de Arghâl.
 
@@ -28,7 +28,7 @@ Arispar> ¡¡¡Nesturil!!! Bienvenida a tu hogar, la pesadilla terminó amiga m�
 
 Al Final del día solo hubo festejos en el Mesón Hostigado.
 
-*(Nota de la copista: «La mañana recibió a Los Tres con una triste noticia». La* *noticia la recibieron junto a la poza de Lindos, de rodillas, con una nota en el carcaj.* *«Para lograr el perdón de Finderil y sus compañeros»: el perdón de haber ido a Orac a* *por la Vara, solos, sin que nadie se lo mandara. Érandiul escribe «Arispar sonrió* *cínicamente». No fue cinismo. Se lo pregunté a Finderil, que estaba en la plaza del* *mercado de Arghâl esa noche. Dice que fue la sonrisa de un hombre que ha esperado* *mucho a alguien y por fin lo ve llegar. Dice también que el Demonio, al final, en la charca* *seca, no peleó. Que se apartó. Eso Érandiul no lo vio; estaba en la loma. Y no dice «doce* *mil». Arghâl tenía doce mil almas. Se fueron siete mil antes de la batalla. Los demás no los* *cuenta nadie. Yo tampoco sé contarlos. — M. V.)*
+*(Nota de la copista: «La mañana recibió a Los Tres con una triste noticia». La noticia la recibieron junto a la poza de Lindos, de rodillas, con una nota en el carcaj. «Para lograr el perdón de Finderil y sus compañeros»: el perdón de haber ido a Orac a por la Vara, solos, sin que nadie se lo mandara. Érandiul escribe «Arispar sonrió cínicamente». No fue cinismo. Se lo pregunté a Finderil, que estaba en la plaza del mercado de Arghâl esa noche. Dice que fue la sonrisa de un hombre que ha esperado mucho a alguien y por fin lo ve llegar. Dice también que el Demonio, al final, en la charca seca, no peleó. Que se apartó. Eso Érandiul no lo vio; estaba en la loma. Y no dice «doce mil». Arghâl tenía doce mil almas. Se fueron siete mil antes de la batalla. Los demás no los cuenta nadie. Yo tampoco sé contarlos. — M. V.)*
 
 Año 1438 (o 831 D.bA). Del quinto Fragmento de Alkar, la Espada del Destino.
 
@@ -40,4 +40,4 @@ Según me enteré, éste utilizó el objeto y gritó de satisfacción al ver el 
 
 (Espada del Destino, quinto Fragmento de Alkar)
 
-*(Nota de la copista: el herrero se llamaba Orrin, de Illiandor, de la calle de los* *cuervos. Hacía cerraduras que no abría nadie. El criminal se llamaba Kesh y saqueaba* *minas. Aldo Harwen, el segundo, tenía veintidós años. «Según me enteré»: Érandiul se* *enteró por mí, y yo por Dalbur, que bajó de Tiama en invierno con un gato dentro del* *abrigo y una cerradura en el bolsillo y no quiso hablar de nada más. No escribo lo que* *Dalbur me contó después, sobre lo que hizo el Demonio en la playa cuando dejó de gritar.* *Lo digo en voz alta, en el sótano. Y añado lo que el Diario no sabe: que la Espada ya no la* *tiene el Demonio. La tiene el orco grande, el del pelo blanco. Y que en su mano no enseña* *nada. — M. V.)*
+*(Nota de la copista: el herrero se llamaba Orrin, de Illiandor, de la calle de los cuervos. Hacía cerraduras que no abría nadie. El criminal se llamaba Kesh y saqueaba minas. Aldo Harwen, el segundo, tenía veintidós años. «Según me enteré»: Érandiul se enteró por mí, y yo por Dalbur, que bajó de Tiama en invierno con un gato dentro del abrigo y una cerradura en el bolsillo y no quiso hablar de nada más. No escribo lo que Dalbur me contó después, sobre lo que hizo el Demonio en la playa cuando dejó de gritar. Lo digo en voz alta, en el sótano. Y añado lo que el Diario no sabe: que la Espada ya no la tiene el Demonio. La tiene el orco grande, el del pelo blanco. Y que en su mano no enseña nada. — M. V.)*

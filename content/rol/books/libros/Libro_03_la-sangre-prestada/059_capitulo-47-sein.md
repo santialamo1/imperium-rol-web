@@ -68,7 +68,7 @@ Lanther no dijo nada.
 
 Lanther se quedó callada mucho rato.
 
-—Quiero parar —dijo Sein—. Quiero acabar el libro cuarenta y uno. Escribir debajo de la suma que no cuadra *faltan tres monedas*. Firmar. Y parar.
+—Quiero parar —dijo Sein—. Quiero acabar el libro cuarenta y uno. Escribir debajo de la suma que no cuadra faltan tres monedas. Firmar. Y parar.
 
 ---
 
@@ -116,7 +116,7 @@ Se quedaron mirándola.
 
 ---
 
-—Había una jarra —dijo Sein. Al rato. Más bajo—. La séptima. La de Loth. *Para* *cuando te canses.* La llevabas tú. En el arcón. Debajo de la maceta. —La miró—. Para eso era. Para esto. Para cuando uno de nosotros se cansara.
+—Había una jarra —dijo Sein. Al rato. Más bajo—. La séptima. La de Loth. Para cuando te canses. La llevabas tú. En el arcón. Debajo de la maceta. —La miró—. Para eso era. Para esto. Para cuando uno de nosotros se cansara.
 
 Lanther tardó en contestar.
 
@@ -234,7 +234,7 @@ Sein la miró reírse.
 
 Sein pasó las hojas del libro nuevo hasta el final. Hasta la última página. Donde, en todos los libros desde el 703, abría la tercera columna. La de lo que se debía a los árboles.
 
-Escribió, debajo de *Verawel. A los árboles. Cuando se acabe*, una línea más:
+Escribió, debajo de Verawel. A los árboles. Cuando se acabe, una línea más:
 
 *Sein. A la poza de Lindos. Cuando falte algo que ya no importe encontrar.*
 
@@ -270,15 +270,15 @@ Sein no insistió. Apuntó algo en el libro nuevo. Algo pequeño. En el margen. 
 
 Lo leería mucho después. En el 967. En una sala de la cárcel. Con un niño de trece años que preguntaba demasiado. Ponía:
 
-*Preguntado a L. qué hace cuando nadie la necesite. No contesta. Apuntado para* *cuando conteste.*
+*Preguntado a L. qué hace cuando nadie la necesite. No contesta. Apuntado para cuando conteste.*
 
 ---
 
 Ella se fue al alba. Por la ventana. Por la escalera de fuera.
 
-Sein se quedó en la silla. Con el libro cuarenta y dos abierto. La primera línea, *se* *debe: tres monedas de cobre*, todavía húmeda.
+Sein se quedó en la silla. Con el libro cuarenta y dos abierto. La primera línea, se debe: tres monedas de cobre, todavía húmeda.
 
-Al mediodía subió el gnomo. Con el sombrero *93*. Con la lista. Sin llamar, como siempre.
+Al mediodía subió el gnomo. Con el sombrero 93. Con la lista. Sin llamar, como siempre.
 
 —Me han dicho que faltan tres monedas —dijo.
 

@@ -52,7 +52,7 @@ Joel tuvo una hija. Se llamó Rina.
 
 Desde entonces le apuntaba lo que decía.
 
-En un libro. Grande, de tapas de cuero, que guardaba debajo de la barra. *Las* *tonterías del elfo*, ponía en la primera página, con la letra de Joel, que era grande y redonda y con faltas. Debajo, cuarenta años de cosas. *Que va a llover en la feria. Llovió.* *Que el* *hijo del herrero se va a ir a Nix. Se fue.* *Que la vaca de los Medd va a tener dos terneros.* *Tuvo tres; el elfo se equivocó en uno.*
+En un libro. Grande, de tapas de cuero, que guardaba debajo de la barra. Las tonterías del elfo, ponía en la primera página, con la letra de Joel, que era grande y redonda y con faltas. Debajo, cuarenta años de cosas. Que va a llover en la feria. Llovió. Que el hijo del herrero se va a ir a Nix. Se fue. Que la vaca de los Medd va a tener dos terneros. Tuvo tres; el elfo se equivocó en uno.
 
 Joel se reía cuando las apuntaba. Se reía cuando salían bien. Se reía más cuando salían mal.
 
@@ -182,25 +182,25 @@ Aelthar habló.
 
 ---
 
-—*La era de los gnomos al mando del ejército azul llegó a su fin* —dijo.
+*—La era de los gnomos al mando del ejército azul llegó a su fin —dijo.*
 
 Despacio. Con una voz que no era la suya. Más grave. Más limpia. Una voz que no temblaba.
 
-—*De las sombras un nuevo guerrero asoma. Su corazón es puro, su alma noble,* *pero sus instintos son salvajes.*
+*—De las sombras un nuevo guerrero asoma. Su corazón es puro, su alma noble, pero sus instintos son salvajes.*
 
 Finderil se levantó. Le cogió del brazo.
 
 Aelthar no lo notó.
 
-—*La realidad se tiñe de engaños y mentiras. Lo que en un principio parecía malo,* *puede ser bueno.*
+*—La realidad se tiñe de engaños y mentiras. Lo que en un principio parecía malo, puede ser bueno.*
 
 Debajo de la escalera, el forastero cerró los ojos. Como quien escucha una música que le gusta mucho.
 
-—*Los llamados seguidores de la Dama, perecerán.*
+*—Los llamados seguidores de la Dama, perecerán.*
 
 Joel, sentado, no apuntaba. Tenía el libro debajo de la barra, lejos. Movía los labios. Repitiendo. Para acordarse.
 
-—*La mano del Sexto será dura como la roca y fría como el metal. Los que le juren* *lealtad pagarán con su vida la traición.*
+*—La mano del Sexto será dura como la roca y fría como el metal. Los que le juren lealtad pagarán con su vida la traición.*
 
 Aelthar se calló.
 
@@ -218,7 +218,7 @@ Finderil se llevó a su padre a Lindos al día siguiente.
 
 No se despidió de Joel. Joel estaba detrás de la barra, a las seis de la mañana, con el libro de tapas de cuero abierto, escribiendo con la letra grande y redonda. No levantó la vista cuando pasaron. Finderil vio, de reojo, la página. Las líneas. Las faltas.
 
-*Ejercito* sin tilde. *Banderbil* con una ele.
+Ejercito sin tilde. Banderbil con una ele.
 
 No dijo nada.
 
@@ -230,7 +230,7 @@ Joel no las había cogido.
 
 Aelthar vivió dos años más.
 
-En Lindos, al lado de la poza de la luz, sentado en la orilla, mirando el agua. No hablaba. No reconocía a nadie. A veces sonreía. A veces movía los labios, sin voz, y Finderil se acercaba a escuchar y no era la profecía. Eran nombres. *Rina. La vaca de los* *Medd. Va a llover en la feria.*
+En Lindos, al lado de la poza de la luz, sentado en la orilla, mirando el agua. No hablaba. No reconocía a nadie. A veces sonreía. A veces movía los labios, sin voz, y Finderil se acercaba a escuchar y no era la profecía. Eran nombres. Rina. La vaca de los Medd. Va a llover en la feria.
 
 Las tonterías del elfo.
 

@@ -36,7 +36,7 @@ Teodor esperó a que dijera algo. Que lo detuviera.
 
 Arenar no dijo nada. Se dio la vuelta y entró en el palacio.
 
-Años después, cuando Teodor era capitán de la Guardia y Drolnar emperador, se atrevió a preguntárselo una sola vez. Por qué no lo detuvo. Drolnar lo miró durante un largo rato, con aquellos ojos de toro cansado, y le dijo: *Porque esa mañana, que Merin me perdone, yo también quería que algo ardiera.*
+Años después, cuando Teodor era capitán de la Guardia y Drolnar emperador, se atrevió a preguntárselo una sola vez. Por qué no lo detuvo. Drolnar lo miró durante un largo rato, con aquellos ojos de toro cansado, y le dijo: Porque esa mañana, que Merin me perdone, yo también quería que algo ardiera.
 
 ---
 

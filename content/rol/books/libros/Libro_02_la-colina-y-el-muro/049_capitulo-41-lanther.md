@@ -14,7 +14,7 @@ Ahora no lo oía casi.
 
 Eso fue lo que más la asustó. Estaba a diez pasos, al otro lado de la llama gris, y lo oía como se oye a un hombre cualquiera. Un corazón. Despacio. Cansado. Y debajo, otro, más pequeño, más lento, pegado al primero.
 
-*Una jarra*, pensó. *Lleva una jarra en el pecho. Donde la llevaba mi padre.*
+*Una jarra, pensó. Lleva una jarra en el pecho. Donde la llevaba mi padre.*
 
 ---
 
@@ -52,7 +52,7 @@ Luego miró a Lanther.
 
 Lanther no contestó.
 
-—¿Así no? —Loth ladeó la cabeza—. Así se lo dije a tu padre. Cuando se moría. *Hola, sobrino.* Él me contestó *Tío. Has tardado.* —Algo se le movió en la cara. Casi una sonrisa—. Me acuerdo de eso. Es de lo poco que tengo entero. Lo demás son trozos. Eso lo tengo entero.
+—¿Así no? —Loth ladeó la cabeza—. Así se lo dije a tu padre. Cuando se moría. Hola, sobrino. Él me contestó Tío. Has tardado. —Algo se le movió en la cara. Casi una sonrisa—. Me acuerdo de eso. Es de lo poco que tengo entero. Lo demás son trozos. Eso lo tengo entero.
 
 —No eres mi tío.
 
@@ -132,13 +132,15 @@ No le dijo nada. No hacía falta.
 
 Lanther miró a Sein. En la escalera. Con la lámpara. Detrás de Verawel. Pálido.
 
-Sein no sabía lo que pasaría. Nadie lo sabía. Pero Lanther sí sabía una cosa, porque la había leído en el libro de Corvo, en la página setenta y ocho, al trasluz, en la letra de Neri: *Lo que se da dura lo que dura la sangre que lo dio.*
+Sein no sabía lo que pasaría. Nadie lo sabía. Pero Lanther sí sabía una cosa, porque la había leído en el libro de Corvo, en la página setenta y ocho, al trasluz, en la letra de Neri: Lo que se da dura lo que dura la sangre que lo dio.
 
 Ella era la sangre.
 
 Si le devolvía a Loth la vida de su padre —la de su hermano, la suya ahora—, ¿qué quedaría de ella? Una muchacha de dieciocho años con cincuenta en los huesos. O una de cincuenta, de golpe, como Odo. O nada. No lo sabía. El libro no lo decía.
 
-Y si a ella le pasaba algo… *Sein Vell. Una vida. No la mía.*
+Y si a ella le pasaba algo…
+
+*Sein Vell. Una vida. No la mía.*
 
 —No —dijo.
 
@@ -154,7 +156,7 @@ Loth no se movió.
 
 Loth no dijo nada.
 
-—Y luego mi hermano me la dio a mí. *Por voluntad.* —Lanther se tocó el pecho—. Es la única vez que alguien la ha dado por voluntad. La única. En toda su historia. Desde que te partiste. —Lo miró—. Así que ya no es tuya. Es mía. Porque me la dio alguien que me quería, y no alguien que tenía miedo de morirse.
+—Y luego mi hermano me la dio a mí. Por voluntad. —Lanther se tocó el pecho—. Es la única vez que alguien la ha dado por voluntad. La única. En toda su historia. Desde que te partiste. —Lo miró—. Así que ya no es tuya. Es mía. Porque me la dio alguien que me quería, y no alguien que tenía miedo de morirse.
 
 Silencio.
 
@@ -180,11 +182,11 @@ No en voz alta. Por dentro. Una risa ronca, rota, como la de alguien que lleva m
 
 Lanther no se lo esperaba.
 
-—Tienes razón —repitió Loth—. Es tuya. Te la dio por voluntad. Y yo no la di nunca por voluntad. Ni a tu padre ni a nadie. —Se miró las manos—. Ni la mía. Me la quité yo. Me la partí yo. Me la guardé yo, en jarras, como se guarda el dinero debajo de una piedra. Nunca la di. Ni un trozo. —Levantó la vista—. Ella sí. Mi mujer. Ella me lo decía. *No tires tanto.* Y yo tiraba.
+—Tienes razón —repitió Loth—. Es tuya. Te la dio por voluntad. Y yo no la di nunca por voluntad. Ni a tu padre ni a nadie. —Se miró las manos—. Ni la mía. Me la quité yo. Me la partí yo. Me la guardé yo, en jarras, como se guarda el dinero debajo de una piedra. Nunca la di. Ni un trozo. —Levantó la vista—. Ella sí. Mi mujer. Ella me lo decía. No tires tanto. Y yo tiraba.
 
 Se quedó callado.
 
-—*Cantas como una cabra con cólico* —dijo, de pronto.
+—Cantas como una cabra con cólico —dijo, de pronto.
 
 Lanther parpadeó.
 
@@ -220,7 +222,7 @@ Gris. Fría. Lanther la había notado al entrar en la cúpula: una llama sin cal
 
 Y en el centro, Lucius.
 
-Lo vio Livia. Lanther lo supo porque Livia se quedó quieta, con la cabeza levantada, mirando la figura de hombre alto con la mano en alto. El fundador. El de los retratos. El que le dijo a Hector Tiberius en esa misma cúpula, muriéndose, *la torre es un* *clavo, no la saques*.
+Lo vio Livia. Lanther lo supo porque Livia se quedó quieta, con la cabeza levantada, mirando la figura de hombre alto con la mano en alto. El fundador. El de los retratos. El que le dijo a Hector Tiberius en esa misma cúpula, muriéndose, la torre es un clavo, no la saques.
 
 Su tatarabuelo. O más. Livia nunca había llevado bien la cuenta. Eso lo hacía Sein.
 

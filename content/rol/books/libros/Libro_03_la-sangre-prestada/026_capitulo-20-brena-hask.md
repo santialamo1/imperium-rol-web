@@ -78,7 +78,7 @@ La puerta no hizo nada. Estaba quieta. Mojada. Ya no era roja; era de un color p
 
 Brena se acercó.
 
-Detrás de ella, tres mil soldados contuvieron la respiración. Nadie había tocado esa puerta desde el día veinte. Brena lo había prohibido. *Que no se toca la puerta.*
+Detrás de ella, tres mil soldados contuvieron la respiración. Nadie había tocado esa puerta desde el día veinte. Brena lo había prohibido. Que no se toca la puerta.
 
 Brena puso la mano en el hierro.
 
@@ -104,7 +104,7 @@ Detrás, oscuridad.
 
 ---
 
-Brena no gritó *adelante*. No gritó nada.
+Brena no gritó adelante. No gritó nada.
 
 Se volvió. Hacia sus tres mil. Que estaban de pie en la nieve, a oscuras, con las lámparas tapadas, con las espadas en la mano y las canciones de sus madres en la boca.
 
@@ -174,7 +174,7 @@ Y soltó el hacha.
 
 ---
 
-Brena no supo nunca cuántos se rindieron esa noche. Nerea Vell escribió que fueron once mil. Sein Vell, en el libro de la guerra, escribió que fueron *muchos, y que se* *apuntaron todos, con nombre, después, uno a uno, durante dos meses, en la plaza,* *mientras comían*. Los orcos que se rindieron no lo contaron nunca; no sabían contar tanto.
+Brena no supo nunca cuántos se rindieron esa noche. Nerea Vell escribió que fueron once mil. Sein Vell, en el libro de la guerra, escribió que fueron muchos, y que se apuntaron todos, con nombre, después, uno a uno, durante dos meses, en la plaza, mientras comían. Los orcos que se rindieron no lo contaron nunca; no sabían contar tanto.
 
 Pero no se rindieron todos.
 
@@ -202,7 +202,7 @@ Porque no podían mirar arriba. Ni a una lámpara levantada.
 
 Delante de los drow, en el centro, había uno con las manos de arpista. Abiertas. Con los dedos moviéndose un poco en el aire, sin querer, como se mueven los dedos de los que tocan cuando están nerviosos.
 
-Brena lo vio y supo quién era. Lo supo por las manos. Por lo que le había contado el gnomo del sombrero de acebo, una noche, en la tienda de las mulas: que un elfo blanco había tocado hacia arriba desde la torre para decir dónde estaba el corazón. Que era el tío del Emperador. Que había dicho *que no venga él*.
+Brena lo vio y supo quién era. Lo supo por las manos. Por lo que le había contado el gnomo del sombrero de acebo, una noche, en la tienda de las mulas: que un elfo blanco había tocado hacia arriba desde la torre para decir dónde estaba el corazón. Que era el tío del Emperador. Que había dicho que no venga él.
 
 Ithil levantó la espada. Una espada élfica, delgada, curva, que había sido de plata y era gris.
 

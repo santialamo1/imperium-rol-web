@@ -1,7 +1,7 @@
 # Del Diario de la familia Érandiul (V)
 
-*Años 157 a 356. Copiado sin enmienda, con sus faltas. Es la entrada más larga y la* *que menos cuenta. Donde dice «los Emperadores más nobles y justos», el elfo lo creía.* *Donde no dice nada de un Rincón, de un frasco de cristal ni de los papeles de los viernes,* *el elfo no lo sabía. O sí.*
+*Años 157 a 356. Copiado sin enmienda, con sus faltas. Es la entrada más larga y la que menos cuenta. Donde dice «los Emperadores más nobles y justos», el elfo lo creía. Donde no dice nada de un Rincón, de un frasco de cristal ni de los papeles de los viernes, el elfo no lo sabía. O sí.*
 
-**Año 157 a 356 (o 450 A.bA a 251 A.bA). De la época dorada.**
+Año 157 a 356 (o 450 A.bA a 251 A.bA). De la época dorada.
 
 Nuestros pueblos han sido bendecidos con ciento noventa y nueve años de paz. Enanos, humanos, elfos y gnomos logramos combinar nuestras virtudes y hacer florecer las ciudades. Se fundó el puerto de Banderbil, Nix y Nueva Esperanza como medio de comunicación y comercio entre las razas. He visto gobernar también a los Emperadores más nobles y justos que tal vez tengamos jamás. He aquí una breve cronología de cada uno de ellos. Del 165 al 197 (o del 442 A.bA al 410 A.bA), gobernó Bhargaras IX, séptimo sucesor del trono de Banderbill. Del 197 al 218 (o del 410 A.bA al 389 A.bA), gobernó Bhargaras X, hijo de Bhargaras IX, octavo sucesor de la coronal Real. Del 218 al 250 (o del 389 A.bA al 347 A.bA), gobernó Arthal, hijo de Bhargaras X, noveno sucesor de la corona Imperial. Del 250 al 277 (o del 347 A.bA al 320 A.bA), gobernó Eandir, hijo de Arthal, décimo sucesor del trono Imperial. Del 277 al 303 (o del 320 A.bA al 294 A.bA), gobernó Niestrel, hijo de Eandir, undécimo sucesor de la corona Real. Del 303 al 344 (o del 294 A.bA al 263 A.bA), gobernó Eandir II, hijo de Niestrel, duodécimo Emperador de Banderbill. En el año 344, se coronó como el décimo tercer Emperador de Banderbill a Lindiel, hijo de Eandir II.

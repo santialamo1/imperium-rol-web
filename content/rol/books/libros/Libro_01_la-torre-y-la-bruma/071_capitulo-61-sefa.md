@@ -62,7 +62,7 @@ Voces. Miles de voces. Tan bajas, tan juntas, que sonaban como el mar.
 
 Sefa se quedó parada en la arena. Le temblaban las piernas.
 
-*Ammi*, pensó. *Estoy aquí. Ammi.*
+Ammi, pensó. Estoy aquí. Ammi.
 
 Y entre todas aquellas voces, entre los miles de muertos que la bruma se había bebido en mil años, le pareció oír una. Pequeña. Asustada. Llamándola por su nombre de madre.
 
@@ -132,7 +132,7 @@ Loth lo guardó.
 
 No lo usó. No entonces. Maximus estaba en Concordia, a doscientas leguas, rodeado de cuarenta mil soldados profesionales y de braseros de sal, y un nombre solo sirve a la distancia de una voz. Pero lo guardó, como se guarda una piedra en el bolsillo, y en las noches siguientes, sentado en el último peldaño del Pozo Primero, lo repetía a veces en voz baja, sin intención, como quien repasa una lección.
 
-*¿Ves?*, le dijo la cosa del fondo. *Vienen solos. Te los traen. No tienes que hacer* *nada. Solo esperar.*
+¿Ves?, le dijo la cosa del fondo. Vienen solos. Te los traen. No tienes que hacer nada. Solo esperar.
 
 Loth no contestó.
 

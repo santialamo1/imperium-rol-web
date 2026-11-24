@@ -1,6 +1,6 @@
 # Capítulo 1 · Lanther
 
-*Las lomas del noreste y la casa del puerto de Banderbill. Primavera del año 498 de* *la Nueva Era.*
+*Las lomas del noreste y la casa del puerto de Banderbill. Primavera del año 498 de la Nueva Era.*
 
 El brezo estaba en flor, y eso fue lo primero que le molestó.
 
@@ -22,7 +22,7 @@ Olía a miel y a tierra. Como siempre. Y a algo más, por debajo, muy poco, que 
 
 Llevaban dos días en las lomas.
 
-Habían salido de la colina por la puerta del este, la de los carros, antes del alba, sin decírselo a nadie más que a Sein, que no había levantado los ojos del libro y había dicho *llévate pan*. Habían bajado por el camino de la costa hasta la primera fuente, y allí se habían salido del camino y habían tirado hacia el noreste, por las lomas, sin camino, entre el brezo, hacia los acantilados.
+Habían salido de la colina por la puerta del este, la de los carros, antes del alba, sin decírselo a nadie más que a Sein, que no había levantado los ojos del libro y había dicho llévate pan. Habían bajado por el camino de la costa hasta la primera fuente, y allí se habían salido del camino y habían tirado hacia el noreste, por las lomas, sin camino, entre el brezo, hacia los acantilados.
 
 Las lomas eran como Lanther las recordaba. Suaves, redondas, una detrás de otra, como un mar de color morado que se hubiera quedado quieto. Había piedras grises sueltas. Había ovejas, más de las que recordaba. Había, en las vaguadas, fuentecillas con un hilo de agua y un poco de junco. Había alondras.
 
@@ -104,7 +104,7 @@ Desde allí se veía la colina.
 
 Al suroeste. Muy cerca. No tanto como para ver las casas, pero sí las luces: la muralla con sus antorchas, la torre del palacio, el faro del puerto. Las lámparas de los gnomos, que se apagaban solas desde el 440 y que todavía no se habían apagado porque era de noche. La colina parecía un barco grande, varado en la oscuridad, con las luces de cubierta encendidas.
 
-Lanther se acordó de lo que había dicho la niña. *Lo que tarda una niña en ir* *andando a llevarle leche a alguien.*
+Lanther se acordó de lo que había dicho la niña. Lo que tarda una niña en ir andando a llevarle leche a alguien.
 
 Una hora. Dos. Una mañana, como mucho.
 
@@ -190,7 +190,7 @@ Y se fue.
 
 Lo apuntó Sein, años después, en el debe. Lo apuntó con la letra de cuando le temblaba la mano, que no le temblaba casi nunca, y en la columna de las cosas que había hecho mal él, no ella, porque ella no estaba en su libro para las cosas mal hechas.
 
-*Año 498. La reina bajó a la hondonada. Puso la mano en la piedra. No oyó nada.* *Volvió y me dijo «no hay nada». Y yo no le pregunté lo único que tenía que preguntarle,* *que era: ¿y desde cuándo no se oye nada en una piedra?*
+*Año 498. La reina bajó a la hondonada. Puso la mano en la piedra. No oyó nada. Volvió y me dijo «no hay nada». Y yo no le pregunté lo único que tenía que preguntarle, que era: ¿y desde cuándo no se oye nada en una piedra?*
 
 *No lo pregunté porque estaba contento de que no hubiera nada.*
 
@@ -226,7 +226,7 @@ Sein seguía sin volverse. Tenía cuatrocientos setenta y nueve años y la cara 
 
 Sein se volvió. La miró por encima de las gafas.
 
-—Has dicho *dos* —dijo— y te has ido tres días a las lomas. Y vuelves y dices *nada*. —Se quitó las gafas—. Te conozco desde que tenías dieciocho años. Ahora también tienes dieciocho. Cuando dices *nada* así, con la boca cerrada al final, es que hay algo y no sabes el qué.
+—Has dicho dos —dijo— y te has ido tres días a las lomas. Y vuelves y dices nada. —Se quitó las gafas—. Te conozco desde que tenías dieciocho años. Ahora también tienes dieciocho. Cuando dices nada así, con la boca cerrada al final, es que hay algo y no sabes el qué.
 
 —Hay un niño que no llora.
 
@@ -240,7 +240,7 @@ Sein no dijo nada. Se puso las gafas. Abrió el libro. Pasó páginas. Muchas. H
 
 —Hierro rojo.
 
-—Doscientas lámparas en el 329. Pagadas en hierro rojo que olía a hambre. Otras doscientas en el 331. Y doce barriles. —Leía sin mirarla. De memoria; el libro lo tenía delante por costumbre—. Tibbet lo apuntó en su lista. *Cosas que no han pasado. Uno.* Hace ciento setenta años.
+—Doscientas lámparas en el 329. Pagadas en hierro rojo que olía a hambre. Otras doscientas en el 331. Y doce barriles. —Leía sin mirarla. De memoria; el libro lo tenía delante por costumbre—. Tibbet lo apuntó en su lista. Cosas que no han pasado. Uno. Hace ciento setenta años.
 
 —Lo sé.
 

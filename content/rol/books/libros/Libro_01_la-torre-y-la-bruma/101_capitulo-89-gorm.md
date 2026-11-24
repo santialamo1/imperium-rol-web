@@ -46,7 +46,7 @@ Mara no dijo nada. Lo había pensado. Gorm lo vio en su cara: lo había pensado 
 
 —Cuarenta y un días de mar, tío. La Garganta. La Penuria.
 
-—Treinta y cinco, si vamos por el norte desde el principio. Ya sabemos el camino. Y la *Tozuda* va vacía, que pesa menos.
+—Treinta y cinco, si vamos por el norte desde el principio. Ya sabemos el camino. Y la Tozuda va vacía, que pesa menos.
 
 —¿Y si no hay nadie?
 
@@ -68,7 +68,7 @@ Bander no intentó detenerlo. Gorm lo había esperado, y se llevó una decepció
 
 —Por si alguno de los tuyos se muere por el camino. —Bander lo miró—. Que alguien le diga su nombre. Que no se quede en el agua.
 
-Gorm no contestó. Se acordó de los veintisiete. Los que se habían quedado en el mar en la primera travesía. Bander los había nombrado a todos, uno por uno, de pie en la proa de la *Tozuda*, con la voz rota, mientras los echaban al agua envueltos en velas viejas.
+Gorm no contestó. Se acordó de los veintisiete. Los que se habían quedado en el mar en la primera travesía. Bander los había nombrado a todos, uno por uno, de pie en la proa de la Tozuda, con la voz rota, mientras los echaban al agua envueltos en velas viejas.
 
 —Está bien —dijo.
 
@@ -86,7 +86,7 @@ Bander no contestó. Se tocó el pecho, justo encima del corazón, donde se toca
 
 —No soy tu sobrino.
 
-—Te casé yo, sobre un barril, por la autoridad que me confería el barril. —Gorm le dio una palmada en la espalda que lo hizo toser—. Eres mi sobrino. Y si no vuelvo, la *Tozuda* es tuya. No la uses para nada importante.
+—Te casé yo, sobre un barril, por la autoridad que me confería el barril. —Gorm le dio una palmada en la espalda que lo hizo toser—. Eres mi sobrino. Y si no vuelvo, la Tozuda es tuya. No la uses para nada importante.
 
 ---
 
@@ -94,7 +94,7 @@ Fueron treinta y seis días.
 
 La Penuria fue la Penuria: hambre de viento durante diez días, luego un temporal de seis que les rompió la verga y les llevó a un marinero Kalo de diecinueve años al que no consiguieron sacar del agua. El Custodio —un Hinur viejo y callado llamado Osric, que se mareaba como una cabra— lo nombró de pie en la borda, con la voz temblando, mirando hacia arriba. Gorm no oyó nada. Pero esa noche, por primera vez en treinta años, no le apeteció beber. Le apeteció rezar, y no sabía cómo.
 
-En la Garganta fueron por el norte, por las vetas blanquecinas del agua negra, como habían aprendido. La *Tozuda* crujió como una vieja con reuma y pasó.
+En la Garganta fueron por el norte, por las vetas blanquecinas del agua negra, como habían aprendido. La Tozuda crujió como una vieja con reuma y pasó.
 
 El día treinta y seis, al amanecer, vieron la costa de Pisor.
 
@@ -110,7 +110,7 @@ Ulvarholm tenía humo.
 
 Un hilo fino, negro, de algas quemadas, que subía desde la colina de Ulvar hacia el cielo de plomo. Gorm lo vio desde dos leguas de distancia y tuvo que agarrarse a la borda.
 
-Cuando la *Tozuda* entró en la bahía pequeña de la isla, con su vela remendada y su mascarón de cabra al que le faltaba un cuerno desde la Garganta, había gente en la playa. Gorm las contó desde la proa. Cuarenta. Cincuenta. Sesenta y tantas. Flacas como palos, vestidas con pieles de foca y con mantas hechas de velas, con los ojos hundidos y la piel quemada por el viento. Algunos tenían arpones en la mano. Miraban el barco en silencio, como se mira a un fantasma.
+Cuando la Tozuda entró en la bahía pequeña de la isla, con su vela remendada y su mascarón de cabra al que le faltaba un cuerno desde la Garganta, había gente en la playa. Gorm las contó desde la proa. Cuarenta. Cincuenta. Sesenta y tantas. Flacas como palos, vestidas con pieles de foca y con mantas hechas de velas, con los ojos hundidos y la piel quemada por el viento. Algunos tenían arpones en la mano. Miraban el barco en silencio, como se mira a un fantasma.
 
 Luego una vieja dio un paso adelante, se metió en el agua hasta las rodillas y gritó con una voz que Gorm conocía desde que tenía cinco años:
 
@@ -118,7 +118,7 @@ Luego una vieja dio un paso adelante, se metió en el agua hasta las rodillas y 
 
 Era la tía Brenna. La hermana pequeña de su madre. Tenía ochenta y un años, le faltaban la mitad de los dientes y llevaba un arpón en una mano y un niño de la otra.
 
-Gorm Renod, que no había llorado en el entierro de su mujer ni en el de su hijo, ni en Concordia, ni en el túnel, ni en la Garganta, se tiró al agua desde la proa de la *Tozuda* con ropa y botas, nadó hasta la playa, salió empapado y se abrazó a la vieja llorando como un crío.
+Gorm Renod, que no había llorado en el entierro de su mujer ni en el de su hijo, ni en Concordia, ni en el túnel, ni en la Garganta, se tiró al agua desde la proa de la Tozuda con ropa y botas, nadó hasta la playa, salió empapado y se abrazó a la vieja llorando como un crío.
 
 —Te las pago —dijo—. Te las pago, tía. Te las pago todas.
 
@@ -142,7 +142,7 @@ La vieja sonrió con media boca.
 
 ---
 
-Cupieron cuarenta y uno en la *Tozuda*. Gorm lo calculó tres veces y le salió siempre lo mismo. Agua para cuarenta días, comida para cuarenta días, y cuarenta y un pasajeros más los once que quedaban de la tripulación.
+Cupieron cuarenta y uno en la Tozuda. Gorm lo calculó tres veces y le salió siempre lo mismo. Agua para cuarenta días, comida para cuarenta días, y cuarenta y un pasajeros más los once que quedaban de la tripulación.
 
 Los demás se quedaron. Setenta y uno.
 
@@ -174,7 +174,7 @@ Gorm bajó del faro muy despacio. No le contó a nadie lo que había visto. Ni a
 
 Volvieron a Banderbill en treinta y nueve días. Sin perder a nadie.
 
-Bander los esperaba en la playa. Había bajado de la colina al ver la vela, cojeando, sin que nadie pudiera detenerlo, y se quedó con los pies en el agua mientras los cuarenta y un isleños bajaban de la *Tozuda*, flacos, quemados, aturdidos, mirando los pinos y las casas de troncos y la colina como quien mira el cielo.
+Bander los esperaba en la playa. Había bajado de la colina al ver la vela, cojeando, sin que nadie pudiera detenerlo, y se quedó con los pies en el agua mientras los cuarenta y un isleños bajaban de la Tozuda, flacos, quemados, aturdidos, mirando los pinos y las casas de troncos y la colina como quien mira el cielo.
 
 Mara lloró. Gorm la dejó llorar y luego le dio un pellizco en la mejilla, como cuando era niña, y le dijo que se le estaba poniendo cara de emperatriz y que eso no le favorecía.
 

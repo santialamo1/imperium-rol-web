@@ -106,7 +106,7 @@ Tobías parpadeó. Rebuscó en su memoria, que era muy buena.
 
 Tobías tragó saliva. La dijo en voz alta, en la casa del panadero, delante de todos, trescientos y pico años después de que la escribiera, con letra grande y torpe, un guardia que había mirado desde un balcón:
 
-—*Y el emperador, el primero.*
+*—Y el emperador, el primero.*
 
 ---
 

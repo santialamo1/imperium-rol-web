@@ -72,7 +72,7 @@ Y de los refugios fueron saliendo los otros. Diecinueve. Niños de la escuela, m
 
 —¿Dónde está Pim? —preguntó Bhargaras.
 
-—En la costa. En las cuevas. Con él. —La muchacha no dijo quién era *él*. No hacía falta—. Aprendiendo a tirar. Nosotros no quisimos. Nos vinimos aquí.
+—En la costa. En las cuevas. Con él. —La muchacha no dijo quién era él. No hacía falta—. Aprendiendo a tirar. Nosotros no quisimos. Nos vinimos aquí.
 
 —¿Él está en la costa?
 
@@ -86,7 +86,7 @@ Y de los refugios fueron saliendo los otros. Diecinueve. Niños de la escuela, m
 
 Esa noche acamparon en el borde del valle, a una legua del agujero.
 
-Bhargaras no dejó que los soldados se acercaran a los refugios de los brujos. Tampoco los echó. No supo por qué. El edicto decía *que no vuelvan*, y no habían vuelto. Estaban lejos. Estaban en el valle negro, donde no había nadie. Y había una muchacha de trece años que le había dicho, sin miedo, mirándolo a la cara, que lo oía oír.
+Bhargaras no dejó que los soldados se acercaran a los refugios de los brujos. Tampoco los echó. No supo por qué. El edicto decía que no vuelvan, y no habían vuelto. Estaban lejos. Estaban en el valle negro, donde no había nadie. Y había una muchacha de trece años que le había dicho, sin miedo, mirándolo a la cara, que lo oía oír.
 
 Nadie le había dicho nunca eso.
 
@@ -122,7 +122,7 @@ Lo miró. Con aquellos ojos grises, de copista, que medían todo. Le miró el pe
 
 —¿Qué pasa?
 
-—No lo sé. —Livia miró el agujero—. Las de sal sí lo saben. Por eso bajaron la Noche del Dolor. Por eso me llaman *antes de tiempo*. No quieren que se junte. Llevan… no sé cuánto. Siglos. Miles de años. Guardando que no se junte.
+—No lo sé. —Livia miró el agujero—. Las de sal sí lo saben. Por eso bajaron la Noche del Dolor. Por eso me llaman antes de tiempo. No quieren que se junte. Llevan… no sé cuánto. Siglos. Miles de años. Guardando que no se junte.
 
 —Podrías dármela —dijo Livia—. La del bolsillo. Me la llevo yo. Lejos. A la colina. Al mar. Al fondo del mar.
 
@@ -278,7 +278,7 @@ Bhargaras lo notó volverse sal debajo de él. Las patas primero. Luego el vient
 
 Y la sal seguía subiendo.
 
-Alrededor de él, la batalla seguía. Oía a Hakon gritar órdenes. Oía a los soldados. Oía los braseros. Oía a las de sal crujir. Oía a los que se volvían estatuas, uno a uno, y a los que se iban hacia arriba. Oía a su hermana, en algún sitio, a la derecha, en la tercera compañía, gritando su nombre. *¡Bhargaras! ¡Bhargaras!*
+Alrededor de él, la batalla seguía. Oía a Hakon gritar órdenes. Oía a los soldados. Oía los braseros. Oía a las de sal crujir. Oía a los que se volvían estatuas, uno a uno, y a los que se iban hacia arriba. Oía a su hermana, en algún sitio, a la derecha, en la tercera compañía, gritando su nombre. ¡Bhargaras! ¡Bhargaras!
 
 Con amor.
 

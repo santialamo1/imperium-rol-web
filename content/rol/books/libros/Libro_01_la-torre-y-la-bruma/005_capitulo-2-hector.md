@@ -28,7 +28,7 @@ Pelagio tragó saliva, murmuró algo sobre otro momento más propicio y se bati�
 
 Lisandro Heredicus se rió. Tenía veintisiete años y seguía teniendo cara de muchacho, con aquel pelo castaño revuelto y aquellas manos de dedos largos que siempre estaban manchadas de tinta. No debería estar allí; su padre lo había nombrado Maestro de Obras de la torre precisamente para que dirigiera la construcción desde el suelo, con planos y reglas, y no colgado de un andamio. Pero Lisandro decía que no podía entender una piedra sin tocarla, y Hector, que tampoco era capaz de quedarse quieto, había empezado a subir con él por las mañanas. Entre los dos habían descubierto que subir argamasa a sesenta varas era la única manera de librarse de los cortesanos.
 
-Al principio, cuando su madre se casó con Lucius, Hector había odiado a sus tres hermanastros. Era lo natural: eran hijos del hombre que había matado a su padre, eran mayores que él, eran Heredicus y él no. Caio se burlaba de su nariz. Varo lo empujaba en el barro. Pero Lisandro... Lisandro le había leído cuentos. Le había enseñado las letras cuando nadie más se molestaba. Le había regalado, cuando cumplió diez años, un cuchillo con mango de hueso de ciervo y le había dicho: *Este era de tu padre. Lo recogí en el vado* *de Corvia. Creo que debe ser tuyo.*
+Al principio, cuando su madre se casó con Lucius, Hector había odiado a sus tres hermanastros. Era lo natural: eran hijos del hombre que había matado a su padre, eran mayores que él, eran Heredicus y él no. Caio se burlaba de su nariz. Varo lo empujaba en el barro. Pero Lisandro... Lisandro le había leído cuentos. Le había enseñado las letras cuando nadie más se molestaba. Le había regalado, cuando cumplió diez años, un cuchillo con mango de hueso de ciervo y le había dicho: Este era de tu padre. Lo recogí en el vado de Corvia. Creo que debe ser tuyo.
 
 Hector todavía lo llevaba al cinto.
 
@@ -110,11 +110,11 @@ Hector la miró sorprendido.
 
 —¿Quién te ha dicho eso?
 
-—Nadie. Lo oí. Varo se lo dijo a padre esta tarde, en el patio de los establos. No sabían que yo estaba en el pajar. —Otro higo—. Varo dice que hay que mandar a Caio con mil hombres. Padre dice que no. Varo dice que si no se hace un escarmiento, los Mator se unirán a los Hinur. Padre dijo... —Livia frunció el ceño, esforzándose en recordar las palabras exactas—. Padre dijo: *No voy a mandar a mis hijos a la guerra por unas aldeas* *de leñadores. Ya sé lo que me costaría.*
+—Nadie. Lo oí. Varo se lo dijo a padre esta tarde, en el patio de los establos. No sabían que yo estaba en el pajar. —Otro higo—. Varo dice que hay que mandar a Caio con mil hombres. Padre dice que no. Varo dice que si no se hace un escarmiento, los Mator se unirán a los Hinur. Padre dijo... —Livia frunció el ceño, esforzándose en recordar las palabras exactas—. Padre dijo: No voy a mandar a mis hijos a la guerra por unas aldeas de leñadores. Ya sé lo que me costaría.
 
 Hector sintió un escalofrío.
 
-—¿Dijo eso? ¿*Ya sé lo que me costaría*?
+—¿Dijo eso? ¿Ya sé lo que me costaría?
 
 —Eso dijo. Y luego Varo le preguntó qué quería decir y padre le dio una bofetada. —Livia se encogió de hombros—. Nunca había visto a padre pegarle a Varo. Ni a nadie, en realidad, fuera de las guerras.
 
@@ -146,7 +146,7 @@ Hector leyó dos veces. Luego levantó la vista.
 
 —Es una profecía de feria.
 
-—Eso dijo padre. Lo apuntó el escriba. *Es una profecía de feria. Acepto.*
+—Eso dijo padre. Lo apuntó el escriba. Es una profecía de feria. Acepto.
 
 Se quedaron en silencio. Abajo, la ciudad dormía. Arriba, la luna. Y al noreste, la mancha gris de la niebla de Eufesia, inmóvil, paciente, como algo que espera.
 

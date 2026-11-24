@@ -1,6 +1,6 @@
 # De las Crónicas de Banderbill, Libro Segundo (III)
 
-*Últimas páginas de Livia Heredicus, escritas en el mar, a bordo del Odo, en el* *verano del año 61. Con una nota al pie.*
+*Últimas páginas de Livia Heredicus, escritas en el mar, a bordo del Odo, en el verano del año 61. Con una nota al pie.*
 
 Escribo con el tintero atado a la tabla, porque el mar no se está quieto, y yo tampoco.
 
@@ -14,7 +14,7 @@ La tercera: lo que llevamos en el cofre no es un secreto. Es una deuda. Corvo la
 
 Lo demás ya lo he escrito.
 
-Me queda una cosa por decir, y la digo aquí porque no sé decirla en voz alta. A Lanther le daba miedo convertirse en lo que no quería ser. Me lo dijo una noche, en la Punta Gris, mirando a Tam clavar tablas. *¿Y si dentro de doscientos años soy él?* No le dije nada. No supe. Ahora sí sé.
+Me queda una cosa por decir, y la digo aquí porque no sé decirla en voz alta. A Lanther le daba miedo convertirse en lo que no quería ser. Me lo dijo una noche, en la Punta Gris, mirando a Tam clavar tablas. ¿Y si dentro de doscientos años soy él? No le dije nada. No supe. Ahora sí sé.
 
 Serás él si guardas por miedo. No lo serás si guardas por amor. La diferencia no se ve desde fuera. Ni siquiera desde dentro, a veces. Por eso hace falta alguien al lado que te lo diga. Tienes a Sein. Hazle caso. Aunque sea un pesado.
 
@@ -26,6 +26,6 @@ Amael: lee esto el último. Ya sé que no lo harás.
 
 *Al pie, con otra letra:*
 
-*Saldo a fecha de hoy: una tía abuela, un tío abuelo, una ciudad que ahora tiene sol.* *Lo apunto en el debe y en el haber. Las dos columnas suman lo mismo, por primera vez en* *mi vida. Me da miedo.*
+*Saldo a fecha de hoy: una tía abuela, un tío abuelo, una ciudad que ahora tiene sol. Lo apunto en el debe y en el haber. Las dos columnas suman lo mismo, por primera vez en mi vida. Me da miedo.*
 
 *S. V.*

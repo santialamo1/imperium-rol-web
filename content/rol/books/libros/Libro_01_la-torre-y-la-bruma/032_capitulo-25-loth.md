@@ -14,7 +14,7 @@ Loth tiraba. Y el hilo volvía.
 
 —¡Basta! —gritó la Madre del centro—. ¡Loth, basta! ¡No sabes lo que haces! ¡Nadie la ha devuelto nunca! ¡Nadie!
 
-*Quien te nombra te tendrá*, pensó Loth. *Quien te ama volverá.*
+*Quien te nombra te tendrá, pensó Loth. Quien te ama volverá.*
 
 El hilo entró en la boca de Seren.
 
@@ -64,7 +64,7 @@ En esos cuatro años, Loth aprendió algo que ninguna Madre le había enseñado,
 
 Aprendió que no hacía falta estar muerto para que te tiraran del nombre.
 
-Lo descubrió por accidente. Un muchacho del clan, el hijo menor del tío Oresh, que tenía quince años y la lengua demasiado suelta, le tiró una piedra a Seren una tarde, en el pozo, y le gritó que era una muerta y que debería volver a la bruma. Loth no pensó. Pronunció el nombre del chico. Su nombre verdadero, el que su madre le había dado al nacer y le susurraba al oído, el que el propio chico casi había olvidado. *Imren*.
+Lo descubrió por accidente. Un muchacho del clan, el hijo menor del tío Oresh, que tenía quince años y la lengua demasiado suelta, le tiró una piedra a Seren una tarde, en el pozo, y le gritó que era una muerta y que debería volver a la bruma. Loth no pensó. Pronunció el nombre del chico. Su nombre verdadero, el que su madre le había dado al nacer y le susurraba al oído, el que el propio chico casi había olvidado. Imren.
 
 Y tiró.
 
@@ -136,7 +136,7 @@ La Madre bajó las manos. Despacio.
 
 —Quizá. —Loth se encogió de hombros—. Pero vosotras también mentís, y al menos él me ofrece algo a cambio.
 
-Dijo el nombre verdadero de la Madre del centro. Lo dijo despacio, saboreando cada sílaba, porque ella era la que había dicho *oye*, treinta y ocho años atrás, en la tienda de su madre, y él no lo había olvidado.
+Dijo el nombre verdadero de la Madre del centro. Lo dijo despacio, saboreando cada sílaba, porque ella era la que había dicho oye, treinta y ocho años atrás, en la tienda de su madre, y él no lo había olvidado.
 
 *Ishra-Tel.*
 
@@ -180,11 +180,11 @@ Loth bajó tres días. Una escalera de piedra negra, de Sal Negra como la del re
 
 Al fondo había una sala. Y en la sala, algo dormía.
 
-Loth no lo vio. Nadie podría verlo. Era demasiado grande, demasiado oscuro, demasiado *antiguo*, y la oscuridad que lo envolvía no era ausencia de luz sino otra cosa, algo que se tragaba los ojos que intentaban mirarlo. Pero lo sintió. Sintió su latido. Lento. Profundo. Una vez cada cuatro o cinco respiraciones suyas. El mismo latido que había sentido un muchacho llamado Hector Tiberius en un sillar de la torre del sur, ciento seis años antes.
+Loth no lo vio. Nadie podría verlo. Era demasiado grande, demasiado oscuro, demasiado antiguo, y la oscuridad que lo envolvía no era ausencia de luz sino otra cosa, algo que se tragaba los ojos que intentaban mirarlo. Pero lo sintió. Sintió su latido. Lento. Profundo. Una vez cada cuatro o cinco respiraciones suyas. El mismo latido que había sentido un muchacho llamado Hector Tiberius en un sillar de la torre del sur, ciento seis años antes.
 
 Pero incompleto. Cojo. Como un corazón al que le falta una mitad.
 
-*Ah*, dijo la cosa. No con palabras. No con voz. Con los once mil nombres a la vez, con la bruma entera, con el aliento de mil años de muertos. *El que tira. Al fin.*
+Ah, dijo la cosa. No con palabras. No con voz. Con los once mil nombres a la vez, con la bruma entera, con el aliento de mil años de muertos. El que tira. Al fin.
 
 —Me prometiste —dijo Loth— que si te devuelvo tu otra mitad, me devolverás a los que te has bebido.
 
@@ -198,19 +198,19 @@ Pero incompleto. Cojo. Como un corazón al que le falta una mitad.
 
 Un silencio. Luego, algo que podría haber sido una risa, si una montaña pudiera reír.
 
-*Yo sí sé su nombre. Yo sé todos los nombres. Tráeme mi corazón, cantor. Saca el* *clavo. Y te devolveré a Anwe tal como era. Respirando.*
+*Yo sí sé su nombre. Yo sé todos los nombres. Tráeme mi corazón, cantor. Saca el clavo. Y te devolveré a Anwe tal como era. Respirando.*
 
 Loth cerró los ojos. Pensó en la manita agarrándole el dedo. Pensó en los pulmones que despertaron a medio campamento.
 
 —¿Y si no puedo? La torre es fuerte. Los pueblos del sur están jurados sobre tu corazón. Si los ataco, la piedra lo sabrá.
 
-*La piedra conoce a los jurados. No te conoce a ti. Tú no juraste. Tu sangre no juró.* La cosa se movió en su sueño, y el suelo del pozo tembló. *Y yo te daré tiempo. Todo el* *tiempo que necesites. Dame tu aliento, cantor. No todo. Una parte. Siete partes. Guárdalas* *en sal, lejos de ti, y mientras una sola siga entera, la muerte no podrá terminar de beberte.*
+*La piedra conoce a los jurados. No te conoce a ti. Tú no juraste. Tu sangre no juró. La cosa se movió en su sueño, y el suelo del pozo tembló. Y yo te daré tiempo. Todo el tiempo que necesites. Dame tu aliento, cantor. No todo. Una parte. Siete partes. Guárdalas en sal, lejos de ti, y mientras una sola siga entera, la muerte no podrá terminar de beberte.*
 
 Loth abrió los ojos.
 
 —¿Por qué haces esto? ¿Por qué me ayudas?
 
-*Porque tú y yo queremos lo mismo.* La voz era casi dulce. *Que nos devuelvan lo que* *nos quitaron.*
+Porque tú y yo queremos lo mismo. La voz era casi dulce. Que nos devuelvan lo que nos quitaron.
 
 Loth Sahr-Ennet, hijo de Ishra, hermano de Nadi, esposo de Seren, padre de Anwe, se arrodilló en el fondo del Pozo Primero y abrió la boca.
 
@@ -226,7 +226,7 @@ Ya no le latía el corazón. Pero seguía vivo.
 
 —Siete —dijo.
 
-*Siete*, repitió la cosa. *Escóndelas bien, cantor. Los hombres del sur son tozudos.* *Romperán algunas. Pero mientras quede una...*
+*Siete, repitió la cosa. Escóndelas bien, cantor. Los hombres del sur son tozudos. Romperán algunas. Pero mientras quede una...*
 
 Loth recogió las jarras. Subió la escalera. Tres días. Seren detrás de él, sin hacer ruido.
 

@@ -222,7 +222,7 @@ La espada estaba allí. Sola. En el centro. Brillando. Con los árboles muertos 
 
 ---
 
-En Wonder, el Emperador escuchó la historia en la tienda de *El Guiso*.
+En Wonder, el Emperador escuchó la historia en la tienda de El Guiso.
 
 No estaba solo. Estaba la pelirroja. Estaba el elfo viejo del sombrero gris, con la tablilla de cera. Estaba la alcaldesa, con los ojos rojos de haber enterrado a su hijo esa mañana.
 
@@ -236,7 +236,7 @@ Luego la pelirroja se levantó.
 
 Hesper levantó la vista.
 
-—*No, no, así no* —dijo—. Mirando la hoja. Como si viera algo.
+—No, no, así no —dijo—. Mirando la hoja. Como si viera algo.
 
 La pelirroja se quedó quieta.
 
@@ -282,7 +282,7 @@ Y por una espada, sola, en el centro de un bosque muerto, que había visto algo 
 
 En el pergamino de los Fragmentos, un año después, Verawel escribió una línea nueva. Con la letra que subía. Despacio. Le costó; la noticia le había llegado en una carta de Érandiul, escrita con la izquierda, y había tenido que leerla tres veces.
 
-*Una espada de hierro de la colina, de un capitán que se llamaba Edran Vos. Está* *clavada en una raíz blanca, en el centro de un bosque que se muere, al norte de Wonder.* *Vio la muerte de su dueño un segundo antes. Se cree que ve lo que va a pasar. Nadie la ha* *tocado después.*
+*Una espada de hierro de la colina, de un capitán que se llamaba Edran Vos. Está clavada en una raíz blanca, en el centro de un bosque que se muere, al norte de Wonder. Vio la muerte de su dueño un segundo antes. Se cree que ve lo que va a pasar. Nadie la ha tocado después.*
 
 *Cuesta un capitán que siguió a un muchacho enfadado.*
 

@@ -1,6 +1,6 @@
 # De las Crónicas de Banderbill, Libro Tercero (III)
 
-*Escrito por Nerea Vell, cronista de la biblioteca, en la primavera del año 625 de la* *Nueva Era (18 D.bA). Con el sombrero puesto. Con una nota al pie en otra letra.*
+*Escrito por Nerea Vell, cronista de la biblioteca, en la primavera del año 625 de la Nueva Era (18 D.bA). Con el sombrero puesto. Con una nota al pie en otra letra.*
 
 Escribo con un sombrero que no es mío y que me queda grande, y me he acostumbrado a ver el papel por debajo del ala.
 
@@ -82,9 +82,9 @@ Me ha mirado mucho rato. Luego me ha dicho que por eso existo yo.
 
 ---
 
-— — *Al pie, en otra letra, pequeña, de niño:*
+*Al pie, en otra letra, pequeña, de niño:*
 
-*El orco de la lámpara se llama Drak. Lo capturó Brena Hask en el 598, en las* *cuevas viejas, cuando era un cachorro. Lo soltaron. Volvió a Arghâl. Estaba en la plaza la* *noche del 3 de marzo, sentado en la nieve. Ahora sube cuatrocientos escalones cada* *noche.*
+*El orco de la lámpara se llama Drak. Lo capturó Brena Hask en el 598, en las cuevas viejas, cuando era un cachorro. Lo soltaron. Volvió a Arghâl. Estaba en la plaza la noche del 3 de marzo, sentado en la nieve. Ahora sube cuatrocientos escalones cada noche.*
 
 *Lo apunto en el haber. Con el nombre de ella al lado.*
 

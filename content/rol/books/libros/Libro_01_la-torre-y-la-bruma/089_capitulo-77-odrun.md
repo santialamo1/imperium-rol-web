@@ -116,7 +116,7 @@ Se sentó en su cuarto de la planta treinta y nueve, con la puerta cerrada y la 
 
 Pensó en lo que había sentido. En el segundo latido. En el frío.
 
-Pensó en la noche en que nació el príncipe, dieciséis años atrás. Ella no estaba en la Torre; estaba en la frontera, en Kel-Dun. Pero había leído el registro de la Academia, como lo leía todo. Y en el registro, en la fecha del nacimiento, la Custodia de guardia en la Torre había escrito una nota extraña que nadie había comentado nunca: *La noche siguiente al* *parto, a medianoche, todos los muertos de la Torre se callaron a la vez durante el tiempo* *que tarda en consumirse una vela. Luego volvieron. Causa desconocida.*
+Pensó en la noche en que nació el príncipe, dieciséis años atrás. Ella no estaba en la Torre; estaba en la frontera, en Kel-Dun. Pero había leído el registro de la Academia, como lo leía todo. Y en el registro, en la fecha del nacimiento, la Custodia de guardia en la Torre había escrito una nota extraña que nadie había comentado nunca: La noche siguiente al parto, a medianoche, todos los muertos de la Torre se callaron a la vez durante el tiempo que tarda en consumirse una vela. Luego volvieron. Causa desconocida.
 
 Pensó en el don del muchacho, que no se parecía al de nadie. En sus ojos, casi blancos desde niño. En que los muertos lo buscaban como las polillas buscan una vela, y en que una vela no es una persona sino un fuego. En la voz que cantaba a lo lejos y que Bander había oído desde los cuatro años, la que según él no lo llamaba, solo cantaba, como cuando uno está solo y canta para no oír el silencio.
 
@@ -124,7 +124,7 @@ Pensó en lo que pasaría si se lo decía a Haltair.
 
 Haltair la escucharía. Haltair era el hombre más amable que había conocido. Pero Haltair era emperador, y tenía un Consejo, y un canciller, y una corte llena de gente que había crecido oyendo historias sobre el Padre de la Bruma y sus muertos. Y si alguien en esa corte llegaba a saber, o a sospechar siquiera, que el heredero del trono tenía dentro algo frío que latía a destiempo, como la piedra de la cripta...
 
-Pensó en Hedda, la de la sentencia de Drolnar. En la niña de las manos quemadas. *Tocado por la niebla.*
+Pensó en Hedda, la de la sentencia de Drolnar. En la niña de las manos quemadas. Tocado por la niebla.
 
 Al anochecer, cuando Bander se despertó, Odrun subió a su cuarto. Se sentó en el borde de la cama.
 
@@ -148,7 +148,7 @@ Odrun tardó mucho en contestar.
 
 ---
 
-Bander bajó al osario una noche de cada siete durante los seis meses siguientes. Soltó a siete cada vez. Al día siguiente tenía fiebre y le sangraba la nariz, y Odrun lo anotaba en el registro de la Academia con su letra apretada de Hinur: *Siete. Fiebre.* *Recuperado al tercer día.* Los ciento ochenta y nueve últimos muertos del osario Zelto salieron hacia arriba en la primavera del cuatrocientos dos. La Academia lo celebró con una misa. Los cronistas escribieron que el príncipe Bander había terminado, con esfuerzo heroico y a costa de su salud, el trabajo que Ismena Vell había dejado pendiente doscientos años antes.
+Bander bajó al osario una noche de cada siete durante los seis meses siguientes. Soltó a siete cada vez. Al día siguiente tenía fiebre y le sangraba la nariz, y Odrun lo anotaba en el registro de la Academia con su letra apretada de Hinur: Siete. Fiebre. Recuperado al tercer día. Los ciento ochenta y nueve últimos muertos del osario Zelto salieron hacia arriba en la primavera del cuatrocientos dos. La Academia lo celebró con una misa. Los cronistas escribieron que el príncipe Bander había terminado, con esfuerzo heroico y a costa de su salud, el trabajo que Ismena Vell había dejado pendiente doscientos años antes.
 
 No escribieron cuatrocientos doce. Nadie lo supo nunca, salvo una vieja Custodia Hinur y un muchacho que no entendía por qué tenía que fingir.
 
@@ -160,6 +160,6 @@ Murió esa primavera. La soltó Bander, que sabía su nombre secreto porque ella
 
 Le dejó una carta, que él no abrió hasta después del entierro. Era muy corta. La letra, temblorosa, de casi ciega, se salía de las líneas.
 
-*Alteza: tienes algo dentro que no es tuyo. No sé qué es. No he querido saberlo.* *Pero tú sí eres tuyo. No dejes que nadie te convenza de lo contrario. Ni siquiera lo que* *tienes dentro. — O.*
+*Alteza: tienes algo dentro que no es tuyo. No sé qué es. No he querido saberlo. Pero tú sí eres tuyo. No dejes que nadie te convenza de lo contrario. Ni siquiera lo que tienes dentro. — O.*
 
 Bander guardó la carta toda su vida. La llevaba en el jubón la Noche Más Larga, en la escalera de la Torre, cuando entendió por fin lo que la vieja había querido decir.

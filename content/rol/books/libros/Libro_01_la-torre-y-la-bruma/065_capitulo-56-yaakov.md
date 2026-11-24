@@ -100,7 +100,7 @@ Loth miró a Ysh-Neva. Por primera vez, algo cambió en su cara.
 
 —Las Madres les quitaban a sus hijos —dijo—. Yo les quité a las Madres. ¿No es justo?
 
-—Nada de lo que haces es justo —dijo Ysh-Neva—. Solo es necesario. Para ti. Para tu cosa del pozo. —Dio un paso adelante—. ¿Sabes cómo te llaman los niños de mi clan, Padre de la Bruma? No te llaman monstruo. No te llaman demonio. Te llaman *el que* *no suelta*. Porque eso es lo que eres. Un hombre que no sabe soltar.
+—Nada de lo que haces es justo —dijo Ysh-Neva—. Solo es necesario. Para ti. Para tu cosa del pozo. —Dio un paso adelante—. ¿Sabes cómo te llaman los niños de mi clan, Padre de la Bruma? No te llaman monstruo. No te llaman demonio. Te llaman el que no suelta. Porque eso es lo que eres. Un hombre que no sabe soltar.
 
 Loth la miró durante un largo rato.
 
@@ -116,7 +116,7 @@ Y la mujer del velo, a su lado, hizo algo que nadie esperaba.
 
 Se arrancó la caja de plata del cuello. La arrojó hacia arriba, hacia la duna, hacia el ejército imperial. La caja voló por el aire, girando, brillando bajo el sol, y cayó a los pies de Yaakov Tiberius.
 
-Loth, en el suelo, gritó su nombre. *Seren.* Lo gritó como si le arrancaran el corazón.
+Loth, en el suelo, gritó su nombre. Seren. Lo gritó como si le arrancaran el corazón.
 
 Yaakov abrió la caja. Dentro había una jarra de sal negra, del tamaño de una cabeza de niño. Latía.
 

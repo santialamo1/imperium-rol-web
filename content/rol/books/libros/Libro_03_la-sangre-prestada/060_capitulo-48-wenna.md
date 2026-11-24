@@ -150,7 +150,7 @@ La boda se hizo en la Plaza de la Corona. Con toda la colina mirando. Con bander
 
 El pan de la boda lo hizo la familia del novio.
 
-Todos los Ruald. Que eran muchos. El padre, la madre, los tíos, los primos. Y uno más. Uno que no era de la familia, decían, pero que siempre había estado, que siempre había sido *el tío Teo*, que no se sabía bien de quién era tío ni desde cuándo, y que tenía la cara de un hombre de sesenta y las manos más rápidas de toda la calle de abajo.
+Todos los Ruald. Que eran muchos. El padre, la madre, los tíos, los primos. Y uno más. Uno que no era de la familia, decían, pero que siempre había estado, que siempre había sido el tío Teo, que no se sabía bien de quién era tío ni desde cuándo, y que tenía la cara de un hombre de sesenta y las manos más rápidas de toda la calle de abajo.
 
 El pan de la boda fue un pan de nueces. Grande. Redondo. Con una corona hecha de masa encima. Con once nueces en la corona. Una por cada libra.
 
@@ -276,7 +276,7 @@ Y Sein, a su lado, sacó el libro. Y apuntó algo. Wenna no vio qué. Pero lo vi
 
 ---
 
-Ilka los casó. Con las palabras del Mercado, que eran pocas: *Lo que se junta, se* *cuida. Lo que se cuida, dura. Lo que dura, se acuerda.*
+Ilka los casó. Con las palabras del Mercado, que eran pocas: Lo que se junta, se cuida. Lo que se cuida, dura. Lo que dura, se acuerda.
 
 Berto e Isra se dieron la mano.
 

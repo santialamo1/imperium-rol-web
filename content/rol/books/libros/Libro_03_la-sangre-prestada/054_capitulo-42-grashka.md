@@ -66,7 +66,7 @@ El Señor la miró. Mucho rato. Con una cara que era una cara y luego otra.
 
 Luego sonrió.
 
-*Qué raro*, dijo. *Nadie me había pedido eso. Lo guardo.*
+*Qué raro, dijo. Nadie me había pedido eso. Lo guardo.*
 
 Y se fue.
 
@@ -250,7 +250,7 @@ Miró a los orcos que bajaban. Uno a uno. Sin decir nada.
 
 Cuando llegó Grâshka, se paró.
 
-*¿Has visto un árbol?*, le dijo.
+¿Has visto un árbol?, le dijo.
 
 Grâshka se quedó quieta. Con el hacha de Gorth en la mano, que había recogido del foso.
 
@@ -266,7 +266,7 @@ El Señor la miró mucho rato.
 
 Luego sonrió. Amable. Como siempre.
 
-*Te lo di*, dijo. *Lo que querías. Ahora me debes una cosa.*
+*Te lo di, dijo. Lo que querías. Ahora me debes una cosa.*
 
 —¿Qué?
 
@@ -310,6 +310,6 @@ En el Diario hay una entrada del 729. Dice que unos navíos rústicos llegaron d
 
 Lo escribió Érandiul, que estaba en Wonder ese verano. Que había hecho el viaje el año anterior para ver la ciudad y su progreso.
 
-No escribió *feroces* por los orcos. Lo escribió por el mar. Que los había traído. Y que los había llevado. Y que era lo más feroz que había visto en casi novecientos años.
+No escribió feroces por los orcos. Lo escribió por el mar. Que los había traído. Y que los había llevado. Y que era lo más feroz que había visto en casi novecientos años.
 
-Pero eso no lo pone. Eso lo dijo una noche, en *El Guiso*, a un orco cocinero que le preguntó por qué había escrito *feroces*, si él había visto a uno mirar arriba.
+Pero eso no lo pone. Eso lo dijo una noche, en El Guiso, a un orco cocinero que le preguntó por qué había escrito feroces, si él había visto a uno mirar arriba.

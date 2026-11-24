@@ -20,7 +20,7 @@ Lo entendió en el invierno del 563. En una mina.
 
 La orden llegó a mediados de enero. Del Consejo, no del Emperador; el Emperador estaba en Nix, como cada invierno desde que había muerto la reina Hedda, y el Consejo gobernaba la colina cuando él no estaba.
 
-*Patrulla de reconocimiento. Veinte soldados. Lomas del noreste. Tres pastores de* *la loma del espino denuncian que han desaparecido ovejas. Ver si hay lobos. Volver.*
+*Patrulla de reconocimiento. Veinte soldados. Lomas del noreste. Tres pastores de la loma del espino denuncian que han desaparecido ovejas. Ver si hay lobos. Volver.*
 
 La firmaba maese Corbel. El hijo de maese Corbel, en realidad; el viejo se había muerto en el 551, rico y contento, y el hijo había heredado la notaría del gremio, el negocio del hierro rojo y el asiento en el Consejo, y era más gordo, más amable y más rico que el padre.
 
@@ -78,7 +78,7 @@ La mujer no contestó.
 
 —A las minas. —La mujer cerró la boca. La abrió—. A trabajar. En otoño. Para pagar el invierno. Me dijo que volvería en primavera.
 
-Joss asintió. Iba a decir algo. Algo de teniente, de consuelo, de *ya volverá*.
+Joss asintió. Iba a decir algo. Algo de teniente, de consuelo, de ya volverá.
 
 —No vayan —dijo Mabel antes.
 
@@ -134,7 +134,7 @@ Joss no contestó. Estaba oliendo el pan.
 
 Joss no miró.
 
-Lo pensaría después, muchas veces, durante el resto de su vida, que fue larga. Que Durn le había dicho *mire arriba* con la voz del sargento, la de las órdenes, la que la Armada aprendía el primer día. Que él la había oído. Que no había mirado.
+Lo pensaría después, muchas veces, durante el resto de su vida, que fue larga. Que Durn le había dicho mire arriba con la voz del sargento, la de las órdenes, la que la Armada aprendía el primer día. Que él la había oído. Que no había mirado.
 
 Porque olía a pan. Y él tenía veinticuatro años. Y su madre se había muerto cuando él tenía nueve.
 
@@ -166,7 +166,7 @@ Era su madre.
 
 ---
 
-No era su madre. Lo supo. Lo supo como se saben las cosas en los sueños, que se saben y no sirve de nada. Su madre estaba muerta. Su madre estaba en el cementerio de la ladera este, debajo de una piedra con su nombre, Hanne Hask, y los años, y una frase que había elegido su padre, *hacía pan los domingos*.
+No era su madre. Lo supo. Lo supo como se saben las cosas en los sueños, que se saben y no sirve de nada. Su madre estaba muerta. Su madre estaba en el cementerio de la ladera este, debajo de una piedra con su nombre, Hanne Hask, y los años, y una frase que había elegido su padre, hacía pan los domingos.
 
 Pero estaba allí. Con el delantal. Con las manos en la masa. Con el pelo recogido en un pañuelo azul. Con la cara de cuando él tenía seis años.
 
@@ -178,7 +178,7 @@ Lo miró. Le sonrió.
 
 —Siéntate. Come. Estás muy delgado.
 
-Detrás de él, oyó a los otros. Oyó a Faer, el elfo, que decía un nombre de mujer en élfico. A Pippo, el gnomo, que se reía como un niño. A un muchacho de los fiordos que lloraba y decía *papá*.
+Detrás de él, oyó a los otros. Oyó a Faer, el elfo, que decía un nombre de mujer en élfico. A Pippo, el gnomo, que se reía como un niño. A un muchacho de los fiordos que lloraba y decía papá.
 
 A Durn, no. Durn no decía nada.
 

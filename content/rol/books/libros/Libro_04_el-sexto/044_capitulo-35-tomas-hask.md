@@ -1,6 +1,6 @@
 # Capítulo 35 · Tomás Hask
 
-*La cueva de cristal del Sombrero, en Annkör, sobre el Pasaje Norte. La misma* *noche, primavera del año 1256 de la Nueva Era (649 D.bA).*
+*La cueva de cristal del Sombrero, en Annkör, sobre el Pasaje Norte. La misma noche, primavera del año 1256 de la Nueva Era (649 D.bA).*
 
 Tomás subía el pan desde los once años, como su padre, como su abuelo Damián, y aquella tarde llegó tarde porque se le había roto la correa de la raqueta en el segundo repecho y tuvo que atarla con el cordón de la bolsa.
 
@@ -44,7 +44,7 @@ Y lo miraba a él.
 
 No al tío. A él. Tomás lo supo como se sabe que alguien te mira por la espalda en una taberna.
 
-—Abuelo —dijo Tomás. Le salió solo. Era lo que decían los niños de Tiama cuando tenían miedo: *abuelo*, como le decían al gólem de las fumarolas, el que estaba parado con el brazo levantado desde antes de que hubiera ciudad.
+—Abuelo —dijo Tomás. Le salió solo. Era lo que decían los niños de Tiama cuando tenían miedo: abuelo, como le decían al gólem de las fumarolas, el que estaba parado con el brazo levantado desde antes de que hubiera ciudad.
 
 —No es tu abuelo —dijo el tío Ilan—. Es una cría.
 
@@ -66,7 +66,7 @@ No la clavó.
 
 —Tío, si se...
 
-—*Calla*, Tomás.
+—Calla, Tomás.
 
 El tío Ilan estaba hablando. No a él. Bajo. Muy bajo. Tomás tardó en entender qué decía.
 
@@ -100,7 +100,7 @@ No le hablaba a él.
 
 Le hablaba al ojo.
 
-*Ahora*, decía. *Ahora. ¿Lo oyes? Se han partido. Al sur. Lo oyes. Se oye. Como el* *hielo del glaciar viejo. Ahora, cría. Mira.*
+*Ahora, decía. Ahora. ¿Lo oyes? Se han partido. Al sur. Lo oyes. Se oye. Como el hielo del glaciar viejo. Ahora, cría. Mira.*
 
 Y el ojo miraba.
 
@@ -138,7 +138,7 @@ Estaba pegado a la rendija. Con la cara a un palmo del hielo. A un palmo del ojo
 
 El ojo se quedó quieto.
 
-—Ella no quería que miraras —dijo el tío Ilan—. Ella te empujaba con el hocico para que no fueras al glaciar viejo. *Allí no.* ¿Te acuerdas? *Allí no.*
+—Ella no quería que miraras —dijo el tío Ilan—. Ella te empujaba con el hocico para que no fueras al glaciar viejo. Allí no. ¿Te acuerdas? Allí no.
 
 ---
 
@@ -202,9 +202,9 @@ Y miró hacia arriba. Hacia la montaña. Hacia el Sombrero.
 
 ---
 
-*Carta de Ilan Hask a la biblioteca de Banderbill. Llegó en el verano del 1256.* *Mirela Vell la copió en el pergamino de los Fragmentos, en la línea de la gema de Migyur,* *al lado de las fechas del 892 y el 954.*
+*Carta de Ilan Hask a la biblioteca de Banderbill. Llegó en el verano del 1256. Mirela Vell la copió en el pergamino de los Fragmentos, en la línea de la gema de Migyur, al lado de las fechas del 892 y el 954.*
 
-*Ha abierto el ojo. Cuarta vez. La noche del catorce al quince de primavera.* *No lo ha abierto él. Lo de abajo le ha dicho que mirara, y ha mirado. Una noche entera.*
+*Ha abierto el ojo. Cuarta vez. La noche del catorce al quince de primavera. No lo ha abierto él. Lo de abajo le ha dicho que mirara, y ha mirado. Una noche entera.*
 
 *El hielo se ha rajado. Una mano. Lo he medido.*
 

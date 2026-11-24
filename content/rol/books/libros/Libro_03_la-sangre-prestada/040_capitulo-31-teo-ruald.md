@@ -1,6 +1,6 @@
 # Capítulo 31 · Teo Ruald
 
-*La panadería de la calle del Horno, Banderbill. Otoño del año 663 de la Nueva* *Era (56 D.bA).*
+*La panadería de la calle del Horno, Banderbill. Otoño del año 663 de la Nueva Era (56 D.bA).*
 
 La masa madre tenía seiscientos cincuenta y siete años y se llamaba Ugo, y Teo Ruald era la única persona viva que sabía por qué.
 
@@ -32,13 +32,13 @@ Y nadie preguntaba. Porque en la casa de los Ruald, desde hacía seiscientos añ
 
 Se llamaba Teo. Todos se llamaban Teo. Era la costumbre.
 
-Eso era lo que sabían los Ruald. Lo que se decían de padres a hijos, sin pensarlo mucho, como se dice que en una casa se cena a las ocho o que el perro duerme en la cocina. *En esta casa siempre hay un tío Teo. Amasa de noche. No se casa. No sale. No se* *le molesta. Cuando se hace viejo, viene otro.*
+Eso era lo que sabían los Ruald. Lo que se decían de padres a hijos, sin pensarlo mucho, como se dice que en una casa se cena a las ocho o que el perro duerme en la cocina. En esta casa siempre hay un tío Teo. Amasa de noche. No se casa. No sale. No se le molesta. Cuando se hace viejo, viene otro.
 
 Nadie había visto llegar a otro.
 
 Nadie se había dado cuenta.
 
-Era muy fácil, había descubierto Teo, que no se dieran cuenta. La gente no mira a los que trabajan de noche. Y no mira a los tíos solteros. Y la cara de un hombre de sesenta años con harina en las cejas, en una cocina oscura, a las tres de la madrugada, es la cara de cualquier hombre de sesenta años. Cada treinta años, más o menos, Teo se iba. Un invierno. Decía que se iba a Nix, a ver a un primo. Volvía en primavera con una barba distinta, y otro corte de pelo, y decía que era el sobrino del tío Teo, que el tío se había quedado en Nix, que estaba mayor. Y los niños de la casa, que ya eran mayores, decían *ah*. Y los niños nuevos no lo habían visto nunca de otra manera.
+Era muy fácil, había descubierto Teo, que no se dieran cuenta. La gente no mira a los que trabajan de noche. Y no mira a los tíos solteros. Y la cara de un hombre de sesenta años con harina en las cejas, en una cocina oscura, a las tres de la madrugada, es la cara de cualquier hombre de sesenta años. Cada treinta años, más o menos, Teo se iba. Un invierno. Decía que se iba a Nix, a ver a un primo. Volvía en primavera con una barba distinta, y otro corte de pelo, y decía que era el sobrino del tío Teo, que el tío se había quedado en Nix, que estaba mayor. Y los niños de la casa, que ya eran mayores, decían ah. Y los niños nuevos no lo habían visto nunca de otra manera.
 
 Veinte veces lo había hecho. Veinte tíos Teo.
 
@@ -138,7 +138,7 @@ Teo levantó la vista.
 
 —¿Lo apuntaste?
 
-—En el libro. Esa noche. En una página aparte. —Sein abrió el libro otra vez. No por la página de la harina. Por otra. Muy atrás. Con el papel amarillo, casi marrón. La buscó sin mirar; sabía dónde estaba—. *Año 38. La reina y el panadero.*
+—En el libro. Esa noche. En una página aparte. —Sein abrió el libro otra vez. No por la página de la harina. Por otra. Muy atrás. Con el papel amarillo, casi marrón. La buscó sin mirar; sabía dónde estaba—. Año 38. La reina y el panadero.
 
 Le dio la vuelta al libro. Para que Teo lo viera.
 
@@ -182,7 +182,7 @@ Sein no dijo nada.
 
 —Tenía veintiún años —siguió Teo—. Era rey desde hacía cinco. Vino una noche. Aquí. Como tú. Por la puerta de atrás. Se sentó en ese saco. Le había leído a la reina, a su madre, lo de la ofrenda. Lo del cofre. Sabía que su madre se la había dado a uno. Que tenía la suya. Que no sabía a quién darla.
 
-—*A quien yo sé* —dijo Sein. Bajo—. Lo tengo apuntado. La línea de Amael. En el haber. *Una vida. La mía. A quien yo sé.* Desde el 107. La encontré cuando se murió. No sabía qué quería decir.
+—A quien yo sé —dijo Sein. Bajo—. Lo tengo apuntado. La línea de Amael. En el haber. Una vida. La mía. A quien yo sé. Desde el 107. La encontré cuando se murió. No sabía qué quería decir.
 
 —Quería decir a su padre. —Teo sacó la mano de la tinaja. Se la miró. Tenía masa entre los dedos—. Me dijo que no quería que su madre se quedara sola. Que ella iba a vivir siempre, y que él no, y que su abuela tampoco, ni su tío, ni nadie. Que alguien tenía que quedarse. Alguien que no fuera de la Orden. Que no supiera de jarras ni de sal ni de lo que dormía. Alguien que le hiciera pan.
 

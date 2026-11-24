@@ -2,9 +2,7 @@
 
 *Tawarsinan. Invierno del año 358 de la Nueva Era.*
 
-*De la Crónica de Jonas Vell, año 358. Del sur no llega nada. Ni pájaros. El*
-
-*gnomo dice que no huele a nada. Que eso es lo peor que puede oler algo.*
+*De la Crónica de Jonas Vell, año 358. Del sur no llega nada. Ni pájaros. El gnomo dice que no huele a nada. Que eso es lo peor que puede oler algo.*
 
 Nimrath tenía ciento doce años, que en Tawarsinan era ser un niño, y una cicatriz en la barbilla que se había hecho a los setenta cayéndose de un puente de cuerda por mirar hacia abajo, y era el único elfo de la ciudad que había hablado en voz alta delante de los sabios, y lo sabía todo el mundo.
 
@@ -52,7 +50,7 @@ Tenían los ojos tapados.
 
 Nimrath tardó en verlo. Una tira de cuero negro. Atada a la cabeza. Con dos rendijas finas a la altura de los ojos, que solo dejaban ver hacia delante y hacia abajo. Todos. Miles.
 
-*No miréis hacia arriba*, les habían enseñado. Lo supo luego. Se lo dijo el de las gafas. *Nunca. Cuando matéis. Cuando muráis. Cuando os canten.*
+No miréis hacia arriba, les habían enseñado. Lo supo luego. Se lo dijo el de las gafas. Nunca. Cuando matéis. Cuando muráis. Cuando os canten.
 
 —¿Qué es eso? —preguntó alguien a su lado. En voz alta. Sin darse cuenta.
 
@@ -76,7 +74,7 @@ Y luego, en las plataformas, en los puentes, en las escaleras, uno a uno, al pri
 
 Hacia arriba. Con amor. Después de tres mil años.
 
-Y los humanos de la plaza, los ciento treinta, que no sabían cantar como los elfos, se pusieron a gritarlos. Los suyos. Los de Nix. Los once mil. *¡Dax!*, gritaba una muchacha de pelo castaño con una ballesta gnoma, al lado de Nimrath. *¡Dax! ¡Dax!*
+Y los humanos de la plaza, los ciento treinta, que no sabían cantar como los elfos, se pusieron a gritarlos. Los suyos. Los de Nix. Los once mil. ¡Dax!, gritaba una muchacha de pelo castaño con una ballesta gnoma, al lado de Nimrath. ¡Dax! ¡Dax!
 
 ---
 
@@ -196,7 +194,7 @@ Salieron al río por el árbol hueco al amanecer.
 
 Eran sesenta y tres. De ciento treinta humanos y no sabía cuántos miles de elfos.
 
-Sesenta y tres. Elfos, la mayoría. Unos pocos humanos. Dos gnomos. El enano, que ya no decía *piedra*. No decía nada.
+Sesenta y tres. Elfos, la mayoría. Unos pocos humanos. Dos gnomos. El enano, que ya no decía piedra. No decía nada.
 
 Se quedaron en la orilla. Mirando hacia el este. Hacia donde había estado Tawarsinan.
 
@@ -222,7 +220,7 @@ Nadie le contestó.
 
 El elfo viejo del sombrero estaba sentado en una piedra, un poco más allá, con un cuaderno en las rodillas. Escribiendo. Con la mano temblando. Nimrath lo vio escribir la pregunta. Su pregunta. Palabra por palabra.
 
-*¿Qué clase de magia puede enceguecerlos tanto como para haber asesinado* *brutalmente a tanto elfo y humano inocente?*
+*¿Qué clase de magia puede enceguecerlos tanto como para haber asesinado brutalmente a tanto elfo y humano inocente?*
 
 Y debajo no escribió la respuesta.
 

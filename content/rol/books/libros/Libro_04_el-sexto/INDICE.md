@@ -1,118 +1,109 @@
-# Emperadores de la Ceniza — Libro Cuarto: El Sexto
+# Índice — Libro Cuarto: El Sexto
 
-Libro 4 · 850 páginas originales · 112 secciones
-
-## Contenido
-
-- [Prólogo · La hoja sin número](001_prologo-la-hoja-sin-numero.md)
-- [PRIMERA PARTE: EL ESCUDO](002_primera-parte-el-escudo.md)
-- [DE LAS CRÓNICAS DE BANDERBILL, LIBRO CUARTO (I)](003_de-las-cronicas-de-banderbill-libro-cuarto-i.md)
-- [Capítulo 1 · Eluret](004_capitulo-1-eluret.md)
-- [Capítulo 2 · Corvo Hask](005_capitulo-2-corvo-hask.md)
-- [Capítulo 3 · Teo Ruald](006_capitulo-3-teo-ruald.md)
-- [Capítulo 4 · Astragal](007_capitulo-4-astragal.md)
-- [Capítulo 5 · Selis](008_capitulo-5-selis.md)
-- [Capítulo 6 · Wenna](009_capitulo-6-wenna.md)
-- [Capítulo 7 · Aira Dunmar](010_capitulo-7-aira-dunmar.md)
-- [Capítulo 8 · Dalbur](011_capitulo-8-dalbur.md)
-- [Capítulo 9 · Skarn](012_capitulo-9-skarn.md)
-- [Capítulo 10 · Aira Dunmar](013_capitulo-10-aira-dunmar.md)
-- [Capítulo 11 · Sein Vell](014_capitulo-11-sein-vell.md)
-- [Capítulo 12 · Baervan](015_capitulo-12-baervan.md)
-- [Capítulo 13 · Tibbet](016_capitulo-13-tibbet.md)
-- [DEL DIARIO DE LA FAMILIA ÉRANDIUL (XIII)](017_del-diario-de-la-familia-erandiul-xiii.md)
-- [SEGUNDA PARTE: LOS COMANDANTES](018_segunda-parte-los-comandantes.md)
-- [DE LAS CRÓNICAS DE BANDERBILL, LIBRO CUARTO (II)](019_de-las-cronicas-de-banderbill-libro-cuarto-ii.md)
-- [Capítulo 14 · Eluret](020_capitulo-14-eluret.md)
-- [Capítulo 15 · Sein Vell](021_capitulo-15-sein-vell.md)
-- [Capítulo 16 · Ludo Marren](022_capitulo-16-ludo-marren.md)
-- [Capítulo 17 · Tibbet](023_capitulo-17-tibbet.md)
-- [Capítulo 18 · Eluret](024_capitulo-18-eluret.md)
-- [Capítulo 19 · Migyur](025_capitulo-19-migyur.md)
-- [Capítulo 20 · Wenna](026_capitulo-20-wenna.md)
-- [Capítulo 21 · Baervan](027_capitulo-21-baervan.md)
-- [Capítulo 22 · Verawel](028_capitulo-22-verawel.md)
-- [Capítulo 23 · Eluret](029_capitulo-23-eluret.md)
-- [Capítulo 24 · Lanther](030_capitulo-24-lanther.md)
-- [Capítulo 25 · Teo Ruald](031_capitulo-25-teo-ruald.md)
-- [DEL DIARIO DE LA FAMILIA ÉRANDIUL (XIV)](032_del-diario-de-la-familia-erandiul-xiv.md)
-- [TERCERA PARTE: LOS AÑOS DORADOS](033_tercera-parte-los-anos-dorados.md)
-- [DE LAS CRÓNICAS DE BANDERBILL, LIBRO CUARTO (III)](034_de-las-cronicas-de-banderbill-libro-cuarto-iii.md)
-- [Capítulo 26 · Baervan](035_capitulo-26-baervan.md)
-- [Capítulo 27 · Damián Hask](036_capitulo-27-damian-hask.md)
-- [Capítulo 28 · Ithil](037_capitulo-28-ithil.md)
-- [Capítulo 29 · Sein](038_capitulo-29-sein.md)
-- [Capítulo 30 · Hatmie](039_capitulo-30-hatmie.md)
-- [Capítulo 31 · Glokark](040_capitulo-31-glokark.md)
-- [Capítulo 32 · El que anda](041_capitulo-32-el-que-anda.md)
-- [Capítulo 33 · Baervan](042_capitulo-33-baervan.md)
-- [Capítulo 34 · Wenna](043_capitulo-34-wenna.md)
-- [Capítulo 35 · Tomás Hask](044_capitulo-35-tomas-hask.md)
-- [Capítulo 36 · Baervan](045_capitulo-36-baervan.md)
-- [Capítulo 37 · Ithil](046_capitulo-37-ithil.md)
-- [DEL DIARIO DE LA FAMILIA ÉRANDIUL (XV)](047_del-diario-de-la-familia-erandiul-xv.md)
-- [CUARTA PARTE: LA DONCELLA](048_cuarta-parte-la-doncella.md)
-- [DE LAS CRÓNICAS DE BANDERBILL, LIBRO CUARTO (IV)](049_de-las-cronicas-de-banderbill-libro-cuarto-iv.md)
-- [Capítulo 38 · Hatmie](050_capitulo-38-hatmie.md)
-- [Capítulo 39 · Baervan](051_capitulo-39-baervan.md)
-- [Capítulo 40 · Hatmie](052_capitulo-40-hatmie.md)
-- [Capítulo 41 · Hatmie](053_capitulo-41-hatmie.md)
-- [Capítulo 42 · Teo](054_capitulo-42-teo.md)
-- [Capítulo 43 · La que no mira](055_capitulo-43-la-que-no-mira.md)
-- [Capítulo 44 · Ithil](056_capitulo-44-ithil.md)
-- [Capítulo 45 · Almad](057_capitulo-45-almad.md)
-- [Capítulo 46 · Almad](058_capitulo-46-almad.md)
-- [Capítulo 47 · Hatmie](059_capitulo-47-hatmie.md)
-- [Capítulo 48 · La Espada](060_capitulo-48-la-espada.md)
-- [Capítulo 49 · Finderil](061_capitulo-49-finderil.md)
-- [Capítulo 50 · Hatmie](062_capitulo-50-hatmie.md)
-- [DEL DIARIO DE LA FAMILIA ÉRANDIUL (XVI)](063_del-diario-de-la-familia-erandiul-xvi.md)
-- [QUINTA PARTE: EL SEXTO](064_quinta-parte-el-sexto.md)
-- [DE LAS CRÓNICAS DE BANDERBILL, LIBRO CUARTO (V)](065_de-las-cronicas-de-banderbill-libro-cuarto-v.md)
-- [Capítulo 51 · Arispar](066_capitulo-51-arispar.md)
-- [Capítulo 52 · Lanther](067_capitulo-52-lanther.md)
-- [Capítulo 53 · Mirela](068_capitulo-53-mirela.md)
-- [Capítulo 54 · Joel](069_capitulo-54-joel.md)
-- [Capítulo 55 · Nim](070_capitulo-55-nim.md)
-- [Capítulo 56 · Sein](071_capitulo-56-sein.md)
-- [Capítulo 57 · Hatmie](072_capitulo-57-hatmie.md)
-- [Capítulo 58 · Imane](073_capitulo-58-imane.md)
-- [Capítulo 59 · Glokark](074_capitulo-59-glokark.md)
-- [Capítulo 60 · Érandiul](075_capitulo-60-erandiul.md)
-- [Capítulo 61 · El Señor](076_capitulo-61-el-senor.md)
-- [Capítulo 62 · Corin](077_capitulo-62-corin.md)
-- [DEL DIARIO DE LA FAMILIA ÉRANDIUL (XVII)](078_del-diario-de-la-familia-erandiul-xvii.md)
-- [SEXTA PARTE: LOS FRAGMENTOS](079_sexta-parte-los-fragmentos.md)
-- [DE LAS CRÓNICAS DE BANDERBILL, LIBRO CUARTO (VI)](080_de-las-cronicas-de-banderbill-libro-cuarto-vi.md)
-- [Capítulo 63 · Tibbet](081_capitulo-63-tibbet.md)
-- [Capítulo 64 · El ojo amarillo](082_capitulo-64-el-ojo-amarillo.md)
-- [Capítulo 65 · Ilan Hask](083_capitulo-65-ilan-hask.md)
-- [Capítulo 66 · Lanther](084_capitulo-66-lanther.md)
-- [DEL DIARIO DE LA FAMILIA ÉRANDIUL (XVIII)](085_del-diario-de-la-familia-erandiul-xviii.md)
-- [Capítulo 67 · Nesturil](086_capitulo-67-nesturil.md)
-- [Capítulo 68 · Arispar](087_capitulo-68-arispar.md)
-- [Capítulo 69 · Dalbur](088_capitulo-69-dalbur.md)
-- [DEL DIARIO DE LA FAMILIA ÉRANDIUL (XIX)](089_del-diario-de-la-familia-erandiul-xix.md)
-- [Capítulo 70 · Jhark](090_capitulo-70-jhark.md)
-- [Capítulo 71 · Lindos](091_capitulo-71-lindos.md)
-- [Capítulo 72 · Tobin](092_capitulo-72-tobin.md)
-- [Capítulo 73 · Baervan](093_capitulo-73-baervan.md)
-- [DEL DIARIO DE LA FAMILIA ÉRANDIUL (XX)](094_del-diario-de-la-familia-erandiul-xx.md)
-- [EPÍLOGO: FUE](095_epilogo-fue.md)
-- [I. El borde](096_i-el-borde.md)
-- [II. El sótano](097_ii-el-sotano.md)
-- [III. La última entrada](098_iii-la-ultima-entrada.md)
-- [DEL DIARIO DE LA FAMILIA ÉRANDIUL (XXI)](099_del-diario-de-la-familia-erandiul-xxi.md)
-- [APÉNDICES](100_apendices.md)
-- [CRONOLOGÍA DEL LIBRO CUARTO](101_cronologia-del-libro-cuarto.md)
-- [Segunda parte: Los medio hombres (1067–1112)](102_segunda-parte-los-medio-hombres-1067-1112.md)
-- [Tercera parte: El gnomo (1112–1257)](103_tercera-parte-el-gnomo-1112-1257.md)
-- [Quinta parte: El Sexto (1402–1419)](104_quinta-parte-el-sexto-1402-1419.md)
-- [Sexta parte: Los Fragmentos (1419–1439)](105_sexta-parte-los-fragmentos-1419-1439.md)
-- [LA ORDEN EN 1439](106_la-orden-en-1439.md)
-- [LÍNEAS DE SANGRE](107_lineas-de-sangre.md)
-- [Los Larien, cocineros](108_los-larien-cocineros.md)
-- [LOS FRAGMENTOS DE ALKAR EN 1439](109_los-fragmentos-de-alkar-en-1439.md)
-- [LOS OCHO RINCONES](110_los-ocho-rincones.md)
-- [EL *TUM* DEL MURO](111_el-tum-del-muro.md)
-- [GLOSARIO](112_glosario.md)
+- **001. Prólogo · La hoja sin número** — páginas 5–13
+- **002. PRIMERA PARTE: EL ESCUDO** — páginas 14–14
+- **003. De las Crónicas de Banderbill, Libro Cuarto (I)** — páginas 15–21
+- **004. Capítulo 1 · Eluret** — páginas 22–32
+- **005. Capítulo 2 · Corvo Hask** — páginas 33–43
+- **006. Capítulo 3 · Teo Ruald** — páginas 44–52
+- **007. Capítulo 4 · Astragal** — páginas 53–61
+- **008. Capítulo 5 · Selis** — páginas 62–71
+- **009. Capítulo 6 · Wenna** — páginas 72–81
+- **010. Capítulo 7 · Aira Dunmar** — páginas 82–91
+- **011. Capítulo 8 · Dalbur** — páginas 92–102
+- **012. Capítulo 9 · Skarn** — páginas 103–111
+- **013. Capítulo 10 · Aira Dunmar** — páginas 112–121
+- **014. Capítulo 11 · Sein Vell** — páginas 122–131
+- **015. Capítulo 12 · Baervan** — páginas 132–141
+- **016. Capítulo 13 · Tibbet** — páginas 142–151
+- **017. Del Diario de la familia Érandiul (XIII)** — páginas 152–153
+- **018. SEGUNDA PARTE: LOS COMANDANTES** — páginas 154–154
+- **019. De las Crónicas de Banderbill, Libro Cuarto (II)** — páginas 155–160
+- **020. Capítulo 14 · Eluret** — páginas 161–169
+- **021. Capítulo 15 · Sein Vell** — páginas 170–179
+- **022. Capítulo 16 · Ludo Marren** — páginas 180–188
+- **023. Capítulo 17 · Tibbet** — páginas 189–197
+- **024. Capítulo 18 · Eluret** — páginas 198–207
+- **025. Capítulo 19 · Migyur** — páginas 208–216
+- **026. Capítulo 20 · Wenna** — páginas 217–227
+- **027. Capítulo 21 · Baervan** — páginas 228–240
+- **028. Capítulo 22 · Verawel** — páginas 241–250
+- **029. Capítulo 23 · Eluret** — páginas 251–259
+- **030. Capítulo 24 · Lanther** — páginas 260–269
+- **031. Capítulo 25 · Teo Ruald** — páginas 270–277
+- **032. Del Diario de la familia Érandiul (XIV)** — páginas 278–279
+- **033. TERCERA PARTE: LOS AÑOS DORADOS** — páginas 280–280
+- **034. De las Crónicas de Banderbill, Libro Cuarto (III)** — páginas 281–288
+- **035. Capítulo 26 · Baervan** — páginas 289–298
+- **036. Capítulo 27 · Damián Hask** — páginas 299–307
+- **037. Capítulo 28 · Ithil** — páginas 308–319
+- **038. Capítulo 29 · Sein** — páginas 320–330
+- **039. Capítulo 30 · Hatmie** — páginas 331–340
+- **040. Capítulo 31 · Glokark** — páginas 341–348
+- **041. Capítulo 32 · El que anda** — páginas 349–355
+- **042. Capítulo 33 · Baervan** — páginas 356–365
+- **043. Capítulo 34 · Wenna** — páginas 366–375
+- **044. Capítulo 35 · Tomás Hask** — páginas 376–383
+- **045. Capítulo 36 · Baervan** — páginas 384–393
+- **046. Capítulo 37 · Ithil** — páginas 394–404
+- **047. Del Diario de la familia Érandiul (XV)** — páginas 405–408
+- **048. CUARTA PARTE: LA DONCELLA** — páginas 409–409
+- **049. De las Crónicas de Banderbill, Libro Cuarto (IV)** — páginas 410–417
+- **050. Capítulo 38 · Hatmie** — páginas 418–429
+- **051. Capítulo 39 · Baervan** — páginas 430–441
+- **052. Capítulo 40 · Hatmie** — páginas 442–452
+- **053. Capítulo 41 · Hatmie** — páginas 453–463
+- **054. Capítulo 42 · Teo** — páginas 464–473
+- **055. Capítulo 43 · La que no mira** — páginas 474–481
+- **056. Capítulo 44 · Ithil** — páginas 482–494
+- **057. Capítulo 45 · Almad** — páginas 495–503
+- **058. Capítulo 46 · Almad** — páginas 504–512
+- **059. Capítulo 47 · Hatmie** — páginas 513–523
+- **060. Capítulo 48 · La Espada** — páginas 524–532
+- **061. Capítulo 49 · Finderil** — páginas 533–541
+- **062. Capítulo 50 · Hatmie** — páginas 542–551
+- **063. Del Diario de la familia Érandiul (XVI)** — páginas 552–553
+- **064. QUINTA PARTE: EL SEXTO** — páginas 554–554
+- **065. De las Crónicas de Banderbill, Libro Cuarto (V)** — páginas 555–559
+- **066. Capítulo 51 · Arispar** — páginas 560–570
+- **067. Capítulo 52 · Lanther** — páginas 571–581
+- **068. Capítulo 53 · Mirela** — páginas 582–592
+- **069. Capítulo 54 · Joel** — páginas 593–602
+- **070. Capítulo 55 · Nim** — páginas 603–612
+- **071. Capítulo 56 · Sein** — páginas 613–620
+- **072. Capítulo 57 · Hatmie** — páginas 621–632
+- **073. Capítulo 58 · Imane** — páginas 633–645
+- **074. Capítulo 59 · Glokark** — páginas 646–656
+- **075. Capítulo 60 · Érandiul** — páginas 657–665
+- **076. Capítulo 61 · El Señor** — páginas 666–673
+- **077. Capítulo 62 · Corin** — páginas 674–681
+- **078. Del Diario de la familia Érandiul (XVII)** — páginas 682–685
+- **079. SEXTA PARTE: LOS FRAGMENTOS** — páginas 686–686
+- **080. De las Crónicas de Banderbill, Libro Cuarto (VI)** — páginas 687–693
+- **081. Capítulo 63 · Tibbet** — páginas 694–705
+- **082. Capítulo 64 · El ojo amarillo** — páginas 706–714
+- **083. Capítulo 65 · Ilan Hask** — páginas 715–729
+- **084. Capítulo 66 · Lanther** — páginas 730–742
+- **085. Del Diario de la familia Érandiul (XVIII)** — páginas 743–749
+- **086. Capítulo 67 · Nesturil** — páginas 750–762
+- **087. Capítulo 68 · Arispar** — páginas 763–774
+- **088. Capítulo 69 · Dalbur** — páginas 775–787
+- **089. Del Diario de la familia Érandiul (XIX)** — páginas 788–791
+- **090. Capítulo 70 · Jhark** — páginas 792–802
+- **091. Capítulo 71 · Lindos** — páginas 803–813
+- **092. Capítulo 72 · Tobin** — páginas 814–822
+- **093. Capítulo 73 · Baervan** — páginas 823–831
+- **094. Del Diario de la familia Érandiul (XX)** — páginas 832–833
+- **095. EPÍLOGO: FUE** — páginas 834–834
+- **096. I. el borde** — páginas 835–839
+- **097. Ii. el sótano** — páginas 840–845
+- **098. Iii. la última entrada** — páginas 846–847
+- **099. Del Diario de la familia Érandiul (XXI)** — páginas 848–848
+- **100. APÉNDICES** — páginas 849–849
+- **101. Cronología del Libro Cuarto** — páginas 850–855
+- **102. La orden en 1439** — páginas 856–857
+- **103. Líneas de sangre** — páginas 858–860
+- **104. Los fragmentos de alkar en 1439** — páginas 861–861
+- **105. Los ocho rincones** — páginas 862–863
+- **106. El *tum* del muro** — páginas 864–864
+- **107. Glosario** — páginas 865–866

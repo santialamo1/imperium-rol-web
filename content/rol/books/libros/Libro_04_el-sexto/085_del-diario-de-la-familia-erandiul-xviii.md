@@ -1,6 +1,6 @@
 # Del Diario de la familia Érandiul (XVIII)
 
-*Años 1436 y 1437. Copiado tal como está, con la letra de la mano izquierda. Las* *faltas son del original.*
+*Años 1436 y 1437. Copiado tal como está, con la letra de la mano izquierda. Las faltas son del original.*
 
 Año 1436 (o 829 D.bA). Del primer Fragmento de Alkar, el Escudo de Astragal.
 
@@ -14,7 +14,7 @@ Inmediatamente, Daegor ordenó que partiéramos rumbo a Illiandor y luego a Argh
 
 (Escudo de Astragal, primer Fragmento de Alkar)
 
-*(Nota de la copista: esta entrada dice «nos ordenó» y «tardamos». Es verdad.* *Érandiul fue. Tenía mil cuatrocientos años y un caballo que no quería subir cuestas, y se* *fue con Daegor y los treinta porque, dijo, a un gnomo que guarda algo durante trescientos* *años alguien tiene que verlo devolverlo. Volvió con los que fueron a Arghâl. No escribe lo* *que vio en Arghâl. Escribe «miles y miles de muertos» y sigue. «Desapareció con en el* *viento»: la falta es suya. No la corrijo, porque dice algo que la frase correcta no diría. El* *Escudo cuelga ahora en la sala del trono, detrás del trono de roble, a la altura de la* *cabeza del Emperador. Late. Lo he medido con el reloj de arena de la sala del muro: late* *a la vez que el muro. Exactamente a la vez. — M. V.)*
+*(Nota de la copista: esta entrada dice «nos ordenó» y «tardamos». Es verdad. Érandiul fue. Tenía mil cuatrocientos años y un caballo que no quería subir cuestas, y se fue con Daegor y los treinta porque, dijo, a un gnomo que guarda algo durante trescientos años alguien tiene que verlo devolverlo. Volvió con los que fueron a Arghâl. No escribe lo que vio en Arghâl. Escribe «miles y miles de muertos» y sigue. «Desapareció con en el viento»: la falta es suya. No la corrijo, porque dice algo que la frase correcta no diría. El Escudo cuelga ahora en la sala del trono, detrás del trono de roble, a la altura de la cabeza del Emperador. Late. Lo he medido con el reloj de arena de la sala del muro: late a la vez que el muro. Exactamente a la vez. — M. V.)*
 
 ño 1436 (o 829 D.bA). Del segundo Fragmento de Alkar, la Gema de Panbor. Cuenta la historia, que siglos atrás, el Demonio envió a su soldado preferido, Panbor, a que comandara una horda hacia la aún precaria ciudad de Ullathorpe. Las hordas arrasaron fácilmente con la ciudad y Panbor festejó de alegría al ver tanta muerte. Pero en un descuido, un inexperto soldado real atemorizado, tomó su espada y lo atacó por la espalda, causándole un largo corte en su piel. Segundos después, la cabeza del soldado rodó por el suelo, pero la sangre del acólito Panbor cayó sobre el amuleto que portaba el decapitado soldado. Enfadado, el orco tomó el Amuleto, arrancó su Gema y se la entregó al Demonio. Dicen que esa Gema fue la que le otorgó finalmente al señor oscuro la victoria final en Ullathorpe y en otras tantas batallas.
 
@@ -26,7 +26,7 @@ Un espía del Demonio logró escabullirse en el palacio, robó información clav
 
 (Gema de Panbor, segundo Fragmento de Alkar)
 
-*(Nota de la copista: «ño 1436». Se le cayó la A. No la pongo. Érandiul no estuvo en* *las islas; se lo contó el comandante Gloval en el Mesón Hostigado, borracho, la noche que* *volvieron, y Érandiul lo escribió allí mismo, en la barra, por eso se le cayó la A. Dice que* *un espía del Demonio robó información en el palacio. No hizo falta ningún espía. Los* *sabios leen en voz alta. Y dice que se notó al Emperador muy triste. Yo lo vi volver. Se fue* *derecho a la calle del Horno, de noche, sin escolta, y estuvo una hora en la cocina con* *Corin, que dormía. No era la primera nevada. — M. V.)*
+*(Nota de la copista: «ño 1436». Se le cayó la A. No la pongo. Érandiul no estuvo en las islas; se lo contó el comandante Gloval en el Mesón Hostigado, borracho, la noche que volvieron, y Érandiul lo escribió allí mismo, en la barra, por eso se le cayó la A. Dice que un espía del Demonio robó información en el palacio. No hizo falta ningún espía. Los sabios leen en voz alta. Y dice que se notó al Emperador muy triste. Yo lo vi volver. Se fue derecho a la calle del Horno, de noche, sin escolta, y estuvo una hora en la cocina con Corin, que dormía. No era la primera nevada. — M. V.)*
 
 Año 1437 (o 830 D.bA). Del tercer Fragmento de Alkar, la Gema de Migyur. Los sabios de Banderbil habían logrado descifrar un nuevo párrafo del pergamino de los Fragmentos de Alkar. Se trataba sobre la Gema de Migyur. Al parecer, siglos atrás, en las heladas montañas blancas, una criatura de nombre Migyur, cuya procedencia era desconocida, había logrado reunir bajo su égida a cientos de criaturas, inclusive a los temibles Yetis. Allí, en su refugio, se propuso junto a sus acólitos invadir la ciudad de Tiama. El mítico ser poseía un poder increíble que le permitía congelar a todo aquel que lo mirase y su fuerza era capaz de aplastar ejércitos enteros. Ese poder venía de su interior, más precisamente de una Gema mágica que guardaba en el centro de su pecho.
 
@@ -38,7 +38,7 @@ Arispar reflejaba la tristeza misma en sus ojos, otra vez no solo se había perd
 
 (Gema de Migyur, tercer Fragmento de Alkar)
 
-*(Nota de la copista: el soldado que portaba una espada de hielo se llamaba Ilan* *Hask, como su nieto, y era el abuelo del Ilan que yo conocí. La clavó en la nieve en el 846* *y se quedó quieto al lado hasta que la cría se durmió. Murió en el 879. La espada se la dio* *Dalbur. La tiene Dalbur otra vez. Érandiul no nombra a Ilan Hask, que miró quinientos* *siete años un ojo cerrado y murió al lado de la cría con un gato en las rodillas; no lo* *sabía. Lo nombro yo. «Criatura de procedencia desconocida»: era una cría de yeti que* *tenía hambre. Eso tampoco lo sabía nadie. Ahora lo sabe quien lea esto. — M. V.)*
+*(Nota de la copista: el soldado que portaba una espada de hielo se llamaba Ilan Hask, como su nieto, y era el abuelo del Ilan que yo conocí. La clavó en la nieve en el 846 y se quedó quieto al lado hasta que la cría se durmió. Murió en el 879. La espada se la dio Dalbur. La tiene Dalbur otra vez. Érandiul no nombra a Ilan Hask, que miró quinientos siete años un ojo cerrado y murió al lado de la cría con un gato en las rodillas; no lo sabía. Lo nombro yo. «Criatura de procedencia desconocida»: era una cría de yeti que tenía hambre. Eso tampoco lo sabía nadie. Ahora lo sabe quien lea esto. — M. V.)*
 
 Año 1437 (o 830 D.bA). Del cuarto Fragmento de Alkar, la vara de Bredinlo.
 
@@ -52,4 +52,4 @@ La Armada fue fácilmente derrotada ya que el ejército venía de una serie de d
 
 (Vara de Bredinlo, cuarto Fragmento de Alkar)
 
-*(Nota de la copista: «Astragal ha encontrado dos de estos rincones, Eluret ha dado* *lugar con el tercero, Baervan ha encontrado dos más, y Hatmie ha encontrado el sexto y el* *séptimo». Es la cuenta exacta. Érandiul la sacó de mis crónicas, de las de los Vell; es la* *primera vez que el Diario copia a las crónicas en vez de al revés. No dice cómo se abrió el* *portal; dice «gritos y plegarias». Lo abrió una mano. Los que se marcharon al exilio* *fueron tres generales, Halvar, Ostrin y Brisa de Tiama, con mil doscientos hombres; se* *fueron al Sur, a los pueblos, y no a Orac, que es lo que temía la colina. Y los tres puntos* *del final, después de Ullathorpe, los puso él. En cuatrocientas páginas de Diario no los* *había puesto nunca. — M. V.)*
+*(Nota de la copista: «Astragal ha encontrado dos de estos rincones, Eluret ha dado lugar con el tercero, Baervan ha encontrado dos más, y Hatmie ha encontrado el sexto y el séptimo». Es la cuenta exacta. Érandiul la sacó de mis crónicas, de las de los Vell; es la primera vez que el Diario copia a las crónicas en vez de al revés. No dice cómo se abrió el portal; dice «gritos y plegarias». Lo abrió una mano. Los que se marcharon al exilio fueron tres generales, Halvar, Ostrin y Brisa de Tiama, con mil doscientos hombres; se fueron al Sur, a los pueblos, y no a Orac, que es lo que temía la colina. Y los tres puntos del final, después de Ullathorpe, los puso él. En cuatrocientas páginas de Diario no los había puesto nunca. — M. V.)*

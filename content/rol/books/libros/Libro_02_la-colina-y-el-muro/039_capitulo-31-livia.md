@@ -4,7 +4,7 @@
 
 Fue Sein quien le puso nombre al cofre, y por eso se quedó.
 
-Hasta entonces había sido *el arcón de Tobías*, o *lo de Tobías*, o *eso*, dicho con un gesto de la barbilla hacia el rincón de la casa de libros donde estaba, debajo de una manta vieja, con una maceta de geranios encima para que pareciera un mueble. Livia nunca le había dado nombre. Le parecía que ponerle nombre era como ponérselo a un perro: que luego ya no hay manera de echarlo.
+Hasta entonces había sido el arcón de Tobías, o lo de Tobías, o eso, dicho con un gesto de la barbilla hacia el rincón de la casa de libros donde estaba, debajo de una manta vieja, con una maceta de geranios encima para que pareciera un mueble. Livia nunca le había dado nombre. Le parecía que ponerle nombre era como ponérselo a un perro: que luego ya no hay manera de echarlo.
 
 Pero Sein tenía catorce años y un cuaderno, y en el cuaderno había una columna para cada cosa, y cada columna necesitaba un título.
 
@@ -20,11 +20,11 @@ Livia se quedó pensando.
 
 —Ya, pero el arcón no. —Sein frunció el ceño—. El arcón es de Tobías, que lo heredó de su maestro, que lo heredó de la Academia, que lo heredó de… —Se volvió hacia Livia—. ¿De quién?
 
-—De Corvo —dijo Livia—. Él lo hizo. Con sus manos. Lo dice en la primera página. *Este cofre lo hice yo, que no sé hacer cofres, para que nadie quiera robarlo.*
+—De Corvo —dijo Livia—. Él lo hizo. Con sus manos. Lo dice en la primera página. Este cofre lo hice yo, que no sé hacer cofres, para que nadie quiera robarlo.
 
 Sein escribió algo. Lo miró. Lo tachó. Escribió otra cosa.
 
-—*Cofre de Bhargaras II* —leyó—. Porque si pongo *de Corvo* nadie sabe quién es, y si pongo *del Segundo* parece que es el segundo cofre.
+—Cofre de Bhargaras II —leyó—. Porque si pongo de Corvo nadie sabe quién es, y si pongo del Segundo parece que es el segundo cofre.
 
 Lanther, que estaba sentada en el suelo junto a la ventana con las piernas cruzadas y una piedra en la mano, se echó a reír.
 
@@ -84,9 +84,9 @@ Livia la conocía bien. La había leído en voz alta en un valle negro, sobre la
 
 —Esta —dijo Verawel. Señaló una nota pequeña, en tinta casi parda, metida en la esquina de abajo—. Esta no la habías leído.
 
-—La leí. —Livia se inclinó—. *Lo que se da*. Algo de *lo que se da*.
+—La leí. —Livia se inclinó—. Lo que se da. Algo de lo que se da.
 
-—*Lo que se da por voluntad, vuelve* —leyó Verawel—. *Lo que se coge por* *hambre, no.* —Movió el dedo—. Y sigue. Por detrás. Por el otro lado de la hoja. Lo escribió al revés, para que se viera al trasluz.
+—Lo que se da por voluntad, vuelve —leyó Verawel—. Lo que se coge por hambre, no. —Movió el dedo—. Y sigue. Por detrás. Por el otro lado de la hoja. Lo escribió al revés, para que se viera al trasluz.
 
 Cogió la vela. Levantó la hoja. La puso delante de la llama.
 
@@ -96,21 +96,21 @@ Y allí, del revés, como escrito en un espejo, en letras de las Madres, había 
 
 Verawel la leyó despacio. Livia la escribía al mismo tiempo, en limpio, en su cuaderno. Sein la apuntaba en el suyo, a su manera. Lanther escuchaba con los ojos cerrados.
 
-—*Uno* —leyó Verawel—. *Que lo dé quien lleva la sangre del que dijo que no.*
+*—Uno —leyó Verawel—. Que lo dé quien lleva la sangre del que dijo que no.*
 
 —Corvo —dijo Livia.
 
 —Bhargaras II —dijo Sein—. Lo he apuntado así.
 
-—*Dos. Que lo dé porque quiere. No porque se lo pidan. No porque se lo manden.* *Porque quiere.*
+*—Dos. Que lo dé porque quiere. No porque se lo pidan. No porque se lo manden. Porque quiere.*
 
 Lanther abrió los ojos.
 
-—*Tres* —siguió Verawel—. *Que lo dé a otro. Nunca a sí mismo. Quien se lo da a* *sí mismo se lo coge. Y lo que se coge…* —Se detuvo—. *Lo que se coge, ya lo sabes.*
+*—Tres —siguió Verawel—. Que lo dé a otro. Nunca a sí mismo. Quien se lo da a sí mismo se lo coge. Y lo que se coge… —Se detuvo—. Lo que se coge, ya lo sabes.*
 
 —Por hambre —dijo Livia—. No vuelve.
 
-—*Cuatro. Una vez. Como el nombre de dentro. Se da una vez y no se da más. La* *sangre se acuerda.*
+*—Cuatro. Una vez. Como el nombre de dentro. Se da una vez y no se da más. La sangre se acuerda.*
 
 Silencio.
 
@@ -134,7 +134,7 @@ Nadie terminó por ella.
 
 Verawel siguió.
 
-—*Cinco. Lo que se da dura lo que dura la sangre que lo dio. Mientras quede uno* *que la lleve, dura. Cuando no quede ninguno, se acaba. Para todos a la vez.*
+*—Cinco. Lo que se da dura lo que dura la sangre que lo dio. Mientras quede uno que la lleve, dura. Cuando no quede ninguno, se acaba. Para todos a la vez.*
 
 Sein dejó de escribir.
 
@@ -152,7 +152,7 @@ Lanther se quedó muy quieta.
 
 —Y si me muero…
 
-—No te vas a morir —dijo Sein, sin levantar la vista del cuaderno—. Eso ya lo hemos apuntado. Es la primera línea. *Lanther: no se muere.*
+—No te vas a morir —dijo Sein, sin levantar la vista del cuaderno—. Eso ya lo hemos apuntado. Es la primera línea. Lanther: no se muere.
 
 Lanther se rió sin querer. Sein no se rió. Sein no se reía nunca de lo que apuntaba.
 
@@ -168,11 +168,11 @@ Lanther se rió sin querer. Sein no se rió. Sein no se reía nunca de lo que ap
 
 Había una sexta. Verawel tardó en leerla. La tinta estaba corrida, como si hubiera caído agua encima. O lágrimas; Livia lo pensó, y luego se dijo que eso era cosa de novelas, y luego volvió a pensarlo.
 
-—*Seis* —leyó Verawel, muy despacio—. *Con otra sangre…* —Se detuvo. Acercó la vela. Movió la hoja—. *Con otra sangre, al revés.*
+—Seis —leyó Verawel, muy despacio—. Con otra sangre… —Se detuvo. Acercó la vela. Movió la hoja—. Con otra sangre, al revés.
 
 —¿Al revés de qué?
 
-—No lo dice. Solo eso. *Con otra sangre, al revés.* —Verawel bajó la hoja—. Y debajo hay una palabra tachada. Tachada muchas veces. No se lee.
+—No lo dice. Solo eso. Con otra sangre, al revés. —Verawel bajó la hoja—. Y debajo hay una palabra tachada. Tachada muchas veces. No se lee.
 
 Livia cogió la hoja. La miró a la luz. Era cierto: debajo de la sexta regla, un borrón negro, rabioso, como el de alguien que ha escrito algo y se ha arrepentido con todas sus fuerzas. Debajo del borrón, apenas, se veía la curva de una letra. Una sola. Y un punto.
 
@@ -188,7 +188,7 @@ Se miraron.
 
 —No —dijo Verawel.
 
-Sein lo apuntó así, en su cuaderno, con su letra de catorce años, en una columna aparte que tituló *Lo que no sabemos*:
+Sein lo apuntó así, en su cuaderno, con su letra de catorce años, en una columna aparte que tituló Lo que no sabemos:
 
 *Regla 6. Con otra sangre, al revés. No sabemos qué es al revés.*
 
@@ -224,11 +224,13 @@ Lo escribió esa misma noche. Mucho más tarde. Con él dormido en su cama, con 
 
 No del todo.
 
-*Hoy he leído las reglas. Hoy he sabido que la muchacha a la que vi nacer va a vivir* *más que todos nosotros, y que si algún día elige a alguien, ese alguien vivirá lo que viva* *ella, y que si ella se muere se acaba todo, y que con otra sangre es al revés, y que no sé lo* *que es al revés.*
+*Hoy he leído las reglas. Hoy he sabido que la muchacha a la que vi nacer va a vivir más que todos nosotros, y que si algún día elige a alguien, ese alguien vivirá lo que viva ella, y que si ella se muere se acaba todo, y que con otra sangre es al revés, y que no sé lo que es al revés.*
 
-*Hoy he tenido miedo.* *Y luego he dejado de tenerlo un rato.*
+*Hoy he tenido miedo.*
 
-*Tobías decía que hay que escribirlo todo y luego decidir qué guardar. Por amor,* *no por miedo. Esto lo guardo por las dos cosas.*
+*Y luego he dejado de tenerlo un rato.*
+
+*Tobías decía que hay que escribirlo todo y luego decidir qué guardar. Por amor, no por miedo. Esto lo guardo por las dos cosas.*
 
 ---
 
@@ -270,6 +272,6 @@ Y Sein Vell, que acababa de llegar, que estaba en la puerta con el cuaderno cont
 
 Y luego se puso rojo él también, porque había entendido lo de la camisa.
 
-Lo apuntó igual. En la columna de *Lo que no sabemos*. Con un interrogante.
+Lo apuntó igual. En la columna de Lo que no sabemos. Con un interrogante.
 
 Livia se lo tachó, años después. Sein se lo destachó.

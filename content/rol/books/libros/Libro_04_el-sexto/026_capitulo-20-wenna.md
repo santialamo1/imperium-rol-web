@@ -114,7 +114,7 @@ Luego se acordó de quién era. Se le quitó.
 
 Wenna leyó la carta. Despacio.
 
-La firmaban once consejeros. Ocho a favor y tres en contra; los tres en contra habían firmado igual, debajo, con una nota: *en desacuerdo*. La había redactado un consejero que se llamaba Marren. Wenna no sabía quién era. Le sonaba el nombre.
+La firmaban once consejeros. Ocho a favor y tres en contra; los tres en contra habían firmado igual, debajo, con una nota: en desacuerdo. La había redactado un consejero que se llamaba Marren. Wenna no sabía quién era. Le sonaba el nombre.
 
 —El Mercado no ha pagado nunca la décima —dijo Wenna.
 

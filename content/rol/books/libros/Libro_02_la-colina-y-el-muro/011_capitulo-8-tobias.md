@@ -4,7 +4,7 @@
 
 Livia llegó a la casa de libros con el pelo suelto y la falda manchada de barro hasta las rodillas, y Tobías, que la conocía desde que era una niña de nueve años sentada en la cubierta de un barco con un cuaderno de corteza en las manos, supo antes de que abriera la boca que había visto algo que no tenía explicación.
 
-Lo supo porque no se había peinado. Livia Heredicus se peinaba siempre, con una trenza apretada, sin un solo pelo fuera de sitio; se había peinado en la cubierta de la *Tozuda* la mañana después de la Garganta, mientras los demás vomitaban. Ahora tenía una hoja de pino enredada en un mechón.
+Lo supo porque no se había peinado. Livia Heredicus se peinaba siempre, con una trenza apretada, sin un solo pelo fuera de sitio; se había peinado en la cubierta de la Tozuda la mañana después de la Garganta, mientras los demás vomitaban. Ahora tenía una hoja de pino enredada en un mechón.
 
 —Siéntate —le dijo—. Voy a poner agua.
 
@@ -24,7 +24,7 @@ Y se lo contó.
 
 ---
 
-Tobías la escuchó sin interrumpirla, que era otra de las cosas que hacía bien. Livia lo contó todo exactamente, en orden, sin adornos, como si estuviera leyendo un informe. La veta hueca. La piedra que miraba. La figura en el saliente. El manto de sal. El velo. Las trenzas que se movían. La mano que se levantaba hacia el velo. *Anwe.* El estremecimiento al oír *Heredicus*. La montaña callada. *No he venido por ti. Vete.* Los pasos de sal alejándose.
+Tobías la escuchó sin interrumpirla, que era otra de las cosas que hacía bien. Livia lo contó todo exactamente, en orden, sin adornos, como si estuviera leyendo un informe. La veta hueca. La piedra que miraba. La figura en el saliente. El manto de sal. El velo. Las trenzas que se movían. La mano que se levantaba hacia el velo. Anwe. El estremecimiento al oír Heredicus. La montaña callada. No he venido por ti. Vete. Los pasos de sal alejándose.
 
 —Tres y media —dijo al cabo de un rato—. Esta madrugada. Las montañas laten cada tres respiraciones y media. Hace un año eran cinco.
 
@@ -34,7 +34,7 @@ Se levantó. Le crujieron las rodillas. Fue hasta la mesa grande, apartó unos p
 
 Livia cogió la hoja. La desdobló. Leyó en voz baja:
 
-—*Livia. Cuando leas esto, ven a verme. Hay algo en el arcón que tienes que saber* *antes de que yo me olvide de cómo se cuenta.* —Levantó los ojos—. ¿Qué hay en el arcón?
+—Livia. Cuando leas esto, ven a verme. Hay algo en el arcón que tienes que saber antes de que yo me olvide de cómo se cuenta. —Levantó los ojos—. ¿Qué hay en el arcón?
 
 —El fondo —dijo Tobías.
 
@@ -94,7 +94,7 @@ Livia, a su pesar, sonrió.
 
 —Así que dijo que no.
 
-—Así que dijo que no. —Tobías la miró—. *La corona es una deuda. Yo no puedo* *pagarla.* Y la familia, en privado, durante cuatrocientos años, le guardó el número. El Segundo. El emperador que no reinó. Bhargaras II, el que dijo que no. Por eso en la lista oficial no hay Segundo, Livia. Por eso yo tengo que hacer chistes con la numeración. Porque el Segundo es un secreto que solo sabíamos unos cuantos, y yo no tenía derecho a contarlo.
+—Así que dijo que no. —Tobías la miró—. La corona es una deuda. Yo no puedo pagarla. Y la familia, en privado, durante cuatrocientos años, le guardó el número. El Segundo. El emperador que no reinó. Bhargaras II, el que dijo que no. Por eso en la lista oficial no hay Segundo, Livia. Por eso yo tengo que hacer chistes con la numeración. Porque el Segundo es un secreto que solo sabíamos unos cuantos, y yo no tenía derecho a contarlo.
 
 —¿Y ahora sí?
 
@@ -106,7 +106,7 @@ Pasaron la noche con el libro.
 
 Tobías le enseñó lo que sabía, que no era mucho: había tardado once inviernos en traducir las siete piedras del círculo y otros seis en entender la mitad de lo que había escrito Neri. Le enseñó la historia de los clanes libres, los que se negaron a dar su aliento a las Madres. Le enseñó, en una página manchada de cera, al margen de un texto sobre la manera de criar camellos en la estación seca, una nota escrita con la letra de Neri, en lengua de Concordia, subrayada tres veces:
 
-*No le digáis vuestros nombres. A nadie. Ni a los que os quieran. Sobre todo a los* *que os quieran.*
+*No le digáis vuestros nombres. A nadie. Ni a los que os quieran. Sobre todo a los que os quieran.*
 
 —Eso lo escribió cuando nació su hijo —dijo Tobías—. Teodor. El que siguió la línea. Fue la primera vez que alguien de la familia le puso a un niño un nombre secreto. La costumbre del abrigo no viene de Nadia, Livia. Viene de aquí. De esta página. Nadia la conocía, pero no la usó. Neri sí.
 
@@ -116,7 +116,7 @@ Estaba escrito con las dos letras a la vez. La de Corvo y la de Neri, alternánd
 
 —No sé leer eso —dijo Livia.
 
-—Yo tampoco. No todo. —Tobías pasó el dedo por debajo de la palabra—. Esto es *aliento*. Esto es *dar*. Esto es *por voluntad*. Lo demás lo he ido sacando a trozos con la cartilla de Hilde y con el pergamino de Nadia.
+—Yo tampoco. No todo. —Tobías pasó el dedo por debajo de la palabra—. Esto es aliento. Esto es dar. Esto es por voluntad. Lo demás lo he ido sacando a trozos con la cartilla de Hilde y con el pergamino de Nadia.
 
 —¿Y qué dice?
 

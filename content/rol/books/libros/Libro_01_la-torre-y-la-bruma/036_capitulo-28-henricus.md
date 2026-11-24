@@ -22,7 +22,7 @@ Ella había tardado mucho en contestar. Luego lo había abrazado tan fuerte que 
 
 —Porque quien te nombra te tiene. —Se había apartado para mirarlo—. Y porque si alguien se entera de que los oyes, te quemarán.
 
-Henricus tenía cinco años y no entendió casi nada. Pero entendió *te quemarán*, porque en Concordia todos los niños jugaban a Arenar y la bruja, y en el juego, al final, siempre se quemaba a alguien.
+Henricus tenía cinco años y no entendió casi nada. Pero entendió te quemarán, porque en Concordia todos los niños jugaban a Arenar y la bruja, y en el juego, al final, siempre se quemaba a alguien.
 
 Esa noche, su madre le dio un segundo nombre. Uno secreto, en una lengua que él no conocía, que le susurró al oído y le hizo repetir hasta que se le quedó grabado. Le dijo que ese nombre era el de verdad, y que Henricus era solo el que se ponía para salir a la calle, como un abrigo. Le dijo que si alguna vez alguien intentaba llamarlo desde la oscuridad, el abrigo se le caería y él seguiría estando debajo, a salvo.
 

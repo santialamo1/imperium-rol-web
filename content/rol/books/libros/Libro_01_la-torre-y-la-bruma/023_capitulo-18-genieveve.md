@@ -10,7 +10,7 @@ Pero por las noches, a solas en sus aposentos, con la puerta atrancada por dentr
 
 No era frío. Era un vacío. Como si alguien le hubiera sacado algo de dentro, algo que llevaba quince años allí y que había echado raíces en cada vena, y ahora las raíces se secaran una a una y cada una, al secarse, gritara.
 
-*Bebe*, gritaban. *Bebe. Bebe. Tenemos hambre.*
+Bebe, gritaban. Bebe. Bebe. Tenemos hambre.
 
 Genieveve se mordía la mano para no contestar.
 
@@ -66,7 +66,7 @@ Genieveve se miró las manos. No dijo nada.
 
 —¿Cómo te llamas? —preguntó al fin.
 
-La niña tardó en contestar. Luego dijo un nombre que Genieveve no entendió bien, algo que sonaba como *Nadi*, y no dijo nada más. Se dio la vuelta, de cara a la pared, y se puso a cantar en voz muy baja una canción en su lengua. Una canción lenta, triste, que se repetía. Al cabo de un rato, desde otra jaula, otra voz infantil se le unió. Luego otra.
+La niña tardó en contestar. Luego dijo un nombre que Genieveve no entendió bien, algo que sonaba como Nadi, y no dijo nada más. Se dio la vuelta, de cara a la pared, y se puso a cantar en voz muy baja una canción en su lengua. Una canción lenta, triste, que se repetía. Al cabo de un rato, desde otra jaula, otra voz infantil se le unió. Luego otra.
 
 Genieveve se quedó de pie en la puerta de la bodega, con la lámpara en la mano, escuchando cantar a los niños cuyo aliento se bebía, hasta que se le apagó la llama.
 
@@ -134,7 +134,7 @@ No terminó la frase. No hizo falta.
 
 Genieveve miró a los veinte señores. Miró a la Guardia, junto a las columnas: a los veteranos de Hector, a los jóvenes que habían entrado bajo su reinado. Vio, en la tercera columna, a un guardia alto, rubio, de cara cuadrada, que llevaba quince años sin mirarla a los ojos cuando estaba de mal humor y que esa mañana la miraba fijamente. El padre de la niña rubia.
 
-*Tiene miedo*, había dicho Ilse. *De ti.*
+Tiene miedo, había dicho Ilse. De ti.
 
 —¿Qué proponéis, lord Venn?
 
@@ -146,7 +146,7 @@ Genieveve se levantó.
 
 Le costó. Le costó más que el trigésimo segundo combate, más que Olaf Venn, más que nada en su vida. Las piernas no le respondían. El suelo se movía. Bajó el primer escalón y supo, con una certeza helada, que no llegaría al tercero.
 
-Y entonces pensó en Ilse. En el tablero del jardín de los tilos. *Tú eres buena.* Pensó en lo que pasaría con Ilse si la que se sentaba en aquel trono fuera Ranulf Venn, que tenía fama en las cocinas de lo que tenía fama, y cuya primera ley sería sin duda derogar la de la castración. Pensó en las mujeres de las aldeas con su nombre en los altares.
+Y entonces pensó en Ilse. En el tablero del jardín de los tilos. Tú eres buena. Pensó en lo que pasaría con Ilse si la que se sentaba en aquel trono fuera Ranulf Venn, que tenía fama en las cocinas de lo que tenía fama, y cuya primera ley sería sin duda derogar la de la castración. Pensó en las mujeres de las aldeas con su nombre en los altares.
 
 Pensó en los once niños de la bodega, que seguirían en la bodega con ella o sin ella, porque Sahra no iba a soltarlos por mucho que Genieveve muriera. Sahra los vendería a otro. A Ranulf, quizá.
 

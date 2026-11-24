@@ -26,7 +26,7 @@ Con la vela en la mano. Con la cera cayéndole en los dedos. No la notaba.
 
 *Cuídalos.*
 
-Lo había dicho ella. Esa mañana. Al pie de la escalera. *Llévalos, Nim. Cuídalos.* Había mandado a los cuatro a una cabaña en el campo, sin sus guardias, con su escolta, porque le pareció que por fin alguien quería hablar. Porque le pareció que cinco encapuchados que piden una reunión es mejor que cinco encapuchados que no la piden. Porque llevaba quince años con el palacio cerrado y la Armada partida y la colina comprando profecías en el puerto, y cualquier cosa que trajera un poco de paz le parecía mejor que nada.
+Lo había dicho ella. Esa mañana. Al pie de la escalera. Llévalos, Nim. Cuídalos. Había mandado a los cuatro a una cabaña en el campo, sin sus guardias, con su escolta, porque le pareció que por fin alguien quería hablar. Porque le pareció que cinco encapuchados que piden una reunión es mejor que cinco encapuchados que no la piden. Porque llevaba quince años con el palacio cerrado y la Armada partida y la colina comprando profecías en el puerto, y cualquier cosa que trajera un poco de paz le parecía mejor que nada.
 
 Y los había mandado a morir.
 
@@ -44,7 +44,7 @@ Pell no contestó.
 
 No se sorprendió.
 
-Eso fue lo peor. Que no se sorprendió. Que al oír el nombre, algo dentro de ella, algo que llevaba quince años esperando, desde la escalinata, desde *¿tú querrías?*, desde *no* *sé si querría, pero sé que no me partiría*, se quedó quieto. Como se queda uno cuando por fin llega la carta que sabía que iba a llegar.
+Eso fue lo peor. Que no se sorprendió. Que al oír el nombre, algo dentro de ella, algo que llevaba quince años esperando, desde la escalinata, desde ¿tú querrías?, desde no sé si querría, pero sé que no me partiría, se quedó quieto. Como se queda uno cuando por fin llega la carta que sabía que iba a llegar.
 
 *Que venga a pedírmela.*
 
@@ -66,9 +66,9 @@ Se colgó la espada rota de él, en la vaina.
 
 Se colgó la llave.
 
-Sacó el cuaderno de debajo de la tabla del suelo. Lo miró. Lo abrió por la página del 1402. *Hace falta alguien. Alguien fuerte.* Lo cerró. Se lo metió en el bolsillo de la casaca.
+Sacó el cuaderno de debajo de la tabla del suelo. Lo miró. Lo abrió por la página del 1402. Hace falta alguien. Alguien fuerte. Lo cerró. Se lo metió en el bolsillo de la casaca.
 
-Miró la viga. La de Eluret. *Las cosas se quedan donde se ponen.* La mano tallada. Su hache de los doce años. Los tres números.
+Miró la viga. La de Eluret. Las cosas se quedan donde se ponen. La mano tallada. Su hache de los doce años. Los tres números.
 
 *8. No.*
 
@@ -236,7 +236,7 @@ Hatmie no se movió.
 
 Hatmie se quedó quieta en sus brazos mucho rato.
 
-Pensó en la manzana. En ciento sesenta años de manzanas en una ventana. En la torre con luz. En las cuatro notas. En los dos que volvieron de la partida por tierra en el 1257. En el sargento de Tiama, en el Primer Parlamento, preguntando *¿se cumple?*, y en ella diciendo *no*. *No partidos.*
+Pensó en la manzana. En ciento sesenta años de manzanas en una ventana. En la torre con luz. En las cuatro notas. En los dos que volvieron de la partida por tierra en el 1257. En el sargento de Tiama, en el Primer Parlamento, preguntando ¿se cumple?, y en ella diciendo no. No partidos.
 
 Pensó en los cuatro de la cabaña.
 

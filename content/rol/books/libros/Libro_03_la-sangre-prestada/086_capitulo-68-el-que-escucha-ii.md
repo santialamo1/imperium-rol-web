@@ -1,6 +1,6 @@
 # Capítulo 68 · El que escucha (II)
 
-*Visto por Pim. La puerta norte del muro de dentro, en la colina de Banderbill.* *Mediodía del mismo día del año 892.*
+*Visto por Pim. La puerta norte del muro de dentro, en la colina de Banderbill. Mediodía del mismo día del año 892.*
 
 Pim lo vio llegar porque estaba en el tejado de la torre de la puerta norte, y porque desde el 607 no había dejado de mirar hacia donde podía aparecer.
 
@@ -74,7 +74,7 @@ El hombre de gris tardó en contestar.
 
 El hombre de gris no dijo nada.
 
-Pim esperó. Que llegara la pregunta. Que llegara siempre. *¿Qué quieres?* La había oído en el año 300, en la cueva. La había oído en el 606, en la plaza, y había contestado *que te vayas*, y el hombre de gris se lo había guardado, y había sonreído, y no se había ido.
+Pim esperó. Que llegara la pregunta. Que llegara siempre. ¿Qué quieres? La había oído en el año 300, en la cueva. La había oído en el 606, en la plaza, y había contestado que te vayas, y el hombre de gris se lo había guardado, y había sonreído, y no se había ido.
 
 No llegó.
 
@@ -158,7 +158,7 @@ Pim esperó.
 
 —No.
 
-—Tiembla la tierra y miran arriba. Se mueren y miran arriba. Un orco que es mío, que nació en Orac, que me dijo *la colina* cuando le pregunté, deja caer el hacha y mira arriba. —Se le movió la cara. Muchas caras. Deprisa. Luego quieta—. No sé qué hay. No lo he sabido nunca. Y ellos no lo saben tampoco. Lo hacen igual.
+—Tiembla la tierra y miran arriba. Se mueren y miran arriba. Un orco que es mío, que nació en Orac, que me dijo la colina cuando le pregunté, deja caer el hacha y mira arriba. —Se le movió la cara. Muchas caras. Deprisa. Luego quieta—. No sé qué hay. No lo he sabido nunca. Y ellos no lo saben tampoco. Lo hacen igual.
 
 Se quedó callado.
 

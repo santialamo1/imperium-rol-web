@@ -8,7 +8,7 @@ Quinientas setenta y tres personas. De las seiscientas que salieron de la cueva 
 
 Bander las había nombrado a todas.
 
-Fue el último en bajar de la *Tozuda*. Lo hizo despacio, todavía cojeando de la herida del muslo, con Mara de un lado y Livia del otro. Cuando sus pies tocaron la arena, se quedó quieto, mirando a su alrededor.
+Fue el último en bajar de la Tozuda. Lo hizo despacio, todavía cojeando de la herida del muslo, con Mara de un lado y Livia del otro. Cuando sus pies tocaron la arena, se quedó quieto, mirando a su alrededor.
 
 La bahía era hermosa. Bosques de pinos inmensos, más altos que los de Tiber, que subían por las laderas hasta donde empezaba la roca negra. Prados verdes junto al río. Colinas suaves. Una de ellas, la más cercana a la playa, se alzaba sobre el delta como un hombro, con la cumbre redondeada y cubierta de hierba, y desde ella se debía de ver toda la bahía, y el mar, y, en días claros, quizá, muy lejos, hacia el norte...
 
@@ -48,25 +48,25 @@ Bander miró al panadero. Luego miró la colina. La más cercana a la playa. La 
 
 La construyeron en nueve días. Una casa de troncos de pino, con un tejado de juncos del delta y un horno de piedra de río. No era gran cosa. Pero era la primera.
 
-La segunda la construyeron en siete. La tercera en cinco. Al cabo de un mes había veinte casas en la colina, y una empalizada, y un muelle de madera en la playa donde amarraban las galeras de Meridio y la *Tozuda*, y huertos junto al río donde los niños plantaban las semillas que algunas mujeres habían sacado de Concordia en los bolsillos.
+La segunda la construyeron en siete. La tercera en cinco. Al cabo de un mes había veinte casas en la colina, y una empalizada, y un muelle de madera en la playa donde amarraban las galeras de Meridio y la Tozuda, y huertos junto al río donde los niños plantaban las semillas que algunas mujeres habían sacado de Concordia en los bolsillos.
 
 No había nombre. Nadie había pensado en ponérselo.
 
 Fue el tío Gorm quien lo hizo, una noche, en la casa del panadero, delante del horno, con una jarra de algo que había fermentado con bayas del bosque y que olía a demonios.
 
-—En la lengua vieja de los Renod —dijo, alzando la jarra—, la que hablaban mis abuelos en la costa antes de que llegara Hector Tiberius a enseñarnos modales, una colina donde uno se refugia de la tormenta se llama *bill*.
+—En la lengua vieja de los Renod —dijo, alzando la jarra—, la que hablaban mis abuelos en la costa antes de que llegara Hector Tiberius a enseñarnos modales, una colina donde uno se refugia de la tormenta se llama bill.
 
-—¿*Bill*? —repitió Mara, escéptica.
+—¿Bill? —repitió Mara, escéptica.
 
-—*Bill*. Como la colina de mi abuelo, en los fiordos. La colina de Ulvar. *Ulvarbill.* Allí íbamos los niños cuando el mar se ponía feo. —Gorm miró a Bander, que estaba sentado junto al fuego, con Livia dormida contra su hombro—. Esta es la colina de él. Así que...
+—Bill. Como la colina de mi abuelo, en los fiordos. La colina de Ulvar. Ulvarbill. Allí íbamos los niños cuando el mar se ponía feo. —Gorm miró a Bander, que estaba sentado junto al fuego, con Livia dormida contra su hombro—. Esta es la colina de él. Así que...
 
 —No —dijo Bander.
 
-—*Banderbill* —dijo Gorm, ignorándolo.
+—Banderbill —dijo Gorm, ignorándolo.
 
 —No.
 
-—¡*BANDERBILL*! —rugió Gorm, levantando la jarra, y todos los que estaban en la casa del panadero levantaron sus jarras, y gritaron, y se rieron, y Bander se tapó la cara con las manos.
+—¡BANDERBILL! —rugió Gorm, levantando la jarra, y todos los que estaban en la casa del panadero levantaron sus jarras, y gritaron, y se rieron, y Bander se tapó la cara con las manos.
 
 Así se llamó.
 
@@ -130,7 +130,7 @@ Los primeros días no hicieron nada.
 
 Eso no lo cuenta nadie, porque no queda bien, pero es lo que pasó. Quinientas setenta y tres personas sentadas en la arena gris, delante de los barcos, sin moverse. Lloraban. Unos por los veintisiete del mar, otros por los que se habían quedado en Concordia, otros por nada, porque ya no tenían fuerzas para llorar por algo concreto. Las mujeres Mator cocían algas en una olla y nadie se las comía. Los Zelto no afilaban nada. Los niños no jugaban. Gorm, que nunca se callaba, se callaba.
 
-Al cuarto día, Bander fue a la *Tozuda*, bajó a la bodega y subió a cuestas un barril vacío. El mismo. El de la boda. Todavía tenía la mancha de vino del brindis en la tapa.
+Al cuarto día, Bander fue a la Tozuda, bajó a la bodega y subió a cuestas un barril vacío. El mismo. El de la boda. Todavía tenía la mancha de vino del brindis en la tapa.
 
 Lo plantó en mitad de la playa, en la arena mojada, donde lo veía todo el mundo. Se subió encima. Le costó; la herida del costado tiraba.
 
@@ -156,6 +156,6 @@ La escribió Tobías, al dictado, sobre el mismo barril, con la última tinta de
 
 —Es verdad a medias —dijo Bander—. Y una vergüenza no la busca nadie.
 
-Arriba, en mayúsculas, Tobías puso el título que le dijo Mara, porque Bander no quería ponerle ninguno: *LEY DE LA PLAYA*. Firmaron los tres. Bander con una B. Mara con su nombre entero, en letras grandes, como firmaba los recibos del pescado. Tobías con sus iniciales.
+Arriba, en mayúsculas, Tobías puso el título que le dijo Mara, porque Bander no quería ponerle ninguno: LEY DE LA PLAYA. Firmaron los tres. Bander con una B. Mara con su nombre entero, en letras grandes, como firmaba los recibos del pescado. Tobías con sus iniciales.
 
 La hoja no la leyó nadie más en casi mil quinientos años.

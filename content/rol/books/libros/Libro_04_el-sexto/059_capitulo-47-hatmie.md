@@ -1,6 +1,6 @@
 # Capítulo 47 · Hatmie
 
-*Banderbill, la explanada del cuartel y la sala del Consejo. Del año 1395 al 1399 de* *la Nueva Era (788 a 792 D.bA).*
+*Banderbill, la explanada del cuartel y la sala del Consejo. Del año 1395 al 1399 de la Nueva Era (788 a 792 D.bA).*
 
 La idea del Parlamento fue de ella, y fue lo peor que hizo en ciento cuarenta y cinco años.
 
@@ -70,7 +70,7 @@ Tenía mil trescientos ochenta y cinco años y la cara de dieciocho. En ciento c
 
 Lanther la miró.
 
-—La doncella abre y cierra una puerta —dijo—. Lo dices tú. Llevas ciento cuarenta años diciéndolo. *Soy lo que hay mientras.* —Se volvió hacia el sur—. Si les das siete sillas, Hatmie, van a querer saber mientras qué.
+—La doncella abre y cierra una puerta —dijo—. Lo dices tú. Llevas ciento cuarenta años diciéndolo. Soy lo que hay mientras. —Se volvió hacia el sur—. Si les das siete sillas, Hatmie, van a querer saber mientras qué.
 
 Hatmie no dijo nada.
 
@@ -106,7 +106,7 @@ Hablaron de los ascensos. Tardaron tres meses. Se pusieron de acuerdo.
 
 En el octavo mes, el sargento de Tiama, que llevaba cinta, puso encima de la mesa un papel.
 
-*Propuesta. Que la Armada organice una expedición a Orac para averiguar si el* *Supremo Comandante Baervan está vivo, y en ese caso, rescatarlo.*
+*Propuesta. Que la Armada organice una expedición a Orac para averiguar si el Supremo Comandante Baervan está vivo, y en ese caso, rescatarlo.*
 
 ---
 
@@ -132,7 +132,7 @@ Tenía la llave en el pecho. Fría. El cinturón de plata atado con la cuerda. L
 
 *No abras esa puerta hasta que yo te lo diga.*
 
-Lo había dicho él. En la plaza. En el 1256. Con la cara de treinta y uno, con la espada rota, dándole el cinturón. *No abras esa puerta hasta que yo te lo diga. Entonces no* *la abras nunca.*
+Lo había dicho él. En la plaza. En el 1256. Con la cara de treinta y uno, con la espada rota, dándole el cinturón. No abras esa puerta hasta que yo te lo diga. Entonces no la abras nunca.
 
 No se refería a esta puerta.
 
@@ -194,7 +194,7 @@ Hablaron de la paga y no se pusieron de acuerdo. De las guardias y no se pusiero
 
 Hatmie, al fondo, de pie, pensaba en una casa vieja con la tienda tapada con tablas y un sótano con una masa madre.
 
-Pensaba que en cuatro meses de gritos, nadie había dicho una sola vez la palabra *pan*.
+Pensaba que en cuatro meses de gritos, nadie había dicho una sola vez la palabra pan.
 
 Y que eso era bueno.
 
@@ -260,7 +260,7 @@ El soldado tardó en contestar.
 
 Hatmie se fue de la explanada sin decir nada más.
 
-Subió al muro. A la tercera almena. Lanther no estaba; era por la mañana. Se sentó sola, con las piernas colgando, y escuchó el *tum*.
+Subió al muro. A la tercera almena. Lanther no estaba; era por la mañana. Se sentó sola, con las piernas colgando, y escuchó el tum.
 
 Contó.
 

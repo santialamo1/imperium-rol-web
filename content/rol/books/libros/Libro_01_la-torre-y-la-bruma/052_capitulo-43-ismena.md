@@ -80,7 +80,7 @@ Braco dejó de reírse.
 
 —¿Eso dijo?
 
-—Eso dijo. —Ismena lo miró—. *Prométeme que lo entenderás.* ¿No os lo dijo a vos también?
+—Eso dijo. —Ismena lo miró—. Prométeme que lo entenderás. ¿No os lo dijo a vos también?
 
 El emperador no contestó. Pero se llevó la mano al mechón rubio del cuello, y lo apretó, y por un instante pareció un hombre mucho más viejo.
 

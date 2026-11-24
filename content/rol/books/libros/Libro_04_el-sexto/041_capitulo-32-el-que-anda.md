@@ -1,6 +1,6 @@
 # Capítulo 32 · El que anda
 
-*Desde las islas del sur hasta la costa de Oderon. Primavera del año 1256 de la* *Nueva Era (649 D.bA).*
+*Desde las islas del sur hasta la costa de Oderon. Primavera del año 1256 de la Nueva Era (649 D.bA).*
 
 Andar.
 
@@ -8,7 +8,7 @@ Eso primero. Eso siempre. Un pie. El otro. El suelo debajo. El suelo cambia: roc
 
 No se cansa.
 
-Antes se cansaba. Se acuerda de eso. No de cómo era. De que era. Como se acuerda uno de que ha tenido fiebre sin acordarse del calor. Antes, al andar mucho, algo le dolía en las piernas y algo le pedía pararse. Ya no. Se lo dio al de gris. Una mañana, en la explanada, el de gris pasó por la fila y lo miró, y él pensó, sin querer, *no quiero cansarme*, y el de gris se lo quitó.
+Antes se cansaba. Se acuerda de eso. No de cómo era. De que era. Como se acuerda uno de que ha tenido fiebre sin acordarse del calor. Antes, al andar mucho, algo le dolía en las piernas y algo le pedía pararse. Ya no. Se lo dio al de gris. Una mañana, en la explanada, el de gris pasó por la fila y lo miró, y él pensó, sin querer, no quiero cansarme, y el de gris se lo quitó.
 
 Y se quedó con lo que había debajo.
 
@@ -18,7 +18,7 @@ Y se quedó con lo que había debajo.
 
 Tiene un nombre. Lo tenía. Se lo pusieron en una aldea de la costa del sur de Orac, donde hay cabras y una higuera y una madre. Se acuerda de la higuera. De la madre no. De la madre se acuerda de que había una.
 
-Se lo dio también. Eso. Lo de la madre. Una noche, al principio, en el barracón, cuando todavía echaba de menos. El de gris pasó por la puerta y él pensó *no quiero echar* *de menos a nadie*.
+Se lo dio también. Eso. Lo de la madre. Una noche, al principio, en el barracón, cuando todavía echaba de menos. El de gris pasó por la puerta y él pensó no quiero echar de menos a nadie.
 
 Y ya no echa de menos a nadie.
 
@@ -102,7 +102,7 @@ El de delante abre la mano.
 
 Luego suenan las campanas.
 
-Arriba, en la colina. Muchas. Todas a la vez. Un ruido que llega por el aire, por encima de la hierba, por encima de la loma, hasta ellos. Un ruido que es una palabra que dice *peligro*, *peligro*, *peligro*, con bronce.
+Arriba, en la colina. Muchas. Todas a la vez. Un ruido que llega por el aire, por encima de la hierba, por encima de la loma, hasta ellos. Un ruido que es una palabra que dice peligro, peligro, peligro, con bronce.
 
 Él conoce las campanas. Antes las conocía. En la aldea del sur de Orac había una, pequeña, en un poste, que se tocaba cuando venía una tormenta del mar. Se acuerda de que corría. Cuando sonaba. Hacia algún sitio. Hacia alguien.
 
@@ -160,7 +160,7 @@ Y en ese momento él sabe una cosa, de golpe, como se sabe una cosa que estaba g
 
 No dura.
 
-El de delante grita. Una sola palabra, en la lengua de Orac. *Adelante.*
+El de delante grita. Una sola palabra, en la lengua de Orac. Adelante.
 
 Y los pies vuelven a ser del de gris.
 
@@ -182,9 +182,9 @@ Un dedo.
 
 *De la crónica de Corvin Vell, año 1256, al margen:*
 
-*Esta noche, entre los muertos del lado de fuera de la puerta norte, había uno con la* *cara levantada. Era el único. Todos los demás estaban boca abajo, o de lado, como se* *caen los que no miran. Este no. Estaba boca arriba. Con los ojos abiertos. Y sin herida.*
+*Esta noche, entre los muertos del lado de fuera de la puerta norte, había uno con la cara levantada. Era el único. Todos los demás estaban boca abajo, o de lado, como se caen los que no miran. Este no. Estaba boca arriba. Con los ojos abiertos. Y sin herida.*
 
-*Los de la Armada dicen que se paró. En medio de la carga. Que todos pasaron a su* *lado y él se quedó quieto, con la cara levantada hacia la tercera almena, y que no levantó* *el arma, y que alguien de su propio lado lo empujó y se cayó y no se volvió a levantar.*
+*Los de la Armada dicen que se paró. En medio de la carga. Que todos pasaron a su lado y él se quedó quieto, con la cara levantada hacia la tercera almena, y que no levantó el arma, y que alguien de su propio lado lo empujó y se cayó y no se volvió a levantar.*
 
 *No tiene nombre. Nadie sabe cómo se llamaba.*
 

@@ -1,6 +1,6 @@
 # Capítulo 25 · Teo Ruald
 
-*La panadería de los Ruald, calle del Horno. Primavera del año 1112 de la Nueva* *Era (505 D.bA).*
+*La panadería de los Ruald, calle del Horno. Primavera del año 1112 de la Nueva Era (505 D.bA).*
 
 El nuevo pagó el primer martes, y pagó de más, y Teo supo por eso que sabía.
 
@@ -28,7 +28,7 @@ La trastienda era la misma desde el 980. Desde antes. El cuarto sin ventana al l
 
 Baervan se sentó en el taburete. Teo, en el camastro.
 
-—Eluret pagaba cada semana —dijo Teo—. En persona. Durante cuarenta y cinco años. Venía los martes, con la capa de criado, como venía el otro, y dejaba las monedas en el mostrador, y decía *buen martes*, y se iba.
+—Eluret pagaba cada semana —dijo Teo—. En persona. Durante cuarenta y cinco años. Venía los martes, con la capa de criado, como venía el otro, y dejaba las monedas en el mostrador, y decía buen martes, y se iba.
 
 —¿Sabía?
 
@@ -120,7 +120,7 @@ Teo se sentó en el suelo, al lado de la repisa. Con la lámpara. Con la espalda
 
 Y habló con Gorda.
 
-Era una costumbre. Amalia le hablaba. *Venga, gorda. Ya está, gorda.* Cuando Amalia se murió, Teo siguió hablándole, porque le parecía que si la masa dejaba de oír una voz se iba a morir también. Y luego siguió porque sí. Porque era lo único en la casa que tenía más años que él. Porque era lo único en el mundo a quien podía contarle las cosas sin que se las contara a nadie.
+Era una costumbre. Amalia le hablaba. Venga, gorda. Ya está, gorda. Cuando Amalia se murió, Teo siguió hablándole, porque le parecía que si la masa dejaba de oír una voz se iba a morir también. Y luego siguió porque sí. Porque era lo único en la casa que tenía más años que él. Porque era lo único en el mundo a quien podía contarle las cosas sin que se las contara a nadie.
 
 —Ha venido el gnomo —le dijo—. El nuevo. Sabe.
 
@@ -168,7 +168,7 @@ No lo dijo.
 
 Ni a Gorda.
 
-Porque lo que iba a decir era *a menos que alguien de la sangre tenga hijos con* *alguien que también la tenga*, y eso no se le dice ni a una masa madre de mil años en un sótano, de noche, porque es lo que hacían los reyes antiguos, los de antes de Bhargaras, y Teo se acordaba de cómo acabaron.
+Porque lo que iba a decir era a menos que alguien de la sangre tenga hijos con alguien que también la tenga, y eso no se le dice ni a una masa madre de mil años en un sótano, de noche, porque es lo que hacían los reyes antiguos, los de antes de Bhargaras, y Teo se acordaba de cómo acabaron.
 
 ---
 
@@ -192,12 +192,12 @@ Y los dos miraban el humo un momento, antes de seguir.
 
 En el libro de Sein, el centésimo cuadragésimo tercero, en la hoja del 1112, en la columna del haber, hay una línea con la letra pequeña y clara de siempre:
 
-*El Consejo ha votado diecinueve a cero. No había pasado desde el 1067. Haber: un* *gnomo. Haber: un año de pan pagado de una vez. Haber: diecinueve manos.*
+*El Consejo ha votado diecinueve a cero. No había pasado desde el 1067. Haber: un gnomo. Haber: un año de pan pagado de una vez. Haber: diecinueve manos.*
 
 Y en la tercera columna, la de las cosas que no son de nadie, debajo:
 
 *Teo dice que el gnomo lo ha hecho mejor que nosotros. Tiene razón.*
 
-*Teo dice también que la sangre se agua. Que un día no llegará. No lo ha dicho así.* *Lo he oído así.*
+*Teo dice también que la sangre se agua. Que un día no llegará. No lo ha dicho así. Lo he oído así.*
 
 *Lo apunto. No lo olvido.*

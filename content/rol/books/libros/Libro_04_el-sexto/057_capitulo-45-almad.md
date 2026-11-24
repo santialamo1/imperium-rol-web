@@ -24,7 +24,7 @@ No se lo dijo a nadie.
 
 La segunda vez tenía ocho años.
 
-Fue de noche. Se había escapado de la casa de arriba, de la cocina, donde dormía con su madre en un catre al lado del fogón, porque había oído a la señora Ruald decirle a su madre que el niño comía demasiado. No lo había dicho mal. Lo había dicho riéndose, con un pastel en la mano, *este niño se va a comer la casa, Lia*. Pero su madre se había puesto roja. Y esa noche, en el catre, le había dicho a Almad que tenía que comer menos delante de los señores.
+Fue de noche. Se había escapado de la casa de arriba, de la cocina, donde dormía con su madre en un catre al lado del fogón, porque había oído a la señora Ruald decirle a su madre que el niño comía demasiado. No lo había dicho mal. Lo había dicho riéndose, con un pastel en la mano, este niño se va a comer la casa, Lia. Pero su madre se había puesto roja. Y esa noche, en el catre, le había dicho a Almad que tenía que comer menos delante de los señores.
 
 Almad no lloró. No lloraba nunca. Se levantó cuando su madre se durmió y bajó por la colina, de noche, descalzo, sin saber adónde, y llegó a la calle del Horno porque era la única calle de la colina que conocía de noche, y se metió en el callejón de los Cubos porque allí no había nadie.
 
@@ -62,7 +62,7 @@ A mitad de camino, las voces se entendieron.
 
 Y todos se rieron. Bajito. Como si fuera una broma vieja.
 
-Almad no se movió. Estaba en el agujero, en diagonal, con la cabeza hacia abajo, con la sangre bajándole a la cara. No sabía qué era *que conste*. No sabía quién era Pía Ruald. Sabía quién era Bruno: el viejo de la barba blanca que se sentaba en el patio de arriba al sol y que se quitaba el sombrero cuando pasaba la doncella.
+Almad no se movió. Estaba en el agujero, en diagonal, con la cabeza hacia abajo, con la sangre bajándole a la cara. No sabía qué era que conste. No sabía quién era Pía Ruald. Sabía quién era Bruno: el viejo de la barba blanca que se sentaba en el patio de arriba al sol y que se quitaba el sombrero cuando pasaba la doncella.
 
 —¿Y el chico? —dijo la mujer seca.
 
@@ -88,7 +88,7 @@ Silencio.
 
 Almad no entendió nada.
 
-No entendió *cuánta tiene*. No entendió *si hiciera falta*. Sabía quién era Corin: el hijo de los señores, el de once años, el que tenía una espada de madera con empuñadura de plata y que le había pegado una vez, sin querer, jugando, y luego le había dado la mitad de su pastel para que no llorara, y Almad no había llorado pero se había comido el pastel.
+No entendió cuánta tiene. No entendió si hiciera falta. Sabía quién era Corin: el hijo de los señores, el de once años, el que tenía una espada de madera con empuñadura de plata y que le había pegado una vez, sin querer, jugando, y luego le había dado la mitad de su pastel para que no llorara, y Almad no había llorado pero se había comido el pastel.
 
 Corin miraba el humo. Era verdad. Almad lo veía cada mañana desde la cocina. El chico salía a la terraza en camisa, con frío, y se quedaba quieto, con la cara levantada, mirando la chimenea del horno de arriba.
 
@@ -100,7 +100,7 @@ No le parecía que hubiera nada que mirar.
 
 Se quedó en el agujero hasta que se fueron.
 
-Tardaron mucho. Hablaron de muchas cosas que no entendió. De un hielo. De una torre con una ventana. De un drow. De un libro que no se tenía que escribir. De la doncella, que estaba allí, que hablaba poco, que tenía una voz de chica aunque era vieja. De algo que estaba abajo y que había que oír y decirle *vete*.
+Tardaron mucho. Hablaron de muchas cosas que no entendió. De un hielo. De una torre con una ventana. De un drow. De un libro que no se tenía que escribir. De la doncella, que estaba allí, que hablaba poco, que tenía una voz de chica aunque era vieja. De algo que estaba abajo y que había que oír y decirle vete.
 
 Y de un nombre.
 
@@ -120,17 +120,17 @@ El gnomo llevaba ciento veinticuatro años muerto.
 
 Eso decía todo el mundo.
 
-Pero la mujer seca, en el sótano, había dicho *se acaba la de Baervan*. Como si hubiera una. Como si todavía no se hubiera acabado.
+Pero la mujer seca, en el sótano, había dicho se acaba la de Baervan. Como si hubiera una. Como si todavía no se hubiera acabado.
 
 ---
 
 Volvió.
 
-Cada vez que había voces. No sabía cuándo iba a haberlas; no había día fijo. Aprendió a saberlo por la casa de arriba: cuando el tío viejo subía por la tarde a hablar con su madre y le decía *esta noche no bajes a por la masa, Lia, que hay poca*, había voces. Siempre. Esa noche Almad se escapaba del catre, bajaba por la colina, quitaba la rejilla, y se metía.
+Cada vez que había voces. No sabía cuándo iba a haberlas; no había día fijo. Aprendió a saberlo por la casa de arriba: cuando el tío viejo subía por la tarde a hablar con su madre y le decía esta noche no bajes a por la masa, Lia, que hay poca, había voces. Siempre. Esa noche Almad se escapaba del catre, bajaba por la colina, quitaba la rejilla, y se metía.
 
 Aprendió los nombres.
 
-La mujer seca era Lanther. La pelirroja. La que se sentaba en la tercera almena y a la que los soldados saludaban sin que ella los mirase. No lo supo por la voz; lo supo una tarde, en el muro, cuando ella le dijo a otro soldado *vete a dormir* y era la misma voz.
+La mujer seca era Lanther. La pelirroja. La que se sentaba en la tercera almena y a la que los soldados saludaban sin que ella los mirase. No lo supo por la voz; lo supo una tarde, en el muro, cuando ella le dijo a otro soldado vete a dormir y era la misma voz.
 
 La voz suave era Sein. El bibliotecario. El que tenía cara de chico y gafas. El de los libros que no tenía que escribir.
 
@@ -138,7 +138,7 @@ La voz de vieja era la doncella. Hatmie. Que no era vieja de voz; era vieja de l
 
 La que se reía era Mirela. La cronista. La que tenía la cara de treinta y un años y que había escrito una crónica que Almad no había leído porque no sabía leer.
 
-El tío viejo era Teo. Que le daba un trozo de pan con aceite cada mañana cuando bajaba a por la masa, y le revolvía el pelo, y le decía *come, que creces*.
+El tío viejo era Teo. Que le daba un trozo de pan con aceite cada mañana cuando bajaba a por la masa, y le revolvía el pelo, y le decía come, que creces.
 
 El tío viejo estaba en el sótano también.
 
@@ -152,7 +152,7 @@ Eso no lo sabía nadie. Ni su madre. Aprendió en la escalera de la biblioteca, 
 
 Escribió lo que oía.
 
-En un cuaderno que robó del almacén de la sal. Por la noche. En el catre, con la vela que su madre dejaba encendida para el fogón. Escribió los nombres. Lanther. Sein. Hatmie. Mirela. Teo. Escribió *Corin. El que más tiene.* Escribió *Baervan. Si se acaba la* *sangre.* Escribió *Gorda* y lo tachó, porque no sabía si era una persona o la masa.
+En un cuaderno que robó del almacén de la sal. Por la noche. En el catre, con la vela que su madre dejaba encendida para el fogón. Escribió los nombres. Lanther. Sein. Hatmie. Mirela. Teo. Escribió Corin. El que más tiene. Escribió Baervan. Si se acaba la sangre. Escribió Gorda y lo tachó, porque no sabía si era una persona o la masa.
 
 Escribió con miedo. No sabía que había otra forma.
 

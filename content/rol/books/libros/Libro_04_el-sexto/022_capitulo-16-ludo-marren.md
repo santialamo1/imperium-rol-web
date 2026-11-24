@@ -1,6 +1,6 @@
 # Capítulo 16 · Ludo Marren
 
-*La posada de Joss, en Ullathorpe, y el camino del sur. Otoño del año 1067 y otoño* *del 1070 de la Nueva Era (460 y 463 D.bA).*
+*La posada de Joss, en Ullathorpe, y el camino del sur. Otoño del año 1067 y otoño del 1070 de la Nueva Era (460 y 463 D.bA).*
 
 El hombre de gris pagaba siempre la segunda ronda, y nunca la primera.
 
@@ -48,7 +48,7 @@ Ludo se rio.
 
 —Es lo mismo. —El hombre de gris dejó el vaso—. Mire. Usted, por ejemplo. ¿Qué quiere usted?
 
-Ludo iba a decir *dinero*. Era lo que decía siempre. Lo tenía en la boca.
+Ludo iba a decir dinero. Era lo que decía siempre. Lo tenía en la boca.
 
 Dijo otra cosa.
 
@@ -64,7 +64,7 @@ El hombre de gris asintió. Despacio. Como quien apunta algo.
 
 Le habló durante tres noches.
 
-Del Emperador muerto, que no tenía hijos. Del trono vacío. De los dos que habían ido ya a la colina con papeles y con niños, y de cómo los habían echado. De que en la colina había gente buscando la sangre de Bhargaras con una desesperación que el hombre de gris dijo que *olía desde aquí*. De que esa gente no quería el trono. Quería otra cosa. Quería alguien de la sangre que les diera algo.
+Del Emperador muerto, que no tenía hijos. Del trono vacío. De los dos que habían ido ya a la colina con papeles y con niños, y de cómo los habían echado. De que en la colina había gente buscando la sangre de Bhargaras con una desesperación que el hombre de gris dijo que olía desde aquí. De que esa gente no quería el trono. Quería otra cosa. Quería alguien de la sangre que les diera algo.
 
 —¿El qué? —preguntó Ludo.
 
@@ -116,7 +116,7 @@ Ludo se quedó parado. No le había oído decir eso nunca.
 
 Y le enseñó cómo.
 
-Le enseñó la barbilla un poco levantada. Los ojos quietos. La boca entreabierta. Las manos en las rodillas. Le enseñó durante una noche entera, en la posada vacía, con la vela, como un maestro de baile. *Más arriba. No tanto. Los ojos más quietos. No sonría. Ellos no* *sonríen.*
+Le enseñó la barbilla un poco levantada. Los ojos quietos. La boca entreabierta. Las manos en las rodillas. Le enseñó durante una noche entera, en la posada vacía, con la vela, como un maestro de baile. Más arriba. No tanto. Los ojos más quietos. No sonría. Ellos no sonríen.
 
 Ludo lo aprendió. Era su oficio.
 

@@ -4,7 +4,7 @@
 
 Volvió a casa para contarlo todo, y no quedaba nadie a quien contárselo.
 
-Lo había ensayado por el camino. Once días de camino, desde la colina hasta la loma del árbol, a pie, sin la mula, porque Tozuda se había negado en redondo a salir de la cuadra del cuartel y él no había tenido valor para discutir con ella. Once días ensayando. *He vivido entre ellos. He comido su pan. He ido a su guerra. He visto morir a su rey. He* *visto lo que hay debajo de las montañas. Las sin cara no son lo que decía la abuela. No* *muerden. Guardan.* Lo decía en voz alta, a los árboles, en su lengua, y los árboles le contestaban con su murmullo de siempre, y él cambiaba una palabra aquí y otra allá, como quien pule una piedra con el pulgar.
+Lo había ensayado por el camino. Once días de camino, desde la colina hasta la loma del árbol, a pie, sin la mula, porque Tozuda se había negado en redondo a salir de la cuadra del cuartel y él no había tenido valor para discutir con ella. Once días ensayando. He vivido entre ellos. He comido su pan. He ido a su guerra. He visto morir a su rey. He visto lo que hay debajo de las montañas. Las sin cara no son lo que decía la abuela. No muerden. Guardan. Lo decía en voz alta, a los árboles, en su lengua, y los árboles le contestaban con su murmullo de siempre, y él cambiaba una palabra aquí y otra allá, como quien pule una piedra con el pulgar.
 
 *Abuela, me equivoqué. Mirar sin tocar no basta.*
 
@@ -60,9 +60,9 @@ Y cuando acabaron de cortar y de quemar, cuando se fueron, se había muerto de m
 
 Le cerró los ojos.
 
-No pudo decirle la frase. *Abuela, me equivoqué. Mirar sin tocar no basta.* La tenía en la garganta. No le salió. Le pareció cruel, de pronto. Decírsela ahora. A ella. Que había mirado hasta morirse.
+No pudo decirle la frase. Abuela, me equivoqué. Mirar sin tocar no basta. La tenía en la garganta. No le salió. Le pareció cruel, de pronto. Decírsela ahora. A ella. Que había mirado hasta morirse.
 
-Le dijo otra cosa, en su lengua, bajito, con la palabra que se usaba para los muertos. *El sitio donde los árboles no saben tu nombre.*
+Le dijo otra cosa, en su lengua, bajito, con la palabra que se usaba para los muertos. El sitio donde los árboles no saben tu nombre.
 
 Y luego, sin saber por qué —porque lo había visto hacer cien veces en la colina, en la fuente, la víspera del día más corto—, le dijo su nombre. El de dentro. El que solo se dice una vez.
 
@@ -106,7 +106,7 @@ Nadie contestó.
 
 Él no dijo nada tampoco. Pero pensó en el valle negro. En el agujero. En la cosa que había estado despierta una mañana entera, hambrienta, gritando por debajo de la piedra, hasta que un muchacho de veintidós años bajó a taparla con su pecho.
 
-*Las sin cara bajarían de las montañas*, decía la abuela.
+Las sin cara bajarían de las montañas, decía la abuela.
 
 Y quizá no fueran las únicas que oyeron el grito.
 
@@ -174,7 +174,7 @@ Al sur, lejos, más allá del bosque. Una columna gris. Luego otra. Luego, por l
 
 El octavo día oyeron los tambores.
 
-No sabían que eran tambores. No tenían tambores en su pueblo. Era un ruido sordo, rítmico, que venía de detrás, de los bosques, de muy lejos, y que se notaba más en los pies que en los oídos. *Bum. Bum. Bum.* Como un corazón enorme latiendo debajo de la tierra.
+No sabían que eran tambores. No tenían tambores en su pueblo. Era un ruido sordo, rítmico, que venía de detrás, de los bosques, de muy lejos, y que se notaba más en los pies que en los oídos. Bum. Bum. Bum. Como un corazón enorme latiendo debajo de la tierra.
 
 Apretaron el paso.
 
@@ -322,17 +322,17 @@ Y se volvió hacia la ciudad, con la piedra en las manos, y levantó la voz para
 
 Esa noche, desde su casa pequeña cerca del palacio, que seguía siendo suya porque había pagado el alquiler de un año entero antes de irse, Érandiul abrió el cuaderno de corteza que llevaba escribiendo desde el año veintisiete y escribió, a la luz de una vela, en su lengua, con las letras de su pueblo:
 
-*Éste fue el día en que los elfos y los humanos se conocieron. Creo que es un día* *que quedará para siempre en la memoria de ambos pueblos.*
+*Éste fue el día en que los elfos y los humanos se conocieron. Creo que es un día que quedará para siempre en la memoria de ambos pueblos.*
 
 Lo leyó. Le pareció solemne. Le pareció bonito. Le pareció un poco mentira.
 
-No escribió que los humanos se los habían quedado mirando como a fantasmas. No escribió que un soldado había dejado caer la espada. No escribió que la muchacha de las piedras le había dicho *ya lo sabía*. No escribió que la nieve caía y la gente lloraba y que una niña con una cesta se había acercado a su prima y le había dado un pan sin decir nada. No escribió nada de su abuela.
+No escribió que los humanos se los habían quedado mirando como a fantasmas. No escribió que un soldado había dejado caer la espada. No escribió que la muchacha de las piedras le había dicho ya lo sabía. No escribió que la nieve caía y la gente lloraba y que una niña con una cesta se había acercado a su prima y le había dado un pan sin decir nada. No escribió nada de su abuela.
 
 Pensó en añadirlo. Tenía la pluma mojada.
 
 No lo añadió.
 
-*Lo escribo todo*, había dicho la mujer de la tinta en la nariz, la de las letras, la que según la princesa se iba a enamorar de Verawel. *Y luego decido qué guardo.*
+Lo escribo todo, había dicho la mujer de la tinta en la nariz, la de las letras, la que según la princesa se iba a enamorar de Verawel. Y luego decido qué guardo.
 
 Él no. Él no lo escribía todo. Lo guardaba antes de escribirlo.
 

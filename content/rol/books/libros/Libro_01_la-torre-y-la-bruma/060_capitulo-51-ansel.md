@@ -50,7 +50,7 @@ Suspiró. Se apuntó eso también.
 
 La ceremonia era sencilla. Lexandra la había diseñado así.
 
-Diez años antes, al firmar el pacto, la Madre Ysh-Neva se había negado a jurar sobre la Sal Negra. *Mi pueblo no jura sobre la piedra que bebe almas*, había dicho. *Ya* *tenemos bastante con la bruma.* Lexandra lo había aceptado, contra la opinión de todo el Consejo. Y en su lugar habían acordado esto: una vez cada diez años, la Madre de los libres bajaría a la cripta con su gente, y se pondría delante de la piedra, sin tocarla, y diría en voz alta, en su lengua, los nombres de los eufesios muertos por el Imperio. Y la emperatriz diría después los nombres de los imperiales muertos por la bruma. Y luego se darían la mano.
+Diez años antes, al firmar el pacto, la Madre Ysh-Neva se había negado a jurar sobre la Sal Negra. Mi pueblo no jura sobre la piedra que bebe almas, había dicho. Ya tenemos bastante con la bruma. Lexandra lo había aceptado, contra la opinión de todo el Consejo. Y en su lugar habían acordado esto: una vez cada diez años, la Madre de los libres bajaría a la cripta con su gente, y se pondría delante de la piedra, sin tocarla, y diría en voz alta, en su lengua, los nombres de los eufesios muertos por el Imperio. Y la emperatriz diría después los nombres de los imperiales muertos por la bruma. Y luego se darían la mano.
 
 Nada más. Ningún juramento. Ninguna sangre. Solo nombres.
 
@@ -78,7 +78,7 @@ Lo entendió con los planos de la torre extendidos en el suelo de la biblioteca,
 
 Pero la otra mitad hablaba de la piedra.
 
-*La piedra no distingue*, había escrito Lisandro, en la página ciento cuarenta y tres. *No sabe quién jura ni por qué. Solo sabe si hay sangre en las manos y hierro escondido* *cuando se habla de paz delante de ella. Mi padre cree que juzga. No juzga. Cuenta. El que* *esconde un arma delante de la Sal Negra mientras se pronuncian palabras de concordia,* *cae gris. Da igual que haya jurado o no. Da igual que sepa que lleva el arma.*
+*La piedra no distingue, había escrito Lisandro, en la página ciento cuarenta y tres. No sabe quién jura ni por qué. Solo sabe si hay sangre en las manos y hierro escondido cuando se habla de paz delante de ella. Mi padre cree que juzga. No juzga. Cuenta. El que esconde un arma delante de la Sal Negra mientras se pronuncian palabras de concordia, cae gris. Da igual que haya jurado o no. Da igual que sepa que lleva el arma.*
 
 *Da igual que sepa que lleva el arma.*
 
@@ -190,7 +190,7 @@ Ansel bajó a la cripta tres veces más aquel invierno, solo, con una vela y una
 
 Lo dibujó. Lo midió. Escribió un informe de once páginas que nadie leyó, salvo Lexandra, y luego Yaakov, y luego nadie durante ciento ochenta años.
 
-Lo guardó en el arcón de las notas de Lisandro, en la biblioteca de la planta doce, con una anotación al margen: *Para quien necesite salir.*
+Lo guardó en el arcón de las notas de Lisandro, en la biblioteca de la planta doce, con una anotación al margen: Para quien necesite salir.
 
 Lo encontraría, en el año cuatrocientos once, un emperador llamado Haltair Bhargaras, el Amable, que también se perdía en el palacio y que buscaba otra cosa.
 

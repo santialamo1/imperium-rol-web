@@ -1,6 +1,6 @@
 # Capítulo 6 · Wenna
 
-*El Mercado del valle negro y los fiordos del norte de Oderon. Primavera del año* *1003 de la Nueva Era (396 D.bA).*
+*El Mercado del valle negro y los fiordos del norte de Oderon. Primavera del año 1003 de la Nueva Era (396 D.bA).*
 
 El Guardián tenía un pájaro en la cabeza.
 
@@ -60,7 +60,7 @@ Wenna dejó de pelar castañas.
 
 —¿Y qué?
 
-—Que en todos los demás sí pone. En los cuatrocientos noventa y siete. *Entró tal* *día, marcado, salió tal día.* Tres días, cuatro, una semana. Es lo que se tardaba en marcar y curar. —Astragal puso el dedo en el legajo—. Marta de los Pozos entró la víspera. Al día siguiente vino Odelia a cantar. Tres días cantando. Y luego el Rincón se olvidó de sí mismo.
+—Que en todos los demás sí pone. En los cuatrocientos noventa y siete. Entró tal día, marcado, salió tal día. Tres días, cuatro, una semana. Es lo que se tardaba en marcar y curar. —Astragal puso el dedo en el legajo—. Marta de los Pozos entró la víspera. Al día siguiente vino Odelia a cantar. Tres días cantando. Y luego el Rincón se olvidó de sí mismo.
 
 —Con ella dentro.
 
@@ -152,7 +152,7 @@ Leyó el último.
 
 —Marta de los Pozos. Robo de sal. Año 613. Veintiséis años.
 
-Y luego, sin cerrar el legajo, sin levantarse, se inclinó hacia la puerta, que ahora era una puerta, con su marco de hierro y su argolla y sus letras gastadas, *RINCÓN DE LOS* *FIORDOS*, y dijo, muy bajo, hacia abajo:
+Y luego, sin cerrar el legajo, sin levantarse, se inclinó hacia la puerta, que ahora era una puerta, con su marco de hierro y su argolla y sus letras gastadas, RINCÓN DE LOS FIORDOS, y dijo, muy bajo, hacia abajo:
 
 —Marta. Te estamos buscando. Ha pasado mucho tiempo.
 
@@ -222,7 +222,7 @@ No había cambiado. Pero se quedó mucho rato con los dedos encima, sintiendo la
 
 —Te oigo —le dijo Wenna.
 
-No le dijo *vete*. A ese no. A ese nunca se lo decía.
+No le dijo vete. A ese no. A ese nunca se lo decía.
 
 ---
 
@@ -240,8 +240,8 @@ Sein dejó la pluma.
 
 Luego la cogió y escribió:
 
-*Segundo Rincón. Los fiordos. Abierto por el Emperador con los nombres. Sin Vara.* *Una viva: Marta de los Pozos. Al Mercado.*
+*Segundo Rincón. Los fiordos. Abierto por el Emperador con los nombres. Sin Vara. Una viva: Marta de los Pozos. Al Mercado.*
 
-Y en la tercera columna: *Lo que se olvida no se muere. Se queda esperando a que alguien diga su nombre.*
+*Y en la tercera columna: Lo que se olvida no se muere. Se queda esperando a que alguien diga su nombre.*
 
 *Apuntarlo para cuando me haga falta.*

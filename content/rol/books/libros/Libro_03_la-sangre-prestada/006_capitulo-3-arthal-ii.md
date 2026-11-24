@@ -2,7 +2,7 @@
 
 *El palacio de Banderbill. Otoño del año 503 de la Nueva Era.*
 
-El Emperador de Banderbill tenía una norma, y era la única que había escrito de su puño y letra y mandado clavar en la puerta del comedor pequeño: *Que nadie me hable de* *guerras antes del postre.*
+El Emperador de Banderbill tenía una norma, y era la única que había escrito de su puño y letra y mandado clavar en la puerta del comedor pequeño: Que nadie me hable de guerras antes del postre.
 
 La había escrito en el 418, el primer año de su reinado, a los dieciocho años, después de una cena en la que el capitán general de la Armada le había explicado durante cuarenta minutos, con un mapa de mantel y unas migas de pan, por qué había que invadir las colinas peladas del suroeste antes del verano, y Arthal había tenido que comerse el cordero frío, y el cordero frío le daba ardor.
 
@@ -100,7 +100,7 @@ El Emperador dejó la copa. Se pasó la mano por el pelo, por encima de la oreja
 
 El Emperador lo miró. Mucho rato. Al hombre de cuarenta años de cara, con gafas de gnomo, que había cenado con su padre, y con su abuelo, y con el padre de su abuelo, y que tenía, en las sienes, dos canas que Arthal había visto ya a los seis años y que no habían crecido ni se habían caído.
 
-Lo sabía. Lo había sabido siempre, a medias, como se saben las cosas de la familia que nadie cuenta: con el estómago. Su madre se lo había dicho una noche, en élfico, en voz baja, la noche antes de morirse: *hay gente en la colina que no se muere, hijo. No les* *preguntes. Escúchalos.*
+Lo sabía. Lo había sabido siempre, a medias, como se saben las cosas de la familia que nadie cuenta: con el estómago. Su madre se lo había dicho una noche, en élfico, en voz baja, la noche antes de morirse: hay gente en la colina que no se muere, hijo. No les preguntes. Escúchalos.
 
 No le preguntó.
 
@@ -184,7 +184,7 @@ Y luego, porque no podía evitarlo, porque era hijo de su madre:
 
 La patrulla fue. Doce soldados, sin armas a la vista, con una capitana joven de la casa Hask que se llamaba Oda y que volvió a los cuatro días con seis quesos, un cordero, un saco de higos secos y un informe de dos líneas.
 
-*Pastores. Gente amable. Ochenta y tres casas. Una charca. Nadie lleva armas. Los* *niños no lloran. No hemos oído nada.*
+*Pastores. Gente amable. Ochenta y tres casas. Una charca. Nadie lleva armas. Los niños no lloran. No hemos oído nada.*
 
 El Emperador leyó el informe dos veces. La última línea, tres.
 
@@ -192,7 +192,9 @@ Lo dobló. Se lo dio al mayordomo para que lo llevara a la biblioteca, a la mesa
 
 El señor Vell lo leyó, según contó años después Ilse Vell, que estaba barriendo, sin quitarse las gafas. Luego cogió el libro de cuentas y apuntó, debajo de la fecha:
 
-*Ha mandado a escuchar.* *Que conste: es hijo de su madre.*
+*Ha mandado a escuchar.*
+
+*Que conste: es hijo de su madre.*
 
 Y luego, más abajo, con la letra más pequeña, en la columna de la izquierda:
 

@@ -82,7 +82,7 @@ Desembarcaron en la costa del noreste, de noche, a una legua de la colina, donde
 
 No por el puerto. El puerto tenía campanas, y la Armada, desde el 1417, desde el balcón, desde que el grande se había puesto debajo, era otra vez una. Siete mil quinientos. Juntos. Sin cintas. Sin cuerdas. Con un hombre que no se reía mandando desde un palacio abierto.
 
-Glokark lo sabía. Lo sabía todo Orac. Lo había dicho el Señor, en la sala de los escribas, con la cara contenta: *Se ha puesto debajo. Como en la comedia. Y ahora la colina* *está de pie. Toda. Juntos.* Se había reído. *Durante un tiempo.*
+Glokark lo sabía. Lo sabía todo Orac. Lo había dicho el Señor, en la sala de los escribas, con la cara contenta: Se ha puesto debajo. Como en la comedia. Y ahora la colina está de pie. Toda. Juntos. Se había reído. Durante un tiempo.
 
 Así que no fueron por el puerto.
 
@@ -168,7 +168,7 @@ Y en el humo, arriba, una gaviota.
 
 Glokark la miró.
 
-Pensó en la torre del muelle. En una ventana que solo daba al cielo. En un gnomo que le contaba al general lo que se veía. *Hay una gaviota.*
+Pensó en la torre del muelle. En una ventana que solo daba al cielo. En un gnomo que le contaba al general lo que se veía. Hay una gaviota.
 
 Pensó en un hombre de sal, en una playa, en el 892, que miró arriba antes de deshacerse, y del que él llevaba un pellizco en el cuello.
 

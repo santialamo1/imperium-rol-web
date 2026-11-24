@@ -38,11 +38,11 @@ Había más soldados.
 
 Eso era lo segundo. Su hermano llevaba dos años en campaña. Cada primavera salía hacia el norte, hacia las montañas, con cien hombres, con doscientos, con trescientos, y volvía en otoño con menos. A cazar a las de sal. A quemar cuevas. A limpiar las laderas de cosas que la gente de la colina no sabía que existían hasta que su hermano volvía con ellas atadas a un carro: lobos negros de ojos blancos que no morían con hierro, solo con sal; un oso enorme con vetas blancas en el pelo; una cosa que nadie supo lo que era y que Hakon quemó en la plaza delante de todos, y que gritó al arder con voz de niño.
 
-*Las criaturas que rodeaban la ciudad*, lo llamaba su hermano. Y la gente lo aclamaba. Cada otoño, cuando volvía, la plaza se llenaba y le tiraban flores y gritaban su nombre. *¡Bhargaras! ¡Bhargaras!* Y él pasaba entre la gente a caballo, con el aro de hierro, con la espada fea sin nombre colgada de la silla, sin sonreír, y la gente decía que era porque era serio, como su abuelo Haltair, y que eso era bueno en un emperador.
+Las criaturas que rodeaban la ciudad, lo llamaba su hermano. Y la gente lo aclamaba. Cada otoño, cuando volvía, la plaza se llenaba y le tiraban flores y gritaban su nombre. ¡Bhargaras! ¡Bhargaras! Y él pasaba entre la gente a caballo, con el aro de hierro, con la espada fea sin nombre colgada de la silla, sin sonreír, y la gente decía que era porque era serio, como su abuelo Haltair, y que eso era bueno en un emperador.
 
 Lanther sabía que no era por eso.
 
-Era porque los oía. A todos. Gritando su nombre. Y cada vez que alguien gritaba *¡Bhargaras!* con amor, con hambre, con lo que fuera, a su hermano le llegaba. Como un tirón. Como una mano que lo cogía de la ropa.
+Era porque los oía. A todos. Gritando su nombre. Y cada vez que alguien gritaba ¡Bhargaras! con amor, con hambre, con lo que fuera, a su hermano le llegaba. Como un tirón. Como una mano que lo cogía de la ropa.
 
 Y cada vez que pasaba, Lanther lo oía también. No los gritos. Lo de debajo. El latido.
 
@@ -50,7 +50,7 @@ Dos latidos. Ahora eran dos.
 
 El del pecho, encima del corazón, el que había sido de su padre. Lento. Regular. Incansable. Y otro. Más débil. Más agrietado. En el lado derecho del jubón. Como un eco del primero.
 
-Livia se lo había dicho en el collado, hacía dos años. *Tu hermano encontró una* *jarra.* Lanther no le había preguntado nunca. Ni una vez. Lo había visto tocarse el bolsillo de la derecha, por encima de la tela, cuando creía que nadie miraba. Lo había visto dormir con la mano allí. No le había preguntado.
+Livia se lo había dicho en el collado, hacía dos años. Tu hermano encontró una jarra. Lanther no le había preguntado nunca. Ni una vez. Lo había visto tocarse el bolsillo de la derecha, por encima de la tela, cuando creía que nadie miraba. Lo había visto dormir con la mano allí. No le había preguntado.
 
 Tampoco él le había preguntado nunca por qué ella, a veces, de noche, se sentaba en la ventana con una piedra de veta blanca en la mano y le cantaba.
 
@@ -58,7 +58,7 @@ Tampoco él le había preguntado nunca por qué ella, a veces, de noche, se sent
 
 Este año, la campaña era distinta.
 
-Lo sabía toda la colina. Su hermano lo había dicho en el Consejo, y Hakon lo había dicho en la taberna de los fiordeños, y los fiordeños lo habían dicho en todas partes. *La* *última cueva.* Habían encontrado el rastro de las de sal. No en las montañas: más allá. Al norte de las montañas, en el interior, a una semana de marcha, en un valle que nadie había visto nunca. Un explorador de la Guardia lo había visto desde lo alto de un paso, el otoño anterior, y había vuelto con el pelo blanco y sin poder hablar en tres días. Cuando habló, dijo: *negro. Todo negro. Y en el centro, un agujero. Y alrededor, ellas.*
+Lo sabía toda la colina. Su hermano lo había dicho en el Consejo, y Hakon lo había dicho en la taberna de los fiordeños, y los fiordeños lo habían dicho en todas partes. La última cueva. Habían encontrado el rastro de las de sal. No en las montañas: más allá. Al norte de las montañas, en el interior, a una semana de marcha, en un valle que nadie había visto nunca. Un explorador de la Guardia lo había visto desde lo alto de un paso, el otoño anterior, y había vuelto con el pelo blanco y sin poder hablar en tres días. Cuando habló, dijo: negro. Todo negro. Y en el centro, un agujero. Y alrededor, ellas.
 
 Su hermano iba a ir. Con trescientos hombres. A acabar con ellas.
 
@@ -66,7 +66,7 @@ Y se iba a llevar a Livia.
 
 Eso era lo que no sabía la colina. Lo sabía Lanther porque lo había oído. No a escondidas; lo había oído de la otra manera, la de las piedras, la que no le había contado a nadie. Había estado en el pasillo del palacio, junto a la sala grande, la noche del Consejo, y a través de la pared había oído a su hermano. No las palabras. Lo de debajo. Y lo de debajo, cuando hablaba de Livia, era frío. Era cálculo. Era la forma exacta de una trampa para lobos.
 
-*Ellas buscan a la Heredicus*, había dicho su hermano en el Consejo. Lanther lo supo después, por Casimir, que estaba allí sumando y que se lo contó en voz baja, en la casa de Joran, con cara de no saber si estaba haciendo bien. *La Noche del Dolor bajaron de* *las montañas a por ella. No a por la colina. A por ella. Si la llevamos al valle, saldrán del* *agujero. Todas. Y las tendremos en campo abierto.*
+Ellas buscan a la Heredicus, había dicho su hermano en el Consejo. Lanther lo supo después, por Casimir, que estaba allí sumando y que se lo contó en voz baja, en la casa de Joran, con cara de no saber si estaba haciendo bien. La Noche del Dolor bajaron de las montañas a por ella. No a por la colina. A por ella. Si la llevamos al valle, saldrán del agujero. Todas. Y las tendremos en campo abierto.
 
 —Como cebo —dijo Lanther.
 
@@ -128,7 +128,7 @@ Detrás de la mesa, Hakon Brand soltó una carcajada. Lanther se quedó quieta. 
 
 —¿De dónde?
 
-—De los fiordos. Ulvarholm. Llegué en el *Arenque Gordo*.
+—De los fiordos. Ulvarholm. Llegué en el Arenque Gordo.
 
 —No tienes acento.
 

@@ -2,7 +2,7 @@
 
 *Banderbill. Primavera del año 27.*
 
-La emperatriz de Banderbill tenía cincuenta y dos años, un cuchillo de destripar debajo de la almohada y la firme convicción de que todos los consejos del mundo podían resumirse en una sola frase, que casi nunca se pronunciaba y que ella pronunciaba siempre: *¿Y quién va a pagar esto?*
+La emperatriz de Banderbill tenía cincuenta y dos años, un cuchillo de destripar debajo de la almohada y la firme convicción de que todos los consejos del mundo podían resumirse en una sola frase, que casi nunca se pronunciaba y que ella pronunciaba siempre: ¿Y quién va a pagar esto?
 
 —Nadie —dijo Hakon Brand—. Las piedras del río son gratis.
 
@@ -10,7 +10,7 @@ La emperatriz de Banderbill tenía cincuenta y dos años, un cuchillo de destrip
 
 El Consejo se reunía todavía en la trastienda de Ruald, el panadero, y no en la sala fría del palacio: entre los sacos de harina, con la puerta del horno abierta y la masa madre de maese Ugo burbujeando en su tinaja del rincón como si quisiera opinar. Un hombre que huele pan no puede mentir del todo, decía Mara, porque se le hace la boca agua y se le nota.
 
-Estaban todos. Estaba la Custodia Orla, con sus ochenta y tres años y sus uñas grises, envuelta en tres chales, sentada lo más cerca posible del horno. Estaba Pim Hennek, que ya no era el muchacho de la *Gaviota* sino un hombre de cuarenta y cinco años con las sienes blancas y las manos de pescador, y que se sentaba siempre al lado de Orla, porque era su discípulo y porque, según decía, si la vieja se dormía alguien tenía que darle un codazo. Estaba Hakon Brand, el capitán de la Guardia, un fiordeño de Ulvarholm grande como una puerta, de barba rubia trenzada en dos y una cicatriz que le partía la ceja izquierda, que había llegado en el año ocho en uno de los barcos de Gorm. Estaba Joran Kesse, el tonelero, que no era consejero de nada pero venía porque nadie le había dicho que no viniera. Y estaba, en el extremo de la mesa, con los brazos cruzados y la espalda contra la pared, su hijo.
+Estaban todos. Estaba la Custodia Orla, con sus ochenta y tres años y sus uñas grises, envuelta en tres chales, sentada lo más cerca posible del horno. Estaba Pim Hennek, que ya no era el muchacho de la Gaviota sino un hombre de cuarenta y cinco años con las sienes blancas y las manos de pescador, y que se sentaba siempre al lado de Orla, porque era su discípulo y porque, según decía, si la vieja se dormía alguien tenía que darle un codazo. Estaba Hakon Brand, el capitán de la Guardia, un fiordeño de Ulvarholm grande como una puerta, de barba rubia trenzada en dos y una cicatriz que le partía la ceja izquierda, que había llegado en el año ocho en uno de los barcos de Gorm. Estaba Joran Kesse, el tonelero, que no era consejero de nada pero venía porque nadie le había dicho que no viniera. Y estaba, en el extremo de la mesa, con los brazos cruzados y la espalda contra la pared, su hijo.
 
 Bhargaras. Veinte años. Ojos claros, casi grises, como el agua de un pozo. Callado.
 
@@ -48,7 +48,7 @@ La trastienda se quedó en silencio. Hasta la masa madre dejó de burbujear, o a
 
 Pim miró a Orla. Orla, con los ojos cerrados, asintió levemente, como quien da permiso para algo que ya no se puede evitar.
 
-—Llegó un barco de Ulvarholm hace tres días —dijo Pim—. El *Arenque Gordo*, de los Skarde. Traían bacalao y dos familias. Vinieron por el norte, por la ruta de las vetas, rodeando la Garganta. —Hizo una pausa—. Dicen que en la Garganta oyeron algo.
+—Llegó un barco de Ulvarholm hace tres días —dijo Pim—. El Arenque Gordo, de los Skarde. Traían bacalao y dos familias. Vinieron por el norte, por la ruta de las vetas, rodeando la Garganta. —Hizo una pausa—. Dicen que en la Garganta oyeron algo.
 
 —Los fiordeños siempre oyen algo en la Garganta —dijo Hakon—. Es un remolino. Hace ruido.
 
@@ -74,13 +74,13 @@ Mara había nacido en la costa de Puerto Salobre y había visto mil nieblas. Y u
 
 —Más que en las bodas de Ulvarholm —dijo Hakon, que lo sabía, porque era de allí—. Y en las bodas de Ulvarholm se juntan trescientas barcas.
 
-Seiscientos, pensó. No sabía de dónde le venía el número. Le vino así, entero, redondo, como una piedra que cae en el agua. *Seiscientos.* Y luego pensó en Loth. En el hombre de pelo blanco que había estado de pie en lo alto del acantilado de Puerto Salobre, en el borde de la niebla, mirándolos irse. En la cosa que Bander le había contado, una sola vez, borracho, la noche que nació su hija: *me dijo que vendría. Que no ahora. Que cuando* *tuviera barcos.*
+Seiscientos, pensó. No sabía de dónde le venía el número. Le vino así, entero, redondo, como una piedra que cae en el agua. Seiscientos. Y luego pensó en Loth. En el hombre de pelo blanco que había estado de pie en lo alto del acantilado de Puerto Salobre, en el borde de la niebla, mirándolos irse. En la cosa que Bander le había contado, una sola vez, borracho, la noche que nació su hija: me dijo que vendría. Que no ahora. Que cuando tuviera barcos.
 
 —Braseros —dijo.
 
 ---
 
-Lo dijo con la voz de capitán, la que había aprendido de su padre en la cubierta de la *Tozuda*, a los nueve años, y que había usado una noche de invierno, con un cuchillo de destripar en la mano, para hacer que una ciudad entera bajara a un túnel. Hacía años que no le hacía falta.
+Lo dijo con la voz de capitán, la que había aprendido de su padre en la cubierta de la Tozuda, a los nueve años, y que había usado una noche de invierno, con un cuchillo de destripar en la mano, para hacer que una ciudad entera bajara a un túnel. Hacía años que no le hacía falta.
 
 —Braseros de sal en todas las playas —dijo—. En la bahía, en el delta, en los dos cabos. Uno cada cien pasos. Joran, ¿cuántos barriles de sal tenemos?
 
@@ -134,13 +134,13 @@ Era guapo. Siempre se le olvidaba y siempre volvía a sorprenderla, cada vez, co
 
 No oía.
 
-Lo habían sabido a los cuatro años. Bander lo había llevado a la fuente, la víspera del día más corto, como hacían todos los padres de la colina con sus hijos, y le había pedido que escuchara. *Escucha, hijo. Escucha a los que han muerto este año. Están aquí.* *Te están diciendo su nombre.* Y el niño había escuchado, muy serio, con los ojos muy abiertos, durante mucho rato, y luego había mirado a su padre y había dicho: *Aquí no hay* *nadie, papá. Solo hay agua.*
+Lo habían sabido a los cuatro años. Bander lo había llevado a la fuente, la víspera del día más corto, como hacían todos los padres de la colina con sus hijos, y le había pedido que escuchara. Escucha, hijo. Escucha a los que han muerto este año. Están aquí. Te están diciendo su nombre. Y el niño había escuchado, muy serio, con los ojos muy abiertos, durante mucho rato, y luego había mirado a su padre y había dicho: Aquí no hay nadie, papá. Solo hay agua.
 
 Uno de cada tres, decían los Custodios. En los Bhargaras, uno de cada tres oía. Bander oía. El padre de Bander había oído. La abuela de Bander, Aremir, la Restauradora, había oído tanto que se había quedado sorda de los oídos de carne. Y el niño de Bander, el primogénito, el que tenía que llevar el aro de hierro, no oía nada. Solo agua.
 
 A Mara le había dado igual. Mara tampoco oía. Mara había vivido cincuenta y dos años sin oír a un solo muerto, salvo una vez, una sola, a su tía Brenna, la noche que se murió mirando al mar; y le parecía que se podía vivir perfectamente bien sin hacerlo, y que la gente que oía a los muertos se pasaba la vida triste y con los ojos blancos y tosiendo. Pero al niño no le había dado igual.
 
-Al niño le había dolido. Mucho. Durante años. Hasta que un día, a los doce, había dejado de dolerle, y había empezado a decir *no creo en eso*, con la misma boca apretada de los Renod.
+Al niño le había dolido. Mucho. Durante años. Hasta que un día, a los doce, había dejado de dolerle, y había empezado a decir no creo en eso, con la misma boca apretada de los Renod.
 
 —Tu padre —dijo Mara— cruzó el mar con siete heridas y la mitad de una ciudad a la espalda. Si tu padre dice que un barco de muertos cruza si va lo bastante deprisa, es que cruza.
 
@@ -226,7 +226,7 @@ En la puerta se volvió.
 
 —No lo sé. Me ha venido.
 
-—A mí también —dijo Orla—. Anoche. En sueños. Una voz de hombre, cansada, que contaba barcos. —Se arrebujó en los chales—. Llegó a seiscientos y se echó a llorar. Y luego dijo: *no sé qué hago aquí.*
+—A mí también —dijo Orla—. Anoche. En sueños. Una voz de hombre, cansada, que contaba barcos. —Se arrebujó en los chales—. Llegó a seiscientos y se echó a llorar. Y luego dijo: no sé qué hago aquí.
 
 Se fue.
 

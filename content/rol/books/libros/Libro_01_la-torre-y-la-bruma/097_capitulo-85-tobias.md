@@ -16,7 +16,7 @@ Y oyó las campanas.
 
 ---
 
-Las campanas de alarma de Concordia no habían sonado desde el Atardecer Rojo, ciento trece años antes. Tobías las conocía solo por las crónicas: tres toques largos, uno corto, tres largos. *La niebla está dentro.*
+Las campanas de alarma de Concordia no habían sonado desde el Atardecer Rojo, ciento trece años antes. Tobías las conocía solo por las crónicas: tres toques largos, uno corto, tres largos. La niebla está dentro.
 
 Sonaban todas. Las de la torre, las de los templos, las de los cuarteles. Y por debajo de las campanas, desde la ciudad, un ruido que Tobías no había oído nunca y que no olvidaría: el de cien mil personas gritando a la vez.
 
@@ -34,7 +34,7 @@ El pergamino de Nadia Bhargaras, escrito de su puño y letra en el año ciento c
 
 El diario de Meridio Bhargaras, con las anotaciones al margen de su hermana Aremir. Que el emperador Haltair había devuelto a la biblioteca el verano anterior, cansado, diciendo que ya se lo sabía de memoria.
 
-El informe de once páginas de Ansel Kalo sobre un pasadizo debajo de la cripta. Que el emperador Haltair había pedido el otoño anterior —Tobías se lo había llevado él mismo, buscándolo durante dos días en el arcón de las notas de Lisandro— y había devuelto con una sola palabra escrita debajo de la anotación de Ansel: *Gracias.*
+El informe de once páginas de Ansel Kalo sobre un pasadizo debajo de la cripta. Que el emperador Haltair había pedido el otoño anterior —Tobías se lo había llevado él mismo, buscándolo durante dos días en el arcón de las notas de Lisandro— y había devuelto con una sola palabra escrita debajo de la anotación de Ansel: Gracias.
 
 Tres de los cuadernos de poemas de Lisandro Heredicus.
 
@@ -62,7 +62,7 @@ El muerto se volvió despacio. Tenía los ojos blancos. Lo miró. Y Tobías, que
 
 *Frío. Frío. Frío. Frío.*
 
-No supo por qué lo hizo. Más tarde pensaría que fue su abuela, la de los fiordos, que se sentaba en la playa al atardecer y les hablaba a los ahogados como quien habla con los vecinos. *Hay que decirles algo, Tobi*, le decía. *Están solos. Se les olvida quiénes son.*
+No supo por qué lo hizo. Más tarde pensaría que fue su abuela, la de los fiordos, que se sentaba en la playa al atardecer y les hablaba a los ahogados como quien habla con los vecinos. Hay que decirles algo, Tobi, le decía. Están solos. Se les olvida quiénes son.
 
 —Lo sé —le dijo Tobías al muerto, con la voz temblando—. Hace mucho frío. Lo siento mucho.
 

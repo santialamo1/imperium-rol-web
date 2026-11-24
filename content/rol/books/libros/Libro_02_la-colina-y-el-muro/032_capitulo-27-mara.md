@@ -4,7 +4,7 @@
 
 Lo decidió un martes, mientras amasaba.
 
-No era la primera vez que amasaba desde que se murió Teo Ruald el viejo, pero era la primera vez que le salía bien. El hijo, Teo el joven, el que tenía las manos de su padre y la paciencia de su madre, le había dejado la artesa de la esquina, la buena, la que no cojeaba, y le había enseñado otra vez a doblar la masa sobre sí misma con la base de la mano, sin apretar, *que el pan no es un enemigo, señora, es una cosa que respira*. Y Mara había doblado y doblado, con la harina hasta los codos, y en algún momento, entre un doblez y otro, había dejado de pensar.
+No era la primera vez que amasaba desde que se murió Teo Ruald el viejo, pero era la primera vez que le salía bien. El hijo, Teo el joven, el que tenía las manos de su padre y la paciencia de su madre, le había dejado la artesa de la esquina, la buena, la que no cojeaba, y le había enseñado otra vez a doblar la masa sobre sí misma con la base de la mano, sin apretar, que el pan no es un enemigo, señora, es una cosa que respira. Y Mara había doblado y doblado, con la harina hasta los codos, y en algún momento, entre un doblez y otro, había dejado de pensar.
 
 Y en el hueco que dejó el pensar, le vino.
 
@@ -44,7 +44,7 @@ No se lo dijo a nadie. Hizo las cosas en orden, como se hacen las cuentas.
 
 El miércoles fue a ver a Livia.
 
-Livia vivía todavía en la casa de Tobías, en el barrio de arriba, rodeada de papeles. Estaba escribiendo cuando llegó; siempre estaba escribiendo. La *Crónica*. La de verdad, decía, no la que contaban los soldados. Tenía tinta en los dedos y en la nariz y un ojo medio cerrado de tanto forzarlo a la luz de la vela.
+Livia vivía todavía en la casa de Tobías, en el barrio de arriba, rodeada de papeles. Estaba escribiendo cuando llegó; siempre estaba escribiendo. La Crónica. La de verdad, decía, no la que contaban los soldados. Tenía tinta en los dedos y en la nariz y un ojo medio cerrado de tanto forzarlo a la luz de la vela.
 
 Mara se sentó en la silla de Tobías. La que nadie usaba.
 
@@ -160,7 +160,7 @@ Y se fue.
 
 ---
 
-El puerto estaba vacío. Las barcas de los fiordeños se mecían en el agua negra, atadas a las estacas. Olía a algas y a brea. En el extremo del muelle, apartada de las demás, como siempre, porque nadie quería amarrar al lado de un barco tan viejo y tan feo, estaba la *Tozuda*.
+El puerto estaba vacío. Las barcas de los fiordeños se mecían en el agua negra, atadas a las estacas. Olía a algas y a brea. En el extremo del muelle, apartada de las demás, como siempre, porque nadie quería amarrar al lado de un barco tan viejo y tan feo, estaba la Tozuda.
 
 Tenía cuarenta años. Más que Mara cuando subió a ella por primera vez. La había reparado tantas veces que ya no le quedaba casi ninguna tabla de las del padre de Mara. Pero el mascarón seguía siendo el mismo: la cabra. La cabra sin un cuerno, el que perdió en la Garganta en la primera travesía, cuando Gorm gritaba órdenes con una botella en la mano y Bander deliraba en la litera y Livia, de nueve años, miraba el mar desde la proa con las rodillas contra el pecho.
 
@@ -170,7 +170,7 @@ Mara le acarició la cabeza a la cabra.
 
 ---
 
-Soltó las amarras. Le costó; las tenía duras de sal, y ella tenía las manos de cincuenta y cuatro años. Le costó también izar la vela; tuvo que hacerlo en tres veces, descansando entre una y otra, con el corazón dándole golpes. Le daba igual. No tenía prisa. La marea sí; la marea empezaba a bajar y tiraba de la *Tozuda* hacia la boca del puerto, suave, como tira un perro de la manga de su amo.
+Soltó las amarras. Le costó; las tenía duras de sal, y ella tenía las manos de cincuenta y cuatro años. Le costó también izar la vela; tuvo que hacerlo en tres veces, descansando entre una y otra, con el corazón dándole golpes. Le daba igual. No tenía prisa. La marea sí; la marea empezaba a bajar y tiraba de la Tozuda hacia la boca del puerto, suave, como tira un perro de la manga de su amo.
 
 Y cuando ya estaba en la boca, cuando ya veía por delante el mar abierto, gris, llano, con la primera luz del alba detrás de ella, oyó los pasos.
 
@@ -192,11 +192,11 @@ Y entonces sí se volvió.
 
 Lanther estaba en el extremo del muelle. Descalza. En camisa de dormir. Con el aro de hierro en la mano, apretado, tanto que se le veían los nudillos blancos desde el agua. Con el pelo corto de punta. Con la cara mojada.
 
-La *Tozuda* se había alejado veinte varas. Treinta. La marea tiraba.
+La Tozuda se había alejado veinte varas. Treinta. La marea tiraba.
 
 Se miraron.
 
-Mara pensó en todo lo que quería decirle. Que la quería. Que lo sentía. Que no era por ella. Que era por ella. Que su padre la habría querido más que a sus ojos. Que no dejara que nadie le dijera qué tenía que hacer por ser mujer, ni por ser reina, ni por tener dos corazones. Que ganara al tablero siempre, a todo el mundo, incluso cuando no quisiera. Que no se fiara de los hombres que dicen *por tu bien*. Que comiera. Que durmiera. Que llorara de vez en cuando, aunque no tuviera ganas, porque si no se le iba a pudrir algo dentro. Que bajara al río los martes. Que cuidara de Livia, que estaba más cansada de lo que parecía. Que no se quedara nunca, nunca, sentada en un trono mirando el mar.
+Mara pensó en todo lo que quería decirle. Que la quería. Que lo sentía. Que no era por ella. Que era por ella. Que su padre la habría querido más que a sus ojos. Que no dejara que nadie le dijera qué tenía que hacer por ser mujer, ni por ser reina, ni por tener dos corazones. Que ganara al tablero siempre, a todo el mundo, incluso cuando no quisiera. Que no se fiara de los hombres que dicen por tu bien. Que comiera. Que durmiera. Que llorara de vez en cuando, aunque no tuviera ganas, porque si no se le iba a pudrir algo dentro. Que bajara al río los martes. Que cuidara de Livia, que estaba más cansada de lo que parecía. Que no se quedara nunca, nunca, sentada en un trono mirando el mar.
 
 No le dijo nada de eso.
 
@@ -228,7 +228,7 @@ Con Gorm, primero. Le contó lo del centeno de Teo el joven, que le había salid
 
 Con su hijo habló más rato.
 
-Le dijo que lo sentía. Que había sido un idiota, como su padre, y que lo había querido igual. Que no hacía falta ser bueno para que te quieran; que bastaba con ser tuyo. *Tú sí eres tuyo.* Que su hermana había ganado la partida. Que la había terminado ella sola.
+Le dijo que lo sentía. Que había sido un idiota, como su padre, y que lo había querido igual. Que no hacía falta ser bueno para que te quieran; que bastaba con ser tuyo. Tú sí eres tuyo. Que su hermana había ganado la partida. Que la había terminado ella sola.
 
 Y luego, cuando el sol estuvo alto, cuando la costa ya no era más que una raya gris a su espalda, habló con él.
 
@@ -240,7 +240,7 @@ No le contestó nadie. No oía. Mara no había oído nunca. Había vivido treint
 
 —Ya está —repitió—. He hecho todo. He criado a tus hijos. He enterrado a uno. He gobernado tu ciudad. He echado a la mitad de la gente porque tu hijo tenía miedo, y no he podido hacer nada, y lo he votado en contra, que conste. He vuelto a amasar. He aprendido a hacer pan. Fatal, pero he aprendido. He dejado a tu hija en el muelle con el aro en la mano. Lo va a hacer mejor que tú. Lo va a hacer mejor que yo. Lo va a hacer mejor que nadie.
 
-La *Tozuda* se mecía. El agua estaba lisa, verde, transparente. Se veía el fondo, muy abajo. Arena. Algas. Peces.
+La Tozuda se mecía. El agua estaba lisa, verde, transparente. Se veía el fondo, muy abajo. Arena. Algas. Peces.
 
 No había muertos.
 
@@ -284,13 +284,13 @@ Y no oyó nada, porque no había oído nunca. Pero en el último momento, cuando
 
 ---
 
-La *Tozuda* volvió sola al puerto dos días después, con la marea. Vacía. Con la vela izada y las botas de la emperatriz en la proa, junto a la cabra sin un cuerno, puestas una al lado de la otra, ordenadas, como se dejan las botas a la puerta de una casa.
+La Tozuda volvió sola al puerto dos días después, con la marea. Vacía. Con la vela izada y las botas de la emperatriz en la proa, junto a la cabra sin un cuerno, puestas una al lado de la otra, ordenadas, como se dejan las botas a la puerta de una casa.
 
 Lanther seguía en el extremo del muelle.
 
 Llevaba dos días allí. Le habían llevado comida que no había comido y una manta que no se había puesto. Hakon Brand había montado guardia a diez pasos, sin decir nada. Livia se había sentado a su lado en las tablas, al anochecer del primer día, y se había quedado.
 
-Cuando vio entrar la *Tozuda*, Lanther se levantó.
+Cuando vio entrar la Tozuda, Lanther se levantó.
 
 La amarró ella misma. Subió a bordo. Cogió las botas. Se las apretó contra el pecho.
 

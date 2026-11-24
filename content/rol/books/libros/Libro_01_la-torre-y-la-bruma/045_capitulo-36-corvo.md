@@ -182,4 +182,4 @@ La niebla no cruzó el Ceniza mientras vivió Nadia. Corvo siempre pensó que er
 
 Pero cuando murió, en el año doscientos uno, vieja, en la fortaleza de Kel-Mar, con sus nietos alrededor, Neri le dijo al mayor de ellos algo que el muchacho no entendió y que anotó, años después, en el margen de una crónica familiar:
 
-*El Padre sabe que estamos aquí. Lo ha sabido siempre. Nos deja en paz porque* *cantamos su canción. Pero no le digáis vuestros nombres. Nunca. Que no os nombre él.*
+*El Padre sabe que estamos aquí. Lo ha sabido siempre. Nos deja en paz porque cantamos su canción. Pero no le digáis vuestros nombres. Nunca. Que no os nombre él.*

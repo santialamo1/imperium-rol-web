@@ -32,9 +32,9 @@ Pasó los primeros diez años de su reinado estudiando el diario de su hermano. 
 
 Quedaban cuatro. Eso lo sabían todos desde el Atardecer Rojo. Pero Meridio, en una de sus últimas páginas, con una letra tan temblorosa que Aremir tardó semanas en descifrarla, había escrito algo más:
 
-*Él ya no las necesita todas. La cosa del pozo le dijo que bastan. Que con cuatro* *basta para lo que viene. Que lo que viene no requiere seguir vivo mucho tiempo después.* *Solo lo justo para llegar a la cripta. Y poner la mano.*
+*Él ya no las necesita todas. La cosa del pozo le dijo que bastan. Que con cuatro basta para lo que viene. Que lo que viene no requiere seguir vivo mucho tiempo después. Solo lo justo para llegar a la cripta. Y poner la mano.*
 
-*Y luego otra cosa. No sé si la entendí bien. La voz estaba cansada esa noche,* *hablaba sola, no conmigo. Dijo que había una jarra que no rompería nadie. Que la había* *puesto donde nadie la buscaría. Que la había puesto*
+*Y luego otra cosa. No sé si la entendí bien. La voz estaba cansada esa noche, hablaba sola, no conmigo. Dijo que había una jarra que no rompería nadie. Que la había puesto donde nadie la buscaría. Que la había puesto*
 
 La frase no terminaba. La página siguiente estaba arrancada.
 
@@ -68,7 +68,13 @@ Aremir sintió un escalofrío.
 
 Aremir lo miró. Y luego, en voz muy baja, con su voz vieja y cascada de ochenta años, cantó:
 
-*Duerme, arena, duerme ya,* *la bruma viene y se va;* *quien te nombra te tendrá,* *quien te ama volverá.*
+*Duerme, arena, duerme ya,*
+
+*la bruma viene y se va;*
+
+*quien te nombra te tendrá,*
+
+*quien te ama volverá.*
 
 —Esa la conozco —dijo Haltair, sorprendido—. Me la cantabas de pequeño. Es una nana de Gijor, ¿no?
 

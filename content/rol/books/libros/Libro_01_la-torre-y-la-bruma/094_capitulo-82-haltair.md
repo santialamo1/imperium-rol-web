@@ -6,7 +6,7 @@ El emperador Haltair Bhargaras bajó a la cripta de la Torre de la Unión a las 
 
 La cripta era enorme. Ocupaba todo el subsuelo de la torre, un laberinto de bóvedas de piedra gris clara con vetas negras, iluminado por lámparas de aceite que ardían día y noche. En las paredes estaban los nichos de los emperadores y sus familias, cuatro siglos de muertos honrados, con sus nombres grabados en la piedra. En el centro, envuelta por los cimientos de la torre como una semilla en su fruto, estaba la piedra del Ombligo.
 
-Haltair la miró desde lejos, como siempre. Nunca la había tocado. Ningún Bhargaras la había tocado nunca; era otra de las costumbres de la familia, la que venía de Henricus, que la había aprendido —según contaba la tradición— del propio Hector Tiberius a través de un diario perdido. *No la toques. Te conoce.*
+Haltair la miró desde lejos, como siempre. Nunca la había tocado. Ningún Bhargaras la había tocado nunca; era otra de las costumbres de la familia, la que venía de Henricus, que la había aprendido —según contaba la tradición— del propio Hector Tiberius a través de un diario perdido. No la toques. Te conoce.
 
 Esa noche, la piedra latía más deprisa.
 
@@ -22,7 +22,7 @@ Una puerta. Abriéndose.
 
 ---
 
-La Puerta de los Juramentos era la más antigua de Concordia, la que daba al noreste, al camino de las colinas peladas. La había mandado construir Lucius el Fundador en el año diez, y sobre su arco estaban grabados, en las lenguas de los tres pueblos, los versos del Juramento de Sal: *Paz entre Suhon, Ibaro y Zelto. Paz entre sus hijos y los hijos* *de sus hijos.*
+La Puerta de los Juramentos era la más antigua de Concordia, la que daba al noreste, al camino de las colinas peladas. La había mandado construir Lucius el Fundador en el año diez, y sobre su arco estaban grabados, en las lenguas de los tres pueblos, los versos del Juramento de Sal: Paz entre Suhon, Ibaro y Zelto. Paz entre sus hijos y los hijos de sus hijos.
 
 A medianoche de la noche más larga del año cuatrocientos doce, la Puerta de los Juramentos se abrió desde dentro, y la niebla entró en Concordia.
 
@@ -56,7 +56,7 @@ El capitán no contestó. No hizo falta.
 
 Haltair cerró los ojos. Durante un momento, solo un momento, se permitió sentir lo que sentía. Traición. Dolor. Una tristeza inmensa, como un océano. Casimir. El muchacho brillante de Leogrand que le hacía reír en los Consejos. El amigo de su hijo.
 
-*Orvane*, había escrito su madre en el margen del diario de Meridio. *Leogrand.* *Vigilad a sus hijos.*
+Orvane, había escrito su madre en el margen del diario de Meridio. Leogrand. Vigilad a sus hijos.
 
 Él no había vigilado. Había confiado. Era lo único que sabía hacer.
 
@@ -144,7 +144,7 @@ Haltair parpadeó, sorprendido.
 
 —Te diría que pararas.
 
-—Lo sé. —Loth se detuvo a tres escalones de Haltair—. Me lo dijo. Esa noche. *Piensa en lo que quiere ella, no en lo que quieres tú.* —Miró a la mujer del velo, que seguía al pie de los escalones, inmóvil—. Y llevo doscientos sesenta y tres años sin hacerle caso.
+—Lo sé. —Loth se detuvo a tres escalones de Haltair—. Me lo dijo. Esa noche. Piensa en lo que quiere ella, no en lo que quieres tú. —Miró a la mujer del velo, que seguía al pie de los escalones, inmóvil—. Y llevo doscientos sesenta y tres años sin hacerle caso.
 
 Haltair lo miró. Por un momento, solo un momento, sintió algo que no esperaba sentir. Piedad.
 

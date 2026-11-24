@@ -1,6 +1,6 @@
 # Lo que contaba el abuelo de gorm
 
-*Cuento de los fiordos de Pisor, tal como lo contó Gorm, el Ibaro, junto al fuego, el* *invierno del año 4. Lo apuntó Tobías Grull, que no se lo cree, y lo copia igual.*
+*Cuento de los fiordos de Pisor, tal como lo contó Gorm, el Ibaro, junto al fuego, el invierno del año 4. Lo apuntó Tobías Grull, que no se lo cree, y lo copia igual.*
 
 En los fiordos hay islas que tienen nombre y hay islas que no. Las que tienen nombre son las de siempre: la de las focas, la del faro, las siete de Ulvar, la Ballena Tumbada, que se llama así porque lo parece. Esas se pescan, se pisan, se duerme en ellas cuando el mar se pone malo. Y luego están las otras.
 
@@ -28,4 +28,4 @@ Bander, el ciego, el que oye, dice que lo que había debajo latía. Yo no lo oí
 
 Mara la apuntó en el cuaderno como «piedras». Hizo bien. Las piedras no tienen nombre.
 
-*Nota del copista.* Gorm dice que cuando se muera quiere que lo entierren mirando al norte. No dice por qué. Yo tampoco se lo he preguntado.
+Nota del copista. Gorm dice que cuando se muera quiere que lo entierren mirando al norte. No dice por qué. Yo tampoco se lo he preguntado.

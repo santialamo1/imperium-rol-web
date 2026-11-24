@@ -6,7 +6,7 @@ Hay cosas que no se funden.
 
 Dalbur lo sabía desde los cuarenta años, que en un enano es ser un niño. Lo aprendió en la fragua de su padre, Dalgrim, bajo el glaciar de Kûr, antes de que llegaran los altos, antes de que hubiera Tiama. Un día su padre echó al crisol una piedra que había traído un minero de muy abajo, de más abajo que nadie, y la piedra no se fundió. El fuego blanco, el de las tres fuelles. Tres días. La piedra salió del crisol igual que había entrado, fría, gris, con una veta blanca.
 
-*Hay cosas que no se funden*, le dijo su padre. *No las fuerces. Guárdalas.*
+Hay cosas que no se funden, le dijo su padre. No las fuerces. Guárdalas.
 
 Dalbur guardó muchas. En ochocientos años.
 
@@ -26,11 +26,11 @@ En un cuervo. Los de Illiandor usaban cuervos, negros, grandes, que cruzaban el 
 
 La carta era corta.
 
-*Maestro. Me han traído la espada. La del bosque. Un hombre de las minas, de los* *que saquean. Dice que la cogió de las manos de un muerto. No miente; tiene sangre seca* *hasta el codo. Quiere que le haga una vaina que la tape, porque dice que de noche le* *habla. No le habla. Le enseña.*
+*Maestro. Me han traído la espada. La del bosque. Un hombre de las minas, de los que saquean. Dice que la cogió de las manos de un muerto. No miente; tiene sangre seca hasta el codo. Quiere que le haga una vaina que la tape, porque dice que de noche le habla. No le habla. Le enseña.*
 
 *La he tocado. Sin querer. Por la empuñadura.*
 
-*Maestro, la llevo a Tiama. A usted. Usted sabrá qué hacer. Salgo mañana. No le* *diga a nadie que voy. Ni a los de la colina.*
+*Maestro, la llevo a Tiama. A usted. Usted sabrá qué hacer. Salgo mañana. No le diga a nadie que voy. Ni a los de la colina.*
 
 *Orrin.*
 
@@ -40,7 +40,7 @@ Orrin había sido su aprendiz doscientos años.
 
 Enano de Illiandor, de los de las forjas del sur, de manos finas para un enano, que hacía bisagras y cerraduras y cosas pequeñas que nadie más sabía hacer. Había llegado a Tiama con setenta años, que en un enano es tener la barba corta, porque había oído que en Tiama había un maestro que sabía templar el hielo. Dalbur lo tuvo en la forja doscientos años. No le enseñó lo del hielo. Le enseñó todo lo demás.
 
-Luego Orrin volvió a Illiandor. Abrió su propia forja, en la calle del puerto, la de los cuervos. Hacía las cerraduras de la mitad de las casas ricas del Este. Mandaba una carta cada invierno: *Maestro. Hace frío. He hecho una cerradura que no abre nadie. Dígame si* *está bien.* Y una cerradura dentro, envuelta en lana. Dalbur las tenía todas en un estante. Ciento cuarenta y tres. Ninguna la había abierto.
+Luego Orrin volvió a Illiandor. Abrió su propia forja, en la calle del puerto, la de los cuervos. Hacía las cerraduras de la mitad de las casas ricas del Este. Mandaba una carta cada invierno: Maestro. Hace frío. He hecho una cerradura que no abre nadie. Dígame si está bien. Y una cerradura dentro, envuelta en lana. Dalbur las tenía todas en un estante. Ciento cuarenta y tres. Ninguna la había abierto.
 
 Orrin no sabía de la Orden. No sabía que su maestro tenía la vida de un Emperador muerto. Sabía que su maestro era muy viejo y que no se moría, y nunca le había preguntado por qué, porque los enanos no preguntan esas cosas.
 
@@ -52,7 +52,7 @@ Todo el Este había oído hablar de la espada.
 
 Dalbur conocía la historia mejor que nadie.
 
-Sabía dónde estaba la espada desde que estaba. En el Bosque Muerto, en Rhagnark, al norte de Wonder, clavada en una raíz. La había dejado allí un soldado de Wonder, Edran Vos, en el 729, persiguiendo orcos detrás de Hesper Hask: la clavó en una raíz blanca para no caerse y no la pudo sacar, y el bosque creció alrededor. Desde entonces enseñaba. A un tal Corwin, entre el 838 y el 843, le enseñó lo que pasaría si era como era, y Corwin no lo fue, y un niño que se llamaba Pol vivió. Los de la Orden lo sabían. Lo apuntaba Verawel en el pergamino, en la letra de las Madres: *La espada. En el bosque que no crece. Enseña.* Y debajo, en la de él: *No se toca.*
+Sabía dónde estaba la espada desde que estaba. En el Bosque Muerto, en Rhagnark, al norte de Wonder, clavada en una raíz. La había dejado allí un soldado de Wonder, Edran Vos, en el 729, persiguiendo orcos detrás de Hesper Hask: la clavó en una raíz blanca para no caerse y no la pudo sacar, y el bosque creció alrededor. Desde entonces enseñaba. A un tal Corwin, entre el 838 y el 843, le enseñó lo que pasaría si era como era, y Corwin no lo fue, y un niño que se llamaba Pol vivió. Los de la Orden lo sabían. Lo apuntaba Verawel en el pergamino, en la letra de las Madres: La espada. En el bosque que no crece. Enseña. Y debajo, en la de él: No se toca.
 
 Sabía que un mago de Lindos, Aelthar, la había tocado en el 1400 y que había vuelto loco. No loco: lleno. Lleno de lo que había visto. Que había muerto en el 1404 en Lindos, al lado de una poza, diciendo que había visto a seis.
 
@@ -80,7 +80,7 @@ Eso no lo cuenta el Diario. Lo contaron los pocos de Wonder que volvieron — Wo
 
 Que a la segunda noche de la batalla, en lo más oscuro del Bosque Muerto, los muertos se levantaron. No los de la batalla. Otros. Más viejos. Que estaban enterrados allí desde antes, en hoyos sin cruz entre las raíces, y que salieron de la tierra con la tierra todavía encima. Grises de piel, podridos, con las venas negras por debajo, como ramas de invierno pintadas en el cuerpo. Andaban despacio. No hablaban. No sentían el hierro. El hierro les resbalaba, como resbala en la piel de una anguila, y había que darles muchas veces en el mismo sitio para abrirles algo.
 
-Los de Wonder los llamaban zombis. Una palabra de las aldeas del bosque, de las abuelas, para los que la tierra devuelve. No eran los muertos grises de las historias del norte; esos eran otra cosa, y el sargento lo dijo dos veces, como si importara. Estos estaban *hechos*. Alguien los había hecho. Con un oficio. Con el mismo oficio, dijo el sargento, que el de los muertos de las historias viejas, los de antes de la colina, los que andaban con las venas negras y a los que el agua salada soltaba. Nadie sabía quién. Los habían hecho hacía poco, eso sí: la carne aún no se les había caído del todo. Unos años. No más. Y luego los habían dejado allí, debajo de las raíces, esperando, como se deja un perro atado a la puerta de una casa vacía.
+Los de Wonder los llamaban zombis. Una palabra de las aldeas del bosque, de las abuelas, para los que la tierra devuelve. No eran los muertos grises de las historias del norte; esos eran otra cosa, y el sargento lo dijo dos veces, como si importara. Estos estaban hechos. Alguien los había hecho. Con un oficio. Con el mismo oficio, dijo el sargento, que el de los muertos de las historias viejas, los de antes de la colina, los que andaban con las venas negras y a los que el agua salada soltaba. Nadie sabía quién. Los habían hecho hacía poco, eso sí: la carne aún no se les había caído del todo. Unos años. No más. Y luego los habían dejado allí, debajo de las raíces, esperando, como se deja un perro atado a la puerta de una casa vacía.
 
 Entre ellos iban otros peores. Los zombis lóbregos, los llamó el sargento: más altos, más negros, con las venas por fuera de la piel y los ojos llenos de un barro oscuro, que corrían cuando los demás andaban y que no se paraban aunque se les partiera la cabeza, hasta que alguien les clavaba la cabeza al suelo. Y uno, uno solo, que no andaba con los demás sino detrás, quieto, con una corona de raíces en la cabeza y una capa podrida de terciopelo, y al que los muertos miraban antes de moverse. Los soldados de Wonder, que se reían hasta de eso, le pusieron nombre esa misma noche, con la palabra de los gnomos para los señores: el Lord Zombie.
 
@@ -140,7 +140,7 @@ Y vio.
 
 Dalbur no supo nunca qué vio Orrin. La carta no lo decía.
 
-Pero decía *la llevo a Tiama. A usted.* Y Dalbur entendió.
+Pero decía la llevo a Tiama. A usted. Y Dalbur entendió.
 
 Orrin había visto lo que haría si seguía siendo Orrin. Y lo que haría era eso: llevársela a su maestro. Por el camino del sur. Por el estrecho helado. Solo, sin decírselo a nadie, en pleno otoño.
 
@@ -222,7 +222,7 @@ Cendrel la cantaba bien. Mejor que nadie. Con el laúd. Con la voz limpia. Despa
 
 Dalbur se quedó quieto en el camino, en la nieve, con la mano en la empuñadura de la espada de hielo.
 
-*Quieto*, decía la runa.
+Quieto, decía la runa.
 
 Dalbur no la sacó.
 

@@ -20,7 +20,7 @@ Y empezó.
 
 Al principio eran gritos.
 
-Los de la cinta gritaban que el Parlamento estaba muerto. Que alguien lo había matado. Que la doncella se había ido y había dejado el palacio abierto a un encapuchado. Los de la cuerda gritaban que la doncella no había abdicado, que la habían echado. Los de los cuatro bandos del Parlamento, que ya no tenían parlamentario, gritaban cada uno el nombre del suyo. *¡Blash! ¡Xaterix! ¡Rox!* Como si gritándolo fuera a volver.
+Los de la cinta gritaban que el Parlamento estaba muerto. Que alguien lo había matado. Que la doncella se había ido y había dejado el palacio abierto a un encapuchado. Los de la cuerda gritaban que la doncella no había abdicado, que la habían echado. Los de los cuatro bandos del Parlamento, que ya no tenían parlamentario, gritaban cada uno el nombre del suyo. ¡Blash! ¡Xaterix! ¡Rox! Como si gritándolo fuera a volver.
 
 Los de nada no gritaban. Miraban.
 
@@ -240,25 +240,25 @@ Y él habló.
 
 ---
 
-—*Levántense* —dijo.
+—Levántense —dijo.
 
 No gritó. No le hizo falta. La plaza estaba tan callada que se oía la fuente.
 
-—*Nunca deberán olvidar este día, donde los hermanos en armas se alzaron unos* *contra otros, donde la avaricia de sus corazones prevaleció sobre lo que alguna vez* *juraron.*
+*—Nunca deberán olvidar este día, donde los hermanos en armas se alzaron unos contra otros, donde la avaricia de sus corazones prevaleció sobre lo que alguna vez juraron.*
 
 Nadie se levantó. Todavía.
 
-—*¿Dónde están aquellos soldados que con justicia y honor se abrían paso entre* *las sombras para defender al indefenso? ¿Dónde está ese imbatible ejército, que era capaz* *de derrotar a millones de demonios? ¿Dónde quedó ese espíritu de lucha, ese deseo de dar* *la vida por el Imperio?*
+*—¿Dónde están aquellos soldados que con justicia y honor se abrían paso entre las sombras para defender al indefenso? ¿Dónde está ese imbatible ejército, que era capaz de derrotar a millones de demonios? ¿Dónde quedó ese espíritu de lucha, ese deseo de dar la vida por el Imperio?*
 
 Se calló.
 
 Miró la plaza. A los sentados. A los de la cinta y a los de la cuerda, juntos en el suelo, con las espadas en las rodillas.
 
-—*Yo les diré dónde está.*
+*—Yo les diré dónde está.*
 
 Levantó la mano. Señaló. A ellos.
 
-—*¡Está aquí, frente a mis ojos!*
+*—¡Está aquí, frente a mis ojos!*
 
 ---
 
@@ -268,7 +268,7 @@ Era un soldado de la cuerda. Viejo. Con un brazo vendado.
 
 Luego otro. De la cinta.
 
-—*Ustedes demostraron hoy que todavía existe la esperanza, que todavía la luz* *puede brillar en la inmensa oscuridad. ¡Hoy han demostrado que estamos vivos! ¡Que no* *nos rendiremos! ¡Que lucharemos! ¡Que derrotaremos a cualquier enemigo que ose con* *su maldad cubrir de sombra nuestras tierras!*
+*—Ustedes demostraron hoy que todavía existe la esperanza, que todavía la luz puede brillar en la inmensa oscuridad. ¡Hoy han demostrado que estamos vivos! ¡Que no nos rendiremos! ¡Que lucharemos! ¡Que derrotaremos a cualquier enemigo que ose con su maldad cubrir de sombra nuestras tierras!*
 
 Se levantaban. Todos. Uno detrás de otro. Cientos. Con las espadas. Con las heridas. Con la cara negra. De pie.
 
@@ -276,7 +276,7 @@ Imane no se levantó.
 
 Se quedó sentada en el borde de la fuente. Con su hermano en el hombro. Mirando al hombre del balcón.
 
-—*Es por eso que hoy no habrá vencedores ni vencidos. Hoy volverán a ser* *verdaderos hermanos. Los rencores del pasado deben olvidarse, las viejas disputas* *desaparecer. Solo así volveremos a ser lo que estamos destinados a ser.*
+*—Es por eso que hoy no habrá vencedores ni vencidos. Hoy volverán a ser verdaderos hermanos. Los rencores del pasado deben olvidarse, las viejas disputas desaparecer. Solo así volveremos a ser lo que estamos destinados a ser.*
 
 ---
 
@@ -288,7 +288,7 @@ Imane no.
 
 Pensó en una cabaña. En cuatro en el suelo. En un cerrojo por fuera.
 
-Pensó que él lo sabía. Que lo estaba diciendo sabiéndolo. Que estaba en un balcón, delante de miles, con sangre que no era suya en la armadura, diciendo *los rencores del* *pasado deben olvidarse*, y que cuatro de los rencores del pasado estaban en una cabaña a dos leguas, con la puerta abierta, y nadie lo sabía todavía en la plaza.
+Pensó que él lo sabía. Que lo estaba diciendo sabiéndolo. Que estaba en un balcón, delante de miles, con sangre que no era suya en la armadura, diciendo los rencores del pasado deben olvidarse, y que cuatro de los rencores del pasado estaban en una cabaña a dos leguas, con la puerta abierta, y nadie lo sabía todavía en la plaza.
 
 Mentía bien.
 
@@ -306,7 +306,7 @@ Luego sacó un cuaderno.
 
 Pequeño. De tapas de cuero. Lo abrió. Leyó.
 
-—*Hace falta alguien. Alguien fuerte. Que mande sin partirse. Que garantice la paz* *y lo que juramos cuando entramos en la Armada, que era defender al que no se puede* *defender, y no a una cinta. Alguien que sujete esto.*
+*—Hace falta alguien. Alguien fuerte. Que mande sin partirse. Que garantice la paz y lo que juramos cuando entramos en la Armada, que era defender al que no se puede defender, y no a una cinta. Alguien que sujete esto.*
 
 Cerró el cuaderno.
 
@@ -314,7 +314,7 @@ Cerró el cuaderno.
 
 La plaza se calló otra vez.
 
-—*No soy yo*, escribió. *No sé quién es.*
+—No soy yo, escribió. No sé quién es.
 
 Él miró la plaza.
 

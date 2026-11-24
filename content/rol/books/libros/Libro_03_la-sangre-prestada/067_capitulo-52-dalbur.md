@@ -1,6 +1,6 @@
 # Capítulo 52 · Dalbur
 
-*Bajo el glaciar de Kûr, en el continente helado. Años 811 a 814 de la Nueva Era* *(204–207 D.bA).*
+*Bajo el glaciar de Kûr, en el continente helado. Años 811 a 814 de la Nueva Era (204–207 D.bA).*
 
 Los enanos de Kûr llevaban cuatrocientos años sin ver a nadie que no fuera enano, gólem o yeti, y Dalbur, hijo de Dalgrim, hijo de nadie que se acordara, fue el primero en ver a los altos, y lo primero que pensó fue que se iban a morir de frío.
 
@@ -74,7 +74,7 @@ Iba a pasar por encima de ellos. Como pasaba por encima de todo.
 
 Dalbur se puso delante del muchacho.
 
-—*Quieto* —le dijo al gólem. En enano. En la lengua de las runas. La palabra que estaba en todas las piedras de los pechos. La primera que aprendía un enano de Kûr. *Quieto.*
+—Quieto —le dijo al gólem. En enano. En la lengua de las runas. La palabra que estaba en todas las piedras de los pechos. La primera que aprendía un enano de Kûr. Quieto.
 
 El gólem no se paró. Nunca se paraban. Las runas estaban borradas. No entendían.
 
@@ -130,7 +130,7 @@ Y habían oído algo. Abajo.
 
 Dalbur tardó en contestar. Buscó la palabra. No la tenía en la lengua del aro. La dibujó en la ceniza. Un círculo. Con una raya que subía.
 
-—*Latido* —dijo el del aro. Despacio. Mirando el dibujo—. Abajo. ¿Un latido?
+—Latido —dijo el del aro. Despacio. Mirando el dibujo—. Abajo. ¿Un latido?
 
 Dalbur asintió.
 
@@ -166,7 +166,7 @@ Había que no perderse. Eso era todo.
 
 Y había que no tirarles lanzas.
 
-El del aro lo entendió. Lo mandó. *A los yetis no se les tira nada.* Lo apuntó el elfo viejo del sombrero, que había venido con ellos y que no salía de la fragua porque decía que era el único sitio de Kûr donde le funcionaba la mano.
+El del aro lo entendió. Lo mandó. A los yetis no se les tira nada. Lo apuntó el elfo viejo del sombrero, que había venido con ellos y que no salía de la fragua porque decía que era el único sitio de Kûr donde le funcionaba la mano.
 
 ---
 
@@ -192,11 +192,11 @@ Y en el centro, una fragua. Grande. Para los dos pueblos.
 
 El del aro le preguntó a Dalbur cómo se llamaba aquello en enano. El sitio. El valle de las fumarolas.
 
-—*Tiama* —dijo Dalbur.
+—Tiama —dijo Dalbur.
 
-Quería decir *donde la montaña respira*.
+Quería decir donde la montaña respira.
 
-El del aro lo repitió. *Tiama.* Le gustó.
+El del aro lo repitió. Tiama. Le gustó.
 
 Y el elfo viejo lo apuntó en el diario. Con la izquierda. Sin explicar de dónde venía. Como si lo hubiera inventado el Emperador.
 
@@ -246,13 +246,13 @@ Ilan la cogió con las dos manos. Con guantes.
 
 No dijo nada. Se le pusieron los ojos brillantes.
 
-—¿Por qué *quieto*? —preguntó el del aro. Mirando la runa.
+—¿Por qué quieto? —preguntó el del aro. Mirando la runa.
 
 Dalbur se lo explicó. Despacio. Con las palabras que tenían.
 
 Que era la primera palabra. La que estaba en las piedras de los gólems. La que les decía que no anduvieran. Que no fueran a ningún sitio. Que se quedaran donde estaban.
 
-Que una espada que se llamaba *quieto* servía para eso. Para que algo que anda sin rumbo se pare. Para que algo que quiere bajar, o subir, o irse, se quede.
+Que una espada que se llamaba quieto servía para eso. Para que algo que anda sin rumbo se pare. Para que algo que quiere bajar, o subir, o irse, se quede.
 
 —¿Y qué tengo que parar? —dijo Ilan.
 

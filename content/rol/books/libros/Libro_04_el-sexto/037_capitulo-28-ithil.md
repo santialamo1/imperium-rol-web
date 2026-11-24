@@ -1,6 +1,6 @@
 # Capítulo 28 · Ithil
 
-*Orac, los fosos de los cachorros y la sala de los escribas. Invierno del año 1170 de* *la Nueva Era (563 D.bA).*
+*Orac, los fosos de los cachorros y la sala de los escribas. Invierno del año 1170 de la Nueva Era (563 D.bA).*
 
 El cachorro tenía una piedra en cada mano y no las soltaba, y eso fue lo que hizo que Ithil se parara.
 
@@ -118,7 +118,7 @@ No esperaba. Estaba. Como siempre. Al lado de la mesa del plano. Con la ropa gri
 
 Los cincuenta escribas escribían. Sin levantar la vista. Las plumas rascaban.
 
-El plano de la colina seguía en la mesa. Ithil lo había visto mil veces. Había cambiado. Las calles eran las mismas, pero los nombres eran otros. Habían tachado cosas. *El elfo viejo. Mil veinticinco. No escribe.* tachado; al lado, *Escribe otra vez. Con la* *izquierda.* *La silla con el sombrero* tachada; al lado, en letra pequeña, *Fuera. Al norte. No* *se encuentra.* *El de corteza* tachado y vuelto a escribir. *El gnomo* —el otro, el nuevo— con un círculo, y al lado, una palabra: *ríe*.
+El plano de la colina seguía en la mesa. Ithil lo había visto mil veces. Había cambiado. Las calles eran las mismas, pero los nombres eran otros. Habían tachado cosas. El elfo viejo. Mil veinticinco. No escribe. tachado; al lado, Escribe otra vez. Con la izquierda. La silla con el sombrero tachada; al lado, en letra pequeña, Fuera. Al norte. No se encuentra. El de corteza tachado y vuelto a escribir. El gnomo —el otro, el nuevo— con un círculo, y al lado, una palabra: ríe.
 
 Y en el centro, donde antes estaba el palacio, un dibujo de una silla vacía.
 
@@ -184,9 +184,9 @@ Ithil no apartó la vista. Llevaba casi setecientos años sin poder mirar arriba
 
 Ithil tenía una pregunta.
 
-La tenía desde el 1080. Desde la pared que no era una pared, en el almacén del fuerte de la punta norte. Desde que puso la mano en el aire y tocó algo que no era piedra, que latía, que tenía un gnomo sentado delante cantando muy bajo. Desde que dijo *no está* *aquí* y se dio la vuelta y subió la escalera.
+La tenía desde el 1080. Desde la pared que no era una pared, en el almacén del fuerte de la punta norte. Desde que puso la mano en el aire y tocó algo que no era piedra, que latía, que tenía un gnomo sentado delante cantando muy bajo. Desde que dijo no está aquí y se dio la vuelta y subió la escalera.
 
-La regla era antigua. Más que el Señor. *El que pregunta, tiene que contestar. Si le* *preguntan.* Ithil la había descubierto en el 880, una noche, por accidente. La había usado tres veces desde entonces. Solo tres. Porque cada vez que preguntaba, el Señor se quedaba quieto, con la cara de escribano cansado, sorprendido, y luego lo miraba distinto. Más tiempo. Como se mira una herramienta que ha hecho un ruido raro.
+La regla era antigua. Más que el Señor. El que pregunta, tiene que contestar. Si le preguntan. Ithil la había descubierto en el 880, una noche, por accidente. La había usado tres veces desde entonces. Solo tres. Porque cada vez que preguntaba, el Señor se quedaba quieto, con la cara de escribano cansado, sorprendido, y luego lo miraba distinto. Más tiempo. Como se mira una herramienta que ha hecho un ruido raro.
 
 No preguntó lo de la pared.
 
@@ -198,7 +198,7 @@ El Señor se quedó quieto.
 
 ---
 
-—Porque me lo diste —dijo el Señor. Despacio. Con la otra voz. La cansada—. En la plaza. Me dijiste qué querías. *Que no me olviden.* Y para que no te olviden, alguien tiene que estar mirándote siempre. Y si tú miras arriba, te vas. A donde yo no oigo. Y entonces no te puedo guardar. Y si no te puedo guardar, te olvidan. —Se le movió la cara—. Te quité lo de arriba para cumplirte lo que pediste, general. Fue un regalo.
+—Porque me lo diste —dijo el Señor. Despacio. Con la otra voz. La cansada—. En la plaza. Me dijiste qué querías. Que no me olviden. Y para que no te olviden, alguien tiene que estar mirándote siempre. Y si tú miras arriba, te vas. A donde yo no oigo. Y entonces no te puedo guardar. Y si no te puedo guardar, te olvidan. —Se le movió la cara—. Te quité lo de arriba para cumplirte lo que pediste, general. Fue un regalo.
 
 —¿Y el arpa?
 
@@ -302,7 +302,7 @@ La abrió en el 1180, en el patio de armas de Orac, delante de Ithil, una tarde 
 
 Ese día, Ithil le dio un nombre.
 
-No uno de orco. Uno viejo. De antes. De una lengua que ya no hablaba nadie en Orac, y que Ithil había aprendido de un hombre de sal en una cueva, hacía setecientos años. Quería decir *el que guarda*. O *el que no suelta*. Las dos cosas. En esa lengua eran la misma palabra.
+No uno de orco. Uno viejo. De antes. De una lengua que ya no hablaba nadie en Orac, y que Ithil había aprendido de un hombre de sal en una cueva, hacía setecientos años. Quería decir el que guarda. O el que no suelta. Las dos cosas. En esa lengua eran la misma palabra.
 
 Glokark.
 

@@ -8,11 +8,11 @@ Había nacido en una fragua, en el hielo, al lado de un enano que sujetaba una l
 
 La colina olía a pan desde la calle de abajo hasta la biblioteca. A pan de centeno y de trigo y de nueces. A levadura. A horno. Por las mañanas era tan fuerte que se despertaba con hambre aunque hubiera cenado.
 
-Tenía treinta y cinco años y era la tercera vez que salía de Annkör. La primera que venía a la colina. Su padre le había escrito desde una isla sin nombre: *Ve. Mira. Aprende* *cómo es. Algún día será tuya y no la conoces.*
+Tenía treinta y cinco años y era la tercera vez que salía de Annkör. La primera que venía a la colina. Su padre le había escrito desde una isla sin nombre: Ve. Mira. Aprende cómo es. Algún día será tuya y no la conoces.
 
 Así que había venido. Y la colina olía a pan. Y la gente hablaba deprisa, y no hablaba enano, y lo miraba de reojo por la calle porque tenía el pelo negro de su madre y la piel curtida de viento y un abrigo de piel de foca en primavera, y porque se agachaba al pasar por todas las puertas aunque no hiciera falta, porque en Tiama los techos eran bajos.
 
-Le decían *el príncipe de hielo*. Aquí también.
+Le decían el príncipe de hielo. Aquí también.
 
 No le gustaba. Aquí tampoco.
 
@@ -40,7 +40,7 @@ Inés Vell sonrió. Un poco. Lo apuntó en una libreta. Asgal lo vio. No dijo na
 
 Le enseñó la biblioteca. Toda. Tres días.
 
-Los estantes de arriba, con los libros que leía la gente. Los de en medio, con los que no leía nadie. Los de abajo, con las crónicas. *De las Crónicas de Banderbill.* Desde Aren Vell, en el 396. Libro primero, libro segundo, libro tercero. Inés le enseñó la suya, la que estaba escribiendo, que todavía no estaba encuadernada. Era un montón de hojas sueltas atadas con un cordel.
+Los estantes de arriba, con los libros que leía la gente. Los de en medio, con los que no leía nadie. Los de abajo, con las crónicas. De las Crónicas de Banderbill. Desde Aren Vell, en el 396. Libro primero, libro segundo, libro tercero. Inés le enseñó la suya, la que estaba escribiendo, que todavía no estaba encuadernada. Era un montón de hojas sueltas atadas con un cordel.
 
 —¿Qué pone de mí? —preguntó Asgal.
 
@@ -60,7 +60,7 @@ El diario estaba en una mesa aparte. Al fondo. En una sala pequeña. Debajo de u
 
 —Es del elfo —dijo Inés—. Érandiul. Está con su padre, en la isla. Pero la silla se le guarda.
 
-Asgal miró el diario. Lo conocía. Lo había visto escribir, de niño, en Tiama. Un elfo viejísimo, con el sombrero, con la mano derecha temblando, escribiendo con la izquierda en un rollo de cuerda en la fragua. Le había preguntado una vez qué escribía. El elfo le había dicho: *Lo que se puede poner.*
+Asgal miró el diario. Lo conocía. Lo había visto escribir, de niño, en Tiama. Un elfo viejísimo, con el sombrero, con la mano derecha temblando, escribiendo con la izquierda en un rollo de cuerda en la fragua. Le había preguntado una vez qué escribía. El elfo le había dicho: Lo que se puede poner.
 
 —¿Puedo?
 
@@ -70,9 +70,9 @@ Asgal lo abrió. Por el final. Por las últimas entradas.
 
 *Año 816. Del nombramiento de los continentes.*
 
-Y antes. *Año 814. De la fundación de Tiama.*
+*Y antes. Año 814. De la fundación de Tiama.*
 
-Leyó. Despacio. *Bhargaras XI decidió que, para seguir investigando, debería* *construir una avanzada…*
+*Leyó. Despacio. Bhargaras XI decidió que, para seguir investigando, debería construir una avanzada…*
 
 —No pone nada de los enanos —dijo.
 
@@ -88,7 +88,7 @@ Inés Vell no dijo nada.
 
 —¿Por qué?
 
-—Pregúnteselo a él cuando vuelva. —Inés cerró el diario. Con cuidado—. Pero le diré lo que me dijo a mí, cuando le pregunté por qué no ponía nada del 729. Del capitán que se murió en el bosque. Me dijo: *Algunas cosas están mejor sin explicación. Y otras* *están mejor sin escribir. Y el que no lo entiende, no tiene que leerlo.*
+—Pregúnteselo a él cuando vuelva. —Inés cerró el diario. Con cuidado—. Pero le diré lo que me dijo a mí, cuando le pregunté por qué no ponía nada del 729. Del capitán que se murió en el bosque. Me dijo: Algunas cosas están mejor sin explicación. Y otras están mejor sin escribir. Y el que no lo entiende, no tiene que leerlo.
 
 ---
 
@@ -104,7 +104,7 @@ Lo llevó al sótano.
 
 Abajo había gente.
 
-El hombre de las gafas, el alto, el que sumaba. Sein. Que no levantó la vista. La mujer de las castañas, Wenna, que lo miró como se mira un caballo. El gnomo, Tibbet, con un sombrero que tenía cosido un *101* en la cinta y que se lo quitó y se lo volvió a poner al verlo. El elfo de los brazos de corteza, Verawel, con la pluma de garza. El muchacho de cara de quince años que no era un muchacho, Ottherius, que dijo nada más verlo:
+El hombre de las gafas, el alto, el que sumaba. Sein. Que no levantó la vista. La mujer de las castañas, Wenna, que lo miró como se mira un caballo. El gnomo, Tibbet, con un sombrero que tenía cosido un 101 en la cinta y que se lo quitó y se lo volvió a poner al verlo. El elfo de los brazos de corteza, Verawel, con la pluma de garza. El muchacho de cara de quince años que no era un muchacho, Ottherius, que dijo nada más verlo:
 
 —Le late raro. A este le late raro.
 
@@ -122,7 +122,7 @@ Le contaron lo que sabía. Más o menos. Lo que le había contado su padre en Ti
 
 Y le contaron lo que no sabía.
 
-Le contaron lo de la línea. Lo de la colina. Lo de lo que había debajo. Lo de la raíz que se fue al norte en el 607. Lo de Arghâl, que él había estudiado en Tiama en los libros que traían los barcos, y que no era como decían los libros. Lo de un hombre con ropa de escribano y una cara que no se quedaba, que preguntaba qué querías. Lo de los barcos de los orcos del oeste. Lo de un orco viejo de *El Guiso* que dijo una vez *uno que pregunta*.
+Le contaron lo de la línea. Lo de la colina. Lo de lo que había debajo. Lo de la raíz que se fue al norte en el 607. Lo de Arghâl, que él había estudiado en Tiama en los libros que traían los barcos, y que no era como decían los libros. Lo de un hombre con ropa de escribano y una cara que no se quedaba, que preguntaba qué querías. Lo de los barcos de los orcos del oeste. Lo de un orco viejo de El Guiso que dijo una vez uno que pregunta.
 
 Lo de Migyur, que él ya sabía, porque había tirado de la cuerda.
 
@@ -162,7 +162,7 @@ Ottherius no se movió. Estaba sentado en un taburete, al lado de Tibbet, con la
 
 Ottherius abrió los ojos.
 
-—No lo he dicho nunca —dijo— porque nadie me lo ha preguntado. —Miró a Sein —. Él lo apuntó en el 817. *Preguntar a Ottherius.* Lo apuntó. No lo preguntó. —Sonrió. Con pena—. Treinta y tres años. Lo apunta todo y no pregunta nada.
+—No lo he dicho nunca —dijo— porque nadie me lo ha preguntado. —Miró a Sein —. Él lo apuntó en el 817. Preguntar a Ottherius. Lo apuntó. No lo preguntó. —Sonrió. Con pena—. Treinta y tres años. Lo apunta todo y no pregunta nada.
 
 Sein no dijo nada. Se le pusieron las orejas rojas.
 
@@ -236,7 +236,7 @@ La pelirroja lo miró.
 
 La pelirroja tardó mucho en contestar.
 
-—Porque si voy —dijo—, y está allí lo que creo que está, me va a preguntar qué quiero. Otra vez. Y la última vez que me lo preguntó, en el 607, en una plaza de hierro rojo, le dije que no. Y él se lo guardó. —Se abrazó las rodillas—. No sé qué le diría ahora. Han pasado doscientos cuarenta y tres años. Estoy más cansada. —Lo miró—. Y si le digo algo que no es *no*, la colina se queda sin la que se queda.
+—Porque si voy —dijo—, y está allí lo que creo que está, me va a preguntar qué quiero. Otra vez. Y la última vez que me lo preguntó, en el 607, en una plaza de hierro rojo, le dije que no. Y él se lo guardó. —Se abrazó las rodillas—. No sé qué le diría ahora. Han pasado doscientos cuarenta y tres años. Estoy más cansada. —Lo miró—. Y si le digo algo que no es no, la colina se queda sin la que se queda.
 
 ---
 
@@ -284,7 +284,7 @@ No fue.
 
 No llegó a ir. El barco que lo llevaba a Annkör se encontró a mitad de camino con otro, de Lindos, que traía una carta. De su padre. Escrita en la isla de las cabras. Corta. Con la letra grande y torcida.
 
-*Asgal. No vengas. Quédate en Tiama. Si no vuelvo, la corona está en la colina, en* *una caja, y el aro lo llevo yo. Pídele otro a Dalbur. Que te lo haga de hierro de la veta.* *Que te baile. Te quiero. Tu padre.*
+*Asgal. No vengas. Quédate en Tiama. Si no vuelvo, la corona está en la colina, en una caja, y el aro lo llevo yo. Pídele otro a Dalbur. Que te lo haga de hierro de la veta. Que te baile. Te quiero. Tu padre.*
 
 Asgal leyó la carta en la cubierta. Delante de todos. No lloró.
 
@@ -296,6 +296,8 @@ Y mandó al capitán que siguiera rumbo a Tiama.
 
 Inés Vell lo apuntó, años después, en su crónica. Con su letra. Con el lápiz atravesado en el pelo.
 
-*El príncipe de hielo se agachaba al pasar por las puertas de la colina aunque no* *hiciera falta. Lo apunto porque es lo único que hizo en la colina que no le había pedido* *nadie. Lo demás lo hizo porque se lo pidieron. Pocos Emperadores han sabido hacer eso.* *Quedarse cuando se lo pidieron.*
+*El príncipe de hielo se agachaba al pasar por las puertas de la colina aunque no hiciera falta. Lo apunto porque es lo único que hizo en la colina que no le había pedido nadie. Lo demás lo hizo porque se lo pidieron. Pocos Emperadores han sabido hacer eso. Quedarse cuando se lo pidieron.*
 
-*Que conste que quiso ir.* *I. V.*
+*Que conste que quiso ir.*
+
+*I. V.*

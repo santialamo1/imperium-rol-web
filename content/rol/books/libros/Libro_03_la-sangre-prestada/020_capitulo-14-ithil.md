@@ -46,11 +46,11 @@ Ithil apretó los dedos en el aire, donde habían estado las cuerdas.
 
 ---
 
-Ithil había nacido en Tawarsinan, en la ciudad de *los árboles que esperan*, hacía cuatrocientos doce años. El mayor de tres. Nimrath, el segundo, era serio y no se reía. Aeloen, la pequeña, se reía de todo.
+Ithil había nacido en Tawarsinan, en la ciudad de los árboles que esperan, hacía cuatrocientos doce años. El mayor de tres. Nimrath, el segundo, era serio y no se reía. Aeloen, la pequeña, se reía de todo.
 
 Él tocaba el arpa. Era lo que hacía. Lo único. Mejor que nadie en el bosque. Tocaba en las bodas, en los entierros, en las noches de luna en que los sabios callaban y se oía, si uno se tumbaba en la tierra, la otra mitad respirar debajo.
 
-En el 357 vinieron los orcos. Nuevos. Organizados. Que no miraban arriba. Que alguien había entrenado, *desde las sombras del tiempo*, como escribió un elfo viejo con sombrero en su diario. En el 358 quemaron la ciudad. Elen, la hija de Aeloen, su sobrina, la que le pedía que le tocara la canción de la lluvia mansa para dormirse, se murió en la puerta del árbol de su casa, con una flecha en el cuello.
+En el 357 vinieron los orcos. Nuevos. Organizados. Que no miraban arriba. Que alguien había entrenado, desde las sombras del tiempo, como escribió un elfo viejo con sombrero en su diario. En el 358 quemaron la ciudad. Elen, la hija de Aeloen, su sobrina, la que le pedía que le tocara la canción de la lluvia mansa para dormirse, se murió en la puerta del árbol de su casa, con una flecha en el cuello.
 
 Ithil se fue esa noche. Con cien. Hacia abajo. A buscar a los que habían enseñado a los orcos.
 
@@ -58,7 +58,7 @@ Tardó cuarenta y dos años en encontrarlos. A los dos años ya oía en sueños 
 
 ---
 
-Los encontró en el 400. En una cueva de sal en las montañas rojas. Con un hombre de sal sentado en el suelo, que contaba martes, y que le dijo, sin levantar la cabeza: *ya te* *esperaba*.
+Los encontró en el 400. En una cueva de sal en las montañas rojas. Con un hombre de sal sentado en el suelo, que contaba martes, y que le dijo, sin levantar la cabeza: ya te esperaba.
 
 Y detrás del hombre de sal, de pie, un hombre de gris.
 
@@ -90,7 +90,7 @@ Los ojos ya se le habían empezado a poner blancos solos, de tanta oscuridad. Un
 
 No podía mirar arriba.
 
-No es que no quisiera. No podía. El cuello no le giraba. Los ojos no le subían. Era como si arriba se hubiera convertido en un sitio que no existía; como intentar mirar detrás de la propia cabeza. Los cien eran iguales. Un elfo viejo de la colina, con sombrero, que se enteró de lo que habían hecho, les puso nombre: *drow*. *El que mira hacia abajo*. Ithil lo supo y le pareció justo.
+No es que no quisiera. No podía. El cuello no le giraba. Los ojos no le subían. Era como si arriba se hubiera convertido en un sitio que no existía; como intentar mirar detrás de la propia cabeza. Los cien eran iguales. Un elfo viejo de la colina, con sombrero, que se enteró de lo que habían hecho, les puso nombre: drow. El que mira hacia abajo. Ithil lo supo y le pareció justo.
 
 Y no se fue.
 
@@ -116,7 +116,7 @@ Porque era lo único que tenía. Y porque, si se iba, nada habría valido la pen
 
 Ithil no dijo nada.
 
-Era la primera vez en doscientos años que el maestro decía *el que duerme*.
+Era la primera vez en doscientos años que el maestro decía el que duerme.
 
 Lo había sabido siempre. Que había algo debajo. El latido. Lo que los sabios de Tawarsinan escuchaban tumbados en la tierra en las noches de luna. La otra mitad. Pero había pensado que el maestro era eso. Que el maestro era lo de debajo, hablando.
 
@@ -154,7 +154,7 @@ El maestro sonrió.
 
 Ithil no se movió.
 
-Se acordó de Elen. De la flecha. De la puerta del árbol de su casa. De que tenía once años, de los élficos, y le pedía la canción de la lluvia mansa para dormirse, y él se la tocaba, y ella decía *otra vez*, y él se la tocaba otra vez.
+Se acordó de Elen. De la flecha. De la puerta del árbol de su casa. De que tenía once años, de los élficos, y le pedía la canción de la lluvia mansa para dormirse, y él se la tocaba, y ella decía otra vez, y él se la tocaba otra vez.
 
 Se acordó de que nunca le había tocado la tercera vuelta mal. Nunca. Era su hermana la que se equivocaba.
 

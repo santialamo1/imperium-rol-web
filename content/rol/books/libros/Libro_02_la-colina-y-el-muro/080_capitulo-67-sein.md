@@ -2,15 +2,7 @@
 
 *Banderbill. Primavera del año 344 de la Nueva Era.*
 
-*Del libro de cuentas de Sein Vell, año 344. Recuento de los años de paz: ciento*
-
-*ochenta y ocho. Me equivoqué al empezar a contar. Empecé en el 157. Debí*
-
-*empezar en el 156, que también fue paz, aunque con orcos de una clase*
-
-*extraña. No lo corrijo. Me da pereza. Primera vez en trescientos años que algo*
-
-*me da pereza.*
+*Del libro de cuentas de Sein Vell, año 344. Recuento de los años de paz: ciento ochenta y ocho. Me equivoqué al empezar a contar. Empecé en el 157. Debí empezar en el 156, que también fue paz, aunque con orcos de una clase extraña. No lo corrijo. Me da pereza. Primera vez en trescientos años que algo me da pereza.*
 
 La coronación de Lindiel, decimotercer Emperador de Banderbill, hijo de Eandir II, nieto de Niestrel el Justo, duró cuatro horas y media, y Sein Vell la pasó entera de pie al fondo de la plaza, entre un puesto de buñuelos y una fuente, apuntando cuántas veces se le caía la corona al obispo.
 
@@ -60,7 +52,7 @@ El gnomo tenía doscientos noventa y dos años y la cara de uno de ciento cuatro
 
 —No estoy serio —dijo Sein—. Siempre estoy así.
 
-—No. Siempre estás *serio como un número*. Hoy estás serio como una persona. — Tibbet se subió a la silla de enfrente, de pie, para estar a la altura—. Es distinto.
+—No. Siempre estás serio como un número. Hoy estás serio como una persona. — Tibbet se subió a la silla de enfrente, de pie, para estar a la altura—. Es distinto.
 
 Sein no contestó.
 
@@ -130,7 +122,7 @@ Hablaron toda la mañana. Como hablaban siempre: sin prisa, con silencios largos
 
 —¿Por qué?
 
-—No lo saben. Dicen que *algo los come*. —Lanther se encogió de hombros—. Y los tramperos del Mercado dicen que han visto humo en el oeste. Lejos. Muy lejos. Mucho humo. De muchas hogueras. Pero sin tambores.
+—No lo saben. Dicen que algo los come. —Lanther se encogió de hombros—. Y los tramperos del Mercado dicen que han visto humo en el oeste. Lejos. Muy lejos. Mucho humo. De muchas hogueras. Pero sin tambores.
 
 Sein se quedó quieto.
 
@@ -162,7 +154,7 @@ Esa tarde, Sein convocó a la Orden.
 
 No se convocaba casi nunca. No hacía falta. Se veían, se escribían, se dejaban papeles con un palote debajo de las puertas. Pero de vez en cuando, cada cincuenta años, cada cien, había que sentarse a una mesa, todos, y hablar.
 
-Eran siete. Ya no eran *tres que saben y uno que suma*. Eran siete, más los que no sabían que eran. Lanther. Sein. Wenna, la Fiel, que había subido del Mercado en un carro, quejándose de las mulas, más gorda que nunca. Tibbet. Una elfa de Nix que se llamaba Saelith y que había sustituido a Verawel cuando Verawel se fue a los árboles. Un enano de las montañas grises, Kildo, el que decía *piedra*, que ahora tenía doscientos años y decía muchas más cosas pero todas sobre piedras. Y Jonas Vell, el aprendiz, el cronista de turno, un muchacho de veinte años con gafas que llevaba el apellido desde hacía tres y que temblaba.
+Eran siete. Ya no eran tres que saben y uno que suma. Eran siete, más los que no sabían que eran. Lanther. Sein. Wenna, la Fiel, que había subido del Mercado en un carro, quejándose de las mulas, más gorda que nunca. Tibbet. Una elfa de Nix que se llamaba Saelith y que había sustituido a Verawel cuando Verawel se fue a los árboles. Un enano de las montañas grises, Kildo, el que decía piedra, que ahora tenía doscientos años y decía muchas más cosas pero todas sobre piedras. Y Jonas Vell, el aprendiz, el cronista de turno, un muchacho de veinte años con gafas que llevaba el apellido desde hacía tres y que temblaba.
 
 Se sentaron en el sótano de la biblioteca. Alrededor del arcón de pino con el palote.
 
@@ -180,7 +172,7 @@ Y se dio cuenta de que no tenía nada que proponer.
 
 ---
 
-No tenía nada. Eso fue lo que más le asustó de todo. Más que los pájaros. Más que el humo. Llevaba trescientos años proponiendo. *Lo propuse yo.* Lo había escrito tantas veces en el debe que tenía la frase gastada. Lo de Odo. Lo de Bredinlo. Lo de dejar leer. Lo de los papeles de los viernes. Siempre tenía algo. Un plan. Una cuenta. Una columna.
+No tenía nada. Eso fue lo que más le asustó de todo. Más que los pájaros. Más que el humo. Llevaba trescientos años proponiendo. Lo propuse yo. Lo había escrito tantas veces en el debe que tenía la frase gastada. Lo de Odo. Lo de Bredinlo. Lo de dejar leer. Lo de los papeles de los viernes. Siempre tenía algo. Un plan. Una cuenta. Una columna.
 
 Ahora no tenía nada.
 
@@ -210,7 +202,7 @@ Lanther lo miró desde el otro lado de la mesa. Mucho rato. Con aquellos ojos gr
 
 —¿Desde cuándo? —preguntó.
 
-—No lo sé. —Sein se puso las gafas—. Esta mañana me lo he notado. En la coronación. Se le ha caído la corona al obispo tres veces y no me ha hecho gracia. Lo he apuntado. Nada más. Antes me habría reído. Antes habría puesto *que conste que se le cayó*. Esta vez he puesto *tres*.
+—No lo sé. —Sein se puso las gafas—. Esta mañana me lo he notado. En la coronación. Se le ha caído la corona al obispo tres veces y no me ha hecho gracia. Lo he apuntado. Nada más. Antes me habría reído. Antes habría puesto que conste que se le cayó. Esta vez he puesto tres.
 
 —Eso es grave —dijo Tibbet.
 
@@ -264,11 +256,13 @@ Lanther también.
 
 —Ahí está —dijo ella.
 
-Sein abrió el libro de cuentas. Por la página de ese día. Debajo de *tres*.
+Sein abrió el libro de cuentas. Por la página de ese día. Debajo de tres.
 
 Y escribió, con su letra de niño, que no había cambiado en trescientos años:
 
-*Me he reído. Una vez. Por los escalones. Que conste.* *Me queda poco. Lo guardo.*
+*Me he reído. Una vez. Por los escalones. Que conste.*
+
+*Me queda poco. Lo guardo.*
 
 ---
 

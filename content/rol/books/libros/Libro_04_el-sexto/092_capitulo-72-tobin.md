@@ -1,6 +1,6 @@
 # Capítulo 72 · Tobin
 
-*Ullathorpe, la guarnición y la posada de Joss. Otoño del año 1439 de la Nueva Era* *(832 D.bA).*
+*Ullathorpe, la guarnición y la posada de Joss. Otoño del año 1439 de la Nueva Era (832 D.bA).*
 
 La armadura pesaba diecinueve libras.
 
@@ -50,9 +50,9 @@ La gente lo miraba.
 
 Por la calle. Cuando bajaba con el paño. Con la armadura de diecinueve libras brillando al sol de otoño. Lo miraban las mujeres de las puertas, los niños de los portales, los viejos sentados en los poyos. No decían nada. Miraban la armadura. Miraban el paño. Miraban su cara, que estaba redonda, porque comía.
 
-*Dicen que para que la gente vea una armadura*, le había dicho a aquel granjero, en el calabozo de la colina, en primavera.
+Dicen que para que la gente vea una armadura, le había dicho a aquel granjero, en el calabozo de la colina, en primavera.
 
-*Que no la vean mucho*, había dicho el granjero.
+Que no la vean mucho, había dicho el granjero.
 
 Tobin lo entendía ahora.
 
@@ -68,7 +68,7 @@ Había empezado a hablar.
 
 No en la plaza. En los campos. En las casas. En los cobertizos de los molinos quemados. En voz baja, primero; luego no. Hablaba de lo que había visto en la capital. Las naranjas en la cuneta. La cúpula dorada. Los guardias con armaduras brillantes. El hombre del trono, que no lo había mirado.
 
-*Míranos*, decía que le había dicho. *Y no nos miró.*
+Míranos, decía que le había dicho. Y no nos miró.
 
 La gente escuchaba.
 
@@ -126,7 +126,7 @@ Tobin la miró.
 
 La posada de Joss estaba en la plaza vieja.
 
-Era la más antigua de Ullathorpe. Tenía la puerta grande de las de antes, la que se hizo para que pasaran soldados con armadura. Dentro, encima de la chimenea, un cuadro ennegrecido de un soldado en una almena. Detrás de la barra, la nieta de Joel, Maren, que tenía cincuenta años y el pelo blanco, y que guardaba debajo de la barra, al lado del libro de deudas de su abuelo, una nota en un marco: *Para que no tenga hambre mientras calla.*
+Era la más antigua de Ullathorpe. Tenía la puerta grande de las de antes, la que se hizo para que pasaran soldados con armadura. Dentro, encima de la chimenea, un cuadro ennegrecido de un soldado en una almena. Detrás de la barra, la nieta de Joel, Maren, que tenía cincuenta años y el pelo blanco, y que guardaba debajo de la barra, al lado del libro de deudas de su abuelo, una nota en un marco: Para que no tenga hambre mientras calla.
 
 No servía comida desde agosto. No había. Servía agua, y cerveza aguada, y sitio. La gente iba por el sitio. Por estar juntos. Por oír.
 
@@ -166,7 +166,7 @@ Se levantó.
 
 Lo que pasó después no lo contó nadie igual.
 
-Unos dijeron que Tobin echó mano a la espada. No es verdad. Tenía las manos vacías; se las había limpiado en la camisa, del barro del cementerio, antes de entrar. Otros dijeron que alguien gritó *¡espía!*. Puede ser. Otros, que fue un hombre del barrio de los tintes, al que se le había muerto la mujer en septiembre y la hija en octubre, que llevaba tres días sin hablar y que se levantó de la mesa de al lado de la puerta con un cuchillo de cortar cuero.
+Unos dijeron que Tobin echó mano a la espada. No es verdad. Tenía las manos vacías; se las había limpiado en la camisa, del barro del cementerio, antes de entrar. Otros dijeron que alguien gritó ¡espía!. Puede ser. Otros, que fue un hombre del barrio de los tintes, al que se le había muerto la mujer en septiembre y la hija en octubre, que llevaba tres días sin hablar y que se levantó de la mesa de al lado de la puerta con un cuchillo de cortar cuero.
 
 Eso es verdad.
 

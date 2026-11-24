@@ -58,7 +58,7 @@ Eran muchas. Pequeñas. Amarillas. En una colina, o en una llanura, no se veía 
 
 Ithil se quedó mirando las luces.
 
-Se acordó de una cosa. No sabía de dónde. De una plaza, de noche, con un fuego pequeño, y un niño humano gritando *¡casas en los árboles!* con toda la fuerza de sus pulmones. Y de una niña de pelo negro asomada a una barandilla.
+Se acordó de una cosa. No sabía de dónde. De una plaza, de noche, con un fuego pequeño, y un niño humano gritando ¡casas en los árboles! con toda la fuerza de sus pulmones. Y de una niña de pelo negro asomada a una barandilla.
 
 Se le fue. Como se le iban las cosas desde hacía años. Como se va el agua de entre los dedos.
 
@@ -158,7 +158,7 @@ No de la niña de pelo negro. De otra cosa. Más reciente. De hacía ochenta añ
 
 Intentó acordarse de cuál.
 
-*Ithil.* Ese no. Ese era el de fuera.
+Ithil. Ese no. Ese era el de fuera.
 
 El otro. El de dentro. El que le puso su madre en una plataforma a cien varas del suelo, en una noche de luna, cantando.
 
@@ -196,7 +196,7 @@ Una voz. Que no era la de Pim. Que salió de la boca de Pim, pero no era suya, c
 
 Que tiraba.
 
-—*Arghâl* —dijo la voz—. *Que se llame así.*
+—Arghâl —dijo la voz—. Que se llame así.
 
 La piedra gris no se movió.
 
@@ -250,7 +250,7 @@ Wenna dejó de masticar.
 
 —¿Qué?
 
-—Que ya casi se acuerda. De la señora de la *s*.
+—Que ya casi se acuerda. De la señora de la s.
 
 Wenna se quedó quieta mucho rato. Con una castaña a medio pelar en la mano.
 
@@ -258,12 +258,12 @@ Luego la dejó en el barreño.
 
 Se levantó. Le costó. Se secó los pies con el delantal. Y entró en la casa a buscar papel, una pluma, y un palote que dibujar al pie, para mandarle a una pelirroja que no se moría una nota que tardaría un mes en llegar y que diría solo tres cosas.
 
-*Algo ha echado raíces al sur.* *El gris casi se acuerda.*
+*Algo ha echado raíces al sur.*
+
+*El gris casi se acuerda.*
 
 *Ven antes de que se acuerde. No llegues tarde. Esta vez no.*
 
 ---
 
-— —
-
-**FIN DEL LIBRO SEGUNDO**
+FIN DEL LIBRO SEGUNDO

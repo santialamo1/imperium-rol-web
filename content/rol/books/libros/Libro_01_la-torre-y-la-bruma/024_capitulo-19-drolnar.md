@@ -10,7 +10,7 @@ La había conocido en el otoño del año ochenta y seis, como había anunciado e
 
 Pero Genieveve se arrodilló delante de Ilse, a su altura, y le preguntó qué estaba leyendo.
 
-—Las *Fábulas del Bosque*, majestad —dijo Ilse, que no tenía miedo de nada—. La del zorro que engaña al oso. Pero me parece que el zorro es un tramposo y que el oso tendría que haberle partido la cara.
+—Las Fábulas del Bosque, majestad —dijo Ilse, que no tenía miedo de nada—. La del zorro que engaña al oso. Pero me parece que el zorro es un tramposo y que el oso tendría que haberle partido la cara.
 
 Genieveve se echó a reír. Una risa limpia, sorprendida, que Drolnar no le había oído nunca en doce años.
 

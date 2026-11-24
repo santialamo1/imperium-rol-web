@@ -1,6 +1,6 @@
 # Capítulo 71 · Mirela Vell
 
-*La colina de Banderbill. Invierno del año 892 y primavera del 893 de la Nueva Era* *(285–286 D.bA).*
+*La colina de Banderbill. Invierno del año 892 y primavera del 893 de la Nueva Era (285–286 D.bA).*
 
 El cuaderno de su padre estuvo en la mesa de la cocina cuarenta y un días, abierto por la última hoja, con el lápiz encima, y Mirela no lo tocó.
 
@@ -10,7 +10,7 @@ Lo miraba. Por la mañana, al hacer el café. Por la noche, al recoger. La hoja 
 
 Y nada.
 
-La letra de su padre. Torcida, porque la había escrito de pie, en el muro, deprisa. El trazo de la última *e* se iba hacia abajo, como si el lápiz hubiera seguido un poco sin él.
+La letra de su padre. Torcida, porque la había escrito de pie, en el muro, deprisa. El trazo de la última e se iba hacia abajo, como si el lápiz hubiera seguido un poco sin él.
 
 Mirela no sabía cómo acabarla.
 
@@ -20,7 +20,7 @@ Nadie sabía.
 
 Lo enterraron en el cementerio de la ladera sur, el de los Vell, que no era de los Vell sino de todos, pero donde los cronistas tenían una fila. Aren. Ilse. Matías. Nerea. Benet. Clara. Rufo. Inés. Y ahora Bastián. Cada uno con una piedra pequeña, del río, con el nombre y un año. El año en que les dieron el apellido.
 
-Mirela puso la de su padre. *Bastián Vell. 870.*
+Mirela puso la de su padre. Bastián Vell. 870.
 
 La pelirroja estaba allí. Y el de las gafas. Y la de las castañas, que había vuelto del valle negro con la voz rota de cantar tres días seguidos hacia abajo. Y el de corteza, que no había vuelto entero: la corteza le había subido por el cuello hasta la barbilla, y no se le doblaba el cuello, y lo trajeron en un carro.
 
@@ -84,7 +84,7 @@ Así que dijo lo que habría dicho su padre. Lo que decía su abuela. Lo que dec
 
 Y sacó su cuaderno. El suyo. No el de su padre. Uno pequeño, que llevaba siempre, para las copias.
 
-Y apuntó: *Érandiul no escribe desde el 856 porque cada vez que moja la pluma oye una pregunta.*
+*Y apuntó: Érandiul no escribe desde el 856 porque cada vez que moja la pluma oye una pregunta.*
 
 Érandiul la miró apuntar.
 
@@ -114,17 +114,17 @@ Y escribió.
 
 *Año 892 (o 285 D.bA). De la aparición del Demonio.*
 
-*Luego de haber sido descubierta la Isla Siniestra, el Demonio, líder de las Hordas* *de Orcos que acechaban al Imperio, supo que su factor sorpresa había sido frustrado. Sin* *embargo, una vez armado el ejército, atacó sin piedad la capital Imperial, Banderbill. Por* *primera vez en el plano real, el Demonio en persona dirigió las tropas y abandonó su* *fortaleza. Sin embargo, los pocos supervivientes que vimos la ciudad oscura, habíamos* *descifrado los planes del Demonio y nos dimos cuenta que preparaba un ejército para* *atacar. Sus filas ya no contaban sólo con Orcos, sino también con Elfos Drows.*
+*Luego de haber sido descubierta la Isla Siniestra, el Demonio, líder de las Hordas de Orcos que acechaban al Imperio, supo que su factor sorpresa había sido frustrado. Sin embargo, una vez armado el ejército, atacó sin piedad la capital Imperial, Banderbill. Por primera vez en el plano real, el Demonio en persona dirigió las tropas y abandonó su fortaleza. Sin embargo, los pocos supervivientes que vimos la ciudad oscura, habíamos descifrado los planes del Demonio y nos dimos cuenta que preparaba un ejército para atacar. Sus filas ya no contaban sólo con Orcos, sino también con Elfos Drows.*
 
 *Así, el ataque del Demonio quedó frustrado y fue rechazado.*
 
-*Pero no había sido en vano: ahora todo el mundo sabía que había otra forma de* *vida y las filas del Demonio ya han comenzaron a ampliarse en cantidad y variedad de* *razas.*
+*Pero no había sido en vano: ahora todo el mundo sabía que había otra forma de vida y las filas del Demonio ya han comenzaron a ampliarse en cantidad y variedad de razas.*
 
 ---
 
 Mirela lo leyó por encima del hombro.
 
-—*Ya han comenzaron* —dijo. Sin querer.
+—Ya han comenzaron —dijo. Sin querer.
 
 Érandiul se quedó quieto.
 
@@ -134,7 +134,7 @@ Miró la línea. La leyó otra vez.
 
 —Sí.
 
-—Dos tiempos. *Han comenzado. Comenzaron.* —Le tembló la boca—. Empecé uno y acabé el otro. Porque a la mitad… —Se calló.
+—Dos tiempos. Han comenzado. Comenzaron. —Le tembló la boca—. Empecé uno y acabé el otro. Porque a la mitad… —Se calló.
 
 —¿A la mitad qué?
 
@@ -154,7 +154,7 @@ El elfo viejo tardó en contestar.
 
 Y luego hizo otra cosa.
 
-Debajo de la entrada, dejó un hueco. Grande. Media hoja. Y debajo del hueco escribió, entre paréntesis, como había escrito *(Mapa del continente Este)* en el 721, y *(Primer avistaje del continente Helado)* en el 811:
+Debajo de la entrada, dejó un hueco. Grande. Media hoja. Y debajo del hueco escribió, entre paréntesis, como había escrito (Mapa del continente Este) en el 721, y (Primer avistaje del continente Helado) en el 811:
 
 *(El ser más repugnante del mundo, el Demonio)*
 
@@ -176,7 +176,7 @@ No había estado nunca. Su padre sí, alguna vez. Su abuela, muchas. Ella no.
 
 Bajó la escalera con una vela.
 
-Abajo estaban todos. Los que había visto en el cementerio. Y otros. El panadero de la calle de abajo, el tío Teo, con harina en las cejas, que la saludó con la cabeza como si se conocieran de siempre. Un gnomo con un sombrero que tenía cosido un *109*. Un muchacho de cara de quince años que no era un muchacho, Ottherius, el de Rinkel, que dijo nada más verla, con los ojos cerrados: *Le late como a su padre*.
+Abajo estaban todos. Los que había visto en el cementerio. Y otros. El panadero de la calle de abajo, el tío Teo, con harina en las cejas, que la saludó con la cabeza como si se conocieran de siempre. Un gnomo con un sombrero que tenía cosido un 109. Un muchacho de cara de quince años que no era un muchacho, Ottherius, el de Rinkel, que dijo nada más verla, con los ojos cerrados: Le late como a su padre.
 
 Y el Emperador. De pie. Con el aro doblado.
 
@@ -230,11 +230,11 @@ La pelirroja tardó en contestar.
 
 ---
 
-Mirela pensó en su abuela. Dormida encima de una hoja. *Llevamos treinta y cuatro.* *Faltan.*
+Mirela pensó en su abuela. Dormida encima de una hoja. Llevamos treinta y cuatro. Faltan.
 
-Pensó en su padre. Sentado en el muro. *No fue una pelea. Fue*
+Pensó en su padre. Sentado en el muro. No fue una pelea. Fue
 
-Pensó en todas las frases sin acabar que había en la biblioteca. En los márgenes. En las notas al pie con letra de niño. En un diario donde alguien había escrito *ya han* *comenzaron* porque miró arriba a la mitad.
+Pensó en todas las frases sin acabar que había en la biblioteca. En los márgenes. En las notas al pie con letra de niño. En un diario donde alguien había escrito ya han comenzaron porque miró arriba a la mitad.
 
 —Para acordarme —dijo.
 
@@ -262,7 +262,7 @@ Sein lo apuntó. En el libro cuadragésimo octavo. En la columna del debe.
 
 Y en el margen, en letra muy pequeña:
 
-*Primera cronista Vell que no se muere. Ya somos dos Vell que no se mueren; ella* *no es pariente mía. Los Vell se quedan y apuntan. Esta se quedará más.*
+*Primera cronista Vell que no se muere. Ya somos dos Vell que no se mueren; ella no es pariente mía. Los Vell se quedan y apuntan. Esta se quedará más.*
 
 ---
 
@@ -288,6 +288,8 @@ No escribió nada.
 
 Pero lo dejó en la mesa del sótano de la biblioteca. En la de Sein. Abierto. Con el lápiz encima. Al lado del libro cuadragésimo octavo.
 
-Y escribió en su cuaderno, el pequeño: *La frase de mi padre está en la mesa de abajo. Sin acabar. Cuando sepa cómo, la acabo.*
+Y escribió en su cuaderno, el pequeño: La frase de mi padre está en la mesa de abajo. Sin acabar. Cuando sepa cómo, la acabo.
 
-*Que conste.* *M. V.*
+*Que conste.*
+
+*M. V.*

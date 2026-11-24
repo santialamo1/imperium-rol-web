@@ -222,9 +222,9 @@ Dejó el farol en el suelo. Sacó del bolsillo un cardo nuevo, uno que había co
 
 Zarparon con la luna nueva.
 
-Casimir subió a la *Penitente*, que era el nombre que él le había puesto en secreto a la nave capitana, porque las naves de los muertos no tenían nombre y a él le parecía una falta de educación. Era la más grande de la flota. Tenía tres palos y una bodega honda como un pozo, sellada con brea y Sal Negra. Arriba, en cubierta, Loth había dejado un espacio libre junto al castillo de popa, con un toldo de lona y un catre de campaña y un brasero de sal común, de la blanca, de la que se usaba para frenar la niebla. Para él. Para el único vivo.
+Casimir subió a la Penitente, que era el nombre que él le había puesto en secreto a la nave capitana, porque las naves de los muertos no tenían nombre y a él le parecía una falta de educación. Era la más grande de la flota. Tenía tres palos y una bodega honda como un pozo, sellada con brea y Sal Negra. Arriba, en cubierta, Loth había dejado un espacio libre junto al castillo de popa, con un toldo de lona y un catre de campaña y un brasero de sal común, de la blanca, de la que se usaba para frenar la niebla. Para él. Para el único vivo.
 
-Casimir se sentó en el catre. Puso el libro de cuentas sobre las rodillas. El quinto tomo; los otros cuatro los había dejado en el trono de roble negro, con una nota encima: *Para quien venga después. Están todos. Casimir Vell, canciller.*
+Casimir se sentó en el catre. Puso el libro de cuentas sobre las rodillas. El quinto tomo; los otros cuatro los había dejado en el trono de roble negro, con una nota encima: Para quien venga después. Están todos. Casimir Vell, canciller.
 
 Seiscientas quillas negras soltaron amarras al mismo tiempo, sin una orden, sin un grito, sin un solo ruido salvo el crujido de la madera y el golpe del agua contra los cascos. Los muertos subían a los barcos en hileras ordenadas, por las pasarelas, como corderos. Ocupaban las cubiertas, las bodegas, los entrepuentes. Se quedaban de pie, apretados, hombro contra hombro, con los ojos blancos abiertos o cerrados, mirando al frente. No había espacio entre ellos para un alfiler.
 
@@ -242,7 +242,7 @@ El velo tembló otra vez. Casimir no supo si aquello era una risa o una pena. Ta
 
 Abrió el libro. Mojó la pluma en el tintero que llevaba colgado del cuello. Y escribió, con su letra de chancillería, la primera línea del quinto tomo:
 
-*Año 26 de la Nueva Era. Último día del otoño. Zarpamos. Seiscientos barcos. Un* *vivo. Rumbo: el sur, hacia el sol, que ellos no han visto nunca. Que conste.*
+*Año 26 de la Nueva Era. Último día del otoño. Zarpamos. Seiscientos barcos. Un vivo. Rumbo: el sur, hacia el sol, que ellos no han visto nunca. Que conste.*
 
 Luego, debajo, más pequeño, por si alguien lo leía algún día:
 

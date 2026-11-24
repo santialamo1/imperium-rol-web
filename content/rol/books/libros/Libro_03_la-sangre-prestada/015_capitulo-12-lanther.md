@@ -6,7 +6,7 @@ Llegó tarde.
 
 No mucho. Once días. Lo que tardó el barco de Nix en subir por la costa con viento en contra, y lo que tardó ella en bajarse del barco, y lo que tardó en subir del puerto a la casa de la puerta azul, que fue lo único que hizo deprisa.
 
-Pero llegó tarde. Mabel de la loma del espino llevaba cinco semanas enterrada en el cementerio de la ladera este, con una piedra que decía *miraba arriba*, y Lanther no la había conocido nunca.
+Pero llegó tarde. Mabel de la loma del espino llevaba cinco semanas enterrada en el cementerio de la ladera este, con una piedra que decía miraba arriba, y Lanther no la había conocido nunca.
 
 Lo pensó en las escaleras. Que la había visto una vez. En el 498. En la primera casa de pastores donde paró con Wenna. No; aquella era otra, una mujer del oeste, la del niño que no lloraba. A Mabel no la había visto. Mabel había vivido setenta y tres años a dos horas de la muralla, en la loma del espino, viendo cómo se llevaban a todos, y Lanther no había llamado nunca a su puerta.
 
@@ -22,7 +22,7 @@ Leyó la libreta de Tibbet sentada en el suelo. Dieciséis páginas de letra peq
 
 Luego leyó la lista de nombres. Ochenta y siete. Con la loma y el año.
 
-El ochenta y siete decía: *Grosh, orco, de la hondonada. Volvió.*
+El ochenta y siete decía: Grosh, orco, de la hondonada. Volvió.
 
 Lanther cerró la libreta.
 
@@ -46,7 +46,7 @@ Lanther no dijo nada.
 
 Sein se volvió. Se quitó las gafas.
 
-—Y *la colina es el estómago* —dijo—. *Lo que quiere de verdad está debajo de la* *colina.* —Se frotó los ojos—. Debajo de la colina están las cuevas viejas. Las de la ladera este. Las de antes de Bander. Donde dormían los primeros, el primer invierno. Donde está la raíz que tocó Lucius.
+—Y la colina es el estómago —dijo—. Lo que quiere de verdad está debajo de la colina. —Se frotó los ojos—. Debajo de la colina están las cuevas viejas. Las de la ladera este. Las de antes de Bander. Donde dormían los primeros, el primer invierno. Donde está la raíz que tocó Lucius.
 
 —Lo sé.
 
@@ -54,7 +54,7 @@ Sein se volvió. Se quitó las gafas.
 
 Lanther levantó la vista. Lo miró.
 
-—Lo sabía desde que la niña dijo *dos* —dijo—. Lo sabía desde que puse la mano en la piedra y no oí nada. Lo sabía, Sein. No lo veía.
+—Lo sabía desde que la niña dijo dos —dijo—. Lo sabía desde que puse la mano en la piedra y no oí nada. Lo sabía, Sein. No lo veía.
 
 ---
 
@@ -138,7 +138,7 @@ Tibbet se bajó de la almena. Despacio. Se quitó el sombrero.
 
 —¿Treinta qué?
 
-—La lista. —Tibbet sacó el papel del forro, al lado del saltamontes. Lo desdobló. Tenía veintinueve líneas. Las últimas siete, nuevas, de la semana pasada, de lo que había contado Mabel—. Esta es la treinta. *Hay una torre. Se ve desde la muralla. Al atardecer.* *Solo si se busca.*
+—La lista. —Tibbet sacó el papel del forro, al lado del saltamontes. Lo desdobló. Tenía veintinueve líneas. Las últimas siete, nuevas, de la semana pasada, de lo que había contado Mabel—. Esta es la treinta. Hay una torre. Se ve desde la muralla. Al atardecer. Solo si se busca.
 
 —Apúntala.
 
@@ -194,7 +194,7 @@ Luego lo apartó.
 
 Se lo contó todo.
 
-No solo lo de las lomas. Todo. Desde el principio. Lo hizo de pie, sin sentarse, con la voz baja de las cosas que no se pueden desdecir. Le contó que se llamaba Lanther. Que era la hija de Bander. Que había sido reina en el 31, y que había abdicado en el 58 en su hijo Amael, el primer rey que leía, y que se había ido. Que no se moría porque su hermano le había dado su vida en un valle negro. Le contó la Orden. *Tres que saben y uno que* *suma.* Le contó que el señor Vell de la biblioteca, el de las gafas, el que cenaba con él cada diez años, había gritado números desde un tonel en el año 30. Le contó los papeles de los viernes. Le contó que su padre, Lindiel II, no los había leído nunca, y que su abuelo tampoco, y que Niestrel sí.
+No solo lo de las lomas. Todo. Desde el principio. Lo hizo de pie, sin sentarse, con la voz baja de las cosas que no se pueden desdecir. Le contó que se llamaba Lanther. Que era la hija de Bander. Que había sido reina en el 31, y que había abdicado en el 58 en su hijo Amael, el primer rey que leía, y que se había ido. Que no se moría porque su hermano le había dado su vida en un valle negro. Le contó la Orden. Tres que saben y uno que suma. Le contó que el señor Vell de la biblioteca, el de las gafas, el que cenaba con él cada diez años, había gritado números desde un tonel en el año 30. Le contó los papeles de los viernes. Le contó que su padre, Lindiel II, no los había leído nunca, y que su abuelo tampoco, y que Niestrel sí.
 
 Le contó las ofrendas. La sangre del que dijo que no.
 
@@ -206,7 +206,7 @@ Le contó la torre.
 
 El Emperador la escuchó sin moverse. Sin interrumpir. Con las orejas un poco hacia delante, como los gatos. Con la cara cada vez más quieta.
 
-Cuando ella dijo *el general con el arpa*, el Emperador cerró los ojos.
+Cuando ella dijo el general con el arpa, el Emperador cerró los ojos.
 
 ---
 
@@ -308,7 +308,7 @@ En el barrio élfico, a esa misma hora, en una cocina, un elfo de setecientos ve
 
 No por un latido. Por una pizarra.
 
-La pizarra colgaba de la pared desde el 523. Sesenta y dos años. Con dos palabras escritas en tiza, con letra de niño. *Todavía no.*
+La pizarra colgaba de la pared desde el 523. Sesenta y dos años. Con dos palabras escritas en tiza, con letra de niño. Todavía no.
 
 Esa noche, sin que nadie la tocara, la tiza se había caído.
 

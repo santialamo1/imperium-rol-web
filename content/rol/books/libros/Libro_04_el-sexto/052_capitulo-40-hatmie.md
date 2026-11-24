@@ -1,6 +1,6 @@
 # Capítulo 40 · Hatmie
 
-*Tundra Zero, el antiguo valle negro, en el cráter. Invierno del año 1300 de la* *Nueva Era (693 D.bA).*
+*Tundra Zero, el antiguo valle negro, en el cráter. Invierno del año 1300 de la Nueva Era (693 D.bA).*
 
 Lo encontró Neva por la respiración.
 
@@ -20,7 +20,7 @@ Neva tenía doscientos once años y la cara de sesenta. Había llegado al Mercad
 
 Neva la miró.
 
-—Porque nadie me ha preguntado qué oigo —dijo—. En doscientos años. Me preguntan si se ha movido la grieta. Si ha bajado el frío. Si han vuelto los pájaros. Nadie me ha preguntado *qué oyes, Neva*.
+—Porque nadie me ha preguntado qué oigo —dijo—. En doscientos años. Me preguntan si se ha movido la grieta. Si ha bajado el frío. Si han vuelto los pájaros. Nadie me ha preguntado qué oyes, Neva.
 
 Hatmie se quedó callada.
 
@@ -38,7 +38,7 @@ Hatmie había traído veinte zapadores de la Armada. Enanos, la mitad, de los qu
 
 Cavaron en espiral. Era lo que había dicho Dorn, el jefe de los enanos, un enano viejo con la barba trenzada en tres: que en ceniza no se cava recto, que se cava en espiral, como baja el agua por un desagüe, para que las paredes se apoyen las unas en las otras. Cavaron cuarenta y un días en espiral, con los braseros encendidos al fondo para ablandar la ceniza, que se había apelmazado como piedra y no se ablandaba. Era una ceniza rara. No era ceniza de fuego. Era ceniza de frío. Lo decía Dorn. Que la ceniza de fuego se deshace con el calor y esta no; esta se ponía blanda, un poco, como cera, y luego, en cuanto se apartaba el brasero, se volvía a poner dura, más dura que antes, como si se acordara.
 
-Hatmie bajaba cada día. Con Neva. Neva se ponía al fondo del agujero, se arrodillaba, apoyaba la oreja en la ceniza, y decía: *más a la izquierda*. *Más abajo*. *Ahí. Ahí* *no. Ahí*.
+Hatmie bajaba cada día. Con Neva. Neva se ponía al fondo del agujero, se arrodillaba, apoyaba la oreja en la ceniza, y decía: más a la izquierda. Más abajo. Ahí. Ahí no. Ahí.
 
 El día cuarenta y uno, el pico de Dorn dio en piedra.
 
@@ -164,7 +164,7 @@ Hatmie no se movió.
 
 —¿Odelia la encontró?
 
-—Odelia la encerró. En la primera puerta. Con los ojos tapados. —Lanther apretó el marco—. No me acuerdo, Hatmie. No me acuerdo de nada. Pero ahora sé por qué me tiembla la mano cada vez que alguien dice *valle negro*.
+—Odelia la encerró. En la primera puerta. Con los ojos tapados. —Lanther apretó el marco—. No me acuerdo, Hatmie. No me acuerdo de nada. Pero ahora sé por qué me tiembla la mano cada vez que alguien dice valle negro.
 
 Hatmie miró a la medusa.
 
@@ -198,7 +198,7 @@ Una sola página escrita.
 
 Lanther se lo leyó desde la puerta, sin entrar, sin acercarse, con los ojos entornados para ver las letras desde lejos:
 
-—*Primera. Valle negro. 612. Una. No tiene nombre; no lo dice. No es mala. Tiene* *miedo. Mira para que no se acerquen, porque lo de abajo la llama y ella no quiere ir. La* *he dormido con los ojos tapados para que no tenga que mirar más. Le he dejado una* *ventana con una tarde. Que no se despierte hasta que haya alguien que pueda mirarla sin* *quedarse de piedra. O hasta que lo de abajo deje de llamar. Lo que pase primero. O.*
+*—Primera. Valle negro. 612. Una. No tiene nombre; no lo dice. No es mala. Tiene miedo. Mira para que no se acerquen, porque lo de abajo la llama y ella no quiere ir. La he dormido con los ojos tapados para que no tenga que mirar más. Le he dejado una ventana con una tarde. Que no se despierte hasta que haya alguien que pueda mirarla sin quedarse de piedra. O hasta que lo de abajo deje de llamar. Lo que pase primero. O.*
 
 Hatmie cerró el cuaderno.
 
@@ -252,7 +252,7 @@ Hatmie mandó a los enanos que taparan el agujero.
 
 Con ceniza. Con la misma ceniza que habían sacado, a paladas, en espiral, al revés. Tardaron once días. Dorn dijo que en un invierno no se notaría. Que la ceniza de frío se acordaba de dónde había estado y volvía.
 
-No puso nada en el registro de la Armada. Ni en el del Consejo. En el informe del año escribió: *Patrulla al borde de Tundra Zero. Sin novedad. Veinte zapadores. Un toldo* *perdido.*
+No puso nada en el registro de la Armada. Ni en el del Consejo. En el informe del año escribió: Patrulla al borde de Tundra Zero. Sin novedad. Veinte zapadores. Un toldo perdido.
 
 Sein le preguntó, en la biblioteca, en la primavera, por qué había perdido un toldo.
 

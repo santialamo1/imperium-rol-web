@@ -18,7 +18,7 @@ Era roca. Roca negra, como la de las montañas, pero rota, partida, desmoronada 
 
 Y había niebla.
 
-No mucha. No como la de Concordia, que Pim había visto una vez, de niño, desde la cubierta de la *Gaviota*, en la bahía de Puerto Salobre. Una niebla fina, baja, que se arrastraba por los acantilados al anochecer y se retiraba al amanecer. Que no se movía con el viento. Que se movía con ganas.
+No mucha. No como la de Concordia, que Pim había visto una vez, de niño, desde la cubierta de la Gaviota, en la bahía de Puerto Salobre. Una niebla fina, baja, que se arrastraba por los acantilados al anochecer y se retiraba al amanecer. Que no se movía con el viento. Que se movía con ganas.
 
 Pim la vio la primera noche y supo dónde estaban.
 
@@ -122,7 +122,7 @@ El hombre de pelo blanco se quedó callado un rato.
 
 Lo explicó despacio. Como se explica una cosa a un niño. O a un hombre que lleva tres días sin dormir.
 
-Los habían echado de la colina por oír. Él lo sabía; lo había oído. El edicto. Los clavos de Joran. *No creo en la magia.* Los habían echado al norte, en invierno, con tres carros y una mula, a una tierra donde no había caza, ni pesca que se pudiera pescar con aquel mar, ni madera salvo la de deriva, ni nada. Se iban a morir. Todos. Los ochenta y uno. Antes de la primavera.
+Los habían echado de la colina por oír. Él lo sabía; lo había oído. El edicto. Los clavos de Joran. No creo en la magia. Los habían echado al norte, en invierno, con tres carros y una mula, a una tierra donde no había caza, ni pesca que se pudiera pescar con aquel mar, ni madera salvo la de deriva, ni nada. Se iban a morir. Todos. Los ochenta y uno. Antes de la primavera.
 
 —Lo sé —dijo Pim.
 
@@ -132,7 +132,7 @@ Los habían echado de la colina por oír. Él lo sabía; lo había oído. El edi
 
 —Enseñándoos a tirar.
 
-—Vosotros sabéis soltar —dijo el hombre de pelo blanco—. Os lo enseñó la vieja. Os lo enseñaron los que vinieron antes que ella, la Academia de Concordia, Helen Dorian, todos. Sabéis decirles a los muertos *te oigo, vete*. Y los muertos se van. —Se inclinó un poco hacia delante—. Pero el mismo don sirve para lo contrario. Si los nombras con hambre, en lugar de con amor, no se van. Vienen. Y si vienen, hacen lo que les pidas.
+—Vosotros sabéis soltar —dijo el hombre de pelo blanco—. Os lo enseñó la vieja. Os lo enseñaron los que vinieron antes que ella, la Academia de Concordia, Helen Dorian, todos. Sabéis decirles a los muertos te oigo, vete. Y los muertos se van. —Se inclinó un poco hacia delante—. Pero el mismo don sirve para lo contrario. Si los nombras con hambre, en lugar de con amor, no se van. Vienen. Y si vienen, hacen lo que les pidas.
 
 —Eso es lo que hiciste tú.
 
@@ -228,7 +228,7 @@ Pim se sentó a su lado. En la roca. Le temblaban las manos.
 
 —Y los niños se mueren de hambre —dijo el hombre de pelo blanco—. Ayer se comieron la última mula. Hoy no hay nada. Mañana tampoco. Ahí abajo, en el mar, hay arenques. Los tuyos lo saben. Te lo están diciendo. Ahora mismo. Lo oigo.
 
-Era verdad. Pim los oía. Torvald, Arn, Bjorn. Desde el fondo. Como siempre. *Al* *norte de la roca grande, Pim. Hay un banco. Muy hondo. Muy frío. Ahí están.*
+Era verdad. Pim los oía. Torvald, Arn, Bjorn. Desde el fondo. Como siempre. Al norte de la roca grande, Pim. Hay un banco. Muy hondo. Muy frío. Ahí están.
 
 —Si los llamo —dijo Pim—, ¿pescarán?
 
@@ -240,11 +240,11 @@ Era verdad. Pim los oía. Torvald, Arn, Bjorn. Desde el fondo. Como siempre. *Al
 
 Pim se quedó callado mucho rato. Miró el mar. Gris. De plomo. Rompiendo contra el acantilado.
 
-Pensó en Orla. *No tires, hijo. Ni por los niños. Sobre todo no por los niños.*
+*Pensó en Orla. No tires, hijo. Ni por los niños. Sobre todo no por los niños.*
 
 Pensó en Bram, el de diez años, que le había llevado un trozo de pan a la figura del velo. Que hoy no había comido nada. Que mañana tampoco.
 
-Pensó en Mara, en el puente de troncos. *Cuídalos, Pim. Cuídalos bien.*
+Pensó en Mara, en el puente de troncos. Cuídalos, Pim. Cuídalos bien.
 
 —Enséñame —dijo.
 
@@ -260,7 +260,7 @@ El hombre de pelo blanco le enseñó cómo. No era difícil. Era lo mismo que so
 
 —A ellos. Lo que les queda. El hilo. —El hombre de pelo blanco apartó la mano—. Y lo atas. A ti.
 
-Pensó en su abuelo Torvald. El padre de su padre. Un hombre grande, de barba roja, que se reía con la boca abierta y que le había enseñado a atar un as de guía a los cinco años. Que se había ahogado en la *Gaviota*, una noche de tormenta, en la bahía de Puerto Salobre, con Arn y con Bjorn, mientras Pim se agarraba a la quilla. Al que Bander había nombrado hacia arriba esa misma noche, desde el espigón, con los otros dos. Bander no los conocía; lo dijo él: *estos no los conocía*. Y el viejo no quería irse, porque quería ver si su nieto aprendía a coger la caballa como es debido. *Se ha ido igual*, dijo Bander. Pim, con catorce años, dijo que ya no lo llamaban. Era verdad. Se habían callado. Callarse no es irse. Llevaban treinta y un años en el fondo del mar, siguiéndolo por debajo de las quillas, y el viejo contándole a su nieto dónde había arenques.
+Pensó en su abuelo Torvald. El padre de su padre. Un hombre grande, de barba roja, que se reía con la boca abierta y que le había enseñado a atar un as de guía a los cinco años. Que se había ahogado en la Gaviota, una noche de tormenta, en la bahía de Puerto Salobre, con Arn y con Bjorn, mientras Pim se agarraba a la quilla. Al que Bander había nombrado hacia arriba esa misma noche, desde el espigón, con los otros dos. Bander no los conocía; lo dijo él: estos no los conocía. Y el viejo no quería irse, porque quería ver si su nieto aprendía a coger la caballa como es debido. Se ha ido igual, dijo Bander. Pim, con catorce años, dijo que ya no lo llamaban. Era verdad. Se habían callado. Callarse no es irse. Llevaban treinta y un años en el fondo del mar, siguiéndolo por debajo de las quillas, y el viejo contándole a su nieto dónde había arenques.
 
 —Torvald Hennek —dijo.
 
@@ -268,7 +268,7 @@ Con hambre.
 
 ---
 
-Le dolió como no le había dolido nada en su vida. Ni el frío de la *Gaviota*, a los catorce, agarrado a la quilla mientras los suyos se iban al fondo. Ni la fiebre del año nueve. Ni nada. Le dolió como si alguien le metiera una mano por dentro del pecho y le arrancara algo, un trozo, un pedazo de algo que no sabía que tenía, y tirara de él hacia fuera, hacia el mar.
+Le dolió como no le había dolido nada en su vida. Ni el frío de la Gaviota, a los catorce, agarrado a la quilla mientras los suyos se iban al fondo. Ni la fiebre del año nueve. Ni nada. Le dolió como si alguien le metiera una mano por dentro del pecho y le arrancara algo, un trozo, un pedazo de algo que no sabía que tenía, y tirara de él hacia fuera, hacia el mar.
 
 Y algo, en el mar, tiró al revés.
 

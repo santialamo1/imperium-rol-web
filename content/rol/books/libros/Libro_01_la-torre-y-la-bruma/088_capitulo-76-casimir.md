@@ -46,7 +46,7 @@ No lo buscaba exactamente. Buscaba algo, cualquier cosa, que le sirviera para su
 
 Lo encontró en los libros del grano. Las reservas de los graneros imperiales de Gijor, las que se guardaban para los años de hambre. Durante doce años, desde el trescientos ochenta y tres, alguien había estado vendiendo grano de los graneros y anotándolo como podrido. Poco cada año. Lo bastante para que nadie lo notara. Pero sumado, en doce años, era grano suficiente para alimentar a la provincia de Gijor durante un invierno entero.
 
-El intendente de los graneros de Gijor era lord Teodric Hale. Un hombre de sesenta años, viudo, con cinco hijas, que había servido a la emperatriz Aremir durante treinta años y al que el emperador Haltair llamaba *tío* porque le había enseñado a montar.
+El intendente de los graneros de Gijor era lord Teodric Hale. Un hombre de sesenta años, viudo, con cinco hijas, que había servido a la emperatriz Aremir durante treinta años y al que el emperador Haltair llamaba tío porque le había enseñado a montar.
 
 Casimir se quedó mirando los libros toda una noche.
 
@@ -82,13 +82,13 @@ Haltair se quedó mirándolo. En el rincón, el niño había dejado de jugar al 
 
 —¿Qué harías tú? —preguntó el emperador.
 
-Casimir dudó. Era una trampa, lo sabía. Todas las preguntas de los emperadores son trampas. Si decía *colgadlo*, era un muchacho cruel que quería medrar sobre el cadáver de un viejo. Si decía *perdonadlo*, era un blando que no servía para la Intendencia.
+Casimir dudó. Era una trampa, lo sabía. Todas las preguntas de los emperadores son trampas. Si decía colgadlo, era un muchacho cruel que quería medrar sobre el cadáver de un viejo. Si decía perdonadlo, era un blando que no servía para la Intendencia.
 
 —Yo no soy emperador, majestad —dijo—. Pero si lo fuera, querría saber primero si los graneros de Gijor tienen grano suficiente para el próximo invierno. Porque si no lo tienen, lo de lord Teodric dejará de ser un asunto de dotes y empezará a ser un asunto de niños muertos de hambre. Y eso no lo perdona nadie.
 
 El emperador lo miró durante un largo rato. Luego, despacio, sonrió. Era una sonrisa distinta. Más cálida.
 
-—Mi madre habría dicho *colgadlo* —dijo—. Sin pensarlo. Era la Restauradora. Restauraba a fuerza de cuerdas.
+—Mi madre habría dicho colgadlo —dijo—. Sin pensarlo. Era la Restauradora. Restauraba a fuerza de cuerdas.
 
 —Lo sé, majestad.
 

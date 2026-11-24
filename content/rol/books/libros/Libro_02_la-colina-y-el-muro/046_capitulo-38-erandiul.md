@@ -8,7 +8,7 @@ Era la taberna de la calle de los toneleros, la del letrero con un barril pintad
 
 Aquella tarde había seis soldados de la guardia del alba en la mesa del centro. Contándolo.
 
-—Al oeste, dijo. Así. *Al oeste.* Como quien dice *voy a por agua*.
+—Al oeste, dijo. Así. Al oeste. Como quien dice voy a por agua.
 
 —¿Y el cofre?
 
@@ -32,7 +32,7 @@ Aquella tarde había seis soldados de la guardia del alba en la mesa del centro.
 
 —¿Secreta?
 
-—Eso dijo el contable. *Una orden secreta.* Muy serio. Con las gafas.
+—Eso dijo el contable. Una orden secreta. Muy serio. Con las gafas.
 
 La mesa entera se echó a reír.
 
@@ -46,11 +46,11 @@ Y no le había dicho nada.
 
 ---
 
-Había llegado con él. Eso era lo que no podía quitarse de la cabeza. Había bajado con él del bosque del norte, en la nieve, con los cuarenta y tres, con el cofre de tejo a la espalda. Lo había presentado él. Había sido él quien le dijo a Verawel *en la colina hay una* *mujer que lleva dos años intentando leer esas letras*. Había sido él quien se quitó el sombrero en la puerta a medio hacer.
+Había llegado con él. Eso era lo que no podía quitarse de la cabeza. Había bajado con él del bosque del norte, en la nieve, con los cuarenta y tres, con el cofre de tejo a la espalda. Lo había presentado él. Había sido él quien le dijo a Verawel en la colina hay una mujer que lleva dos años intentando leer esas letras. Había sido él quien se quitó el sombrero en la puerta a medio hacer.
 
 Y veintiocho años después, Verawel se iba con la reina y con la mujer de las letras y con un cofre lleno de papeles, al amanecer, por la puerta del oeste, sin despedirse.
 
-Los elfos no se despedían. Era verdad. En su pueblo no había palabra para *adiós*; había una para *hasta que los árboles vuelvan a cantar tu nombre*, que se decía a los muertos, y nada más. Uno se iba y ya. Y si volvía, volvía.
+Los elfos no se despedían. Era verdad. En su pueblo no había palabra para adiós; había una para hasta que los árboles vuelvan a cantar tu nombre, que se decía a los muertos, y nada más. Uno se iba y ya. Y si volvía, volvía.
 
 Pero Verawel llevaba veintiocho años entre humanos. Y los humanos se despedían.
 
@@ -60,7 +60,7 @@ No durmió aquella noche. La pasó con el cuaderno de corteza abierto en la mesa
 
 Pensaba en la reina.
 
-Pensaba en la tarde del año cuarenta y dos, en el palacio, con la luz de la ventana y el niño en el pecho. *No me preguntes. Te lo pido por favor. Tú no.* No le había preguntado. Nunca. Dieciséis años sin preguntar. Dieciséis años viéndola igual. Viéndola subir al muro con la cara de los veinte cuando los que subieron con ella el primer día ya tenían nietos. Viéndola en el Consejo, en el mercado, en el río. Sin una cana. Sin una arruga.
+Pensaba en la tarde del año cuarenta y dos, en el palacio, con la luz de la ventana y el niño en el pecho. No me preguntes. Te lo pido por favor. Tú no. No le había preguntado. Nunca. Dieciséis años sin preguntar. Dieciséis años viéndola igual. Viéndola subir al muro con la cara de los veinte cuando los que subieron con ella el primer día ya tenían nietos. Viéndola en el Consejo, en el mercado, en el río. Sin una cana. Sin una arruga.
 
 Y sin preguntar.
 
@@ -70,11 +70,13 @@ Había visto a Verawel con ella. Muchas veces. En la poza de los martes, de noch
 
 Y había visto a la reina no gastarse.
 
-*Los elfos no envejecen como los humanos*, pensó. *Nos gastamos despacio. Como un* *escalón.*
+*Los elfos no envejecen como los humanos, pensó. Nos gastamos despacio. Como un escalón.*
 
-*Y ella no es elfa.* *Pero Verawel sí.*
+*Y ella no es elfa.*
 
-*Y Verawel lee las cortezas. Las viejas. Las que nadie más lee. Las que guardaba su* *pueblo, más al oeste. Las que copiaron de las piedras de las montañas hace mil años.*
+*Pero Verawel sí.*
+
+*Y Verawel lee las cortezas. Las viejas. Las que nadie más lee. Las que guardaba su pueblo, más al oeste. Las que copiaron de las piedras de las montañas hace mil años.*
 
 Lo pensó. No quería pensarlo. Lo pensó igual. Como se piensa algo que se lleva mucho tiempo empujando hacia abajo, como se empuja un corcho en el agua, y que de pronto, una noche, se suelta y sube.
 
@@ -84,11 +86,11 @@ Mojó la pluma.
 
 ---
 
-*Los años han pasado y Amael ya es un hombre listo para reinar. Pero algo me* *sorprende, ¿cómo puede ser que Lanther no envejezca? Creo que Verawel y el resto de los* *sabios elfos está detrás de eso.*
+*Los años han pasado y Amael ya es un hombre listo para reinar. Pero algo me sorprende, ¿cómo puede ser que Lanther no envejezca? Creo que Verawel y el resto de los sabios elfos está detrás de eso.*
 
 Lo escribió. Lo leyó.
 
-No era verdad. Lo supo al leerlo. Lo supo como se sabe que una nota de flauta está desafinada: no por razones, sino porque duele en el oído. *El resto de los sabios elfos.* No había sabios elfos en Banderbill. Había un consejo de viejos, los de la cueva del barranco, que se reunían bajo el castaño de la plaza de arriba los días de luna llena a hablar de cuándo plantar y de si el invierno iba a ser largo. No sabían nada. No leían las cortezas. No sabían ni que existían.
+No era verdad. Lo supo al leerlo. Lo supo como se sabe que una nota de flauta está desafinada: no por razones, sino porque duele en el oído. El resto de los sabios elfos. No había sabios elfos en Banderbill. Había un consejo de viejos, los de la cueva del barranco, que se reunían bajo el castaño de la plaza de arriba los días de luna llena a hablar de cuándo plantar y de si el invierno iba a ser largo. No sabían nada. No leían las cortezas. No sabían ni que existían.
 
 Lo dejó escrito igual.
 
@@ -174,7 +176,7 @@ El elfo se sentó.
 
 El elfo no contestó.
 
-Amael se inclinó hacia delante. Tenía los ojos de Teo Ruald, el panadero. El elfo lo había sabido siempre. Lo había visto en la panadería, años atrás, una noche, desde la calle, por la puerta de atrás entornada; había visto a la reina sentada en la artesa con una hogaza y al panadero quitándole una miga de la boca. Y no lo había escrito. Había escrito *un* *soldado desconocido*. Era la única mentira de su cuaderno que había escrito a propósito para proteger a alguien.
+Amael se inclinó hacia delante. Tenía los ojos de Teo Ruald, el panadero. El elfo lo había sabido siempre. Lo había visto en la panadería, años atrás, una noche, desde la calle, por la puerta de atrás entornada; había visto a la reina sentada en la artesa con una hogaza y al panadero quitándole una miga de la boca. Y no lo había escrito. Había escrito un soldado desconocido. Era la única mentira de su cuaderno que había escrito a propósito para proteger a alguien.
 
 —Quiero leerlo —dijo Amael.
 
@@ -194,7 +196,7 @@ Amael lo miró. Luego se rió. Una risa corta, de su madre.
 
 El elfo se miró las manos.
 
-Pensó en la línea que había escrito la noche de la taberna. *Creo que Verawel y el* *resto de los sabios elfos está detrás de eso.* Pensó en el viejo de la cara de roble. *Lo que no* *se toca, se inventa.*
+Pensó en la línea que había escrito la noche de la taberna. Creo que Verawel y el resto de los sabios elfos está detrás de eso. Pensó en el viejo de la cara de roble. Lo que no se toca, se inventa.
 
 —Lo pensaré —dijo.
 
@@ -230,11 +232,11 @@ El elfo se tocó una oreja. Larga. Puntiaguda. Llevaba veintiocho años sin tapa
 
 ---
 
-Esa noche, en su casa pequeña cerca del palacio, abrió el cuaderno de corteza por la página que había dejado reservada dieciséis años antes. La de *La reina no tiene canas.* *Verawel lo sabe. Yo no.*
+Esa noche, en su casa pequeña cerca del palacio, abrió el cuaderno de corteza por la página que había dejado reservada dieciséis años antes. La de La reina no tiene canas. Verawel lo sabe. Yo no.
 
 Leyó la línea mucho rato.
 
-Luego escribió debajo, en su lengua, despacio: *Se ha ido. Con el cofre y con él. Al oeste. Una orden, la llaman. Secreta. Yo no estoy.*
+Luego escribió debajo, en su lengua, despacio: Se ha ido. Con el cofre y con él. Al oeste. Una orden, la llaman. Secreta. Yo no estoy.
 
 Y debajo, más pequeño:
 

@@ -4,7 +4,7 @@
 
 La primera vez que lo vio, ella hacía de Lanther y él se rio en el sitio equivocado.
 
-Fue en el 1004. Ella tenía catorce años y era la más joven de la compañía de maese Odo Fennick, que llevaba treinta temporadas llenando «El juglar» con obras de antes: *La* *caída de Arghâl*, *Los cien barcos*, *La niña de las botas de río*. Esta última era la suya. La de Lanther. La que se escapa del palacio con once años y baja al río y se mete en el agua hasta las rodillas y le dice a su padre, el gran Bhargaras VI, que no piensa volver hasta que le dejen llevar botas.
+Fue en el 1004. Ella tenía catorce años y era la más joven de la compañía de maese Odo Fennick, que llevaba treinta temporadas llenando «El juglar» con obras de antes: La caída de Arghâl, Los cien barcos, La niña de las botas de río. Esta última era la suya. La de Lanther. La que se escapa del palacio con once años y baja al río y se mete en el agua hasta las rodillas y le dice a su padre, el gran Bhargaras VI, que no piensa volver hasta que le dejen llevar botas.
 
 Era una obra para niños. Se hacía los domingos por la tarde. Aira llevaba unas botas de cuero de vaca tres números más grandes que las suyas y una peluca de lana teñida de rojo que le picaba en las orejas, y tenía que meterse en una tina de agua de verdad en el segundo acto, y salir chorreando, y decir con los brazos en jarras:
 
@@ -40,7 +40,7 @@ No se lo preguntó. Tenía catorce años y él cincuenta. Pero la siguiente vez 
 
 Volvió en otoño. Se rio en el mismo sitio.
 
-Ella le sonrió desde el escenario. Sin querer. Antes de la frase. Maese Odo se lo reprochó después: *nunca se mira al público, niña, el público no existe*.
+Ella le sonrió desde el escenario. Sin querer. Antes de la frase. Maese Odo se lo reprochó después: nunca se mira al público, niña, el público no existe.
 
 —Él sí existe —dijo ella.
 
@@ -80,7 +80,7 @@ Y se puso rojo hasta las orejas.
 
 Pasearon. Bajo la lluvia. Una hora. Él le preguntó por el teatro y ella le habló del teatro, y él escuchaba como no la había escuchado nunca nadie, con la cara quieta, sin interrumpir, haciendo preguntas que no eran las que hacía la gente. No le preguntó si era difícil aprenderse los papeles. Le preguntó qué hacía con las frases cuando la obra se acababa. Si se le quedaban. Si había alguna que no se le fuera nunca.
 
-—*Las princesas también se mojan* —dijo ella—. Esa no se me va.
+—Las princesas también se mojan —dijo ella—. Esa no se me va.
 
 —¿Por qué?
 
@@ -88,7 +88,7 @@ Pasearon. Bajo la lluvia. Una hora. Él le preguntó por el teatro y ella le hab
 
 Él se paró. La miró.
 
-—¿Y la otra? *Esta niña va a vivir más que todos nosotros.*
+*—¿Y la otra? Esta niña va a vivir más que todos nosotros.*
 
 —Esa no es mía. Es de Odo.
 
@@ -182,7 +182,7 @@ Se subieron los dos al barril, en el centro del escenario. Él con la ropa de di
 
 Las botas de Lanther. Las de cuero de vaca, tres números grandes. Se las había puesto en el camerino, después de que Lanther se fuera, sin pensarlo, y maese Odo había abierto mucho los ojos y no había dicho nada.
 
-La gente las vio. Los que estaban en las primeras filas. Se rieron. Se corrió la voz hacia atrás, por las butacas, por las galerías, por los pasillos, hasta la plaza: *lleva las botas,* *lleva las botas de la niña del río*. Y el teatro entero se rio. Mil cuatrocientas personas, y tres mil fuera, riéndose a la vez, una risa grande y caliente, sin burla, de alegría.
+La gente las vio. Los que estaban en las primeras filas. Se rieron. Se corrió la voz hacia atrás, por las butacas, por las galerías, por los pasillos, hasta la plaza: lleva las botas, lleva las botas de la niña del río. Y el teatro entero se rio. Mil cuatrocientas personas, y tres mil fuera, riéndose a la vez, una risa grande y caliente, sin burla, de alegría.
 
 Astragal la miró. Le miró las botas.
 
@@ -242,13 +242,13 @@ Astragal le soltó el pie. Se quedó mirando la vela.
 
 —Entonces ya veremos —dijo—. Todavía no sé.
 
-Aira lo miró. Se acordó de la frase de Odo, la de la obra, la que él se había reído. *Esta niña va a vivir más que todos nosotros.*
+Aira lo miró. Se acordó de la frase de Odo, la de la obra, la que él se había reído. Esta niña va a vivir más que todos nosotros.
 
 —¿Por qué te reíste? —preguntó—. Esa vez. La primera. Me dijiste que porque era verdad. Pero no me dijiste por qué te hacía gracia.
 
 Astragal tardó mucho.
 
-—Porque la niña de verdad estaba sentada a mi lado en el palco —dijo al fin—. Con una capucha. Viendo la obra de su vida. Y cuando Odo dijo eso, ella dijo, muy bajo, para sí misma: *ojalá no*.
+—Porque la niña de verdad estaba sentada a mi lado en el palco —dijo al fin—. Con una capucha. Viendo la obra de su vida. Y cuando Odo dijo eso, ella dijo, muy bajo, para sí misma: ojalá no.
 
 Aira no dijo nada.
 

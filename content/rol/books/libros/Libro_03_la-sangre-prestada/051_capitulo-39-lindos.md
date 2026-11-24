@@ -4,13 +4,13 @@
 
 El agua del manantial estaba tan fría que le dolieron los dientes, y Lindos pensó que era lo mejor que había bebido en su vida y que quería morirse allí.
 
-No en ese momento. Algún día. Lo pensó con mucha claridad, como se piensan las cosas importantes, de rodillas en la arena, con la cara mojada, con las manos en el agua. *Aquí.* No en la colina, en la cama de roble negro de su padre, con el Consejo alrededor con los sombreros en la mano. Aquí. Al lado de esto.
+No en ese momento. Algún día. Lo pensó con mucha claridad, como se piensan las cosas importantes, de rodillas en la arena, con la cara mojada, con las manos en el agua. Aquí. No en la colina, en la cama de roble negro de su padre, con el Consejo alrededor con los sombreros en la mano. Aquí. Al lado de esto.
 
 No se lo dijo a nadie. Se lo dijo al agua.
 
 ---
 
-Las manchas eran tres, como habían visto desde el mar, y no eran islas, aunque desde el agua lo parecieran: eran tres oasis en la orilla de un desierto que se metía tierra adentro hasta una montaña que humeaba. El del norte y el del sur eran poca cosa, roca y arena y unas matas, con aves blancas de patas largas que no se espantaban de la gente porque no habían visto gente nunca. El del medio era más grande. Con una loma en el centro, de arena dura, y al pie de la loma, en un hueco, el agua. Los marineros los llamaron *las islas* de todos modos, porque así los habían visto primero, y así se quedó: en el Diario, en las cartas y en la boca de la gente.
+Las manchas eran tres, como habían visto desde el mar, y no eran islas, aunque desde el agua lo parecieran: eran tres oasis en la orilla de un desierto que se metía tierra adentro hasta una montaña que humeaba. El del norte y el del sur eran poca cosa, roca y arena y unas matas, con aves blancas de patas largas que no se espantaban de la gente porque no habían visto gente nunca. El del medio era más grande. Con una loma en el centro, de arena dura, y al pie de la loma, en un hueco, el agua. Los marineros los llamaron las islas de todos modos, porque así los habían visto primero, y así se quedó: en el Diario, en las cartas y en la boca de la gente.
 
 Palmeras. Treinta y siete; las contó Sein después, por carta, cuando se lo contaron. Hierba. Unos arbustos con bayas rojas que el médico elfo dijo que se podían comer y que sabían a nada. Y en el centro, entre las palmeras, una poza.
 
@@ -26,7 +26,7 @@ Los enanos se arrodillaron en la orilla y pegaron la oreja al suelo.
 
 Se quedaron un mes.
 
-Llenaron los barriles. Todos. Los vaciaron primero, en la arena, con el agua podrida que olía a muerto, y los lavaron con arena y con agua de mar, y los llenaron en la poza. Cazaron las aves de patas largas, que se dejaban coger con la mano y que Grum el cocinero dijo que sabían a pollo triste. Arreglaron las velas. Calafatearon. Los carpinteros cambiaron dos tablas de la *Tozuda Tercera* que estaban blandas.
+Llenaron los barriles. Todos. Los vaciaron primero, en la arena, con el agua podrida que olía a muerto, y los lavaron con arena y con agua de mar, y los llenaron en la poza. Cazaron las aves de patas largas, que se dejaban coger con la mano y que Grum el cocinero dijo que sabían a pollo triste. Arreglaron las velas. Calafatearon. Los carpinteros cambiaron dos tablas de la Tozuda Tercera que estaban blandas.
 
 Los hombres se tumbaban a la sombra de las palmeras. Dormían. Reían. Algunos lloraban. Todos bebían.
 
@@ -102,9 +102,9 @@ Lindos subió una tarde.
 
 El sexto barco tuvo nombre al final del mes.
 
-Lindos lo había prometido: se llamaría como lo primero que vieran al otro lado. Lo primero que había visto Lanther, desde la cofa, era un pájaro con barro en las patas. Lo primero que habían visto todos, desde la *Brena*, era una costa de arena con palmeras y, detrás, en medio del desierto, un oasis. Lo primero que había visto él, de rodillas en la arena, era el agua.
+Lindos lo había prometido: se llamaría como lo primero que vieran al otro lado. Lo primero que había visto Lanther, desde la cofa, era un pájaro con barro en las patas. Lo primero que habían visto todos, desde la Brena, era una costa de arena con palmeras y, detrás, en medio del desierto, un oasis. Lo primero que había visto él, de rodillas en la arena, era el agua.
 
-Lo discutieron una noche, en la playa, alrededor de una hoguera de hojas de palmera. Los capitanes querían *Oasis*. Los marineros querían *Pájaro*. El cocinero orco quería *Guiso*, porque decía que sin el guiso no habrían llegado.
+Lo discutieron una noche, en la playa, alrededor de una hoguera de hojas de palmera. Los capitanes querían Oasis. Los marineros querían Pájaro. El cocinero orco quería Guiso, porque decía que sin el guiso no habrían llegado.
 
 Lindos los dejó discutir.
 
@@ -112,7 +112,7 @@ Luego se levantó, fue al barco, que estaba varado en la playa para cambiarle un
 
 *Fría.*
 
-—¿Fría? —dijo Ferrán, el de la *Brena*—. ¿Por el agua?
+—¿Fría? —dijo Ferrán, el de la Brena—. ¿Por el agua?
 
 —Por el agua.
 
@@ -124,9 +124,9 @@ Luego se levantó, fue al barco, que estaba varado en la playa para cambiarle un
 
 Salieron hacia el este el primer día de otoño.
 
-Con los barriles llenos. Con agua fría que se fue calentando en la bodega pero que no se pudrió nunca, ni al tercer mes; los enanos decían que era porque era agua vieja y el agua vieja ya ha pasado por todo. Con aves de patas largas saladas en barriles. Con la *Fría* delante, porque era la más nueva y la más rápida.
+Con los barriles llenos. Con agua fría que se fue calentando en la bodega pero que no se pudrió nunca, ni al tercer mes; los enanos decían que era porque era agua vieja y el agua vieja ya ha pasado por todo. Con aves de patas largas saladas en barriles. Con la Fría delante, porque era la más nueva y la más rápida.
 
-Lindos se quedó en la popa de la *Iselde* mirando la costa del oasis hasta que se hundió en el horizonte.
+Lindos se quedó en la popa de la Iselde mirando la costa del oasis hasta que se hundió en el horizonte.
 
 Lanther lo miraba desde la borda.
 

@@ -18,7 +18,7 @@ La ventana daba al cielo. Solo al cielo. La habían hecho así a propósito, en 
 
 No veía el mar. Lo oía. Abajo, contra el muelle, día y noche.
 
-No veía la colina. Estaba al noroeste, al otro lado del mar, a muchos días de barco. Pero a veces, cuando el viento venía de allí, cerraba los ojos y le parecía oír un *tum*.
+No veía la colina. Estaba al noroeste, al otro lado del mar, a muchos días de barco. Pero a veces, cuando el viento venía de allí, cerraba los ojos y le parecía oír un tum.
 
 No lo oía. Lo sabía. Es distinto.
 
@@ -202,9 +202,9 @@ Tachada. Con una raya fina, recta, satisfecha.
 
 Y debajo:
 
-*Número 344. La torre del muelle. Una manzana. Esperar a que la doncella termine* *de hacer la cuenta. No falta mucho.*
+*Número 344. La torre del muelle. Una manzana. Esperar a que la doncella termine de hacer la cuenta. No falta mucho.*
 
-*(Ella dice que lo trae. Que lo dijo él. Que lo prometió en una oreja.)* *(Dice también que no le digas nada al orco. Pero el orco ya lo sabe. Siempre lo sabe.)*
+*(Ella dice que lo trae. Que lo dijo él. Que lo prometió en una oreja.) (Dice también que no le digas nada al orco. Pero el orco ya lo sabe. Siempre lo sabe.)*
 
 *(Ponte el sombrero. Es el de cuando no sabes. Tú ahora no sabes. Bien.)*
 

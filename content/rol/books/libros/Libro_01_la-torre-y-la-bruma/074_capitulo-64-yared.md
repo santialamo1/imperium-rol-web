@@ -10,7 +10,7 @@ Entre una cosa y otra pasaron cuarenta y seis años, y su madre tardó todos ell
 
 Se llamaba Yared Tiberius. Tenía los ojos oscuros de su madre eufesia y la mandíbula cuadrada de su padre Suhon, y hablaba las dos lenguas sin acento, y durante los primeros diecinueve años de su vida nunca se le había ocurrido que tuviera que elegir entre ellas. Era el hijo del Vencedor de las Sombras. El nieto de Lexandra la Diplomática y de la Madre Ysh-Neva. Era, según había dicho una vez su abuela Lexandra delante de todo el Consejo, «la prueba viva de que dos pueblos pueden ser uno».
 
-Luego su padre murió envenenado en un banquete, y el hombre que se había sentado a su derecha se sentó en el trono, y cuatro años después Yared salió de Concordia con su madre y doscientos eufesios más, con un distintivo gris cosido a la manga por orden imperial, mientras los niños de las calles le tiraban piedras y le gritaban *muerto, muerto,* *vuelve a la niebla*.
+Luego su padre murió envenenado en un banquete, y el hombre que se había sentado a su derecha se sentó en el trono, y cuatro años después Yared salió de Concordia con su madre y doscientos eufesios más, con un distintivo gris cosido a la manga por orden imperial, mientras los niños de las calles le tiraban piedras y le gritaban muerto, muerto, vuelve a la niebla.
 
 En la puerta de los Juramentos, un guardia joven, Zelto, le escupió en la cara.
 

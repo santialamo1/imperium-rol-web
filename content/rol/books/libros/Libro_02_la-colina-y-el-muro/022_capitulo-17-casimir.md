@@ -2,7 +2,7 @@
 
 *Banderbill. Verano del año 27.*
 
-Lo encontraron en la bodega de la *Penitente* al tercer día, sentado en un barril, con el libro de cuentas en las rodillas y la pluma en la mano, y lo primero que dijo cuando le pusieron una lanza en el cuello fue que si podían esperar un momento, que estaba terminando una suma.
+Lo encontraron en la bodega de la Penitente al tercer día, sentado en un barril, con el libro de cuentas en las rodillas y la pluma en la mano, y lo primero que dijo cuando le pusieron una lanza en el cuello fue que si podían esperar un momento, que estaba terminando una suma.
 
 El soldado que lo encontró era un fiordeño joven que se llamaba Orm y que llevaba tres días subiendo a las naves encalladas de la bahía con una antorcha de sal en una mano y un asta de lanza en la otra, sacando a los muertos de las bodegas para que los soltara el sol o los soltara el mar. Había visto cosas que no le contaría nunca a su mujer. Había visto a un muerto con el uniforme de la Guardia de la Torre de la Unión, de Concordia, con la capa azul todavía, saludarle militarmente antes de tirarse por la borda él solo. Había visto a una niña muerta, de cinco o seis años, con un muñeco de trapo, que no quería salir de la bodega y que lloraba sin lágrimas, y a la que al final había tenido que sacar en brazos, al sol, y a la que había visto irse hacia arriba con el muñeco. Había vomitado dos veces.
 
@@ -112,7 +112,7 @@ Casimir la vio levantarse y supo, antes de que hablara, lo que iba a decir. Hab�
 
 —Y yo esperé en la boca del túnel hasta que una muchacha con una antorcha me dijo que tenía que irme.
 
-—Lo sé, señora Heredicus. —Casimir la miró—. Lo apunté. En el primer tomo. El de la caída. *Darian Heredicus, en la plaza. Su hija, no consta.* Lo apunté así porque no sabía si había llegado al túnel. Durante veintiséis años he tenido en el primer tomo una línea que dice *no consta*. —Hizo una pausa—. Me alegro de poder tacharla.
+—Lo sé, señora Heredicus. —Casimir la miró—. Lo apunté. En el primer tomo. El de la caída. Darian Heredicus, en la plaza. Su hija, no consta. Lo apunté así porque no sabía si había llegado al túnel. Durante veintiséis años he tenido en el primer tomo una línea que dice no consta. —Hizo una pausa—. Me alegro de poder tacharla.
 
 Livia lo miró mucho rato. La gente de la trastienda contenía el aliento. La de la calle también.
 
@@ -124,7 +124,7 @@ Livia lo miró mucho rato. La gente de la trastienda contenía el aliento. La de
 
 ---
 
-En la calle, alguien gritó *¡que lo cuelguen!* Otro gritó *¡al mar con él, que lo suelte* *el mar como a sus muertos!* Hubo risas, de esas que no son risas. Alguien tiró una piedra contra la ventana y la piedra rebotó en el marco y cayó a los pies de Ruald, que la recogió y se la guardó en el delantal sin decir nada.
+En la calle, alguien gritó ¡que lo cuelguen! Otro gritó ¡al mar con él, que lo suelte el mar como a sus muertos! Hubo risas, de esas que no son risas. Alguien tiró una piedra contra la ventana y la piedra rebotó en el marco y cayó a los pies de Ruald, que la recogió y se la guardó en el delantal sin decir nada.
 
 Mara se levantó.
 
@@ -146,7 +146,7 @@ Casimir parpadeó.
 
 —¿Perdón, señora?
 
-—Orla lo oyó —dijo la Heredicus, en voz baja—. En sueños. Antes de la Noche del Dolor. Una voz de hombre, cansada, que contaba barcos. Llegó a seiscientos y se echó a llorar. Y luego dijo *no sé qué hago aquí*. —Se volvió hacia Mara—. Y Bander oía una voz desde el otro lado del mar. Cansada. Que contaba. Él creía que era Loth.
+—Orla lo oyó —dijo la Heredicus, en voz baja—. En sueños. Antes de la Noche del Dolor. Una voz de hombre, cansada, que contaba barcos. Llegó a seiscientos y se echó a llorar. Y luego dijo no sé qué hago aquí. —Se volvió hacia Mara—. Y Bander oía una voz desde el otro lado del mar. Cansada. Que contaba. Él creía que era Loth.
 
 Casimir abrió el libro por la primera página del quinto tomo. Le temblaban los dedos. Se la enseñó.
 
@@ -248,9 +248,11 @@ El niño levantó la vista de la pizarra. Y abrió la boca. Y por primera vez de
 
 Esa noche, Casimir abrió el libro de cuentas por una página en blanco. Le pidió a Hakon que le devolviera la pluma, y Hakon, después de pensarlo mucho, se la devolvió. Y escribió:
 
-*Año 27. Verano. Banderbill, en Oderon.* *Sentencia: que sume.*
+*Año 27. Verano. Banderbill, en Oderon.*
 
-*Debe: una puerta. Una ciudad. Darian Heredicus. Veintiséis años de cuentas a un* *muerto que no me dio las gracias.*
+*Sentencia: que sume.*
+
+*Debe: una puerta. Una ciudad. Darian Heredicus. Veintiséis años de cuentas a un muerto que no me dio las gracias.*
 
 *Haber: una casa que huele a brea. Una pizarra. Un niño que dice constará.*
 

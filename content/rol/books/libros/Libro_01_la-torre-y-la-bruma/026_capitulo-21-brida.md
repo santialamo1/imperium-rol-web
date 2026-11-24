@@ -22,7 +22,7 @@ Se volvió. No había nadie. Solo Edmund, mirando la pira con la boca abierta.
 
 Luego sacaron a los niños.
 
-Eran doce. Brida los contó sin querer, porque contaba siempre las cosas —las sábanas, las camisas, las monedas— y porque los doce le parecieron, al principio, muy pocos para tanto escándalo. Doce niños eufesios, morenos, flacos, vestidos con camisones de lino gris, con las manos atadas por delante. El mayor tendría doce años. El más pequeño, cinco o seis. Ninguno lloraba. Eso fue lo que más impresionó a la gente, y lo que la gente usó después para justificarlo: *no lloraban, porque no tenían alma*. Brida, que había criado a cuatro hijos y enterrado a dos, sabía por qué no lloraban los niños. No lloraban cuando ya habían llorado todo.
+Eran doce. Brida los contó sin querer, porque contaba siempre las cosas —las sábanas, las camisas, las monedas— y porque los doce le parecieron, al principio, muy pocos para tanto escándalo. Doce niños eufesios, morenos, flacos, vestidos con camisones de lino gris, con las manos atadas por delante. El mayor tendría doce años. El más pequeño, cinco o seis. Ninguno lloraba. Eso fue lo que más impresionó a la gente, y lo que la gente usó después para justificarlo: no lloraban, porque no tenían alma. Brida, que había criado a cuatro hijos y enterrado a dos, sabía por qué no lloraban los niños. No lloraban cuando ya habían llorado todo.
 
 El sumo sacerdote gritó desde la escalinata que estaban tocados por la niebla. Que había que mirarles las uñas.
 
@@ -52,7 +52,7 @@ Las uñas de la mano que asomaba por encima del hombro del guardia eran grises.
 
 Brida se paró en seco. El guardia la vio. Se miraron.
 
-Fue un instante. Pero Brida vio en la cara del muchacho lo mismo que había sentido ella al gritar: un terror absoluto, ciego, y debajo del terror algo duro como un clavo. Vio que él la había reconocido. Vio que él sabía que ella lo había reconocido a él. Y vio que, si ella abría la boca —si gritaba, si señalaba, si decía *¡ahí va uno!*—, la multitud se volvería, y el muchacho y la niña arderían juntos en la segunda pira, y la capa azul no serviría de nada.
+Fue un instante. Pero Brida vio en la cara del muchacho lo mismo que había sentido ella al gritar: un terror absoluto, ciego, y debajo del terror algo duro como un clavo. Vio que él la había reconocido. Vio que él sabía que ella lo había reconocido a él. Y vio que, si ella abría la boca —si gritaba, si señalaba, si decía ¡ahí va uno!—, la multitud se volvería, y el muchacho y la niña arderían juntos en la segunda pira, y la capa azul no serviría de nada.
 
 La niña cantaba. Muy bajito. Contra el cuello del guardia.
 

@@ -4,19 +4,19 @@
 
 El edicto lo clavaron en la puerta de la casa del panadero un martes, con cuatro clavos de tonelero que habían sido de Joran Kesse, y Pim Hennek, que lo leyó el primero porque llevaba treinta años levantándose antes que nadie para ir a ver las redes, pensó que alguien había gastado una broma de muy mal gusto.
 
-Lo leyó dos veces. Luego una tercera, en voz alta, despacio, para asegurarse de que lo entendía, porque Pim leía mal; había aprendido a los treinta años, en la escuela de Orla, con niños de seis que se reían de él. *Por orden de Bhargaras VII, emperador de Banderbill, y con el acuerdo del Consejo:*
+Lo leyó dos veces. Luego una tercera, en voz alta, despacio, para asegurarse de que lo entendía, porque Pim leía mal; había aprendido a los treinta años, en la escuela de Orla, con niños de seis que se reían de él. Por orden de Bhargaras VII, emperador de Banderbill, y con el acuerdo del Consejo:
 
-*Que en esta ciudad no se enseñe ni se practique el nombrar, ni el soltar, ni el* *escuchar a los muertos, ni ninguna otra arte de las que llaman de oír.*
+*Que en esta ciudad no se enseñe ni se practique el nombrar, ni el soltar, ni el escuchar a los muertos, ni ninguna otra arte de las que llaman de oír.*
 
 *Que la escuela de la Custodia quede cerrada.*
 
-*Que los que oyen y se dicen Custodios, y sus discípulos, y los que les sirvan, salgan* *de la ciudad antes de la luna nueva, con lo que puedan llevar, y no vuelvan.*
+*Que los que oyen y se dicen Custodios, y sus discípulos, y los que les sirvan, salgan de la ciudad antes de la luna nueva, con lo que puedan llevar, y no vuelvan.*
 
-*Que los nombres de los muertos se digan en el templo, una vez al año, la víspera* *del día más corto, y por boca del emperador, y de nadie más.*
+*Que los nombres de los muertos se digan en el templo, una vez al año, la víspera del día más corto, y por boca del emperador, y de nadie más.*
 
 *Porque yo no creo en la magia. Y lo que no se cree, no se teme.*
 
-Debajo, la firma. Una firma torpe, de letras grandes, de alguien que había aprendido a escribir tarde y mal, como él. *Bhargaras.* Nada más. Sin número. Sin título.
+Debajo, la firma. Una firma torpe, de letras grandes, de alguien que había aprendido a escribir tarde y mal, como él. Bhargaras. Nada más. Sin número. Sin título.
 
 Y debajo de la firma, más pequeño, con otra letra, una letra de pescadora, apretada, furiosa, que Pim conocía desde que tenía catorce años:
 
@@ -62,7 +62,7 @@ Pim no lo entendió.
 
 —¿Y qué?
 
-—Que oímos lo que lleva dentro. —Orla abrió los ojos blancos—. Todos. Hasta los niños de once años. Lo oímos latir. Y él lo sabe. Sabe que lo oímos. Y no lo soporta. Le da vergüenza. Le da miedo. Es como si fuera por la calle desnudo y todos lo vieran. —Suspiró —. Así que nos echa. Para que nadie lo oiga. Y escribe *no creo en la magia* porque es lo que ha dicho toda su vida, desde los cuatro años, desde la fuente, y no sabe decir otra cosa.
+—Que oímos lo que lleva dentro. —Orla abrió los ojos blancos—. Todos. Hasta los niños de once años. Lo oímos latir. Y él lo sabe. Sabe que lo oímos. Y no lo soporta. Le da vergüenza. Le da miedo. Es como si fuera por la calle desnudo y todos lo vieran. —Suspiró —. Así que nos echa. Para que nadie lo oiga. Y escribe no creo en la magia porque es lo que ha dicho toda su vida, desde los cuatro años, desde la fuente, y no sabe decir otra cosa.
 
 Pim se quedó callado.
 
@@ -76,7 +76,7 @@ Era lo primero que había cambiado. Bhargaras VII no quería la casa del panader
 
 Pim entró sin que lo llamaran. No era consejero. Nadie le dijo que se fuera.
 
-Estaban todos. Hakon Brand, de pie junto a la ventana, con los brazos cruzados. Ruald, el panadero, que había sustituido a maese Ugo en el Consejo cuando el viejo se quedó ciego, sentado en una esquina con cara de no saber qué hacía allí. Tres mercaderes de Gijor, nuevos, que habían llegado en los barcos del año veintiuno y que se habían hecho ricos vendiendo sal. Un capitán fiordeño, viejo, Skarde, el del *Arenque Gordo*. Y en la cabecera, en la silla grande que había sido de su padre, con el aro de hierro en la cabeza, Bhargaras VII.
+Estaban todos. Hakon Brand, de pie junto a la ventana, con los brazos cruzados. Ruald, el panadero, que había sustituido a maese Ugo en el Consejo cuando el viejo se quedó ciego, sentado en una esquina con cara de no saber qué hacía allí. Tres mercaderes de Gijor, nuevos, que habían llegado en los barcos del año veintiuno y que se habían hecho ricos vendiendo sal. Un capitán fiordeño, viejo, Skarde, el del Arenque Gordo. Y en la cabecera, en la silla grande que había sido de su padre, con el aro de hierro en la cabeza, Bhargaras VII.
 
 Y a su derecha, de pie, porque no había querido sentarse, Mara Renod.
 
@@ -172,7 +172,7 @@ Mara se apartó de la mesa.
 
 Fue hasta la ventana, la alta y estrecha, y se quedó de espaldas a todos, mirando hacia fuera. Hacia la plaza. Hacia la fuente.
 
-—Tu padre —dijo, sin volverse— se pasó veintisiete años haciendo que esta colina escuchara. Veintisiete años. Hizo una escuela. Hizo un templo. Hizo una fuente con sal. Hizo que cada niño de esta colina supiera, antes de saber contar, que a los muertos se les dice *te oigo* y luego *vete*. Que no se les tiene miedo. Que se les escucha. —Se le quebró la voz, un instante, y se rehízo—. Y tú, en dos meses, con un papel y cuatro clavos, lo deshaces.
+—Tu padre —dijo, sin volverse— se pasó veintisiete años haciendo que esta colina escuchara. Veintisiete años. Hizo una escuela. Hizo un templo. Hizo una fuente con sal. Hizo que cada niño de esta colina supiera, antes de saber contar, que a los muertos se les dice te oigo y luego vete. Que no se les tiene miedo. Que se les escucha. —Se le quebró la voz, un instante, y se rehízo—. Y tú, en dos meses, con un papel y cuatro clavos, lo deshaces.
 
 —No deshago nada. Los nombres se seguirán diciendo. En el templo. Una vez al año.
 
@@ -186,7 +186,7 @@ Fue hasta la ventana, la alta y estrecha, y se quedó de espaldas a todos, miran
 
 —¡Por eso!
 
-Lo gritó. Con la voz de capitán. La de la *Tozuda*. La de la escalera. Se volvió de golpe desde la ventana, y los tres mercaderes de Gijor dieron un respingo, y Ruald se encogió en su esquina, y Hakon dio un paso atrás sin darse cuenta.
+Lo gritó. Con la voz de capitán. La de la Tozuda. La de la escalera. Se volvió de golpe desde la ventana, y los tres mercaderes de Gijor dieron un respingo, y Ruald se encogió en su esquina, y Hakon dio un paso atrás sin darse cuenta.
 
 —¡Por eso, hijo! ¡Porque ahora los oyes! ¡Porque llevas dos meses oyéndolos y no sabes qué hacer con ellos y te dan miedo, y en lugar de pedirle a alguien que te enseñe, echas a los únicos que podrían enseñarte! ¡Tu padre te lo dijo! ¡Te lo dijo en la torre, me lo contó tu hermana, te dijo que no le pusieras una espada delante! ¡Y tú vas y le pones un edicto, que es peor, porque una espada por lo menos se ve!
 
@@ -214,7 +214,7 @@ Y Bhargaras —Bhargaras de verdad, el muchacho— se quedó quieto, con las man
 
 Pim lo escuchó. Lo de debajo.
 
-Y lo que oyó fue un grito. Silencioso. Enorme. Un grito de niño de cuatro años en una fuente, mirando a su padre, diciendo *aquí no hay nadie, papá, solo hay agua*.
+Y lo que oyó fue un grito. Silencioso. Enorme. Un grito de niño de cuatro años en una fuente, mirando a su padre, diciendo aquí no hay nadie, papá, solo hay agua.
 
 —Se levanta la sesión —dijo Bhargaras. Con su voz. Con un hilo de su voz.
 

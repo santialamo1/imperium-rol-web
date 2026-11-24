@@ -24,7 +24,7 @@ Se quedó en la puerta. No entró.
 
 La biblioteca era como la había soñado a los diez años. Casi.
 
-Más pequeña. El maestro de obras le había dicho que un edificio tan alto como él lo quería se caería con el primer temporal, y Amael le había dicho que no se caería, y el maestro de obras le había dicho *majestad, con todos mis respetos, sé de piedras más que* *usted*, y Amael había tenido que darle la razón porque era verdad. Así que era más pequeña. Dos pisos y no tres. Treinta varas de largo y no cincuenta.
+Más pequeña. El maestro de obras le había dicho que un edificio tan alto como él lo quería se caería con el primer temporal, y Amael le había dicho que no se caería, y el maestro de obras le había dicho majestad, con todos mis respetos, sé de piedras más que usted, y Amael había tenido que darle la razón porque era verdad. Así que era más pequeña. Dos pisos y no tres. Treinta varas de largo y no cincuenta.
 
 Pero tenía estanterías hasta el techo. De roble. En las cuatro paredes. Con escaleras de mano que corrían por un riel de hierro, que había diseñado él mismo copiando un dibujo de un libro de Concordia que había en la casa de libros.
 
@@ -116,17 +116,17 @@ La letra de Livia.
 
 Los leyó toda la noche.
 
-No todos. No podía. Eran cinco cuadernos, cientos de páginas, treinta y cuatro años. Los abrió por donde caían, como se abren los libros que se han esperado demasiado tiempo. Leyó la Noche del Dolor. Leyó a su abuelo cayendo en la fuente. Leyó a un tonelero que se llamaba Joran clavándole un formón en el ojo a una mujer de sal. Leyó a su tío, al que no conoció, diciéndole a su madre en un valle negro *gana tú*. Leyó a su abuela Mara tirándose al mar con un vestido verde. Leyó el muro. Leyó a un contable que se llamaba Casimir muriéndose en un andamio con un cuaderno en las rodillas.
+No todos. No podía. Eran cinco cuadernos, cientos de páginas, treinta y cuatro años. Los abrió por donde caían, como se abren los libros que se han esperado demasiado tiempo. Leyó la Noche del Dolor. Leyó a su abuelo cayendo en la fuente. Leyó a un tonelero que se llamaba Joran clavándole un formón en el ojo a una mujer de sal. Leyó a su tío, al que no conoció, diciéndole a su madre en un valle negro gana tú. Leyó a su abuela Mara tirándose al mar con un vestido verde. Leyó el muro. Leyó a un contable que se llamaba Casimir muriéndose en un andamio con un cuaderno en las rodillas.
 
-Leyó *He escrito medusas. Es verdad. No es toda la verdad.*
+*Leyó He escrito medusas. Es verdad. No es toda la verdad.*
 
 Y al final, en el último cuaderno, el quinto, el de las tapas más nuevas, el de la letra más temblona, leyó el mar.
 
 *El mar está limpio. Tobías no lo vería.*
 
-Leyó a Tam haciendo un barco. Leyó el nombre del barco. Leyó *le he dicho a* *Verawel que cuando yo no esté, se quede con la colina. Con Amael.*
+Leyó a Tam haciendo un barco. Leyó el nombre del barco. Leyó le he dicho a Verawel que cuando yo no esté, se quede con la colina. Con Amael.
 
-Leyó *Verawel dice que no.*
+*Leyó Verawel dice que no.*
 
 Y luego la letra cambiaba. Era otra. Más recta. Más pequeña. De contable.
 
@@ -134,17 +134,17 @@ Y luego la letra cambiaba. Era otra. Más recta. Más pequeña. De contable.
 
 *Nota del que suma. Año 61. Concordia.*
 
-*La cronista ha muerto en la cúpula de la Torre de la Unión, con la mano en la* *llama, que ahora es blanca. No ha dolido. Lo sé porque lo he preguntado, y la reina que* *no es reina me ha dicho que no, y la reina no me miente desde el año cuarenta y uno.*
+*La cronista ha muerto en la cúpula de la Torre de la Unión, con la mano en la llama, que ahora es blanca. No ha dolido. Lo sé porque lo he preguntado, y la reina que no es reina me ha dicho que no, y la reina no me miente desde el año cuarenta y uno.*
 
 *Las cuentas, a la manera de Casimir:*
 
-*Debe: una tía abuela que no lo era de sangre, Livia Heredicus, setenta años, en un* *nicho de la cripta junto a una mujer con un lobo de oro en la muñeca. Un tío abuelo, si se* *le puede llamar así, el hombre de pelo blanco, que se ha ido hacia arriba casi entero y se* *ha quedado abajo un poco.*
+*Debe: una tía abuela que no lo era de sangre, Livia Heredicus, setenta años, en un nicho de la cripta junto a una mujer con un lobo de oro en la muñeca. Un tío abuelo, si se le puede llamar así, el hombre de pelo blanco, que se ha ido hacia arriba casi entero y se ha quedado abajo un poco.*
 
-*Haber: una ciudad que ahora tiene sol. No mucho. Un agujero en la niebla, encima* *de la torre. Pero sol. Y ni un muerto en las calles. Ni uno.*
+*Haber: una ciudad que ahora tiene sol. No mucho. Un agujero en la niebla, encima de la torre. Pero sol. Y ni un muerto en las calles. Ni uno.*
 
-*Lo apunto en el debe y en el haber. No sé en cuál pesa más. Casimir decía que si* *una cuenta cuadra es que alguien la ha amañado. Esta no cuadra.*
+*Lo apunto en el debe y en el haber. No sé en cuál pesa más. Casimir decía que si una cuenta cuadra es que alguien la ha amañado. Esta no cuadra.*
 
-*Majestad: su madre está bien. No envejece. No escribe. No volverá en mucho* *tiempo. Le manda esto porque es suyo. No le manda lo demás porque no lo es todavía.*
+*Majestad: su madre está bien. No envejece. No escribe. No volverá en mucho tiempo. Le manda esto porque es suyo. No le manda lo demás porque no lo es todavía.*
 
 *Guárdelo donde guarde lo que no se puede leer.*
 
@@ -178,7 +178,7 @@ Loth. Todo lo de Loth. Abajo.
 
 Hubo una página que no supo dónde poner. La leyó tres veces. Era del cuaderno tercero, el del año treinta y uno, el de la noche de la coronación de su madre. Estaba tachada. No del todo.
 
-*Hay un elfo de pelo casi blanco que lee las letras de las Madres mejor que yo, y* *que me ha enseñado en cuatro meses lo que yo no había aprendido en cuatro años, y que* *no sonríe nunca salvo cuando me equivoco.*
+*Hay un elfo de pelo casi blanco que lee las letras de las Madres mejor que yo, y que me ha enseñado en cuatro meses lo que yo no había aprendido en cuatro años, y que no sonríe nunca salvo cuando me equivoco.*
 
 Amael se quedó mirándola.
 
@@ -198,7 +198,7 @@ Puso el arcón en la estantería. Lo cerró. Lo ató otra vez con la cuerda de c
 
 Y se quedó mirándolo.
 
-*Hasta eso no*, le había dicho a Livia a los siete años, mirando el arcón de debajo de la manta. *Eso que se quede abajo. En el sótano.*
+Hasta eso no, le había dicho a Livia a los siete años, mirando el arcón de debajo de la manta. Eso que se quede abajo. En el sótano.
 
 Livia se había reído. Con una risa que Amael no entendió entonces.
 
@@ -286,6 +286,6 @@ Amael se quedó solo en la biblioteca, con la luz del amanecer entrando por las 
 
 Cogió un pellizco de pan.
 
-Y luego, porque era lo que había que hacer, porque era lo que hacía su madre, porque era lo que había hecho el viejo de las cuentas en un andamio y el muchacho de las gafas en un tonel, abrió el libro de registro de la biblioteca, el primero, el que tenía todas las páginas en blanco, y escribió en la primera línea, con su letra: *Año 63. Primer día. Libros: once. Lectores: nueve. Uno se fue sin dejar el suyo.*
+Y luego, porque era lo que había que hacer, porque era lo que hacía su madre, porque era lo que había hecho el viejo de las cuentas en un andamio y el muchacho de las gafas en un tonel, abrió el libro de registro de la biblioteca, el primero, el que tenía todas las páginas en blanco, y escribió en la primera línea, con su letra: Año 63. Primer día. Libros: once. Lectores: nueve. Uno se fue sin dejar el suyo.
 
 *Que conste.*

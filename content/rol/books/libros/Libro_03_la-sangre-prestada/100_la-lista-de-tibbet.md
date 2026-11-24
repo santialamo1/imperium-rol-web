@@ -1,10 +1,10 @@
 # La lista de tibbet
 
-*Copiada del cuaderno de tapas de corcho, que desde el 816 está cosido al acta del* *Consejo en el sótano de la biblioteca. Las de delante se escribieron entre el 331 y el 520 o* *poco después. Las de detrás, desde el 607. Las faltas son del original.*
+*Copiada del cuaderno de tapas de corcho, que desde el 816 está cosido al acta del Consejo en el sótano de la biblioteca. Las de delante se escribieron entre el 331 y el 520 o poco después. Las de detrás, desde el 607. Las faltas son del original.*
 
 ## Cosas que no han pasado
 
-1. Doscientas lámparas. Pagadas en hierro rojo. Que huele a hambre. *(Debajo,* *después del 607: «Un hombre de sal abre una puerta».)*
+1. Doscientas lámparas. Pagadas en hierro rojo. Que huele a hambre. (Debajo, después del 607: «Un hombre de sal abre una puerta».)
 
 2. Doscientas lámparas más. Doce barriles. Un hombre contento que no se vuelve.
 
@@ -40,7 +40,7 @@
 
 18. Sein no se ríe. Pero tampoco hace nada.
 
-*(Hasta el 585 la lista llegó a veintitrés líneas. Las cinco últimas, de la 19 a la 23,* *están tachadas con una raya tan gruesa que no se leen; Tibbet dijo que eran «las de maese* *Corbel» y que ya no hacía falta que las leyera nadie, porque habían pasado todas. En el* *607 dejó de escribir por delante.)*
+*(Hasta el 585 la lista llegó a veintitrés líneas. Las cinco últimas, de la 19 a la 23, están tachadas con una raya tan gruesa que no se leen; Tibbet dijo que eran «las de maese Corbel» y que ya no hacía falta que las leyera nadie, porque habían pasado todas. En el 607 dejó de escribir por delante.)*
 
 ## Cosas que han pasado *(por detrás, desde el 607)*
 
@@ -60,4 +60,4 @@
 
 8. Que haya algo en Annkör que se llame Sombrero. Aunque sea pequeño.
 
-*(Desde la séptima, las líneas de detrás no son de cosas que han pasado, sino de* *cosas que Tibbet quiere que pasen. Wenna se lo dijo en el 760. Tibbet contestó que era lo* *mismo, que solo cambiaba el orden. La séptima está tachada con una raya fina, que deja* *leer: el sombrero se hizo en el 761 y Wenna lo lleva. La octava está tachada igual, desde* *el 816. No hay novena. Tibbet dice que la está pensando.)*
+*(Desde la séptima, las líneas de detrás no son de cosas que han pasado, sino de cosas que Tibbet quiere que pasen. Wenna se lo dijo en el 760. Tibbet contestó que era lo mismo, que solo cambiaba el orden. La séptima está tachada con una raya fina, que deja leer: el sombrero se hizo en el 761 y Wenna lo lleva. La octava está tachada igual, desde el 816. No hay novena. Tibbet dice que la está pensando.)*

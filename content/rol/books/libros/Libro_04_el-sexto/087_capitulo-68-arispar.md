@@ -4,7 +4,7 @@
 
 La luna estaba roja.
 
-Arispar la miró desde el camino de las lomas, a caballo, con cuatro mil hombres detrás y Arghâl delante, y pensó que su madre habría dicho que era mal día para amasar. Lia lo decía de las lunas rojas. *Con luna roja la masa no sube; se queda mirando.* Se reía al decirlo. Él tenía siete años y no sabía si era verdad.
+Arispar la miró desde el camino de las lomas, a caballo, con cuatro mil hombres detrás y Arghâl delante, y pensó que su madre habría dicho que era mal día para amasar. Lia lo decía de las lunas rojas. Con luna roja la masa no sube; se queda mirando. Se reía al decirlo. Él tenía siete años y no sabía si era verdad.
 
 Lo había comprobado después. De mayor. Una noche de luna roja, en la cocina de los Ruald, con Corin. La masa subió igual.
 
@@ -56,9 +56,9 @@ Y esa noche, como todas, cuando se acostó, oyó a su madre diciendo que con lun
 
 Bajaron a la carga a medianoche.
 
-No hubo nada que contar. Lo cuenta el Diario, que lo contará como una batalla; Érandiul estaba en la loma, detrás, con su cuaderno, y verá lo que ve un cronista. *Imperiales y caóticos morían por doquier.* Es verdad. Es lo que pasa.
+No hubo nada que contar. Lo cuenta el Diario, que lo contará como una batalla; Érandiul estaba en la loma, detrás, con su cuaderno, y verá lo que ve un cronista. Imperiales y caóticos morían por doquier. Es verdad. Es lo que pasa.
 
-Arispar peleó delante. Siempre lo hacía. Desde la primera, en las islas, cuando un soldado le había preguntado en la cueva por qué lo hacía y él había contestado *porque si* *no, no sé si lo merezco*. Peleó en la puerta del río. En el mercado. En la calle de los graneros, que ardía. Mató a muchos. No contó; había dejado de contar en el Dungeon Cristal, cuando un chico de Wonder le tarareó cuatro notas.
+Arispar peleó delante. Siempre lo hacía. Desde la primera, en las islas, cuando un soldado le había preguntado en la cueva por qué lo hacía y él había contestado porque si no, no sé si lo merezco. Peleó en la puerta del río. En el mercado. En la calle de los graneros, que ardía. Mató a muchos. No contó; había dejado de contar en el Dungeon Cristal, cuando un chico de Wonder le tarareó cuatro notas.
 
 Glokark estaba en la otra punta de la ciudad.
 
@@ -82,11 +82,11 @@ Un hombre normal. Con ropa gris, de escribano, limpia, sin una mancha de hollín
 
 Arispar lo había visto.
 
-No en persona. En las crónicas de los Vell, en el sótano, a los quince años, a escondidas, leyendo lo del 1256: *un hombre de gris en la boca de la calle, entre el humo*. En los cuadernos de Hatmie, que tenía en la mesa del trono, debajo del pergamino, y que leía cuando no podía dormir: *tú no*. En los ojos de Wenna, la vieja, la de la cara de ochenta, la única de la Orden que no le hablaba, cuando lo miraba en la plaza.
+No en persona. En las crónicas de los Vell, en el sótano, a los quince años, a escondidas, leyendo lo del 1256: un hombre de gris en la boca de la calle, entre el humo. En los cuadernos de Hatmie, que tenía en la mesa del trono, debajo del pergamino, y que leía cuando no podía dormir: tú no. En los ojos de Wenna, la vieja, la de la cara de ochenta, la única de la Orden que no le hablaba, cuando lo miraba en la plaza.
 
 Y antes. Mucho antes. En sueños. Desde los seis años.
 
-Un hombre de gris que se sentaba a los pies de la cama y le decía, con una voz amable, *escríbelo. Escríbelo todo. Así no se te olvida.*
+Un hombre de gris que se sentaba a los pies de la cama y le decía, con una voz amable, escríbelo. Escríbelo todo. Así no se te olvida.
 
 Él lo había escrito todo. Nueve años. En un cuaderno de miedo. Hasta los dieciocho, cuando lo quemó en el horno de los Ruald y el hombre de gris dejó de venir.
 
@@ -172,7 +172,7 @@ Gritó.
 
 —¡Hemos logrado desviar la mirada del Demonio! ¡Su atención no está más sobre Nesturil! ¡Soldados, rápido al palacio! ¡Allí nos esperan los hechiceros que nos transportarán al Infierno para rescatarla!
 
-No era del todo verdad. Los hechiceros estaban en la tundra, no en el palacio. Pero en el sótano del palacio del gobernador había otros tres, de Wonder, con un círculo de tiza preparado desde hacía una semana, por si acaso. Jerek lo había llamado *la puerta de atrás*.
+No era del todo verdad. Los hechiceros estaban en la tundra, no en el palacio. Pero en el sótano del palacio del gobernador había otros tres, de Wonder, con un círculo de tiza preparado desde hacía una semana, por si acaso. Jerek lo había llamado la puerta de atrás.
 
 Los hombres subieron.
 
@@ -266,7 +266,7 @@ Arispar no contestó.
 
 Nesturil lo miró mucho rato. Con los ojos de quien ha ganado ciento doce partidas seguidas.
 
-—Porque quiere que me tengas —dijo—. Que me tengas tú. Que lo sepa todo el mundo. *La Dama del Emperador. La que bajó al Infierno por él.* —Cerró los ojos—. Los que me sigan perecerán. Lo dijo Aelthar. Lo vende Joel a dos monedas en Ullathorpe. Lo sabe él mejor que nadie.
+—Porque quiere que me tengas —dijo—. Que me tengas tú. Que lo sepa todo el mundo. La Dama del Emperador. La que bajó al Infierno por él. —Cerró los ojos—. Los que me sigan perecerán. Lo dijo Aelthar. Lo vende Joel a dos monedas en Ullathorpe. Lo sabe él mejor que nadie.
 
 —No lo voy a permitir.
 

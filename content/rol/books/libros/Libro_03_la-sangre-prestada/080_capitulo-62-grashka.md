@@ -52,7 +52,7 @@ El que la había sacado del agua.
 
 ---
 
-En el 782 ella iba en la proa del último barco. No para pelear. Para mirar. El Señor se lo había pedido, después del primer viaje, en el 729, después del árbol: *Me debes una* *cosa. Te diré cuál.* Y en el 782 se la dijo. *Ve. Mira al de la nariz rota. Mírale bien. Y* *vuelve y dime qué ves.*
+En el 782 ella iba en la proa del último barco. No para pelear. Para mirar. El Señor se lo había pedido, después del primer viaje, en el 729, después del árbol: Me debes una cosa. Te diré cuál. Y en el 782 se la dijo. Ve. Mira al de la nariz rota. Mírale bien. Y vuelve y dime qué ves.
 
 Fue. Lo miró. Desde la proa. Mientras el barco del almirante se les echaba encima y sus soldados les rompían la quilla y el mar entraba.
 
@@ -72,7 +72,7 @@ Le miró el hombro. Luego la cara.
 
 Grâshka se acuerda de eso más que de nada.
 
-Que se lo preguntó él. Con las mismas palabras. *¿Qué quieres?* Pero no como el Señor. El Señor lo preguntaba bajo, tranquilo, como un recaudador, y esperaba, y lo que le dabas se lo quedaba. El de la nariz rota lo preguntó con la voz ronca, mojado, cansado, como se le pregunta a alguien que acabas de sacar del agua si tiene hambre.
+Que se lo preguntó él. Con las mismas palabras. ¿Qué quieres? Pero no como el Señor. El Señor lo preguntaba bajo, tranquilo, como un recaudador, y esperaba, y lo que le dabas se lo quedaba. El de la nariz rota lo preguntó con la voz ronca, mojado, cansado, como se le pregunta a alguien que acabas de sacar del agua si tiene hambre.
 
 Y no esperó. No se quedó con nada.
 
@@ -108,7 +108,7 @@ El Señor sonrió. La cara se le movió. Otra cara. Amable.
 
 —Yo tampoco —dijo el Señor. Y la sonrisa se le quedó un momento más de lo que se le quedaban las sonrisas, como si se le hubiera olvidado quitarla—. Eso es lo que te pedí. Que lo vieras. No que lo entendieras. Ya me has pagado.
 
-Grâshka no supo qué había pagado. Pero notó que algo se iba. De dentro. Pequeño. Lo de la barca. Lo del guiso. Lo de *lo voy repartiendo*. Lo notó irse. Como se va el agua de una mano cerrada.
+Grâshka no supo qué había pagado. Pero notó que algo se iba. De dentro. Pequeño. Lo de la barca. Lo del guiso. Lo de lo voy repartiendo. Lo notó irse. Como se va el agua de una mano cerrada.
 
 No del todo. Un poco se quedó.
 
@@ -288,7 +288,7 @@ Grâshka pensó en el árbol.
 
 Ithil se quedó muy quieto.
 
-Grâshka se dio cuenta de lo que había dicho. En voz alta. En Orac. En la boca de la cueva de la raíz. *No quiero.*
+Grâshka se dio cuenta de lo que había dicho. En voz alta. En Orac. En la boca de la cueva de la raíz. No quiero.
 
 Esperó a que el Señor estuviera. De pronto. Al lado. Como siempre.
 

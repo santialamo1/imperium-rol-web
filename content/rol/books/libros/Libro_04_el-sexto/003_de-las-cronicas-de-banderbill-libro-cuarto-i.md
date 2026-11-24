@@ -1,6 +1,6 @@
 # De las Crónicas de Banderbill, Libro Cuarto (I)
 
-*Escrito por Mirela Vell, cronista de la biblioteca, en el otoño del año 975 de la* *Nueva Era. Con una nota al pie en otra letra.*
+*Escrito por Mirela Vell, cronista de la biblioteca, en el otoño del año 975 de la Nueva Era. Con una nota al pie en otra letra.*
 
 Me llamo Mirela. Llevo el apellido Vell porque lo llevaba mi padre, y él porque lo llevaba su madre, y así hacia atrás hasta Aren, que no se llamaba Vell sino Arenvell, todo junto, y que se lo partió en dos el día que le dieron el cuaderno porque dijo que un nombre entero era demasiado para una sola persona. Eso lo cuenta Ilse en el Libro Tercero. Yo me lo creo.
 
@@ -16,7 +16,7 @@ No ha llegado el segundo hijo de Larath.
 
 Esto es lo que hay en el Imperio en el año 975, en la cuenta nueva el 368 después de Arghâl. Lo pongo en orden de lejos a cerca, como lo ponía mi padre, que decía que las cosas se ven mejor si se empieza por el horizonte.
 
-Al norte, en Annkör, en las montañas blancas, está Tiama. Seis mil almas, casi todas enanas o medio enanas, y unos cuantos humanos que se casaron mal y se quedaron. Una muralla de hielo apisonado que se rehace cada otoño. Gólems de piedra en las puertas, que no hablan, y yetis domesticados en los establos, que tampoco, aunque los mozos dicen que sí. Gobierna allí, sin título, Dalbur, hijo de Dalgrim, que tiene la vida de Bhargaras XI desde el 817 y una barba que le llega al cinturón y que se trenza los días de fiesta. Le escribe al palacio dos veces al año, siempre lo mismo: *Aquí sin novedad. La piedra sigue* *quieta.* La piedra es una rendija, en una cueva de cristal, en la ladera de la montaña más alta. Detrás de la rendija hay algo con un ojo. Lo vigila un soldado de la Armada que se llama Ilan Hask, que tiene la vida del Emperador Astral desde el 930, una espada de hielo colgada en la pared que era de su abuelo, y que no ha visto el mar en cuarenta y cinco años.
+Al norte, en Annkör, en las montañas blancas, está Tiama. Seis mil almas, casi todas enanas o medio enanas, y unos cuantos humanos que se casaron mal y se quedaron. Una muralla de hielo apisonado que se rehace cada otoño. Gólems de piedra en las puertas, que no hablan, y yetis domesticados en los establos, que tampoco, aunque los mozos dicen que sí. Gobierna allí, sin título, Dalbur, hijo de Dalgrim, que tiene la vida de Bhargaras XI desde el 817 y una barba que le llega al cinturón y que se trenza los días de fiesta. Le escribe al palacio dos veces al año, siempre lo mismo: Aquí sin novedad. La piedra sigue quieta. La piedra es una rendija, en una cueva de cristal, en la ladera de la montaña más alta. Detrás de la rendija hay algo con un ojo. Lo vigila un soldado de la Armada que se llama Ilan Hask, que tiene la vida del Emperador Astral desde el 930, una espada de hielo colgada en la pared que era de su abuelo, y que no ha visto el mar en cuarenta y cinco años.
 
 El ojo se ha abierto dos veces. En el 892 y en el 954. Las dos veces, a los pocos días, pasó algo en Banderbill. La primera, el Demonio. La segunda, nació Astragal.
 
@@ -60,7 +60,7 @@ Mi padre decía que cuando el Demonio no hace nada es cuando más hace. Mi padre
 
 Y aquí. Banderbill.
 
-Cuarenta y ocho mil almas. La colina, la muralla de Lanther, que canta cuando hay que cantar y el resto del tiempo hace *tum* de noche, muy bajo, uno y otro, y ya nadie le hace caso. El puerto, los barrios. La Armada: once mil, con los gnomos de las lámparas, los enanos de los túneles y los elfos de los arcos. Los Hask, como siempre, mirando arriba antes de cargar. La biblioteca, con sus siete mil libros y sus dos estanterías que no se pueden leer porque están escritas en una letra que no sabe nadie, que es la letra de las Madres antiguas, y que el bibliotecario, que es un elfo que fue árbol, dice que algún día alguien sabrá.
+Cuarenta y ocho mil almas. La colina, la muralla de Lanther, que canta cuando hay que cantar y el resto del tiempo hace tum de noche, muy bajo, uno y otro, y ya nadie le hace caso. El puerto, los barrios. La Armada: once mil, con los gnomos de las lámparas, los enanos de los túneles y los elfos de los arcos. Los Hask, como siempre, mirando arriba antes de cargar. La biblioteca, con sus siete mil libros y sus dos estanterías que no se pueden leer porque están escritas en una letra que no sabe nadie, que es la letra de las Madres antiguas, y que el bibliotecario, que es un elfo que fue árbol, dice que algún día alguien sabrá.
 
 El Emperador es Larath, el vigésimo primero. Hijo de Astral, nieto de Asgal. Sesenta años, cara de sesenta, porque los Emperadores no tienen vida prestada: la dan. Bueno, justo, cansado. Casado con la reina Selis, de una familia de comerciantes de sal de Nix, desde el 938. Un hijo. Astragal. Veintiún años.
 
@@ -98,12 +98,12 @@ Que conste.
 
 ---
 
-— —
-
 *Al pie, en otra letra, pequeña, de niño:*
 
 *Lo paga él. Con lo que le dan para libros. Ya no pide libros.*
 
-*La cronista ha dicho que no ha llegado el segundo hijo. No es exacto. Lo exacto es* *que no ha llegado el segundo eslabón. Las cadenas no se rompen por donde son débiles.* *Se rompen por donde solo hay uno.*
+*La cronista ha dicho que no ha llegado el segundo hijo. No es exacto. Lo exacto es que no ha llegado el segundo eslabón. Las cadenas no se rompen por donde son débiles. Se rompen por donde solo hay uno.*
 
-*Que conste también.* *S.*
+*Que conste también.*
+
+*S.*

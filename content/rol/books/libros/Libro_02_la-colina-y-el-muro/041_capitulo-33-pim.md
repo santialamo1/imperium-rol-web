@@ -8,7 +8,7 @@ No toda. Le quedaban los ojos, verdes todavía, aunque Bram decía que se le hab
 
 Lo demás se le había ido a trozos. El pómulo izquierdo primero, el día de Torvald, cuando aprendió. Luego el derecho. Luego la nariz, poco a poco, como se cae una pared de adobe con la lluvia. Debajo había hueso. Blanco, limpio, un poco brillante, como el de las calaveras que el mar dejaba a veces en la playa. No dolía. Al principio sí. Luego no.
 
-Los niños —que ya no eran niños, que tenían veinte años, veinticinco, alguno treinta— se reían de él cuando era pequeño. *Pim Sincara*, lo llamaban. Ahora no se reían. Ahora la mayoría se parecía a él.
+Los niños —que ya no eran niños, que tenían veinte años, veinticinco, alguno treinta— se reían de él cuando era pequeño. Pim Sincara, lo llamaban. Ahora no se reían. Ahora la mayoría se parecía a él.
 
 ---
 
@@ -66,9 +66,9 @@ No terminó. No hizo falta.
 
 Pim miró el fuego.
 
-Pensó en el hombre de pelo blanco sentado en el suelo de esa misma cueva, hacía quince años, con la cara quemada, diciéndole *ya no quiero a nadie*. Pensó en él subiendo por el sendero de cabras. Pensó en el tirón, en el hueco, en el diente arrancado. Pensó en lo que decían los tramperos: que se había deshecho. En sal. Como la de las jarras.
+Pensó en el hombre de pelo blanco sentado en el suelo de esa misma cueva, hacía quince años, con la cara quemada, diciéndole ya no quiero a nadie. Pensó en él subiendo por el sendero de cabras. Pensó en el tirón, en el hueco, en el diente arrancado. Pensó en lo que decían los tramperos: que se había deshecho. En sal. Como la de las jarras.
 
-*Lo que se deshace en sal*, pensó, *se puede juntar.*
+*Lo que se deshace en sal, pensó, se puede juntar.*
 
 No lo pensó él. Lo pensó algo debajo de él. Algo que llevaba quince años aprendiendo a tirar, y que había aprendido muy bien.
 
@@ -122,7 +122,7 @@ Ilsa miró los pedazos, en la nieve. Luego lo miró a él.
 
 —No podéis bajar con eso —dijo.
 
-Era lo mismo que le había dicho el año veintiocho, en el borde del valle, cuando se separaron. *No podéis bajar con eso.* Con lo que habían aprendido. Con el hambre. Pim se acordó. Le dolió algo detrás del hueso de la cara, donde antes estaba el pómulo.
+Era lo mismo que le había dicho el año veintiocho, en el borde del valle, cuando se separaron. No podéis bajar con eso. Con lo que habían aprendido. Con el hambre. Pim se acordó. Le dolió algo detrás del hueso de la cara, donde antes estaba el pómulo.
 
 —No vamos a bajar —dijo—. Vamos a la colina.
 
@@ -182,7 +182,7 @@ Le puso las dos manos encima. Cerró los ojos.
 
 Y la nombró.
 
-No con un nombre; no lo tenía. La nombró como le había enseñado el hombre de pelo blanco a nombrar lo que no tiene nombre: mirándose a sí mismo. Mirando hacia abajo. Hacia su hambre. Hacia el hueco donde antes estaba el diente. *Ven. Ven. Eres mía.* *Ven.*
+No con un nombre; no lo tenía. La nombró como le había enseñado el hombre de pelo blanco a nombrar lo que no tiene nombre: mirándose a sí mismo. Mirando hacia abajo. Hacia su hambre. Hacia el hueco donde antes estaba el diente. Ven. Ven. Eres mía. Ven.
 
 Le dolió. Siempre le dolía. Notó algo soltarse en la mandíbula, del lado derecho, como se suelta un clavo de una tabla podrida. Notó cómo se le iba un trozo más de cara.
 
@@ -210,7 +210,7 @@ Todas a la vez.
 
 No hacia Pim. Hacia las otras. Hacia las ochenta y tantas, torcidas, de ojos grises.
 
-Y Pim oyó, por primera vez en su vida, el canto de las Madres. El de verdad. El que había oído la Heredicus la Noche del Dolor. *No pases. No pases. No pases.*
+Y Pim oyó, por primera vez en su vida, el canto de las Madres. El de verdad. El que había oído la Heredicus la Noche del Dolor. No pases. No pases. No pases.
 
 No iba dirigido a él.
 
@@ -258,7 +258,7 @@ Y el agua no canta.
 
 —Por ahí —dijo.
 
-Y antes de bajar, se arrodilló en la nieve y se quitó el cuchillo de Gorm del cinto. El que le había dado Mara Renod en el puente de troncos, el día del destierro. *Cuídalos, Pim.* *A los niños. Cuídalos bien.* Lo había llevado quince años. No lo había usado nunca.
+Y antes de bajar, se arrodilló en la nieve y se quitó el cuchillo de Gorm del cinto. El que le había dado Mara Renod en el puente de troncos, el día del destierro. Cuídalos, Pim. A los niños. Cuídalos bien. Lo había llevado quince años. No lo había usado nunca.
 
 Lo clavó en la nieve. Lo dejó allí.
 

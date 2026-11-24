@@ -44,7 +44,7 @@ La pelirroja no contestó. Hesper ya sabía que no contestaría. Llevaba diecis�
 
 Eso sí lo contestó.
 
-—Uno que pregunta —dijo—. *¿Qué quieres?* Así. —Se volvió a Hesper—. Si alguna vez un hombre con ropa de escribano y una cara que no se te queda te pregunta qué quieres, no le contestes. Nada. Ni *nada*. Date la vuelta y vete.
+—Uno que pregunta —dijo—. ¿Qué quieres? Así. —Se volvió a Hesper—. Si alguna vez un hombre con ropa de escribano y una cara que no se te queda te pregunta qué quieres, no le contestes. Nada. Ni nada. Date la vuelta y vete.
 
 —¿Por qué?
 
@@ -72,7 +72,7 @@ Estaba un hombre muy alto, muy delgado, con gafas, con un libro de cuentas abier
 
 Estaba una mujer pequeña, de pelo rubio y tieso, que olía a castaña asada y que lo miró de arriba abajo como se mira a un caballo antes de comprarlo.
 
-Estaba un gnomo con un sombrero. El sombrero tenía cosido un *93*.
+Estaba un gnomo con un sombrero. El sombrero tenía cosido un 93.
 
 Estaba un muchacho. De cara de quince años. Con unos ojos que no eran de quince años. Que lo saludó con la cabeza. Y que, cuando Hesper entró, dijo, en voz baja, sin que nadie le preguntara:
 
@@ -150,7 +150,7 @@ Pensó en los tres orcos de la poza, con escarcha en las pestañas.
 
 Pensó en la cara gris de la proa.
 
-Y pensó en una cosa que le había dicho Edran Vos, una vez, borracho, en *El Guiso*, años antes de morirse: que un soldado no vive para matar orcos sino para acordarse de los que se murieron a su lado. Que si nadie se acuerda, se mueren dos veces.
+Y pensó en una cosa que le había dicho Edran Vos, una vez, borracho, en El Guiso, años antes de morirse: que un soldado no vive para matar orcos sino para acordarse de los que se murieron a su lado. Que si nadie se acuerda, se mueren dos veces.
 
 Bajó.
 
@@ -238,7 +238,7 @@ La pelirroja no preguntó más. Pero lo miró. Y Hesper supo que ella también h
 
 ---
 
-Esa noche, en *El Guiso*, Hesper le preguntó a Grum, que ya era muy viejo y casi no se movía de la silla de detrás del mostrador, si los orcos sabían de una ciudad negra en la nieve.
+Esa noche, en El Guiso, Hesper le preguntó a Grum, que ya era muy viejo y casi no se movía de la silla de detrás del mostrador, si los orcos sabían de una ciudad negra en la nieve.
 
 Grum dejó de remover el guiso.
 

@@ -1,12 +1,12 @@
 # Capítulo 56 · Sein
 
-*Banderbill, la biblioteca y el sótano de la casa vieja. Primavera del año 1417 de la* *Nueva Era (810 D.bA).*
+*Banderbill, la biblioteca y el sótano de la casa vieja. Primavera del año 1417 de la Nueva Era (810 D.bA).*
 
 La noticia llegó a la biblioteca por la escalera, como llegan todas.
 
-Sein estaba en el archivo de abajo. Ya no era bibliotecario. Lo había dejado de ser en el 1412, cuando el Consejo de los diecinueve, reunido en la sala de los mapas porque no tenía otra, votó que la biblioteca necesitaba *un bibliotecario mayor que se viera*, y nombró a Zanaier. Que era elfo, de los de Nix, viejo, con la barba blanca y las manos manchadas de tinta de seiscientos años, y que era amigo del cronista Érandiul desde hacía cuatrocientos años. Un buen bibliotecario. Lloraba cuando un libro se mojaba.
+Sein estaba en el archivo de abajo. Ya no era bibliotecario. Lo había dejado de ser en el 1412, cuando el Consejo de los diecinueve, reunido en la sala de los mapas porque no tenía otra, votó que la biblioteca necesitaba un bibliotecario mayor que se viera, y nombró a Zanaier. Que era elfo, de los de Nix, viejo, con la barba blanca y las manos manchadas de tinta de seiscientos años, y que era amigo del cronista Érandiul desde hacía cuatrocientos años. Un buen bibliotecario. Lloraba cuando un libro se mojaba.
 
-A Sein lo dejaron en el archivo de abajo. *El ayudante*, decía Zanaier, con cariño. *El* *chico de las gafas*. Zanaier no sabía cuántos años tenía Sein. Nadie se lo había dicho. Creía que era un muchacho listo de la colina que se quedaba hasta tarde.
+A Sein lo dejaron en el archivo de abajo. El ayudante, decía Zanaier, con cariño. El chico de las gafas. Zanaier no sabía cuántos años tenía Sein. Nadie se lo había dicho. Creía que era un muchacho listo de la colina que se quedaba hasta tarde.
 
 A Sein le parecía bien.
 
@@ -30,7 +30,7 @@ Sein cerró el libro.
 
 No lo apuntó.
 
-Fue lo primero que pensó. Antes que nada. Antes que en los cuatro, antes que en la doncella, antes que en el muchacho. Lo pensó con la parte de él que llevaba mil cuatrocientos años pensando eso primero: *¿se apunta?*
+Fue lo primero que pensó. Antes que nada. Antes que en los cuatro, antes que en la doncella, antes que en el muchacho. Lo pensó con la parte de él que llevaba mil cuatrocientos años pensando eso primero: ¿se apunta?
 
 Y la respuesta, desde el 1212, era que no.
 
@@ -154,7 +154,7 @@ Sein lo miró. Desde abajo. Le llegaba al hombro sentado.
 
 Sein tardó en contestar.
 
-Pensó en lo que había que decir. En lo que se le dice a alguien que acaba de matar a cuatro. Pensó en el libro de debajo, el ducentésimo vigésimo, cerrado, sin apuntar. En la tercera columna. En la página nueva que había empezado en el 1410, *Lo que se debe a los* *que no saben*, que de momento tenía un nombre.
+Pensó en lo que había que decir. En lo que se le dice a alguien que acaba de matar a cuatro. Pensó en el libro de debajo, el ducentésimo vigésimo, cerrado, sin apuntar. En la tercera columna. En la página nueva que había empezado en el 1410, Lo que se debe a los que no saben, que de momento tenía un nombre.
 
 El suyo.
 
@@ -162,13 +162,13 @@ El suyo.
 
 —¿Qué página?
 
-—Una que no escribo. —Sein se puso las gafas—. *Lo que se debe a los que no* *saben.* Te puse en el 1410. Antes de que bajaras la escalera. Porque sabía que estabas en el respiradero.
+—Una que no escribo. —Sein se puso las gafas—. Lo que se debe a los que no saben. Te puse en el 1410. Antes de que bajaras la escalera. Porque sabía que estabas en el respiradero.
 
 El grande se quedó quieto.
 
 —¿Lo sabías?
 
-—Desde el 1380. Una noche, Teo dijo *un gato*. Y yo sé que en el callejón de los Cubos no hay gatos desde el 1201, porque se los comieron los perros del Tintorero. —Sein se encogió de hombros—. No dije nada. Pensé que un niño que escucha no hace daño. Pensé que un niño que escucha es lo único que no escucha él. —Se quitó las gafas—. Y te puse en la página. Porque te debíamos algo. Te habíamos dejado saber sin decirte. Eso se debe.
+—Desde el 1380. Una noche, Teo dijo un gato. Y yo sé que en el callejón de los Cubos no hay gatos desde el 1201, porque se los comieron los perros del Tintorero. —Sein se encogió de hombros—. No dije nada. Pensé que un niño que escucha no hace daño. Pensé que un niño que escucha es lo único que no escucha él. —Se quitó las gafas—. Y te puse en la página. Porque te debíamos algo. Te habíamos dejado saber sin decirte. Eso se debe.
 
 —¿Y ahora?
 

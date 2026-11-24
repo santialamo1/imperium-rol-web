@@ -154,10 +154,10 @@ Merel tardó en contestar. Era una mujer joven, Lato de los bosques de abedules 
 
 —¿Qué decía?
 
-—Decía: *Quedan cuatro*. —Merel bajó la vista—. Y la cosa grande le contestó.
+—Decía: Quedan cuatro. —Merel bajó la vista—. Y la cosa grande le contestó.
 
 —¿Qué le contestó?
 
 Merel se estremeció.
 
-—Le dijo: *Bastan.*
+—Le dijo: Bastan.

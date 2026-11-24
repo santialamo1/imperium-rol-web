@@ -2,7 +2,7 @@
 
 *Banderbill. Verano del año 58 de la Nueva Era.*
 
-La primera vez que oyó a alguien llamarla *bruja* en voz alta fue en el mercado, delante de un puesto de coles, y lo dijo una niña.
+La primera vez que oyó a alguien llamarla bruja en voz alta fue en el mercado, delante de un puesto de coles, y lo dijo una niña.
 
 Tendría seis años. Iba de la mano de su madre, una mujer de Pisor con un cesto en la cadera, y al ver pasar a la reina se le escapó, con esa claridad que tienen los niños para decir lo que los mayores dicen en las cocinas:
 
@@ -38,7 +38,7 @@ Y lo decían los niños.
 
 Tenía cuarenta y siete años. Tenía la cara de los veinte.
 
-Su hijo tenía dieciséis y parecía su hermano. Mayor. Le sacaba una cabeza. Tenía los hombros de Teo y los ojos de Teo y una barba incipiente que se afeitaba cada mañana con mucho cuidado, con el cuchillo de su abuela Mara, el de destripar, que Lanther le había regalado a los catorce porque no tenía otra cosa de su abuela que darle. Cuando paseaban juntos por la ciudad, los forasteros de Gijor creían que eran novios. Uno se lo dijo una vez, en el puerto, con una sonrisa de comerciante: *Qué pareja tan bonita, si me* *permiten*. Amael se puso rojo hasta las orejas. Lanther se rió. Luego, por la noche, no.
+Su hijo tenía dieciséis y parecía su hermano. Mayor. Le sacaba una cabeza. Tenía los hombros de Teo y los ojos de Teo y una barba incipiente que se afeitaba cada mañana con mucho cuidado, con el cuchillo de su abuela Mara, el de destripar, que Lanther le había regalado a los catorce porque no tenía otra cosa de su abuela que darle. Cuando paseaban juntos por la ciudad, los forasteros de Gijor creían que eran novios. Uno se lo dijo una vez, en el puerto, con una sonrisa de comerciante: Qué pareja tan bonita, si me permiten. Amael se puso rojo hasta las orejas. Lanther se rió. Luego, por la noche, no.
 
 Livia tenía sesenta y siete. Estaba encorvada. Tosía cada invierno un poco más. Llevaba gafas de cristal gordo y se le habían ido poniendo las manos como las raíces de un árbol, nudosas, manchadas, con la tinta metida en las grietas de la piel para siempre. Verawel, a su lado, seguía teniendo la cara de los doscientos años, que en un elfo era la cara de los treinta en un hombre.
 
@@ -72,7 +72,7 @@ Nadie dijo nada. Lanther cerró los ojos. Escuchó.
 
 Lo oyó.
 
-Muy lejos. Más lejos que el valle. Más lejos que el mar. Hacia el norte. Hacia donde miraba su padre. Hacia donde se fue su madre en la *Tozuda* con el vestido verde. Algo. Un latido grande, hondo, impaciente. No dormido. No despierto del todo. Como quien se da la vuelta en la cama al oír pasos en la escalera.
+Muy lejos. Más lejos que el valle. Más lejos que el mar. Hacia el norte. Hacia donde miraba su padre. Hacia donde se fue su madre en la Tozuda con el vestido verde. Algo. Un latido grande, hondo, impaciente. No dormido. No despierto del todo. Como quien se da la vuelta en la cama al oír pasos en la escalera.
 
 Y otra cosa, más pequeña, cerca de lo grande. Algo que andaba. Algo que buscaba. Algo que daba vueltas a un pozo, una y otra vez, como un perro que ha perdido el rastro.
 
@@ -94,7 +94,7 @@ Livia se quedó blanca.
 
 —Se deshizo. En mis brazos. En el valle. Se fue con ella, con Seren, mirando hacia arriba. Lo vi.
 
-—Viste lo que había aquí —dijo Sein, sin levantar la vista del cuaderno. Tenía una página abierta, vieja, del año veintisiete, con la letra de Casimir—. Casimir lo apuntó en la travesía. De noche, en la proa, el hombre de pelo blanco contaba con los dedos y murmuraba, y Casimir, que no sabía no apuntar, apuntaba. *Siete jarras. Tres rotas. La* *cuarta en el emperador. La quinta en Eufesia, con un viejo. La séptima en Concordia.* La sexta no la dijo; no la sabía todavía. La añadí yo, el año veintinueve, cuando apareció en el bolsillo de tu hermano. —Levantó la vista—. La sexta la tenía el rey. La cuarta la tiene la reina. La quinta…
+—Viste lo que había aquí —dijo Sein, sin levantar la vista del cuaderno. Tenía una página abierta, vieja, del año veintisiete, con la letra de Casimir—. Casimir lo apuntó en la travesía. De noche, en la proa, el hombre de pelo blanco contaba con los dedos y murmuraba, y Casimir, que no sabía no apuntar, apuntaba. Siete jarras. Tres rotas. La cuarta en el emperador. La quinta en Eufesia, con un viejo. La séptima en Concordia. La sexta no la dijo; no la sabía todavía. La añadí yo, el año veintinueve, cuando apareció en el bolsillo de tu hermano. —Levantó la vista—. La sexta la tenía el rey. La cuarta la tiene la reina. La quinta…
 
 —En Eufesia —dijo Livia. Muy bajo.
 
@@ -124,7 +124,7 @@ Nadie dijo nada durante mucho rato.
 
 Lanther se rió. Sin querer.
 
-—No ahora —dijo Verawel. Despacio—. No todavía. Hace falta un barco. Uno bueno. No la *Tozuda*. Y hace falta saber más. Lo que hay en Concordia. Lo que hay en el pozo. Hace falta tiempo.
+—No ahora —dijo Verawel. Despacio—. No todavía. Hace falta un barco. Uno bueno. No la Tozuda. Y hace falta saber más. Lo que hay en Concordia. Lo que hay en el pozo. Hace falta tiempo.
 
 —¿Cuánto?
 
@@ -198,7 +198,7 @@ Sein levantó la vista del cuaderno.
 
 —Lo sé.
 
-—Lo propuse yo. Lo apunté. *Lo propuse yo.* —Sein se quitó las gafas. Tenía los ojos rojos—. No me lo merezco.
+—Lo propuse yo. Lo apunté. Lo propuse yo. —Sein se quitó las gafas. Tenía los ojos rojos—. No me lo merezco.
 
 —No es un premio —dijo Lanther.
 
@@ -210,7 +210,7 @@ Lanther se miró la palma de la mano izquierda. Treinta y un años sin cicatriz.
 
 Sein no dijo nada.
 
-—Yo no puedo hacerlo sola —dijo Lanther—. No puedo. Necesito a alguien que se acuerde. Que lo apunte. Que me diga cuánto llevo de debe. Que me diga cuándo me estoy convirtiendo en lo que no quiero ser. —Lo miró—. Que me diga *lo propusiste tú*.
+—Yo no puedo hacerlo sola —dijo Lanther—. No puedo. Necesito a alguien que se acuerde. Que lo apunte. Que me diga cuánto llevo de debe. Que me diga cuándo me estoy convirtiendo en lo que no quiero ser. —Lo miró—. Que me diga lo propusiste tú.
 
 Sein se quedó callado mucho rato.
 
@@ -224,7 +224,7 @@ Y le tendió la mano.
 
 Lo hizo como lo había hecho su hermano. Con el cuchillo curvo del elfo. En la palma. Con la sangre roja.
 
-Mirándolo. Pensando en él. En un niño de ocho años en el banquillo de la panadería, con tiza, dibujando palotes en el suelo y diciendo *constará*. En un niño de once en un tonel, gritando cifras. En un muchacho de veintidós con una pluma y una línea abierta. En un hombre de treinta y nueve con gafas que no había tachado nunca nada salvo una vez.
+Mirándolo. Pensando en él. En un niño de ocho años en el banquillo de la panadería, con tiza, dibujando palotes en el suelo y diciendo constará. En un niño de once en un tonel, gritando cifras. En un muchacho de veintidós con una pluma y una línea abierta. En un hombre de treinta y nueve con gafas que no había tachado nunca nada salvo una vez.
 
 Con amor. No como el que se tiene a un hombre. Como el que se tiene a un hermano pequeño que no es tu hermano.
 
@@ -250,7 +250,7 @@ Y luego se quedó muy quieto, con la mano en el pecho, mirando el cuaderno.
 
 —Ya lo sé, Sein.
 
-Sein recogió las gafas. Se las puso. Miró el cuaderno. Y debajo de *Sein Vell. Una* *vida. No la mía*, en el haber, escribió:
+Sein recogió las gafas. Se las puso. Miró el cuaderno. Y debajo de Sein Vell. Una vida. No la mía, en el haber, escribió:
 
 *Recibido.*
 
@@ -278,7 +278,7 @@ Lanther lo pensó un momento.
 
 —El cofre de Bhargaras II —dijo.
 
-El muchacho asintió, como si eso lo explicara todo. Y Lanther lo oyó guardarlo, el nombre, para contarlo luego en la taberna. *La vi salir. Con el cofre. El de Bhargaras II.* *Con unos que se llamaban…*
+El muchacho asintió, como si eso lo explicara todo. Y Lanther lo oyó guardarlo, el nombre, para contarlo luego en la taberna. La vi salir. Con el cofre. El de Bhargaras II. Con unos que se llamaban…
 
 —¿Y ustedes quiénes son? —preguntó otro soldado. Uno mayor. Por si acaso. Por si se lo preguntaban luego.
 

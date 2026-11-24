@@ -32,7 +32,7 @@ Lucius Heredicus no está en ninguna parte.
 
 O está en un sitio que nadie ha buscado.
 
-Ella no puede decírselo. No tiene voz. Solo tiene la frase de siempre, la que repite desde hace trescientos años, la que él oye y no escucha. Pero la noche de la caída descubrió que podía decir otras. Una, al menos. *Deja que se vaya.* Y él la escuchó. Por primera vez en trescientos años, la escuchó, y se apartó un paso.
+Ella no puede decírselo. No tiene voz. Solo tiene la frase de siempre, la que repite desde hace trescientos años, la que él oye y no escucha. Pero la noche de la caída descubrió que podía decir otras. Una, al menos. Deja que se vaya. Y él la escuchó. Por primera vez en trescientos años, la escuchó, y se apartó un paso.
 
 Un paso.
 
@@ -52,6 +52,8 @@ Ella se queda a su lado. Como siempre.
 
 Y piensa, con la voz que nadie oye, con la única palabra que todavía es suya:
 
-*No tires tanto, Emrah.* *No tires tanto.*
+*No tires tanto, Emrah.*
 
-**FIN DEL LIBRO PRIMERO**
+*No tires tanto.*
+
+FIN DEL LIBRO PRIMERO

@@ -56,7 +56,7 @@ Miraba la columna. Trescientos hombres, en filas de cuatro, subiendo por la lade
 
 Su cuchillo.
 
-No se lo había pedido nunca. Ella no se lo había devuelto. El elfo había pensado, durante dos años, que eso quería decir algo en las costumbres de los humanos, algo que él no entendía. Lo había apuntado en el cuaderno. *La muchacha de las piedras tiene mi* *cuchillo y no me lo devuelve. Creo que es un pacto. No sé de qué.*
+No se lo había pedido nunca. Ella no se lo había devuelto. El elfo había pensado, durante dos años, que eso quería decir algo en las costumbres de los humanos, algo que él no entendía. Lo había apuntado en el cuaderno. La muchacha de las piedras tiene mi cuchillo y no me lo devuelve. Creo que es un pacto. No sé de qué.
 
 Y miraba las montañas.
 
@@ -82,7 +82,7 @@ Nada. Ningún árbol. Ninguna voz. Era como quedarse sordo de golpe.
 
 —Nadie la conoce. Por eso vamos.
 
-—No. Quiero decir que… —El elfo no encontraba las palabras en la lengua de los humanos. En la suya había una palabra para eso, una sola, que quería decir *el sitio donde* *los árboles no saben tu nombre*. Era una palabra que se usaba poco. Se usaba para los muertos—. Quiero decir que esta montaña no me conoce a mí.
+—No. Quiero decir que… —El elfo no encontraba las palabras en la lengua de los humanos. En la suya había una palabra para eso, una sola, que quería decir el sitio donde los árboles no saben tu nombre. Era una palabra que se usaba poco. Se usaba para los muertos—. Quiero decir que esta montaña no me conoce a mí.
 
 Orm lo miró raro. Luego le dio una palmada en el hombro, el bueno, el que no le había mordido la mula.
 
@@ -104,7 +104,7 @@ Esa noche no durmió.
 
 Acamparon en una hondonada al resguardo del viento, entre dos crestas. Trescientos hombres alrededor de cuarenta hogueras de sal, azules. El elfo estaba al borde del campamento, con las mulas, donde se ponían siempre las mulas, lejos de los fuegos. Hacía frío. Mucho. Las mulas se apretaban unas contra otras y contra él, y por primera vez desde que salieron no le mordieron. Tozuda le puso el hocico en el cuello y se quedó así, respirando, toda la noche.
 
-El elfo apuntaría eso en el cuaderno: *Las mulas me quieren cuando tienen frío.* *Como los humanos.*
+El elfo apuntaría eso en el cuaderno: Las mulas me quieren cuando tienen frío. Como los humanos.
 
 Y miraba.
 
@@ -148,7 +148,7 @@ No era su pueblo. No era su emperador. No era asunto suyo. Su abuela le habría 
 
 Pero se levantó.
 
-No supo por qué. Lo apuntaría esa noche, también, con la letra temblorosa del frío: *Me levanté. No sé por qué. Creo que porque estaba solo.*
+No supo por qué. Lo apuntaría esa noche, también, con la letra temblorosa del frío: Me levanté. No sé por qué. Creo que porque estaba solo.
 
 Dejó las mulas. Cruzó el campamento, entre los fuegos, despacio, con el sombrero calado. Nadie lo miró; era un mulero. Llegó al fuego del emperador.
 
@@ -182,7 +182,7 @@ El emperador se quedó callado. Luego, despacio, abrió la mano. La jarra blanca
 
 El elfo miró la jarra.
 
-En su pueblo había una palabra para eso también. No para la jarra; para lo que había dentro. Era una palabra muy vieja, más vieja que la de *el sitio donde los árboles no* *saben tu nombre*, y se usaba aún menos. Se usaba en las historias que contaban las abuelas para que los niños no se acercaran a las montañas. Se usaba para lo que había debajo de las montañas. Para lo que dormía. Para lo que ellas guardaban.
+En su pueblo había una palabra para eso también. No para la jarra; para lo que había dentro. Era una palabra muy vieja, más vieja que la de el sitio donde los árboles no saben tu nombre, y se usaba aún menos. Se usaba en las historias que contaban las abuelas para que los niños no se acercaran a las montañas. Se usaba para lo que había debajo de las montañas. Para lo que dormía. Para lo que ellas guardaban.
 
 —Es un trozo —dijo el elfo.
 
@@ -236,15 +236,15 @@ El emperador lo miró. Asintió una vez.
 
 Esa noche, en el cuaderno, con la mula Tozuda respirándole en el cuello y la letra temblándole de frío, el elfo escribió:
 
-*Año 29. Primavera. La montaña sin árboles.* *Llevamos cuatro días de marcha. Los árboles no conocen este sitio. Yo tampoco.* *El emperador habla con una jarra. Le tiene miedo. La jarra late como la montaña.*
+*Año 29. Primavera. La montaña sin árboles. Llevamos cuatro días de marcha. Los árboles no conocen este sitio. Yo tampoco. El emperador habla con una jarra. Le tiene miedo. La jarra late como la montaña.*
 
-*Me ha preguntado mi nombre. Le he dicho el de mi casa. Es la primera vez que se* *lo digo a un humano.*
+*Me ha preguntado mi nombre. Le he dicho el de mi casa. Es la primera vez que se lo digo a un humano.*
 
 *No sé si he hecho bien.*
 
 Lo miró un rato. Luego, debajo, añadió:
 
-*La muchacha de las piedras está en la tercera compañía. Se llama Ebbo. Como yo.* *Creo que esto también es un pacto.*
+*La muchacha de las piedras está en la tercera compañía. Se llama Ebbo. Como yo. Creo que esto también es un pacto.*
 
 Y debajo, mucho más tarde, ya casi al amanecer, cuando el latido de debajo de la roca se hizo tan fuerte que lo despertó:
 

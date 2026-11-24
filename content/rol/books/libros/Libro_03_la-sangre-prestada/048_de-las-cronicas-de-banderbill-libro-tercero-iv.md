@@ -1,10 +1,10 @@
 # De las Crónicas de Banderbill, Libro Tercero (IV)
 
-*Escrito por Clara Vell, cronista de la biblioteca, en el verano del año 710 de la* *Nueva Era (103 D.bA). Con el sombrero puesto, porque el elfo no lo ha vuelto a pedir.* *Con una nota al pie en otra letra.*
+*Escrito por Clara Vell, cronista de la biblioteca, en el verano del año 710 de la Nueva Era (103 D.bA). Con el sombrero puesto, porque el elfo no lo ha vuelto a pedir. Con una nota al pie en otra letra.*
 
 Me llamo Clara. Tengo cincuenta años, el apellido desde el 688 y un problema: el Emperador no está.
 
-No es que se haya muerto. Es que no está. Se pasa la vida en Nix, en las gradas de levante, que ya no son secretas, con la corona de once libras puesta, cepillando tablas. Viene a la colina cuando le obliga el Consejo, que es dos veces al año, y se sienta en el trono con serrín en la barba y se le nota que está pensando en otra cosa. En la colina lo llaman *el Emperador carpintero*. Lo dicen con una mezcla de cariño y de miedo que no había oído nunca en la voz de la gente.
+No es que se haya muerto. Es que no está. Se pasa la vida en Nix, en las gradas de levante, que ya no son secretas, con la corona de once libras puesta, cepillando tablas. Viene a la colina cuando le obliga el Consejo, que es dos veces al año, y se sienta en el trono con serrín en la barba y se le nota que está pensando en otra cosa. En la colina lo llaman el Emperador carpintero. Lo dicen con una mezcla de cariño y de miedo que no había oído nunca en la voz de la gente.
 
 Tiene ochenta y nueve años y aparenta sesenta. Se mueve como uno de cuarenta cuando está en las gradas y como uno de cien cuando está en el trono.
 
@@ -14,7 +14,7 @@ Los barcos existen.
 
 Lo escribo así porque durante dieciocho años no existieron, y ahora la gente de la colina baja al puerto los domingos a verlos, como se va a ver una cosa que no se cree.
 
-Hay cuatro terminados. Dos más en las gradas. Los cuatro terminados están anclados en la bahía de Nix y en la de Banderbill, dos y dos, y son tan grandes que los pescadores de la Punta dicen que les quitan el viento. El primero se llama *Iselde*, por la madre del Emperador. El segundo, *Brena*. El tercero, *Maren*, que la emperatriz no quería y el Emperador puso igual. El cuarto no tiene nombre todavía. El Emperador dice que se lo pondrá cuando sepa adónde va.
+Hay cuatro terminados. Dos más en las gradas. Los cuatro terminados están anclados en la bahía de Nix y en la de Banderbill, dos y dos, y son tan grandes que los pescadores de la Punta dicen que les quitan el viento. El primero se llama Iselde, por la madre del Emperador. El segundo, Brena. El tercero, Maren, que la emperatriz no quería y el Emperador puso igual. El cuarto no tiene nombre todavía. El Emperador dice que se lo pondrá cuando sepa adónde va.
 
 Los carpinteros de Nix cobran ahora del Imperio, no del silencio. El señor Vell —el otro, el de las gafas, que no es pariente mío pero que lleva el apellido desde antes que nadie — dice que es más barato. Que el silencio era lo más caro. Que ahora solo hay que pagar el roble.
 
@@ -82,11 +82,9 @@ Pero lo voy a pedir. Para que conste que lo pedí.
 
 ---
 
-— —
-
 *Al pie, en otra letra, pequeña, de niño:*
 
-*Va el elfo de la silla del fondo. Lo ha pedido él. Le han dicho que sí. Tiene* *ochocientos cincuenta y tres años y una mano que no sirve.*
+*Va el elfo de la silla del fondo. Lo ha pedido él. Le han dicho que sí. Tiene ochocientos cincuenta y tres años y una mano que no sirve.*
 
 *Dice que alguien tiene que verlo. Y apuntarlo. Y luego decir que lo vio.*
 

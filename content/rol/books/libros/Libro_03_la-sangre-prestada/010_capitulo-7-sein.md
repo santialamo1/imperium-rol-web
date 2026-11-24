@@ -4,7 +4,7 @@
 
 Sein Vell compraba el pan en la panadería de los Ruald desde el año 27, y en quinientos cuatro años no le habían cobrado nunca de más.
 
-Lo tenía apuntado. No en el libro de cuentas, que era para lo grande; en un cuaderno pequeño, de tapas de cuero, que llevaba en el bolsillo de dentro y en el que apuntaba lo que gastaba él, a mano, cada día, desde que Casimir le había enseñado que el que no sabe lo que gasta él no sabe lo que gasta nadie. *Pan, Ruald, una hogaza, dos* *cobres.* Quinientos cuatro años. Había subido el precio, claro. Dos cobres, luego tres, luego medio real en la carestía del 375, luego tres cobres otra vez. Pero nunca de más. Nunca un cobre que no tocara.
+Lo tenía apuntado. No en el libro de cuentas, que era para lo grande; en un cuaderno pequeño, de tapas de cuero, que llevaba en el bolsillo de dentro y en el que apuntaba lo que gastaba él, a mano, cada día, desde que Casimir le había enseñado que el que no sabe lo que gasta él no sabe lo que gasta nadie. Pan, Ruald, una hogaza, dos cobres. Quinientos cuatro años. Había subido el precio, claro. Dos cobres, luego tres, luego medio real en la carestía del 375, luego tres cobres otra vez. Pero nunca de más. Nunca un cobre que no tocara.
 
 Era la única cuenta del mundo que le cuadraba siempre.
 
@@ -48,7 +48,7 @@ Se apartó. Se sentó en el escalón de una casa. Sacó el cuaderno pequeño. Lo
 
 Lo miró.
 
-*Que conste.* Lo decía toda la colina. Lo había gritado él, con once años, desde un tonel, en el año 30, y la colina lo había cogido y ya no lo había soltado. Lo decían los carniceros al pesar. Lo decían los jueces al sentenciar. Lo decían los niños cuando jugaban a mercaderes. No significaba nada. Era una cosa que se decía.
+Que conste. Lo decía toda la colina. Lo había gritado él, con once años, desde un tonel, en el año 30, y la colina lo había cogido y ya no lo había soltado. Lo decían los carniceros al pesar. Lo decían los jueces al sentenciar. Lo decían los niños cuando jugaban a mercaderes. No significaba nada. Era una cosa que se decía.
 
 *A los clientes de más de quinientos años.*
 
@@ -56,7 +56,7 @@ Eso no lo decía nadie.
 
 Sein se quitó las gafas. Las limpió con la camisa. Se las volvió a poner.
 
-Luego sacó la pluma del tintero del cinto, y en el cuaderno pequeño, debajo de *dos* *cobres*, escribió, con la letra más pequeña que tenía:
+Luego sacó la pluma del tintero del cinto, y en el cuaderno pequeño, debajo de dos cobres, escribió, con la letra más pequeña que tenía:
 
 *El tío del horno.*
 
@@ -100,7 +100,7 @@ Sein la miró.
 
 Lo explicó.
 
-Que algo crecía al sur. Que no sabían qué. Que llevaba doscientos años creciendo, desde las primeras lámparas, y que la lista de Tibbet tenía ya veintitrés líneas. Que había ochenta y tantas casas en la hondonada cuando Oda Hask fue a comprar queso, y que ahora había, según el pescador Ugo, más de doscientas, y una muralla, y una torre. Que a los que iban a trabajar a las minas se les quedaban los ojos quietos. Que la reina había dicho *dos*. Que no sabían lo que era el segundo.
+Que algo crecía al sur. Que no sabían qué. Que llevaba doscientos años creciendo, desde las primeras lámparas, y que la lista de Tibbet tenía ya veintitrés líneas. Que había ochenta y tantas casas en la hondonada cuando Oda Hask fue a comprar queso, y que ahora había, según el pescador Ugo, más de doscientas, y una muralla, y una torre. Que a los que iban a trabajar a las minas se les quedaban los ojos quietos. Que la reina había dicho dos. Que no sabían lo que era el segundo.
 
 Que cuando pasara lo que fuera a pasar, porque iba a pasar, se iban a necesitar manos.
 
@@ -156,7 +156,7 @@ Sein se quedó quieto.
 
 Tibbet miraba al suelo. Matías miraba a Lanther con la boca abierta.
 
-—Y a Wenna se la dio Andriath porque la quería —siguió Lanther—. Y a Tibbet, VIII, porque lo quería. Y Amael a alguien que no sabemos, *a quien yo sé*, porque lo quería tanto que no lo pudo apuntar. Y la jarra de Loth me la dio Loth *para cuando te canses*, que es lo más bonito que me ha dicho nadie. —Se tocó el cuello—. Ninguna de esas se dio para servir. Si empezamos a darlas para servir, Sein, nos convertimos en lo que hay al sur. En los que pagan con algo que no es suyo.
+—Y a Wenna se la dio Andriath porque la quería —siguió Lanther—. Y a Tibbet, VIII, porque lo quería. Y Amael a alguien que no sabemos, a quien yo sé, porque lo quería tanto que no lo pudo apuntar. Y la jarra de Loth me la dio Loth para cuando te canses, que es lo más bonito que me ha dicho nadie. —Se tocó el cuello—. Ninguna de esas se dio para servir. Si empezamos a darlas para servir, Sein, nos convertimos en lo que hay al sur. En los que pagan con algo que no es suyo.
 
 ---
 
@@ -196,11 +196,11 @@ Le puso la mano en la cara.
 
 Votaron. Por costumbre; en la Orden se votaba desde el 33, aunque las votaciones las ganaba casi siempre quien tenía que ganarlas.
 
-Sein votó que sí. Lanther, que no. Tibbet tardó mucho y al final votó que no, y luego dijo que lo sentía, y luego dijo que no lo sentía, y luego se quitó el sombrero y lo dejó en el suelo y no dijo nada más. Wenna había mandado su voto en la cesta de las castañas, en un papel: *Que no. Y que se coma alguien las castañas antes de que se enfríen.* Matías no votaba; los Vell no votaban, solo apuntaban.
+Sein votó que sí. Lanther, que no. Tibbet tardó mucho y al final votó que no, y luego dijo que lo sentía, y luego dijo que no lo sentía, y luego se quitó el sombrero y lo dejó en el suelo y no dijo nada más. Wenna había mandado su voto en la cesta de las castañas, en un papel: Que no. Y que se coma alguien las castañas antes de que se enfríen. Matías no votaba; los Vell no votaban, solo apuntaban.
 
 Tres contra uno.
 
-Sein lo apuntó. En el debe. Con la letra de siempre. Sin temblar. *Año 531. Propuesta de que crezca la Orden. Rechazada. Tres contra uno. El uno, yo.*
+Sein lo apuntó. En el debe. Con la letra de siempre. Sin temblar. Año 531. Propuesta de que crezca la Orden. Rechazada. Tres contra uno. El uno, yo.
 
 Y luego, debajo, más pequeño:
 
@@ -220,9 +220,9 @@ Exactamente igual.
 
 Sein dejó de masticar.
 
-Se quedó de pie en la cocina a oscuras, con el pan en la boca, pensando en un viejo calvo de sesenta y tantos de cara que sacaba hogazas del horno grande con la paciencia de alguien que ha sacado muchas. En *que conste*. En *a los clientes de más de quinientos años*.
+Se quedó de pie en la cocina a oscuras, con el pan en la boca, pensando en un viejo calvo de sesenta y tantos de cara que sacaba hogazas del horno grande con la paciencia de alguien que ha sacado muchas. En que conste. En a los clientes de más de quinientos años.
 
-En que el pan de los Ruald había sabido igual desde el año 2. Siempre. En todas las generaciones. Con todos los nietos y bisnietos que habían pasado por el mostrador. Y que él lo había apuntado durante cinco siglos en un cuaderno, *pan, Ruald, una hogaza*, como una cosa buena, una cuenta que cuadraba, y no se había preguntado nunca *por qué* cuadraba.
+En que el pan de los Ruald había sabido igual desde el año 2. Siempre. En todas las generaciones. Con todos los nietos y bisnietos que habían pasado por el mostrador. Y que él lo había apuntado durante cinco siglos en un cuaderno, pan, Ruald, una hogaza, como una cosa buena, una cuenta que cuadraba, y no se había preguntado nunca por qué cuadraba.
 
 Tragó.
 

@@ -64,7 +64,7 @@ Hector pensó en el sillar con la veta negra, en el andamio, en el latido.
 
 —Padre, odio la corte. Odio el Consejo. Odio a los señores, a los escribas, a los recaudadores, a los embajadores, a los...
 
-—Por eso. —La sonrisa, esta vez, fue clara—. Un hombre que quiere el poder es un hombre que el poder ya posee. Lisandro lo sabía. Él te eligió antes que yo. *Él no es de tu* *sangre, y por eso será el único que pueda sostener lo que construiste sin que lo devore.* Eso escribió. Y Lisandro... Lisandro siempre tuvo razón. Era insoportable.
+—Por eso. —La sonrisa, esta vez, fue clara—. Un hombre que quiere el poder es un hombre que el poder ya posee. Lisandro lo sabía. Él te eligió antes que yo. Él no es de tu sangre, y por eso será el único que pueda sostener lo que construiste sin que lo devore. Eso escribió. Y Lisandro... Lisandro siempre tuvo razón. Era insoportable.
 
 Hector sintió que se le cerraba la garganta.
 
@@ -102,6 +102,6 @@ Livia, a su lado en la tribuna, tenía treinta y un años y los ojos rojos de ll
 
 Cuando el sumo sacerdote le puso la corona en la cabeza, Hector sintió un peso que no tenía nada que ver con el hierro. Miró hacia la torre. La llama ardía en la cúspide, blanca, tranquila.
 
-*La torre es un clavo*, pensó. *Y yo soy el martillo que lo sujeta.*
+*La torre es un clavo, pensó. Y yo soy el martillo que lo sujeta.*
 
 Gobernó treinta y siete años.

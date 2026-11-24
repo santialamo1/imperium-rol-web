@@ -130,9 +130,9 @@ Ithil se quedó con el dedo en la cuerda.
 
 —Un golpe en una cuerda. —Ithil apartó el dedo—. Ruido.
 
-—Vale. —Baervan se levantó de la cama. Se acercó a la mesa. Se puso al lado de Ithil, a dos palmos, sin tocarlo—. Yo he oído una nota. Grave. Más o menos un *re*, pero mal, un poco por debajo. Mi madre diría que hay que subir la clavija un cuarto de vuelta.
+—Vale. —Baervan se levantó de la cama. Se acercó a la mesa. Se puso al lado de Ithil, a dos palmos, sin tocarlo—. Yo he oído una nota. Grave. Más o menos un re, pero mal, un poco por debajo. Mi madre diría que hay que subir la clavija un cuarto de vuelta.
 
-—No sé qué es un *re*.
+—No sé qué es un re.
 
 —Sí lo sabes. En las manos.
 
@@ -142,7 +142,7 @@ Ithil no dijo nada.
 
 Ithil la tocó. Otro golpe. Otro sonido ronco.
 
-—Esa es más alta —dijo Baervan—. Esa es más o menos un *mi*. También baja. Sube la clavija.
+—Esa es más alta —dijo Baervan—. Esa es más o menos un mi. También baja. Sube la clavija.
 
 Ithil buscó la clavija. Con los dedos. Sin mirar. La encontró al primer intento.
 
@@ -156,9 +156,9 @@ La giró más.
 
 Ithil la tocó.
 
-Sonó un *mi*. Limpio. Pequeño. Un *mi* de verdad, en una tabla de barco, en una torre de Orac, por primera vez en no se sabía cuántos siglos.
+Sonó un mi. Limpio. Pequeño. Un mi de verdad, en una tabla de barco, en una torre de Orac, por primera vez en no se sabía cuántos siglos.
 
-—Eso es un *mi* —dijo Baervan.
+—Eso es un mi —dijo Baervan.
 
 Ithil no lo oyó.
 
@@ -172,7 +172,7 @@ Ithil se sentaba en la silla con la tabla en las rodillas. Baervan en la cama. I
 
 Así afinaron las nueve cuerdas. Tardaron un año.
 
-Luego Baervan le cantó una canción. Una de las islas, de las que cantaba su madre con el laúd, de cuatro notas nada más, que se repetían. *Re, mi, sol, mi.* *Re, mi, sol, la.* Una canción de pescadores para remar. Se la cantó despacio. Le dijo qué cuerdas eran. Ithil las buscó.
+Luego Baervan le cantó una canción. Una de las islas, de las que cantaba su madre con el laúd, de cuatro notas nada más, que se repetían. Re, mi, sol, mi. Re, mi, sol, la. Una canción de pescadores para remar. Se la cantó despacio. Le dijo qué cuerdas eran. Ithil las buscó.
 
 *Re. Mi. Sol. Mi.*
 
@@ -230,7 +230,7 @@ No dijo nada de ella.
 
 —Ni uno.
 
-—Eso es interesante. —La cara cambió. Un poco. Una sombra que pasó por debajo —. Porque lo que te sujeta, gnomo, es una vida que no es tuya. Lo sé. Lo noto. Hueles a otro. Hueles a uno que se murió en una cama en el 1066 y que te dejó lo que le quedaba. — Se inclinó hacia delante—. Y esa vida dura lo que dura una sangre. Y la sangre, en tu colina, se acabó con él. Eso dijeron. Eso dijo todo el mundo. *El último.* Lo escribieron en un Diario.
+—Eso es interesante. —La cara cambió. Un poco. Una sombra que pasó por debajo —. Porque lo que te sujeta, gnomo, es una vida que no es tuya. Lo sé. Lo noto. Hueles a otro. Hueles a uno que se murió en una cama en el 1066 y que te dejó lo que le quedaba. — Se inclinó hacia delante—. Y esa vida dura lo que dura una sangre. Y la sangre, en tu colina, se acabó con él. Eso dijeron. Eso dijo todo el mundo. El último. Lo escribieron en un Diario.
 
 Baervan no dijo nada.
 
@@ -336,7 +336,9 @@ Baervan se volvió por fin. Con la cara mojada.
 
 Ithil tocó.
 
-*Re. Mi. Sol. Mi.* *Re. Mi. Sol. La.*
+*Re. Mi. Sol. Mi.*
+
+*Re. Mi. Sol. La.*
 
 Abajo, al pie de la escalera, Glokark lo oyó entero. Y luego, cuando terminó, se quedó sentado en el último escalón, con la espalda contra la puerta, con dos piedras en el puño, una blanca y una negra.
 

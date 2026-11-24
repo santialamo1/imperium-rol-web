@@ -1,6 +1,6 @@
 # Capítulo 46 · Almad
 
-*Banderbill, la casa de arriba y El juglar. Primavera del año 1394 de la Nueva Era* *(787 D.bA).*
+*Banderbill, la casa de arriba y El juglar. Primavera del año 1394 de la Nueva Era (787 D.bA).*
 
 Corin le puso el nombre en el teatro, y se lo puso riéndose, y Almad no se lo quitó nunca.
 
@@ -68,7 +68,7 @@ Almad la conocía. La conocía desde que nació. La había visto en la cocina, d
 
 —No.
 
-—Yo cuatro veces. —Imane se cruzó de brazos—. Es la mejor de las diecinueve. Corin dice que es la de la *Reina del Muro*, pero Corin no sabe nada. Es esta.
+—Yo cuatro veces. —Imane se cruzó de brazos—. Es la mejor de las diecinueve. Corin dice que es la de la Reina del Muro, pero Corin no sabe nada. Es esta.
 
 —¿De qué va?
 
@@ -78,7 +78,7 @@ Imane lo miró. Con los ojos grises. Muy seria.
 
 ---
 
-La obra se llamaba *Arispar*.
+La obra se llamaba Arispar.
 
 Era corta. Una hora. Un solo acto. La había escrito la reina Aira en el 1050 y algo, decía el programa, que Almad leyó despacio, con el dedo, a la luz de la lámpara del palco, sin que Corin se diera cuenta de que leía despacio.
 
@@ -222,7 +222,7 @@ Almad no.
 
 Almad se quedó delante de la casa vieja. Mirando a Corin alejarse por la calle del Horno, con la capa, con el paso tranquilo de los que no han tenido nunca prisa.
 
-Pensó en un agujero en diagonal. En una voz suave que decía *el que más tiene*. En una voz seca que decía *si se acaba la sangre*. En una obra de una reina donde un chico pobre sujetaba una montaña y mentía al final.
+Pensó en un agujero en diagonal. En una voz suave que decía el que más tiene. En una voz seca que decía si se acaba la sangre. En una obra de una reina donde un chico pobre sujetaba una montaña y mentía al final.
 
 Pensó en Imane, que tenía diez años y sabía cuándo alguien mentía bien.
 

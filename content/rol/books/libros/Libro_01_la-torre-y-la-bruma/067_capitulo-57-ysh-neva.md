@@ -88,17 +88,17 @@ Ysh-Neva cerró los ojos. Y preguntó.
 
 Silencio. Largo. Luego, débil, confuso:
 
-*Vino. El vino de Pisor. Brindamos. Por los quince años. Ella levantó su copa y yo* *levanté la mía y... Maximus contó algo de un caballo. Me reí. ¿Por qué me reía? No me* *acuerdo de qué era tan gracioso.*
+*Vino. El vino de Pisor. Brindamos. Por los quince años. Ella levantó su copa y yo levanté la mía y... Maximus contó algo de un caballo. Me reí. ¿Por qué me reía? No me acuerdo de qué era tan gracioso.*
 
 —¿Quién te sirvió?
 
-*El copero. El de siempre. Pero ella pidió el mismo vino. Dijo que quería brindar* *con el mismo vino que el emperador. Que era un honor. Se acercó. Las copas estaban* *juntas en la mesa. Muy juntas.* —Una pausa—. *Neva. ¿Me he muerto?*
+*El copero. El de siempre. Pero ella pidió el mismo vino. Dijo que quería brindar con el mismo vino que el emperador. Que era un honor. Se acercó. Las copas estaban juntas en la mesa. Muy juntas. —Una pausa—. Neva. ¿Me he muerto?*
 
 Ysh-Neva abrió los ojos.
 
 —Sí, hijo. Te has muerto.
 
-*Ah.* —Otra pausa, más larga—. *¿Y Talia? ¿Y el chico?*
+Ah. —Otra pausa, más larga—. ¿Y Talia? ¿Y el chico?
 
 —Aquí están.
 
@@ -176,9 +176,9 @@ Ysh-Neva miró a Yared. El muchacho la miraba a ella con unos ojos que no supo l
 
 —El chico es fuerte —dijo—. Como su padre.
 
-*Bien.* —Una pausa, muy larga—. *Ya no tengo tanto frío.*
+Bien. —Una pausa, muy larga—. Ya no tengo tanto frío.
 
-Ysh-Neva dijo su nombre. El de la calle, primero: Yaakov. Y luego el otro, el que solo sabían ella y su hija, el que le habían dado las Madres libres el día de la boda, en la tienda grande, en la lengua de la arena: *Ha-Eloun*, el que mira hacia arriba.
+Ysh-Neva dijo su nombre. El de la calle, primero: Yaakov. Y luego el otro, el que solo sabían ella y su hija, el que le habían dado las Madres libres el día de la boda, en la tienda grande, en la lengua de la arena: Ha-Eloun, el que mira hacia arriba.
 
 Algo se fue. Ysh-Neva lo sintió irse como se siente una brisa que sale por una ventana. Hacia arriba.
 

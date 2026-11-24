@@ -36,7 +36,7 @@ Era bisnieto de la señora Varga a la que Helen Dorian había ahorcado setenta y
 
 —¿Qué parte, lord Varga?
 
-—Toda, majestad. —Varga abrió las manos con pesar—. El decreto de Hector Tiberius, que es la única ley de sucesión que tiene este Imperio, dice: *cuando el emperador* *muera sin heredero nombrado, que la fuerza elija*. No dice nada de emperadores que se levantan de la silla porque les apetece irse a vivir a una tienda. Vos no estáis muerta. Por tanto, no podéis tener heredero. Y si os vais, el trono queda vacío. Y un trono vacío, según la ley, se llena en la plaza.
+—Toda, majestad. —Varga abrió las manos con pesar—. El decreto de Hector Tiberius, que es la única ley de sucesión que tiene este Imperio, dice: cuando el emperador muera sin heredero nombrado, que la fuerza elija. No dice nada de emperadores que se levantan de la silla porque les apetece irse a vivir a una tienda. Vos no estáis muerta. Por tanto, no podéis tener heredero. Y si os vais, el trono queda vacío. Y un trono vacío, según la ley, se llena en la plaza.
 
 Hubo murmullos. Algunos de asentimiento. Lexandra los contó: cinco. Cinco de once.
 
@@ -48,7 +48,7 @@ Hubo murmullos. Algunos de asentimiento. Lexandra los contó: cinco. Cinco de on
 
 —Perdonad. De los clanes libres. —Varga inclinó la cabeza—. Para una madre de Pisor que perdió a sus tres hijos en Ummat, majestad, me temo que la diferencia es pequeña.
 
-Lexandra lo miró en silencio. Pensó en Braco, en su último invierno, con un mechón de pelo rubio en el puño. *No tienes odio*, le había dicho. *Por eso vas a ganar.* Pero Braco no le había explicado qué había que hacer con el odio de los demás.
+Lexandra lo miró en silencio. Pensó en Braco, en su último invierno, con un mechón de pelo rubio en el puño. No tienes odio, le había dicho. Por eso vas a ganar. Pero Braco no le había explicado qué había que hacer con el odio de los demás.
 
 —Proponéis, entonces —dijo—, que mi hijo luche en la plaza.
 
@@ -168,7 +168,7 @@ No fue una risa cruel. Fue el tipo de risa que sale cuando algo que daba mucho m
 
 —Majestad —dijo.
 
-No *heredero*. *Majestad*.
+No heredero. Majestad.
 
 ---
 
@@ -206,7 +206,7 @@ Una semana después, la emperatriz que había sido salió de Concordia hacia el 
 
 En la última de aquellas cartas, la víspera, Yaakov le contaba que Darius Heredicus había pedido mandar una de las alas del ejército en el desierto. Que se lo había concedido. Que el hijo de Darius, Maximus, de veinte años, se había quedado en Concordia con su madre, rabiando porque no lo dejaban ir.
 
-*Darius me dijo que no quería que su hijo viera lo que iba a ver allí*, escribía Yaakov. *Que ya tenía bastante con lo que le contaban en casa.*
+*Darius me dijo que no quería que su hijo viera lo que iba a ver allí, escribía Yaakov. Que ya tenía bastante con lo que le contaban en casa.*
 
 Darius Heredicus murió dos días después, en las dunas, en el flanco izquierdo, el único señor del Consejo que cayó en la Batalla de las Sombras.
 

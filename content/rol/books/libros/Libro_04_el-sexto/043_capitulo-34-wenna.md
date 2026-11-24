@@ -1,10 +1,10 @@
 # Capítulo 34 · Wenna
 
-*El Mercado del valle negro. El mismo día, primavera del año 1256 de la Nueva* *Era (649 D.bA).*
+*El Mercado del valle negro. El mismo día, primavera del año 1256 de la Nueva Era (649 D.bA).*
 
 La fuente se secó a media tarde, y Wenna supo que algo se había roto en la colina antes de que llegara nadie a decírselo, porque la fuente no se había secado nunca, ni se había helado, y el agua salía de la montaña caliente desde que había montaña.
 
-En mil doscientos veintiocho años, nunca. Era lo primero que se sabía del valle negro. Antes que el Mercado, antes que la balanza, antes que las Madres. *Hay una fuente* *que no se hiela.* Por eso bajaban los tramperos en invierno. Por eso bajó Ilsa con sus veinte niñas. Por eso estaba todo lo demás.
+En mil doscientos veintiocho años, nunca. Era lo primero que se sabía del valle negro. Antes que el Mercado, antes que la balanza, antes que las Madres. Hay una fuente que no se hiela. Por eso bajaban los tramperos en invierno. Por eso bajó Ilsa con sus veinte niñas. Por eso estaba todo lo demás.
 
 Wenna estaba sentada en su silla, la de al lado de la balanza, con un chal encima de los hombros y una olla de castañas a los pies. Ya no pesaba. Pesaba Neva. Wenna miraba.
 
@@ -90,7 +90,7 @@ Levantó la cara hacia Wenna. Blanca.
 
 —Tres dedos —dijo.
 
-No *menos un pelo*.
+*No menos un pelo.*
 
 Tres dedos.
 
@@ -188,7 +188,7 @@ Wenna se acercó. Se agachó, como pudo, con las rodillas crujiendo. Le puso la 
 
 Esa noche cayó ceniza en el valle negro.
 
-En primavera. Ceniza fina, seca, gris, de la que no había caído nunca allí, de la que la montaña había dejado de echar antes de que hubiera Mercado. Bajaba de la boca, de arriba, del borde del cráter, sin ruido. Cubrió el Mercado. Las tiendas. La balanza. La losa de la entrada del paso, *Aquí no se levanta un arma*. Las veintidós Madres, vueltas hacia el sur, una sin cabeza. El Guardián, con su jarra de tres dedos.
+En primavera. Ceniza fina, seca, gris, de la que no había caído nunca allí, de la que la montaña había dejado de echar antes de que hubiera Mercado. Bajaba de la boca, de arriba, del borde del cráter, sin ruido. Cubrió el Mercado. Las tiendas. La balanza. La losa de la entrada del paso, Aquí no se levanta un arma. Las veintidós Madres, vueltas hacia el sur, una sin cabeza. El Guardián, con su jarra de tres dedos.
 
 La fuente siguió seca.
 

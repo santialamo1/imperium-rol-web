@@ -36,9 +36,9 @@ Aremir se detuvo.
 
 Aremir no dijo nada. Pero se apoyó un poco más en el bastón.
 
-Sefa. Lo había leído en el diario de Meridio. Su hermano lo había apuntado, una noche de las peores, con letra temblorosa: *La voz dice que le dieron el nombre del* *Forjador una criada y una niña muerta. Que entró en la bruma cantándolo. Que todavía* *se oye cantar.*
+Sefa. Lo había leído en el diario de Meridio. Su hermano lo había apuntado, una noche de las peores, con letra temblorosa: La voz dice que le dieron el nombre del Forjador una criada y una niña muerta. Que entró en la bruma cantándolo. Que todavía se oye cantar.
 
-—Mi madre decía que la vecina de Sefa le dio la mano en el borde del oasis — siguió Ysh-Rahna—, y que Sefa se soltó y dijo: *Que mi niña no esté sola.* Nada más. Nadie lo anotó en ningún libro, majestad. Los libros del sur no anotan a las mujeres eufesias que se mueren de pena. Por eso no lo sabíais.
+—Mi madre decía que la vecina de Sefa le dio la mano en el borde del oasis — siguió Ysh-Rahna—, y que Sefa se soltó y dijo: Que mi niña no esté sola. Nada más. Nadie lo anotó en ningún libro, majestad. Los libros del sur no anotan a las mujeres eufesias que se mueren de pena. Por eso no lo sabíais.
 
 ---
 
@@ -96,7 +96,7 @@ La emperatriz tardó mucho en contestar. En la cripta, los muertos murmuraban. L
 
 Aremir sintió un frío que no venía de la cripta.
 
-Pensó en la página arrancada. *Dijo que había una jarra que no rompería nadie.* *Que la había puesto donde nadie la buscaría. Que la había puesto…*
+Pensó en la página arrancada. Dijo que había una jarra que no rompería nadie. Que la había puesto donde nadie la buscaría. Que la había puesto…
 
 —¿Por qué me contáis esto?
 
@@ -122,7 +122,7 @@ La embajada de los clanes libres se abrió en otoño, en una casa del barrio Ger
 
 Ysh-Rahna no lo sabía. Aremir no se lo dijo.
 
-Esa noche, a solas en su despacho, con el diario de Meridio en el regazo, la Restauradora leyó por milésima vez la frase que no terminaba. *Que la había puesto…*
+Esa noche, a solas en su despacho, con el diario de Meridio en el regazo, la Restauradora leyó por milésima vez la frase que no terminaba. Que la había puesto…
 
 Donde nadie se atrevería a buscarla. Pocos sitios así en el sur.
 

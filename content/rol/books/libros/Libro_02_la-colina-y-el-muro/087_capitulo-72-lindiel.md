@@ -2,13 +2,7 @@
 
 *Banderbill y Ullathorpe. Años 374 y 375 de la Nueva Era.*
 
-*De la Crónica de Jonas Vell, año 375. Hambre en la colina. Se reparte el pan*
-
-*por la ventana de la panadería de Ruald, como en tiempos de Lanther. El*
-
-*Emperador come lo mismo que los demás. Lo he comprobado. Lo apunto*
-
-*porque nadie lo creerá.*
+*De la Crónica de Jonas Vell, año 375. Hambre en la colina. Se reparte el pan por la ventana de la panadería de Ruald, como en tiempos de Lanther. El Emperador come lo mismo que los demás. Lo he comprobado. Lo apunto porque nadie lo creerá.*
 
 Lindiel, decimotercer Emperador de Banderbill, tenía cincuenta y tres años y llevaba diecisiete sin escribir un poema, y la mañana que salió hacia Ullathorpe escribió uno en la mesa de la cocina, en la parte de atrás de una lista de racionamiento, mientras su mujer le cosía un botón de la casaca.
 
@@ -198,7 +192,7 @@ Con Halvard. Con cuarenta hombres. Con la espada en la mano, que no sabía usar 
 
 Detrás. Cubriendo el carro. El último hombre del camino entre los orcos y la puerta.
 
-*Mi padre iba detrás*, había dicho un rey enano doscientos años antes, en un libro que Lindiel había leído de niño. *Decía que el que va detrás es el que ve si alguien se cae.*
+Mi padre iba detrás, había dicho un rey enano doscientos años antes, en un libro que Lindiel había leído de niño. Decía que el que va detrás es el que ve si alguien se cae.
 
 Lindiel vio caer a Halvard.
 
@@ -232,7 +226,7 @@ El orco se quedó mirando el papel.
 
 Luego lo cogió. Con dos dedos. Como se coge algo que puede morder.
 
-Lo miró. No sabía leer. Lo dio la vuelta. En la parte de atrás estaba la lista de racionamiento: *Panadería de Ruald, calle de los toneleros. Un pan por boca, cada dos* *días.*
+Lo miró. No sabía leer. Lo dio la vuelta. En la parte de atrás estaba la lista de racionamiento: Panadería de Ruald, calle de los toneleros. Un pan por boca, cada dos días.
 
 El orco lo dobló. Se lo metió en el cinto.
 
@@ -254,7 +248,7 @@ Se lo había dado a un orco.
 
 Se rio. Le salió con sangre.
 
-*Bueno*, pensó. *Los poemas malos son para uno.*
+*Bueno, pensó. Los poemas malos son para uno.*
 
 Y miró hacia arriba. Al cielo gris. Donde, por un agujero entre las nubes, como en un cuento que había leído de niño sobre un rey que se rio, se veía un trozo de azul.
 

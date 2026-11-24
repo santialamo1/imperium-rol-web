@@ -28,7 +28,7 @@ Ilaria lo miró mucho rato.
 
 Sabía que vendría. Lo sabía desde hacía un mes, desde la carta.
 
-La carta había llegado al archivo en invierno, con el sello de la emperatriz Aremir, la Restauradora, dirigida a su padre, el viejo Damas Kalo, archivero mayor de Pisor. Era breve, como todas las cartas de Aremir, y decía, con una cortesía que no ocultaba nada, que la emperatriz había leído con mucho interés la *Historia de los puertos de la costa de Pisor* que la casa Kalo le había enviado el año anterior, que le habían llamado la atención la claridad de la prosa y el rigor de las cifras, que tenía entendido que la autora era la hija mayor del archivero, de treinta y un años y soltera, y que su hijo, el príncipe Haltair, pasaría por Pisor en primavera camino de las fortalezas de la costa y le gustaría consultar el archivo.
+La carta había llegado al archivo en invierno, con el sello de la emperatriz Aremir, la Restauradora, dirigida a su padre, el viejo Damas Kalo, archivero mayor de Pisor. Era breve, como todas las cartas de Aremir, y decía, con una cortesía que no ocultaba nada, que la emperatriz había leído con mucho interés la Historia de los puertos de la costa de Pisor que la casa Kalo le había enviado el año anterior, que le habían llamado la atención la claridad de la prosa y el rigor de las cifras, que tenía entendido que la autora era la hija mayor del archivero, de treinta y un años y soltera, y que su hijo, el príncipe Haltair, pasaría por Pisor en primavera camino de las fortalezas de la costa y le gustaría consultar el archivo.
 
 Su padre había leído la carta tres veces. Luego se había quitado las gafas de cristal de roca —las mismas que, según la tradición familiar, había llevado Ansel Kalo, el marido de la emperatriz Lexandra, aunque Ilaria sospechaba que las habían cambiado al menos cuatro veces en ciento cincuenta años— y había dicho:
 
@@ -74,7 +74,7 @@ Ilaria se lo explicó. Lo de los ratones alineados. Haltair se rió. Una risa co
 
 —Hace veintiún años —dijo— recuperé una fortaleza en el Ceniza. Kel-Dun. Había ochocientos muertos dentro, de guardia. Los solté leyendo sus nombres en voz alta. Los tenía en una lista, el rol de la guarnición. —Desdobló el papel—. Pero el rol estaba incompleto. Faltaban once. Once hombres de la Tercera Legión que estaban en la fortaleza cuando cayó y que no figuraban en ninguna lista. Reclutas de última hora, creo. Muchachos de los pueblos de la costa de Pisor, de las levas de aquel invierno.
 
-Ilaria miró el papel. Una lista de once huecos. Al lado de cada uno, en una letra cuidadosa y un poco torcida, una nota: *alto, pelirrojo, hablaba con acento de los fiordos.* *Tenía un perro. Silbaba.*
+Ilaria miró el papel. Una lista de once huecos. Al lado de cada uno, en una letra cuidadosa y un poco torcida, una nota: alto, pelirrojo, hablaba con acento de los fiordos. Tenía un perro. Silbaba.
 
 —Los Custodios me dijeron cómo eran —dijo Haltair—. Los oían. Pero no sabían sus nombres, y ellos no se acordaban. Se fueron con los demás aquella noche, hacia arriba, cuando soltamos a los ochocientos. Se fueron sin nombre. —Dobló el papel con cuidado —. Llevo veintiún años preguntándome si alguien los espera todavía. Y mi madre me dijo que si había alguien en el Imperio capaz de encontrar a once reclutas de Pisor de hace treinta años en un archivo, era la mujer que había escrito la historia de los puertos.
 
@@ -94,11 +94,11 @@ Tardaron cuatro semanas.
 
 Él se quedó. Mandó recado a las fortalezas de la costa de que llegaría tarde, y a su madre de que se había torcido un tobillo, lo cual era verdad. Se instaló en una habitación de la posada del puerto que olía a sardinas y venía al archivo cada mañana, cojeando, con un bastón de enebro que le había prestado el posadero.
 
-Trabajaban en la sala de los mapas. Ilaria sacaba los registros de las levas de la costa de Pisor del invierno del trescientos cuarenta y nueve, los registros de las cofradías de pescadores, los libros parroquiales de once pueblos de los fiordos, las listas de embarque del puerto. Haltair leía despacio, con una paciencia infinita, comparando los nombres con las notas de su papel. *Alto, pelirrojo, acento de los fiordos.* *Tenía un perro.* *Silbaba.*
+Trabajaban en la sala de los mapas. Ilaria sacaba los registros de las levas de la costa de Pisor del invierno del trescientos cuarenta y nueve, los registros de las cofradías de pescadores, los libros parroquiales de once pueblos de los fiordos, las listas de embarque del puerto. Haltair leía despacio, con una paciencia infinita, comparando los nombres con las notas de su papel. Alto, pelirrojo, acento de los fiordos. Tenía un perro. Silbaba.
 
 Hablaban poco al principio. Luego, más. De los Kalo y sus diccionarios. De los Bhargaras y sus nombres secretos. De Ansel y de Lexandra, de los que el archivo conservaba cuarenta y dos cartas que nadie había leído en cien años porque estaban escritas en una mezcla de Suhon, lengua de la arena y algo que parecía un código privado y que resultó ser, cuando Ilaria lo descifró una noche, una larga serie de chistes malos sobre el Consejo.
 
-—*Los maridos de las emperatrices tienen el mismo rango que los perros de caza* —leyó Ilaria en voz alta, a la luz de la vela—. *Se les quiere mucho y se les echa de la sala* *cuando se habla de cosas serias.*
+—Los maridos de las emperatrices tienen el mismo rango que los perros de caza —leyó Ilaria en voz alta, a la luz de la vela—. Se les quiere mucho y se les echa de la sala cuando se habla de cosas serias.
 
 Haltair se rió tanto que se le cayó el bastón.
 
@@ -114,9 +114,9 @@ Encontraron a nueve.
 
 Nueve de once. Nueve muchachos de los pueblos de la costa, reclutados en las levas del invierno del trescientos cuarenta y nueve, mandados a Kel-Dun en primavera, desaparecidos en la caída de la fortaleza aquel verano. Sin cuerpo. Sin tumba. Sin nombre en el rol, porque el escribiente de la guarnición no había tenido tiempo de copiarlos antes de que Meridio retirara a la legión.
 
-*Bram Tessel, de Ulvik, diecinueve años, pelirrojo.* Tenía un perro, decía el libro parroquial, porque el perro había ido a la iglesia el día de su bautizo y el cura, escandalizado, lo había apuntado.
+Bram Tessel, de Ulvik, diecinueve años, pelirrojo. Tenía un perro, decía el libro parroquial, porque el perro había ido a la iglesia el día de su bautizo y el cura, escandalizado, lo había apuntado.
 
-*Jon Hale, de Fiordo Gris, diecisiete años.* Su madre se había quejado a la cofradía de que silbaba en la mesa.
+Jon Hale, de Fiordo Gris, diecisiete años. Su madre se había quejado a la cofradía de que silbaba en la mesa.
 
 Haltair escribió los nueve nombres en su papel, en los huecos, uno por uno, con su letra cuidadosa y un poco torcida. Luego escribió nueve cartas. Una a cada pueblo. A quien quedara de cada familia. Diciendo dónde había caído su hijo, su hermano, su tío. Diciendo que se había ido hacia arriba con sus compañeros, en paz, una noche de otoño de hacía veintiún años. Diciendo que el emperador de los pueblos jurados —todavía no lo era, pero lo firmó así, porque sabía que su madre se lo perdonaría— lo sentía mucho.
 
@@ -162,9 +162,9 @@ Dejó sobre la mesa una carta. Con el sello de los Bhargaras. Ilaria la abrió c
 
 Era una hoja sola. Dentro había una lista de dos huecos. Y debajo, en una letra cuidadosa y un poco torcida:
 
-*Quedan dos. No sé buscar sin vos. ¿Vendríais a Concordia a ayudarme? El archivo* *de la Torre tiene cuatrocientos mil legajos y ningún gato. — H.*
+*Quedan dos. No sé buscar sin vos. ¿Vendríais a Concordia a ayudarme? El archivo de la Torre tiene cuatrocientos mil legajos y ningún gato. — H.*
 
-*P. D.: Mi madre dice que os pida que os caséis conmigo. Yo prefiero pediros que* *vengáis a buscar a los dos que faltan. Si encontramos a los dos, y todavía no os he* *aburrido, os lo pido entonces. Si me aburrís vos, os lo pido igual.*
+*P. D.: Mi madre dice que os pida que os caséis conmigo. Yo prefiero pediros que vengáis a buscar a los dos que faltan. Si encontramos a los dos, y todavía no os he aburrido, os lo pido entonces. Si me aburrís vos, os lo pido igual.*
 
 Ilaria leyó la carta tres veces. Luego se sentó en el suelo de la sala de los mapas, entre los legajos, y se echó a reír hasta que el gato tuerto bajó del armario a ver qué pasaba.
 

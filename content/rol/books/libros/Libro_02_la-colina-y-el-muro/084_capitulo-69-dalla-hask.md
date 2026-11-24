@@ -2,9 +2,7 @@
 
 *Nix. Invierno del año 357 de la Nueva Era.*
 
-*De la Crónica de Jonas Vell, año 357. No sé escribir esto. El primero dice que*
-
-*se aprende. Que la primera vez nadie sabe. Que se escribe igual.*
+*De la Crónica de Jonas Vell, año 357. No sé escribir esto. El primero dice que se aprende. Que la primera vez nadie sabe. Que se escribe igual.*
 
 Dalla Hask tenía diecinueve años, una ballesta gnoma que disparaba tres virotes seguidos sin recargar y un novio en el barrio del puerto que se llamaba Dax y hacía barcas, y la noche que cayó Nix perdió las tres cosas en ese orden.
 
@@ -12,7 +10,7 @@ Dalla Hask tenía diecinueve años, una ballesta gnoma que disparaba tres virote
 
 Llevaban seis meses oyendo los tambores.
 
-Desde el otoño. Desde las nubes. Seis meses de tambores en el Dorck, lejos, de noche, cada noche, siempre a la misma hora, siempre el mismo ritmo: tres golpes, una pausa, tres golpes. Al principio la gente de Nix no dormía. Luego dormía mal. Luego se acostumbró. A los tres meses, los niños jugaban a los tambores en la plaza: tres golpes en una olla, una pausa, tres golpes, y salían corriendo, gritando *¡que vienen los orcos!*, y se reían.
+Desde el otoño. Desde las nubes. Seis meses de tambores en el Dorck, lejos, de noche, cada noche, siempre a la misma hora, siempre el mismo ritmo: tres golpes, una pausa, tres golpes. Al principio la gente de Nix no dormía. Luego dormía mal. Luego se acostumbró. A los tres meses, los niños jugaban a los tambores en la plaza: tres golpes en una olla, una pausa, tres golpes, y salían corriendo, gritando ¡que vienen los orcos!, y se reían.
 
 Dalla también se había acostumbrado. Le daba vergüenza, pero era verdad.
 
@@ -32,7 +30,7 @@ Lo decía bien alto, para que la oyera todo el Batallón. Ochocientos. En el pat
 
 —No van a venir —decía Drusa—. Llevan seis meses tocando. Si fueran a venir, ya habrían venido. Quieren asustarnos. Que nos vayamos. Que les dejemos el sur. — Acariciaba al caballo—. No nos vamos a ir.
 
-Y el Batallón gritaba. *¡No!*
+Y el Batallón gritaba. ¡No!
 
 Había un viejo, a veces, en la muralla. Un elfo. Con un sombrero que le quedaba grande. Lo llamaban el viejo de la miel. Se sentaba en la muralla este, al lado de la garita de Dalla, y miraba el Dorck. Con él, a veces, un hombre de unos cuarenta años con gafas, que apuntaba cosas.
 
@@ -134,7 +132,7 @@ En el pecho. Pequeño. Como cuando alguien te tira de la manga.
 
 Y algo dentro de ella, algo que no sabía que tenía, se agarró. Fuerte. Como se agarra un niño a la pierna de su madre.
 
-*Dax*, pensó. Sin querer. Hacia arriba.
+Dax, pensó. Sin querer. Hacia arriba.
 
 El tirón se cortó.
 
@@ -174,7 +172,7 @@ Dalla lo buscó. Gritó su nombre. Por las calles del puerto, entre el humo, ent
 
 No contestó nadie.
 
-Encontró sus herramientas. En el suelo, delante del astillero. La gubia, el mazo, el cepillo. Las suyas; las conocía, tenían las iniciales grabadas en el mango, *D. M.*, Dax Marrel. Tiradas en el suelo como se tiran las cosas cuando sales corriendo.
+Encontró sus herramientas. En el suelo, delante del astillero. La gubia, el mazo, el cepillo. Las suyas; las conocía, tenían las iniciales grabadas en el mango, D. M., Dax Marrel. Tiradas en el suelo como se tiran las cosas cuando sales corriendo.
 
 O cuando te llevan.
 
@@ -186,7 +184,7 @@ Y se fue al río.
 
 En el vado de los sauces había ciento cuarenta personas.
 
-De ochocientos soldados y once mil vecinos. Ciento cuarenta. Soldados, la mayoría. Algunos niños. Unos cuantos gnomos, cubiertos de hollín, que no se reían. Una docena de elfos del barrio de los árboles. Un enano que había bajado a Nix a vender cazos y que no paraba de decir *piedra, piedra* sin que nadie supiera por qué.
+De ochocientos soldados y once mil vecinos. Ciento cuarenta. Soldados, la mayoría. Algunos niños. Unos cuantos gnomos, cubiertos de hollín, que no se reían. Una docena de elfos del barrio de los árboles. Un enano que había bajado a Nix a vender cazos y que no paraba de decir piedra, piedra sin que nadie supiera por qué.
 
 El viejo de la miel. Sentado en una piedra, con el sombrero en las rodillas.
 

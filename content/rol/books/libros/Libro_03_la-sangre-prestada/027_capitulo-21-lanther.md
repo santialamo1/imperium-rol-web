@@ -4,7 +4,7 @@
 
 El túnel de los enanos olía a sal y a gnomo, y Lanther lo recorrió a gatas, sola, con una lámpara tapada en la mano y la jarra de Loth golpeándole el pecho a cada paso, y llegó tarde.
 
-No mucho. Una hora. Lo que tardó en convencer a Sein de que no fuera con ella, y a Wenna, y a Tibbet, que tenía la garganta en carne viva y quería ir igual, y al Emperador, que no había dicho nada, que la había mirado desde el jergón de la galería con la cara gris y el arpa en las rodillas, y al que ella le había dicho *usted no, ya lo ha oído, usted no*, y él había bajado la cabeza.
+No mucho. Una hora. Lo que tardó en convencer a Sein de que no fuera con ella, y a Wenna, y a Tibbet, que tenía la garganta en carne viva y quería ir igual, y al Emperador, que no había dicho nada, que la había mirado desde el jergón de la galería con la cara gris y el arpa en las rodillas, y al que ella le había dicho usted no, ya lo ha oído, usted no, y él había bajado la cabeza.
 
 Una hora.
 
@@ -20,7 +20,7 @@ No se levantó. No dijo nada.
 
 Lanther se quedó de rodillas en la boca del agujero. Con la lámpara tapada. Mirándolo.
 
-Lo había visto por última vez en el año 42. En un puente de troncos. Cuando él era un esqueleto con la carne pegada a trozos que tiraba de su nombre, y ella lo había aguantado, de pie, con el cuchillo en el cinturón, y él había fallado. Y antes de eso, en el cuarto de la torre del palacio, con Amael recién nacido en los brazos, llorando, cuando ella le dijo *te oigo, Pim, vete*.
+Lo había visto por última vez en el año 42. En un puente de troncos. Cuando él era un esqueleto con la carne pegada a trozos que tiraba de su nombre, y ella lo había aguantado, de pie, con el cuchillo en el cinturón, y él había fallado. Y antes de eso, en el cuarto de la torre del palacio, con Amael recién nacido en los brazos, llorando, cuando ella le dijo te oigo, Pim, vete.
 
 Antes de eso, en una playa. En Puerto Salobre. Un muchacho de catorce años que miraba a una niña de diez bajar a la playa con las redes al hombro.
 
@@ -30,7 +30,7 @@ Se acordó ahora.
 
 ---
 
-No le habló. Había dicho que no le hablaría, y no le habló. Le habían dicho a Pim que no le dijera *te oigo*, y Pim no se lo dijo. Se miraron. Nada más.
+No le habló. Había dicho que no le hablaría, y no le habló. Le habían dicho a Pim que no le dijera te oigo, y Pim no se lo dijo. Se miraron. Nada más.
 
 Luego Pim levantó la mano que tenía entera. La de sal. Y señaló hacia arriba. Hacia el techo de la cueva. Por donde subía la raíz.
 
@@ -132,7 +132,7 @@ Lanther pensó.
 
 No mucho. Lo suficiente. Lo que tarda un latido en la palma de la mano. Uno. Pausa. Otro.
 
-Pensó en la palabra *falta*. En lo que le faltaba. En lo que le hacía falta.
+Pensó en la palabra falta. En lo que le faltaba. En lo que le hacía falta.
 
 Pensó que a la gente que llega a tiempo no le hace falta nadie. Que llegar tarde es lo que hace que los demás esperen. Que Sein la había esperado en la ventana de la casa del puerto quinientos años. Que Wenna la había esperado dormida en una silla con los pies en un barreño. Que Tibbet la esperaba en el sótano de la biblioteca, el primero en bajar, cada vez. Que Kildo la había esperado al lado de una roca. Que el hilo gris la había esperado para irse.
 
@@ -274,7 +274,7 @@ Se quedó con la boca abierta, de rodillas en la nieve, con una piedra gris en l
 
 Lo apuntó Sein esa noche, en el libro de la guerra. Lo último del libro. Después cerró ese libro y no volvió a abrirlo.
 
-*Día 362. Cae Arghâl. Se abre la puerta. Once mil orcos se rinden. Los blancos se* *van por el norte. Mil ciento doce muertos nuestros en todo el cerco. Cuatrocientos esta* *noche. La capitana Brena Hask, entre ellos.*
+*Día 362. Cae Arghâl. Se abre la puerta. Once mil orcos se rinden. Los blancos se van por el norte. Mil ciento doce muertos nuestros en todo el cerco. Cuatrocientos esta noche. La capitana Brena Hask, entre ellos.*
 
 *La reina ha sacado el corazón. Se le ha caído. Se lo ha llevado alguien.*
 
@@ -284,6 +284,6 @@ Lo apuntó Sein esa noche, en el libro de la guerra. Lo último del libro. Despu
 
 Y debajo, con la letra más pequeña:
 
-*Ha llegado tarde. Una hora. Ha dicho que no a llegar a tiempo. Lo he oído, porque* *me lo ha contado Tibbet, que lo ha oído desde la escalera, porque no me hizo caso y subió* *detrás.*
+*Ha llegado tarde. Una hora. Ha dicho que no a llegar a tiempo. Lo he oído, porque me lo ha contado Tibbet, que lo ha oído desde la escalera, porque no me hizo caso y subió detrás.*
 
 *Lo apunto en el haber. Todo.*

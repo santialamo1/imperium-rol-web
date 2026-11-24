@@ -1,6 +1,6 @@
 # Capítulo 13 · Brena Hask
 
-*Las cuevas viejas de la ladera este de Banderbill. Otoño del año 598 de la Nueva* *Era (9 A.bA).*
+*Las cuevas viejas de la ladera este de Banderbill. Otoño del año 598 de la Nueva Era (9 A.bA).*
 
 La primera vez que Brena Hask desenvainó la espada contra alguien que no era un muñeco de paja, estaba debajo de su propia ciudad, a oscuras, con roca encima, y lo primero que hizo fue mirar hacia arriba.
 
@@ -14,7 +14,7 @@ Las cuevas viejas de la ladera este eran lo más antiguo de la colina. Más que 
 
 Desde el 595, las usaba la Primera Compañía de la Armada para entrenar.
 
-Era idea de Brena. Se la había dicho al Emperador la noche de la cena, a las once, cuando ya iban por el segundo postre. *Si vienen, majestad, no vendrán por la puerta.* *Vendrán por debajo. Hay que aprender a pelear debajo.* El Emperador la había mirado con las orejas hacia delante y le había preguntado cómo lo sabía. Brena le había dicho que no lo sabía. Que lo había soñado su padre.
+Era idea de Brena. Se la había dicho al Emperador la noche de la cena, a las once, cuando ya iban por el segundo postre. Si vienen, majestad, no vendrán por la puerta. Vendrán por debajo. Hay que aprender a pelear debajo. El Emperador la había mirado con las orejas hacia delante y le había preguntado cómo lo sabía. Brena le había dicho que no lo sabía. Que lo había soñado su padre.
 
 Era verdad. Joss Hask, capitán general, sesenta años, soñaba con túneles todas las noches desde el 563. Se despertaba gritando, a veces. Brena lo había oído toda su infancia, a través de la pared. Luego él se levantaba y subía a la muralla y lloraba un poco, y volvía, y se dormía sonriendo.
 
@@ -24,7 +24,7 @@ Brena había aprendido dos cosas de su padre. A mirar arriba. Y que lo que viene
 
 Esa noche de octubre había cuarenta soldados en las cuevas. Treinta humanos de la Primera Compañía, seis enanos de los túneles, dos elfos de Nix y dos gnomos con lámparas. Las lámparas de los gnomos de Nueva Esperanza, las nuevas, las que no se apagaban hasta el amanecer aunque se cayeran al agua. Brena había pedido cien. Le habían dado cuarenta. Las llevaban colgadas del cinto, tapadas con un capuchón de fieltro, como se hacía en los tiempos de los tapadores de lámparas, para que no deslumbraran hasta que hiciera falta.
 
-Era una maniobra. Como tantas. Bajar a la cueva grande, la de la bóveda, la que llamaban *el Estómago* desde siempre por su forma redonda. Apagar todo. Esperar. Que los enanos, que veían en la oscuridad mejor que nadie, hicieran de enemigos. Pelear a ciegas con espadas de madera. Encender las lámparas a la orden. Ver quién estaba muerto.
+Era una maniobra. Como tantas. Bajar a la cueva grande, la de la bóveda, la que llamaban el Estómago desde siempre por su forma redonda. Apagar todo. Esperar. Que los enanos, que veían en la oscuridad mejor que nadie, hicieran de enemigos. Pelear a ciegas con espadas de madera. Encender las lámparas a la orden. Ver quién estaba muerto.
 
 Llevaban una hora a oscuras cuando Aldric, el enano, le tocó el brazo.
 
@@ -52,7 +52,7 @@ Brena se quedó helada.
 
 Brena no encendió las lámparas.
 
-Lo pensaría después muchas veces. Que lo normal habría sido encenderlas. Que cualquier capitán de la Armada, al oír *pican debajo*, habría gritado *luz* y habría puesto a cuarenta soldados en fila con escudos. Que ella no lo hizo porque su padre se lo había contado. Que en la mina del 563 había luz. Mucha luz roja. Y olía a pan.
+Lo pensaría después muchas veces. Que lo normal habría sido encenderlas. Que cualquier capitán de la Armada, al oír pican debajo, habría gritado luz y habría puesto a cuarenta soldados en fila con escudos. Que ella no lo hizo porque su padre se lo había contado. Que en la mina del 563 había luz. Mucha luz roja. Y olía a pan.
 
 Hizo otra cosa. Se arrodilló. Puso la oreja en el suelo de piedra.
 
@@ -164,7 +164,7 @@ Y que ella no.
 
 Se acordaba de Aldric. El enano callado. Que se metió en el agujero con un pico de bronce, solo, mientras los demás peleaban, y que empezó a cantar. En la lengua de las piedras. Una canción de enano, grave, que no se parecía en nada a la nana, que era fea y desafinada y furiosa, y que hizo temblar la roca del túnel.
 
-Que gritó *¡atrás!* sin dejar de cantar.
+Que gritó ¡atrás! sin dejar de cantar.
 
 Que se derrumbó el techo del túnel. Con él debajo.
 

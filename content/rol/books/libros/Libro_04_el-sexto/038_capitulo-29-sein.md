@@ -1,6 +1,6 @@
 # Capítulo 29 · Sein
 
-*El sótano de la biblioteca y el sótano de la panadería de los Ruald. Verano del año* *1212 de la Nueva Era (605 D.bA).*
+*El sótano de la biblioteca y el sótano de la panadería de los Ruald. Verano del año 1212 de la Nueva Era (605 D.bA).*
 
 Sumó el siglo en tres noches y no le cuadró.
 
@@ -10,7 +10,7 @@ Pero esta vez no le cuadraba al revés.
 
 ---
 
-El Consejo le había pedido un balance. Para las fiestas. *Cien años de Baervan: lo* *que ha ganado el Imperio.* Un pergamino grande, con letra bonita, para leer en la plaza el día de los farolillos. Sein lo hizo. En dos noches. Era fácil.
+El Consejo le había pedido un balance. Para las fiestas. Cien años de Baervan: lo que ha ganado el Imperio. Un pergamino grande, con letra bonita, para leer en la plaza el día de los farolillos. Sein lo hizo. En dos noches. Era fácil.
 
 Haber: cien años sin guerra grande. Once batallas pequeñas, todas ganadas. Trescientos doce muertos de la Armada en un siglo, que era menos de los que se morían en un mes en tiempos de Bhargaras IX. La décima rebajada dos veces. Nix, rica. Ullathorpe, rica. El puerto, el doble de grande. Cuatro escuelas nuevas. Un teatro nuevo en Nix. La patrulla del grano a los orcos del desierto. Dos Rincones abiertos y un niño pastor devuelto a su madre.
 
@@ -24,19 +24,19 @@ Esta vez con la tercera columna.
 
 ---
 
-En la tercera columna de los últimos cien años había cosas que no estaban en el balance. *1120. No viene nadie de Orac. Los del desierto dicen que se ha cerrado una puerta.*
+En la tercera columna de los últimos cien años había cosas que no estaban en el balance. 1120. No viene nadie de Orac. Los del desierto dicen que se ha cerrado una puerta.
 
-*1131. Pip, el pastor. Siete años dentro. Su madre tiene el pelo blanco.* *1149. Huellas en el quinto Rincón. Cuatro orcos y un drow. Se llevaron el registro.*
+*1131. Pip, el pastor. Siete años dentro. Su madre tiene el pelo blanco. 1149. Huellas en el quinto Rincón. Cuatro orcos y un drow. Se llevaron el registro.*
 
 *1160. Ochocientos licenciados. Un Hask se va a Tiama a subir el pan.*
 
-*1176. Ilan escribe que lo que duerme sueña más.* *1190. La Madre del norte del círculo del Mercado tiene una grieta en el cuello.*
+*1176. Ilan escribe que lo que duerme sueña más. 1190. La Madre del norte del círculo del Mercado tiene una grieta en el cuello.*
 
-*1201. Se perdona la décima en sal. El Consejo vota dieciséis a tres. Nadie pregunta* *para qué sirve una Armada que ya no cobra.*
+*1201. Se perdona la décima en sal. El Consejo vota dieciséis a tres. Nadie pregunta para qué sirve una Armada que ya no cobra.*
 
-*1205. Los Ruald: dieciocho de la sangre. En 1112 eran veintidós. En 1050,* *veintiséis. Se casan fuera. Se van a Nix. Se agua.*
+*1205. Los Ruald: dieciocho de la sangre. En 1112 eran veintidós. En 1050, veintiséis. Se casan fuera. Se van a Nix. Se agua.*
 
-*1210. Tibbet escribe desde el fuerte. Dice que ha cosido el sombrero doscientos.* *Dice que no sabe qué hacer con el doscientos uno. Dice que tiene miedo de llegar al* *doscientos treinta y tres.*
+*1210. Tibbet escribe desde el fuerte. Dice que ha cosido el sombrero doscientos. Dice que no sabe qué hacer con el doscientos uno. Dice que tiene miedo de llegar al doscientos treinta y tres.*
 
 Sein lo leyó todo. Una vez. Dos.
 
@@ -86,7 +86,7 @@ Luego la quitó. Se la miró. Abrió los ojos. Eran grises, muy claros, casi bla
 
 Sein no se movió.
 
-—Lo sabes —dijo Ottherius—. Lo sabes desde hace mucho. Lo dijo él. En el 880. *Lo que se apunta, se oye.* Lo dijo en Orac, delante del general blanco, delante de un plano de esta colina con tu nombre. *El que suma.* —Sonrió, sin ganas—. Tú no estabas. Pero yo lo oí. Lo oigo todo, Sein. Por eso no bajo.
+—Lo sabes —dijo Ottherius—. Lo sabes desde hace mucho. Lo dijo él. En el 880. Lo que se apunta, se oye. Lo dijo en Orac, delante del general blanco, delante de un plano de esta colina con tu nombre. El que suma. —Sonrió, sin ganas—. Tú no estabas. Pero yo lo oí. Lo oigo todo, Sein. Por eso no bajo.
 
 ---
 
@@ -116,7 +116,7 @@ Sein cerró los ojos.
 
 Sein tardó mucho en hablar.
 
-Pensó en el plano de la colina en Orac, que no había visto nunca y que Ottherius había oído. *El panadero, que creen que no sé.* Pensó en el 1052, en la vela gastada, en la letra pequeña y clara de hacía trescientos años. *Lo apunto y lo olvido.* Pensó que lo había vuelto a leer porque tenía miedo de habérselo inventado, y que no se lo había inventado, y que al comprobarlo lo había despertado.
+Pensó en el plano de la colina en Orac, que no había visto nunca y que Ottherius había oído. El panadero, que creen que no sé. Pensó en el 1052, en la vela gastada, en la letra pequeña y clara de hacía trescientos años. Lo apunto y lo olvido. Pensó que lo había vuelto a leer porque tenía miedo de habérselo inventado, y que no se lo había inventado, y que al comprobarlo lo había despertado.
 
 Pensó en que mil años de apuntar las cosas para que no se olvidaran habían sido mil años de hablar en voz alta en una casa donde alguien escuchaba detrás de la puerta.
 
@@ -186,7 +186,7 @@ Nadie dijo nada.
 
 —Ni en mis libros. Ni en el pergamino. Ni en las crónicas. Ni en una carta. Ni en un margen. —Miró a Verawel—. Tu línea del 1110. La de la letra de las Madres.
 
-—*La sangre. En la casa del pan. Todavía.* —Verawel bajó la vista—. Está escrita mirando arriba. La letra de las Madres sube. Él no la puede leer.
+—La sangre. En la casa del pan. Todavía. —Verawel bajó la vista—. Está escrita mirando arriba. La letra de las Madres sube. Él no la puede leer.
 
 —¿Seguro?
 
@@ -256,4 +256,4 @@ En el libro centésimo septuagésimo tercero, en la hoja del 1212, en la tercera
 
 Y debajo, otra, que no es sobre ese asunto, y que es la que Sein subrayó dos veces:
 
-*El balance de cien años da el mayor haber de la historia. No me lo creo. Lo apunto* *para que conste que no me lo creo. El debe está en otro libro. Algún día nos lo pasarán.*
+*El balance de cien años da el mayor haber de la historia. No me lo creo. Lo apunto para que conste que no me lo creo. El debe está en otro libro. Algún día nos lo pasarán.*

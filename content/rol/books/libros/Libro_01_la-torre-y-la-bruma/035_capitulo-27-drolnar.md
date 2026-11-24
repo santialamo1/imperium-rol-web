@@ -6,7 +6,7 @@ El emperador Drolnar Arenar escribió la carta tres veces, y las tres veces la q
 
 La primera era demasiado larga. Contaba todo: la bodega de los quesos, las jaulas, la horquilla de la mariposa, la espada hasta la empuñadura. Contaba cómo había sido Genieveve de Leogrand en los dieciséis años en que él la vio pasar por los pasillos sin atreverse a mirarla a los ojos: dura, solitaria, capaz de reírse como una muchacha cuando una niña de nueve años le ganaba al tablero. Contaba que había hecho buenas leyes. Que había hecho cosas monstruosas. Que las dos cosas eran verdad. Cuarenta pliegos. La quemó porque ningún hombre que cría cabras en un valle de Leogrand necesita cuarenta pliegos para saber que su madre fue un monstruo.
 
-La segunda era demasiado corta. *Tu madre fue la emperatriz Genieveve. Yo la* *maté. Perdóname.* La quemó porque era cobarde. Porque decía la verdad como se tira una piedra a un pozo: para librarse de ella, no para que nadie la recogiera.
+La segunda era demasiado corta. Tu madre fue la emperatriz Genieveve. Yo la maté. Perdóname. La quemó porque era cobarde. Porque decía la verdad como se tira una piedra a un pozo: para librarse de ella, no para que nadie la recogiera.
 
 La tercera la escribió despacio, a lo largo de un mes, una línea cada noche, con la mano que ya le temblaba tanto que tenía que sujetarse la muñeca con la otra. Esa la quemó porque, al terminarla, se dio cuenta de que no la había escrito para Aurel. La había escrito para él. Para poder morirse.
 
@@ -88,7 +88,7 @@ Drolnar asintió despacio. Miró el fuego.
 
 *¡Nadi está enferma! ¡Kesh se ha muerto!*
 
-La voz de Ilse. Aguda, furiosa, nueve años. La última cosa que le había oído decir a su hija, desde el pasadizo, antes de echar a correr. No la había olvidado. No había olvidado ni una sola palabra de aquella noche en treinta y dos años. *Nadi.* Una niña de una jaula. Una de las doce que quemaron en la plaza tres días después, mientras él miraba desde el balcón con la corona recién puesta y no hacía nada, porque el sumo sacerdote dijo que estaban tocados por la niebla y él no tenía fuerzas para pensar.
+La voz de Ilse. Aguda, furiosa, nueve años. La última cosa que le había oído decir a su hija, desde el pasadizo, antes de echar a correr. No la había olvidado. No había olvidado ni una sola palabra de aquella noche en treinta y dos años. Nadi. Una niña de una jaula. Una de las doce que quemaron en la plaza tres días después, mientras él miraba desde el balcón con la corona recién puesta y no hacía nada, porque el sumo sacerdote dijo que estaban tocados por la niebla y él no tenía fuerzas para pensar.
 
 Doce. Eso decían los cronistas. Pero el recuento de la pira, que firmó como testigo un guardia joven llamado Teodor Bhargaras, decía once cuerpos. Drolnar lo recordaba porque había firmado el informe sin leerlo, como firmaba todo esos días, y años después, buscando otra cosa, lo había encontrado en un archivo y lo había leído. Once. No doce.
 
@@ -134,7 +134,7 @@ Merrow llegó en camisa de dormir, con un candil, aterrado.
 
 —¿Qué cosa, majestad?
 
-Drolnar no contestó. Pensó en una nana. En una canción lenta, triste, repetitiva, en una lengua que no era de ninguno de los tres pueblos, que doce niños —once— cantaban en la oscuridad de una bodega, de jaula en jaula, la noche en que su hija bajó a verlos. Ilse se la había tarareado una vez, en el jardín de los tilos, sin saber de dónde la había sacado. *La canta una niña de abajo*, había dicho. *Es muy triste. Me gusta.*
+Drolnar no contestó. Pensó en una nana. En una canción lenta, triste, repetitiva, en una lengua que no era de ninguno de los tres pueblos, que doce niños —once— cantaban en la oscuridad de una bodega, de jaula en jaula, la noche en que su hija bajó a verlos. Ilse se la había tarareado una vez, en el jardín de los tilos, sin saber de dónde la había sacado. La canta una niña de abajo, había dicho. Es muy triste. Me gusta.
 
 Si el joven Bhargaras la cantaba —si alguna noche, aburrido o nervioso en la puerta de su alcoba, la tarareaba sin darse cuenta—, Drolnar lo sabría.
 

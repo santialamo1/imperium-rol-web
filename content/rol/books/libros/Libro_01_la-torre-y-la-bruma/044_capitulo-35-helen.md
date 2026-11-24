@@ -42,7 +42,7 @@ El sacerdote parpadeó.
 
 ---
 
-Helen había leído los libros. Todos. En la Gran Biblioteca que había abierto dos años antes en el ala este del palacio, había hecho copiar cada tratado, cada crónica, cada colección de leyendas de los tres pueblos y de los clanes menores que había encontrado. Y había leído los que hablaban de los tocados por la niebla. Eran pocos, y malos, y se contradecían. Unos decían que los que oían a los muertos eran brujos. Otros, que eran santos. Uno, un tratado Hinur de hacía doscientos años, decía que eran *personas que oyen,* *como hay quien ve mejor de lejos*.
+Helen había leído los libros. Todos. En la Gran Biblioteca que había abierto dos años antes en el ala este del palacio, había hecho copiar cada tratado, cada crónica, cada colección de leyendas de los tres pueblos y de los clanes menores que había encontrado. Y había leído los que hablaban de los tocados por la niebla. Eran pocos, y malos, y se contradecían. Unos decían que los que oían a los muertos eran brujos. Otros, que eran santos. Uno, un tratado Hinur de hacía doscientos años, decía que eran personas que oyen, como hay quien ve mejor de lejos.
 
 Esa frase la había escrito su abuela. O la había dicho, al menos, a alguien que la escribió. Helen lo sabía porque había leído los pergaminos de la abuela Nadia, los que su madre Mira le dio a escondidas el año en que la coronaron, envueltos en un paño de cocina, con la orden de no enseñárselos a nadie.
 
@@ -126,7 +126,7 @@ Estaba sentada junto al fuego de la cocina, en la casa de siempre, con una taza 
 
 —Todo el mundo se entera de todo. Eso es lo único que he aprendido en setenta y cinco años.
 
-Helen se sentó en el taburete, frente a ella. Se quedaron en silencio mucho rato. En el rincón, la niña pelirroja se dio la vuelta en sueños y murmuró algo. Un nombre. *Abuelo.*
+Helen se sentó en el taburete, frente a ella. Se quedaron en silencio mucho rato. En el rincón, la niña pelirroja se dio la vuelta en sueños y murmuró algo. Un nombre. Abuelo.
 
 Nadia la miró. Algo en su cara se ablandó.
 

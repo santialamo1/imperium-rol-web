@@ -17,8 +17,6 @@
 | Baervan | 1066 | Astragal | En la torre del muelle de Orac, con la puerta abierta. No sale. Espera |
 | Almad «Arispar» Larien | 1416 | Corin Ruald (sangre de la línea, por Isra y Berto Ruald) | En el trono de roble. No es de la Orden. Es lo que la Orden hizo |
 
-*La regla:* la ofrenda dura lo que dura la cadena de sangre. No sirve sobre el propio descendiente. El que la da sin ser de la línea, no da nada; el que la recibe de un falso, muere en pocos años. El que la da siendo de la línea, se cansa antes. Corin Ruald tiene setenta y un años y la cara de noventa.
+La regla: la ofrenda dura lo que dura la cadena de sangre. No sirve sobre el propio descendiente. El que la da sin ser de la línea, no da nada; el que la recibe de un falso, muere en pocos años. El que la da siendo de la línea, se cansa antes. Corin Ruald tiene setenta y un años y la cara de noventa.
 
 ---
-
-— —

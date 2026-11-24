@@ -2,9 +2,7 @@
 
 *Banderbill. Año 341 de la Nueva Era.*
 
-*De la Crónica de Tomas Vell, año 341, última entrada. Me muero el jueves.*
-
-*Que conste que no duele.*
+*De la Crónica de Tomas Vell, año 341, última entrada. Me muero el jueves. Que conste que no duele.*
 
 Jonas Brill tenía diecisiete años, tres dioptrías de menos en cada ojo y el oficio más inútil de la colina, que había heredado de su padre: tapador de lámparas.
 
@@ -142,7 +140,7 @@ Jonas lo pensó. Lo pensó de verdad, delante de Sein, durante un rato largo. Pe
 
 —¿Mi padre podrá seguir llamándome Brill?
 
-—Tu padre te puede llamar como quiera. —Sein casi sonrió—. A mí no me llamaba nadie. Mi madre se murió en el cabo sur cuando yo era pequeño, y después, en la colonia, me llamaban *eh, tú*. —Se quitó las gafas—. Casimir me dio el apellido. Me lo dio porque se lo pedí. Yo tenía once años y no tenía nada más que pedir.
+—Tu padre te puede llamar como quiera. —Sein casi sonrió—. A mí no me llamaba nadie. Mi madre se murió en el cabo sur cuando yo era pequeño, y después, en la colonia, me llamaban eh, tú. —Se quitó las gafas—. Casimir me dio el apellido. Me lo dio porque se lo pedí. Yo tenía once años y no tenía nada más que pedir.
 
 —Lo quiero —dijo Jonas.
 
@@ -156,7 +154,7 @@ Las de Sein. Las viejas. Las de montura de hierro, finas, que llevaba en la punt
 
 Y Jonas vio.
 
-No todo. No del todo bien. Las gafas eran de otro, y eran viejas, y estaban graduadas para unos ojos que llevaban trescientos años leyendo columnas a la luz de una vela. Pero vio. Vio la biblioteca, de lejos, entera, por primera vez en su vida: las estanterías hasta el techo, el polvo en los rayos de sol, las vitrinas con las cartas *Al que lee*, la mesa del fondo. Vio la cara de Sein. Una cara de cuarenta años, corriente, con los ojos cansados.
+No todo. No del todo bien. Las gafas eran de otro, y eran viejas, y estaban graduadas para unos ojos que llevaban trescientos años leyendo columnas a la luz de una vela. Pero vio. Vio la biblioteca, de lejos, entera, por primera vez en su vida: las estanterías hasta el techo, el polvo en los rayos de sol, las vitrinas con las cartas Al que lee, la mesa del fondo. Vio la cara de Sein. Una cara de cuarenta años, corriente, con los ojos cansados.
 
 Vio que tenía una peca en la sien izquierda. Nadie se la había visto nunca, pensó. Nadie se había acercado tanto.
 
@@ -176,7 +174,7 @@ Sein le enseñó el libro de cuentas. El de la biblioteca, primero, el de los sa
 
 Jonas lo hojeó con las gafas viejas, despacio, con la nariz a cuatro dedos, que era el doble que antes.
 
-Leyó el debe. *Lo propuse yo. Lo propuse yo. Lo propuse yo.* Nombres. Cifras. Una niña que había nacido con la cara rota. Un hombre que barría y que no se encontró nunca. Un pueblo de pescadores en el año doscientos once que se quedó sin trigo porque un papel de los viernes se equivocó de puerto. Trescientos años de cosas que habían salido mal, apuntadas con una letra de niño que no había mejorado nunca.
+Leyó el debe. Lo propuse yo. Lo propuse yo. Lo propuse yo. Nombres. Cifras. Una niña que había nacido con la cara rota. Un hombre que barría y que no se encontró nunca. Un pueblo de pescadores en el año doscientos once que se quedó sin trigo porque un papel de los viernes se equivocó de puerto. Trescientos años de cosas que habían salido mal, apuntadas con una letra de niño que no había mejorado nunca.
 
 Y luego llegó al año trescientos tres.
 
@@ -214,7 +212,7 @@ Lo dejó muy despacio, en la mesa, sin hacer ruido. Y se quedó mirando a Jonas 
 
 Jonas lo apuntó. Despacio, con la nariz a cuatro dedos, con las gafas viejas resbalándole.
 
-*Año 341. Primera entrada de Jonas Vell. Tomas Vell se murió el jueves. No dolió.* *En el libro de cuentas no sale nada mal desde hace treinta y ocho años. No sé si eso es una* *noticia.*
+*Año 341. Primera entrada de Jonas Vell. Tomas Vell se murió el jueves. No dolió. En el libro de cuentas no sale nada mal desde hace treinta y ocho años. No sé si eso es una noticia.*
 
 Sein lo leyó. Asintió. No dijo nada.
 

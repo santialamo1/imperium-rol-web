@@ -4,11 +4,11 @@
 
 El teatro olía a serrín, a cebolla y a gente que no se había lavado desde el invierno, que era como olían, según Tobías Grull, todos los templos verdaderos del mundo.
 
-Lo habían terminado en otoño. No era gran cosa, si uno lo comparaba con el Teatro de las Mil Lámparas de Concordia, donde Tobías había visto de niño representar *La caída* *de Ibar* con trescientos actores y un elefante disecado. Aquí no había elefantes. Había una media luna de gradas de pino, catorce filas, levantadas contra la ladera oeste de la colina para aprovechar la pendiente, y un escenario de tablones con un telón de lona teñida de rojo con raíz de rubia que se destiñó a la primera lluvia y ahora era rosa. El techo era el cielo. Cuando llovía, se suspendía la función. Cuando hacía sol, la gente se quejaba del sol. Cuando hacía viento, que en Banderbill era casi siempre, los actores tenían que gritar.
+Lo habían terminado en otoño. No era gran cosa, si uno lo comparaba con el Teatro de las Mil Lámparas de Concordia, donde Tobías había visto de niño representar La caída de Ibar con trescientos actores y un elefante disecado. Aquí no había elefantes. Había una media luna de gradas de pino, catorce filas, levantadas contra la ladera oeste de la colina para aprovechar la pendiente, y un escenario de tablones con un telón de lona teñida de rojo con raíz de rubia que se destiñó a la primera lluvia y ahora era rosa. El techo era el cielo. Cuando llovía, se suspendía la función. Cuando hacía sol, la gente se quejaba del sol. Cuando hacía viento, que en Banderbill era casi siempre, los actores tenían que gritar.
 
 A Tobías le parecía el edificio más hermoso que había visto en su vida.
 
-Lo habían levantado entre todos. Joran Kesse había hecho las gradas, sin cobrar, quejándose cada mañana de que nadie iba a sentarse en ellas. Ruald había donado el pan de la inauguración. Las mujeres de los fiordos habían tejido el telón. Y la emperatriz Mara, que no había ido al teatro en su vida ni pensaba ir, había firmado la orden de construcción con una frase que Tobías había copiado en sus notas con mucho cariño: *Que se haga, ya* *que insisten tanto, y que no me pidan que vaya.*
+Lo habían levantado entre todos. Joran Kesse había hecho las gradas, sin cobrar, quejándose cada mañana de que nadie iba a sentarse en ellas. Ruald había donado el pan de la inauguración. Las mujeres de los fiordos habían tejido el telón. Y la emperatriz Mara, que no había ido al teatro en su vida ni pensaba ir, había firmado la orden de construcción con una frase que Tobías había copiado en sus notas con mucho cariño: Que se haga, ya que insisten tanto, y que no me pidan que vaya.
 
 No había ido. Pero había mandado a su hija.
 
@@ -16,7 +16,7 @@ La colina lo llamaba «el juglar», por un juglar de los fiordos que se había c
 
 Esa tarde de primavera, Tobías leía.
 
-Era la cuarta lectura del invierno. La primera había sido del *Libro Primero de las* *Crónicas de Banderbill*, la parte de Lucius y la piedra; la segunda, la de Hector y el Pacto Otaro; la tercera, la de Genieveve. Las había ido leyendo en voz alta, en tardes de domingo, sentado en un taburete en mitad del escenario con el manuscrito sobre las rodillas y una jarra de agua con miel a los pies para la garganta. Había empezado con una docena de oyentes. Hoy había más de cuatrocientos.
+Era la cuarta lectura del invierno. La primera había sido del Libro Primero de las Crónicas de Banderbill, la parte de Lucius y la piedra; la segunda, la de Hector y el Pacto Otaro; la tercera, la de Genieveve. Las había ido leyendo en voz alta, en tardes de domingo, sentado en un taburete en mitad del escenario con el manuscrito sobre las rodillas y una jarra de agua con miel a los pies para la garganta. Había empezado con una docena de oyentes. Hoy había más de cuatrocientos.
 
 En las catorce filas no cabían. Había gente de pie en los pasillos y sentada en la ladera, fiordeños que apenas entendían la lengua y se inclinaban hacia sus vecinos para que les tradujeran, y Custodios de la escuela de Orla en la tercera fila, con sus túnicas grises, muy serios, como si estuvieran en el templo.
 
@@ -54,7 +54,7 @@ Tobías sonrió. Y empezó a leer.
 
 ---
 
-Leía bien. Lo sabía y no le daba vergüenza saberlo; era lo único que hacía bien, aparte de escribir, y un hombre tiene derecho a enorgullecerse de una cosa o dos. Leía despacio, con pausas, sin hacer voces, porque las voces eran cosa de juglares, pero dejando que cada frase cayera donde tenía que caer. Cuando llegaba a una muerte, bajaba el tono. Cuando llegaba a una batalla, no lo subía: lo dejaba igual, plano, y dejaba que fueran las palabras las que gritaran. Lo había aprendido de un maestro de retórica de Concordia que le pegaba en los nudillos con una regla de boj cada vez que levantaba la voz. *Si tienes que* *gritar para que te crean, Grull, es que has escrito mal.*
+Leía bien. Lo sabía y no le daba vergüenza saberlo; era lo único que hacía bien, aparte de escribir, y un hombre tiene derecho a enorgullecerse de una cosa o dos. Leía despacio, con pausas, sin hacer voces, porque las voces eran cosa de juglares, pero dejando que cada frase cayera donde tenía que caer. Cuando llegaba a una muerte, bajaba el tono. Cuando llegaba a una batalla, no lo subía: lo dejaba igual, plano, y dejaba que fueran las palabras las que gritaran. Lo había aprendido de un maestro de retórica de Concordia que le pegaba en los nudillos con una regla de boj cada vez que levantaba la voz. Si tienes que gritar para que te crean, Grull, es que has escrito mal.
 
 La gente escuchaba. Eso era lo que le parecía un milagro: cuatrocientas personas que habían perdido un mundo entero al otro lado del mar y que venían al juglar un domingo por la tarde a escuchar cómo lo habían perdido. No para llorar. Para entender. Y los niños, que habían nacido en la colina y no sabían lo que era una niebla ni un muerto que camina, abrían mucho los ojos.
 
@@ -62,7 +62,7 @@ Eso era lo más importante. Los niños. Tobías escribía para ellos.
 
 Leyó durante una hora. Hizo una pausa para beber. Bebió. Tosió.
 
-La tos le duraba desde el otoño. No era nada. Lo había dicho Orla, que entendía de toses porque había enterrado a muchos. *Es la humedad, Grull. Duerme con un brasero y* *deja de escribir de noche.* No había dejado de escribir de noche. El brasero sí lo ponía.
+La tos le duraba desde el otoño. No era nada. Lo había dicho Orla, que entendía de toses porque había enterrado a muchos. Es la humedad, Grull. Duerme con un brasero y deja de escribir de noche. No había dejado de escribir de noche. El brasero sí lo ponía.
 
 Tosió otra vez. Más fuerte. La jarra de agua con miel se le cayó de la mano y rodó por el escenario. Alguien de la primera fila —Lanther, claro, Lanther siempre— saltó al escenario y la recogió y se la devolvió llena, sin decir nada, con la piedra todavía en la otra mano.
 
@@ -186,7 +186,7 @@ Siguieron bajando.
 
 Esa noche, en la casa de libros, Tobías no consiguió escribir.
 
-Se sentó a la mesa con el brasero encendido a sus pies, como le había mandado Orla. Mojó la pluma. Puso delante el manuscrito del segundo libro, que llevaba un año sin tocar, desde que había escrito la última frase del primero. *El segundo lo escribirá otro.* La había escrito convencido. Ahora, cada vez que la leía, le parecía la frase de un cobarde.
+Se sentó a la mesa con el brasero encendido a sus pies, como le había mandado Orla. Mojó la pluma. Puso delante el manuscrito del segundo libro, que llevaba un año sin tocar, desde que había escrito la última frase del primero. El segundo lo escribirá otro. La había escrito convencido. Ahora, cada vez que la leía, le parecía la frase de un cobarde.
 
 Tosió. Se le manchó la manga de algo oscuro. No miró qué era.
 
@@ -196,7 +196,7 @@ Las montañas.
 
 Él no oía como el emperador, ni como Orla, ni como Pim. Pero desde la caída, desde la playa de arena gris, había empezado a notar cosas. No sonidos. Presiones. Como cuando uno está en una habitación y sabe, sin verlo, que hay alguien más.
 
-Las montañas negras latían. Todo el mundo en la colina lo sabía, aunque nadie lo dijera en voz alta. Livia lo había dicho la primera, con trece años: *laten*. Y la colina había decidido creerla a medias, que es como se cree a las niñas serias.
+Las montañas negras latían. Todo el mundo en la colina lo sabía, aunque nadie lo dijera en voz alta. Livia lo había dicho la primera, con trece años: laten. Y la colina había decidido creerla a medias, que es como se cree a las niñas serias.
 
 Esa noche latían más deprisa.
 
@@ -204,7 +204,7 @@ Tobías se quedó quieto con la pluma en la mano. Contó. Una. Dos. Tres. Cuatro
 
 Hacía un año eran cinco.
 
-Dejó la pluma. Se levantó. Fue hasta el arcón de pino, el que había sacado de Concordia por el acueducto y había cruzado el mar en la bodega de la *Tozuda*. Lo abrió. Apartó los legajos de arriba, los cuadernos de Lisandro, el diario de Meridio. Debajo, envuelto en un paño de lino, estaba el libro.
+Dejó la pluma. Se levantó. Fue hasta el arcón de pino, el que había sacado de Concordia por el acueducto y había cruzado el mar en la bodega de la Tozuda. Lo abrió. Apartó los legajos de arriba, los cuadernos de Lisandro, el diario de Meridio. Debajo, envuelto en un paño de lino, estaba el libro.
 
 Tapas de cuero negro, gastadas en las esquinas. Cierre de bronce con forma de mano abierta. En la primera página, una línea escrita con una letra que no era la de Tobías ni la de nadie que él hubiera conocido, una letra antigua, apretada, de hombre que escribe deprisa porque tiene miedo de olvidar:
 
@@ -216,11 +216,11 @@ Lo volvió a envolver. Lo puso en el fondo del arcón. Puso encima los legajos, 
 
 Luego se sentó otra vez a la mesa. Mojó la pluma. Y escribió, debajo de la última frase del primer libro, con su letra redonda de maestro de escuela, una línea nueva:
 
-*Año 27. Primavera. Las montañas laten cada cuatro respiraciones. Hoy un hombre* *se ha reído tarde en el teatro. Tenía las orejas tapadas.*
+*Año 27. Primavera. Las montañas laten cada cuatro respiraciones. Hoy un hombre se ha reído tarde en el teatro. Tenía las orejas tapadas.*
 
 Se quedó mirando la frase. Luego, con cuidado, la tachó. Y debajo escribió otra:
 
-*Livia. Cuando leas esto, ven a verme. Hay algo en el arcón que tienes que saber* *antes de que yo me olvide de cómo se cuenta.*
+*Livia. Cuando leas esto, ven a verme. Hay algo en el arcón que tienes que saber antes de que yo me olvide de cómo se cuenta.*
 
 Dobló la hoja. La dejó encima de la mesa, bajo el tintero.
 

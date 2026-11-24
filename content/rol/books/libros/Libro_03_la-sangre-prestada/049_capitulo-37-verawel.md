@@ -108,7 +108,7 @@ Verawel no contestó.
 
 Fue Sein. Que abrió el libro. Que no buscó ninguna página; lo abrió por donde estaba, que era la del año. Y leyó, sin mirar, de memoria:
 
-—*Que la dé a quien haga falta para acordarse.* —Cerró el libro—. Regla del 630. La escribí yo.
+—Que la dé a quien haga falta para acordarse. —Cerró el libro—. Regla del 630. La escribí yo.
 
 —Ya me acuerdo —dijo Verawel—. Para acordarme no me hace falta no morirme. Los árboles se acuerdan de todo. Más que tú.
 
@@ -144,7 +144,7 @@ Lindos se miró las manos. Las suyas. Con callos de mazo y astillas de roble deb
 
 Verawel no entendió.
 
-—Lo pone en el registro —dijo Lindos—. En la primera página. Lo he leído. Cuando era niño, mi madre me mandaba a la biblioteca cuando me portaba mal, y yo me ponía a leer el registro, porque era lo único que no tenía dibujos de barcos y así me castigaba de verdad. *Verawel me ha subido los libros.* Año sesenta y tres. —Levantó la vista—. Amael tenía veintiún años y era rey y había hecho una casa para los libros y no tenía a nadie que se los subiera. Y usted se los subió. —Se encogió de hombros—. Yo me voy al este. Voy a traer cosas. Mapas. Nombres. Historias. Alguien se las tiene que subir.
+—Lo pone en el registro —dijo Lindos—. En la primera página. Lo he leído. Cuando era niño, mi madre me mandaba a la biblioteca cuando me portaba mal, y yo me ponía a leer el registro, porque era lo único que no tenía dibujos de barcos y así me castigaba de verdad. Verawel me ha subido los libros. Año sesenta y tres. —Levantó la vista—. Amael tenía veintiún años y era rey y había hecho una casa para los libros y no tenía a nadie que se los subiera. Y usted se los subió. —Se encogió de hombros—. Yo me voy al este. Voy a traer cosas. Mapas. Nombres. Historias. Alguien se las tiene que subir.
 
 ---
 

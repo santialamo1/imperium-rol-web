@@ -80,13 +80,13 @@ Esdras la miró con desprecio.
 
 Braco murió en primavera. Con el mechón de pelo rubio en el puño, como habían dicho que moriría las doncellas de palacio, que sabían más que los cronistas.
 
-No nombró heredero. Pero en su última semana, según contó después la escribiente Lexandra Tiberius a quien quiso escucharla, le dijo algo. *Que la fuerza elija. Un trono* *ganado es solo tuyo.* Y otra cosa, al final, con la voz casi perdida: *Hablar. La guerra se* *gana hablando.*
+No nombró heredero. Pero en su última semana, según contó después la escribiente Lexandra Tiberius a quien quiso escucharla, le dijo algo. Que la fuerza elija. Un trono ganado es solo tuyo. Y otra cosa, al final, con la voz casi perdida: Hablar. La guerra se gana hablando.
 
 El Consejo se reunió de urgencia. Hubo gritos, como siempre. Y luego, como siempre, alguien sacó el viejo decreto de Hector Tiberius de los archivos y lo leyó en voz alta, y se abrieron las listas de la plaza.
 
 Esdras Vanth estuvo dos días delante de las listas. Con la pluma en la mano. Mirando los nombres.
 
-Darius Heredicus, veinticinco años. Una docena de señores jóvenes. Un campeón Ibaro gigantesco de los lagos. Y, la última, con una letra pequeña y apretada de escribiente de archivo, *Lexandra Tiberius, Suhon, de los bosques del norte*.
+Darius Heredicus, veinticinco años. Una docena de señores jóvenes. Un campeón Ibaro gigantesco de los lagos. Y, la última, con una letra pequeña y apretada de escribiente de archivo, Lexandra Tiberius, Suhon, de los bosques del norte.
 
 Esdras sabía que la ganaría. No en la plaza; en la plaza no tenía nada que hacer, con su rodilla de madera, contra muchachos de veinte años. Pero sabía que si se inscribía, la mitad de los generales se inscribirían detrás de él para apoyarlo, o retirarían a sus propios candidatos para darle sus votos en el Consejo, y la plaza se convertiría en otra cosa: en una guerra entre facciones, como en tiempos de Genieveve. Y la escribiente, que no tenía a nadie detrás salvo un marido miope de Pisor y un niño de ocho años, se quedaría sola.
 

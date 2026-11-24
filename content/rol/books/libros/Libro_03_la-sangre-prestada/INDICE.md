@@ -1,111 +1,103 @@
-# Emperadores de la Ceniza — Libro Tercero: La Sangre Prestada
+# Índice — Libro Tercero: La Sangre Prestada
 
-Libro 3 · 878 páginas originales · 105 secciones
-
-## Contenido
-
-- [Prólogo · Lo que se acuerda](001_prologo-lo-que-se-acuerda.md)
-- [PRIMERA PARTE: LA PIEDRA QUE NADIE MIRA](002_primera-parte-la-piedra-que-nadie-mira.md)
-- [DE LAS CRÓNICAS DE BANDERBILL, LIBRO TERCERO (I)](003_de-las-cronicas-de-banderbill-libro-tercero-i.md)
-- [Capítulo 1 · Lanther](004_capitulo-1-lanther.md)
-- [Capítulo 2 · Kildo](005_capitulo-2-kildo.md)
-- [Capítulo 3 · Arthal II](006_capitulo-3-arthal-ii.md)
-- [Capítulo 4 · Mabel](007_capitulo-4-mabel.md)
-- [Capítulo 5 · Tibbet](008_capitulo-5-tibbet.md)
-- [Capítulo 6 · Érandiul](009_capitulo-6-erandiul.md)
-- [Capítulo 7 · Sein](010_capitulo-7-sein.md)
-- [Capítulo 8 · Pim](011_capitulo-8-pim.md)
-- [Capítulo 9 · Wenna](012_capitulo-9-wenna.md)
-- [Capítulo 10 · Joss Hask](013_capitulo-10-joss-hask.md)
-- [Capítulo 11 · Mabel](014_capitulo-11-mabel.md)
-- [Capítulo 12 · Lanther](015_capitulo-12-lanther.md)
-- [DEL DIARIO DE LA FAMILIA ÉRANDIUL (VII)](016_del-diario-de-la-familia-erandiul-vii.md)
-- [SEGUNDA PARTE: ARGHÂL](017_segunda-parte-arghal.md)
-- [DE LAS CRÓNICAS DE BANDERBILL, LIBRO TERCERO (II)](018_de-las-cronicas-de-banderbill-libro-tercero-ii.md)
-- [Capítulo 13 · Brena Hask](019_capitulo-13-brena-hask.md)
-- [Capítulo 14 · Ithil](020_capitulo-14-ithil.md)
-- [Capítulo 15 · Arthal II](021_capitulo-15-arthal-ii.md)
-- [Capítulo 16 · Érandiul](022_capitulo-16-erandiul.md)
-- [Capítulo 17 · Sein](023_capitulo-17-sein.md)
-- [Capítulo 18 · Pim](024_capitulo-18-pim.md)
-- [Capítulo 19 · Tibbet](025_capitulo-19-tibbet.md)
-- [Capítulo 20 · Brena Hask](026_capitulo-20-brena-hask.md)
-- [Capítulo 21 · Lanther](027_capitulo-21-lanther.md)
-- [Capítulo 22 · Arthal II](028_capitulo-22-arthal-ii.md)
-- [Capítulo 23 · Érandiul](029_capitulo-23-erandiul.md)
-- [Capítulo 24 · Sein](030_capitulo-24-sein.md)
-- [Capítulo 25 · Odelia](031_capitulo-25-odelia.md)
-- [DEL DIARIO DE LA FAMILIA ÉRANDIUL (VIII)](032_del-diario-de-la-familia-erandiul-viii.md)
-- [TERCERA PARTE: EL PERGAMINO](033_tercera-parte-el-pergamino.md)
-- [DE LAS CRÓNICAS DE BANDERBILL, LIBRO TERCERO (III)](034_de-las-cronicas-de-banderbill-libro-tercero-iii.md)
-- [Capítulo 26 · Lanther](035_capitulo-26-lanther.md)
-- [Capítulo 27 · Verawel](036_capitulo-27-verawel.md)
-- [Capítulo 28 · Tibbet](037_capitulo-28-tibbet.md)
-- [Capítulo 29 · Lindos](038_capitulo-29-lindos.md)
-- [Capítulo 30 · Pim](039_capitulo-30-pim.md)
-- [Capítulo 31 · Teo Ruald](040_capitulo-31-teo-ruald.md)
-- [Capítulo 32 · Sein](041_capitulo-32-sein.md)
-- [Capítulo 33 · Tibbet](042_capitulo-33-tibbet.md)
-- [Capítulo 34 · Ilka](043_capitulo-34-ilka.md)
-- [Capítulo 35 · Lindos](044_capitulo-35-lindos.md)
-- [Capítulo 36 · Arthal II](045_capitulo-36-arthal-ii.md)
-- [DEL DIARIO DE LA FAMILIA ÉRANDIUL (IX)](046_del-diario-de-la-familia-erandiul-ix.md)
-- [CUARTA PARTE: HACIA EL ESTE](047_cuarta-parte-hacia-el-este.md)
-- [DE LAS CRÓNICAS DE BANDERBILL, LIBRO TERCERO (IV)](048_de-las-cronicas-de-banderbill-libro-tercero-iv.md)
-- [Capítulo 37 · Verawel](049_capitulo-37-verawel.md)
-- [Capítulo 38 · Lanther](050_capitulo-38-lanther.md)
-- [Capítulo 39 · Lindos](051_capitulo-39-lindos.md)
-- [Capítulo 40 · Lanther](052_capitulo-40-lanther.md)
-- [Capítulo 41 · Aila Tarrant](053_capitulo-41-aila-tarrant.md)
-- [Capítulo 42 · Grâshka](054_capitulo-42-grashka.md)
-- [Capítulo 43 · Hesper Hask](055_capitulo-43-hesper-hask.md)
-- [Capítulo 44 · Lanther](056_capitulo-44-lanther.md)
-- [Capítulo 45 · Liminus](057_capitulo-45-liminus.md)
-- [Capítulo 46 · Hesper Hask](058_capitulo-46-hesper-hask.md)
-- [Capítulo 47 · Sein](059_capitulo-47-sein.md)
-- [Capítulo 48 · Wenna](060_capitulo-48-wenna.md)
-- [Capítulo 49 · Ilwen](061_capitulo-49-ilwen.md)
-- [DEL DIARIO DE LA FAMILIA ÉRANDIUL (X)](062_del-diario-de-la-familia-erandiul-x.md)
-- [QUINTA PARTE: EL NORTE BLANCO](063_quinta-parte-el-norte-blanco.md)
-- [DE LAS CRÓNICAS DE BANDERBILL, LIBRO TERCERO (V)](064_de-las-cronicas-de-banderbill-libro-tercero-v.md)
-- [Capítulo 50 · Bhargaras XI](065_capitulo-50-bhargaras-xi.md)
-- [Capítulo 51 · Ilan Hask](066_capitulo-51-ilan-hask.md)
-- [Capítulo 52 · Dalbur](067_capitulo-52-dalbur.md)
-- [Capítulo 53 · Tibbet](068_capitulo-53-tibbet.md)
-- [Capítulo 54 · Dalbur](069_capitulo-54-dalbur.md)
-- [Capítulo 55 · Migyur](070_capitulo-55-migyur.md)
-- [Capítulo 56 · Corwin](071_capitulo-56-corwin.md)
-- [Capítulo 57 · Ilan Hask](072_capitulo-57-ilan-hask.md)
-- [Capítulo 58 · Lo que duerme](073_capitulo-58-lo-que-duerme.md)
-- [Capítulo 59 · Asgal](074_capitulo-59-asgal.md)
-- [Capítulo 60 · Érandiul](075_capitulo-60-erandiul.md)
-- [Capítulo 61 · Asgal](076_capitulo-61-asgal.md)
-- [DEL DIARIO DE LA FAMILIA ÉRANDIUL (XI)](077_del-diario-de-la-familia-erandiul-xi.md)
-- [SEXTA PARTE: EL DEMONIO](078_sexta-parte-el-demonio.md)
-- [DE LAS CRÓNICAS DE BANDERBILL, LIBRO TERCERO (VI)](079_de-las-cronicas-de-banderbill-libro-tercero-vi.md)
-- [Capítulo 62 · Grâshka](080_capitulo-62-grashka.md)
-- [Capítulo 63 · Sein](081_capitulo-63-sein.md)
-- [Capítulo 64 · Ithil](082_capitulo-64-ithil.md)
-- [Capítulo 65 · Lanther](083_capitulo-65-lanther.md)
-- [Capítulo 66 · Bastián Vell](084_capitulo-66-bastian-vell.md)
-- [Capítulo 67 · Asgal](085_capitulo-67-asgal.md)
-- [Capítulo 68 · El que escucha (II)](086_capitulo-68-el-que-escucha-ii.md)
-- [Capítulo 69 · Lanther](087_capitulo-69-lanther.md)
-- [Capítulo 70 · Pim](088_capitulo-70-pim.md)
-- [Capítulo 71 · Mirela Vell](089_capitulo-71-mirela-vell.md)
-- [Capítulo 72 · Astral](090_capitulo-72-astral.md)
-- [Capítulo 73 · Sein](091_capitulo-73-sein.md)
-- [Capítulo 74 · Lanther](092_capitulo-74-lanther.md)
-- [DEL DIARIO DE LA FAMILIA ÉRANDIUL (XII)](093_del-diario-de-la-familia-erandiul-xii.md)
-- [Epílogo · Cuando no quede nadie](094_epilogo-cuando-no-quede-nadie.md)
-- [APÉNDICES](095_apendices.md)
-- [CRONOLOGÍA DEL LIBRO TERCERO](096_cronologia-del-libro-tercero.md)
-- [LÍNEAS DE SANGRE](097_lineas-de-sangre.md)
-- [Los Hask](098_los-hask.md)
-- [Los Ruald, panaderos de la calle del Horno](099_los-ruald-panaderos-de-la-calle-del-horno.md)
-- [RECUENTO DE LA ORDEN EN EL AÑO 954](100_recuento-de-la-orden-en-el-ano-954.md)
-- [LOS TRES CONTINENTES, EN PALABRAS](101_los-tres-continentes-en-palabras.md)
-- [Rhagnark, el Nuevo Continente](102_rhagnark-el-nuevo-continente.md)
-- [LA LISTA DE TIBBET](103_la-lista-de-tibbet.md)
-- [Cosas que han pasado *(por detrás, desde el 607)*](104_cosas-que-han-pasado-por-detras-desde-el-607.md)
-- [EL PERGAMINO DE LOS FRAGMENTOS (ESTADO EN EL AÑO 954)](105_el-pergamino-de-los-fragmentos-estado-en-el-ano-954.md)
+- **001. Prólogo · Lo que se acuerda** — páginas 5–15
+- **002. PRIMERA PARTE: LA PIEDRA QUE NADIE MIRA** — páginas 16–16
+- **003. De las Crónicas de Banderbill, Libro Tercero (I)** — páginas 17–22
+- **004. Capítulo 1 · Lanther** — páginas 23–33
+- **005. Capítulo 2 · Kildo** — páginas 34–44
+- **006. Capítulo 3 · Arthal II** — páginas 45–52
+- **007. Capítulo 4 · Mabel** — páginas 53–61
+- **008. Capítulo 5 · Tibbet** — páginas 62–73
+- **009. Capítulo 6 · Érandiul** — páginas 74–83
+- **010. Capítulo 7 · Sein** — páginas 84–93
+- **011. Capítulo 8 · Pim** — páginas 94–103
+- **012. Capítulo 9 · Wenna** — páginas 104–115
+- **013. Capítulo 10 · Joss Hask** — páginas 116–127
+- **014. Capítulo 11 · Mabel** — páginas 128–139
+- **015. Capítulo 12 · Lanther** — páginas 140–151
+- **016. Del Diario de la familia Érandiul (VII)** — páginas 152–152
+- **017. SEGUNDA PARTE: ARGHÂL** — páginas 153–153
+- **018. De las Crónicas de Banderbill, Libro Tercero (II)** — páginas 154–158
+- **019. Capítulo 13 · Brena Hask** — páginas 159–169
+- **020. Capítulo 14 · Ithil** — páginas 170–178
+- **021. Capítulo 15 · Arthal II** — páginas 179–189
+- **022. Capítulo 16 · Érandiul** — páginas 190–198
+- **023. Capítulo 17 · Sein** — páginas 199–210
+- **024. Capítulo 18 · Pim** — páginas 211–220
+- **025. Capítulo 19 · Tibbet** — páginas 221–230
+- **026. Capítulo 20 · Brena Hask** — páginas 231–242
+- **027. Capítulo 21 · Lanther** — páginas 243–253
+- **028. Capítulo 22 · Arthal II** — páginas 254–263
+- **029. Capítulo 23 · Érandiul** — páginas 264–272
+- **030. Capítulo 24 · Sein** — páginas 273–288
+- **031. Capítulo 25 · Odelia** — páginas 289–301
+- **032. Del Diario de la familia Érandiul (VIII)** — páginas 302–303
+- **033. TERCERA PARTE: EL PERGAMINO** — páginas 304–304
+- **034. De las Crónicas de Banderbill, Libro Tercero (III)** — páginas 305–309
+- **035. Capítulo 26 · Lanther** — páginas 310–320
+- **036. Capítulo 27 · Verawel** — páginas 321–329
+- **037. Capítulo 28 · Tibbet** — páginas 330–339
+- **038. Capítulo 29 · Lindos** — páginas 340–349
+- **039. Capítulo 30 · Pim** — páginas 350–360
+- **040. Capítulo 31 · Teo Ruald** — páginas 361–372
+- **041. Capítulo 32 · Sein** — páginas 373–383
+- **042. Capítulo 33 · Tibbet** — páginas 384–396
+- **043. Capítulo 34 · Ilka** — páginas 397–406
+- **044. Capítulo 35 · Lindos** — páginas 407–417
+- **045. Capítulo 36 · Arthal II** — páginas 418–427
+- **046. Del Diario de la familia Érandiul (IX)** — páginas 428–428
+- **047. CUARTA PARTE: HACIA EL ESTE** — páginas 429–429
+- **048. De las Crónicas de Banderbill, Libro Tercero (IV)** — páginas 430–433
+- **049. Capítulo 37 · Verawel** — páginas 434–443
+- **050. Capítulo 38 · Lanther** — páginas 444–453
+- **051. Capítulo 39 · Lindos** — páginas 454–461
+- **052. Capítulo 40 · Lanther** — páginas 462–471
+- **053. Capítulo 41 · Aila Tarrant** — páginas 472–481
+- **054. Capítulo 42 · Grâshka** — páginas 482–492
+- **055. Capítulo 43 · Hesper Hask** — páginas 493–502
+- **056. Capítulo 44 · Lanther** — páginas 503–515
+- **057. Capítulo 45 · Liminus** — páginas 516–526
+- **058. Capítulo 46 · Hesper Hask** — páginas 527–535
+- **059. Capítulo 47 · Sein** — páginas 536–545
+- **060. Capítulo 48 · Wenna** — páginas 546–556
+- **061. Capítulo 49 · Ilwen** — páginas 557–567
+- **062. Del Diario de la familia Érandiul (X)** — páginas 568–571
+- **063. QUINTA PARTE: EL NORTE BLANCO** — páginas 572–572
+- **064. De las Crónicas de Banderbill, Libro Tercero (V)** — páginas 573–577
+- **065. Capítulo 50 · Bhargaras XI** — páginas 578–589
+- **066. Capítulo 51 · Ilan Hask** — páginas 590–604
+- **067. Capítulo 52 · Dalbur** — páginas 605–615
+- **068. Capítulo 53 · Tibbet** — páginas 616–625
+- **069. Capítulo 54 · Dalbur** — páginas 626–635
+- **070. Capítulo 55 · Migyur** — páginas 636–644
+- **071. Capítulo 56 · Corwin** — páginas 645–654
+- **072. Capítulo 57 · Ilan Hask** — páginas 655–667
+- **073. Capítulo 58 · Lo que duerme** — páginas 668–673
+- **074. Capítulo 59 · Asgal** — páginas 674–683
+- **075. Capítulo 60 · Érandiul** — páginas 684–698
+- **076. Capítulo 61 · Asgal** — páginas 699–708
+- **077. Del Diario de la familia Érandiul (XI)** — páginas 709–712
+- **078. SEXTA PARTE: EL DEMONIO** — páginas 713–713
+- **079. De las Crónicas de Banderbill, Libro Tercero (VI)** — páginas 714–718
+- **080. Capítulo 62 · Grâshka** — páginas 719–729
+- **081. Capítulo 63 · Sein** — páginas 730–738
+- **082. Capítulo 64 · Ithil** — páginas 739–748
+- **083. Capítulo 65 · Lanther** — páginas 749–758
+- **084. Capítulo 66 · Bastián Vell** — páginas 759–770
+- **085. Capítulo 67 · Asgal** — páginas 771–780
+- **086. Capítulo 68 · El que escucha (II)** — páginas 781–788
+- **087. Capítulo 69 · Lanther** — páginas 789–798
+- **088. Capítulo 70 · Pim** — páginas 799–809
+- **089. Capítulo 71 · Mirela Vell** — páginas 810–819
+- **090. Capítulo 72 · Astral** — páginas 820–833
+- **091. Capítulo 73 · Sein** — páginas 834–846
+- **092. Capítulo 74 · Lanther** — páginas 847–856
+- **093. Del Diario de la familia Érandiul (XII)** — páginas 857–858
+- **094. Epílogo · Cuando no quede nadie** — páginas 859–871
+- **095. APÉNDICES** — páginas 872–872
+- **096. Cronología del Libro Tercero** — páginas 873–879
+- **097. Líneas de sangre** — páginas 880–882
+- **098. Recuento de la orden en el año 954** — páginas 883–883
+- **099. Los tres continentes, en palabras** — páginas 884–886
+- **100. La lista de tibbet** — páginas 887–889
+- **101. El pergamino de los fragmentos (estado en el año 954)** — páginas 890–891

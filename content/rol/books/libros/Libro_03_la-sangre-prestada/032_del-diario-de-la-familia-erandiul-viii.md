@@ -2,7 +2,7 @@
 
 *Años 607 y 609. Copiado tal como está, con la letra de la mano izquierda.*
 
-*(Las dos entradas que siguen son las primeras escritas con la mano izquierda,* *después de la hoja en blanco del 585. La letra es grande, redonda, con las eles muy altas y* *las oes sin cerrar, y se inclina hacia arriba al final de cada renglón. En el título de la* *primera, el nombre de la ciudad aparece sin acento circunflejo; en el cuerpo, con él. No* *hay tachaduras.)*
+*(Las dos entradas que siguen son las primeras escritas con la mano izquierda, después de la hoja en blanco del 585. La letra es grande, redonda, con las eles muy altas y las oes sin cerrar, y se inclina hacia arriba al final de cada renglón. En el título de la primera, el nombre de la ciudad aparece sin acento circunflejo; en el cuerpo, con él. No hay tachaduras.)*
 
 Año 607 (o Año de la batalla de Arghal. Año 0). De la Gran Batalla de Arghal.
 
@@ -18,4 +18,4 @@ De este modo, la ciudad siguió bajo el dominio de los piratas, aunque el Imperi
 
 (Rinkel, la ciudad desértica)
 
-*(Después de esta entrada, el diario no vuelve a escribirse hasta el año 702.* *Noventa y tres años. En el margen de la última línea, con la misma letra pero más* *pequeña, casi borrada, alguien ha escrito «Ullathorpe» bien, debajo de «Ullathrope». Y* *luego lo ha tachado, con una sola raya, como si hubiera preferido dejar el error.)*
+*(Después de esta entrada, el diario no vuelve a escribirse hasta el año 702. Noventa y tres años. En el margen de la última línea, con la misma letra pero más pequeña, casi borrada, alguien ha escrito «Ullathorpe» bien, debajo de «Ullathrope». Y luego lo ha tachado, con una sola raya, como si hubiera preferido dejar el error.)*

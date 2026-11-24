@@ -1,6 +1,6 @@
 # Capítulo 53 · Mirela
 
-*Banderbill, el sótano de la casa vieja. Invierno del año 1416 de la Nueva Era (809* *D.bA).*
+*Banderbill, el sótano de la casa vieja. Invierno del año 1416 de la Nueva Era (809 D.bA).*
 
 No lo escribí. Lo escribo ahora, veintitrés años después, porque ya no importa que se oiga, y porque si no lo escribe nadie se va a quedar en una masa madre, y las masas madres se mueren.
 
@@ -242,7 +242,7 @@ Corin se rio.
 
 Se lo contó él. Arispar.
 
-No Corin. No Teo. No Lanther. Arispar. Se levantó del suelo, se puso de pie, con la cabeza casi en el techo, y se volvió hacia la trampilla, y se lo contó. Todo. Desde el principio. La pelota. El respiradero. El agujero en diagonal. Las voces. *El que más tiene.* El cuaderno quemado. La escalera. La amenaza. El año. El voto. La nieve.
+No Corin. No Teo. No Lanther. Arispar. Se levantó del suelo, se puso de pie, con la cabeza casi en el techo, y se volvió hacia la trampilla, y se lo contó. Todo. Desde el principio. La pelota. El respiradero. El agujero en diagonal. Las voces. El que más tiene. El cuaderno quemado. La escalera. La amenaza. El año. El voto. La nieve.
 
 No se dejó nada. Ni lo de la amenaza.
 

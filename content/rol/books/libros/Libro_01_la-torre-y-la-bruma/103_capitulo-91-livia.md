@@ -24,7 +24,7 @@ Livia no había contestado. Se había ido a su cuarto, en la casa de la Custodia
 
 No era una voz. Eso era lo primero que había que entender, y nadie lo entendía, ni siquiera la Custodia Orla, que había oído a los muertos durante cincuenta años y creía que todo lo que se oía desde lejos tenía que ser un muerto.
 
-En el barco, en el Mar de la Eterna Penuria, la voz que la llamaba era una voz. Venía de detrás, de la tierra, del norte, de donde habían huido. Decía *Livia, Livia, Livia* como se llama a un perro, y Livia sabía, sin que nadie se lo dijera, que era la voz de algo que tenía hambre. Luego Bander le dio el abrigo, y la voz sonó más lejos. Y luego cruzaron el mar, y la voz se quedó al otro lado del agua salada, y no volvió.
+En el barco, en el Mar de la Eterna Penuria, la voz que la llamaba era una voz. Venía de detrás, de la tierra, del norte, de donde habían huido. Decía Livia, Livia, Livia como se llama a un perro, y Livia sabía, sin que nadie se lo dijera, que era la voz de algo que tenía hambre. Luego Bander le dio el abrigo, y la voz sonó más lejos. Y luego cruzaron el mar, y la voz se quedó al otro lado del agua salada, y no volvió.
 
 Las montañas eran otra cosa.
 
@@ -42,7 +42,7 @@ No el de la calle.
 
 El otro.
 
-El que le había susurrado Bander al oído en la cubierta de la *Tozuda*, a los nueve años, en la lengua de la arena, que ella no hablaba. El que no sabía nadie más en el mundo. El abrigo.
+El que le había susurrado Bander al oído en la cubierta de la Tozuda, a los nueve años, en la lengua de la arena, que ella no hablaba. El que no sabía nadie más en el mundo. El abrigo.
 
 Las montañas la llamaban por el abrigo.
 
@@ -64,7 +64,7 @@ Sal.
 
 Y en ese momento, con el dedo en la boca y las rodillas en la roca negra, las montañas latieron. Tan fuerte, tan cerca, que Livia lo notó en los dientes.
 
-*Tú*, dijo el latido. No con palabras. Con la forma. *Tú. La de la mano.*
+Tú, dijo el latido. No con palabras. Con la forma. Tú. La de la mano.
 
 Livia se apartó de la roca de un salto. Se quedó de pie, temblando, con el corazón golpeándole las costillas.
 
@@ -94,7 +94,7 @@ No miró atrás. Pero notó, durante todo el descenso, a cada paso, el latido de
 
 ---
 
-Llegó a Banderbill a medianoche. Había cuarenta personas buscándola con antorchas por el bosque y la playa. El tío Gorm, con un hacha, por si acaso. La Custodia Orla, con cara de *ya os lo dije*. Mara, descalza, gritando su nombre en la playa. Y Bander, solo, en la orilla del río, donde empezaba la senda de los ciervos, esperando.
+Llegó a Banderbill a medianoche. Había cuarenta personas buscándola con antorchas por el bosque y la playa. El tío Gorm, con un hacha, por si acaso. La Custodia Orla, con cara de ya os lo dije. Mara, descalza, gritando su nombre en la playa. Y Bander, solo, en la orilla del río, donde empezaba la senda de los ciervos, esperando.
 
 Sabía por dónde vendría. Livia no supo nunca cómo lo sabía.
 
@@ -146,12 +146,12 @@ Livia no volvió a subir a las montañas aquel año. Ni el siguiente. Bander no 
 
 Pero guardó el cuaderno de corteza. Y Tobías, el copista, pasó once inviernos intentando descifrar las inscripciones de las siete piedras con la cartilla de Hilde Tamm y un diccionario de la lengua de la arena que había ido escribiendo él mismo, palabra a palabra, preguntando a los pocos eufesios que había en Banderbill. Consiguió leer tres frases. Las apuntó en un pliego aparte, que no incluyó en las crónicas porque Su Majestad no le dejó, y que se encontró después de su muerte en el fondo de su arcón.
 
-La primera decía: *Aquí trajimos lo que sobraba.*
+La primera decía: Aquí trajimos lo que sobraba.
 
-La segunda: *Que duerma lejos de la otra mitad.*
+La segunda: Que duerma lejos de la otra mitad.
 
-La tercera no la entendió nunca. Era la que rodeaba el hueco vacío del centro del círculo, y decía, según su mejor traducción, después de once años: *Cuando vuelva la mano,* *que vuelva también el nombre.*
+La tercera no la entendió nunca. Era la que rodeaba el hueco vacío del centro del círculo, y decía, según su mejor traducción, después de once años: Cuando vuelva la mano, que vuelva también el nombre.
 
 Debajo, en el margen, con la letra temblorosa de un viejo, Tobías Grull había añadido una nota para sí mismo, o para quien la encontrara:
 
-*He preguntado a Su Majestad qué nombre le dio a la niña en el barco. No me lo ha* *dicho. Pero cuando le leí la tercera frase, se tocó el pecho. Y salió de la habitación sin* *despedirse.*
+*He preguntado a Su Majestad qué nombre le dio a la niña en el barco. No me lo ha dicho. Pero cuando le leí la tercera frase, se tocó el pecho. Y salió de la habitación sin despedirse.*

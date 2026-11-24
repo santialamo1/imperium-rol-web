@@ -98,7 +98,7 @@ Lo sacó. Lo sostuvo a la luz de la vela. Se quedó quieto.
 
 No se volvió. No la miró. Siguió mirando el frasco a la luz de la vela.
 
-*Podía preguntarlo.* Lo había pensado siete años antes, en aquella misma casa, junto a aquella misma ventana, y había decidido no hacerlo. *Nada, madre. No quiero que me* *digas nada.* Y ella había sonreído, y había vuelto a su bordado, y no le había dicho nada, y él había ido a gobernar.
+Podía preguntarlo. Lo había pensado siete años antes, en aquella misma casa, junto a aquella misma ventana, y había decidido no hacerlo. Nada, madre. No quiero que me digas nada. Y ella había sonreído, y había vuelto a su bordado, y no le había dicho nada, y él había ido a gobernar.
 
 Ahora estaba vacío. Igual que entonces. Igual que siempre, según la familia.
 
@@ -162,7 +162,7 @@ Pensaba en una cuenta.
 
 Once Custodios menos. Cuatro mil muertos soltados en la guerra del Vencedor. Una criada eufesia que había cantado en una cocina y que había oído, quizá, por la rendija de una puerta, un nombre que no significaba nada. Una criada que se había ido con un trapo gris cosido en la ropa tres años antes, por una ley que él había firmado.
 
-*Allí no saben nada de las fortalezas*, le había dicho a su madre.
+Allí no saben nada de las fortalezas, le había dicho a su madre.
 
 Pero allí sabían su nombre. O podían saberlo.
 

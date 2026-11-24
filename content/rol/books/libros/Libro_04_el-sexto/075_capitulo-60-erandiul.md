@@ -1,6 +1,6 @@
 # Capítulo 60 · Érandiul
 
-*Banderbill, la plaza de la Biblioteca y el palacio. Otoño del año 1419 de la Nueva* *Era (812 D.bA).*
+*Banderbill, la plaza de la Biblioteca y el palacio. Otoño del año 1419 de la Nueva Era (812 D.bA).*
 
 Escribo con la izquierda desde hace más de ochocientos años.
 
@@ -14,7 +14,7 @@ No sé qué.
 
 ---
 
-Lo vi todo. Lo apunto así en el Diario: *Observé con mis propios ojos.* Es verdad. Estaba allí. Había bajado de mi casa del barrio alto al oír las campanas, con el cuaderno, como bajo siempre, porque llevo mil cuatrocientos años bajando cuando suenan las campanas, y llegué a la plaza de la biblioteca por la calle de los Escribanos justo cuando el orco grande se paraba delante de la ventana.
+Lo vi todo. Lo apunto así en el Diario: Observé con mis propios ojos. Es verdad. Estaba allí. Había bajado de mi casa del barrio alto al oír las campanas, con el cuaderno, como bajo siempre, porque llevo mil cuatrocientos años bajando cuando suenan las campanas, y llegué a la plaza de la biblioteca por la calle de los Escribanos justo cuando el orco grande se paraba delante de la ventana.
 
 No me escondí. No sirve de nada esconderse. Un elfo viejo con un cuaderno no le interesa a nadie.
 
@@ -26,13 +26,13 @@ Y luego miró arriba.
 
 Eso tampoco lo apunto en el Diario.
 
-Un orco de Orac. El general de las Hordas. El que el Diario llamará *feroz*, *sanguinario*, porque es lo que hay que llamar a un orco que quema una biblioteca. Se quedó en medio de la plaza con una antorcha en la mano y miró arriba. A una gaviota.
+Un orco de Orac. El general de las Hordas. El que el Diario llamará feroz, sanguinario, porque es lo que hay que llamar a un orco que quema una biblioteca. Se quedó en medio de la plaza con una antorcha en la mano y miró arriba. A una gaviota.
 
 Y luego la tiró.
 
 ---
 
-No voy a contar el fuego. Lo cuento en el Diario. *Un daño irreparable.* *Llamas* *incontrolables.* Son palabras de cronista. Sirven.
+No voy a contar el fuego. Lo cuento en el Diario. Un daño irreparable. Llamas incontrolables. Son palabras de cronista. Sirven.
 
 Lo que no sirve contarlo es el ruido.
 
@@ -74,7 +74,7 @@ En las cenizas que salían por la puerta. Negras. Con trozos de papel que todav�
 
 Yo me arrodillé a su lado.
 
-Lo apunto en el Diario: *derramó sus lágrimas sobre las cenizas de cientos y cientos* *de libros*. Es verdad. Lo vi.
+Lo apunto en el Diario: derramó sus lágrimas sobre las cenizas de cientos y cientos de libros. Es verdad. Lo vi.
 
 Y apunto otra cosa. Que yo, que lo conozco, sabía que no lloraba por los cientos y cientos.
 
@@ -162,7 +162,7 @@ El Emperador miró el papel. Luego a Zanaier.
 
 Mentía bien.
 
-No lo apunto en el Diario. En el Diario pongo: *Por obra del destino o vaya a saber* *uno que razón, Arispar había tomado el pergamino de los Fragmentos de Alkar.* Lo pongo así. Con las faltas. Con la letra torcida de la izquierda.
+No lo apunto en el Diario. En el Diario pongo: Por obra del destino o vaya a saber uno que razón, Arispar había tomado el pergamino de los Fragmentos de Alkar. Lo pongo así. Con las faltas. Con la letra torcida de la izquierda.
 
 Lo pongo así porque es verdad que no sé.
 
@@ -216,13 +216,17 @@ Y luego, en la parte de atrás, donde no copia nadie, escribí esto:
 
 *He visto a mi amigo llorar por un papel que no sabe leer.*
 
-*He visto al chico de las gafas, que tiene la cara de catorce años desde que yo tenía* *la cara de cuarenta, con las manos quemadas, detrás de un trono, pidiéndome silencio con* *un dedo.*
+*He visto al chico de las gafas, que tiene la cara de catorce años desde que yo tenía la cara de cuarenta, con las manos quemadas, detrás de un trono, pidiéndome silencio con un dedo.*
 
-*Y he oído al Emperador decir que lo lean en voz alta.* *No sé qué es el pergamino.*
+*Y he oído al Emperador decir que lo lean en voz alta.*
 
-*Pero sé que el chico de las gafas, cuando lo oyó, cerró los ojos como se cierran* *cuando uno oye algo que ya sabía que iba a oír, y que no quería.*
+*No sé qué es el pergamino.*
 
-*Lo apunto aquí, con la izquierda, con faltas.* *La derecha se me ha movido otra vez.*
+*Pero sé que el chico de las gafas, cuando lo oyó, cerró los ojos como se cierran cuando uno oye algo que ya sabía que iba a oír, y que no quería.*
+
+*Lo apunto aquí, con la izquierda, con faltas.*
+
+*La derecha se me ha movido otra vez.*
 
 ---
 

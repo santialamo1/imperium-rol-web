@@ -38,7 +38,7 @@ No sabía cómo se le había hecho tan tarde.
 
 Lo fueron a ver todos esa semana.
 
-Vino el Consejo. Los quince. Se pusieron alrededor de la cama, de pie, con los sombreros en la mano, y el canciller, que era el tataranieto de Hal Ostrander, leyó un discurso que nadie escuchó. El orco de la silla de Arghâl, que ya no era Morg-de-laesquina sino su sobrina, que se llamaba Shura y que había nacido en la colina, le dio un saco de trigo de las lomas. El Emperador lo tuvo encima de la manta toda la tarde. Decía que olía a algo que había salido bien.
+Vino el Consejo. Los quince. Se pusieron alrededor de la cama, de pie, con los sombreros en la mano, y el canciller, que era el tataranieto de Hal Ostrander, leyó un discurso que nadie escuchó. El orco de la silla de Arghâl, que ya no era Morg-de-la-esquina sino su sobrina, que se llamaba Shura y que había nacido en la colina, le dio un saco de trigo de las lomas. El Emperador lo tuvo encima de la manta toda la tarde. Decía que olía a algo que había salido bien.
 
 Vino la Armada. El capitán general, una mujer de Nix. Los capitanes de las cinco compañías. Se pusieron en fila en el pasillo y no entraron, porque no cabían. Él les pidió que miraran arriba. Lo hicieron. En el pasillo. Todos a la vez. Con la cara levantada al techo de piedra.
 
@@ -150,7 +150,7 @@ El Emperador se rio. Bajito. Le dolió.
 
 El Emperador pensó.
 
-—Pon *más de un siglo* —dijo.
+—Pon más de un siglo —dijo.
 
 Érandiul levantó las cejas.
 

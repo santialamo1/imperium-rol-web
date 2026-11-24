@@ -142,7 +142,13 @@ Luego se levantó otra vez, despacio, y se acercó a él, y se sentó en el suel
 
 Y cantó.
 
-*Duerme, arena, duerme ya,* *la bruma viene y se va;* *quien te nombra te tendrá,* *quien te ama volverá.*
+*Duerme, arena, duerme ya,*
+
+*la bruma viene y se va;*
+
+*quien te nombra te tendrá,*
+
+*quien te ama volverá.*
 
 Loth lloró. Las lágrimas grises le resbalaban por la cara y caían sobre las baldosas y se evaporaban en volutas de niebla.
 

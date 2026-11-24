@@ -4,7 +4,7 @@
 
 La sala de la cárcel estaba preparada desde el mediodía.
 
-Era la sala de abajo de la cárcel de la ladera este, la del dintel donde dice *Aquí viene* *quien rompe la ley. Y el emperador, el primero*. La Orden la usaba desde el 618 para lo que no se podía hacer en otra parte. Tenía una mesa. Seis sillas. Una estantería con la piedra gris de Arghâl encima, que nadie miraba. Una chimenea que tiraba mal. Y una ventana pequeña, alta, con barrotes, por donde se veía un trozo de cielo del tamaño de una mano.
+Era la sala de abajo de la cárcel de la ladera este, la del dintel donde dice Aquí viene quien rompe la ley. Y el emperador, el primero. La Orden la usaba desde el 618 para lo que no se podía hacer en otra parte. Tenía una mesa. Seis sillas. Una estantería con la piedra gris de Arghâl encima, que nadie miraba. Una chimenea que tiraba mal. Y una ventana pequeña, alta, con barrotes, por donde se veía un trozo de cielo del tamaño de una mano.
 
 Sein había puesto el libro en la mesa. Abierto por el debe. Con la pluma al lado, mojada.
 
@@ -54,7 +54,7 @@ Se lo explicaron.
 
 Sein, sobre todo. Con el libro. Porque era lo que hacía.
 
-Que los Hask llevaban casi seiscientos años en la Armada. Que Corvo era nieto del almirante Corvo, sobrino nieto de la reina Brena, la abuela de Astragal: primo de su padre, de la misma sangre de mar. Que era serio. Que era valiente. Que había subido al mástil mayor del *Tessa II* en una tormenta, a los quince, para soltar una vela que se había enredado, y que se había caído al bajar, y que se había roto la nariz, y que había vuelto a subir. Que la Armada necesitaba alguien que no se muriera. Que desde Hesper no había nadie de la Armada en la Orden. Hesper había muerto en Orac. El único Hask que quedaba con una vida prestada, Ilan, estaba en Tiama, delante de una rendija, y no veía el mar desde hacía cuarenta años. La Armada no tenía a nadie que se acordara.
+Que los Hask llevaban casi seiscientos años en la Armada. Que Corvo era nieto del almirante Corvo, sobrino nieto de la reina Brena, la abuela de Astragal: primo de su padre, de la misma sangre de mar. Que era serio. Que era valiente. Que había subido al mástil mayor del Tessa II en una tormenta, a los quince, para soltar una vela que se había enredado, y que se había caído al bajar, y que se había roto la nariz, y que había vuelto a subir. Que la Armada necesitaba alguien que no se muriera. Que desde Hesper no había nadie de la Armada en la Orden. Hesper había muerto en Orac. El único Hask que quedaba con una vida prestada, Ilan, estaba en Tiama, delante de una rendija, y no veía el mar desde hacía cuarenta años. La Armada no tenía a nadie que se acordara.
 
 Que Corvo había dicho que sí.
 
@@ -94,7 +94,17 @@ Sein le leyó el libro.
 
 En voz alta. Desde el principio. Desde la primera hoja del primer libro, que tenía novecientos años y se deshacía en los bordes y que Sein había subido de la estantería esa mañana sin decirle a nadie por qué.
 
-*Bhargaras VII, a Lanther. Para que alguien se acuerde.* *Lanther, a Sein. Para que alguien sume.* *Amael, a quien yo sé.* *Andriath, a Wenna. Porque la quería.* *Bhargaras VIII, a Tibbet. Porque lo quería.* *IX, a nadie. A un frasco.*
+*Bhargaras VII, a Lanther. Para que alguien se acuerde.*
+
+*Lanther, a Sein. Para que alguien sume.*
+
+*Amael, a quien yo sé.*
+
+*Andriath, a Wenna. Porque la quería.*
+
+*Bhargaras VIII, a Tibbet. Porque lo quería.*
+
+*IX, a nadie. A un frasco.*
 
 Y así. Arthal II, a Ottherius. Lindos, a Verawel. Liminus, a Hesper. XI, a Dalbur. Asgal, a Mirela. Astral, a Ilan.
 
@@ -252,7 +262,7 @@ Astragal lo miró. Lo levantó hacia la luna. La gota no se movió.
 
 —¿Qué es?
 
-—Su vida. Fuera de él. Se cortó y la guardó aquí. No la quiso dar a nadie. Me la dio a mí. *Para quien haga falta*.
+—Su vida. Fuera de él. Se cortó y la guardó aquí. No la quiso dar a nadie. Me la dio a mí. Para quien haga falta.
 
 —¿Y ha hecho falta?
 
@@ -300,7 +310,7 @@ Nadie contestó.
 
 Lanther no contestó. Eluret no contestó; tenía once años y no sabía que la pregunta era de las que no se contestan. El viento del norte no contestó. Las estrellas, las que no se mueven, no contestaron.
 
-Debajo de ellos, debajo de la almena, debajo de la piedra, el muro hizo *tum*.
+Debajo de ellos, debajo de la almena, debajo de la piedra, el muro hizo tum.
 
 Uno.
 
@@ -330,7 +340,7 @@ No por el debe. Ni por el haber. Ni por la tercera columna. Por la primera hoja 
 
 Ahí estaba. Lo único que había escrito en un margen en novecientos años, hasta el 952. En letra muy pequeña. La noche de las tres monedas de cobre.
 
-*Lanther lleva setecientos años diciéndonos que no a todos. Que no se dan para* *servir. Que no se dan por miedo. Que no se dan porque toca. Un día alguien de la sangre* *le dirá que no a ella. Y ese será el que lo haya entendido.*
+*Lanther lleva setecientos años diciéndonos que no a todos. Que no se dan para servir. Que no se dan por miedo. Que no se dan porque toca. Un día alguien de la sangre le dirá que no a ella. Y ese será el que lo haya entendido.*
 
 Sein lo leyó tres veces.
 

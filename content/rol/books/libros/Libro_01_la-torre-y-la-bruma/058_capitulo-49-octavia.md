@@ -22,7 +22,7 @@ Tenía treinta y un años aquel verano del doscientos veinte, era viuda de un co
 
 Luego salió el undécimo.
 
-Un joven alto, rubio, de ojos grises, con una espada larga de Gijor y una cara tan hermosa que dolía mirarla. Darius Heredicus. Descendiente del Fundador. Octavia lo vio luchar durante media hora, el combate más largo de la historia del decreto, y lo vio caer, y oyó el chasquido de su muñeca desde la tribuna, por encima del rugido de la multitud. Y lo vio levantar la cara desde la arena, con los ojos llenos de lágrimas de dolor y de algo peor que el dolor, y decir: *Los Heredicus no olvidan.*
+Un joven alto, rubio, de ojos grises, con una espada larga de Gijor y una cara tan hermosa que dolía mirarla. Darius Heredicus. Descendiente del Fundador. Octavia lo vio luchar durante media hora, el combate más largo de la historia del decreto, y lo vio caer, y oyó el chasquido de su muñeca desde la tribuna, por encima del rugido de la multitud. Y lo vio levantar la cara desde la arena, con los ojos llenos de lágrimas de dolor y de algo peor que el dolor, y decir: Los Heredicus no olvidan.
 
 Y Octavia, que no había sentido nada por nadie en once años de matrimonio, sintió algo.
 
@@ -66,7 +66,7 @@ La muchacha se sonrojó.
 
 Octavia miró a su hijo. El niño la miraba a ella, con aquellos ojos todavía sin color de los recién nacidos.
 
-*Los nombres son abrigos*, había dicho una vez un erudito Kalo en una cena de la corte, el marido de la emperatriz, haciendo reír a todos. Octavia no se había reído.
+Los nombres son abrigos, había dicho una vez un erudito Kalo en una cena de la corte, el marido de la emperatriz, haciendo reír a todos. Octavia no se había reído.
 
 —Sal un momento, Sefa —dijo.
 
@@ -76,7 +76,7 @@ Se inclinó sobre el niño. Le acercó los labios a la oreja diminuta, húmeda, 
 
 Y le susurró un nombre.
 
-No *Maximus*. Ese lo había elegido Darius meses antes: el más grande, el que lo haría todo. Otro. Uno que Octavia se inventó en aquel instante, que no significaba nada en ninguna lengua y que era solo suyo. El nombre de un hijo que no iba a ser el instrumento de nadie.
+No Maximus. Ese lo había elegido Darius meses antes: el más grande, el que lo haría todo. Otro. Uno que Octavia se inventó en aquel instante, que no significaba nada en ninguna lengua y que era solo suyo. El nombre de un hijo que no iba a ser el instrumento de nadie.
 
 Fuera, en el pasillo, Sefa, con la palangana en las manos y el oído pegado a la rendija de la puerta como le habían enseñado las Madres de su clan, que le habían dicho que en la ciudad de la torre aprendiera todo lo que pudiera, lo oyó.
 

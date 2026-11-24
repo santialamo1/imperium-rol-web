@@ -1,6 +1,6 @@
 # Capítulo 65 · Ilan Hask
 
-*La cueva de cristal, en la montaña del Sombrero, sobre el Pasaje Norte, a una* *jornada al este de Tiama. Invierno del año 1437 de la Nueva Era (830 D.bA).*
+*La cueva de cristal, en la montaña del Sombrero, sobre el Pasaje Norte, a una jornada al este de Tiama. Invierno del año 1437 de la Nueva Era (830 D.bA).*
 
 Mil cuatrocientos doce copos.
 
@@ -18,15 +18,15 @@ La voz seguía.
 
 No le hablaba a él. Eso era lo raro, y lo que le daba miedo. En quinientos siete años, la voz no le había hablado a él ni una vez. Le hablaba a la cría. Desde abajo. Desde la sal. Bajo, tranquilo, razonable, como un recaudador. Ilan no entendía las palabras; no eran palabras. Pero entendía el tono.
 
-El tono decía: *mira*.
+El tono decía: mira.
 
 ---
 
 Hacía un mes que la voz no paraba.
 
-Antes venía y se iba. Una noche al año, dos, en los años malos. En el 1256 vino una noche entera y la cría abrió el ojo y el hielo se rajó una mano, e Ilan pasó la noche cantándole lo que se acordaba de las canciones de cuna de Nix, las que le cantaba su madre, hasta que el ojo se cerró. Lo apuntó en la carta. *No con la espada. Con su madre.*
+Antes venía y se iba. Una noche al año, dos, en los años malos. En el 1256 vino una noche entera y la cría abrió el ojo y el hielo se rajó una mano, e Ilan pasó la noche cantándole lo que se acordaba de las canciones de cuna de Nix, las que le cantaba su madre, hasta que el ojo se cerró. Lo apuntó en la carta. No con la espada. Con su madre.
 
-Y luego escribió: *creo que la próxima vez no podré.*
+Y luego escribió: creo que la próxima vez no podré.
 
 Tenía razón.
 
@@ -38,15 +38,15 @@ Ilan subió a la cueva y ya no bajó.
 
 Lo supo luego, por los enanos. Que en Banderbill, en el ala este del palacio, veintiséis sabios habían acabado de leer un párrafo. En voz alta. El de la gema de Migyur.
 
-*Una criatura de procedencia desconocida, en las montañas blancas. Un poder que* *congela a quien la mira. En el pecho, una gema.*
+*Una criatura de procedencia desconocida, en las montañas blancas. Un poder que congela a quien la mira. En el pecho, una gema.*
 
 Lo leyeron con miedo. Así lo leían todo, decían los enanos. Con el Emperador detrás.
 
-Y debajo de la línea, en la letra de las Madres, en el margen, había algo que también leyeron, porque lo leían todo: la carta de Ilan Hask del verano del 1256, que Mirela Vell había copiado allí. *Ha abierto el ojo. Cuarta vez.*
+Y debajo de la línea, en la letra de las Madres, en el margen, había algo que también leyeron, porque lo leían todo: la carta de Ilan Hask del verano del 1256, que Mirela Vell había copiado allí. Ha abierto el ojo. Cuarta vez.
 
 Ilan se rio cuando se lo contaron. Una risa sin ganas.
 
-*Que conste*, había escrito. Y había constado.
+Que conste, había escrito. Y había constado.
 
 ---
 
@@ -80,7 +80,7 @@ Por encima, en el aire, las águilas heladas daban vueltas. Blancas y grises, co
 
 Lo que no bajó fue lo de abajo.
 
-La cueva de cristal del Sombrero no era una cueva. Eso lo sabía Ilan, y los enanos de Tiama, y nadie más. Los enanos la llamaban *el Calabozo de Cristal*; los gnomos de la Armada, que tienen una palabra suya para los agujeros que tienen dueño, el *Dungeon* *Cristal*. Eso era: una montaña hueca, de hielo que no es hielo, con pasillos que bajan y salas que se abren unas dentro de otras como las capas de una cebolla. La cría y su madre vivían en la primera, en la de la boca. Más abajo había otras. En una, al fondo de un pasillo que olía a frío viejo, había un lago helado donde nadaban por debajo del hielo unas medusas glaciales, blancas y lentas, que se encendían de azul cuando alguien pisaba encima. En otra había esqueletos árticos de mineros de Mina Kirle que habían entrado hacía siglos por una grieta buscando plata y se habían quedado de pie, pegados al hielo, y que cuando se les acercaba una antorcha giraban la cabeza.
+La cueva de cristal del Sombrero no era una cueva. Eso lo sabía Ilan, y los enanos de Tiama, y nadie más. Los enanos la llamaban el Calabozo de Cristal; los gnomos de la Armada, que tienen una palabra suya para los agujeros que tienen dueño, el Dungeon Cristal. Eso era: una montaña hueca, de hielo que no es hielo, con pasillos que bajan y salas que se abren unas dentro de otras como las capas de una cebolla. La cría y su madre vivían en la primera, en la de la boca. Más abajo había otras. En una, al fondo de un pasillo que olía a frío viejo, había un lago helado donde nadaban por debajo del hielo unas medusas glaciales, blancas y lentas, que se encendían de azul cuando alguien pisaba encima. En otra había esqueletos árticos de mineros de Mina Kirle que habían entrado hacía siglos por una grieta buscando plata y se habían quedado de pie, pegados al hielo, y que cuando se les acercaba una antorcha giraban la cabeza.
 
 Y al fondo de todo, en el centro de la montaña, más abajo de donde ningún enano había bajado nunca, estaba la Caverna Cristal.
 
@@ -124,7 +124,7 @@ Y se paró.
 
 En las rodillas. No subió más.
 
-Ilan sabía por qué. Lo había sabido siempre, aunque nunca lo había probado, porque nunca la había mirado con el ojo abierto. *Congela a quien la mira.* Pero no a todos igual. Su abuelo, en el 846, con la espada clavada en la nieve, se había quedado medio tieso, y no volvió a andar bien en los treinta y tres años que le quedaron; y el abuelo tenía miedo. Ilan no tenía miedo. Tenía quinientos sesenta y dos años, la cara de cincuenta y cinco, las rodillas heladas y un gato en el regazo. Llevaba quinientos siete años mirando ese ojo cerrado. No se le tiene miedo a lo que uno ha mirado tanto.
+Ilan sabía por qué. Lo había sabido siempre, aunque nunca lo había probado, porque nunca la había mirado con el ojo abierto. Congela a quien la mira. Pero no a todos igual. Su abuelo, en el 846, con la espada clavada en la nieve, se había quedado medio tieso, y no volvió a andar bien en los treinta y tres años que le quedaron; y el abuelo tenía miedo. Ilan no tenía miedo. Tenía quinientos sesenta y dos años, la cara de cincuenta y cinco, las rodillas heladas y un gato en el regazo. Llevaba quinientos siete años mirando ese ojo cerrado. No se le tiene miedo a lo que uno ha mirado tanto.
 
 —Hola —repitió—. Soy yo. El de los copos.
 
@@ -260,7 +260,9 @@ De golpe. Como se calla un recaudador cuando le cierran la puerta.
 
 Ilan no sabía por qué. No lo supo nunca. Pero notó el silencio y siguió cantando, más bajo, y la cría respiraba contra su hombro, despacio, con el ojo cerrado, y la luz azul del pecho latía más despacio también.
 
-*Tum.* *Tum.*
+*Tum.*
+
+*Tum.*
 
 —Ahora —dijo Ilan. Sin dejar de cantar. Entre nota y nota—. Ahora, chico. Mientras duerme. Que no se entere.
 
@@ -274,7 +276,7 @@ Y siguió cantando.
 
 ---
 
-No contó cómo. No lo contó nadie. El Diario dice *logró asesinar a Migyur, arrancó* *el objeto del pecho de la criatura*, y es verdad, y no hace falta más.
+No contó cómo. No lo contó nadie. El Diario dice logró asesinar a Migyur, arrancó el objeto del pecho de la criatura, y es verdad, y no hace falta más.
 
 Lo que el Diario no dice es que la cría no se despertó.
 
@@ -292,7 +294,7 @@ Ilan lo vio tarde. Estaba de pie, en la boca, entre los cuatro congelados. Grand
 
 Ilan cogió la espada de hielo del suelo.
 
-No sabía usarla. Eso también hay que decirlo. En quinientos siete años no la había usado nunca; la llevaba en el hombro como se lleva una herramienta que no se necesita. *Quieto*, decía la runa. Su abuelo la clavó en la nieve y la cría se quedó quieta. Él no tenía nada que dejar quieto.
+No sabía usarla. Eso también hay que decirlo. En quinientos siete años no la había usado nunca; la llevaba en el hombro como se lleva una herramienta que no se necesita. Quieto, decía la runa. Su abuelo la clavó en la nieve y la cría se quedó quieta. Él no tenía nada que dejar quieto.
 
 Se puso delante del chico.
 
@@ -308,7 +310,7 @@ Ilan levantó la espada.
 
 La ofrenda no para el hierro.
 
-Lo sabía. Lo sabían todos los de abajo. Teo se lo había dicho una vez, en el sótano, con la boca llena de pan: *la vida prestada no se gasta, pero se rompe*. Un hacha la rompe igual que rompe la otra.
+Lo sabía. Lo sabían todos los de abajo. Teo se lo había dicho una vez, en el sótano, con la boca llena de pan: la vida prestada no se gasta, pero se rompe. Un hacha la rompe igual que rompe la otra.
 
 El hacha bajó.
 

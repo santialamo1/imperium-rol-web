@@ -2,11 +2,7 @@
 
 *El sótano de la biblioteca de Banderbill. Otoño del año 398 de la Nueva Era.*
 
-*Del libro de cuentas de Sein Vell, año 398. Propuesta. La apunto en el debe*
-
-*antes de hacerla. Por si acaso. Por costumbre. Porque sé lo que va a costar, y*
-
-*no sé cuánto.*
+*Del libro de cuentas de Sein Vell, año 398. Propuesta. La apunto en el debe antes de hacerla. Por si acaso. Por costumbre. Porque sé lo que va a costar, y no sé cuánto.*
 
 La Orden se reunió entera, con todos sus miembros sentados a la misma mesa, por cuarta vez en cuatrocientos años, y por primera vez Lanther llegó la primera.
 
@@ -30,7 +26,7 @@ Lanther no contestó.
 
 Luego bajó Wenna. Despacio, de lado, por la escalera estrecha, que no estaba hecha para ella, con un cesto de castañas en el brazo y quejándose de las escaleras, de las mulas, del frío y de que en la colina no sabían asar castañas. Tenía trescientos cuarenta y seis años y la cara de una de cincuenta y la voz de una de cien, y la balanza colgada del cinto, y se sentó en el arcón de pino porque no había otro sitio donde cupiera.
 
-Luego Saelith, la elfa de Nix, que ya no era de Nix porque no había Nix. Delgada, seria, con una cicatriz nueva en el cuello de hacía veinte años. Luego Kildo, el enano, con trescientos y pico años y una barba gris hasta el cinturón, que había salido de la ciudadcueva tapiada por un túnel que solo conocía él. Luego el cronista de turno, un muchacho de veintidós años que se llamaba Aren y llevaba el apellido Vell desde hacía dos y temblaba igual que había temblado Jonas Vell en su día. Jonas había muerto el invierno anterior, a los setenta y tres, en la mesa de la biblioteca, con la pluma en la mano.
+Luego Saelith, la elfa de Nix, que ya no era de Nix porque no había Nix. Delgada, seria, con una cicatriz nueva en el cuello de hacía veinte años. Luego Kildo, el enano, con trescientos y pico años y una barba gris hasta el cinturón, que había salido de la ciudad-cueva tapiada por un túnel que solo conocía él. Luego el cronista de turno, un muchacho de veintidós años que se llamaba Aren y llevaba el apellido Vell desde hacía dos y temblaba igual que había temblado Jonas Vell en su día. Jonas había muerto el invierno anterior, a los setenta y tres, en la mesa de la biblioteca, con la pluma en la mano.
 
 Sein bajó el último.
 
@@ -54,9 +50,9 @@ Nadie dijo nada durante un rato.
 
 Abrió el libro de cuentas. Por una página del año 357. Se la enseñó a todos. A la luz del farol.
 
-Había una columna. La de Nix. *Once mil ochocientos. Ciento treinta y nueve.*
+Había una columna. La de Nix. Once mil ochocientos. Ciento treinta y nueve.
 
-Y al lado, en el margen, la palabra del año 375. *¿Ejército?*
+Y al lado, en el margen, la palabra del año 375. ¿Ejército?
 
 —Lo escribí cuando murió Lindiel —dijo Sein—. Con una interrogación. Es la única interrogación que hay en todo el libro. En trescientos sesenta y ocho años. —Se puso las gafas—. He decidido quitársela.
 
@@ -264,7 +260,9 @@ Luego lo escribió. Con su letra de niño, que no había cambiado en cuatrocient
 
 *Armada. Imperial. Paga el Mercado. Una de cada diez.*
 
-*Lo propuse yo.* *La nombró ella.*
+*Lo propuse yo.*
+
+*La nombró ella.*
 
 Y debajo, más pequeño:
 

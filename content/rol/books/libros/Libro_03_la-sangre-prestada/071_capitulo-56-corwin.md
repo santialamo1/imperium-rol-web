@@ -1,6 +1,6 @@
 # Capítulo 56 · Corwin
 
-*El Bosque Muerto, al norte de Wonder, en Rhagnark. Otoño del año 838 de la* *Nueva Era (231 D.bA).*
+*El Bosque Muerto, al norte de Wonder, en Rhagnark. Otoño del año 838 de la Nueva Era (231 D.bA).*
 
 El zorro blanco valía lo que Corwin ganaba en un mes, y por eso lo siguió al sitio donde no se entraba.
 
@@ -156,7 +156,7 @@ No se lo contó. No esa noche.
 
 Se lo contó al almirante.
 
-No sabía por qué al almirante. Sabía que el almirante había entrado una vez. Que había salido mirando arriba. Que lo contaban los viejos de *El Guiso*, los nietos de los que lo habían visto.
+No sabía por qué al almirante. Sabía que el almirante había entrado una vez. Que había salido mirando arriba. Que lo contaban los viejos de El Guiso, los nietos de los que lo habían visto.
 
 El almirante estaba en Wonder ese otoño. Por casualidad. Entre un viaje al norte y otro. Corwin fue al puerto. Esperó todo el día en el muelle. Al atardecer, el almirante bajó del barco.
 
@@ -172,7 +172,7 @@ Lo miró. A la cara. No al hombro.
 
 ---
 
-Se sentaron en *El Guiso*. En la mesa del fondo, la de los que no quieren que los oigan. El tataranieto de Grum les sirvió guiso sin preguntar. El caldo de siempre. El que no se había vaciado desde el 721.
+Se sentaron en El Guiso. En la mesa del fondo, la de los que no quieren que los oigan. El tataranieto de Grum les sirvió guiso sin preguntar. El caldo de siempre. El que no se había vaciado desde el 721.
 
 Corwin se lo contó.
 
@@ -276,12 +276,12 @@ Sein Vell, en la colina, recibió la noticia en la primavera del 843. En una car
 
 La apuntó en la columna del debe. En el libro cuadragésimo cuarto.
 
-*Año 843. Corwin, trampero de Wonder. Vio en la espada del bosque muerto su* *muerte, en el 838. Esperó cinco años. Fue igual. El niño se llamaba Pol, tenía siete años, y* *vive.*
+*Año 843. Corwin, trampero de Wonder. Vio en la espada del bosque muerto su muerte, en el 838. Esperó cinco años. Fue igual. El niño se llamaba Pol, tenía siete años, y vive.*
 
 *Debe la colina: cinco inviernos a un hombre que pudo no ir.*
 
-*Al pergamino: la espada no enseña lo que va a pasar. Enseña lo que pasará si uno* *es como es. No es lo mismo. Que conste.*
+*Al pergamino: la espada no enseña lo que va a pasar. Enseña lo que pasará si uno es como es. No es lo mismo. Que conste.*
 
 Y en el sótano de la biblioteca, Verawel, con la letra que subía, escribió una línea nueva al lado de la de la espada. La de 729.
 
-*Ha enseñado otra vez. Esta vez, cinco inviernos antes. Cuesta un trampero que fue* *a pesar de todo.*
+*Ha enseñado otra vez. Esta vez, cinco inviernos antes. Cuesta un trampero que fue a pesar de todo.*

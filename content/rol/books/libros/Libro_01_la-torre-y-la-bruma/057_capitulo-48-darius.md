@@ -44,13 +44,13 @@ Berenice lo miró con sus ojos fríos.
 
 La vio luchar diez días.
 
-No mató a nadie. Esa fue la primera cosa que le llamó la atención. Desarmaba, derribaba, rompía alguna muñeca, algún tobillo, y luego bajaba la espada y se volvía hacia la tribuna del Consejo y preguntaba: *¿Cuenta?* Y el Consejo, después de deliberar el primer día, decidió que contaba, porque un hombre desarmado y en el suelo no estaba en pie, y el decreto no hablaba de muertes. Hablaba de uno.
+No mató a nadie. Esa fue la primera cosa que le llamó la atención. Desarmaba, derribaba, rompía alguna muñeca, algún tobillo, y luego bajaba la espada y se volvía hacia la tribuna del Consejo y preguntaba: ¿Cuenta? Y el Consejo, después de deliberar el primer día, decidió que contaba, porque un hombre desarmado y en el suelo no estaba en pie, y el decreto no hablaba de muertes. Hablaba de uno.
 
 La multitud la abucheó el primer día. Darius la aplaudió, en silencio, desde la tienda de los combatientes. Porque había entendido lo que hacía. No mataba porque matar cansa. No el brazo: la cabeza. Cada muerte pesa, aunque no lo notes. Cada muerte te quita un poco de algo, y al décimo día ese algo te falta en el momento preciso. Ella no se cansaba porque no cargaba con nada.
 
 Y había entendido otra cosa, que lo inquietó más.
 
-Lexandra Tiberius no luchaba para ganar. Luchaba para que la vieran no matar. Cada combate era un discurso. *Esto es lo que haré con el Imperio. Así gobernaré.* Y la plaza, que el primer día la abucheaba, el tercero la aplaudía y el quinto coreaba su nombre.
+Lexandra Tiberius no luchaba para ganar. Luchaba para que la vieran no matar. Cada combate era un discurso. Esto es lo que haré con el Imperio. Así gobernaré. Y la plaza, que el primer día la abucheaba, el tercero la aplaudía y el quinto coreaba su nombre.
 
 El décimo día, Darius supo que, aunque le ganara, la plaza no lo querría.
 
@@ -76,9 +76,9 @@ A los veinte minutos, Darius empezó a sentir algo que no había sentido nunca e
 
 No era cansancio. Era rabia.
 
-Ella no luchaba contra él. Luchaba *con* él. Como quien baila con alguien que no sabe bailar, con paciencia, esperando a que se equivoque. Y la plaza lo veía. La plaza entera, cien mil personas, veía al mejor espadachín de Concordia lanzar estocadas contra el aire mientras una secretaria de los bosques de Tiber esperaba, tranquila, con la espada baja.
+Ella no luchaba contra él. Luchaba con él. Como quien baila con alguien que no sabe bailar, con paciencia, esperando a que se equivoque. Y la plaza lo veía. La plaza entera, cien mil personas, veía al mejor espadachín de Concordia lanzar estocadas contra el aire mientras una secretaria de los bosques de Tiber esperaba, tranquila, con la espada baja.
 
-*Ciento ochenta y cinco años*, pensó. *Ciento ochenta y cinco años esperando, y esto.*
+*Ciento ochenta y cinco años, pensó. Ciento ochenta y cinco años esperando, y esto.*
 
 Atacó con todo. Una serie de cinco golpes, rápidos, brutales, que había practicado diez mil veces en el patio de la casa del barrio alto. El quinto golpe era el que no fallaba nunca: una estocada baja, al muslo, que obligaba al rival a bajar la guardia, seguida de un tajo alto al cuello.
 

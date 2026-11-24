@@ -72,7 +72,7 @@ Se metió en el agua.
 
 ---
 
-El agua helada le llegaba a la cintura en los bajíos. Caminó despacio, con la espada por encima de la cabeza, mirando dónde ponía los pies. *No es la espada. Es mirar dónde* *pones los pies.* Trepó al casco por una jarcia rota y se dejó caer en la cubierta.
+El agua helada le llegaba a la cintura en los bajíos. Caminó despacio, con la espada por encima de la cabeza, mirando dónde ponía los pies. No es la espada. Es mirar dónde pones los pies. Trepó al casco por una jarcia rota y se dejó caer en la cubierta.
 
 Ceniza.
 
@@ -92,7 +92,7 @@ Y le dio más miedo que si lo hubiera habido.
 
 Bajó a la bodega.
 
-No sabía por qué. Una terquedad, la misma que le hacía entrenar solo de noche. *Ya* *que he subido, voy a ver lo que hay.*
+No sabía por qué. Una terquedad, la misma que le hacía entrenar solo de noche. Ya que he subido, voy a ver lo que hay.
 
 La bodega estaba vacía. Casi.
 
@@ -146,7 +146,7 @@ Pensó en llevársela a su madre. Pensó en llevársela a la Custodia Orla, o a 
 
 Ellos oirían.
 
-Y entonces pensó, sin querer, con la boca de los Renod apretada: *y me mirarían.* *Como me miran siempre. Como al que no.*
+Y entonces pensó, sin querer, con la boca de los Renod apretada: y me mirarían. Como me miran siempre. Como al que no.
 
 Se quedó mucho rato en la bodega, en cuclillas, con la jarra en la mano.
 

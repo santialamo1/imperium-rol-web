@@ -1,8 +1,8 @@
 # Capítulo 70 · Jhark
 
-*Banderbill, el palacio y el calabozo. Primavera del año 1439 de la Nueva Era (832* *D.bA).*
+*Banderbill, el palacio y el calabozo. Primavera del año 1439 de la Nueva Era (832 D.bA).*
 
-**I. Jerek**
+I. Jerek
 
 Los números no mienten. Mienten los que los cuentan.
 
@@ -70,7 +70,7 @@ Y miró la pared.
 
 ---
 
-**II. Fausto**
+II. Fausto
 
 Fausto llegó a Banderbill un martes, andando, con los pies sangrando.
 
@@ -238,7 +238,7 @@ No dijo nada.
 
 Fausto esperó.
 
-—Era un niño de esta colina. Hijo de un Emperador. Una noche, en el 967, preguntó: *¿qué pasa cuando no quede nadie?* —Lanther miraba la vela—. Se refería a la sangre. A los Emperadores. Ya no quedaban. Él iba a ser el último. Lo sabía.
+—Era un niño de esta colina. Hijo de un Emperador. Una noche, en el 967, preguntó: ¿qué pasa cuando no quede nadie? —Lanther miraba la vela—. Se refería a la sangre. A los Emperadores. Ya no quedaban. Él iba a ser el último. Lo sabía.
 
 —¿Y qué pasó?
 
@@ -250,7 +250,7 @@ Fausto la miró.
 
 Lanther levantó la vista de la vela. Y lo miró a la cara.
 
-—Porque esta tarde has entrado en esa sala con los pies sangrando y has gritado *míranos*. En plural. —Hizo una pausa—. No *mírame*. *Míranos.*
+—Porque esta tarde has entrado en esa sala con los pies sangrando y has gritado míranos. En plural. —Hizo una pausa—. No mírame. Míranos.
 
 Fausto no dijo nada.
 
@@ -294,7 +294,7 @@ Se lo dijo un pirata. Uno de Jhark, que la Armada había cogido en la costa de N
 
 Jerek subió a la sala del trono con el pirata todavía hablando en el pasillo.
 
-Los sabios, en el ala este, habían terminado esa misma mañana el párrafo. El sexto. *La Lágrima del Creador. Un hielo eterno. Quien la beba no morirá.*
+Los sabios, en el ala este, habían terminado esa misma mañana el párrafo. El sexto. La Lágrima del Creador. Un hielo eterno. Quien la beba no morirá.
 
 En Lindos.
 

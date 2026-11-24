@@ -26,7 +26,7 @@ La manzana de cada día estaba entera al día siguiente.
 
 —No se ríen —le dijo a Lanther.
 
-Estaban en la tercera almena. Era por la tarde. El muro hacía *tum* debajo de ellas, el de siempre, lento, un golpe cada vez que Hatmie contaba hasta ciento noventa. Lo había medido. Llevaba cuarenta años midiéndolo, desde los once, desde la primera vez que la pelirroja le dijo *escucha*.
+Estaban en la tercera almena. Era por la tarde. El muro hacía tum debajo de ellas, el de siempre, lento, un golpe cada vez que Hatmie contaba hasta ciento noventa. Lo había medido. Llevaba cuarenta años midiéndolo, desde los once, desde la primera vez que la pelirroja le dijo escucha.
 
 Antes de la caída era ciento ochenta y cinco.
 
@@ -108,13 +108,13 @@ Sabía que eso tampoco podía ser.
 
 No preguntó.
 
-Había aprendido, en cuarenta años de almena, que con la pelirroja se preguntaba poco. Que lo que no contaba no lo contaba, y que lo que contaba lo contaba cuando le daba la gana, y que si uno esperaba lo suficiente, a veces, en una tarde de verano, con el muro haciendo *tum*, le contaba una cosa que no le había contado a nadie.
+Había aprendido, en cuarenta años de almena, que con la pelirroja se preguntaba poco. Que lo que no contaba no lo contaba, y que lo que contaba lo contaba cuando le daba la gana, y que si uno esperaba lo suficiente, a veces, en una tarde de verano, con el muro haciendo tum, le contaba una cosa que no le había contado a nadie.
 
 ---
 
 Tardaron seis días.
 
-Subieron por el camino del norte, el de los tramperos, Lanther a caballo y Hatmie en un poni de la Armada, con dos soldados de la leva detrás que no hablaron en seis días más que para decir *sí, doncella* y *no, doncella*. Hatmie intentó hacerlos hablar. Les preguntó de dónde eran. Les preguntó si tenían novia. Les preguntó si les gustaban las manzanas.
+Subieron por el camino del norte, el de los tramperos, Lanther a caballo y Hatmie en un poni de la Armada, con dos soldados de la leva detrás que no hablaron en seis días más que para decir sí, doncella y no, doncella. Hatmie intentó hacerlos hablar. Les preguntó de dónde eran. Les preguntó si tenían novia. Les preguntó si les gustaban las manzanas.
 
 Al tercer día uno de los dos, el más alto, un chico de la ladera norte que se llamaba Bram, le contestó.
 
@@ -188,7 +188,7 @@ Lanther salió.
 
 —No. Me enseñó a leer una viga.
 
-—Es lo mismo. —Wenna se rio. Una risa de vieja, con aire—. *Las cosas se quedan* *donde se ponen.* Lo puso él. Me lo contó él, aquí, en el 1084, con las botas llenas de arena. Lo leíste tú. Es lo mismo.
+—Es lo mismo. —Wenna se rio. Una risa de vieja, con aire—. Las cosas se quedan donde se ponen. Lo puso él. Me lo contó él, aquí, en el 1084, con las botas llenas de arena. Lo leíste tú. Es lo mismo.
 
 Hatmie no dijo nada.
 

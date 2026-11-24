@@ -38,7 +38,7 @@ Sein levantó la vista.
 
 Maren estaba en la cubierta del segundo barco. En la que iba a ser la cubierta. Una plataforma de tablas puesta encima de las costillas, a diez varas del suelo, donde se trabajaba en lo alto.
 
-Tenía cincuenta y nueve años. El pelo negro, con canas, recogido todavía con un trozo de cabo. Las manos, todavía, llenas de brea. Era la emperatriz que iba a ser y no lo parecía. No lo había parecido nunca. En la colina la llamaban *la de Nix* y no lo decían con cariño. En Nix la llamaban *Maren la de las gradas* y lo decían con orgullo.
+Tenía cincuenta y nueve años. El pelo negro, con canas, recogido todavía con un trozo de cabo. Las manos, todavía, llenas de brea. Era la emperatriz que iba a ser y no lo parecía. No lo había parecido nunca. En la colina la llamaban la de Nix y no lo decían con cariño. En Nix la llamaban Maren la de las gradas y lo decían con orgullo.
 
 Calafateaba. Cantando. La misma canción de pescadores de hacía cuarenta años.
 
@@ -102,7 +102,7 @@ Liminus estuvo callado mucho rato.
 
 —¿Te lo ha dicho a ti?
 
-—Me lo dice todas las semanas. En la cena. *Tu padre está loco. Hace barcos que* *no existen en Nix con el dinero de un hombre que no se muere.* —Liminus sonrió. Tenía la sonrisa de su abuela, la que no conoció—. Luego se ríe. Y se pone a mirar por la ventana. Hacia el puerto.
+—Me lo dice todas las semanas. En la cena. Tu padre está loco. Hace barcos que no existen en Nix con el dinero de un hombre que no se muere. —Liminus sonrió. Tenía la sonrisa de su abuela, la que no conoció—. Luego se ríe. Y se pone a mirar por la ventana. Hacia el puerto.
 
 ---
 
@@ -138,13 +138,13 @@ Se quedó así mucho rato. Apoyado en el bastón. Mirando las dos costillas de b
 
 —¿Lo sabías? —dijo Lindos.
 
-—Desde el 672. —El Emperador no apartó la mano de la quilla—. El gobernador de Nix me mandó una carta. *El príncipe ha comprado unas gradas con el nombre de un* *muerto.* Le contesté que si alguien preguntaba, las gradas eran de un muerto.
+—Desde el 672. —El Emperador no apartó la mano de la quilla—. El gobernador de Nix me mandó una carta. El príncipe ha comprado unas gradas con el nombre de un muerto. Le contesté que si alguien preguntaba, las gradas eran de un muerto.
 
 —¿Por qué no me dijiste nada?
 
 El Emperador se volvió. Por fin. Lo miró. Con los ojos de su madre, Aeloen, que eran verdes, y con los de su padre, Lindiel, que eran tristes.
 
-—Porque yo me di la vuelta —dijo—. Toda mi vida. En Arghâl no; pero toda la demás. Me quedé en la colina. Cuidándola. Oyendo la roca. Doscientos noventa años en una colina. —Se apoyó en el bastón—. Y tu madre se daba la vuelta. Y su madre no, y se murió. —Sonrió—. Y yo pensé que si te lo decía, si te decía *ya lo sé*, tendría que decirte también *no vayas*. O *ve*. Y no sabía cuál.
+—Porque yo me di la vuelta —dijo—. Toda mi vida. En Arghâl no; pero toda la demás. Me quedé en la colina. Cuidándola. Oyendo la roca. Doscientos noventa años en una colina. —Se apoyó en el bastón—. Y tu madre se daba la vuelta. Y su madre no, y se murió. —Sonrió—. Y yo pensé que si te lo decía, si te decía ya lo sé, tendría que decirte también no vayas. O ve. Y no sabía cuál.
 
 —¿Y ahora?
 
@@ -154,7 +154,7 @@ El Emperador se volvió. Por fin. Lo miró. Con los ojos de su madre, Aeloen, qu
 
 Se quitó el arpa de la espalda.
 
-Le costó. Lanther le ayudó con las correas. Era un arpa vieja, oscura, de madera de los árboles que esperan, con las clavijas de plata gris, sin cuerdas. Con un nombre grabado en la base. *Elen.*
+Le costó. Lanther le ayudó con las correas. Era un arpa vieja, oscura, de madera de los árboles que esperan, con las clavijas de plata gris, sin cuerdas. Con un nombre grabado en la base. Elen.
 
 Se la tendió a Lindos.
 
@@ -162,7 +162,7 @@ Se la tendió a Lindos.
 
 Lindos no la cogió. No se atrevía.
 
-—La he llevado ochenta y tres años a la espalda —dijo el Emperador—. Sin cuerdas. Tocando el aire. Para acordarme de que hubo uno que no pudo mirar arriba. —Se la puso en las manos. A la fuerza—. Llévatela al este. Ponle cuerdas allí. Con lo que encuentres. Y toca algo que no haya oído nadie. —Le cerró los dedos alrededor del marco —. Eso es *ve*.
+—La he llevado ochenta y tres años a la espalda —dijo el Emperador—. Sin cuerdas. Tocando el aire. Para acordarme de que hubo uno que no pudo mirar arriba. —Se la puso en las manos. A la fuerza—. Llévatela al este. Ponle cuerdas allí. Con lo que encuentres. Y toca algo que no haya oído nadie. —Le cerró los dedos alrededor del marco —. Eso es ve.
 
 ---
 
@@ -224,7 +224,7 @@ Lanther bebió.
 
 —¿Cómo lo sabes?
 
-—Porque se lo pedí yo. —Maren se arrebujó en la manta—. Hace dos meses. Le escribí. A Arthal. Al Emperador. Una carta de una calafatera de cincuenta y nueve años a un Emperador de doscientos noventa. *Majestad: su hijo va a hacer una locura y yo no voy* *a ir con él. Mándele a alguien que no se muera.* —Se rio. Con la boca torcida—. No me contestó. Pero ha venido.
+—Porque se lo pedí yo. —Maren se arrebujó en la manta—. Hace dos meses. Le escribí. A Arthal. Al Emperador. Una carta de una calafatera de cincuenta y nueve años a un Emperador de doscientos noventa. Majestad: su hijo va a hacer una locura y yo no voy a ir con él. Mándele a alguien que no se muera. —Se rio. Con la boca torcida—. No me contestó. Pero ha venido.
 
 Lanther la miró.
 
@@ -294,10 +294,10 @@ Lanther se quedó hasta que salió el sol entero.
 
 En el libro de cuentas, en la página del 690, hay dos líneas.
 
-En el debe: *Silencio de Nix. Dieciocho años. Pagado.*
+*En el debe: Silencio de Nix. Dieciocho años. Pagado.*
 
 En el haber, con la letra de Sein, más pequeña:
 
-*Ha venido el Emperador a ver los barcos que no existen. Ha dicho que son más* *grandes que los de Concordia. Le ha dado al príncipe un arpa sin cuerdas.*
+*Ha venido el Emperador a ver los barcos que no existen. Ha dicho que son más grandes que los de Concordia. Le ha dado al príncipe un arpa sin cuerdas.*
 
 *Ya existen.*

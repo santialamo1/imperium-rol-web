@@ -10,7 +10,7 @@ Pero estas voces eran distintas.
 
 No llamaban a nadie. Le hablaban a él. Directamente. Por su nombre. Por su nombre secreto, el que su madre le había susurrado al nacer, siguiendo la costumbre de la familia, la que venía de la tatarabuela que no era de Gijor.
 
-*Meridio*, decían. *Meridio. ¿Me oyes?*
+Meridio, decían. Meridio. ¿Me oyes?
 
 ---
 
@@ -36,19 +36,19 @@ Orvane dudó.
 
 Meridio se quedó callado.
 
-*Díselo*, susurró una voz. *Díselo, Meridio. Dile que no hablas solo. Que hablas* *conmigo.*
+*Díselo, susurró una voz. Díselo, Meridio. Dile que no hablas solo. Que hablas conmigo.*
 
 —Gracias, Orvane —dijo—. Puedes retirarte.
 
 El canciller hizo una reverencia y salió. Meridio se quedó mirando la puerta durante un largo rato.
 
-*Es leal*, dijo la voz. *Mucho. Pero no a ti.*
+Es leal, dijo la voz. Mucho. Pero no a ti.
 
 —¿A quién, entonces? —preguntó Meridio, en voz alta. Luego se mordió la lengua.
 
 La voz se rió. Era una risa suave, triste, casi amable.
 
-*A una mujer que murió hace doscientos sesenta años. Pregúntale por su abuela,* *Meridio. Por la abuela de su abuela. Por la que fue nodriza de un niño rubio en el valle de* *Leogrand.*
+*A una mujer que murió hace doscientos sesenta años. Pregúntale por su abuela, Meridio. Por la abuela de su abuela. Por la que fue nodriza de un niño rubio en el valle de Leogrand.*
 
 ---
 
@@ -66,7 +66,7 @@ Pequeñas, al principio. Que destituyera a un general. Que trasladara una guarni
 
 Luego las peticiones cambiaron.
 
-*Retira la Tercera Legión de la fortaleza de Kel-Dun*, le dijo una noche. *No la* *necesitan. Los muertos no atacarán por ahí.*
+Retira la Tercera Legión de la fortaleza de Kel-Dun, le dijo una noche. No la necesitan. Los muertos no atacarán por ahí.
 
 —¿Cómo lo sabes?
 
@@ -84,19 +84,19 @@ Fue entonces cuando comprendió de quién era.
 
 Era de madrugada. Estaba solo en su alcoba, sentado en el suelo, con la espalda contra la pared y las rodillas contra el pecho, como un niño. Llevaba cuatro días sin dormir. Tenía las uñas grises hasta la mitad.
 
-*Ya lo sabes*, dijo la voz.
+Ya lo sabes, dijo la voz.
 
 —Quiero oírtelo decir.
 
 Un silencio. Luego:
 
-*Soy el hermano de tu tatarabuela. El que la buscó en las cenizas. El que mató a su* *hijo sin saber quién era. Soy tu tío, Meridio. Tu tío muy lejano. Y te hablo porque tú me* *oyes. Porque tu sangre es mi sangre. Porque llevas dentro, sin saberlo, un trozo del* *desierto.*
+*Soy el hermano de tu tatarabuela. El que la buscó en las cenizas. El que mató a su hijo sin saber quién era. Soy tu tío, Meridio. Tu tío muy lejano. Y te hablo porque tú me oyes. Porque tu sangre es mi sangre. Porque llevas dentro, sin saberlo, un trozo del desierto.*
 
 Meridio cerró los ojos.
 
 —¿Por qué yo? Mi padre también te oía. Mi abuelo. ¿Por qué no les hablaste a ellos?
 
-*Les hablé. No me escucharon. Eran fuertes.* Una pausa. *Tú no lo eres, Meridio. Lo* *siento. No es un insulto. Es un hecho. Tienes el oído más fino que ha tenido nunca un* *Bhargaras, más fino que el de Henricus. Y un corazón más blando. Por eso puedo entrar.*
+*Les hablé. No me escucharon. Eran fuertes. Una pausa. Tú no lo eres, Meridio. Lo siento. No es un insulto. Es un hecho. Tienes el oído más fino que ha tenido nunca un Bhargaras, más fino que el de Henricus. Y un corazón más blando. Por eso puedo entrar.*
 
 —Sal de mi cabeza.
 
@@ -104,11 +104,11 @@ Meridio cerró los ojos.
 
 —¿Qué quieres?
 
-*Lo mismo de siempre. Que me devuelvan lo que me quitaron.* La voz se volvió más suave. *Y tú me vas a ayudar. No porque quieras. Porque no podrás evitarlo. Cada día que* *pase, me oirás más fuerte. Cada día, te costará más distinguir mis ideas de las tuyas. Y un* *día, Meridio, un día no muy lejano, abrirás las puertas de Concordia y me dejarás entrar,* *y creerás que fue idea tuya.*
+*Lo mismo de siempre. Que me devuelvan lo que me quitaron. La voz se volvió más suave. Y tú me vas a ayudar. No porque quieras. Porque no podrás evitarlo. Cada día que pase, me oirás más fuerte. Cada día, te costará más distinguir mis ideas de las tuyas. Y un día, Meridio, un día no muy lejano, abrirás las puertas de Concordia y me dejarás entrar, y creerás que fue idea tuya.*
 
 Meridio se echó a llorar.
 
-*No llores*, dijo la voz, y sonaba casi triste. *No es culpa tuya. Nunca es culpa de* *nadie. Ya te lo dije. Nadie quiere nunca lo que hace.*
+No llores, dijo la voz, y sonaba casi triste. No es culpa tuya. Nunca es culpa de nadie. Ya te lo dije. Nadie quiere nunca lo que hace.
 
 ---
 
@@ -132,7 +132,7 @@ Era como si hubiera dos Meridios. Uno que obedecía a algo. Y otro que, con las 
 
 —Sé que me estás escuchando —le dijo Meridio a la voz, en el invierno del año trescientos cincuenta y cuatro—. Siempre me estás escuchando.
 
-*Siempre*, dijo la voz.
+Siempre, dijo la voz.
 
 —Entonces escucha esto. —Meridio estaba de pie junto a la ventana de su alcoba, mirando hacia el noreste. Tenía cincuenta y nueve años y aparentaba ochenta. El pelo blanco. Las uñas grises hasta la raíz. Los ojos hundidos—. Llevo cinco años luchando contigo. Cinco años. Cada noche. Tú me dices que haga algo, y yo lo hago, porque no puedo evitarlo. Y luego, cuando te duermes, o cuando te distraes con tu ejército, o cuando hablas con tu cosa del pozo, yo intento deshacerlo. No siempre puedo. Casi nunca. Pero a veces.
 
@@ -146,7 +146,7 @@ La voz no contestó.
 
 Cogió la copa.
 
-*Meridio*, dijo la voz, y por primera vez en cinco años había algo en ella que no era suavidad, ni tristeza, ni burla. Había alarma. *Meridio, ¿qué es eso?*
+Meridio, dijo la voz, y por primera vez en cinco años había algo en ella que no era suavidad, ni tristeza, ni burla. Había alarma. Meridio, ¿qué es eso?
 
 —Cicuta —dijo Meridio—. Y belladona. Y un poco de raíz de mandrágora de los bosques de Tiber. La preparó mi hermana. Es muy buena herborista. Como una tal Octavia Heredicus, según dicen.
 
@@ -162,7 +162,7 @@ Meridio sintió el tirón como un anzuelo en el pecho. Sintió su aliento estir�
 
 Y luego, con las últimas fuerzas que le quedaban, con las fuerzas de cinco años de noches en vela luchando contra algo que no podía vencer, Meridio Bhargaras se llevó la copa a los labios y bebió.
 
-*No*, dijo la voz. Y luego, muy bajo, casi con respeto: *No.*
+No, dijo la voz. Y luego, muy bajo, casi con respeto: No.
 
 El hilo blanco volvió a su boca. El tirón se aflojó. Porque Meridio ya no tenía aliento para tirar. El veneno era rápido. Su hermana era muy buena herborista.
 

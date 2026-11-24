@@ -1,6 +1,6 @@
 # De las Crónicas de Banderbill, Libro Tercero (I)
 
-*Escrito por Ilse Vell, cronista de la biblioteca, en la primavera del año 505 de la* *Nueva Era. Con una nota al pie en otra letra.*
+*Escrito por Ilse Vell, cronista de la biblioteca, en la primavera del año 505 de la Nueva Era. Con una nota al pie en otra letra.*
 
 Me llamo Ilse. Llevo el apellido Vell desde el invierno del 458, cuando Aren Vell se murió en la silla del fondo de la biblioteca con la pluma en la mano y el cuaderno abierto por una página en la que solo había escrito la fecha. Yo tenía diecinueve años y era la que barría. El hombre de la mesa de al lado, el de las gafas, se levantó, cerró el cuaderno de Aren, me lo dio y me dijo:
 
@@ -10,7 +10,7 @@ Le pregunté qué quería decir. Me dijo que una crónica es eso: barrer. Que se
 
 Llevo cuarenta y siete años barriendo y todavía no lo sé.
 
-Me ha pedido que escriba esta. La primera del Libro Tercero. Dice que los libros se empiezan cuando alguien se va, y que este invierno se ha ido alguien, en el valle negro, y que no me puede decir quién, pero que lo ponga igual. Lo pongo. *Este invierno se ha ido* *alguien.*
+Me ha pedido que escriba esta. La primera del Libro Tercero. Dice que los libros se empiezan cuando alguien se va, y que este invierno se ha ido alguien, en el valle negro, y que no me puede decir quién, pero que lo ponga igual. Lo pongo. Este invierno se ha ido alguien.
 
 Lo demás lo escribo yo.
 
@@ -78,7 +78,7 @@ Esta vez ha llegado del norte con una mujer enorme que asa castañas en la puert
 
 La pelirroja ha subido a la muralla. Ha estado allí toda la tarde, mirando al sur. Luego ha bajado y le ha dicho al hombre de las gafas una palabra que no he entendido.
 
-La palabra era *dos*.
+La palabra era dos.
 
 Él la ha apuntado en su libro. En la columna de la izquierda.
 
@@ -90,11 +90,9 @@ Que conste.
 
 ---
 
-— —
-
 *Al pie, en otra letra, pequeña, de niño:*
 
-*Lo del hierro rojo no es basura. Lo del trigo tampoco. Lo de la reina Hedda, menos* *todavía. La muchacha barre bien. No se lo digo porque se lo creería, y una cronista que se* *lo cree deja de barrer.*
+*Lo del hierro rojo no es basura. Lo del trigo tampoco. Lo de la reina Hedda, menos todavía. La muchacha barre bien. No se lo digo porque se lo creería, y una cronista que se lo cree deja de barrer.*
 
 *Las castañas eran mías. Se las ha robado. Que conste también.*
 

@@ -4,7 +4,7 @@
 
 No quemaba.
 
-Lo había sabido siempre, en realidad. Desde la casa de libros, desde la cuerda de nudos, desde la primera noche en el *Odo* con la tos en el pecho: que no quemaría. Una llama gris no quema. Una llama gris es una llama que se ha olvidado de lo que era.
+Lo había sabido siempre, en realidad. Desde la casa de libros, desde la cuerda de nudos, desde la primera noche en el Odo con la tos en el pecho: que no quemaría. Una llama gris no quema. Una llama gris es una llama que se ha olvidado de lo que era.
 
 Estaba fría. Como el agua de un manantial en enero. Le subió por los dedos, por la muñeca, por el antebrazo, y Livia notó que la mano se le iba. No que se le quemara: que se le iba. Que dejaba de ser suya y empezaba a ser de otra cosa. Como se va el pie cuando lo metes en un río muy frío y al rato ya no sabes dónde acaba el pie y dónde empieza el agua.
 
@@ -24,25 +24,25 @@ Lo del valle lo había notado una sola vez, una mañana, la del año veintinueve
 
 Esto era distinto. Esto estaba más dormido. Más hondo. Más viejo. Y no gritaba. Esto murmuraba. En sueños. Como murmuran los viejos que duermen solos.
 
-*Más deprisa*, murmuraba. *Está ahí. Al otro lado. La otra mitad. La noto. Más* *deprisa.*
+*Más deprisa, murmuraba. Está ahí. Al otro lado. La otra mitad. La noto. Más deprisa.*
 
 No hablaba a Livia. No sabía que estaba allí. Hablaba a alguien que tenía al lado, en la cúpula, sentado en el suelo con la espalda contra el cristal. A alguien a quien llevaba cuatrocientos años hablando en sueños.
 
 Y ese alguien ya no contestaba.
 
-Livia lo notó. Lo notó porque la cosa lo notaba. Un desconcierto. Un tirón al vacío. Como cuando tiras de una cuerda que llevas mucho tiempo tirando y de pronto no hay nadie al otro lado. *Más deprisa. Más deprisa. ¿Me oyes? Más…*
+Livia lo notó. Lo notó porque la cosa lo notaba. Un desconcierto. Un tirón al vacío. Como cuando tiras de una cuerda que llevas mucho tiempo tirando y de pronto no hay nadie al otro lado. Más deprisa. Más deprisa. ¿Me oyes? Más…
 
-*No te oye*, pensó Livia. *Ya no tiene con qué.*
+No te oye, pensó Livia. Ya no tiene con qué.
 
 ---
 
-Lucius estaba allí. Arriba, en la llama, y abajo, en la Sal Negra, a la vez. Era lo que unía las dos cosas. Livia lo entendió de golpe, como se entienden las cosas en los sueños: Lucius era el clavo. No la torre. La torre era piedra. El clavo era él. Su juramento. Su miedo. *Tres de tu sangre darás a la guerra.* Había jurado sobre la piedra negra y la piedra había bebido su sangre, y él había subido a morirse debajo de la llama, y la llama lo había cogido, y desde entonces sujetaba.
+Lucius estaba allí. Arriba, en la llama, y abajo, en la Sal Negra, a la vez. Era lo que unía las dos cosas. Livia lo entendió de golpe, como se entienden las cosas en los sueños: Lucius era el clavo. No la torre. La torre era piedra. El clavo era él. Su juramento. Su miedo. Tres de tu sangre darás a la guerra. Había jurado sobre la piedra negra y la piedra había bebido su sangre, y él había subido a morirse debajo de la llama, y la llama lo había cogido, y desde entonces sujetaba.
 
 Cuatrocientos años sujetando.
 
 Con la mano en alto. Como quien hace un juramento.
 
-*No la saques*, le dijo. Otra vez. Sin voz. Ahora más cerca. Livia lo notaba como se nota a alguien que te agarra la muñeca en la oscuridad. *No la saques. Si la sacas, se* *despierta. Si se despierta, se juntan. Si se juntan…*
+No la saques, le dijo. Otra vez. Sin voz. Ahora más cerca. Livia lo notaba como se nota a alguien que te agarra la muñeca en la oscuridad. No la saques. Si la sacas, se despierta. Si se despierta, se juntan. Si se juntan…
 
 —No la voy a sacar —dijo Livia. En voz alta. Con la boca. Arriba, en la cúpula. Lo oyó salir de sí misma desde muy lejos, como se oye la propia voz debajo del agua.
 
@@ -56,9 +56,9 @@ Lo supo.
 
 Tobías decía que todo lo importante lo había aprendido de niños.
 
-Lo decía en la escuela, a los de la colina, cuando se ponían tontos. *Todo lo* *importante lo sabéis ya. Lo aprendisteis antes de saber que lo aprendíais. Lo que hago yo* *aquí es solo recordároslo.*
+Lo decía en la escuela, a los de la colina, cuando se ponían tontos. Todo lo importante lo sabéis ya. Lo aprendisteis antes de saber que lo aprendíais. Lo que hago yo aquí es solo recordároslo.
 
-Livia había aprendido una canción de niña. En la proa de la *Tozuda*, con nueve años, con las rodillas contra el pecho. Se la cantaba por las noches una mujer de Puerto Salobre que había perdido a sus hijos en la plaza y que cantaba para dormir a los hijos de los demás. Y luego, en la colina, se la habían cantado a todos los niños. Y luego Livia la había encontrado escrita en la hoja doce de un pergamino viejo, en la letra de las Madres, con un verso de más.
+Livia había aprendido una canción de niña. En la proa de la Tozuda, con nueve años, con las rodillas contra el pecho. Se la cantaba por las noches una mujer de Puerto Salobre que había perdido a sus hijos en la plaza y que cantaba para dormir a los hijos de los demás. Y luego, en la colina, se la habían cantado a todos los niños. Y luego Livia la había encontrado escrita en la hoja doce de un pergamino viejo, en la letra de las Madres, con un verso de más.
 
 La cantó.
 
@@ -108,7 +108,7 @@ Livia lo vio. Arriba, en la llama. La figura de hombre alto, de pelo blanco, con
 
 La miró.
 
-*Ya no hace falta*, pensó Livia. Para él. *Ya no hace falta que sujetes. Lo tengo yo. Un* *rato.*
+Ya no hace falta, pensó Livia. Para él. Ya no hace falta que sujetes. Lo tengo yo. Un rato.
 
 Lucius no dijo nada.
 
@@ -152,7 +152,7 @@ No lo había oído llorar nunca. En treinta y un años. Los elfos no lloraban co
 
 La palabra para los muertos.
 
-*Ah*, pensó Livia. *Ya.*
+Ah, pensó Livia. Ya.
 
 No tenía miedo. Le sorprendió. Había tenido miedo toda la vida. De la niebla, con nueve años. Del mar. De la Noche del Dolor. De la de sal que le levantó el velo. De Loth en el valle. Del libro de Corvo. De lo que sabía y no escribía. De lo que escribía y no debía. De ser vieja. De morirse.
 
@@ -160,7 +160,7 @@ Ahora no.
 
 Ahora estaba sentada al lado de algo que dormía, con la mano encima, en el fondo de todo. Y arriba lloraba un elfo que la quería. Y la niebla se había abierto. Y hacía calor.
 
-*Escríbelo todo*, le había dicho Tobías. *Y luego decide qué guardar. Por amor, no* *por miedo.*
+Escríbelo todo, le había dicho Tobías. Y luego decide qué guardar. Por amor, no por miedo.
 
 —Esto lo guardo —dijo. En voz alta. Arriba. Con lo último que le quedaba de voz —. Por amor.
 
@@ -174,7 +174,7 @@ Sentada en el suelo de piedra, delante de la llama blanca, con las piernas dobla
 
 Muerta.
 
-Con los ojos cerrados y una cara que Lanther no le había visto nunca. Ni en la casa de libros, ni en el valle, ni en el muro, ni en la proa del *Odo*. La cara de una niña de nueve años en la proa de un barco, mirando el mar, cuando por fin, al amanecer del día cuarenta y uno, ve tierra.
+Con los ojos cerrados y una cara que Lanther no le había visto nunca. Ni en la casa de libros, ni en el valle, ni en el muro, ni en la proa del Odo. La cara de una niña de nueve años en la proa de un barco, mirando el mar, cuando por fin, al amanecer del día cuarenta y uno, ve tierra.
 
 No le sacaron la mano.
 
@@ -196,7 +196,7 @@ No de golpe. Por los bordes. La punta de los dedos. Sal fina, blanca, que se des
 
 —Sí.
 
-—Me seca. —Se rió. Ronco—. Mi madre me lo decía. *No mires al ojo, Loth, que te* *seca.* Tenía razón. —Levantó la cara hacia el agujero de la niebla. Hacia el sol—. Tenía razón y daba igual.
+—Me seca. —Se rió. Ronco—. Mi madre me lo decía. No mires al ojo, Loth, que te seca. Tenía razón. —Levantó la cara hacia el agujero de la niebla. Hacia el sol—. Tenía razón y daba igual.
 
 Se metió la mano en la túnica.
 
@@ -280,7 +280,7 @@ Lanther abrió la mano. La jarra latía en ella.
 
 Sein lo apuntó.
 
-En la columna de *Lo que no sabemos*.
+En la columna de Lo que no sabemos.
 
 ---
 
@@ -294,7 +294,7 @@ Enterraron a Livia en la cripta, en Concordia, en un nicho vacío al lado del de
 
 Le sacaron la mano de la llama al tercer día. Salió entera. Sin quemar. Más blanca que el resto, quizá. Con los dedos un poco abiertos, como quien deja algo encima de algo.
 
-Verawel le grabó el nombre en la piedra. Con el cuchillo curvo del elfo, que Lanther le prestó. *Livia Heredicus.* Y debajo, con las letras de las Madres, una palabra.
+Verawel le grabó el nombre en la piedra. Con el cuchillo curvo del elfo, que Lanther le prestó. Livia Heredicus. Y debajo, con las letras de las Madres, una palabra.
 
 Sin punto.
 

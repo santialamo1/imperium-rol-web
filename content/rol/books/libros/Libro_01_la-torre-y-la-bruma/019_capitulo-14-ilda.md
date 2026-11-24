@@ -54,7 +54,7 @@ La señora se puso muy pálida.
 
 —¿Por qué Bodo?
 
-—Porque tiene cara de Bodo. —Aurel se rió—. Como el herrero de la canción. El de la vaca. ¿No la sabe? La cantan los arrieros que vienen de Concordia. *Bodo quería una* *vaca, una vaca para su mujer...*
+—Porque tiene cara de Bodo. —Aurel se rió—. Como el herrero de la canción. El de la vaca. ¿No la sabe? La cantan los arrieros que vienen de Concordia. Bodo quería una vaca, una vaca para su mujer...
 
 La señora se dio la vuelta. Fue hasta el hombre de la capa gris, junto a la cerca, y se quedó allí, de espaldas, mucho rato. Ilda no vio su cara. Pero vio cómo le temblaban los hombros.
 

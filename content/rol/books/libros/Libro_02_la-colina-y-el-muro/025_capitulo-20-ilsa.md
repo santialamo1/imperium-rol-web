@@ -6,7 +6,7 @@ Ilsa tenía doce años y había oído a las montañas desde que tenía memoria, 
 
 Decían cosas. No palabras. Las montañas no hablaban como hablan los muertos, que hablan como hablaban en vida, con sus quejas y sus nombres y sus manías. Las montañas cantaban. Muy bajo, muy despacio, una canción tan larga que Ilsa, en doce años, no había conseguido oírla entera ni una vez. Una frase podía durar un invierno. Una nota, una semana. Y debajo de la canción, como el tambor debajo de una danza, el latido.
 
-Su madre le había dicho que eran imaginaciones. Su madre era de Ulvarholm y hablaba con los ahogados en la orilla como hacían todas las mujeres de Ulvarholm, pero decía que eso era distinto, que eso era de familia y lo de las montañas eran imaginaciones. Su padre no decía nada; era de Gijor y no oía nada y le daba miedo todo lo que oía su mujer. Orla sí la había escuchado. Orla la había sentado en un taburete de la escuela a los ocho años y le había preguntado: *¿Y qué dicen?* Y ella le había dicho que no lo sabía, que era una canción, que era muy larga. Y Orla le había dicho: *Pues escúchala hasta el final,* *aunque tardes toda la vida. Alguien tiene que hacerlo.*
+Su madre le había dicho que eran imaginaciones. Su madre era de Ulvarholm y hablaba con los ahogados en la orilla como hacían todas las mujeres de Ulvarholm, pero decía que eso era distinto, que eso era de familia y lo de las montañas eran imaginaciones. Su padre no decía nada; era de Gijor y no oía nada y le daba miedo todo lo que oía su mujer. Orla sí la había escuchado. Orla la había sentado en un taburete de la escuela a los ocho años y le había preguntado: ¿Y qué dicen? Y ella le había dicho que no lo sabía, que era una canción, que era muy larga. Y Orla le había dicho: Pues escúchala hasta el final, aunque tardes toda la vida. Alguien tiene que hacerlo.
 
 Orla estaba muerta. Y no se había ido.
 
@@ -26,7 +26,7 @@ Ilsa los había contado. Torvald, el primero. Luego Arn y Bjorn, el padre y el t
 
 Y Pim ya no tenía pómulo izquierdo.
 
-Se le había caído la piel de toda la mejilla. Debajo, el hueso, blanco, al aire, y alrededor del hueso una carne gris, seca, como cuero viejo. Se lo tapaba con un trapo. No servía. Los niños más pequeños no querían mirarlo. Bram sí; Bram le seguía a todas partes, como un perro, y le llamaba *tío Pim* y le traía los mejores trozos de arenque.
+Se le había caído la piel de toda la mejilla. Debajo, el hueso, blanco, al aire, y alrededor del hueso una carne gris, seca, como cuero viejo. Se lo tapaba con un trapo. No servía. Los niños más pequeños no querían mirarlo. Bram sí; Bram le seguía a todas partes, como un perro, y le llamaba tío Pim y le traía los mejores trozos de arenque.
 
 Y el hombre de pelo blanco enseñaba a otros.
 
@@ -52,7 +52,7 @@ Pim la miró. Con el ojo derecho, el que todavía tenía bien. Y en su cara, por
 
 —¿Por qué no? —preguntó él, muy bajo.
 
-Ilsa se lo pensó. Pensó en lo que le había dicho Orla. *Escúchala hasta el final,* *aunque tardes toda la vida.*
+Ilsa se lo pensó. Pensó en lo que le había dicho Orla. Escúchala hasta el final, aunque tardes toda la vida.
 
 —Porque si aprendo a tirar —dijo—, ya no podré oír la canción. Se oye cuando te callas. Cuando no quieres nada. Y si aprendes a coger, ya siempre quieres algo.
 
@@ -72,7 +72,7 @@ No la llevaban. No se podía llevar. Pero Ilsa, antes de irse, subió al acantil
 
 Le cantó.
 
-La canción de cuna. La de la arena. La que se cantaba en la colina a todos los niños, la que Bander les cantaba a los suyos, la que había venido del desierto con una niña que se llamaba Nadi. *Duerme, arena, duerme ya, la bruma viene y se va; quien te nombra te* *tendrá, quien te ama volverá.*
+La canción de cuna. La de la arena. La que se cantaba en la colina a todos los niños, la que Bander les cantaba a los suyos, la que había venido del desierto con una niña que se llamaba Nadi. Duerme, arena, duerme ya, la bruma viene y se va; quien te nombra te tendrá, quien te ama volverá.
 
 Muy bajo. Sin hambre. Sin pedir nada.
 
@@ -162,7 +162,7 @@ Bajaron despacio. Por la ladera negra. Con Ewan en brazos. Con las tablillas de 
 
 Las de sal los vieron llegar.
 
-Se volvieron. Todas a la vez. Veintidós velos girando en el mismo instante. Y el canto —el canto de ellas, el de la salina que cruje, no el de la montaña— subió de tono. Se volvió tenso. Agudo. *No pases. No pases. No pases.*
+Se volvieron. Todas a la vez. Veintidós velos girando en el mismo instante. Y el canto —el canto de ellas, el de la salina que cruje, no el de la montaña— subió de tono. Se volvió tenso. Agudo. No pases. No pases. No pases.
 
 Ilsa siguió bajando.
 
@@ -174,7 +174,7 @@ Se detuvo.
 
 La de la cara rota dio un paso hacia ella.
 
-Ilsa la miró. No se tapó los ojos. No sabía por qué; sabía que tenía que hacerlo, se lo habían dicho en la colina mil veces, *si las ves, no las mires*. Pero la miró. Era muy alta. El manto de sal, cristalino. El velo, gris claro. Y debajo del velo, por los bordes, las trenzas, moviéndose despacio, como raíces.
+Ilsa la miró. No se tapó los ojos. No sabía por qué; sabía que tenía que hacerlo, se lo habían dicho en la colina mil veces, si las ves, no las mires. Pero la miró. Era muy alta. El manto de sal, cristalino. El velo, gris claro. Y debajo del velo, por los bordes, las trenzas, moviéndose despacio, como raíces.
 
 La de la cara rota levantó la mano hacia el velo.
 
@@ -208,7 +208,7 @@ La de la cara rota bajó la mano.
 
 Y luego, muy despacio, con aquel movimiento de pájaro, inclinó la cabeza hacia Ilsa.
 
-No le levantó el velo. No le cantó. No le dijo *no pases*. Se quedó así, con la cabeza inclinada, delante de ella, a veinte pasos, durante mucho rato.
+No le levantó el velo. No le cantó. No le dijo no pases. Se quedó así, con la cabeza inclinada, delante de ella, a veinte pasos, durante mucho rato.
 
 Como si la escuchara.
 
@@ -272,4 +272,4 @@ Lo apuntó todo en una tablilla de cera, con la punta del cuchillo, porque no te
 
 *Año 28. Primavera. El valle negro. Veinte. Nos quedamos. Que conste.*
 
-Lo de *que conste* lo había aprendido de oírselo decir a la gente de la colina. No sabía muy bien qué quería decir. Le pareció que quedaba bien.
+Lo de que conste lo había aprendido de oírselo decir a la gente de la colina. No sabía muy bien qué quería decir. Le pareció que quedaba bien.

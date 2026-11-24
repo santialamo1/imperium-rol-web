@@ -14,7 +14,7 @@ La raíz latía. Más rápido que antes. Desde el otoño latía más rápido; un
 
 Pero no oyó la raíz. Oyó al niño.
 
-Y luego a otro. En la calle del norte. Y luego a otro. Y luego a una mujer, que no lloraba, que gritaba, que decía *no hay*, *no hay*, *no hay*.
+Y luego a otro. En la calle del norte. Y luego a otro. Y luego a una mujer, que no lloraba, que gritaba, que decía no hay, no hay, no hay.
 
 Era la primera vez en ciento nueve años que alguien gritaba en Arghâl.
 
@@ -44,7 +44,7 @@ Una piedra roja. Del tamaño de un huevo de águila.
 
 Latía.
 
-Pim la conocía. La conocía desde el año 300. Desde la cueva de sal de las montañas rojas, donde la vio por primera vez encima de una mesa de sal, al lado de un hombre de gris que le ofreció un cuerpo. Era lo que había en la cueva. Lo que los orcos llamaban *el* *corazón*. Lo que un rey que se reía, Andriath, había dejado en el Fuerte Novel el año 133 sin saberlo, mezclado con dos sangres, en una piedra del valle con veta blanca.
+Pim la conocía. La conocía desde el año 300. Desde la cueva de sal de las montañas rojas, donde la vio por primera vez encima de una mesa de sal, al lado de un hombre de gris que le ofreció un cuerpo. Era lo que había en la cueva. Lo que los orcos llamaban el corazón. Lo que un rey que se reía, Andriath, había dejado en el Fuerte Novel el año 133 sin saberlo, mezclado con dos sangres, en una piedra del valle con veta blanca.
 
 El maestro la había traído de la cueva en el 359. Pim no supo nunca cómo. Había desaparecido de la mesa de sal de un día para otro, y la reina, que llegó a la cueva un año después siguiendo un olor que no olía a nada, solo encontró la marca.
 
@@ -134,11 +134,11 @@ Pim supo dónde estaba Drak.
 
 Pim no contestó.
 
-—*Que vengan. Que se rompan contra la boca. Que se queden aquí un año.* —Ithil cerró los ojos blancos—. Que se olviden de lo que tienen debajo de los pies. Lo dijo él. En mi cuarto. Hace seis años.
+—Que vengan. Que se rompan contra la boca. Que se queden aquí un año. —Ithil cerró los ojos blancos—. Que se olviden de lo que tienen debajo de los pies. Lo dijo él. En mi cuarto. Hace seis años.
 
 —Lo sé.
 
-—Nos ha dejado aquí. A todos. Para que miren la boca. —Ithil abrió los ojos—. No le importa que nos muramos de hambre. No le importa que se despierten. No le importa si toman la ciudad. Es una boca. Hay más. *Está plantando otra en el mar del norte.*
+—Nos ha dejado aquí. A todos. Para que miren la boca. —Ithil abrió los ojos—. No le importa que nos muramos de hambre. No le importa que se despierten. No le importa si toman la ciudad. Es una boca. Hay más. Está plantando otra en el mar del norte.
 
 —Lo sé, Ithil.
 
@@ -146,13 +146,13 @@ Pim no contestó.
 
 Pim lo miró. Con los huecos de la sal.
 
-—Porque tú lo sabías —dijo—. Desde el 400. Desde la cueva. Te lo dijo él. *De* *nada que te haga falta.* —Pim se tocó el pecho—. A mí también me lo dijo. Hace trescientos años. Los dos sabíamos qué era lo que no nos hacía falta. Y dijimos que sí.
+—Porque tú lo sabías —dijo—. Desde el 400. Desde la cueva. Te lo dijo él. De nada que te haga falta. —Pim se tocó el pecho—. A mí también me lo dijo. Hace trescientos años. Los dos sabíamos qué era lo que no nos hacía falta. Y dijimos que sí.
 
 ---
 
 El maestro vino el día doscientos sesenta.
 
-Con el silencio. Como siempre. Pim estaba en la cueva, con la mano en la raíz, contando martes, y de pronto dejó de oír al niño de la calle del este, que seguía llorando, y a la mujer que gritaba *no hay*, y a los orcos que se balanceaban. Dejó de oír todo.
+Con el silencio. Como siempre. Pim estaba en la cueva, con la mano en la raíz, contando martes, y de pronto dejó de oír al niño de la calle del este, que seguía llorando, y a la mujer que gritaba no hay, y a los orcos que se balanceaban. Dejó de oír todo.
 
 El maestro estaba sentado a su lado. En el suelo. Con las piernas cruzadas.
 
@@ -220,7 +220,7 @@ Latía. Rápido. Muy rápido. Caliente.
 
 Y por primera vez desde el año 300, Pim oyó lo que había dentro.
 
-No era una voz. Eran dos. Mezcladas. La del maestro, suave, de recaudador, que decía *qué quieres*, *qué quieres*, *qué quieres*, una vez y otra, como una cantinela. Y por debajo, muy hondo, otra. Que no decía nada. Que solo hacía un ruido. Un ruido enorme, sordo, lento, como el de una montaña dándose la vuelta.
+No era una voz. Eran dos. Mezcladas. La del maestro, suave, de recaudador, que decía qué quieres, qué quieres, qué quieres, una vez y otra, como una cantinela. Y por debajo, muy hondo, otra. Que no decía nada. Que solo hacía un ruido. Un ruido enorme, sordo, lento, como el de una montaña dándose la vuelta.
 
 Hambre.
 
@@ -256,7 +256,7 @@ Ithil no dijo nada.
 
 Ithil se puso rígido.
 
-—No —dijo—. Él dijo que no. A ti. Que no le hablaras. Que no le cantaras. Que no le dijeras *te oigo*. Que era lo único que no...
+—No —dijo—. Él dijo que no. A ti. Que no le hablaras. Que no le cantaras. Que no le dijeras te oigo. Que era lo único que no...
 
 —Ya lo sé lo que dijo. —Pim miró el arpa sin cuerdas. La que Ithil se había llevado de la casa en llamas con una mano mientras con la otra arrastraba a su hermana—. No le voy a hablar yo.
 

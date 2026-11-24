@@ -1,6 +1,6 @@
 # De las Crónicas de Banderbill, Libro Tercero (II)
 
-*Escrito por Nerea Vell, cronista de la biblioteca, en el invierno del año 595 de la* *Nueva Era. Con una nota al pie en otra letra.*
+*Escrito por Nerea Vell, cronista de la biblioteca, en el invierno del año 595 de la Nueva Era. Con una nota al pie en otra letra.*
 
 Me llamo Nerea. Llevo el apellido desde el 588, cuando Matías Vell se murió a los ochenta y dos años, en su cama, no en la silla, que es como él decía que se morían los Vell que habían hecho bien su trabajo y los que lo habían hecho mal no se sabía, porque no había habido ninguno.
 
@@ -18,7 +18,7 @@ No ha cambiado nada porque en el mercado del puerto se sigue vendiendo hierro ro
 
 Ha cambiado todo porque ahora se sabe.
 
-No lo sabe todo el mundo. Lo sabe la muralla. La Armada. Los que suben a la tercera almena al atardecer. En la colina se ha empezado a decir, en voz baja, en las tabernas, *la aguja*, como antes se decía *el juglar*: sin explicar, porque todo el mundo sabe qué es. Los niños ya no juegan a mercaderes. Juegan a la aguja. Uno se pone de pie, quieto, con los brazos pegados al cuerpo, y los demás tienen que verlo sin mirarlo. El que lo mira directamente, pierde.
+No lo sabe todo el mundo. Lo sabe la muralla. La Armada. Los que suben a la tercera almena al atardecer. En la colina se ha empezado a decir, en voz baja, en las tabernas, la aguja, como antes se decía el juglar: sin explicar, porque todo el mundo sabe qué es. Los niños ya no juegan a mercaderes. Juegan a la aguja. Uno se pone de pie, quieto, con los brazos pegados al cuerpo, y los demás tienen que verlo sin mirarlo. El que lo mira directamente, pierde.
 
 No sé quién inventó el juego. Me da miedo.
 
@@ -42,7 +42,7 @@ Lo apunto porque es lo que más ha llamado la atención en la colina este año, 
 
 Los Hask son la familia de la Armada. Lo son desde Dalla, que enseñó a los primeros soldados a mirar hacia arriba y que se murió en el 417. Desde entonces ha habido un Hask en cada generación de capitanes. Ninguno ha cargado en una batalla de verdad. Todos miran arriba.
 
-El capitán general de la Armada es ahora Joss Hask. Cincuenta y seis años. El que volvió solo de las lomas en el 563 y dijo *lobos*. Todo el mundo en la colina conoce la historia. Todo el mundo sabe que sonríe siempre y que llora cada noche en la tercera almena. Hay quien dice que es un hombre roto. Hay quien dice que es el único que no lo está. Los soldados lo quieren como se quiere a un abuelo raro.
+El capitán general de la Armada es ahora Joss Hask. Cincuenta y seis años. El que volvió solo de las lomas en el 563 y dijo lobos. Todo el mundo en la colina conoce la historia. Todo el mundo sabe que sonríe siempre y que llora cada noche en la tercera almena. Hay quien dice que es un hombre roto. Hay quien dice que es el único que no lo está. Los soldados lo quieren como se quiere a un abuelo raro.
 
 Tiene una hija. Brena. Veintinueve años. Capitana de la Primera Compañía.
 
@@ -78,11 +78,9 @@ Que conste.
 
 ---
 
-— —
-
 *Al pie, en otra letra, pequeña, de niño:*
 
-*El juego de la aguja lo inventaron los niños de la calle de los Cubos, en el 588. Lo* *he apuntado. El primero que lo jugó era nieto de un tonelero que regaló su perro. Ganó* *tres veces seguidas. No miraba nunca.*
+*El juego de la aguja lo inventaron los niños de la calle de los Cubos, en el 588. Lo he apuntado. El primero que lo jugó era nieto de un tonelero que regaló su perro. Ganó tres veces seguidas. No miraba nunca.*
 
 *La muchacha tiene razón en tener miedo.*
 

@@ -44,7 +44,7 @@ Eran nombres eufesios. Los nombres de los clanes. Los repitió en voz baja, uno 
 
 Buscó a Nadi.
 
-La buscó durante horas. Hasta que se puso el sol y la plaza se llenó de antorchas y de borrachos que celebraban al nuevo emperador. Repitió su nombre mil veces, en voz baja, con las manos en las cenizas. *Nadi. Nadi. Nadi.*
+La buscó durante horas. Hasta que se puso el sol y la plaza se llenó de antorchas y de borrachos que celebraban al nuevo emperador. Repitió su nombre mil veces, en voz baja, con las manos en las cenizas. Nadi. Nadi. Nadi.
 
 Nada.
 
@@ -76,7 +76,7 @@ La voz se apagó.
 
 Loth se levantó. Le dolían las rodillas. Le dolía todo. Miró la torre, la llama blanca en la cúspide, que ardía tranquila sobre la ciudad en fiesta.
 
-Sintió otra vez el empujón. El rechazo. *Vete. Aquí no.*
+Sintió otra vez el empujón. El rechazo. Vete. Aquí no.
 
 —Me voy —le dijo a la torre, en voz alta, en la lengua de la arena—. Pero volveré.
 

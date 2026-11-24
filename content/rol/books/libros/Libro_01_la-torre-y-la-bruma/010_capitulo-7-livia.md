@@ -82,7 +82,7 @@ Pelagio no contestó. La papada temblaba.
 
 —Dijo... —El viejo tragó saliva—. Dijo que la Canciller no aceptaría nunca. Que sois demasiado leal a vuestro hermano. Que haría falta... que haría falta que no pudierais oponeros.
 
-Livia cerró los ojos. *Un hombre que se casa por encima de su sangre nunca deja de mirar hacia arriba.*
+*Livia cerró los ojos. Un hombre que se casa por encima de su sangre nunca deja de mirar hacia arriba.*
 
 —¿Y por qué me lo contáis, lord Pelagio? Podíais haber callado. Podíais haber dejado que pasara.
 

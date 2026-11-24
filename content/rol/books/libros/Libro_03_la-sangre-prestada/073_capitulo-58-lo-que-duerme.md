@@ -142,7 +142,7 @@ Lo sabe todo.
 
 Y me habla al oído. Y me dice, creo, sin palabras, bajo, tranquilo:
 
-*Lo vamos a recuperar. Juntos. Yo te lo traigo. Tú solo tienes que despertarte un* *poco. Un poco. Lo justo. Para que tiemble.*
+*Lo vamos a recuperar. Juntos. Yo te lo traigo. Tú solo tienes que despertarte un poco. Un poco. Lo justo. Para que tiemble.*
 
 Y me doy la vuelta, en el sueño, debajo del peso de sal.
 

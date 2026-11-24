@@ -2,19 +2,11 @@
 
 *Banderbill, Nix y el mar. Años 184 a 197 de la Nueva Era.*
 
-*De la Crónica de Ada Vell, primera de su nombre, año 189. El rey ha ido a ver*
-
-*el puerto de los gnomos. Ha vuelto mojado, con un caracol de coral en el*
-
-*bolsillo y la cara de su abuelo. Dice que ha tardado veinticuatro años en hacer*
-
-*uno de tres. Le he dicho que los otros dos también cuentan. Me ha dicho que ya*
-
-*lo sabe, que lo dice por quejarse.*
+*De la Crónica de Ada Vell, primera de su nombre, año 189. El rey ha ido a ver el puerto de los gnomos. Ha vuelto mojado, con un caracol de coral en el bolsillo y la cara de su abuelo. Dice que ha tardado veinticuatro años en hacer uno de tres. Le he dicho que los otros dos también cuentan. Me ha dicho que ya lo sabe, que lo dice por quejarse.*
 
 Tardó treinta años en terminarlos, los tres puertos que había prometido en el Consejo. Los tres.
 
-El de la colina lo llamaron Banderbill, como la ciudad, porque nadie se puso de acuerdo en otro nombre y porque, dijo un enano en el Consejo, *si le ponéis otro nombre os* *vais a liar*. Era enorme. Tres rompeolas. Cuarenta muelles. Una torre con un fuego arriba que los gnomos habían hecho con un cristal que brillaba solo y que se veía desde treinta millas de mar.
+El de la colina lo llamaron Banderbill, como la ciudad, porque nadie se puso de acuerdo en otro nombre y porque, dijo un enano en el Consejo, si le ponéis otro nombre os vais a liar. Era enorme. Tres rompeolas. Cuarenta muelles. Una torre con un fuego arriba que los gnomos habían hecho con un cristal que brillaba solo y que se veía desde treinta millas de mar.
 
 El de Nix lo hicieron en el río, a una legua de la ciudad. Pequeño. Para barcas. Y en tres años Nix creció hasta el río, y el río se llenó de casas, y Nix, que había sido un campamento de orcos de una clase extraña al lado de una puerta que no se abría, se convirtió en la segunda ciudad de las cuatro razas.
 
@@ -108,7 +100,7 @@ Lanther tardó mucho en contestar.
 
 —Tú eres de todas partes. Llevas ciento ochenta años mirando. —Bhargaras le cogió la mano. La tenía fría. La de ella—. Tú sabrás a quién le hace falta. Dentro de cien años. Dentro de doscientos. Cuando yo ya no esté. Cuando ni siquiera esté mi nieto.
 
-—Las reglas dicen que se da *a otro*. A uno. Con su nombre. Mirándolo.
+—Las reglas dicen que se da a otro. A uno. Con su nombre. Mirándolo.
 
 —Pues dámela a mí para que se la des tú. —Bhargaras sonrió—. O guárdala. O lo que sea que hacéis. Lo que sea que hace tu Orden. Esa que no existe.
 
@@ -122,7 +114,7 @@ Lanther lo miró.
 
 Se pudo. Más o menos.
 
-Lanther sacó del cinto el cuchillo de Mara, el que Bhargaras VIII le había devuelto en su lecho de muerte, *para que vuelva a quien empezó*. El de destripar pescado. Viejo, gastado, con el mango de hueso amarillento. Bhargaras se hizo un corte en el pulgar. Una gota. Roja.
+Lanther sacó del cinto el cuchillo de Mara, el que Bhargaras VIII le había devuelto en su lecho de muerte, para que vuelva a quien empezó. El de destripar pescado. Viejo, gastado, con el mango de hueso amarillento. Bhargaras se hizo un corte en el pulgar. Una gota. Roja.
 
 Y Lanther sacó de la bolsa una cosa que Bhargaras no había visto nunca. Un frasquito. De cristal. De los gnomos. Pequeño como un dedal. Vacío.
 
@@ -150,7 +142,7 @@ Tibbet organizó los fuegos.
 
 En la colina, en la biblioteca, en el rincón del fondo, un hombre de unos cuarenta años con gafas abrió el libro de cuentas por la última página, la del recuento, y escribió, debajo de la línea de Amael, que seguía sin nombre:
 
-*Bhargaras IX. Una vida. Sin dueño. En un frasco de cristal que lleva Lanther en la* *bolsa. Pendiente de nombre.*
+*Bhargaras IX. Una vida. Sin dueño. En un frasco de cristal que lleva Lanther en la bolsa. Pendiente de nombre.*
 
 Lo miró un rato.
 
@@ -158,6 +150,8 @@ Luego añadió:
 
 *Es el primero que se la da a la Orden. No a una persona. A la Orden.*
 
-*Me da miedo.* *No sé si eso es lo que somos.*
+*Me da miedo.*
+
+*No sé si eso es lo que somos.*
 
 Y no lo tachó.

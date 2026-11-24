@@ -1,6 +1,6 @@
 # Capítulo 19 · Migyur
 
-*La cueva de cristal del Sombrero, en Annkör, sobre el Pasaje Norte. Invierno del* *año 1090 de la Nueva Era (483 D.bA).*
+*La cueva de cristal del Sombrero, en Annkör, sobre el Pasaje Norte. Invierno del año 1090 de la Nueva Era (483 D.bA).*
 
 Frío.
 
@@ -32,7 +32,7 @@ El pequeño-alto le hablaba.
 
 No entendía las palabras. Entendía la voz. Era una voz baja, cansada, que subía cada mañana por la cueva y se sentaba en la piedra de la puerta, al lado de la rendija, y le contaba cosas. Muchas. Despacio.
 
-A veces la voz estaba contenta. A veces estaba triste. Una vez, hacía poco —poco para él; para el pequeño-alto, a lo mejor, mucho—, la voz había estado triste muchos días seguidos. Había dicho una palabra muchas veces. *Gal.* La había dicho como la decía la madre cuando llamaba a la cría. *Gal.* Como se llama a uno que no vuelve.
+A veces la voz estaba contenta. A veces estaba triste. Una vez, hacía poco —poco para él; para el pequeño-alto, a lo mejor, mucho—, la voz había estado triste muchos días seguidos. Había dicho una palabra muchas veces. Gal. La había dicho como la decía la madre cuando llamaba a la cría. Gal. Como se llama a uno que no vuelve.
 
 Él no sabía quién era Gal.
 
@@ -40,7 +40,7 @@ Pero se acordaba de uno. De uno que subió a la cueva hacía muchos inviernos, c
 
 Ese día él abrió un ojo.
 
-No lo quiso abrir. Se le abrió. Como se le abre un ojo a uno que duerme cuando oye a la madre. El disco brillante del de pelo de hierba seca hacía un ruido. *Tum.* Como hacía el pecho de la madre cuando él se echaba encima a dormir. Y él lo oyó, a través del hielo, a través de la piedra, a través del sueño, y abrió un ojo para ver de dónde venía.
+No lo quiso abrir. Se le abrió. Como se le abre un ojo a uno que duerme cuando oye a la madre. El disco brillante del de pelo de hierba seca hacía un ruido. Tum. Como hacía el pecho de la madre cuando él se echaba encima a dormir. Y él lo oyó, a través del hielo, a través de la piedra, a través del sueño, y abrió un ojo para ver de dónde venía.
 
 Vio al de pelo de hierba seca. Vio el disco, que se estaba volviendo negro. Vio al pequeño-alto, detrás, con la mano en la empuñadura de la cosa de hielo, muy quieto.
 
@@ -116,25 +116,25 @@ El otro estaba allí.
 
 No lo veía. No tenía forma. Pero estaba. Como está el viento antes de que se mueva la nieve.
 
-*¿Duermes?*, preguntó.
+¿Duermes?, preguntó.
 
 Él no contestó. No sabía contestar.
 
-*Duermes*, dijo el otro. *Bien. Duerme. Pero escucha.*
+Duermes, dijo el otro. Bien. Duerme. Pero escucha.
 
 Escuchó.
 
-*Hace veintitrés inviernos*, dijo el otro, *el último de su manada se murió. El de la* *corona. El que te despertó con el disco. Y no dejó a nadie. ¿Lo hueles?*
+*Hace veintitrés inviernos, dijo el otro, el último de su manada se murió. El de la corona. El que te despertó con el disco. Y no dejó a nadie. ¿Lo hueles?*
 
 Él no lo olía. Pero el otro hizo algo, en el sueño, y de pronto lo olió. Muy lejos. Muy al sur. Una colina. Muchas casas. Mucha gente. Y en la gente, una cosa nueva. Agria. Como huele la carne cuando se queda fuera muchos días. Como huele una manada cuando el macho viejo se ha muerto y los jóvenes empiezan a mirarse.
 
-*Eso*, dijo el otro. Contento. *Eso es lo que como. Se están empezando a mirar. Uno* *dice que tiene la sangre del muerto. Otro dice que no. Un tercero dice que da igual. Y* *entre los tres hay un hueco. Y el hueco se ensancha cada invierno. Un poco. Un dedo.*
+Eso, dijo el otro. Contento. Eso es lo que como. Se están empezando a mirar. Uno dice que tiene la sangre del muerto. Otro dice que no. Un tercero dice que da igual. Y entre los tres hay un hueco. Y el hueco se ensancha cada invierno. Un poco. Un dedo.
 
-*Todavía no*, dijo el otro. *Todavía no se parten. Pero se partirán. Y cuando se* *partan, tú abres el ojo.*
+*Todavía no, dijo el otro. Todavía no se parten. Pero se partirán. Y cuando se partan, tú abres el ojo.*
 
 Él no entendió.
 
-*No ahora*, dijo el otro. *No hace falta que lo entiendas ahora. Cuando lo oigas, lo* *sabrás. Se oye. Cuando una manada se parte en dos, se oye. Como el hielo del glaciar* *viejo cuando se raja. Y entonces abres el ojo. Y miras. Y lo que tienes en el pecho mira* *contigo. Y lo que duerme debajo de la sal* —y aquí la voz del otro cambió un poco; se hizo más baja; casi con cuidado— *lo oye. Y se mueve un poco. Solo un poco. Solo lo que yo* *necesito.*
+No ahora, dijo el otro. No hace falta que lo entiendas ahora. Cuando lo oigas, lo sabrás. Se oye. Cuando una manada se parte en dos, se oye. Como el hielo del glaciar viejo cuando se raja. Y entonces abres el ojo. Y miras. Y lo que tienes en el pecho mira contigo. Y lo que duerme debajo de la sal —y aquí la voz del otro cambió un poco; se hizo más baja; casi con cuidado— lo oye. Y se mueve un poco. Solo un poco. Solo lo que yo necesito.
 
 *¿Lo entiendes?*
 
@@ -200,12 +200,16 @@ Y no abrió el ojo.
 
 ---
 
-*Carta de Ilan Hask a la biblioteca de Banderbill. Llegó en la primavera del 1090.* *Archivada por Verawel en el legajo de Tiama, sin contestar, porque no hacía falta.*
+*Carta de Ilan Hask a la biblioteca de Banderbill. Llegó en la primavera del 1090. Archivada por Verawel en el legajo de Tiama, sin contestar, porque no hacía falta.*
 
 *No ha abierto el ojo.*
 
-*Lo ha intentado. Lo he visto. El hielo ha crujido por primera vez desde el 846. Un* *dedo. Lo he medido.*
+*Lo ha intentado. Lo he visto. El hielo ha crujido por primera vez desde el 846. Un dedo. Lo he medido.*
 
-*Creo que ha tenido una pesadilla. Creo que lo que tiene en el pecho quería abrirlo* *y él no. No sé cómo lo sé. Llevo ciento sesenta años mirándolo. Se aprende.* *Le he dicho «quieto». Como decía mi abuelo. No como orden. Como se le dice a un niño.*
+*Creo que ha tenido una pesadilla. Creo que lo que tiene en el pecho quería abrirlo y él no. No sé cómo lo sé. Llevo ciento sesenta años mirándolo. Se aprende. Le he dicho «quieto». Como decía mi abuelo. No como orden. Como se le dice a un niño.*
 
-*Ha funcionado. No sé si por la palabra. Creo que no.* *Creo que no quería mirar.* *Que conste. I. H.*
+*Ha funcionado. No sé si por la palabra. Creo que no.*
+
+*Creo que no quería mirar.*
+
+*Que conste. I. H.*

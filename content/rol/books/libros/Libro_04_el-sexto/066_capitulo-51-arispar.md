@@ -42,7 +42,7 @@ Los contó por los pasos. En el callejón de los Cubos, en la oscuridad, al lado
 
 Y uno más. Que bajó tarde. Pesado. Con botas de enano.
 
-Dalbur. De Tiama. Almad no lo había oído nunca bajar. Lo conocía por el nombre, por las voces de otros años: *Dalbur escribe que la piedra sigue quieta.*
+Dalbur. De Tiama. Almad no lo había oído nunca bajar. Lo conocía por el nombre, por las voces de otros años: Dalbur escribe que la piedra sigue quieta.
 
 La doncella no.
 
@@ -92,7 +92,7 @@ Teo fue el único que dijo algo.
 
 —Almad —dijo.
 
-No *Arispar*. Almad. Como se lo decía cuando le daba pan con aceite.
+No Arispar. Almad. Como se lo decía cuando le daba pan con aceite.
 
 ---
 
@@ -128,7 +128,7 @@ Silencio.
 
 Sein se puso las gafas.
 
-—¿Para qué? —preguntó. Con la voz suave. La de *el que más tiene*.
+—¿Para qué? —preguntó. Con la voz suave. La de el que más tiene.
 
 —Para sentarme.
 
@@ -170,7 +170,7 @@ Lo había pensado. Diez años. Lo había pensado de todas las formas. Y había l
 
 —¿El qué?
 
-—Todo. En voz alta. En la plaza del Consejo, delante de la puerta cerrada, el día que haya más gente. Me subo a la estatua del gnomo y lo grito. *Los Ruald tienen la sangre* *de Bhargaras. Corin Ruald es el heredero. La Orden lo sabe desde el 760 y no lo ha dicho.* —No levantó la voz—. Lo gritaré con miedo. Mirando abajo. Para que se oiga bien.
+—Todo. En voz alta. En la plaza del Consejo, delante de la puerta cerrada, el día que haya más gente. Me subo a la estatua del gnomo y lo grito. Los Ruald tienen la sangre de Bhargaras. Corin Ruald es el heredero. La Orden lo sabe desde el 760 y no lo ha dicho. —No levantó la voz—. Lo gritaré con miedo. Mirando abajo. Para que se oiga bien.
 
 Lanther se levantó.
 
@@ -206,7 +206,7 @@ Lanther lo miró mucho rato.
 
 ---
 
-Teo no había dicho nada desde *Almad*.
+Teo no había dicho nada desde Almad.
 
 Seguía al lado del horno. Con la espalda en la pared. Con las manos en las rodillas. Mirando al suelo.
 

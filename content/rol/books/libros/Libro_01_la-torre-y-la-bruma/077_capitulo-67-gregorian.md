@@ -36,27 +36,27 @@ Se detuvo debajo del que repetía. Era un hombre de unos cincuenta años, flaco,
 
 —¿Cómo te llamas? —le preguntó Gregorian, en voz baja, en la lengua del desierto, que había aprendido de niño con una vieja nodriza eufesia a la que su familia había escondido de las leyes de Maximus en una granja de Gijor.
 
-*Yo no fui*, dijo el muerto.
+Yo no fui, dijo el muerto.
 
 —Ya lo sé. Te creo. ¿Cómo te llamas?
 
 El muerto se calló. Gregorian esperó. El viento soplaba. La lámpara parpadeaba.
 
-*Hamid*, dijo al fin el muerto. *Hamid de los pozos del oeste. Tenía un hijo. Se quedó* *en la orilla. No sé si llegó.*
+Hamid, dijo al fin el muerto. Hamid de los pozos del oeste. Tenía un hijo. Se quedó en la orilla. No sé si llegó.
 
 —¿Quién fue, Hamid? ¿Quién abrió la puerta?
 
 El muerto no contestó enseguida. Gregorian sintió el cordel que lo unía a su cuerpo: tenso, muy tenso, tirando ya hacia el este, hacia la niebla. Dentro de pocas horas, la bruma se lo bebería.
 
-*Uno de los nuestros*, dijo Hamid. *Uno que llevaba un trapo gris en el bolsillo. No* *en la manga. En el bolsillo. Doblado. Lo tocaba siempre.* Una pausa. *Era hijo de alguien* *importante. De un emperador, decían. Uno de los que ganaron. Nadie le creía. Él no* *hablaba casi nunca.*
+*Uno de los nuestros, dijo Hamid. Uno que llevaba un trapo gris en el bolsillo. No en la manga. En el bolsillo. Doblado. Lo tocaba siempre. Una pausa. Era hijo de alguien importante. De un emperador, decían. Uno de los que ganaron. Nadie le creía. Él no hablaba casi nunca.*
 
 Gregorian se quedó helado.
 
-*Hijo del Vencedor de las Sombras.* Yaakov Tiberius. El que se casó con la hija de la Madre de los clanes. El que murió envenenado en un banquete. Su viuda se había ido al desierto con el niño cuarenta y siete años antes. Todo el Imperio lo sabía. Nadie había vuelto a pensar en ellos.
+Hijo del Vencedor de las Sombras. Yaakov Tiberius. El que se casó con la hija de la Madre de los clanes. El que murió envenenado en un banquete. Su viuda se había ido al desierto con el niño cuarenta y siete años antes. Todo el Imperio lo sabía. Nadie había vuelto a pensar en ellos.
 
 —¿Dónde está?
 
-*Se fue con ellos. Con los muertos. Hacia el este. Hacia el Pozo.* Hamid se balanceó en el viento. *Yo no fui. Tenía un hijo. Se quedó en la orilla.*
+*Se fue con ellos. Con los muertos. Hacia el este. Hacia el Pozo. Hamid se balanceó en el viento. Yo no fui. Tenía un hijo. Se quedó en la orilla.*
 
 —Ya lo sé —dijo Gregorian—. Hamid. Hamid de los pozos del oeste.
 
@@ -112,7 +112,7 @@ No sabemos lo que decía. La Madre no la guardó, o no se conservó. Los Bhargar
 
 Pero sabemos que tres meses después volvió el mismo mercader con una respuesta, y que la respuesta tenía una sola línea, en la lengua de Tiber, con una letra firme de mujer vieja:
 
-*Mi hijo ya no es mi hijo. Haced con él lo que tengáis que hacer. Pero gracias por* *los nombres.*
+*Mi hijo ya no es mi hijo. Haced con él lo que tengáis que hacer. Pero gracias por los nombres.*
 
 Gregorian guardó esa carta toda su vida. La encontraron después de su muerte, en el año trescientos treinta y uno, dentro de un libro de Ismena Vell sobre los ritos de los Custodios, en la biblioteca de la planta doce. Su hijo Meridio la leyó a los treinta y seis años, el día que heredó el trono.
 

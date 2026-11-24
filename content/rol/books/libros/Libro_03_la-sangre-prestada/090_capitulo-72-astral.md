@@ -36,9 +36,9 @@ El padre sonrió.
 
 Érandiul escribió la entrada esa misma noche.
 
-*Asgal ha muerto, seguramente debido a su avanzada edad. Su hijo, Astral, asume el* *trono, nombrándose así como el Vigésimo Emperador de Banderbill.*
+*Asgal ha muerto, seguramente debido a su avanzada edad. Su hijo, Astral, asume el trono, nombrándose así como el Vigésimo Emperador de Banderbill.*
 
-Astral la leyó. Y le preguntó al elfo viejo, que tenía mil cincuenta y dos años y ya no podía sostener la pluma más que un rato, por qué *seguramente*.
+Astral la leyó. Y le preguntó al elfo viejo, que tenía mil cincuenta y dos años y ya no podía sostener la pluma más que un rato, por qué seguramente.
 
 —Porque no lo sé —dijo Érandiul—. Nadie sabe de qué se muere uno. Se sabe cuándo.
 
@@ -60,7 +60,7 @@ La gente aplaudió. No entendió por qué se paraba. Le pareció bien.
 
 Fue un Emperador cuidadoso.
 
-Lo escribió Mirela Vell en su crónica, años después, y Astral la leyó y no le gustó la palabra, y luego le gustó. *Cuidadoso.* Como quien lleva una cosa que se puede romper.
+Lo escribió Mirela Vell en su crónica, años después, y Astral la leyó y no le gustó la palabra, y luego le gustó. Cuidadoso. Como quien lleva una cosa que se puede romper.
 
 No exploró nada. No hizo barcos. No fue a ninguna isla. Su abuelo había descubierto todas las que había, decía, y su padre había hecho todas las murallas que hacían falta. A él le tocaba otra cosa.
 
@@ -152,7 +152,7 @@ Astral no contestó.
 
 Sein lo apuntó esa noche. No en la columna del debe. En una hoja aparte. Al final del libro. La que no se numeraba.
 
-*Año 915. Larath. Hijo único de Astral. Astral, hijo único de Asgal. Asgal, hijo* *único de XI. XI, hijo único de Liminus, aunque Liminus tuvo hija. Liminus, hijo único de* *Lindos.*
+*Año 915. Larath. Hijo único de Astral. Astral, hijo único de Asgal. Asgal, hijo único de XI. XI, hijo único de Liminus, aunque Liminus tuvo hija. Liminus, hijo único de Lindos.*
 
 *La cadena se está haciendo fina.*
 
@@ -164,7 +164,7 @@ Y debajo:
 
 Años de paz.
 
-Lo escribió Mirela Vell así, en mayúsculas, en la primera hoja de su crónica de esos años: *AÑOS DE PAZ*. Y debajo, en minúsculas: *que también hay que apuntar, aunque no* *pase nada, porque si no se apuntan parece que no han existido.*
+Lo escribió Mirela Vell así, en mayúsculas, en la primera hoja de su crónica de esos años: AÑOS DE PAZ. Y debajo, en minúsculas: que también hay que apuntar, aunque no pase nada, porque si no se apuntan parece que no han existido.
 
 No vinieron barcos negros. Ni a Wonder, ni a Lindos, ni a la colina. Ni uno. En veinte años.
 
@@ -206,11 +206,11 @@ Se sentó en el suelo. Al lado del jergón. La orca vieja tenía los ojos cerrad
 
 —¿Qué ves?
 
-—A una que le preguntó al que pregunta. —Grâshka abrió un ojo. Uno. Amarillo, nublado—. En Orac nadie le preguntaba. Ni el general de los ojos blancos, hasta muy tarde. Le contestábamos. Siempre. Desde que nacíamos. *¿Qué quieres?* Y contestábamos. Y él se lo guardaba.
+—A una que le preguntó al que pregunta. —Grâshka abrió un ojo. Uno. Amarillo, nublado—. En Orac nadie le preguntaba. Ni el general de los ojos blancos, hasta muy tarde. Le contestábamos. Siempre. Desde que nacíamos. ¿Qué quieres? Y contestábamos. Y él se lo guardaba.
 
 —Tú no contestaste.
 
-—Yo dije *no quiero*. —El ojo se cerró—. Que también es contestar. Pero contestar mal. Para él.
+—Yo dije no quiero. —El ojo se cerró—. Que también es contestar. Pero contestar mal. Para él.
 
 ---
 
@@ -288,13 +288,13 @@ Luego dijo, en orco, bajito, una cosa que Lanther no entendió.
 
 Durg, desde la puerta, se la tradujo.
 
-—Ha dicho *se ha ido para arriba* —dijo el tonelero viejo—. *No para abajo.* —Se le movió la cara—. En orco no hay forma de decir eso. Lo ha tenido que inventar.
+—Ha dicho se ha ido para arriba —dijo el tonelero viejo—. No para abajo. —Se le movió la cara—. En orco no hay forma de decir eso. Lo ha tenido que inventar.
 
 ---
 
 Sein lo apuntó. En la columna del debe. En una línea que no se parecía a ninguna.
 
-*Año 924. Grâshka. Orca de Orac. Doscientos diez inviernos. Le dijo que no al que* *pregunta en el 860. Se fue hacia arriba. Es la primera.*
+*Año 924. Grâshka. Orca de Orac. Doscientos diez inviernos. Le dijo que no al que pregunta en el 860. Se fue hacia arriba. Es la primera.*
 
 *Debe la colina: una palabra nueva en orco.*
 
@@ -306,7 +306,7 @@ Era la primera vez que salía de Oderon. Tenía setenta años. Fue porque Dalbur
 
 La carta era corta. Los enanos no escriben mucho.
 
-*Majestad. Ilan Hask, hijo de Edran, nieto de Ilan, está conmigo en Tiama desde el* *891. Tiene cincuenta y cinco años. Vigila la cueva de cristal. Oye lo que yo no oigo. Se va* *a morir. No pronto. Pero se va a morir. Y yo no oigo. Venga. Dalbur, hijo de Dalgrim.*
+*Majestad. Ilan Hask, hijo de Edran, nieto de Ilan, está conmigo en Tiama desde el 891. Tiene cincuenta y cinco años. Vigila la cueva de cristal. Oye lo que yo no oigo. Se va a morir. No pronto. Pero se va a morir. Y yo no oigo. Venga. Dalbur, hijo de Dalgrim.*
 
 ---
 
@@ -356,7 +356,7 @@ Astral se quedó quieto.
 
 —¿Y si lo abre otra vez?
 
-—Alguien tiene que estar mirando. Que no conteste. Que le diga *quieto*. Aunque la espada no tenga runa. —Ilan se encogió de hombros—. Dalbur no oye. Su hijo no oye. Ningún enano oye ya; los que oían bajaron. Yo sí. Mi hijo, un poco. Mi nieto, no sé.
+—Alguien tiene que estar mirando. Que no conteste. Que le diga quieto. Aunque la espada no tenga runa. —Ilan se encogió de hombros—. Dalbur no oye. Su hijo no oye. Ningún enano oye ya; los que oían bajaron. Yo sí. Mi hijo, un poco. Mi nieto, no sé.
 
 ---
 
@@ -402,7 +402,7 @@ Le sopló en la cara.
 
 Volvió a la colina en el 931. Sein lo apuntó.
 
-*Año 930. Ilan Hask, de Astral. Tiama. Debe la colina: uno que vigila lo que duerme* *de pie.*
+*Año 930. Ilan Hask, de Astral. Tiama. Debe la colina: uno que vigila lo que duerme de pie.*
 
 Y en la hoja aparte, la que no se numeraba, debajo de lo de la cadena fina:
 

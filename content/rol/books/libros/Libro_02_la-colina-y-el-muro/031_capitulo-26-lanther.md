@@ -40,7 +40,7 @@ Todas. Las cientos. Alrededor del borde del agujero, en un anillo de tres o cuat
 
 Lanther las oyó.
 
-No era un canto. No era *no pases*. Era un zumbido muy bajo, muy parejo, como el de las piedras. Como si se hubieran vuelto piedras ellas también.
+No era un canto. No era no pases. Era un zumbido muy bajo, muy parejo, como el de las piedras. Como si se hubieran vuelto piedras ellas también.
 
 Caminó hacia el borde.
 
@@ -88,7 +88,7 @@ Hakon llegó corriendo con veinte hombres detrás, con las espadas desnudas, gri
 
 —No hacen nada, capitán. Están quietas. Están…
 
-No supo cómo decirlo. *Están de guardia*. *Están rezando*. *Están llorando*. No era ninguna de las tres cosas y eran las tres.
+No supo cómo decirlo. Están de guardia. Están rezando. Están llorando. No era ninguna de las tres cosas y eran las tres.
 
 —Están muertas —dijo alguien, detrás de Hakon. Un muchacho. Uno de Gijor, de los del primer día, de los que se habían reído de su cuchillo en el poste—. Mírelas, capitán. No se mueven. ¡Están muertas! ¡El rey las ha matado!
 
@@ -116,7 +116,7 @@ Y entonces se movieron todos.
 
 No pudo pararlos.
 
-Lo intentó. Se levantó del borde, corrió hacia ellos, gritó. Gritó *basta*, gritó *no*, gritó *quietos*, gritó *son mías*, sin saber por qué gritaba eso. Le agarró el brazo a uno, a otro. Le dio un empujón a un tercero que lo tiró al suelo. No la oían. Llevaban dos años de cuevas y de mordiscos y de amigos convertidos en piedra, llevaban una mañana entera viendo cómo las de sal salían de un agujero en el suelo a cientos y convertían en estatuas a los hombres con los que habían compartido el pan, y ahora se rompían, ahora no se movían, ahora se podía; y los hombres, cuando de pronto se puede, no oyen.
+Lo intentó. Se levantó del borde, corrió hacia ellos, gritó. Gritó basta, gritó no, gritó quietos, gritó son mías, sin saber por qué gritaba eso. Le agarró el brazo a uno, a otro. Le dio un empujón a un tercero que lo tiró al suelo. No la oían. Llevaban dos años de cuevas y de mordiscos y de amigos convertidos en piedra, llevaban una mañana entera viendo cómo las de sal salían de un agujero en el suelo a cientos y convertían en estatuas a los hombres con los que habían compartido el pan, y ahora se rompían, ahora no se movían, ahora se podía; y los hombres, cuando de pronto se puede, no oyen.
 
 Con martillos. Con los pomos de las espadas. Con piedras. Con las manos.
 

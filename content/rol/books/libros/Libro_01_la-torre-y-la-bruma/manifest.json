@@ -10,7 +10,7 @@
       "file": "001_prologo-el-nino-de-la-bruma.md",
       "start_page": 5,
       "end_page": 10,
-      "chars": 9008
+      "chars": 9005
     },
     {
       "index": 2,
@@ -37,7 +37,7 @@
       "file": "004_capitulo-1-lucius.md",
       "start_page": 14,
       "end_page": 22,
-      "chars": 14162
+      "chars": 14148
     },
     {
       "index": 5,
@@ -46,7 +46,7 @@
       "file": "005_capitulo-2-hector.md",
       "start_page": 23,
       "end_page": 30,
-      "chars": 12211
+      "chars": 12199
     },
     {
       "index": 6,
@@ -55,7 +55,7 @@
       "file": "006_capitulo-3-lucius.md",
       "start_page": 31,
       "end_page": 37,
-      "chars": 10849
+      "chars": 10821
     },
     {
       "index": 7,
@@ -64,7 +64,7 @@
       "file": "007_capitulo-4-varo.md",
       "start_page": 38,
       "end_page": 45,
-      "chars": 11198
+      "chars": 11186
     },
     {
       "index": 8,
@@ -73,7 +73,7 @@
       "file": "008_capitulo-5-tullo.md",
       "start_page": 46,
       "end_page": 53,
-      "chars": 11473
+      "chars": 11467
     },
     {
       "index": 9,
@@ -82,7 +82,7 @@
       "file": "009_capitulo-6-hector.md",
       "start_page": 54,
       "end_page": 59,
-      "chars": 8360
+      "chars": 8354
     },
     {
       "index": 10,
@@ -100,7 +100,7 @@
       "file": "011_capitulo-8-hector.md",
       "start_page": 69,
       "end_page": 77,
-      "chars": 12237
+      "chars": 12215
     },
     {
       "index": 12,
@@ -109,7 +109,7 @@
       "file": "012_capitulo-9-aelia.md",
       "start_page": 78,
       "end_page": 83,
-      "chars": 8755
+      "chars": 8749
     },
     {
       "index": 13,
@@ -118,7 +118,7 @@
       "file": "013_capitulo-10-hector.md",
       "start_page": 84,
       "end_page": 92,
-      "chars": 14538
+      "chars": 14522
     },
     {
       "index": 14,
@@ -145,7 +145,7 @@
       "file": "016_capitulo-11-sahra.md",
       "start_page": 95,
       "end_page": 102,
-      "chars": 10736
+      "chars": 10722
     },
     {
       "index": 17,
@@ -154,7 +154,7 @@
       "file": "017_capitulo-12-genieveve.md",
       "start_page": 103,
       "end_page": 109,
-      "chars": 9754
+      "chars": 9736
     },
     {
       "index": 18,
@@ -163,7 +163,7 @@
       "file": "018_capitulo-13-torvald.md",
       "start_page": 110,
       "end_page": 116,
-      "chars": 8842
+      "chars": 8830
     },
     {
       "index": 19,
@@ -172,7 +172,7 @@
       "file": "019_capitulo-14-ilda.md",
       "start_page": 117,
       "end_page": 124,
-      "chars": 10895
+      "chars": 10891
     },
     {
       "index": 20,
@@ -181,7 +181,7 @@
       "file": "020_capitulo-15-genieveve.md",
       "start_page": 125,
       "end_page": 134,
-      "chars": 13972
+      "chars": 13964
     },
     {
       "index": 21,
@@ -190,7 +190,7 @@
       "file": "021_capitulo-16-drolnar.md",
       "start_page": 135,
       "end_page": 142,
-      "chars": 11288
+      "chars": 11284
     },
     {
       "index": 22,
@@ -199,7 +199,7 @@
       "file": "022_capitulo-17-nadi.md",
       "start_page": 143,
       "end_page": 151,
-      "chars": 11999
+      "chars": 11998
     },
     {
       "index": 23,
@@ -208,7 +208,7 @@
       "file": "023_capitulo-18-genieveve.md",
       "start_page": 152,
       "end_page": 160,
-      "chars": 11704
+      "chars": 11692
     },
     {
       "index": 24,
@@ -217,7 +217,7 @@
       "file": "024_capitulo-19-drolnar.md",
       "start_page": 161,
       "end_page": 166,
-      "chars": 8676
+      "chars": 8674
     },
     {
       "index": 25,
@@ -226,7 +226,7 @@
       "file": "025_capitulo-20-teodor.md",
       "start_page": 167,
       "end_page": 170,
-      "chars": 5591
+      "chars": 5589
     },
     {
       "index": 26,
@@ -235,7 +235,7 @@
       "file": "026_capitulo-21-brida.md",
       "start_page": 171,
       "end_page": 177,
-      "chars": 10589
+      "chars": 10585
     },
     {
       "index": 27,
@@ -244,7 +244,7 @@
       "file": "027_capitulo-22-loth.md",
       "start_page": 178,
       "end_page": 181,
-      "chars": 6248
+      "chars": 6244
     },
     {
       "index": 28,
@@ -271,7 +271,7 @@
       "file": "030_capitulo-23-drolnar.md",
       "start_page": 184,
       "end_page": 190,
-      "chars": 10223
+      "chars": 10215
     },
     {
       "index": 31,
@@ -280,7 +280,7 @@
       "file": "031_capitulo-24-loth.md",
       "start_page": 191,
       "end_page": 198,
-      "chars": 11445
+      "chars": 11441
     },
     {
       "index": 32,
@@ -289,7 +289,7 @@
       "file": "032_capitulo-25-loth.md",
       "start_page": 199,
       "end_page": 209,
-      "chars": 15560
+      "chars": 15530
     },
     {
       "index": 33,
@@ -307,7 +307,7 @@
       "file": "034_capitulo-26-drolnar.md",
       "start_page": 211,
       "end_page": 218,
-      "chars": 11070
+      "chars": 11066
     },
     {
       "index": 35,
@@ -316,7 +316,7 @@
       "file": "035_capitulo-27-drolnar.md",
       "start_page": 219,
       "end_page": 226,
-      "chars": 11671
+      "chars": 11661
     },
     {
       "index": 36,
@@ -325,7 +325,7 @@
       "file": "036_capitulo-28-henricus.md",
       "start_page": 227,
       "end_page": 234,
-      "chars": 11390
+      "chars": 11388
     },
     {
       "index": 37,
@@ -334,7 +334,7 @@
       "file": "037_capitulo-29-mira.md",
       "start_page": 235,
       "end_page": 241,
-      "chars": 9580
+      "chars": 9576
     },
     {
       "index": 38,
@@ -343,7 +343,7 @@
       "file": "038_capitulo-30-clarisa.md",
       "start_page": 242,
       "end_page": 250,
-      "chars": 13280
+      "chars": 13272
     },
     {
       "index": 39,
@@ -352,7 +352,7 @@
       "file": "039_capitulo-31-henricus.md",
       "start_page": 251,
       "end_page": 258,
-      "chars": 10422
+      "chars": 10414
     },
     {
       "index": 40,
@@ -361,7 +361,7 @@
       "file": "040_capitulo-32-henricus.md",
       "start_page": 259,
       "end_page": 269,
-      "chars": 16256
+      "chars": 16250
     },
     {
       "index": 41,
@@ -370,7 +370,7 @@
       "file": "041_capitulo-33-helen.md",
       "start_page": 270,
       "end_page": 273,
-      "chars": 5387
+      "chars": 5385
     },
     {
       "index": 42,
@@ -388,7 +388,7 @@
       "file": "043_capitulo-34-nadia.md",
       "start_page": 275,
       "end_page": 282,
-      "chars": 10215
+      "chars": 10218
     },
     {
       "index": 44,
@@ -397,7 +397,7 @@
       "file": "044_capitulo-35-helen.md",
       "start_page": 283,
       "end_page": 291,
-      "chars": 12173
+      "chars": 12167
     },
     {
       "index": 45,
@@ -406,7 +406,7 @@
       "file": "045_capitulo-36-corvo.md",
       "start_page": 292,
       "end_page": 299,
-      "chars": 11683
+      "chars": 11681
     },
     {
       "index": 46,
@@ -415,7 +415,7 @@
       "file": "046_capitulo-37-ermengarda.md",
       "start_page": 300,
       "end_page": 308,
-      "chars": 13595
+      "chars": 13593
     },
     {
       "index": 47,
@@ -424,7 +424,7 @@
       "file": "047_capitulo-38-braco.md",
       "start_page": 309,
       "end_page": 315,
-      "chars": 10334
+      "chars": 10324
     },
     {
       "index": 48,
@@ -433,7 +433,7 @@
       "file": "048_capitulo-39-corvo.md",
       "start_page": 316,
       "end_page": 323,
-      "chars": 11585
+      "chars": 11571
     },
     {
       "index": 49,
@@ -442,7 +442,7 @@
       "file": "049_capitulo-40-neri.md",
       "start_page": 324,
       "end_page": 333,
-      "chars": 14246
+      "chars": 14228
     },
     {
       "index": 50,
@@ -451,7 +451,7 @@
       "file": "050_capitulo-41-loth.md",
       "start_page": 334,
       "end_page": 341,
-      "chars": 11770
+      "chars": 11704
     },
     {
       "index": 51,
@@ -460,7 +460,7 @@
       "file": "051_capitulo-42-hilde.md",
       "start_page": 342,
       "end_page": 350,
-      "chars": 12123
+      "chars": 12103
     },
     {
       "index": 52,
@@ -469,7 +469,7 @@
       "file": "052_capitulo-43-ismena.md",
       "start_page": 351,
       "end_page": 357,
-      "chars": 9729
+      "chars": 9727
     },
     {
       "index": 53,
@@ -478,7 +478,7 @@
       "file": "053_capitulo-44-braco.md",
       "start_page": 358,
       "end_page": 367,
-      "chars": 15389
+      "chars": 15377
     },
     {
       "index": 54,
@@ -487,7 +487,7 @@
       "file": "054_capitulo-45-ismena.md",
       "start_page": 368,
       "end_page": 373,
-      "chars": 8942
+      "chars": 8930
     },
     {
       "index": 55,
@@ -496,7 +496,7 @@
       "file": "055_capitulo-46-esdras.md",
       "start_page": 374,
       "end_page": 379,
-      "chars": 8694
+      "chars": 8684
     },
     {
       "index": 56,
@@ -505,7 +505,7 @@
       "file": "056_capitulo-47-lexandra.md",
       "start_page": 380,
       "end_page": 385,
-      "chars": 8507
+      "chars": 8505
     },
     {
       "index": 57,
@@ -514,7 +514,7 @@
       "file": "057_capitulo-48-darius.md",
       "start_page": 386,
       "end_page": 394,
-      "chars": 13018
+      "chars": 13010
     },
     {
       "index": 58,
@@ -523,7 +523,7 @@
       "file": "058_capitulo-49-octavia.md",
       "start_page": 395,
       "end_page": 402,
-      "chars": 11500
+      "chars": 11494
     },
     {
       "index": 59,
@@ -532,7 +532,7 @@
       "file": "059_capitulo-50-ysh-neva.md",
       "start_page": 403,
       "end_page": 412,
-      "chars": 15092
+      "chars": 15072
     },
     {
       "index": 60,
@@ -541,7 +541,7 @@
       "file": "060_capitulo-51-ansel.md",
       "start_page": 413,
       "end_page": 422,
-      "chars": 13981
+      "chars": 13965
     },
     {
       "index": 61,
@@ -550,7 +550,7 @@
       "file": "061_capitulo-52-lexandra.md",
       "start_page": 423,
       "end_page": 433,
-      "chars": 16167
+      "chars": 16153
     },
     {
       "index": 62,
@@ -559,7 +559,7 @@
       "file": "062_capitulo-53-lexandra.md",
       "start_page": 434,
       "end_page": 441,
-      "chars": 12113
+      "chars": 12095
     },
     {
       "index": 63,
@@ -568,7 +568,7 @@
       "file": "063_capitulo-54-yaakov.md",
       "start_page": 442,
       "end_page": 449,
-      "chars": 11200
+      "chars": 11149
     },
     {
       "index": 64,
@@ -586,7 +586,7 @@
       "file": "065_capitulo-56-yaakov.md",
       "start_page": 457,
       "end_page": 464,
-      "chars": 11517
+      "chars": 11511
     },
     {
       "index": 66,
@@ -604,7 +604,7 @@
       "file": "067_capitulo-57-ysh-neva.md",
       "start_page": 466,
       "end_page": 475,
-      "chars": 13317
+      "chars": 13297
     },
     {
       "index": 68,
@@ -613,7 +613,7 @@
       "file": "068_capitulo-58-maximus.md",
       "start_page": 476,
       "end_page": 482,
-      "chars": 10566
+      "chars": 10564
     },
     {
       "index": 69,
@@ -622,7 +622,7 @@
       "file": "069_capitulo-59-maximus.md",
       "start_page": 483,
       "end_page": 490,
-      "chars": 10156
+      "chars": 10148
     },
     {
       "index": 70,
@@ -631,7 +631,7 @@
       "file": "070_capitulo-60-ezer.md",
       "start_page": 491,
       "end_page": 500,
-      "chars": 13385
+      "chars": 13369
     },
     {
       "index": 71,
@@ -640,7 +640,7 @@
       "file": "071_capitulo-61-sefa.md",
       "start_page": 501,
       "end_page": 508,
-      "chars": 11057
+      "chars": 11047
     },
     {
       "index": 72,
@@ -649,7 +649,7 @@
       "file": "072_capitulo-62-rahel.md",
       "start_page": 509,
       "end_page": 516,
-      "chars": 10963
+      "chars": 10951
     },
     {
       "index": 73,
@@ -658,7 +658,7 @@
       "file": "073_capitulo-63-maximus.md",
       "start_page": 517,
       "end_page": 524,
-      "chars": 11027
+      "chars": 11025
     },
     {
       "index": 74,
@@ -667,7 +667,7 @@
       "file": "074_capitulo-64-yared.md",
       "start_page": 525,
       "end_page": 533,
-      "chars": 12748
+      "chars": 12744
     },
     {
       "index": 75,
@@ -676,7 +676,7 @@
       "file": "075_capitulo-65-arn-pelle.md",
       "start_page": 534,
       "end_page": 542,
-      "chars": 12936
+      "chars": 12920
     },
     {
       "index": 76,
@@ -685,7 +685,7 @@
       "file": "076_capitulo-66-gregorian.md",
       "start_page": 543,
       "end_page": 550,
-      "chars": 11894
+      "chars": 11890
     },
     {
       "index": 77,
@@ -694,7 +694,7 @@
       "file": "077_capitulo-67-gregorian.md",
       "start_page": 551,
       "end_page": 556,
-      "chars": 8645
+      "chars": 8621
     },
     {
       "index": 78,
@@ -703,7 +703,7 @@
       "file": "078_capitulo-68-gregorian.md",
       "start_page": 557,
       "end_page": 565,
-      "chars": 13525
+      "chars": 13505
     },
     {
       "index": 79,
@@ -721,7 +721,7 @@
       "file": "080_capitulo-70-meridio.md",
       "start_page": 572,
       "end_page": 580,
-      "chars": 11823
+      "chars": 11763
     },
     {
       "index": 81,
@@ -730,7 +730,7 @@
       "file": "081_capitulo-71-aremir.md",
       "start_page": 581,
       "end_page": 585,
-      "chars": 7067
+      "chars": 7062
     },
     {
       "index": 82,
@@ -739,7 +739,7 @@
       "file": "082_capitulo-72-haltair.md",
       "start_page": 586,
       "end_page": 595,
-      "chars": 14546
+      "chars": 14534
     },
     {
       "index": 83,
@@ -748,7 +748,7 @@
       "file": "083_capitulo-73-aremir.md",
       "start_page": 596,
       "end_page": 602,
-      "chars": 10090
+      "chars": 10076
     },
     {
       "index": 84,
@@ -757,7 +757,7 @@
       "file": "084_capitulo-74-ilaria.md",
       "start_page": 603,
       "end_page": 611,
-      "chars": 13288
+      "chars": 13260
     },
     {
       "index": 85,
@@ -766,7 +766,7 @@
       "file": "085_capitulo-75-ilaria.md",
       "start_page": 612,
       "end_page": 618,
-      "chars": 9528
+      "chars": 9520
     },
     {
       "index": 86,
@@ -793,7 +793,7 @@
       "file": "088_capitulo-76-casimir.md",
       "start_page": 621,
       "end_page": 628,
-      "chars": 11277
+      "chars": 11269
     },
     {
       "index": 89,
@@ -802,7 +802,7 @@
       "file": "089_capitulo-77-odrun.md",
       "start_page": 629,
       "end_page": 637,
-      "chars": 12366
+      "chars": 12350
     },
     {
       "index": 90,
@@ -811,7 +811,7 @@
       "file": "090_capitulo-78-bander.md",
       "start_page": 638,
       "end_page": 645,
-      "chars": 10752
+      "chars": 10744
     },
     {
       "index": 91,
@@ -820,7 +820,7 @@
       "file": "091_capitulo-79-mara.md",
       "start_page": 646,
       "end_page": 653,
-      "chars": 11111
+      "chars": 11095
     },
     {
       "index": 92,
@@ -829,7 +829,7 @@
       "file": "092_capitulo-80-casimir.md",
       "start_page": 654,
       "end_page": 660,
-      "chars": 10416
+      "chars": 10406
     },
     {
       "index": 93,
@@ -838,7 +838,7 @@
       "file": "093_capitulo-81-darian.md",
       "start_page": 661,
       "end_page": 668,
-      "chars": 10466
+      "chars": 10460
     },
     {
       "index": 94,
@@ -847,7 +847,7 @@
       "file": "094_capitulo-82-haltair.md",
       "start_page": 669,
       "end_page": 677,
-      "chars": 13159
+      "chars": 13145
     },
     {
       "index": 95,
@@ -856,7 +856,7 @@
       "file": "095_capitulo-83-bander.md",
       "start_page": 678,
       "end_page": 694,
-      "chars": 23819
+      "chars": 23805
     },
     {
       "index": 96,
@@ -865,7 +865,7 @@
       "file": "096_capitulo-84-loth.md",
       "start_page": 695,
       "end_page": 702,
-      "chars": 11331
+      "chars": 11287
     },
     {
       "index": 97,
@@ -874,7 +874,7 @@
       "file": "097_capitulo-85-tobias.md",
       "start_page": 703,
       "end_page": 710,
-      "chars": 11598
+      "chars": 11590
     },
     {
       "index": 98,
@@ -883,7 +883,7 @@
       "file": "098_capitulo-86-mara.md",
       "start_page": 711,
       "end_page": 726,
-      "chars": 22288
+      "chars": 22242
     },
     {
       "index": 99,
@@ -892,7 +892,7 @@
       "file": "099_capitulo-87-bander.md",
       "start_page": 727,
       "end_page": 734,
-      "chars": 10935
+      "chars": 10915
     },
     {
       "index": 100,
@@ -910,7 +910,7 @@
       "file": "101_capitulo-89-gorm.md",
       "start_page": 743,
       "end_page": 752,
-      "chars": 13681
+      "chars": 13665
     },
     {
       "index": 102,
@@ -919,7 +919,7 @@
       "file": "102_capitulo-90-tobias.md",
       "start_page": 753,
       "end_page": 759,
-      "chars": 10660
+      "chars": 10652
     },
     {
       "index": 103,
@@ -928,7 +928,7 @@
       "file": "103_capitulo-91-livia.md",
       "start_page": 760,
       "end_page": 767,
-      "chars": 11118
+      "chars": 11096
     },
     {
       "index": 104,
@@ -937,7 +937,7 @@
       "file": "104_capitulo-92-mara.md",
       "start_page": 768,
       "end_page": 775,
-      "chars": 10118
+      "chars": 10112
     },
     {
       "index": 105,
@@ -946,7 +946,7 @@
       "file": "105_epilogo-seren.md",
       "start_page": 776,
       "end_page": 778,
-      "chars": 3911
+      "chars": 3906
     },
     {
       "index": 106,
@@ -955,7 +955,7 @@
       "file": "106_de-las-cronicas-de-banderbill-vi.md",
       "start_page": 779,
       "end_page": 781,
-      "chars": 5137
+      "chars": 5127
     },
     {
       "index": 107,
@@ -964,7 +964,7 @@
       "file": "107_apendices.md",
       "start_page": 782,
       "end_page": 782,
-      "chars": 12
+      "chars": 14
     },
     {
       "index": 108,
@@ -973,7 +973,7 @@
       "file": "108_cronologia-del-primer-imperio.md",
       "start_page": 783,
       "end_page": 789,
-      "chars": 11005
+      "chars": 10681
     },
     {
       "index": 109,
@@ -982,7 +982,7 @@
       "file": "109_lineas-de-sangre.md",
       "start_page": 790,
       "end_page": 791,
-      "chars": 1794
+      "chars": 1770
     },
     {
       "index": 110,
@@ -991,7 +991,7 @@
       "file": "110_breve-glosario.md",
       "start_page": 792,
       "end_page": 793,
-      "chars": 2830
+      "chars": 2750
     },
     {
       "index": 111,
@@ -1000,7 +1000,7 @@
       "file": "111_de-la-tierra-que-dejamos.md",
       "start_page": 794,
       "end_page": 796,
-      "chars": 4967
+      "chars": 4929
     },
     {
       "index": 112,
@@ -1009,7 +1009,7 @@
       "file": "112_lo-que-contaba-el-abuelo-de-gorm.md",
       "start_page": 797,
       "end_page": 799,
-      "chars": 4081
+      "chars": 4077
     }
   ]
 }

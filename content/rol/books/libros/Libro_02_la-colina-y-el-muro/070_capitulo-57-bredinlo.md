@@ -2,11 +2,7 @@
 
 *Banderbill y Ullathorpe. Años 178 a 183 de la Nueva Era.*
 
-*De la Crónica de Ada Vell, primera de su nombre, año 183. Los Vell no*
-
-*tenemos hijos. Tenemos aprendices, y les damos el apellido con el cuaderno. El*
-
-*primero de nosotros sigue vivo y no lo dice. Yo no lo digo tampoco.*
+*De la Crónica de Ada Vell, primera de su nombre, año 183. Los Vell no tenemos hijos. Tenemos aprendices, y les damos el apellido con el cuaderno. El primero de nosotros sigue vivo y no lo dice. Yo no lo digo tampoco.*
 
 Bredinlo de Pisor tenía veintinueve años, la mejor mano de la Escuela de las Formas y la peor suerte de la colina, y estaba convencido de que las tres cosas estaban relacionadas.
 
@@ -38,7 +34,7 @@ Bredinlo se las sabía todas a los diecinueve. Y a los veintinueve seguía hacie
 
 Su padre era pescador en Pisor. Su madre remendaba redes. No había nadie en su familia que supiera leer hasta él, y él había aprendido solo, a los seis, con las etiquetas de los toneles de arenque. A los nueve había hecho crecer una col del tamaño de una cabeza cantándole una canción que le había oído a un elfo en el puerto. A los diez lo habían mandado a la Escuela, con una beca del rey, y su madre había llorado tres días de orgullo.
 
-Y luego, nada. Diez años de nada. De *otra vez*. De *mañana, la cuarta*.
+Y luego, nada. Diez años de nada. De otra vez. De mañana, la cuarta.
 
 —Hay más —le dijo a Ithrien, aquella tarde. La de la maceta—. Lo sé. Hay más formas. Las otras. Las de la corteza dura. No me lo neguéis.
 
@@ -68,7 +64,7 @@ Ada Vell, la cronista, una mujer menuda y seca de treinta y cinco años que llev
 
 Bredinlo tenía buenas espaldas. Le pagó en arenques.
 
-Eran cuarenta arcones. De pino. Viejos. Con un palote grabado en la tapa, todos, que era la marca de los Vell desde el principio. Llenos de cuadernos. Cuentas, sobre todo. Columnas y columnas. *Debe. Haber.* Sacos de harina del año 60. Piedras del muro del año 30. Arenques. Muertos.
+Eran cuarenta arcones. De pino. Viejos. Con un palote grabado en la tapa, todos, que era la marca de los Vell desde el principio. Llenos de cuadernos. Cuentas, sobre todo. Columnas y columnas. Debe. Haber. Sacos de harina del año 60. Piedras del muro del año 30. Arenques. Muertos.
 
 El arcón treinta y siete tenía doble fondo.
 
@@ -80,7 +76,7 @@ Con letras. Élficas. Con una mano muy bonita, de copista, que no era élfica.
 
 Y en el margen de la primera, en la lengua de la colina, una nota pequeña:
 
-*Copiado por M. del original de V., la noche antes del castaño. Para que no se* *pierda. Para que nadie lo lea. Las dos cosas. — M.*
+*Copiado por M. del original de V., la noche antes del castaño. Para que no se pierda. Para que nadie lo lea. Las dos cosas. — M.*
 
 ---
 
@@ -96,11 +92,11 @@ Eran formas. Seis. Las de la corteza dura.
 
 No eran canciones. Las suaves eran canciones: le cantabas a la lluvia, a la col, al trigo, y la lluvia y la col y el trigo te hacían caso porque les gustaba la canción. Estas no. Estas eran nombres. Nombres dichos de una manera determinada. Hacia abajo.
 
-*Se dice el nombre de lo que quieres mover*, decía la primera hoja, en la letra de la copista. *Pero no como se llama a un amigo. Como se llama a un perro. Mirándose a uno* *mismo. Con hambre. Y lo que se nombra así, viene. Lo quiera o no.*
+Se dice el nombre de lo que quieres mover, decía la primera hoja, en la letra de la copista. Pero no como se llama a un amigo. Como se llama a un perro. Mirándose a uno mismo. Con hambre. Y lo que se nombra así, viene. Lo quiera o no.
 
-*Cuesta*, decía al pie. Subrayado tres veces. *Cuesta carne. La tuya. Cada vez.*
+Cuesta, decía al pie. Subrayado tres veces. Cuesta carne. La tuya. Cada vez.
 
-Bredinlo leyó eso y sintió algo en el estómago que no había sentido en diez años de *otra vez*.
+Bredinlo leyó eso y sintió algo en el estómago que no había sentido en diez años de otra vez.
 
 Sintió que por fin alguien le decía la verdad.
 
@@ -124,9 +120,9 @@ Luego se rio.
 
 Necesitaba algo que pagara por él.
 
-Eso lo decía la sexta hoja, la última, la más corta, con una letra más temblona, como si la copista la hubiera escrito deprisa o con miedo. *Hay quien pone algo entre su* *carne y el nombre. Una piedra que lata. Un hueso que haya bebido. Para que pague la* *piedra y no él. Los que dijeron que no, en el principio, no lo hacían. Los que se hicieron* *hueso, sí.*
+Eso lo decía la sexta hoja, la última, la más corta, con una letra más temblona, como si la copista la hubiera escrito deprisa o con miedo. Hay quien pone algo entre su carne y el nombre. Una piedra que lata. Un hueso que haya bebido. Para que pague la piedra y no él. Los que dijeron que no, en el principio, no lo hacían. Los que se hicieron hueso, sí.
 
-*No lo hagáis*, decía al final. *Paga la piedra, pero la piedra no es tuya. Es de lo que* *late debajo. Y lo que late debajo cobra de otra manera.*
+*No lo hagáis, decía al final. Paga la piedra, pero la piedra no es tuya. Es de lo que late debajo. Y lo que late debajo cobra de otra manera.*
 
 Bredinlo no leyó la última línea. La leyó, pero no la leyó.
 
@@ -142,7 +138,7 @@ Lo consiguió en un sitio que no tenía nombre, al oeste de Ullathorpe, en las m
 
 Bredinlo subió solo. Con un pico de hierro.
 
-*El hierro la despierta*, decían los enanos.
+El hierro la despierta, decían los enanos.
 
 Picó tres días. Sin cantar.
 
@@ -190,7 +186,7 @@ Se puso pálida. Una elfa. Pálida.
 
 Y apuntó a la maceta.
 
-Solo a la maceta. Eso lo dijo siempre. Delante de los jueces, en el Rincón, al final. *Solo a la maceta. Quería que viera. Quería que me dijera "bien" de otra manera.*
+Solo a la maceta. Eso lo dijo siempre. Delante de los jueces, en el Rincón, al final. Solo a la maceta. Quería que viera. Quería que me dijera "bien" de otra manera.
 
 La maceta desapareció. No se rompió. Desapareció. Como si no hubiera estado nunca. Y la mesa en la que estaba. Y la mitad de la pared de detrás. Y lo que había detrás de la pared, que era el pasillo, y en el pasillo un conserje de la Escuela, un hombre de sesenta años que se llamaba Pell y barría.
 
@@ -206,7 +202,7 @@ Bredinlo se quedó mirando el hueco.
 
 ---
 
-Lo detuvieron esa misma tarde. No se resistió. Estaba sentado en el pilón de la plaza, con la vara en las rodillas, mirando al suelo, cuando llegaron los guardias. Les dio la vara. Ninguno quiso cogerla. Al final la cogió un enano, con guantes, que estaba en la colina de paso y que se ofreció porque *los enanos sabemos tocar lo que late*.
+Lo detuvieron esa misma tarde. No se resistió. Estaba sentado en el pilón de la plaza, con la vara en las rodillas, mirando al suelo, cuando llegaron los guardias. Les dio la vara. Ninguno quiso cogerla. Al final la cogió un enano, con guantes, que estaba en la colina de paso y que se ofreció porque los enanos sabemos tocar lo que late.
 
 No había ley para aquello. Nadie había matado a nadie sin tocarlo, antes. Nadie había hecho desaparecer a un hombre.
 
@@ -228,7 +224,7 @@ A los Rincones irían los criminales. No a la horca: las cuatro razas no se pusi
 
 —¿Cómo? —preguntó el rey.
 
-—En la frente —dijo el gnomo—. Una raya. Para que se sepa. *Ladrón de por vida.*
+—En la frente —dijo el gnomo—. Una raya. Para que se sepa. Ladrón de por vida.
 
 —Bredinlo no ha robado nada.
 
@@ -320,7 +316,7 @@ Y en la última:
 
 El de las gafas se llevó el cuaderno. La vara la dejó.
 
-Y en el libro de cuentas, en el debe, debajo de *Pell*, escribió:
+Y en el libro de cuentas, en el debe, debajo de Pell, escribió:
 
 *Bredinlo. Cuarenta y un años. Lo dejé leer. Lo propuse yo.*
 

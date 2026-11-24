@@ -1,6 +1,6 @@
 # Capítulo 16 · Érandiul
 
-*El bosque del norte y la sala del Consejo de Banderbill. Otoño del año 605 y* *primavera del 606 de la Nueva Era (2 y 1 A.bA).*
+*El bosque del norte y la sala del Consejo de Banderbill. Otoño del año 605 y primavera del 606 de la Nueva Era (2 y 1 A.bA).*
 
 Los robles viejos del bosque del norte estaban a dos jornadas de la colina, y Érandiul tardó cinco, porque tenía setecientos cuarenta y ocho años, una mano cerrada y ninguna prisa por llegar a donde iba.
 
@@ -38,7 +38,7 @@ No hizo nada. Se sentó. Comió pan y queso. Bebió de un arroyo que pasaba por 
 
 Le habló. Por las noches. En élfico del bosque, la lengua de su madre, no la de Tawarsinan.
 
-Le contó la colina. Los últimos doscientos años. Los emperadores, uno a uno. El temblor. Nix. Tawarsinan. La Armada. El diario, que había dejado en la estantería. La mano. La izquierda. La pizarra. *Todavía no.* La aguja. El mapa en la pared del Emperador. El hombre rico que lo hizo gratis.
+Le contó la colina. Los últimos doscientos años. Los emperadores, uno a uno. El temblor. Nix. Tawarsinan. La Armada. El diario, que había dejado en la estantería. La mano. La izquierda. La pizarra. Todavía no. La aguja. El mapa en la pared del Emperador. El hombre rico que lo hizo gratis.
 
 Le contó que iba a haber una guerra.
 
@@ -124,7 +124,7 @@ El cuchillo de Gorm. El mapa de Ada Vell. El sombrero.
 
 ---
 
-Lo había dejado en la mesa de la biblioteca, en el 417. No en la pared. En la mesa. *Que se lo ponga el que lea.* Lo había colgado allí Aren Vell a la mañana siguiente, porque no sabía qué hacer con él, y desde entonces estaba allí.
+Lo había dejado en la mesa de la biblioteca, en el 417. No en la pared. En la mesa. Que se lo ponga el que lea. Lo había colgado allí Aren Vell a la mañana siguiente, porque no sabía qué hacer con él, y desde entonces estaba allí.
 
 Ciento ochenta y nueve años.
 
@@ -192,7 +192,7 @@ El Emperador asintió. Miró la pared, donde estaba el clavo vacío. Luego miró
 
 Salieron al alba.
 
-Doce mil cuatrocientos soldados por la puerta sur. La de los carros. En columna, de cuatro en fondo, con el Emperador delante, a caballo, con el aro de hierro, por primera vez en su vida, fuera de la funda: puesto. En la cabeza. Solo. Sin la corona de once libras. Libra y media de hierro de un ancla vieja, con *Más que a mis ojos* grabado por dentro, que le quedaba un poco grande y que le bailaba cuando el caballo trotaba.
+Doce mil cuatrocientos soldados por la puerta sur. La de los carros. En columna, de cuatro en fondo, con el Emperador delante, a caballo, con el aro de hierro, por primera vez en su vida, fuera de la funda: puesto. En la cabeza. Solo. Sin la corona de once libras. Libra y media de hierro de un ancla vieja, con Más que a mis ojos grabado por dentro, que le quedaba un poco grande y que le bailaba cuando el caballo trotaba.
 
 Detrás de él, Joss Hask, capitán general, sonriendo. Brena Hask, capitana de la Primera Compañía, con la espada de su padre. Las compañías. Los enanos con los picos. Los gnomos con las lámparas, tapadas con capuchones de fieltro. Los carros. Las máquinas.
 

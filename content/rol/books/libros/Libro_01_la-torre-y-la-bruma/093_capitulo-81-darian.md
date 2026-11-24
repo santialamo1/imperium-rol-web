@@ -24,7 +24,7 @@ Y una hija que oía cosas.
 
 No muertos. Eso era lo raro. Los Heredicus no oían a los muertos; nunca los habían oído. No era su don. Pero Livia, desde los cinco años, decía a veces, en mitad de la cena o al despertarse, que alguien la había llamado. Desde abajo. Desde muy lejos. Por su nombre.
 
-*Livia*, decía la voz, según ella. *Livia. Livia.* Como quien llama a un perro.
+Livia, decía la voz, según ella. Livia. Livia. Como quien llama a un perro.
 
 Darian la había llevado a los Custodios. Odrun Hask, la vieja Hinur que había criado al príncipe Bander, la había escuchado durante una hora con los ojos cerrados y luego le había dicho a Darian, a solas, en voz muy baja, que no era un muerto. Que no sabía lo que era. Y que le diera a la niña un nombre secreto cuanto antes, si no se lo había dado ya.
 
@@ -80,7 +80,7 @@ Y luego Haltair habría llamado a Casimir, y Casimir habría sonreído, y habrí
 
 Eso fue lo que se dijo. Era verdad, a medias.
 
-La otra mitad era que, durante un momento, sentado en aquella mesa con aquel vino caro en la boca, Darian Heredicus había pensado en la corona. En la vieja corona de tres puntas, en la cabeza de una niña rubia de ojos grises. *La última sangre del Fundador.* Lo había pensado solo un momento. Lo suficiente para que le diera vergüenza contárselo a nadie.
+La otra mitad era que, durante un momento, sentado en aquella mesa con aquel vino caro en la boca, Darian Heredicus había pensado en la corona. En la vieja corona de tres puntas, en la cabeza de una niña rubia de ojos grises. La última sangre del Fundador. Lo había pensado solo un momento. Lo suficiente para que le diera vergüenza contárselo a nadie.
 
 Los Heredicus no olvidan. Esa era la maldición de la familia. No que no olvidaran las ofensas, sino que no podían olvidar lo que habrían podido ser.
 

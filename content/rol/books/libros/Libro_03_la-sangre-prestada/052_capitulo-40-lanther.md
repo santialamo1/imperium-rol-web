@@ -126,25 +126,31 @@ Lanther lo dejó.
 
 Leyó despacio. Las letras de pescador. Las fórmulas, que no entendía. Las cosas que no eran fórmulas. Las que Bredinlo había escrito en cuarenta y un años, cuando no estaba escribiendo fórmulas.
 
-*Hoy ha llovido. La fuente sabe más dulce cuando llueve.* *He soñado con Pell. Barría. No me miraba.*
+*Hoy ha llovido. La fuente sabe más dulce cuando llueve.*
+
+*He soñado con Pell. Barría. No me miraba.*
 
 *Los pájaros tienen nombre. Le he puesto Pell al más grande. No le gusta.*
 
 *La vara late más deprisa cuando estoy triste. No voy a estar triste.*
 
-*Hoy ha venido la pelirroja con el de las gafas. Me han traído papel. No lo uso. Me* *gusta la pared.*
+*Hoy ha venido la pelirroja con el de las gafas. Me han traído papel. No lo uso. Me gusta la pared.*
 
-*Otra vez.* *Otra vez.* *Otra vez.*
+*Otra vez.*
+
+*Otra vez.*
+
+*Otra vez.*
 
 ---
 
-—¿Qué quiere decir *otra vez*? —dijo Lindos.
+—¿Qué quiere decir otra vez? —dijo Lindos.
 
 —No lo sé —dijo Lanther—. Lo escribió en la primera página de su cuaderno. Y en las paredes. Muchas veces. Sein cree que quería decir que se le venía a la cabeza otra vez. Lo de Pell. Cada día. —Se encogió de hombros—. Yo creo que quería decir que no lo iba a hacer otra vez. Que cada día decidía no hacerlo otra vez.
 
 —¿No usarla?
 
-—No usarla. Para salir. Para nada. —Lanther miró la vara—. Cuarenta y un años con ella al lado. Y la última frase que escribió fue *mañana, la cuarta*.
+—No usarla. Para salir. Para nada. —Lanther miró la vara—. Cuarenta y un años con ella al lado. Y la última frase que escribió fue mañana, la cuarta.
 
 —¿La cuarta qué?
 
@@ -174,7 +180,7 @@ Lanther lo miró.
 
 Lindos se volvió. Desde la pared.
 
-—¿Por qué me lo enseñas? —dijo—. Podías no haberlo hecho. Habría vuelto a la colina sin saberlo. Habría escrito *nuevo continente* y me habría quedado tan ancho.
+—¿Por qué me lo enseñas? —dijo—. Podías no haberlo hecho. Habría vuelto a la colina sin saberlo. Habría escrito nuevo continente y me habría quedado tan ancho.
 
 Lanther tardó en contestar.
 
@@ -220,7 +226,7 @@ Lindos le pidió el cuchillo.
 
 Se lo dio.
 
-Lindos fue a la pared. Al lado de la raya de Lanther. Y grabó, con letras torcidas, de carpintero, como había grabado *Fría* en la popa de un barco:
+Lindos fue a la pared. Al lado de la raya de Lanther. Y grabó, con letras torcidas, de carpintero, como había grabado Fría en la popa de un barco:
 
 *Lindos. 715. Por el sur.*
 
@@ -260,6 +266,6 @@ Cuando terminó, Érandiul cerró el diario. No se lo enseñó.
 
 En el pergamino de los Fragmentos, en la línea de la vara, Verawel añadió, un año después, cuando se lo contaron, con la letra que subía:
 
-*Ahora se llega también por el sur. Por una costa de desierto con un oasis frío. Lo* *sabe un Emperador. Escribió en la pared que no la tocó.*
+*Ahora se llega también por el sur. Por una costa de desierto con un oasis frío. Lo sabe un Emperador. Escribió en la pared que no la tocó.*
 
 *Cuesta un camino nuevo.*

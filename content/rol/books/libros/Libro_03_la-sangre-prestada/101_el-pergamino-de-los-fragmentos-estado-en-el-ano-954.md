@@ -1,12 +1,8 @@
 # El pergamino de los fragmentos (estado en el año 954)
 
-*Lo empezó Verawel en el 640, en la letra de las Madres, con lo que había en la* *lista de Tibbet y lo que leían las manos de Ottherius. Desde el 940 lo lleva Mirela Vell, que* *no sabe la letra de las Madres y escribe al lado, en la suya. Está en el sótano, en la mesa* *de Sein. Se transcribe aquí la columna de Mirela.*
+*Lo empezó Verawel en el 640, en la letra de las Madres, con lo que había en la lista de Tibbet y lo que leían las manos de Ottherius. Desde el 940 lo lleva Mirela Vell, que no sabe la letra de las Madres y escribe al lado, en la suya. Está en el sótano, en la mesa de Sein. Se transcribe aquí la columna de Mirela.*
 
-*Lo que se sabe: que lo que sobraba late. Que lo que toca ese latido mucho*
-
-*tiempo se dobla. Y que una cosa doblada ya no es una cosa: es un Fragmento.*
-
-*Hace con el tiempo lo que no debería.*
+*Lo que se sabe: que lo que sobraba late. Que lo que toca ese latido mucho tiempo se dobla. Y que una cosa doblada ya no es una cosa: es un Fragmento. Hace con el tiempo lo que no debería.*
 
 | Fragmento | Dónde está | Qué hace | Quién lo sabe |
 | --- | --- | --- | --- |
@@ -20,6 +16,8 @@
 
 *Al pie del pergamino, en la letra de Mirela:*
 
-*Las piedras negras de la puerta norte no son un Fragmento. Lo he preguntado.* *Ottherius dice que no, que no laten. Dice que solo se acuerdan. Las apunto aquí igual, por* *si un día alguien pregunta qué se le quedó al que escucha y qué se le quedó a la colina. A* *él le quedó la sangre de Lanther y la frase de mi padre. A nosotros, unas piedras.*
+*Las piedras negras de la puerta norte no son un Fragmento. Lo he preguntado. Ottherius dice que no, que no laten. Dice que solo se acuerdan. Las apunto aquí igual, por si un día alguien pregunta qué se le quedó al que escucha y qué se le quedó a la colina. A él le quedó la sangre de Lanther y la frase de mi padre. A nosotros, unas piedras.*
 
-*Que conste.* *M. V.*
+*Que conste.*
+
+*M. V.*

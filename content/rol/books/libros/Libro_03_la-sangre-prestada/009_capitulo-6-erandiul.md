@@ -14,15 +14,15 @@ Se miró la mano.
 
 Era la mano con la que había escrito el Diario. Del año cero al cuatrocientos diecisiete. Cuatrocientos diecisiete años de una letra que se iba hacia abajo al final de cada renglón, porque así escribía su madre, y su madre le había enseñado, en una cabaña de troncos en el bosque, a la luz de una vela de sebo, con una pluma de ganso y un trozo de corteza.
 
-*Las palabras se caen al final*, le decía su madre. *Como las hojas. No las sujetes.* *Déjalas caer.*
+*Las palabras se caen al final, le decía su madre. Como las hojas. No las sujetes. Déjalas caer.*
 
 Las había dejado caer cuatrocientos diecisiete años. Hasta la penúltima hoja.
 
-Luego, una tarde, en la biblioteca, había escrito una línea con esa mano. *Me quité el* *sombrero en una puerta a medio hacer, y no he vuelto a ponérmelo del todo. Lo dejo aquí.* *Que se lo ponga el que lea.* Y se había quedado dormido en la silla. Y al despertarse, el sombrero estaba colgado en la pared del Consejo, y el diario en la estantería de arriba, y él no había vuelto a coger una pluma en ciento seis años.
+Luego, una tarde, en la biblioteca, había escrito una línea con esa mano. Me quité el sombrero en una puerta a medio hacer, y no he vuelto a ponérmelo del todo. Lo dejo aquí. Que se lo ponga el que lea. Y se había quedado dormido en la silla. Y al despertarse, el sombrero estaba colgado en la pared del Consejo, y el diario en la estantería de arriba, y él no había vuelto a coger una pluma en ciento seis años.
 
 Ahora la mano se cerraba.
 
-Como si se hubiera dado cuenta. Como si dijera: *ya no hago falta*.
+Como si se hubiera dado cuenta. Como si dijera: ya no hago falta.
 
 ---
 
@@ -32,7 +32,7 @@ No lloró. Los elfos de su edad no lloran por las manos. Lloran por los árboles
 
 Pensó en la página en blanco.
 
-Después de la penúltima hoja, en el diario, había una hoja en blanco. La había dejado así a propósito. Por si acaso. *Por si acaso* era una expresión de la colina, no élfica, que había aprendido de Sein, y de los niños del Mercado, y que le había hecho gracia la primera vez y ahora no se la quitaba de encima. Por si acaso había que escribir algo más.
+Después de la penúltima hoja, en el diario, había una hoja en blanco. La había dejado así a propósito. Por si acaso. Por si acaso era una expresión de la colina, no élfica, que había aprendido de Sein, y de los niños del Mercado, y que le había hecho gracia la primera vez y ahora no se la quitaba de encima. Por si acaso había que escribir algo más.
 
 Ciento seis años. No había hecho falta.
 
@@ -102,11 +102,11 @@ Esa noche se dio friegas con aceite de romero.
 
 No sirvió de nada. La mano siguió cerrándose. Pero olía bien, y se quedó dormido con el olor, y soñó con su madre.
 
-En el sueño, su madre le cogía la mano izquierda. No la derecha. La izquierda. Y le ponía una pluma en ella. Y le decía, en élfico, la lengua del bosque, no la de Tawarsinan: *ahora con esta*.
+En el sueño, su madre le cogía la mano izquierda. No la derecha. La izquierda. Y le ponía una pluma en ella. Y le decía, en élfico, la lengua del bosque, no la de Tawarsinan: ahora con esta.
 
-*Con esta no sé*, le decía él. En el sueño tenía seis años. *Con esta escribo como un* *niño.*
+Con esta no sé, le decía él. En el sueño tenía seis años. Con esta escribo como un niño.
 
-*Ya*, decía su madre. *Eres un niño. Todos lo somos, cuando empezamos.*
+Ya, decía su madre. Eres un niño. Todos lo somos, cuando empezamos.
 
 ---
 
@@ -114,13 +114,13 @@ Empezó a la mañana siguiente.
 
 En secreto. En su casa. Con una pizarra de las de la escuela de Orla, que le pidió prestada a una niña del barrio a cambio de una manzana, y un trozo de tiza. Se sentó a la mesa de la cocina, con la pizarra delante, la tiza en la mano izquierda y la derecha dentro de la manga, y escribió.
 
-Escribió una *a*.
+Escribió una a.
 
-Le salió torcida. Hacia arriba. Como si la *a* quisiera irse.
+Le salió torcida. Hacia arriba. Como si la a quisiera irse.
 
 Escribió otra. Peor.
 
-Escribió veinte. Al final de la mañana tenía la pizarra llena de *aes*, todas distintas, todas mal, y la mano izquierda le dolía como no le había dolido nunca nada, desde el hombro hasta la punta de los dedos, y estaba sudando, en pleno diciembre, como si hubiera subido el zigzag corriendo.
+Escribió veinte. Al final de la mañana tenía la pizarra llena de aes, todas distintas, todas mal, y la mano izquierda le dolía como no le había dolido nunca nada, desde el hombro hasta la punta de los dedos, y estaba sudando, en pleno diciembre, como si hubiera subido el zigzag corriendo.
 
 Borró la pizarra. Empezó otra vez.
 
@@ -130,15 +130,15 @@ Tardó un mes en escribir su nombre.
 
 Tardó dos en escribir una frase.
 
-La frase fue: *El niño de la escoba dice que aceite de romero.* Se rio otra vez al escribirla, solo, en la cocina, y la dejó en la pizarra tres días antes de borrarla.
+La frase fue: El niño de la escoba dice que aceite de romero. Se rio otra vez al escribirla, solo, en la cocina, y la dejó en la pizarra tres días antes de borrarla.
 
-A los tres meses, en primavera, ya escribía. Mal. Despacio. Con una letra que no era la suya, que no se parecía en nada a la suya, que no se iba hacia abajo al final del renglón sino hacia arriba, como si las palabras, en lugar de caerse, quisieran salir volando. Una letra de niño. Grande, redonda, con las *eles* altísimas y las *oes* que no se cerraban del todo.
+A los tres meses, en primavera, ya escribía. Mal. Despacio. Con una letra que no era la suya, que no se parecía en nada a la suya, que no se iba hacia abajo al final del renglón sino hacia arriba, como si las palabras, en lugar de caerse, quisieran salir volando. Una letra de niño. Grande, redonda, con las eles altísimas y las oes que no se cerraban del todo.
 
 La miró mucho tiempo.
 
 Era otra letra.
 
-Pensó en su madre. *Las palabras se caen al final. No las sujetes.* Pensó que su madre no le había dicho nunca qué hacer si las palabras, en lugar de caerse, se te escapaban hacia arriba.
+Pensó en su madre. Las palabras se caen al final. No las sujetes. Pensó que su madre no le había dicho nunca qué hacer si las palabras, en lugar de caerse, se te escapaban hacia arriba.
 
 Pensó que a lo mejor era lo mismo. Soltarlas.
 
@@ -198,7 +198,7 @@ El Emperador se quedó mirándolo. Con las orejas de su madre, que se le movían
 
 —Porque había que ponérselo. —Érandiul miró la pizarra—. Si no se le pone nombre a una cosa, la cosa se lo pone sola. Y se pone uno peor.
 
-—¿Peor que *el que mira hacia abajo*?
+—¿Peor que el que mira hacia abajo?
 
 —Mucho peor.
 
@@ -240,11 +240,11 @@ El Emperador se fue al anochecer. En la puerta, se volvió.
 
 Esa noche, después de que se fuera el Emperador, Érandiul se sentó otra vez a la mesa. Con la pizarra. Con la tiza en la izquierda.
 
-Escribió, muy despacio, con la letra de niño que se le iba hacia arriba: *Año 523. Se me ha cerrado la mano. He aprendido con la otra. No hace falta todavía.*
+Escribió, muy despacio, con la letra de niño que se le iba hacia arriba: Año 523. Se me ha cerrado la mano. He aprendido con la otra. No hace falta todavía.
 
 Lo leyó. Lo leyó otra vez.
 
-Luego borró *No hace falta todavía* con el canto de la mano, el de la izquierda, y dejó una mancha blanca de tiza.
+Luego borró No hace falta todavía con el canto de la mano, el de la izquierda, y dejó una mancha blanca de tiza.
 
 Y escribió, encima de la mancha:
 

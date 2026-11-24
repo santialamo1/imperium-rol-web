@@ -1,14 +1,8 @@
 # Capítulo 62 · Lanther
 
-*Banderbill, el Mercado del valle negro y el octavo Rincón. Años 262 a 264 de la* *Nueva Era.*
+*Banderbill, el Mercado del valle negro y el octavo Rincón. Años 262 a 264 de la Nueva Era.*
 
-*De la Crónica de Ada Vell, tercera de su nombre, año 262. El hermano del*
-
-*Emperador ha pedido en la biblioteca todos los cuadernos de los Rincones. Se*
-
-*los he dado. Son suyos; los pagó su abuelo. Ha firmado el recibo con muy*
-
-*buena letra. Me preocupa la letra.*
+*De la Crónica de Ada Vell, tercera de su nombre, año 262. El hermano del Emperador ha pedido en la biblioteca todos los cuadernos de los Rincones. Se los he dado. Son suyos; los pagó su abuelo. Ha firmado el recibo con muy buena letra. Me preocupa la letra.*
 
 Lanther Bhargaras tenía doscientos cincuenta y un años, cara de dieciocho y una regla que había aprendido tarde y le había costado cara: no te encariñes con los que leen.
 
@@ -18,9 +12,9 @@ El príncipe Corin, hermano del Emperador Eandir, leía.
 
 Lo supo un martes, por Ada Vell, que le dejó una nota en el sitio de siempre, debajo de la tercera piedra del muro de la cripta, la que estaba suelta desde los tiempos de Amael:
 
-*Ha pedido los cuadernos de los Rincones. Los ocho. También el de Bredinlo. Lleva* *tres semanas leyendo. Toma notas. Ayer me preguntó si yo sabía dónde estaba el octavo.* *Le dije que no. No le mentí; no lo sé. Pero tú sí.*
+*Ha pedido los cuadernos de los Rincones. Los ocho. También el de Bredinlo. Lleva tres semanas leyendo. Toma notas. Ayer me preguntó si yo sabía dónde estaba el octavo. Le dije que no. No le mentí; no lo sé. Pero tú sí.*
 
-Y debajo, con otra tinta, más temblorosa: *Y otra cosa. Tengo sesenta y dos años y me duelen las manos. Hay que hablar de Sein.*
+Y debajo, con otra tinta, más temblorosa: Y otra cosa. Tengo sesenta y dos años y me duelen las manos. Hay que hablar de Sein.
 
 ---
 
@@ -74,7 +68,7 @@ Lanther lo estudió dos semanas, de lejos, como se estudia a un caballo antes de
 
 Corin quería cosas para todos.
 
-Lo oyó hablar en el Consejo, un jueves, desde la galería, con la capucha puesta entre los que iban a mirar. Hablaba de los orcos. De que llevaban cien años callados, al sur, en las colinas peladas más allá del camino de la sal, y de que *callados no es idos*, y de que los tramperos decían que había humo. Hablaba de los gnomos, que vendían pólvora a cualquiera. Hablaba de que el Imperio tenía cuatro razas y un ejército de juguete, y una corona de once libras, y nada más.
+Lo oyó hablar en el Consejo, un jueves, desde la galería, con la capucha puesta entre los que iban a mirar. Hablaba de los orcos. De que llevaban cien años callados, al sur, en las colinas peladas más allá del camino de la sal, y de que callados no es idos, y de que los tramperos decían que había humo. Hablaba de los gnomos, que vendían pólvora a cualquiera. Hablaba de que el Imperio tenía cuatro razas y un ejército de juguete, y una corona de once libras, y nada más.
 
 —¿Y qué propone Su Alteza? —preguntó un consejero, uno de los Saur, un nieto o un bisnieto de aquel Olbrecht, que tenía la nariz de la familia.
 
@@ -102,7 +96,7 @@ Lanther leyó.
 
 Era una lista. Muy ordenada. Pájaros. Vientos. Olas. Y al final, subrayado dos veces:
 
-*Uno de los dos sitios es la isla de las focas, al norte. Allí no huele a humo en otoño.* *Queda el otro.*
+*Uno de los dos sitios es la isla de las focas, al norte. Allí no huele a humo en otoño. Queda el otro.*
 
 Lanther dobló el papel.
 
@@ -120,7 +114,7 @@ De fresno, larga como un hombre, con una piedra blanca en la punta, metida en un
 
 La vara no se podía romper. Lo habían intentado. Los enanos, con hachas, en el sótano de la biblioteca, el que estaba húmedo. Las hachas se mellaron. Los elfos habían dicho que no se debía romper, que lo de abajo, si se rompía la piedra, se saldría todo de golpe. Los gnomos habían dicho que la podían tirar al mar. Sein había dicho que el mar devuelve las cosas. Al final, la habían mandado al Rincón que no se dijo dónde, con el único hombre del mundo que sabía de verdad lo que hacía, para que la vigilara el resto de su vida.
 
-Bredinlo la vigiló cuarenta años. No la tocó. Eso lo escribió también, en el cuaderno, cada día, como un rezo: *Hoy no la he tocado.* Catorce mil veces. Y en el año doscientos veintitrés se murió, de un frío, en el invierno, y Lanther, que le llevaba la comida cada mes de abril, lo encontró sentado en la piedra de la puerta, con la vara a un lado, en el suelo, a dos palmos de la mano.
+Bredinlo la vigiló cuarenta años. No la tocó. Eso lo escribió también, en el cuaderno, cada día, como un rezo: Hoy no la he tocado. Catorce mil veces. Y en el año doscientos veintitrés se murió, de un frío, en el invierno, y Lanther, que le llevaba la comida cada mes de abril, lo encontró sentado en la piedra de la puerta, con la vara a un lado, en el suelo, a dos palmos de la mano.
 
 La enterró allí. Y dejó la vara donde estaba. A dos palmos de un hombre que no la había tocado en cuarenta años.
 
@@ -132,7 +126,7 @@ Y ahora un príncipe que leía y que quería cosas para todos había contado los
 
 Bajó al Mercado. Porque todo el que se iba de la colina sin que lo supiera nadie pasaba por el Mercado, a comprar botas o a vender algo, y porque en el Mercado estaba Wenna.
 
-Wenna tenía doscientos diez años, la cara de una mujer de cincuenta y la voz de una de cien, y estaba en su taburete al lado de la balanza, como siempre, con un cucurucho de castañas asadas en el regazo. Había engordado. Lo decía ella. *He engordado*, decía cada vez que la veía Lanther, cada diez años, como quien da el parte del tiempo.
+Wenna tenía doscientos diez años, la cara de una mujer de cincuenta y la voz de una de cien, y estaba en su taburete al lado de la balanza, como siempre, con un cucurucho de castañas asadas en el regazo. Había engordado. Lo decía ella. He engordado, decía cada vez que la veía Lanther, cada diez años, como quien da el parte del tiempo.
 
 —He engordado —dijo.
 
@@ -150,7 +144,7 @@ Wenna sonrió. En el Mercado se pesaba todo lo que entraba y salía, y lo que no
 
 —Ha pesado la bolsa —dijo—. Para pagar las mulas. Y al ponerla en la balanza, se le cayó un papel. —Se metió la mano en el escote, que era donde guardaba las cosas importantes, y sacó un papel doblado—. Se lo iba a devolver. Pero se fue muy rápido.
 
-Era una página de cuaderno. Con la letra muy buena. Una sola línea: *Si lo que hay allí hace desaparecer a un hombre, puede hacer desaparecer un ejército.*
+Era una página de cuaderno. Con la letra muy buena. Una sola línea: Si lo que hay allí hace desaparecer a un hombre, puede hacer desaparecer un ejército.
 
 —Ya —dijo.
 
@@ -170,7 +164,7 @@ Había una niña. Siempre había una niña. Esta tendría ocho años, una trenza
 
 —¿Cuál?
 
-—El de la niña pelirroja que se sentaba en el suelo de la biblioteca y no devolvía los libros. —La niña tiró una piedrita—. Es muy bueno. La niña se escondía debajo de la mesa y una señora la encontraba siempre. Una señora con *s*. —Frunció el ceño—. Pero no se acuerda de cómo se llamaba la señora. Siempre se para ahí.
+—El de la niña pelirroja que se sentaba en el suelo de la biblioteca y no devolvía los libros. —La niña tiró una piedrita—. Es muy bueno. La niña se escondía debajo de la mesa y una señora la encontraba siempre. Una señora con s. —Frunció el ceño—. Pero no se acuerda de cómo se llamaba la señora. Siempre se para ahí.
 
 Lanther se calló. No podía.
 
@@ -240,7 +234,7 @@ Señaló la vara.
 
 —Se llamaba Pell. Tenía sesenta años. Barría. Tenía una hija en el puerto que le llevaba la comida a la Escuela todos los días a mediodía, y ese día llegó con la cesta y no había pasillo. —Lanther lo miró—. La hija se llamaba Bera. Se murió en el doscientos cuarenta, a los setenta y ocho. Fue todos los días de su vida a mirar la pared de la Escuela, la que se tapió. Todos. Sesenta años. Con la cesta.
 
-—Bredinlo no apuntó a Pell —siguió Lanther—. Apuntó a una maceta. Para que su maestra le dijera *bien*. —Señaló la tumba con la barbilla—. Ahí está. Cuarenta años sin tocarla. Lo escribía cada día. *Hoy no la he tocado.* Tú tienes su cuaderno. Lo has leído entero. Habrás visto la frase.
+—Bredinlo no apuntó a Pell —siguió Lanther—. Apuntó a una maceta. Para que su maestra le dijera bien. —Señaló la tumba con la barbilla—. Ahí está. Cuarenta años sin tocarla. Lo escribía cada día. Hoy no la he tocado. Tú tienes su cuaderno. Lo has leído entero. Habrás visto la frase.
 
 —Catorce mil veces —dijo Corin. Bajo.
 
@@ -282,7 +276,7 @@ Se levantó. Fue hacia él. Le puso la mano en el hombro, como se la ponía a to
 
 El problema, al volver, era que Corin sabía.
 
-—No lo vamos a matar —dijo Sein, en la biblioteca, sin levantar la vista. Era la primera semana que firmaba la Crónica como Tomas Vell, y le estaba costando; dos veces había empezado a escribir *S* y había tenido que convertirla en una *T* con un garabato—. Es de la familia. Es tu familia.
+—No lo vamos a matar —dijo Sein, en la biblioteca, sin levantar la vista. Era la primera semana que firmaba la Crónica como Tomas Vell, y le estaba costando; dos veces había empezado a escribir S y había tenido que convertirla en una T con un garabato—. Es de la familia. Es tu familia.
 
 —Ya lo sé.
 
@@ -302,7 +296,7 @@ El papel lo escribió Ada Vell, la última cosa que escribió antes de irse a Ul
 
 Eandir lo firmó entre una licencia de pesca y un permiso para una feria de ganado. Sin leerlo.
 
-*Se nombra al príncipe Corin, hermano de Su Majestad Imperial, Intendente de los* *Puertos del Sur y de las Islas, con residencia en Nueva Esperanza, para que cuente lo que* *entra y lo que sale.*
+*Se nombra al príncipe Corin, hermano de Su Majestad Imperial, Intendente de los Puertos del Sur y de las Islas, con residencia en Nueva Esperanza, para que cuente lo que entra y lo que sale.*
 
 Corin lo leyó en el patio del palacio, de pie, con el libro debajo del brazo. Lo leyó dos veces. Lo miró al trasluz.
 
@@ -330,4 +324,4 @@ Y en la del debe:
 
 Lo miró un rato, con la cabeza ladeada. Luego añadió, más pequeño, al margen, con su letra de niño:
 
-*Que conste que Lanther lloró en la barca. Me lo ha dicho Tibbet, que lo ha olido.* *Ella dice que fue el viento.*
+*Que conste que Lanther lloró en la barca. Me lo ha dicho Tibbet, que lo ha olido. Ella dice que fue el viento.*

@@ -1,16 +1,16 @@
 # Capítulo 66 · Bastián Vell
 
-*La colina de Banderbill. Del otoño del 891 a la primavera del 892 de la Nueva Era* *(284–285 D.bA). Crónica en directo, en hojas sueltas.*
+*La colina de Banderbill. Del otoño del 891 a la primavera del 892 de la Nueva Era (284–285 D.bA). Crónica en directo, en hojas sueltas.*
 
-*Estas hojas no son una crónica. Una crónica se escribe después, cuando ya se sabe* *cómo acaba. Estas las escribo mientras pasa, porque no sé si habrá después. Las meto en* *la caja de hierro del sótano cada noche. Si alguien las lee y yo no estoy, que las cosa al* *final del libro tercero, sin corregir. Las faltas son mías.*
+*Estas hojas no son una crónica. Una crónica se escribe después, cuando ya se sabe cómo acaba. Estas las escribo mientras pasa, porque no sé si habrá después. Las meto en la caja de hierro del sótano cada noche. Si alguien las lee y yo no estoy, que las cosa al final del libro tercero, sin corregir. Las faltas son mías.*
 
 *B. V.*
 
 ---
 
-**Año 891. Equinoccio de otoño.**
+Año 891. Equinoccio de otoño.
 
-Me llamo Bastián. Tengo cincuenta y cinco años, el apellido desde el 870, cuando me lo dio mi madre en la mesa de la cocina sin decir nada, poniéndome el cuaderno delante y el lápiz encima. Mi madre murió el invierno pasado. Inés Vell. Tenía noventa y uno. Se murió escribiendo; se quedó dormida encima de una hoja y no se despertó. La hoja decía: *Llevamos treinta y cuatro. Faltan.*
+Me llamo Bastián. Tengo cincuenta y cinco años, el apellido desde el 870, cuando me lo dio mi madre en la mesa de la cocina sin decir nada, poniéndome el cuaderno delante y el lápiz encima. Mi madre murió el invierno pasado. Inés Vell. Tenía noventa y uno. Se murió escribiendo; se quedó dormida encima de una hoja y no se despertó. La hoja decía: Llevamos treinta y cuatro. Faltan.
 
 No terminó la frase. No sé qué faltaba.
 
@@ -18,7 +18,7 @@ Lo sé ahora. Creo.
 
 ---
 
-**Año 891. Diez días después.**
+Año 891. Diez días después.
 
 Ha llegado un Hask de Annkör.
 
@@ -34,7 +34,7 @@ Ha dejado en Tiama a su hijo. Se llama Ilan, como el abuelo. Dieciséis años. C
 
 ---
 
-**Año 891. Solsticio de invierno.**
+Año 891. Solsticio de invierno.
 
 Ha llegado un correo del valle negro. A caballo. Reventando el caballo.
 
@@ -56,7 +56,7 @@ No le he contestado.
 
 ---
 
-**Año 892. Primeros días.**
+Año 892. Primeros días.
 
 La colina está llena.
 
@@ -72,7 +72,7 @@ Nadie dice qué.
 
 ---
 
-**Año 892. Primeros días. Por la noche.**
+Año 892. Primeros días. Por la noche.
 
 Mirela quiere subir al muro.
 
@@ -110,7 +110,7 @@ Lo apunto para acordarme de intentarlo.
 
 ---
 
-**Año 892. Mediados de invierno.**
+Año 892. Mediados de invierno.
 
 Los orcos del barrio de abajo.
 
@@ -140,7 +140,7 @@ Durg miró arriba.
 
 ---
 
-**Año 892. Finales de invierno.**
+Año 892. Finales de invierno.
 
 He visto al de sal.
 
@@ -160,7 +160,7 @@ Ha tardado en contestar.
 
 ---
 
-**Año 892. Finales de invierno. Dos días después.**
+Año 892. Finales de invierno. Dos días después.
 
 He ido a la escuela de la calle de los Cubos un sábado. A ver a los niños pegar la oreja al muro.
 
@@ -174,7 +174,7 @@ No he oído nada.
 
 La niña de diez sí.
 
-—Ahí —ha dicho. Bajito—. *Tum.*
+—Ahí —ha dicho. Bajito—. Tum.
 
 La maestra le ha preguntado qué más.
 
@@ -206,11 +206,11 @@ Lo apunto.
 
 ---
 
-**Año 892. Equinoccio de primavera.**
+Año 892. Equinoccio de primavera.
 
 Ha pasado una cosa en el sótano. No sé qué. No estaba. Lo apunto como me lo ha contado Mirela, que estaba en la escalera, copiando un índice, y lo oyó todo sin querer.
 
-Estaban todos. El que suma. La de las castañas. El gnomo, con un sombrero que tiene cosido un *108*. El de corteza. El muchacho que no es muchacho, Ottherius. El elfo viejo, en su silla, que ya no habla casi nunca, que tiene mil treinta y siete años. El panadero, Teo Ruald, que Mirela no sabía que era de ellos y que estaba en un rincón con harina en las manos. Y la pelirroja.
+Estaban todos. El que suma. La de las castañas. El gnomo, con un sombrero que tiene cosido un 108. El de corteza. El muchacho que no es muchacho, Ottherius. El elfo viejo, en su silla, que ya no habla casi nunca, que tiene mil treinta y siete años. El panadero, Teo Ruald, que Mirela no sabía que era de ellos y que estaba en un rincón con harina en las manos. Y la pelirroja.
 
 Ottherius ha sacado una cosa de un arcón. Un rollo pequeño. Gris. Atado con un cordel.
 
@@ -242,7 +242,7 @@ Y la pelirroja se ha reído. Mirela dice que se ha reído de una manera que no l
 
 ---
 
-**Año 892. Cinco días después.**
+Año 892. Cinco días después.
 
 La pelirroja ha mandado a dos al valle negro.
 
@@ -260,7 +260,7 @@ No lo he entendido. Lo apunto.
 
 ---
 
-**Año 892. Primavera. No sé el día.**
+Año 892. Primavera. No sé el día.
 
 No he dormido.
 
@@ -280,7 +280,7 @@ Luego, al cabo de un rato, el muro ha vuelto a cantar. Bajito. Más bajito que a
 
 ---
 
-**Año 892. Al día siguiente.**
+Año 892. Al día siguiente.
 
 Ha llegado un correo del valle negro.
 
@@ -288,11 +288,11 @@ No a caballo. A pie. Un niño del Mercado, de doce años, que ha corrido toda la
 
 Traía un papel. De la Custodia. Una línea.
 
-*Tres dedos menos un pelo. La de las castañas y el de corteza están cantando hacia* *abajo, al lado del Guardián, desde medianoche. La grieta se ha parado. No sé por cuánto.* *Que no paren.*
+*Tres dedos menos un pelo. La de las castañas y el de corteza están cantando hacia abajo, al lado del Guardián, desde medianoche. La grieta se ha parado. No sé por cuánto. Que no paren.*
 
 ---
 
-**Año 892. Al día siguiente. Por la noche.**
+Año 892. Al día siguiente. Por la noche.
 
 El Emperador ha subido a la tercera almena. Con la pelirroja. Con el Hask de la espada. Con el almirante Corvo Hask. Con su hijo, Astral, que tiene treinta y dos años y no ha dicho una palabra en todo el día.
 
@@ -318,7 +318,7 @@ Al cabo de mucho rato, el Emperador se ha vuelto hacia mí.
 
 Me ha extrañado que lo supiera. Se lo he dicho.
 
-—*Llevamos treinta y cuatro. Faltan.*
+*—Llevamos treinta y cuatro. Faltan.*
 
 El Emperador ha sonreído.
 
@@ -332,7 +332,7 @@ El Emperador ha mirado al norte.
 
 ---
 
-**Año 892. Esa misma noche. Más tarde.**
+Año 892. Esa misma noche. Más tarde.
 
 Lo escribo en la almena. Con la mano temblando.
 

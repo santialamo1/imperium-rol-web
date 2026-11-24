@@ -38,7 +38,7 @@ Mil ciento doce muertos. Una capitana mirando una estrella.
 
 El Emperador se sentó. En el borde de la mesa. Le crujieron las rodillas; tenía doscientos treinta años y desde Arghâl le crujían.
 
-—Él dijo que volvería —dijo—. Por la colina. Tú lo oíste. —Miró a Lanther—. No ha vuelto. Han pasado veintitrés años. Puede tardar doscientos. Puede tardar quinientos. Cuando vuelva, yo no estaré. Mi hijo, a lo mejor tampoco. Mi nieto no se acordará de Arghâl más que por un renglón del Diario que dice *dura noticia*. —Se pasó la mano por la cara—. Vosotros sí. Pero sois cinco. Y uno no habla con nadie que no sea un pan.
+—Él dijo que volvería —dijo—. Por la colina. Tú lo oíste. —Miró a Lanther—. No ha vuelto. Han pasado veintitrés años. Puede tardar doscientos. Puede tardar quinientos. Cuando vuelva, yo no estaré. Mi hijo, a lo mejor tampoco. Mi nieto no se acordará de Arghâl más que por un renglón del Diario que dice dura noticia. —Se pasó la mano por la cara—. Vosotros sí. Pero sois cinco. Y uno no habla con nadie que no sea un pan.
 
 Nadie se rio.
 
@@ -110,13 +110,15 @@ Wenna asintió. Despacio.
 
 La regla la escribió Sein. Esa noche. En la última hoja del libro de la ofrenda, el del cofre, el de Corvo, debajo de las reglas viejas, con la letra cuidadosa de un hombre que ha escrito mucho:
 
-*Desde el año 630 (23 D.bA), por acuerdo de la Orden, a petición de Arthal II y con* *el voto en contra y luego a favor de Lanther:*
+*Desde el año 630 (23 D.bA), por acuerdo de la Orden, a petición de Arthal II y con el voto en contra y luego a favor de Lanther:*
 
-*Que cada Emperador de la sangre pueda dar su ofrenda una vez que tenga un hijo* *de la sangre vivo. Nunca antes. Para que la línea no cuelgue de un solo hilo.*
+*Que cada Emperador de la sangre pueda dar su ofrenda una vez que tenga un hijo de la sangre vivo. Nunca antes. Para que la línea no cuelgue de un solo hilo.*
 
-*Que la dé a quien haga falta para acordarse. No para el hierro. No para el amor.* *No porque toca.*
+*Que la dé a quien haga falta para acordarse. No para el hierro. No para el amor. No porque toca.*
 
-*Que la Orden pueda decir que no.* *Que conste.*
+*Que la Orden pueda decir que no.*
+
+*Que conste.*
 
 Debajo, siete firmas. La de Érandiul, con la izquierda. La de Tibbet, un sombrero dibujado. La de Wenna, una balanza. La de Saelith, una hoja. La de Sein. La del Emperador.
 
@@ -208,7 +210,7 @@ Se le fue el color de la cara. Se le llenaron los ojos. No dijo nada durante muc
 
 Al final levantó la mano. Despacio. Como se levanta la mano de la cara de un muerto.
 
-—Aquí hay un viejo —dijo— que escribió *Tobías Vell, el que no tachaba*, y se murió. Y hay un niño que tenía once años y ningún apellido. Y hay una cosa debajo de la primera línea. Escrita con un dedo, sin tinta. Que no se ve. —Miró a Sein—. Pone *perdón*.
+—Aquí hay un viejo —dijo— que escribió Tobías Vell, el que no tachaba, y se murió. Y hay un niño que tenía once años y ningún apellido. Y hay una cosa debajo de la primera línea. Escrita con un dedo, sin tinta. Que no se ve. —Miró a Sein—. Pone perdón.
 
 Sein no se puso las gafas. Se quedó con ellas en la mano.
 
@@ -254,7 +256,7 @@ No se le pasó.
 
 Se le hizo soportable, con los años. Aprendió a no oír, como se aprende a no oír el mar cuando se vive en el puerto. Pero no se le pasó. Y fue más raro desde entonces. Hablaba solo por la calle. Saludaba a las puertas. Le pedía perdón a las sillas antes de sentarse.
 
-En la colina le llamaron *el loco de Rinkel*. En Rinkel, *el loco de la colina*.
+En la colina le llamaron el loco de Rinkel. En Rinkel, el loco de la colina.
 
 A él le daba igual. Se lo dijo a Lanther, años después: que era mejor que lo llamaran loco que lo que era de verdad. Que a los locos nadie les pregunta qué saben.
 

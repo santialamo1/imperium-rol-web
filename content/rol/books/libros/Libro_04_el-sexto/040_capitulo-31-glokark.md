@@ -1,6 +1,6 @@
 # Capítulo 31 · Glokark
 
-*Orac, el patio de armas y la ladera norte. Otoño del año 1250 de la Nueva Era* *(643 D.bA).*
+*Orac, el patio de armas y la ladera norte. Otoño del año 1250 de la Nueva Era (643 D.bA).*
 
 Glokark tenía ochenta y siete años y la cara de treinta, y no sabía por qué, y no lo preguntaba.
 
@@ -18,7 +18,7 @@ En el 1210, los otros tenían cincuenta. Él, la de veinte.
 
 En el 1250, los que quedaban vivos de los fosos eran viejos. Orcos viejos, con los colmillos gastados y las rodillas malas, que se sentaban al sol en el muelle a ver pasar los barcos negros y que se callaban cuando pasaba él. Él tenía la cara de treinta. Y la bolsita en el cuello. Con un pellizco de sal gris, gruesa, que no se gastaba nunca, que olía a mar y a cueva y a algo muy viejo, y que de noche, cuando la apretaba, estaba un poco caliente.
 
-*Era un hombre*, le había dicho el general. *Uno que se llamaba Pim.*
+Era un hombre, le había dicho el general. Uno que se llamaba Pim.
 
 Glokark no sabía qué era un hombre de sal. Pero sabía que la sal de un hombre que se ha quedado mucho tiempo sin morirse se pega. Y que se le había pegado a él.
 
@@ -104,7 +104,7 @@ Glokark no le había visto nunca la cara de cerca. De lejos parecía la de cualq
 
 ---
 
-—Vendrá —dijo el de gris—. Es lo que hace. Se ríe y luego dice lo que nadie dice. Y lo que nadie dirá esa noche es *me entrego yo si os vais*. Lo dirá él. Lo sé porque lo quiere. Lleva doscientos años queriendo una cosa que no sabe que quiere: que alguien le deje pagar a él. —Se le movió la cara—. Se lo voy a dar.
+—Vendrá —dijo el de gris—. Es lo que hace. Se ríe y luego dice lo que nadie dice. Y lo que nadie dirá esa noche es me entrego yo si os vais. Lo dirá él. Lo sé porque lo quiere. Lleva doscientos años queriendo una cosa que no sabe que quiere: que alguien le deje pagar a él. —Se le movió la cara—. Se lo voy a dar.
 
 —¿Y luego?
 

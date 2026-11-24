@@ -1,6 +1,6 @@
 # Capítulo 42 · Teo
 
-*Banderbill, la calle del Horno y la casa de arriba. Otoño del año 1330 de la Nueva* *Era (723 D.bA).*
+*Banderbill, la calle del Horno y la casa de arriba. Otoño del año 1330 de la Nueva Era (723 D.bA).*
 
 La idea fue de Teo, y la tuvo hablando con Gorda, como todas las buenas.
 
@@ -8,7 +8,7 @@ Era el otoño del 1330 y Aldo Ruald se había muerto en el verano, a los ochenta
 
 Y la casa vieja.
 
-No la había vendido. Teo no le había dejado. Se lo había pedido en el 1290, cuando Aldo compró el solar de arriba, de rodillas casi, el tío viejo que nadie sabía cuántos años tenía de rodillas en la trastienda delante de un hombre de cuarenta: *No la vendas. Déjame* *aquí. Déjame el horno chico. Hago el pan de la casa. Para vosotros. Para los criados.* *Para los del puerto, los martes, como siempre.*
+No la había vendido. Teo no le había dejado. Se lo había pedido en el 1290, cuando Aldo compró el solar de arriba, de rodillas casi, el tío viejo que nadie sabía cuántos años tenía de rodillas en la trastienda delante de un hombre de cuarenta: No la vendas. Déjame aquí. Déjame el horno chico. Hago el pan de la casa. Para vosotros. Para los criados. Para los del puerto, los martes, como siempre.
 
 Aldo no había entendido. Pero había dicho que sí. Los Ruald decían que sí al tío viejo. Era una costumbre de la familia, como la de mirar el humo.
 
@@ -26,7 +26,7 @@ Gorda burbujeó. Estaba vieja. Había tenido un mal verano, el del 1328, cuando 
 
 Gorda no dijo nada.
 
-—Y ya se dice. —Teo bajó la voz, aunque no había nadie—. Desde que Aldo cerró la tienda. *Los Ruald, que se han hecho ricos con la sal, y el viejo sigue encendiendo el* *horno de la calle del Horno cada mañana. Para nadie.* Lo dicen en el puerto. Lo dicen riéndose. Lo dicen de esta casa, Gorda. De esta.
+—Y ya se dice. —Teo bajó la voz, aunque no había nadie—. Desde que Aldo cerró la tienda. Los Ruald, que se han hecho ricos con la sal, y el viejo sigue encendiendo el horno de la calle del Horno cada mañana. Para nadie. Lo dicen en el puerto. Lo dicen riéndose. Lo dicen de esta casa, Gorda. De esta.
 
 Gorda burbujeó. Muy poco.
 
@@ -64,7 +64,7 @@ Bruno lo miró.
 
 —¿Nada?
 
-—Repártelo. Tíralo. Dáselo a los cerdos. Me da igual. —Teo se inclinó hacia delante—. Pero que se haga. Y que se sepa que se hace. Que en la colina se diga: *los* *Ruald, que ya no venden pan, lo siguen haciendo cada mañana, en la casa grande, para* *nadie, quién sabe por qué.* Que se olviden del horno chico de abajo, porque el de arriba hace más humo. Que se diga en el puerto. En El juglar. En las tabernas. Que lo diga la gente que no sabe por qué lo dice.
+—Repártelo. Tíralo. Dáselo a los cerdos. Me da igual. —Teo se inclinó hacia delante—. Pero que se haga. Y que se sepa que se hace. Que en la colina se diga: los Ruald, que ya no venden pan, lo siguen haciendo cada mañana, en la casa grande, para nadie, quién sabe por qué. Que se olviden del horno chico de abajo, porque el de arriba hace más humo. Que se diga en el puerto. En El juglar. En las tabernas. Que lo diga la gente que no sabe por qué lo dice.
 
 ---
 
@@ -80,7 +80,7 @@ Teo no contestó.
 
 Teo lo miró mucho rato.
 
-Pensó en decírselo. Era la primera vez en mil doscientos años que lo pensaba en serio. Decírselo a un Ruald. A uno de la sangre. *Tú. Tú eres. Tu padre era. Tus hijos son.* *Lo que sujeta a once personas al mundo, y a un gnomo en una torre de Orac, y a una* *pelirroja en una almena, y a mí en esta silla, es lo que te corre por las venas, Bruno. Y hay* *alguien, abajo, que lo está buscando por el olor a pan.*
+Pensó en decírselo. Era la primera vez en mil doscientos años que lo pensaba en serio. Decírselo a un Ruald. A uno de la sangre. Tú. Tú eres. Tu padre era. Tus hijos son. Lo que sujeta a once personas al mundo, y a un gnomo en una torre de Orac, y a una pelirroja en una almena, y a mí en esta silla, es lo que te corre por las venas, Bruno. Y hay alguien, abajo, que lo está buscando por el olor a pan.
 
 No lo dijo.
 
@@ -98,7 +98,7 @@ Teo levantó la vista.
 
 —¿Vale?
 
-—Vale. Hago un horno. Hago pan. Lo reparto. —Bruno se levantó. Se puso la capa —. Mi padre me dijo una cosa antes de morirse, tío. Me dijo: *Al tío viejo, que sí. Siempre.* *Aunque no lo entiendas. Lo hizo mi padre, y el suyo, y el suyo. No sé por qué. Pero los* *Ruald que le han dicho que sí al tío viejo han vivido bien, y el único que le dijo que no se* *ahogó en el puerto en el 1170.* —Se ajustó el sombrero—. No sé si es verdad lo del que se ahogó. Pero no voy a ser el segundo.
+—Vale. Hago un horno. Hago pan. Lo reparto. —Bruno se levantó. Se puso la capa —. Mi padre me dijo una cosa antes de morirse, tío. Me dijo: Al tío viejo, que sí. Siempre. Aunque no lo entiendas. Lo hizo mi padre, y el suyo, y el suyo. No sé por qué. Pero los Ruald que le han dicho que sí al tío viejo han vivido bien, y el único que le dijo que no se ahogó en el puerto en el 1170. —Se ajustó el sombrero—. No sé si es verdad lo del que se ahogó. Pero no voy a ser el segundo.
 
 Se fue al puerto.
 
@@ -116,7 +116,7 @@ El horno de la casa de arriba lo hizo un albañil de Nix en seis semanas. Uno gr
 
 El primer pan salió en la primavera del 1331.
 
-Lo hizo una cocinera nueva. Rosa Larien. De Ullathorpe. Treinta años, viuda, con una hija de nueve que se llamaba Tea y que se pasaba el día en la cocina comiendo masa cruda. Bruno la había contratado porque hacía el mejor pan de Ullathorpe, decían, y porque no hacía preguntas, y porque cuando le dijo *el pan es para nadie*, Rosa se encogió de hombros y dijo *el pan nunca es para nadie, señor; alguien se lo come*.
+Lo hizo una cocinera nueva. Rosa Larien. De Ullathorpe. Treinta años, viuda, con una hija de nueve que se llamaba Tea y que se pasaba el día en la cocina comiendo masa cruda. Bruno la había contratado porque hacía el mejor pan de Ullathorpe, decían, y porque no hacía preguntas, y porque cuando le dijo el pan es para nadie, Rosa se encogió de hombros y dijo el pan nunca es para nadie, señor; alguien se lo come.
 
 Rosa necesitaba masa madre.
 
@@ -140,7 +140,7 @@ Teo sonrió.
 
 Funcionó.
 
-Teo lo supo porque lo oyó en El juglar, en el invierno del 1332, a un actor que hacía de borracho en una comedia de Aira y que, en medio de la escena, improvisó: *¡Qué riqueza* *la de los Ruald, que hacen pan para tirarlo!*, y el teatro entero se rio, porque todo el mundo lo sabía. Lo oyó en el puerto. Lo oyó en la plaza. Lo oyó en la escalera de la biblioteca, a dos escribanos jóvenes que se reían de que los Ruald le daban pan del bueno a los cerdos.
+Teo lo supo porque lo oyó en El juglar, en el invierno del 1332, a un actor que hacía de borracho en una comedia de Aira y que, en medio de la escena, improvisó: ¡Qué riqueza la de los Ruald, que hacen pan para tirarlo!, y el teatro entero se rio, porque todo el mundo lo sabía. Lo oyó en el puerto. Lo oyó en la plaza. Lo oyó en la escalera de la biblioteca, a dos escribanos jóvenes que se reían de que los Ruald le daban pan del bueno a los cerdos.
 
 La casa de arriba hacía pan para nadie.
 
@@ -170,7 +170,7 @@ Nadie dijo nada en un rato.
 
 Sein se quitó las gafas.
 
-—Él lo va a oír —dijo—. La gente lo dice en voz alta. *Los Ruald hacen pan para* *nadie.* Lo dice un actor en un teatro, con trescientas personas riéndose. Eso se oye. —Se limpió las gafas en la manga—. Va a mirar la casa de arriba.
+—Él lo va a oír —dijo—. La gente lo dice en voz alta. Los Ruald hacen pan para nadie. Lo dice un actor en un teatro, con trescientas personas riéndose. Eso se oye. —Se limpió las gafas en la manga—. Va a mirar la casa de arriba.
 
 —Esa es la idea.
 
@@ -184,7 +184,7 @@ Teo se quedó quieto.
 
 Nadie habló.
 
-Teo no lo había pensado así. Lo había pensado al revés. Había pensado que el que escucha buscaba *el pan*, y que si encontraba un pan que no era, se quedaría mirando ese pan y no el otro. No había pensado que el pan de mentira estaba en la casa de verdad.
+Teo no lo había pensado así. Lo había pensado al revés. Había pensado que el que escucha buscaba el pan, y que si encontraba un pan que no era, se quedaría mirando ese pan y no el otro. No había pensado que el pan de mentira estaba en la casa de verdad.
 
 —Entonces lo he estropeado —dijo.
 
@@ -192,7 +192,7 @@ Teo no lo había pensado así. Lo había pensado al revés. Había pensado que e
 
 La miraron.
 
-—El que escucha sabe que hay algo con pan —dijo Hatmie—. Si no hay ninguna casa que haga pan raro, buscará por todas. Por todas las casas de la colina, una a una, durante cien años. Y alguna vez dará con esta, con la vieja, con un sótano y una masa y un viejo que le habla, y oirá lo que se dice aquí. —Movió los pies—. Pero si hay una casa que hace pan raro, mirará esa. Y verá a unos ricos de la sal que hacen pan para tirarlo. Y dirá: *esto es demasiado fácil. Esto es un cebo. Lo que busco no está aquí*.
+—El que escucha sabe que hay algo con pan —dijo Hatmie—. Si no hay ninguna casa que haga pan raro, buscará por todas. Por todas las casas de la colina, una a una, durante cien años. Y alguna vez dará con esta, con la vieja, con un sótano y una masa y un viejo que le habla, y oirá lo que se dice aquí. —Movió los pies—. Pero si hay una casa que hace pan raro, mirará esa. Y verá a unos ricos de la sal que hacen pan para tirarlo. Y dirá: esto es demasiado fácil. Esto es un cebo. Lo que busco no está aquí.
 
 —¿Y lo creerá?
 

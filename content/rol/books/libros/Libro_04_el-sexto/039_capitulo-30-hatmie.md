@@ -1,6 +1,6 @@
 # Capítulo 30 · Hatmie
 
-*Las cuadras del palacio y la tercera almena. Del año 1190 al 1215 de la Nueva* *Era (583–608 D.bA).*
+*Las cuadras del palacio y la tercera almena. Del año 1190 al 1215 de la Nueva Era (583–608 D.bA).*
 
 A Hatmie le enseñaron a leer con una viga.
 
@@ -20,7 +20,7 @@ Tuerto era el tercero que se llamaba así en vida de su abuela. El octavo desde 
 
 Tilda lo pensó. Se lo sabía. Lo había oído una vez, hacía ochenta años, y se lo sabía, como se saben las canciones que se oyen de niño.
 
-—*Las cosas se quedan con el nombre de lo que les pasó una vez* —dijo—. *Aunque* *ya no les pase.*
+*—Las cosas se quedan con el nombre de lo que les pasó una vez —dijo—. Aunque ya no les pase.*
 
 Hatmie miró la viga. Las letras torcidas. Contó las palabras con el dedo. Doce. Luego las de abajo. Seis.
 
@@ -132,7 +132,7 @@ Hatmie quitó la mano de golpe.
 
 —Las murallas no hacen ruido.
 
-—Esta sí. La canté yo. —Lanther puso su mano al lado de la de Hatmie—. Cada piedra es un muerto de un sitio que se llamaba Concordia. Los traje en una jarra. Les pedí que se quedaran a guardar la colina. Se quedaron. —Se calló un momento—. Hacen eso de noche. *Tum.* Para que se sepa que siguen.
+—Esta sí. La canté yo. —Lanther puso su mano al lado de la de Hatmie—. Cada piedra es un muerto de un sitio que se llamaba Concordia. Los traje en una jarra. Les pedí que se quedaran a guardar la colina. Se quedaron. —Se calló un momento—. Hacen eso de noche. Tum. Para que se sepa que siguen.
 
 Hatmie volvió a poner la mano.
 
@@ -222,7 +222,7 @@ Baervan dejó de reírse.
 
 La miró mucho rato.
 
-Pensó en una viga en una cuadra, con letras de dos hombres muertos. Pensó en Eluret, en la paja, diciendo que no se puede cerrar un palacio con llave. Y en él mismo, diciendo *ahora no*.
+Pensó en una viga en una cuadra, con letras de dos hombres muertos. Pensó en Eluret, en la paja, diciendo que no se puede cerrar un palacio con llave. Y en él mismo, diciendo ahora no.
 
 —¿Sabes leer? —le preguntó.
 
@@ -278,6 +278,6 @@ No se la enseñó a nadie.
 
 La llevó cuarenta y dos años sin saber para qué era.
 
-Y en la viga del último establo, debajo de *Lo dijo él. Lo apunto yo. A.*, esa primavera, una gnoma de treinta y cinco años rayó con la punta de una espada oxidada, en letras pequeñas y rectas, de las que se aprenden en un invierno:
+Y en la viga del último establo, debajo de Lo dijo él. Lo apunto yo. A., esa primavera, una gnoma de treinta y cinco años rayó con la punta de una espada oxidada, en letras pequeñas y rectas, de las que se aprenden en un invierno:
 
 *Lo guardo yo. H.*

@@ -168,7 +168,7 @@ El grande no se movió.
 
 —¿El qué?
 
-—El del libro. —A Joel le temblaba la voz y no sabía por qué—. El del elfo. *Su* *corazón es puro, su alma noble...*
+—El del libro. —A Joel le temblaba la voz y no sabía por qué—. El del elfo. Su corazón es puro, su alma noble...
 
 El grande se levantó del taburete.
 
@@ -224,7 +224,7 @@ Se quedó quieto detrás de la barra. Mirándolo. Con el vaso en la mano.
 
 El de gris no bajó el dedo.
 
-Joel pensó en la bolsa de cuero. En el grande. En *no lo diga*. En el elfo, sentado en la mesa de la chimenea, con la jarra en la mano, con la voz que no era suya.
+Joel pensó en la bolsa de cuero. En el grande. En no lo diga. En el elfo, sentado en la mesa de la chimenea, con la jarra en la mano, con la voz que no era suya.
 
 Pensó en que llevaba quince años contando lo que había dicho el elfo. Cada noche. A gente que pagaba otro. Y en que esa gente se iba contándolo. Y en que la colina entera lo sabía, lo recitaba, lo compraba a dos monedas en el puerto.
 
@@ -280,7 +280,7 @@ Al día siguiente lo sabía todo Ullathorpe.
 
 A los tres días, la colina.
 
-*Joel, el de la posada, el del libro del elfo, borracho, subido a la barra, gritando* *que el sexto ha dormido en su casa. Que camina entre nosotros. Con capucha.*
+*Joel, el de la posada, el del libro del elfo, borracho, subido a la barra, gritando que el sexto ha dormido en su casa. Que camina entre nosotros. Con capucha.*
 
 *Y que eran cinco.*
 

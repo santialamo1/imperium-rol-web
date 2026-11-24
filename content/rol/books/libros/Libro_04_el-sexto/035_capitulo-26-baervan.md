@@ -1,8 +1,8 @@
 # Capítulo 26 · Baervan
 
-*Las montañas grises, en el interior de Oderon, y el bosque viejo de Nix. Otoño del* *año 1131 y primavera del 1149 de la Nueva Era (524 y 542 D.bA).*
+*Las montañas grises, en el interior de Oderon, y el bosque viejo de Nix. Otoño del año 1131 y primavera del 1149 de la Nueva Era (524 y 542 D.bA).*
 
-Baervan no buscaba la vara. Eso lo sabía desde la primera página del cuaderno de Eluret, o mejor dicho desde la página doscientos once, donde, debajo de *Tercer Rincón. El* *de la sed*, en letra más pequeña, decía *Sé dónde está la vara. No la voy a buscar*.
+Baervan no buscaba la vara. Eso lo sabía desde la primera página del cuaderno de Eluret, o mejor dicho desde la página doscientos once, donde, debajo de Tercer Rincón. El de la sed, en letra más pequeña, decía Sé dónde está la vara. No la voy a buscar.
 
 Buscaba a los que se habían quedado dentro.
 
@@ -96,7 +96,7 @@ Dormido.
 
 ---
 
-Se llamaba Pip. Tenía once años. Lo supieron cuando se despertó, después de que Baervan le leyera el nombre del único pastor desaparecido que había en los registros del monasterio de los últimos cien años: *Pip, hijo de Aldo, de la aldea de abajo, que subió con* *el rebaño en la primavera del 1124 y no bajó.*
+Se llamaba Pip. Tenía once años. Lo supieron cuando se despertó, después de que Baervan le leyera el nombre del único pastor desaparecido que había en los registros del monasterio de los últimos cien años: Pip, hijo de Aldo, de la aldea de abajo, que subió con el rebaño en la primavera del 1124 y no bajó.
 
 Siete años.
 
@@ -124,13 +124,13 @@ Baervan se quedó en la puerta. Con el sombrero en la mano.
 
 Luego se fue, para que no le vieran la cara.
 
-Esa noche, en la posada del valle, sacó el cuaderno de Eluret. Pasó las hojas hasta el final, hasta la de *No sé si la silla*. Y en la siguiente, la primera en blanco, escribió con su letra, que era redonda y pequeña, de gnomo:
+Esa noche, en la posada del valle, sacó el cuaderno de Eluret. Pasó las hojas hasta el final, hasta la de No sé si la silla. Y en la siguiente, la primera en blanco, escribió con su letra, que era redonda y pequeña, de gnomo:
 
-*1131. Cuarto Rincón. Las montañas grises. Lo abrió una cabra. Un vivo: Pip, hijo* *de Aldo, once años, siete dentro. Ciento noventa y seis nombres. Ninguna vara. Ni la* *busqué.*
+*1131. Cuarto Rincón. Las montañas grises. Lo abrió una cabra. Un vivo: Pip, hijo de Aldo, once años, siete dentro. Ciento noventa y seis nombres. Ninguna vara. Ni la busqué.*
 
 Y debajo:
 
-*No sé si esto es lo que querías, Eluret. Creo que sí. Es lo único que se me ocurre* *hacer con lo que me dejasteis.*
+*No sé si esto es lo que querías, Eluret. Creo que sí. Es lo único que se me ocurre hacer con lo que me dejasteis.*
 
 ---
 
@@ -146,7 +146,7 @@ Olía a quemado.
 
 No a fuego. A quemado viejo. A madera que ardió hace mucho y que se quedó así, negra, fría, oliendo. En un bosque verde, vivo, húmedo, de primavera, con los pájaros cantando. Olía a un bosque que ya no existía.
 
-—Tawarsinan —dijo Verawel—. El bosque de los árboles que esperan. El de antes del fuego. Odelia lo apuntó en su cuaderno: *Cuarto. El bosque viejo. El olor de* *Tawarsinan.* Es lo que se le olvidó al cantar este. El olor de su casa. —Miró al roble—. Se quedó aquí.
+—Tawarsinan —dijo Verawel—. El bosque de los árboles que esperan. El de antes del fuego. Odelia lo apuntó en su cuaderno: Cuarto. El bosque viejo. El olor de Tawarsinan. Es lo que se le olvidó al cantar este. El olor de su casa. —Miró al roble—. Se quedó aquí.
 
 ---
 
@@ -218,18 +218,20 @@ No lo dijo porque el Consejo votaba dieciséis a tres. Porque la colina tenía f
 
 Lo pensó. Lo pensó mucho. Y se rio, porque era lo que hacía. Y no lo dijo.
 
-Se lo contó a Mirela. Solo a ella. Una noche, en el sótano. Y Mirela lo apuntó en el pergamino de los Fragmentos, en la línea de la vara, debajo de la palabra *todavía* que Verawel había escrito en el 640 en la letra de las Madres:
+Se lo contó a Mirela. Solo a ella. Una noche, en el sótano. Y Mirela lo apuntó en el pergamino de los Fragmentos, en la línea de la vara, debajo de la palabra todavía que Verawel había escrito en el 640 en la letra de las Madres:
 
-*1149. Huellas en el quinto. Cuatro orcos y un drow. Se llevaron el registro. El* *Comandante dice que no se diga. Yo digo que lo apunto. M. V.*
+*1149. Huellas en el quinto. Cuatro orcos y un drow. Se llevaron el registro. El Comandante dice que no se diga. Yo digo que lo apunto. M. V.*
 
 ---
 
 En el cuaderno de Eluret, debajo de la línea de Pip, Baervan escribió esa primavera:
 
-*1149. Quinto Rincón. El bosque viejo. Olía a Tawarsinan. Nadie dentro.* *Doscientos cuarenta nombres. Alguien estuvo antes.*
+*1149. Quinto Rincón. El bosque viejo. Olía a Tawarsinan. Nadie dentro. Doscientos cuarenta nombres. Alguien estuvo antes.*
 
 Y debajo, más pequeño, la segunda cosa que no dijo nunca. Que no era la de las huellas. Que era otra:
 
-*Verawel lloró en el claro. No por las huellas. Por el olor. Dice que es la primera* *vez en novecientos años que huele su casa.*
+*Verawel lloró en el claro. No por las huellas. Por el olor. Dice que es la primera vez en novecientos años que huele su casa.*
 
-*Le he dejado llorar. No me he reído.* *Esto también es un Rincón que se abre.*
+*Le he dejado llorar. No me he reído.*
+
+*Esto también es un Rincón que se abre.*

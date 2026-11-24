@@ -4,7 +4,7 @@
 
 La lista nueva no tenía nombre, porque Tibbet no había sabido ponérselo.
 
-La había empezado en el 585, la tarde de la torre, en la muralla, cuando le dijo a Sein *se acabó la lista, hay que empezar la otra*. Y Sein le había preguntado *¿qué otra?*, y él no había contestado, porque no lo sabía. Lo supo esa noche, en el taller de la Lámpara, delante de la pared de sombreros. Cogió el papel de siempre, el de las treinta cosas que no habían pasado, lo desdobló, le dio la vuelta, y en el revés, en blanco, escribió:
+La había empezado en el 585, la tarde de la torre, en la muralla, cuando le dijo a Sein se acabó la lista, hay que empezar la otra. Y Sein le había preguntado ¿qué otra?, y él no había contestado, porque no lo sabía. Lo supo esa noche, en el taller de la Lámpara, delante de la pared de sombreros. Cogió el papel de siempre, el de las treinta cosas que no habían pasado, lo desdobló, le dio la vuelta, y en el revés, en blanco, escribió:
 
 *1.*
 
@@ -18,7 +18,7 @@ Hasta el invierno del 607.
 
 ---
 
-Hacía un frío de los que en la colina se recordaban por el nombre. *El invierno de la* *zanja*, lo llamarían después. Nevaba cada tres días. El brezo de las lomas estaba enterrado. La zanja de nueve mil pasos se había llenado de nieve y había que vaciarla cada mañana con palas, y los gnomos habían inventado unas palas con mango de muelle que tiraban la nieve lejos, y los enanos decían que eran ridículas, y las usaban.
+Hacía un frío de los que en la colina se recordaban por el nombre. El invierno de la zanja, lo llamarían después. Nevaba cada tres días. El brezo de las lomas estaba enterrado. La zanja de nueve mil pasos se había llenado de nieve y había que vaciarla cada mañana con palas, y los gnomos habían inventado unas palas con mango de muelle que tiraban la nieve lejos, y los enanos decían que eran ridículas, y las usaban.
 
 Tibbet llevaba el sombrero ochenta. De hojas de acebo. Que pinchaba. Lo había elegido a propósito; en el campamento hacía tanto frío y se dormía tan mal que uno se dormía en cualquier sitio, de pie, en la guardia, en la letrina, y un gnomo dormido en la nieve es un gnomo muerto. El acebo lo mantenía despierto.
 
@@ -132,9 +132,9 @@ Y habló. En la lengua de la colina. Por primera vez en doscientos cuarenta y nu
 
 Lo repitió entero. Despacio. Con la voz que se le rompía.
 
-*El corazón está en el pozo. En el centro. Debajo de la torre. Una piedra roja. Late.* *La puerta late con ella. Los muros laten con ella. Mientras lata, el hierro no se mueve y el* *pan huele. Si deja de latir, se abre todo.*
+*El corazón está en el pozo. En el centro. Debajo de la torre. Una piedra roja. Late. La puerta late con ella. Los muros laten con ella. Mientras lata, el hierro no se mueve y el pan huele. Si deja de latir, se abre todo.*
 
-*Por arriba no se llega. Por abajo, sí. Hay una cueva de sal, debajo del pozo. Con* *una raíz. Hay uno de sal que la guarda. No os hará nada. Os abrirá.*
+*Por arriba no se llega. Por abajo, sí. Hay una cueva de sal, debajo del pozo. Con una raíz. Hay uno de sal que la guarda. No os hará nada. Os abrirá.*
 
 *Que venga la que huele a tres.*
 
@@ -162,7 +162,7 @@ No la canción de la lluvia mansa. Otra cosa. Unas notas sueltas, torpes, que no
 
 Nimrath le puso la mano en el hombro. Por primera vez. Una mano de elfo, delgada, fría.
 
-—Se dice así —dijo. Y le colocó los dedos en las cuerdas. Uno a uno. Como se le colocan a un niño—. Tres notas. Abajo, arriba, arriba. *Te oigo.*
+—Se dice así —dijo. Y le colocó los dedos en las cuerdas. Uno a uno. Como se le colocan a un niño—. Tres notas. Abajo, arriba, arriba. Te oigo.
 
 El Emperador lo tocó.
 
@@ -212,7 +212,7 @@ Tibbet la cantó más que nadie. Dieciocho horas al día. Con el sombrero de ace
 
 No sabía por qué lo hacía él. Podían hacerlo otros. Pero sentía, cantándola, una cosa que no sabía explicar. Que la nana era bonita. Que era la nana de una madre, de alguien, de algún sitio, una nana de pescadores, de redes, de playa. Que alguien se la había robado a alguien. Y que cantarla para abrir una puerta en lugar de para cerrarla era como devolverla.
 
-Lo apuntó en la libreta. No en la lista. *No sé de quién es la nana. Pero no es suya.*
+Lo apuntó en la libreta. No en la lista. No sé de quién es la nana. Pero no es suya.
 
 ---
 
@@ -242,7 +242,7 @@ Tenía una voz grave. Cansada. De pescador.
 
 Tibbet se quedó quieto. Con la lámpara tapada en la mano. Con el sombrero de acebo pinchándole la frente.
 
-Lo conocía. No en persona. Por la lista. Por la cuatro: *un cuento de tramperos: un* *hombre de sal que tira del nombre*. Por todo lo que le habían contado Lanther y Sein en quinientos años. Por un puente y una torre y un niño recién nacido.
+Lo conocía. No en persona. Por la lista. Por la cuatro: un cuento de tramperos: un hombre de sal que tira del nombre. Por todo lo que le habían contado Lanther y Sein en quinientos años. Por un puente y una torre y un niño recién nacido.
 
 —Siempre —dijo Tibbet.
 
@@ -258,7 +258,7 @@ Tibbet no supo qué decir.
 
 Esa noche, en la tienda de las mulas, con los dedos vendados por Wenna y la garganta en carne viva, Tibbet sacó el papel del forro del sombrero.
 
-Le dio la vuelta. Al revés. A la cara en blanco. Donde ponía *1.* desde hacía veintidós años.
+Le dio la vuelta. Al revés. A la cara en blanco. Donde ponía 1. desde hacía veintidós años.
 
 Mojó el lápiz de grafito en la lengua, por costumbre.
 
@@ -270,7 +270,9 @@ Lo miró. Lo leyó dos veces.
 
 Luego, más abajo, escribió:
 
-*2. Un elfo que no hablaba ha hablado.* *3. Un rey ha dicho «te oigo» en arpa.*
+*2. Un elfo que no hablaba ha hablado.*
+
+*3. Un rey ha dicho «te oigo» en arpa.*
 
 *4. Mil gnomos han cantado una nana robada para devolverla.*
 
@@ -282,7 +284,7 @@ Wenna le miraba por encima del hombro, con la boca llena de castañas.
 
 Tibbet pensó.
 
-—*Cosas que han pasado* —dijo—. Al revés.
+—Cosas que han pasado —dijo—. Al revés.
 
 —Eso no tiene sentido.
 

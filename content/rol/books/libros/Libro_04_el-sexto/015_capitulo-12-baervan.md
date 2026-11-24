@@ -1,6 +1,6 @@
 # Capítulo 12 · Baervan
 
-*El cuarto de los Emperadores, palacio de Banderbill. Finales del otoño del año* *1066 de la Nueva Era (459 D.bA).*
+*El cuarto de los Emperadores, palacio de Banderbill. Finales del otoño del año 1066 de la Nueva Era (459 D.bA).*
 
 A Baervan lo llamaron al palacio un martes, a la hora del pan, y pensó que lo iban a echar.
 
@@ -8,7 +8,7 @@ Tenía razones. Tenía treinta y un años, que en un gnomo es la edad en que se 
 
 El comandante Eluret lo había mirado desde la otra punta de la mesa. Sin decir nada.
 
-Así que cuando un ujier del palacio fue a buscarlo al cuartel, un martes a las siete de la mañana, con una nota que decía *el Emperador quiere verle*, Baervan pensó que se había pasado. Que esta vez sí. Que lo mandaban a Tiama a contar yetis.
+Así que cuando un ujier del palacio fue a buscarlo al cuartel, un martes a las siete de la mañana, con una nota que decía el Emperador quiere verle, Baervan pensó que se había pasado. Que esta vez sí. Que lo mandaban a Tiama a contar yetis.
 
 Se puso el uniforme de gala. Se peinó la barba, que en un gnomo de treinta y un años es todavía corta y castaña y se riza sola. Se puso el sombrero.
 
@@ -210,7 +210,7 @@ Pensó en los de las caravanas. En los de la costa de Annkör. En que le iban a 
 
 —Eso espero.
 
-El pulgar en la lengua. Hierro. Sal. Y debajo algo más, que Baervan no supo nombrar y que le recordó, sin razón, a la primera vez que oyó de verdad el *tum* de la muralla, de niño, una noche de tormenta, desde el sótano de su casa, con su madre tapándole los oídos y él apartándole las manos para oír mejor.
+El pulgar en la lengua. Hierro. Sal. Y debajo algo más, que Baervan no supo nombrar y que le recordó, sin razón, a la primera vez que oyó de verdad el tum de la muralla, de niño, una noche de tormenta, desde el sótano de su casa, con su madre tapándole los oídos y él apartándole las manos para oír mejor.
 
 Algo se paró en el pecho. Un momento. Como un péndulo tocado con un dedo.
 
@@ -270,7 +270,7 @@ Eluret la miró.
 
 Eluret se quedó solo con el Emperador dormido y el escudo.
 
-Se sentó en la silla. Al lado del escudo. Y le puso la mano encima. Estaba tibio. Latía. Despacio. *Tum*. Y otro.
+Se sentó en la silla. Al lado del escudo. Y le puso la mano encima. Estaba tibio. Latía. Despacio. Tum. Y otro.
 
 —Gal —dijo. Muy bajo. Para que no lo oyera nadie.
 

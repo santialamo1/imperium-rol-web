@@ -40,7 +40,7 @@ En el invierno del 1437, después del octavo Rincón, después de que el orco gr
 
 Solo, primero. Luego con Ardan, que no quiso dejarlo ir solo. Luego con Seliel, que no quiso quedarse.
 
-Nadie se lo mandó. El Emperador no lo supo hasta que ya se habían ido. Nesturil lo supo porque Seliel le dejó una nota debajo del tablero, en el ala este, entre las piedras negras: *Vamos a traerla. No se lo digas. Si no volvemos, dile que no fue culpa suya.*
+Nadie se lo mandó. El Emperador no lo supo hasta que ya se habían ido. Nesturil lo supo porque Seliel le dejó una nota debajo del tablero, en el ala este, entre las piedras negras: Vamos a traerla. No se lo digas. Si no volvemos, dile que no fue culpa suya.
 
 No volvieron.
 
@@ -272,7 +272,7 @@ Ardan, detrás, con las manos vacías, cogiendo a un soldado herido del brazo y 
 
 Seliel. Riéndose. Con una espada que no sabía usar. Riéndose de miedo.
 
-*No volváis*, había escrito. *No me busquéis.*
+No volváis, había escrito. No me busquéis.
 
 Volvieron.
 

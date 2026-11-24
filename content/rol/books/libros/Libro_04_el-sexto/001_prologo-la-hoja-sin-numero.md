@@ -1,12 +1,12 @@
 # Prólogo · La hoja sin número
 
-*La biblioteca de Banderbill y la tercera almena. La mañana siguiente, primavera* *del año 968 de la Nueva Era (361 D.bA).*
+*La biblioteca de Banderbill y la tercera almena. La mañana siguiente, primavera del año 968 de la Nueva Era (361 D.bA).*
 
 Astragal devolvió el frasco antes del desayuno.
 
 Mirela lo vio porque estaba donde estaba siempre a esa hora, en la silla del fondo de la biblioteca, la de Aren, la de Ilse, la de Bastián, con el cuaderno abierto y la pluma seca, esperando a que la luz entrara por la ventana alta lo bastante para no tener que encender la vela. Setenta y cinco años llevaba haciéndolo. Setenta y cinco años con la cara de treinta y uno, que era la que tenía la noche del 892 cuando el muro cantó y su padre se quedó tendido en la escalera de la puerta norte con la mano todavía apretada alrededor de una pluma que no había soltado ni para morirse.
 
-Asgal le había dado la vida un mes después. *Para que acabes la frase*, le había dicho. Era un hombre de pocas palabras y de muchos años, y se había equivocado de razón, como se equivocan todos los que dan cosas grandes: creía que ella quería acabarla.
+Asgal le había dado la vida un mes después. Para que acabes la frase, le había dicho. Era un hombre de pocas palabras y de muchos años, y se había equivocado de razón, como se equivocan todos los que dan cosas grandes: creía que ella quería acabarla.
 
 No había acabado nada. Ni una palabra. El cuaderno de Bastián seguía en la mesa de Sein, abierto por la última hoja, y la última hoja seguía diciendo lo mismo que el día en que se lo trajeron manchado:
 
@@ -124,7 +124,7 @@ Sein levantó la vista. La miró por encima de las gafas. Luego asintió, muy de
 
 Pasó hojas. Muchas. Al final, donde no había nada escrito.
 
-Mirela sabía cómo eran los libros de Sein porque los había leído todos, los ciento siete, de noche, a escondidas, durante los primeros veinte años de su vida prestada, hasta que se dio cuenta de que Sein sabía que los leía y los dejaba abiertos a propósito por la página que quería que leyera. Tenían dos columnas. El debe a la izquierda; el haber a la derecha. Lo que la Orden había dado al Imperio y lo que el Imperio le había dado a la Orden. Vidas, años, favores, papeles de los viernes, una guerra evitada, otra que no se pudo. Y desde hacía unos siglos, en algunas hojas, una tercera columna, más estrecha, sin título, donde Sein apuntaba cosas que no eran de nadie. *Lo que se debe y nadie cobra*, la había llamado una vez, borracho, la única vez que Mirela lo vio borracho, la noche del 892.
+Mirela sabía cómo eran los libros de Sein porque los había leído todos, los ciento siete, de noche, a escondidas, durante los primeros veinte años de su vida prestada, hasta que se dio cuenta de que Sein sabía que los leía y los dejaba abiertos a propósito por la página que quería que leyera. Tenían dos columnas. El debe a la izquierda; el haber a la derecha. Lo que la Orden había dado al Imperio y lo que el Imperio le había dado a la Orden. Vidas, años, favores, papeles de los viernes, una guerra evitada, otra que no se pudo. Y desde hacía unos siglos, en algunas hojas, una tercera columna, más estrecha, sin título, donde Sein apuntaba cosas que no eran de nadie. Lo que se debe y nadie cobra, la había llamado una vez, borracho, la única vez que Mirela lo vio borracho, la noche del 892.
 
 Pero ninguna hoja de ningún libro estaba sin numerar. Sein numeraba todo. Numeraba hasta las servilletas.
 
@@ -138,7 +138,7 @@ Escribió una palabra, con su letra pequeña, de niño, que no había cambiado e
 
 Y debajo, más pequeño todavía:
 
-*Astragal Bhargaras, 22.º si llega. Primer año. Ninguna ofrenda dada. Ninguna* *pedida que sirva.*
+*Astragal Bhargaras, 22.º si llega. Primer año. Ninguna ofrenda dada. Ninguna pedida que sirva.*
 
 Dejó la pluma. Se quitó las gafas. Se frotó los ojos con dos dedos.
 
@@ -174,7 +174,7 @@ Mirela no dijo nada.
 
 Lo apuntó esa tarde. En el cuaderno de los Vell. Arriba, con la letra buena:
 
-*Año 968. El príncipe ha devuelto el frasco. Ha preguntado para qué se dan. Nadie* *lo sabe.*
+*Año 968. El príncipe ha devuelto el frasco. Ha preguntado para qué se dan. Nadie lo sabe.*
 
 Y luego se quedó un rato con la pluma encima del papel, como Sein la noche anterior, y como Bastián la noche del 892, y se acordó de la frase sin acabar, y no la miró.
 
@@ -224,7 +224,7 @@ Mirela se quedó.
 
 Escribió en el cuaderno, a la luz que quedaba:
 
-*Año 968. Lanther dice que le ha gustado que al príncipe le llamen Gal. No ha dicho* *por qué. Yo creo que sé por qué. Nadie la ha llamado nunca más que Lanther.*
+*Año 968. Lanther dice que le ha gustado que al príncipe le llamen Gal. No ha dicho por qué. Yo creo que sé por qué. Nadie la ha llamado nunca más que Lanther.*
 
 Lo tachó.
 

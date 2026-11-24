@@ -12,11 +12,11 @@ Pero miraba el mapa.
 
 ---
 
-El mapa lo había dibujado su madre. Tessa Ardel, la Emperatriz, la cartógrafa, la que había nacido en el barro de Wonder el primer invierno y se había muerto en el 779 con una pluma en la mano, corrigiendo una línea de costa. Era grande. Tres varas de ancho. De piel de cabra cosida. Con los dos continentes, el viejo a la izquierda y el nuevo a la derecha, y en medio el mar y una tierra de desierto con una montaña que humea, y en la costa de esa tierra un punto pequeño, con una palmera dibujada al lado, y un nombre: *Lindos*.
+El mapa lo había dibujado su madre. Tessa Ardel, la Emperatriz, la cartógrafa, la que había nacido en el barro de Wonder el primer invierno y se había muerto en el 779 con una pluma en la mano, corrigiendo una línea de costa. Era grande. Tres varas de ancho. De piel de cabra cosida. Con los dos continentes, el viejo a la izquierda y el nuevo a la derecha, y en medio el mar y una tierra de desierto con una montaña que humea, y en la costa de esa tierra un punto pequeño, con una palmera dibujada al lado, y un nombre: Lindos.
 
 En el continente viejo estaba todo. La colina. Nix. El valle negro, pintado de negro. Arghâl, que era la ciudad de al lado. El gran desierto y Rinkel al otro lado. Las montañas rojas. Las islas de los gnomos. Las islas de los piratas, con un dibujo pequeño de un barco y una calavera, que su madre había puesto de broma.
 
-En el nuevo estaba Wonder. El bosque rojo. El muerto, en gris. El blanco, con un nombre: *Illiandor*. La punta del norte de los pájaros negros, con una cruz y nada escrito, porque su padre le había dicho a su madre que no escribiera nada.
+En el nuevo estaba Wonder. El bosque rojo. El muerto, en gris. El blanco, con un nombre: Illiandor. La punta del norte de los pájaros negros, con una cruz y nada escrito, porque su padre le había dicho a su madre que no escribiera nada.
 
 Y arriba, encima de los dos continentes, en toda la parte de arriba del mapa, nada.
 
@@ -38,11 +38,11 @@ Bhargaras se sabía ese mapa de memoria. Lo había mirado toda la vida. Y siempr
 
 —No hay nada porque hace frío.
 
-—*Dicen.*
+*—Dicen.*
 
 Liminus se rio. Le costó. Tosió.
 
-—Tu madre —dijo— puso eso para fastidiarte. Lo sabía. Que lo ibas a mirar. Lo puso a propósito. *Dicen.* Para que fueras.
+—Tu madre —dijo— puso eso para fastidiarte. Lo sabía. Que lo ibas a mirar. Lo puso a propósito. Dicen. Para que fueras.
 
 Bhargaras se quedó quieto.
 
@@ -66,7 +66,7 @@ La tercera fue que la poza no se tocaba.
 
 —Eso ya lo sabemos, majestad —dijo el más viejo.
 
-—Lo sabéis. —Liminus lo miró—. Pero lo vais a apuntar otra vez. En el libro del Consejo. Con fecha de hoy. *La poza no se toca.* Para que dentro de mil años, cuando alguien diga que eso es una superstición de un Emperador viejo, haya dos fechas. Y no una.
+—Lo sabéis. —Liminus lo miró—. Pero lo vais a apuntar otra vez. En el libro del Consejo. Con fecha de hoy. La poza no se toca. Para que dentro de mil años, cuando alguien diga que eso es una superstición de un Emperador viejo, haya dos fechas. Y no una.
 
 Lo apuntaron.
 
@@ -186,9 +186,9 @@ Bhargaras lo miró escribir. Lo había mirado toda la vida; el elfo viejo estaba
 
 Érandiul le enseñó la hoja.
 
-*El gran líder, Liminus ha muerto el día de la fecha. El sucesor del trono es su hijo,* *Bhargaras XI, quien hoy será declarado décimo octavo Emperador de Banderbill.*
+*El gran líder, Liminus ha muerto el día de la fecha. El sucesor del trono es su hijo, Bhargaras XI, quien hoy será declarado décimo octavo Emperador de Banderbill.*
 
-—*Gran líder* —dijo Bhargaras—. No ha salido de este oasis en veintidós años.
+—Gran líder —dijo Bhargaras—. No ha salido de este oasis en veintidós años.
 
 —Ha gobernado un Imperio de dos continentes sin moverse de una silla al lado de una poza —dijo Érandiul—. Y no se ha caído nada. —Cerró el diario—. Eso es un gran líder. Los que se mueven mucho son otra cosa.
 
@@ -274,7 +274,7 @@ Luego le preguntó a un viejo que remendaba redes en el muelle quién era.
 
 —¿Cómo que lee el agua?
 
-El viejo levantó la vista. Vio el aro. No se levantó; en Lindos la gente no se levantaba, porque Liminus se lo había prohibido en el 740, por ley, la segunda, después de la de la poza. *En Lindos no se levanta nadie para nadie, que bastante cuesta sentarse.*
+El viejo levantó la vista. Vio el aro. No se levantó; en Lindos la gente no se levantaba, porque Liminus se lo había prohibido en el 740, por ley, la segunda, después de la de la poza. En Lindos no se levanta nadie para nadie, que bastante cuesta sentarse.
 
 —Majestad —dijo—. El agua tiene costuras. Donde se junta la que viene del arrecife con la que viene de fuera. No se ven. Hay que saber. La niña sabe. Desde los cinco años. —Volvió a las redes—. Su madre también sabía. Se ahogó igual. Saber no sirve para todo.
 
@@ -346,12 +346,12 @@ En el sitio de su padre.
 
 En la colina, cuatro meses después, cuando llegó la noticia, Sein Vell abrió el libro cuadragésimo segundo y apuntó, en la columna del debe:
 
-*Año 800. Liminus. Gobernó sesenta y seis años desde una silla. No rompió su* *propia ley. Debe la colina: una ley cumplida por el que la hizo.*
+*Año 800. Liminus. Gobernó sesenta y seis años desde una silla. No rompió su propia ley. Debe la colina: una ley cumplida por el que la hizo.*
 
 Y debajo, en letra más pequeña:
 
 *Raro. Que conste.*
 
-Y en el palacio, en un taller de la planta baja que llevaba cerrado desde Arthal, un gnomo con un sombrero que tenía cosido un *96* en la cinta empezó a dibujar, en una pared encalada, con carbón, la proa de un barco que no existía. Muy alta. Muy afilada. Forrada de hierro.
+Y en el palacio, en un taller de la planta baja que llevaba cerrado desde Arthal, un gnomo con un sombrero que tenía cosido un 96 en la cinta empezó a dibujar, en una pared encalada, con carbón, la proa de un barco que no existía. Muy alta. Muy afilada. Forrada de hierro.
 
 Para romper una cosa que no había visto nunca nadie.

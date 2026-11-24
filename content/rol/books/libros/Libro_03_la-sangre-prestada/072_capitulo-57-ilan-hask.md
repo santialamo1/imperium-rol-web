@@ -1,6 +1,6 @@
 # Capítulo 57 · Ilan Hask
 
-*Annkör, entre el glaciar de Kûr y Tiama. Pleno invierno del año 846 de la Nueva* *Era (239 D.bA).*
+*Annkör, entre el glaciar de Kûr y Tiama. Pleno invierno del año 846 de la Nueva Era (239 D.bA).*
 
 Los yetis empezaron a llegar a Tiama un martes, que en Annkör no quería decir nada porque allí los días no tenían nombre, pero que Ilan seguía contando porque se lo había enseñado su madre y porque, en la oscuridad de tres meses del invierno de Kûr, contar los días era lo único que separaba un día de otro.
 
@@ -32,7 +32,7 @@ No con los oídos. Ilan no lo oía con los oídos.
 
 Lo oía en la espada.
 
-La llevaba a la espalda, en la vaina de piel de foca que le había cosido Brin el año de la boda. Azul. Transparente. Con el hilo de hierro dentro, en el alma, y la runa en la empuñadura. *Quieto.* Llevaba treinta y dos años con ella. La conocía como se conoce una mano. Sabía cuándo tenía frío, que era siempre, y cuándo tenía más frío, que era cuando había yetis machos cerca, y cuándo zumbaba un poco, que era cuando se acercaba un gólem de los que andaban sin runas.
+La llevaba a la espalda, en la vaina de piel de foca que le había cosido Brin el año de la boda. Azul. Transparente. Con el hilo de hierro dentro, en el alma, y la runa en la empuñadura. Quieto. Llevaba treinta y dos años con ella. La conocía como se conoce una mano. Sabía cuándo tenía frío, que era siempre, y cuándo tenía más frío, que era cuando había yetis machos cerca, y cuándo zumbaba un poco, que era cuando se acercaba un gólem de los que andaban sin runas.
 
 Ahora zumbaba.
 
@@ -76,7 +76,7 @@ Ilan se volvió.
 
 —¿Lo conoces?
 
-—Lo conozco. —Dalbur no apartaba la vista—. Hace veinticuatro años. Una cría. Huellas hondas en el pecho. Hacia la grieta. —Tragó—. Los enanos lo llaman así desde entonces. A lo que se fue a la grieta. *Migyur.* El que se lo tragó. Las madres enanas se lo dicen a los niños para que no suban al glaciar: que viene Migyur. —Se le movió la barba —. Pensé que era un cuento. Que se había muerto. Las crías solas se mueren.
+—Lo conozco. —Dalbur no apartaba la vista—. Hace veinticuatro años. Una cría. Huellas hondas en el pecho. Hacia la grieta. —Tragó—. Los enanos lo llaman así desde entonces. A lo que se fue a la grieta. Migyur. El que se lo tragó. Las madres enanas se lo dicen a los niños para que no suban al glaciar: que viene Migyur. —Se le movió la barba —. Pensé que era un cuento. Que se había muerto. Las crías solas se mueren.
 
 —Esta no.
 
@@ -86,11 +86,11 @@ Ilan se volvió.
 
 Ilan fue a ver al Emperador.
 
-No al viejo. El viejo, Bhargaras XI, tenía ciento seis años y estaba en el sur, en las islas que había descubierto, en una que no tenía nombre todavía, con la mitad de la flota y el almirante, buscando no sabía nadie qué. Hacía dos años que no volvía a Tiama. Mandaba cartas. Cortas. Con la letra grande y torcida. *Estoy bien. Hay una isla con cabras.* *Volveré.*
+No al viejo. El viejo, Bhargaras XI, tenía ciento seis años y estaba en el sur, en las islas que había descubierto, en una que no tenía nombre todavía, con la mitad de la flota y el almirante, buscando no sabía nadie qué. Hacía dos años que no volvía a Tiama. Mandaba cartas. Cortas. Con la letra grande y torcida. Estoy bien. Hay una isla con cabras. Volveré.
 
 Fue a ver al joven. Al heredero. Asgal.
 
-Tenía treinta y un años, el pelo negro de su madre Kerin, que se había muerto en el 840 en un canal de hielo, pilotando, como quería, y los ojos grises de su padre. Había nacido en la fragua de Tiama y no había salido de Annkör más que dos veces. Hablaba enano mejor que la lengua de la colina. Le decían *el príncipe de hielo*, y no le gustaba.
+Tenía treinta y un años, el pelo negro de su madre Kerin, que se había muerto en el 840 en un canal de hielo, pilotando, como quería, y los ojos grises de su padre. Había nacido en la fragua de Tiama y no había salido de Annkör más que dos veces. Hablaba enano mejor que la lengua de la colina. Le decían el príncipe de hielo, y no le gustaba.
 
 Estaba en la casa grande. Con un mapa. Con los capitanes de la guarnición. Con la cara blanca.
 
@@ -120,7 +120,7 @@ Zumbaba. Se oía. En la sala. Todos la oyeron.
 
 Brillaba.
 
-—Dalbur me la hizo en el 814 —dijo Ilan—. Con hielo de la veta honda. Donde se oye lo de abajo. Me dijo que tenía la runa de *quieto*. Para que algo que anda sin rumbo se pare. Para que algo que quiere irse se quede. —Miró la espada—. Le pregunté qué tenía que parar. Me dijo que algún día lo sabría.
+—Dalbur me la hizo en el 814 —dijo Ilan—. Con hielo de la veta honda. Donde se oye lo de abajo. Me dijo que tenía la runa de quieto. Para que algo que anda sin rumbo se pare. Para que algo que quiere irse se quede. —Miró la espada—. Le pregunté qué tenía que parar. Me dijo que algún día lo sabría.
 
 Asgal miró la espada.
 
@@ -174,7 +174,7 @@ En las fumarolas, Dalbur se paró.
 
 Dalbur lo miró.
 
-—Tú tienes la espada —dijo—. Que se llama *quieto*. Si te pregunta algo, contéstale con ella.
+—Tú tienes la espada —dijo—. Que se llama quieto. Si te pregunta algo, contéstale con ella.
 
 ---
 
@@ -214,7 +214,7 @@ Ilan lo notó. En la cabeza. No con los oídos.
 
 Una voz. Que no era de Migyur. Que venía de debajo de Migyur. De la luz. De debajo de la luz. De muy abajo. Que hablaba como un recaudador. Bajo. Tranquilo. Razonable.
 
-*Soldado. Tienes frío. Tienes una mujer y un hijo que se llama como un muerto.* *Tienes un bisabuelo que no se muere y que no te sube a ver. Tienes una espada que te hizo* *un enano que ya no oye lo que tú oyes.*
+*Soldado. Tienes frío. Tienes una mujer y un hijo que se llama como un muerto. Tienes un bisabuelo que no se muere y que no te sube a ver. Tienes una espada que te hizo un enano que ya no oye lo que tú oyes.*
 
 *¿Qué quieres?*
 
@@ -222,13 +222,13 @@ Una voz. Que no era de Migyur. Que venía de debajo de Migyur. De la luz. De deb
 
 Ilan no contestó.
 
-La pelirroja se lo había dicho al almirante, en el 744, en Lindos. Y el almirante se lo había dicho a él, en el 811, en la popa del *Tessa*, mirando el hielo. *Si alguien te pregunta* *qué quieres, no le contestes. Nada. Ni nada.*
+La pelirroja se lo había dicho al almirante, en el 744, en Lindos. Y el almirante se lo había dicho a él, en el 811, en la popa del Tessa, mirando el hielo. Si alguien te pregunta qué quieres, no le contestes. Nada. Ni nada.
 
 No contestó.
 
 Pero la voz no se fue.
 
-*¿Qué quieres, soldado? Todos quieren algo. El yeti quería a su madre. Se la di. Al* *revés, pero se la di. Tú también quieres algo. Lo noto. Quieres que tu bisabuelo suba. Que* *suba a tu casa. Que te mire. Que te diga que te ha visto.*
+*¿Qué quieres, soldado? Todos quieren algo. El yeti quería a su madre. Se la di. Al revés, pero se la di. Tú también quieres algo. Lo noto. Quieres que tu bisabuelo suba. Que suba a tu casa. Que te mire. Que te diga que te ha visto.*
 
 Ilan apretó la empuñadura. La runa le quemaba la palma a través del guante.
 
@@ -252,7 +252,7 @@ La levantó. Despacio. Con las dos manos. Y la clavó en la nieve. Delante de é
 
 Y dijo la runa. En enano. En voz alta. La primera palabra que aprende un enano de Kûr.
 
-—*Quieto.*
+*—Quieto.*
 
 ---
 
@@ -338,9 +338,9 @@ Dalbur tardó en contestar.
 
 El elfo viejo del sombrero no estaba en Tiama. Estaba en la isla de las cabras, con el Emperador. No lo apuntó en el diario. Nadie lo apuntó en el diario.
 
-Lo apuntó Asgal, en una carta a su padre, que tardó seis meses en llegar a la isla de las cabras y que el Emperador leyó en voz alta en la cubierta del *Tessa*, delante del almirante y del elfo viejo.
+Lo apuntó Asgal, en una carta a su padre, que tardó seis meses en llegar a la isla de las cabras y que el Emperador leyó en voz alta en la cubierta del Tessa, delante del almirante y del elfo viejo.
 
-*Padre. Ilan Hask ha parado a Migyur. No lo ha matado. Lo hemos metido en la* *cueva de cristal. Dalbur dice que se queda. Ilan dice que lo siente. Yo no sé qué decir.* *Vuelve. Asgal.*
+*Padre. Ilan Hask ha parado a Migyur. No lo ha matado. Lo hemos metido en la cueva de cristal. Dalbur dice que se queda. Ilan dice que lo siente. Yo no sé qué decir. Vuelve. Asgal.*
 
 El almirante, al oír el nombre de Ilan, miró arriba.
 
@@ -356,6 +356,6 @@ Pero eso fue después.
 
 En el pergamino de los Fragmentos, en el sótano de la biblioteca, al año siguiente, Verawel escribió dos líneas nuevas. Con la letra que subía.
 
-*Una espada de hielo azul de la veta honda de Kûr, con un hilo de hierro de la* *colina dentro y la runa enana de «quieto». La lleva Ilan Hask. Para lo que anda sin* *rumbo.*
+*Una espada de hielo azul de la veta honda de Kûr, con un hilo de hierro de la colina dentro y la runa enana de «quieto». La lleva Ilan Hask. Para lo que anda sin rumbo.*
 
-*Una cría de yeti que se tragó una piedra que latía. Ahora es grande. Duerme de pie* *en la cueva de cristal del Sombrero, en Annkör, tapada de hielo. Se llama Migyur. No se* *sabe si es suyo lo que tiene en el pecho. Cuesta una madre.*
+*Una cría de yeti que se tragó una piedra que latía. Ahora es grande. Duerme de pie en la cueva de cristal del Sombrero, en Annkör, tapada de hielo. Se llama Migyur. No se sabe si es suyo lo que tiene en el pecho. Cuesta una madre.*

@@ -58,7 +58,7 @@ El viento golpeó los postigos.
 
 —No puedes saber eso.
 
-—Leí sus cartas. Una criada mía las copiaba. —Aelia se encogió levemente de hombros bajo la manta—. Una de ellas, a un capitán de Mator, decía: *Cuando el viejo* *caiga, el Tiberius caerá con él. Que parezca la peste.* La quemé después, para que nunca la encontraras. Me arrepiento de eso. Ahora no tengo pruebas, y vas a tener que creerme.
+—Leí sus cartas. Una criada mía las copiaba. —Aelia se encogió levemente de hombros bajo la manta—. Una de ellas, a un capitán de Mator, decía: Cuando el viejo caiga, el Tiberius caerá con él. Que parezca la peste. La quemé después, para que nunca la encontraras. Me arrepiento de eso. Ahora no tengo pruebas, y vas a tener que creerme.
 
 Hector se levantó. Cojeó hasta la ventana. Miró hacia el norte, hacia la oscuridad donde estaban los bosques.
 
@@ -68,7 +68,7 @@ Hector se levantó. Cojeó hasta la ventana. Miró hacia el norte, hacia la oscu
 
 —Le hiciste creer que la profecía se cumplía.
 
-—La profecía se cumplía, hijo. —Aelia cerró los ojos—. Eso es lo que he tardado treinta años en entender. *Tres de tu sangre darás a la guerra.* Varo murió en la guerra, aunque fuera en su tienda y por mi oro. La guerra no está solo en los campos de batalla. Está en todas partes. Está en una viuda con un frasco en el dobladillo. Lisandro lo sabía. Lo escribió.
+—La profecía se cumplía, hijo. —Aelia cerró los ojos—. Eso es lo que he tardado treinta años en entender. Tres de tu sangre darás a la guerra. Varo murió en la guerra, aunque fuera en su tienda y por mi oro. La guerra no está solo en los campos de batalla. Está en todas partes. Está en una viuda con un frasco en el dobladillo. Lisandro lo sabía. Lo escribió.
 
 Hector se volvió. Su madre parecía muy pequeña entre los almohadones.
 

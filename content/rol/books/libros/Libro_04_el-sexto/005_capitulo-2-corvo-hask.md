@@ -1,10 +1,10 @@
 # Capítulo 2 · Corvo Hask
 
-*El puerto de Banderbill y el mar del sur, frente a las Islas Piratas. Primavera y* *verano del año 972 de la Nueva Era (365 D.bA).*
+*El puerto de Banderbill y el mar del sur, frente a las Islas Piratas. Primavera y verano del año 972 de la Nueva Era (365 D.bA).*
 
 Durante cinco años, Corvo Hask tuvo el uniforme planchado.
 
-Eso fue lo que más le dolió después, cuando lo pensó. No la negativa. La negativa la entendía; había estado de pie al lado de la puerta del sótano y había oído al niño decir *todavía no sé a quién*, y había oído en esa frase algo que no le gustaba nada y que era verdad: que el niño no lo había elegido a él porque él no había elegido nada. Que había venido porque lo había mandado su abuelo, el almirante, y el sargento mayor, y la tradición, y seiscientos años de Hask mirando arriba antes de cargar. Que había venido como se va a misa.
+Eso fue lo que más le dolió después, cuando lo pensó. No la negativa. La negativa la entendía; había estado de pie al lado de la puerta del sótano y había oído al niño decir todavía no sé a quién, y había oído en esa frase algo que no le gustaba nada y que era verdad: que el niño no lo había elegido a él porque él no había elegido nada. Que había venido porque lo había mandado su abuelo, el almirante, y el sargento mayor, y la tradición, y seiscientos años de Hask mirando arriba antes de cargar. Que había venido como se va a misa.
 
 Eso lo entendía.
 
@@ -18,11 +18,11 @@ No lo llamaron.
 
 ---
 
-En la primavera del 972, Corvo Hask, teniente de navío de la Armada Imperial, veinticuatro años, nariz rota dos veces, la segunda por la misma vela, se presentó en la oficina del almirantazgo del puerto y pidió destino en el *Tessa III*, la fragata de patrulla del mar del sur.
+En la primavera del 972, Corvo Hask, teniente de navío de la Armada Imperial, veinticuatro años, nariz rota dos veces, la segunda por la misma vela, se presentó en la oficina del almirantazgo del puerto y pidió destino en el Tessa III, la fragata de patrulla del mar del sur.
 
 El oficial que lo atendió era un enano viejo que conocía a su abuelo.
 
-—El *Tessa III* sale mañana para seis meses —dijo—. Nix, Lindos, Rinkel, las islas. Piratas. Ratas. Calor. Lo pide gente que quiere que la olviden.
+—El Tessa III sale mañana para seis meses —dijo—. Nix, Lindos, Rinkel, las islas. Piratas. Ratas. Calor. Lo pide gente que quiere que la olviden.
 
 —Lo sé.
 
@@ -98,7 +98,7 @@ Corvo descruzó los brazos.
 
 Él abrió la boca. La cerró.
 
-Pensó en su abuelo, el almirante, muerto el año anterior, con noventa y un años, en una silla al lado de la ventana del puerto, diciéndole *los Hask no se acaban nunca, chico,* *nos morimos pero no nos acabamos*. Pensó en Hesper, el tío abuelo de su abuelo, el que tuvo la vida de Liminus y se murió igual en la Isla Siniestra porque la vida no para el hierro. Pensó en Ilan, el que estaba en Tiama mirando una piedra. Pensó en la sala del sótano, y en las caras de los siete, que eran viejas por dentro y jóvenes por fuera, y en que ninguno de ellos le había parecido feliz.
+Pensó en su abuelo, el almirante, muerto el año anterior, con noventa y un años, en una silla al lado de la ventana del puerto, diciéndole los Hask no se acaban nunca, chico, nos morimos pero no nos acabamos. Pensó en Hesper, el tío abuelo de su abuelo, el que tuvo la vida de Liminus y se murió igual en la Isla Siniestra porque la vida no para el hierro. Pensó en Ilan, el que estaba en Tiama mirando una piedra. Pensó en la sala del sótano, y en las caras de los siete, que eran viejas por dentro y jóvenes por fuera, y en que ninguno de ellos le había parecido feliz.
 
 —No lo sé —dijo.
 
@@ -118,7 +118,7 @@ Y se fue.
 
 ---
 
-El *Tessa III* zarpó al alba.
+El Tessa III zarpó al alba.
 
 Era una fragata de treinta cañones de bronce gnomo, casco de roble de las colinas del este, velas de lino de Nix remendadas por las elfas del barrio, y una tripulación de doscientos diez: humanos casi todos, una docena de enanos en la santabárbara, cuatro gnomos en las bombas y un elfo viejo en la cofa que veía a tres millas en la niebla. El capitán se llamaba Aldren Mosk. Era de Nix, de familia de pescadores, y había llegado a capitán sin un solo pariente en el almirantazgo, cosa que en la Armada pasaba una vez cada cincuenta años y que se notaba en cómo hablaba a los tenientes, que era como a sobrinos que no le caían bien.
 
@@ -210,7 +210,7 @@ A babor, a dos leguas, empezaban unas islas. Un archipiélago: islotes pelados p
 
 Mosk no contestó. Señaló con la barbilla.
 
-En la playa de la isla, sobre la arena, había algo tumbado al sol. Verde también. Del color de la selva, por eso Corvo no lo había visto. Largo como el *Tessa III* de proa a popa, con una cresta de púas por el lomo, con las alas plegadas como dos velas recogidas. Dormía. Se le veía el costado subir y bajar.
+En la playa de la isla, sobre la arena, había algo tumbado al sol. Verde también. Del color de la selva, por eso Corvo no lo había visto. Largo como el Tessa III de proa a popa, con una cresta de púas por el lomo, con las alas plegadas como dos velas recogidas. Dormía. Se le veía el costado subir y bajar.
 
 A su lado, más pequeño, del tamaño de un bote de remos, otro, del mismo verde, que no dormía. Que perseguía las olas. Que se metía en el agua hasta las rodillas, chillaba, y salía corriendo cuando la ola volvía.
 
@@ -218,7 +218,7 @@ A su lado, más pequeño, del tamaño de un bote de remos, otro, del mismo verde
 
 La cría de dragón verde dejó de jugar con las olas. Levantó la cabeza. Miró el barco.
 
-Toda la tripulación del *Tessa III*, los doscientos diez, se quedó quieta en la cubierta. Sin que nadie lo mandara.
+Toda la tripulación del Tessa III, los doscientos diez, se quedó quieta en la cubierta. Sin que nadie lo mandara.
 
 La cría bostezó. Se dio la vuelta. Se echó al lado de la madre, en la arena, y metió la cabeza debajo de su ala.
 
@@ -232,11 +232,11 @@ Corvo lo apuntó en la bitácora. Esa noche. En el margen. Al lado del gesto del
 
 La cueva estaba a cuatro días de Rinkel, en un islote negro entre la costa y el archipiélago de los piratas, y la vieron sin querer.
 
-Fue una tormenta. De las de verano, que llegan del sur sin avisar, con el cielo verde y el mar plano como un plato hasta que de pronto no. El *Tessa III* corrió delante del viento toda la noche con las gavias arrizadas y el palo de mesana crujiendo, y al alba, cuando amainó, estaban donde no tenían que estar: a media milla de un islote de roca volcánica, sin playa, sin árboles, con una boca abierta en la pared del lado sur, como una herida.
+Fue una tormenta. De las de verano, que llegan del sur sin avisar, con el cielo verde y el mar plano como un plato hasta que de pronto no. El Tessa III corrió delante del viento toda la noche con las gavias arrizadas y el palo de mesana crujiendo, y al alba, cuando amainó, estaban donde no tenían que estar: a media milla de un islote de roca volcánica, sin playa, sin árboles, con una boca abierta en la pared del lado sur, como una herida.
 
 El elfo de la cofa gritó.
 
-No gritó *tierra*. Gritó *ojo*.
+No gritó tierra. Gritó ojo.
 
 Corvo estaba en el alcázar con el capitán. Miró.
 
@@ -262,22 +262,22 @@ Esa noche, Corvo Hask escribió una carta. La única que escribió en los seis m
 
 No a su madre. No al almirantazgo.
 
-*A Lanther, en la biblioteca de Banderbill. Que se la den al hombre de las gafas si* *no está.*
+*A Lanther, en la biblioteca de Banderbill. Que se la den al hombre de las gafas si no está.*
 
-*Hemos visto el ojo. Es amarillo. Nos ha mirado y se ha cerrado a medias. El* *capitán dice que es un monstruo marino. El elfo de la cofa dice que es otra cosa y no dice* *cuál.*
+*Hemos visto el ojo. Es amarillo. Nos ha mirado y se ha cerrado a medias. El capitán dice que es un monstruo marino. El elfo de la cofa dice que es otra cosa y no dice cuál.*
 
 *He estado en Lindos. No me he tirado a la poza.*
 
-*He visto al loco de Rinkel. Me ha hecho un gesto: dos dedos, arriba y abajo. No sé* *qué quiere decir. Si lo sabe usted, no me lo diga.*
+*He visto al loco de Rinkel. Me ha hecho un gesto: dos dedos, arriba y abajo. No sé qué quiere decir. Si lo sabe usted, no me lo diga.*
 
 *Ya no me plancho el uniforme. Tenía usted razón. Se oxida la plancha.*
 
 *Si un día me hace falta lo que no me dieron, lo pediré yo. No me lo traigan.*
 
-*Corvo Hask, teniente de navío, a bordo del* Tessa III.
+*Corvo Hask, teniente de navío, a bordo del Tessa III.*
 
 La carta llegó a Banderbill en otoño. Lanther no estaba. Se la dieron a Sein.
 
 Sein la leyó dos veces. Luego la dobló y la metió entre las hojas del libro centésimo séptimo, en la página de ese año, en la columna del debe.
 
-Y al lado, en pequeño: *Dos dedos arriba y abajo: Ottherius. Quiere decir: «esto vuelve». No se lo diré.*
+*Y al lado, en pequeño: Dos dedos arriba y abajo: Ottherius. Quiere decir: «esto vuelve». No se lo diré.*

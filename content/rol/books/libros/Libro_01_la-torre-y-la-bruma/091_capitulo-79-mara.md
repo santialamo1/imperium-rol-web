@@ -2,7 +2,7 @@
 
 *Puerto Salobre. Año 408.*
 
-La tormenta de San Ulvar llegó tres días antes de lo que decían los viejos, como todas las cosas malas de la costa, y Mara Renod estaba en el muelle viejo, discutiendo con un contramaestre Jenon por el precio del bacalao, cuando vio la vela de la *Gaviota* volcarse en la boca de la bahía.
+La tormenta de San Ulvar llegó tres días antes de lo que decían los viejos, como todas las cosas malas de la costa, y Mara Renod estaba en el muelle viejo, discutiendo con un contramaestre Jenon por el precio del bacalao, cuando vio la vela de la Gaviota volcarse en la boca de la bahía.
 
 —¡Al agua! —gritó, antes de pensarlo—. ¡Botes al agua!
 
@@ -12,9 +12,9 @@ Mara ya estaba corriendo.
 
 ---
 
-La *Gaviota* era la barca de los Hennek, una familia de pescadores Kalo que vivía en la casa de al lado de la de los Renod desde que Mara tenía memoria. El viejo Hennek. Sus dos hijos. Su nieto de catorce años, que se llamaba Pim y que llevaba tres veranos enamorado de Mara sin que ella le hiciera el menor caso. Habían salido al amanecer, a por la última caballa del otoño, cuando el cielo todavía estaba limpio.
+La Gaviota era la barca de los Hennek, una familia de pescadores Kalo que vivía en la casa de al lado de la de los Renod desde que Mara tenía memoria. El viejo Hennek. Sus dos hijos. Su nieto de catorce años, que se llamaba Pim y que llevaba tres veranos enamorado de Mara sin que ella le hiciera el menor caso. Habían salido al amanecer, a por la última caballa del otoño, cuando el cielo todavía estaba limpio.
 
-Mara llegó al bote de la *Tozuda* al mismo tiempo que el tío Gorm, que salía de la taberna del muelle con una jarra en la mano y la cara roja.
+Mara llegó al bote de la Tozuda al mismo tiempo que el tío Gorm, que salía de la taberna del muelle con una jarra en la mano y la cara roja.
 
 —Ni se te ocurra —le dijo.
 
@@ -26,7 +26,7 @@ Saltaron al bote juntos.
 
 ---
 
-Mara no recordaría nunca bien lo que pasó en la boca de la bahía. Recordaría el agua. Fría, negra, enorme, levantándose a su alrededor como paredes de una casa que se derrumba. Recordaría los remos doblándose en sus manos. Recordaría a Gorm gritando algo que el viento se llevaba. Recordaría el casco volcado de la *Gaviota*, a veinte brazas, subiendo y bajando con las olas, y dos cabezas agarradas a la quilla.
+Mara no recordaría nunca bien lo que pasó en la boca de la bahía. Recordaría el agua. Fría, negra, enorme, levantándose a su alrededor como paredes de una casa que se derrumba. Recordaría los remos doblándose en sus manos. Recordaría a Gorm gritando algo que el viento se llevaba. Recordaría el casco volcado de la Gaviota, a veinte brazas, subiendo y bajando con las olas, y dos cabezas agarradas a la quilla.
 
 Dos. No cinco.
 
@@ -58,11 +58,11 @@ Bander llegó al día siguiente.
 
 No lo esperaba. Llevaba tres años viniendo a Puerto Salobre dos o tres veces al año, siempre con alguna excusa: inspeccionar el puerto, revisar las cuentas de la aduana, estudiar las mareas. Nadie se creía ninguna. Ella menos que nadie. Pero esta vez no había avisado. Simplemente apareció en el muelle viejo al mediodía, a caballo, solo, sin escolta, con la capa empapada y el pelo negro pegado a la frente, y se bajó del caballo y fue directo hacia ella.
 
-—Me he enterado —dijo—. Lo de la *Gaviota*.
+—Me he enterado —dijo—. Lo de la Gaviota.
 
 —¿Cómo?
 
-Bander no contestó. Se volvió hacia el mar. Y Mara vio en su cara lo mismo que había visto la primera noche en la cubierta de la *Tozuda*, tres años antes: esa manera de quedarse callado de repente, mirando hacia un sitio donde no había nada.
+Bander no contestó. Se volvió hacia el mar. Y Mara vio en su cara lo mismo que había visto la primera noche en la cubierta de la Tozuda, tres años antes: esa manera de quedarse callado de repente, mirando hacia un sitio donde no había nada.
 
 —Los oíste —dijo ella—. Desde Concordia.
 
@@ -100,7 +100,7 @@ Bander salió del agua. Estaba pálido. Le sangraba un poco la nariz. Mara le di
 
 ---
 
-Esa noche, en la cubierta de la *Tozuda*, con el tío Gorm por fin borracho y roncando en la popa, Bander le pidió que se casara con él.
+Esa noche, en la cubierta de la Tozuda, con el tío Gorm por fin borracho y roncando en la popa, Bander le pidió que se casara con él.
 
 Mara se rió en su cara.
 
@@ -150,7 +150,7 @@ Lo oyó hablar con el capitán del puerto al día siguiente, en el muelle viejo,
 
 Mara siguió su camino con la cesta del pescado. Le pareció lo más sensato que había oído decir a nadie de Concordia en mucho tiempo. Las galeras de Meridio eran una vergüenza. Ocupaban sitio. Olían. Una de ellas tenía un agujero en la popa por el que entraban las gaviotas a anidar.
 
-No se enteró nunca de que la orden no llegó. De que el emperador Haltair, al recibir la petición de su canciller, la leyó dos veces, la dejó sobre la mesa y escribió debajo, con su letra grande y redonda: *Me gustan esas galeras. Me recuerdan a mi tío. Que se queden.* Ni de que esa misma semana un calafate viejo de Puerto Salobre recibió, como cada trimestre desde hacía veinte años, una bolsa de plata sin remitente.
+No se enteró nunca de que la orden no llegó. De que el emperador Haltair, al recibir la petición de su canciller, la leyó dos veces, la dejó sobre la mesa y escribió debajo, con su letra grande y redonda: Me gustan esas galeras. Me recuerdan a mi tío. Que se queden. Ni de que esa misma semana un calafate viejo de Puerto Salobre recibió, como cada trimestre desde hacía veinte años, una bolsa de plata sin remitente.
 
 Ni de que Casimir Vell, al leer la respuesta del emperador en su despacho de la cancillería, sonrió, la guardó en un cajón y no volvió a mencionar las galeras nunca más.
 

@@ -4,7 +4,7 @@
 
 Era martes.
 
-Pim lo sabía porque contaba los martes. Llevaba cuatrocientos noventa y seis años contándolos, desde aquel martes en el cuarto de la torre del palacio, con la reina de pie delante de él y un niño recién nacido en brazos, diciéndole *te oigo, Pim, vete*. Se había ido. Llorando, por el río. Y desde entonces cada martes era una piedra en un montón que no terminaba de hacerse.
+Pim lo sabía porque contaba los martes. Llevaba cuatrocientos noventa y seis años contándolos, desde aquel martes en el cuarto de la torre del palacio, con la reina de pie delante de él y un niño recién nacido en brazos, diciéndole te oigo, Pim, vete. Se había ido. Llorando, por el río. Y desde entonces cada martes era una piedra en un montón que no terminaba de hacerse.
 
 Veinticinco mil ochocientos sesenta y dos martes.
 
@@ -38,9 +38,9 @@ Como si alguien le hubiera puesto encima una mano para que no se oyera.
 
 La mano era del otro.
 
-Pim no tenía nombre para él. Los orcos lo llamaban *el que escucha*, o *el Señor*, o no lo llamaban, que era lo más frecuente. Los hombres del oeste, los de los ojos quietos, que llevaban la hondonada, no lo nombraban nunca; si tenían que referirse a él, decían *arriba*, aunque estuviera abajo, y bajaban la voz. Ithil lo llamaba *el maestro*, con una cosa en la boca al decirlo que Pim no sabía si era asco o miedo.
+Pim no tenía nombre para él. Los orcos lo llamaban el que escucha, o el Señor, o no lo llamaban, que era lo más frecuente. Los hombres del oeste, los de los ojos quietos, que llevaban la hondonada, no lo nombraban nunca; si tenían que referirse a él, decían arriba, aunque estuviera abajo, y bajaban la voz. Ithil lo llamaba el maestro, con una cosa en la boca al decirlo que Pim no sabía si era asco o miedo.
 
-Pim lo llamaba *el otro*.
+Pim lo llamaba el otro.
 
 Porque había dos. Lo sabía desde el principio. Desde la cueva de sal de las montañas rojas, en el año 300, cuando aceptó el cuerpo. Uno era lo que estaba debajo de todo, lo grande, lo que dormía, lo que había sobrado cuando se partió el mundo, lo que hacía que las vetas blancas latieran y que las piedras cantaran y que las Madres del valle negro giraran la cabeza. Ese no tenía voluntad. Tenía hambre. Era como un estómago del tamaño de un continente que se daba la vuelta en la cama.
 
@@ -52,7 +52,7 @@ Y traduciéndolo.
 
 Lo había visto tres veces en doscientos treinta y ocho años.
 
-La primera en la cueva de sal, en el 300. Pim era entonces un lich, *el que se queda*, un esqueleto con la carne pegada a trozos, con un hambre que no se acababa, que llevaba doscientos cincuenta años tirando de nombres por los bosques del oeste para no deshacerse del todo. Había llegado a la cueva siguiendo un olor que no olía a nada. En el fondo había una mesa de sal con una piedra roja encima, del tamaño de un huevo de águila, que latía.
+La primera en la cueva de sal, en el 300. Pim era entonces un lich, el que se queda, un esqueleto con la carne pegada a trozos, con un hambre que no se acababa, que llevaba doscientos cincuenta años tirando de nombres por los bosques del oeste para no deshacerse del todo. Había llegado a la cueva siguiendo un olor que no olía a nada. En el fondo había una mesa de sal con una piedra roja encima, del tamaño de un huevo de águila, que latía.
 
 Y al lado de la mesa, de pie, un hombre.
 
@@ -66,7 +66,7 @@ Alto. Delgado. Vestido de gris, como un escribano. Con las manos cruzadas a la e
 
 —¿Qué cosa?
 
-—A esperar. —El hombre había señalado hacia el oeste, hacia las colinas peladas —. Hay unos que no saben. Enséñales tú. Tú sabes. Llevas doscientos cincuenta años esperando que alguien te diga *te oigo*.
+—A esperar. —El hombre había señalado hacia el oeste, hacia las colinas peladas —. Hay unos que no saben. Enséñales tú. Tú sabes. Llevas doscientos cincuenta años esperando que alguien te diga te oigo.
 
 Pim había aceptado.
 
@@ -82,9 +82,9 @@ La segunda vez fue en el 497. La noche de la piedra gris.
 
 El hombre no estaba en la hondonada. Pero cuando Pim terminó de clavar la piedra en la veta, y abrió la boca, la voz que salió no fue la suya. Fue otra. Profunda. Desde muy abajo. Que no era la del hombre ni la de lo que dormía, sino las dos a la vez, como cuando dos personas hablan a la vez y una le pone palabras a la otra.
 
-*Arghâl*, dijo la voz. Por la boca de Pim.
+Arghâl, dijo la voz. Por la boca de Pim.
 
-Arghâl. Que en la lengua de los orcos quería decir *lo que tira*. Y en la lengua vieja de debajo, la que Pim no sabía y que le salía igual, quería decir otra cosa, que Pim no entendió hasta mucho después: *el sitio donde se come*.
+Arghâl. Que en la lengua de los orcos quería decir lo que tira. Y en la lengua vieja de debajo, la que Pim no sabía y que le salía igual, quería decir otra cosa, que Pim no entendió hasta mucho después: el sitio donde se come.
 
 ---
 
@@ -140,7 +140,7 @@ Pim sintió algo que no había sentido en cuatrocientos noventa y seis años. Al
 
 Pim pensó en la reina.
 
-No sabía por qué. Pensó en ella de pie en el puente de troncos, sola, con el cuchillo en el cinturón, esperándolos. En ella en el cuarto de la torre, con el niño en brazos, que lloraba. En *te oigo, Pim, vete*.
+No sabía por qué. Pensó en ella de pie en el puente de troncos, sola, con el cuchillo en el cinturón, esperándolos. En ella en el cuarto de la torre, con el niño en brazos, que lloraba. En te oigo, Pim, vete.
 
 Pensó que la piedrita del muro la había puesto ella. Lo supo como se saben las cosas de la gente que uno ha querido: sin que se lo digan.
 
@@ -178,7 +178,7 @@ Y en la boca de la cueva, en la oscuridad, se paró. Sin volverse.
 
 —¿Qué?
 
-—La pelirroja. La que puso la piedrita. —La voz era suave, de cláusula pequeña—. Cuando venga, que vendrá, no le cantes. No le hables. No le digas *te oigo*. —Una pausa—. Es lo único que no te perdonaría.
+—La pelirroja. La que puso la piedrita. —La voz era suave, de cláusula pequeña—. Cuando venga, que vendrá, no le cantes. No le hables. No le digas te oigo. —Una pausa—. Es lo único que no te perdonaría.
 
 Y ya no estaba.
 

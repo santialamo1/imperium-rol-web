@@ -1,108 +1,103 @@
-# Emperadores de la Ceniza — Libro Segundo: La Colina y el Muro
+# Índice — Libro Segundo: La Colina y el Muro
 
-Libro 2 · 898 páginas originales · 102 secciones
-
-## Contenido
-
-- [Prólogo · El hombre que sumaba muertos](001_prologo-el-hombre-que-sumaba-muertos.md)
-- [DE LAS CRÓNICAS DE BANDERBILL, LIBRO SEGUNDO (I)](002_de-las-cronicas-de-banderbill-libro-segundo-i.md)
-- [PRIMERA PARTE: LA NOCHE DEL DOLOR](003_primera-parte-la-noche-del-dolor.md)
-- [Capítulo 1 · Tobías](004_capitulo-1-tobias.md)
-- [Capítulo 2 · Mara](005_capitulo-2-mara.md)
-- [Capítulo 3 · Bhargaras](006_capitulo-3-bhargaras.md)
-- [Capítulo 4 · Livia](007_capitulo-4-livia.md)
-- [Capítulo 5 · Seren](008_capitulo-5-seren.md)
-- [Capítulo 6 · Lanther](009_capitulo-6-lanther.md)
-- [Capítulo 7 · Bander](010_capitulo-7-bander.md)
-- [Capítulo 8 · Tobías](011_capitulo-8-tobias.md)
-- [Capítulo 9 · Loth](012_capitulo-9-loth.md)
-- [Capítulo 10 · Bhargaras](013_capitulo-10-bhargaras.md)
-- [Capítulo 11 · Érandiul](014_capitulo-11-erandiul.md)
-- [Capítulo 12 · Bander](015_capitulo-12-bander.md)
-- [Capítulo 13 · Livia](016_capitulo-13-livia.md)
-- [Capítulo 14 · Loth](017_capitulo-14-loth.md)
-- [Capítulo 15 · Bhargaras](018_capitulo-15-bhargaras.md)
-- [DEL DIARIO DE LA FAMILIA ÉRANDIUL (I)](019_del-diario-de-la-familia-erandiul-i.md)
-- [SEGUNDA PARTE: EL VALLE NEGRO](020_segunda-parte-el-valle-negro.md)
-- [Capítulo 16 · Pim](021_capitulo-16-pim.md)
-- [Capítulo 17 · Casimir](022_capitulo-17-casimir.md)
-- [Capítulo 18 · Livia](023_capitulo-18-livia.md)
-- [Capítulo 19 · Pim](024_capitulo-19-pim.md)
-- [Capítulo 20 · Ilsa](025_capitulo-20-ilsa.md)
-- [Capítulo 21 · Lanther](026_capitulo-21-lanther.md)
-- [Capítulo 22 · Érandiul](027_capitulo-22-erandiul.md)
-- [Capítulo 23 · Bhargaras](028_capitulo-23-bhargaras.md)
-- [Capítulo 24 · Livia](029_capitulo-24-livia.md)
-- [Capítulo 25 · Bhargaras](030_capitulo-25-bhargaras.md)
-- [Capítulo 26 · Lanther](031_capitulo-26-lanther.md)
-- [Capítulo 27 · Mara](032_capitulo-27-mara.md)
-- [Capítulo 28 · Lanther](033_capitulo-28-lanther.md)
-- [Capítulo 29 · Érandiul](034_capitulo-29-erandiul.md)
-- [Capítulo 30 · Lanther](035_capitulo-30-lanther.md)
-- [DE LAS CRÓNICAS DE BANDERBILL, LIBRO SEGUNDO (II)](036_de-las-cronicas-de-banderbill-libro-segundo-ii.md)
-- [DEL DIARIO DE LA FAMILIA ÉRANDIUL (II)](037_del-diario-de-la-familia-erandiul-ii.md)
-- [TERCERA PARTE: LA REINA QUE NO ENVEJECE](038_tercera-parte-la-reina-que-no-envejece.md)
-- [Capítulo 31 · Livia](039_capitulo-31-livia.md)
-- [Capítulo 32 · Sein](040_capitulo-32-sein.md)
-- [Capítulo 33 · Pim](041_capitulo-33-pim.md)
-- [Capítulo 34 · Lanther](042_capitulo-34-lanther.md)
-- [Capítulo 35 · Érandiul](043_capitulo-35-erandiul.md)
-- [Capítulo 36 · Amael](044_capitulo-36-amael.md)
-- [Capítulo 37 · Lanther](045_capitulo-37-lanther.md)
-- [Capítulo 38 · Érandiul](046_capitulo-38-erandiul.md)
-- [Capítulo 39 · Loth](047_capitulo-39-loth.md)
-- [Capítulo 40 · Livia](048_capitulo-40-livia.md)
-- [Capítulo 41 · Lanther](049_capitulo-41-lanther.md)
-- [Capítulo 42 · Livia](050_capitulo-42-livia.md)
-- [Capítulo 43 · Amael](051_capitulo-43-amael.md)
-- [DE LAS CRÓNICAS DE BANDERBILL, LIBRO SEGUNDO (III)](052_de-las-cronicas-de-banderbill-libro-segundo-iii.md)
-- [DEL DIARIO DE LA FAMILIA ÉRANDIUL (III)](053_del-diario-de-la-familia-erandiul-iii.md)
-- [CUARTA PARTE: DE MANO A MANO](054_cuarta-parte-de-mano-a-mano.md)
-- [Capítulo 44 · Amael](055_capitulo-44-amael.md)
-- [Capítulo 45 · Ilsa](056_capitulo-45-ilsa.md)
-- [Capítulo 46 · Andriath](057_capitulo-46-andriath.md)
-- [Capítulo 47 · Verawel](058_capitulo-47-verawel.md)
-- [Capítulo 48 · Andriath](059_capitulo-48-andriath.md)
-- [Capítulo 49 · Panbor](060_capitulo-49-panbor.md)
-- [Capítulo 50 · Andriath](061_capitulo-50-andriath.md)
-- [Capítulo 51 · Tibbet Tornasol](062_capitulo-51-tibbet-tornasol.md)
-- [Capítulo 52 · Andriath](063_capitulo-52-andriath.md)
-- [Capítulo 53 · Bhargaras VIII](064_capitulo-53-bhargaras-viii.md)
-- [Capítulo 54 · Érandiul](065_capitulo-54-erandiul.md)
-- [Capítulo 55 · Lanther](066_capitulo-55-lanther.md)
-- [DEL DIARIO DE LA FAMILIA ÉRANDIUL (IV)](067_del-diario-de-la-familia-erandiul-iv.md)
-- [QUINTA PARTE: LOS CIENTO NOVENTA Y NUEVE AÑOS](068_quinta-parte-los-ciento-noventa-y-nueve-anos.md)
-- [Capítulo 56 · Bhargaras IX](069_capitulo-56-bhargaras-ix.md)
-- [Capítulo 57 · Bredinlo](070_capitulo-57-bredinlo.md)
-- [Capítulo 58 · Bhargaras IX](071_capitulo-58-bhargaras-ix.md)
-- [Capítulo 59 · Ada Vell](072_capitulo-59-ada-vell.md)
-- [Capítulo 60 · Kildo](073_capitulo-60-kildo.md)
-- [Capítulo 61 · Odile, Custodia de la balanza](074_capitulo-61-odile-custodia-de-la-balanza.md)
-- [Capítulo 62 · Lanther](075_capitulo-62-lanther.md)
-- [Capítulo 63 · Niestrel](076_capitulo-63-niestrel.md)
-- [Capítulo 64 · Pim](077_capitulo-64-pim.md)
-- [Capítulo 65 · Tibbet Tornasol](078_capitulo-65-tibbet-tornasol.md)
-- [Capítulo 66 · Jonas Vell](079_capitulo-66-jonas-vell.md)
-- [Capítulo 67 · Sein](080_capitulo-67-sein.md)
-- [Capítulo 68 · Érandiul](081_capitulo-68-erandiul.md)
-- [DEL DIARIO DE LA FAMILIA ÉRANDIUL (V)](082_del-diario-de-la-familia-erandiul-v.md)
-- [SEXTA PARTE: EL GRAN TEMBLOR](083_sexta-parte-el-gran-temblor.md)
-- [Capítulo 69 · Dalla Hask](084_capitulo-69-dalla-hask.md)
-- [Capítulo 70 · Érandiul](085_capitulo-70-erandiul.md)
-- [Capítulo 71 · Nimrath](086_capitulo-71-nimrath.md)
-- [Capítulo 72 · Lindiel](087_capitulo-72-lindiel.md)
-- [Capítulo 73 · Lanther](088_capitulo-73-lanther.md)
-- [Capítulo 74 · Ithil](089_capitulo-74-ithil.md)
-- [Capítulo 75 · Lindiel II](090_capitulo-75-lindiel-ii.md)
-- [Capítulo 76 · Arthal II](091_capitulo-76-arthal-ii.md)
-- [Capítulo 77 · Lanther](092_capitulo-77-lanther.md)
-- [Capítulo 78 · Érandiul](093_capitulo-78-erandiul.md)
-- [DE LAS CRÓNICAS DE BANDERBILL, LIBRO SEGUNDO (IV)](094_de-las-cronicas-de-banderbill-libro-segundo-iv.md)
-- [DEL DIARIO DE LA FAMILIA ÉRANDIUL (VI)](095_del-diario-de-la-familia-erandiul-vi.md)
-- [Epílogo · Una piedra a unos kilómetros](096_epilogo-una-piedra-a-unos-kilometros.md)
-- [APÉNDICES](097_apendices.md)
-- [CRONOLOGÍA DEL LIBRO SEGUNDO](098_cronologia-del-libro-segundo.md)
-- [LÍNEAS DE SANGRE](099_lineas-de-sangre.md)
-- [Las vidas prestadas](100_las-vidas-prestadas.md)
-- [BREVE GLOSARIO](101_breve-glosario.md)
-- [GEOGRAFÍA](102_geografia.md)
+- **001. Prólogo · El hombre que sumaba muertos** — páginas 5–17
+- **002. De las Crónicas de Banderbill, Libro Segundo (I)** — páginas 18–19
+- **003. PRIMERA PARTE: LA NOCHE DEL DOLOR** — páginas 20–20
+- **004. Capítulo 1 · Tobías** — páginas 21–31
+- **005. Capítulo 2 · Mara** — páginas 32–41
+- **006. Capítulo 3 · Bhargaras** — páginas 42–50
+- **007. Capítulo 4 · Livia** — páginas 51–58
+- **008. Capítulo 5 · Seren** — páginas 59–66
+- **009. Capítulo 6 · Lanther** — páginas 67–76
+- **010. Capítulo 7 · Bander** — páginas 77–86
+- **011. Capítulo 8 · Tobías** — páginas 87–97
+- **012. Capítulo 9 · Loth** — páginas 98–106
+- **013. Capítulo 10 · Bhargaras** — páginas 107–114
+- **014. Capítulo 11 · Érandiul** — páginas 115–122
+- **015. Capítulo 12 · Bander** — páginas 123–133
+- **016. Capítulo 13 · Livia** — páginas 134–143
+- **017. Capítulo 14 · Loth** — páginas 144–157
+- **018. Capítulo 15 · Bhargaras** — páginas 158–170
+- **019. Del Diario de la familia Érandiul (I)** — páginas 171–171
+- **020. SEGUNDA PARTE: EL VALLE NEGRO** — páginas 172–172
+- **021. Capítulo 16 · Pim** — páginas 173–184
+- **022. Capítulo 17 · Casimir** — páginas 185–196
+- **023. Capítulo 18 · Livia** — páginas 197–206
+- **024. Capítulo 19 · Pim** — páginas 207–219
+- **025. Capítulo 20 · Ilsa** — páginas 220–230
+- **026. Capítulo 21 · Lanther** — páginas 231–241
+- **027. Capítulo 22 · Érandiul** — páginas 242–251
+- **028. Capítulo 23 · Bhargaras** — páginas 252–263
+- **029. Capítulo 24 · Livia** — páginas 264–274
+- **030. Capítulo 25 · Bhargaras** — páginas 275–287
+- **031. Capítulo 26 · Lanther** — páginas 288–300
+- **032. Capítulo 27 · Mara** — páginas 301–312
+- **033. Capítulo 28 · Lanther** — páginas 313–324
+- **034. Capítulo 29 · Érandiul** — páginas 325–338
+- **035. Capítulo 30 · Lanther** — páginas 339–354
+- **036. De las Crónicas de Banderbill, Libro Segundo (II)** — páginas 355–357
+- **037. Del Diario de la familia Érandiul (II)** — páginas 358–359
+- **038. TERCERA PARTE: LA REINA QUE NO ENVEJECE** — páginas 360–360
+- **039. Capítulo 31 · Livia** — páginas 361–370
+- **040. Capítulo 32 · Sein** — páginas 371–381
+- **041. Capítulo 33 · Pim** — páginas 382–392
+- **042. Capítulo 34 · Lanther** — páginas 393–406
+- **043. Capítulo 35 · Érandiul** — páginas 407–417
+- **044. Capítulo 36 · Amael** — páginas 418–428
+- **045. Capítulo 37 · Lanther** — páginas 429–440
+- **046. Capítulo 38 · Érandiul** — páginas 441–449
+- **047. Capítulo 39 · Loth** — páginas 450–460
+- **048. Capítulo 40 · Livia** — páginas 461–470
+- **049. Capítulo 41 · Lanther** — páginas 471–479
+- **050. Capítulo 42 · Livia** — páginas 480–491
+- **051. Capítulo 43 · Amael** — páginas 492–502
+- **052. De las Crónicas de Banderbill, Libro Segundo (III)** — páginas 503–504
+- **053. Del Diario de la familia Érandiul (III)** — páginas 505–506
+- **054. CUARTA PARTE: DE MANO A MANO** — páginas 507–507
+- **055. Capítulo 44 · Amael** — páginas 508–515
+- **056. Capítulo 45 · Ilsa** — páginas 516–526
+- **057. Capítulo 46 · Andriath** — páginas 527–538
+- **058. Capítulo 47 · Verawel** — páginas 539–548
+- **059. Capítulo 48 · Andriath** — páginas 549–556
+- **060. Capítulo 49 · Panbor** — páginas 557–568
+- **061. Capítulo 50 · Andriath** — páginas 569–578
+- **062. Capítulo 51 · Tibbet Tornasol** — páginas 579–587
+- **063. Capítulo 52 · Andriath** — páginas 588–596
+- **064. Capítulo 53 · Bhargaras VIII** — páginas 597–606
+- **065. Capítulo 54 · Érandiul** — páginas 607–615
+- **066. Capítulo 55 · Lanther** — páginas 616–625
+- **067. Del Diario de la familia Érandiul (IV)** — páginas 626–628
+- **068. QUINTA PARTE: LOS CIENTO NOVENTA Y NUEVE AÑOS** — páginas 629–629
+- **069. Capítulo 56 · Bhargaras IX** — páginas 630–632
+- **070. Capítulo 57 · Bredinlo** — páginas 633–644
+- **071. Capítulo 58 · Bhargaras IX** — páginas 645–650
+- **072. Capítulo 59 · Ada Vell** — páginas 651–666
+- **073. Capítulo 60 · Kildo** — páginas 667–681
+- **074. Capítulo 61 · Odile, Custodia de la balanza** — páginas 682–690
+- **075. Capítulo 62 · Lanther** — páginas 691–704
+- **076. Capítulo 63 · Niestrel** — páginas 705–714
+- **077. Capítulo 64 · Pim** — páginas 715–724
+- **078. Capítulo 65 · Tibbet Tornasol** — páginas 725–738
+- **079. Capítulo 66 · Jonas Vell** — páginas 739–748
+- **080. Capítulo 67 · Sein** — páginas 749–758
+- **081. Capítulo 68 · Érandiul** — páginas 759–769
+- **082. Del Diario de la familia Érandiul (V)** — páginas 770–770
+- **083. SEXTA PARTE: EL GRAN TEMBLOR** — páginas 771–771
+- **084. Capítulo 69 · Dalla Hask** — páginas 772–780
+- **085. Capítulo 70 · Érandiul** — páginas 781–789
+- **086. Capítulo 71 · Nimrath** — páginas 790–798
+- **087. Capítulo 72 · Lindiel** — páginas 799–809
+- **088. Capítulo 73 · Lanther** — páginas 810–819
+- **089. Capítulo 74 · Ithil** — páginas 820–829
+- **090. Capítulo 75 · Lindiel II** — páginas 830–838
+- **091. Capítulo 76 · Arthal II** — páginas 839–848
+- **092. Capítulo 77 · Lanther** — páginas 849–859
+- **093. Capítulo 78 · Érandiul** — páginas 860–871
+- **094. De las Crónicas de Banderbill, Libro Segundo (IV)** — páginas 872–874
+- **095. Del Diario de la familia Érandiul (VI)** — páginas 875–877
+- **096. Epílogo · Una piedra a unos kilómetros** — páginas 878–887
+- **097. APÉNDICES** — páginas 888–888
+- **098. Cronología del Libro Segundo** — páginas 889–893
+- **099. Líneas de sangre** — páginas 894–895
+- **100. Breve glosario** — páginas 896–899
+- **101. Geografía** — páginas 900–900

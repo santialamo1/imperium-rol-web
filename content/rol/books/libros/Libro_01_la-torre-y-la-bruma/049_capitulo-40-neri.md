@@ -14,7 +14,7 @@ Neri dejó de mecer a la niña. Escuchó.
 
 El rumor siguió un rato. Luego se calló.
 
-*El viento*, pensó. Y se dijo que era el viento, porque Corvo estaba en Concordia, en el funeral de su abuela, y la torre estaba llena de soldados que dormían, y Teodor, el mayor, de cinco años, roncaba en el jergón de al lado con la boca abierta, y no había ninguna razón para que no fuera el viento.
+El viento, pensó. Y se dijo que era el viento, porque Corvo estaba en Concordia, en el funeral de su abuela, y la torre estaba llena de soldados que dormían, y Teodor, el mayor, de cinco años, roncaba en el jergón de al lado con la boca abierta, y no había ninguna razón para que no fuera el viento.
 
 ---
 
@@ -72,7 +72,7 @@ El capitán Hesk dejó la pluma.
 
 Neri abrió la boca. La cerró.
 
-Podía decírselo. Podía decirle: *porque soy eufesia, capitán. Porque nací en un oasis* *libre al pie de las colinas, entre el río y la niebla, y oigo a los muertos desde que tengo* *memoria, como los oyen todos los de mi sangre. Porque mi hijo también los oye. Porque* *conozco esa voz que dice nombres. La conocemos todos los libres. Y esta vez no es la voz* *del que nos echó de nuestros pozos. Es la de algo peor.*
+*Podía decírselo. Podía decirle: porque soy eufesia, capitán. Porque nací en un oasis libre al pie de las colinas, entre el río y la niebla, y oigo a los muertos desde que tengo memoria, como los oyen todos los de mi sangre. Porque mi hijo también los oye. Porque conozco esa voz que dice nombres. La conocemos todos los libres. Y esta vez no es la voz del que nos echó de nuestros pozos. Es la de algo peor.*
 
 Y el capitán Hesk la miraría. Y al día siguiente lo sabría toda la guarnición. Y en un mes lo sabría todo el Imperio: que el último Bhargaras, el nieto del emperador Henricus, el que había renunciado a la corona, se había casado en secreto con una eufesia. Que sus hijos eran medio eufesios. Que oían. Y alguien escarbaría. Y encontraría lo demás: a Nadia, en el barrio Germa, y la canción, y de dónde venía de verdad la sangre de los Bhargaras.
 
@@ -182,13 +182,13 @@ Supo quién era antes de verle la cara.
 
 Neri de las colinas murió en el año doscientos uno, vieja, en la fortaleza de Kel- Mar, que habían reconstruido piedra a piedra después de aquella noche y que todos los soldados del Ceniza seguían llamando la casa de las voces.
 
-Le sobrevivieron tres hijos, once nietos y un bisnieto. Nunca le dijo a nadie de dónde era. Los cronistas la llamaron, cuando la mencionaron, *la esposa del comandante* *Corvo, de origen incierto*.
+Le sobrevivieron tres hijos, once nietos y un bisnieto. Nunca le dijo a nadie de dónde era. Los cronistas la llamaron, cuando la mencionaron, la esposa del comandante Corvo, de origen incierto.
 
-Los suyos, los de las colinas, los que cantaban la canción de la arena, a él no lo llamaban comandante. Lo llamaban *el Segundo*, en su lengua. El segundo Bhargaras: el que vino después del Primero y dijo que no a la corona, las dos veces. Neri guardaba las cosas de los dos en un arcón de pino, con el cordel gris de la boda atado al asa, y cuando se murió el arcón fue a la biblioteca de abajo de Concordia, con sus papeles dentro. En las listas de palacio no consta. Alguien lo raspó.
+Los suyos, los de las colinas, los que cantaban la canción de la arena, a él no lo llamaban comandante. Lo llamaban el Segundo, en su lengua. El segundo Bhargaras: el que vino después del Primero y dijo que no a la corona, las dos veces. Neri guardaba las cosas de los dos en un arcón de pino, con el cordel gris de la boda atado al asa, y cuando se murió el arcón fue a la biblioteca de abajo de Concordia, con sus papeles dentro. En las listas de palacio no consta. Alguien lo raspó.
 
 La víspera de morir, mandó llamar al mayor de sus nietos, un muchacho de diecisiete años que oía a los muertos como su padre y como su abuela, y le dijo algo en la lengua de la arena que el muchacho no entendió del todo y que anotó, años después, en el margen de una crónica familiar:
 
-*El Padre sabe que estamos aquí. Lo ha sabido siempre. Nos deja en paz porque* *cantamos su canción. Pero no le digáis vuestros nombres. Nunca. Que no os nombre él.*
+*El Padre sabe que estamos aquí. Lo ha sabido siempre. Nos deja en paz porque cantamos su canción. Pero no le digáis vuestros nombres. Nunca. Que no os nombre él.*
 
 El muchacho le preguntó por qué los había dejado en paz aquella noche de Kel- Mar. Por qué la niebla, que se había llevado a tres mil hombres, había dejado vivir a ciento doce personas en una cabaña de carboneros.
 

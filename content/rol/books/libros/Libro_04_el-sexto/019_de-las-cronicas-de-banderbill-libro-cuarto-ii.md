@@ -1,6 +1,6 @@
 # De las Crónicas de Banderbill, Libro Cuarto (II)
 
-*Escrito por Mirela Vell, cronista de la biblioteca, en el invierno del año 1070 de la* *Nueva Era. Con una nota al pie en otra letra.*
+*Escrito por Mirela Vell, cronista de la biblioteca, en el invierno del año 1070 de la Nueva Era. Con una nota al pie en otra letra.*
 
 Lo llamaron el año del escándalo, y duró tres.
 
@@ -28,11 +28,11 @@ Dijo que el Emperador no había tenido hijos. Lo sabían.
 
 Y luego se quedó callado. Con las manos en la barandilla. Mirando a la gente.
 
-Y alguien, desde abajo, una mujer, gritó: *¿Y ahora quién?*
+Y alguien, desde abajo, una mujer, gritó: ¿Y ahora quién?
 
-Y Aelith dijo: *No lo sé.*
+Y Aelith dijo: No lo sé.
 
-Fue la primera vez en mil sesenta y siete años que alguien desde ese balcón dijo *no* *lo sé*. Se oyó hasta el puerto.
+Fue la primera vez en mil sesenta y siete años que alguien desde ese balcón dijo no lo sé. Se oyó hasta el puerto.
 
 ---
 
@@ -76,7 +76,7 @@ Saben que el escudo no está.
 
 Yo no sé cómo lo saben. Pero lo saben. Y la Armada lo sabe también, porque desde el entierro hay el doble de guardia en las murallas y los Hask han vuelto a mirar arriba antes de cada relevo.
 
-La muralla de Lanther hace *tum* como siempre. No canta. No ha hecho falta.
+La muralla de Lanther hace tum como siempre. No canta. No ha hecho falta.
 
 Todavía.
 
@@ -90,7 +90,7 @@ Eligió al comandante Eluret, hijo de Doren, el de las cuadras. Medio elfo. Cien
 
 Eluret aceptó con una condición. Que no le pusieran corona. Que no le dieran el título. Que no lo sentaran en el trono. Que solo los de la sangre podían ser Emperadores y él no era de la sangre, y que no iba a ser él el que se sentara donde se sentaba Gal.
 
-Le dieron un nombre largo, como todos los nombres que se inventan los consejos: *Supremo Comandante de la Armada Imperial*. Él lo odió desde el primer día. Firma *Eluret,* *de la Armada*. Nada más.
+Le dieron un nombre largo, como todos los nombres que se inventan los consejos: Supremo Comandante de la Armada Imperial. Él lo odió desde el primer día. Firma Eluret, de la Armada. Nada más.
 
 El trono sigue vacío. En el salón, con la corona de once libras en el cojín al lado. Los gnomos lo limpian dos veces al año.
 
@@ -116,11 +116,9 @@ Que conste.
 
 ---
 
-— —
-
 *Al pie, en otra letra, pequeña, de niño:*
 
-*La cronista dice que no he dormido. Es verdad. Dice que llené la página con un* *nombre. Es verdad. No dice qué nombre. Hace bien.*
+*La cronista dice que no he dormido. Es verdad. Dice que llené la página con un nombre. Es verdad. No dice qué nombre. Hace bien.*
 
 *Lo diré yo cuando haga falta. Que no hará falta. Que conste.*
 

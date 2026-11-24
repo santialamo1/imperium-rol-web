@@ -10,7 +10,7 @@ Le temblaba todo lo demás.
 
 ---
 
-Fue en el 815. En invierno. La madre se llamaba Kerin. Era de Lindos, de las islas, hija de pescadores, piloto del *Rosa*, la mejor que había, la que sabía leer el hielo como otros leen un libro. Se había casado con el del aro en el 812, en la cubierta del *Tessa*, en mitad de un canal de agua negra, con el elfo viejo leyendo unas palabras del Mercado que se sabía de memoria y el almirante de testigo.
+Fue en el 815. En invierno. La madre se llamaba Kerin. Era de Lindos, de las islas, hija de pescadores, piloto del Rosa, la mejor que había, la que sabía leer el hielo como otros leen un libro. Se había casado con el del aro en el 812, en la cubierta del Tessa, en mitad de un canal de agua negra, con el elfo viejo leyendo unas palabras del Mercado que se sabía de memoria y el almirante de testigo.
 
 Los enanos no entendieron nada. Los enanos se casan en la fragua, delante del fuego, y el que casa es el herrero más viejo, y no hay palabras: se funden dos anillos de hierro en uno y se le da a la pareja para que lo rompa cuando quiera. Si no lo rompe en cien años, se entierra con el último que se muera.
 
@@ -22,7 +22,7 @@ Y en el 815 nació el niño. En la fragua. Con Dalbur sujetando la lámpara.
 
 Lo llamaron Asgal.
 
-Era un nombre enano. Lo eligió Kerin. Dijo que el niño había nacido en casa de enanos y que tenía que llevar algo de la casa. Dalbur le dijo lo que quería decir: *el que* *llega con el frío*. Kerin dijo que le iba bien.
+Era un nombre enano. Lo eligió Kerin. Dijo que el niño había nacido en casa de enanos y que tenía que llevar algo de la casa. Dalbur le dijo lo que quería decir: el que llega con el frío. Kerin dijo que le iba bien.
 
 Era el primero de los altos que nacía en Annkör.
 
@@ -108,7 +108,7 @@ Dalbur se miró las manos. Negras de hollín. Con callos como piedras.
 
 Porque había que preguntarle a la pelirroja.
 
-Eso tampoco lo entendió Dalbur al principio. Que el Emperador, el que mandaba en todo, tuviera que pedir permiso a una mujer que no estaba. Le preguntó al almirante. El almirante se lo explicó en la popa del *Tessa*, mirando arriba, con pocas palabras.
+Eso tampoco lo entendió Dalbur al principio. Que el Emperador, el que mandaba en todo, tuviera que pedir permiso a una mujer que no estaba. Le preguntó al almirante. El almirante se lo explicó en la popa del Tessa, mirando arriba, con pocas palabras.
 
 —Porque ella lo vio todo —dijo—. Desde el principio. Y porque una vez, hace mucho, alguien dio una sin preguntar. Y salió mal.
 
@@ -118,7 +118,7 @@ El almirante no contestó.
 
 ---
 
-La pelirroja llegó en la primavera del 817. En el *Garza*, un barco nuevo, de Nix, más rápido que los de la expedición, con la proa del gnomo. Con el pelo rojo atado en una trenza y una capa de piel de foca que no la abrigaba nada porque decía que no tenía frío.
+La pelirroja llegó en la primavera del 817. En el Garza, un barco nuevo, de Nix, más rápido que los de la expedición, con la proa del gnomo. Con el pelo rojo atado en una trenza y una capa de piel de foca que no la abrigaba nada porque decía que no tenía frío.
 
 Bajó del barco. Miró Tiama. La muralla de hielo azul. La casa grande de piedra negra. Las fumarolas. La montaña del glaciar, que tenía forma de sombrero.
 
@@ -132,7 +132,7 @@ No dijo qué.
 
 Habló con Dalbur tres días.
 
-No en la fragua. Fuera. Andando. Por las fumarolas, por la ladera, hasta el gólem que Dalbur había parado en el 811, que seguía allí, con un brazo levantado y la cabeza ladeada, y al que los niños de Tiama llamaban *el Abuelo* y le dejaban piedrecitas a los pies. La pelirroja lo miró mucho rato. Dejó una piedrecita.
+No en la fragua. Fuera. Andando. Por las fumarolas, por la ladera, hasta el gólem que Dalbur había parado en el 811, que seguía allí, con un brazo levantado y la cabeza ladeada, y al que los niños de Tiama llamaban el Abuelo y le dejaban piedrecitas a los pies. La pelirroja lo miró mucho rato. Dejó una piedrecita.
 
 Le preguntó a Dalbur cosas. Muchas. No de la ofrenda. De él. De su padre. De la veta. De la fragua. Del latido. De cuántos enanos se habían ido abajo desde que él nació. Dalbur se lo dijo: treinta y uno. Se sabía los nombres. Se los dijo.
 
@@ -152,7 +152,7 @@ Estaban en la boca de la galería del este. La de las fumarolas. Desde donde hab
 
 La pelirroja esperó.
 
-—Para que alguien se acuerde de sus nombres —dijo Dalbur—. Cuando yo me muera, ¿quién se los va a saber? Mi hijo no los conoció. Su hijo, menos. Dentro de doscientos años serán treinta y uno que bajaron. Dentro de cuatrocientos, *algunos que* *bajaron*. Dentro de mil, nada. —Se le movió la barba—. Los treinta y uno. Y los dos mil setecientos de antes, que esos ya no se los sabe nadie. Que esos ya son nada.
+—Para que alguien se acuerde de sus nombres —dijo Dalbur—. Cuando yo me muera, ¿quién se los va a saber? Mi hijo no los conoció. Su hijo, menos. Dentro de doscientos años serán treinta y uno que bajaron. Dentro de cuatrocientos, algunos que bajaron. Dentro de mil, nada. —Se le movió la barba—. Los treinta y uno. Y los dos mil setecientos de antes, que esos ya no se los sabe nadie. Que esos ya son nada.
 
 La pelirroja no dijo nada.
 
@@ -166,7 +166,7 @@ Luego se rio. Bajito.
 
 —¿Qué? —dijo Dalbur.
 
-—Nada. —Ella se secó un ojo—. Que es la respuesta que vale. Siempre es la misma. Me la dijo un almirante en el 745. Me la dijo un elfo con corteza en el 703. Me la dijo un panadero en el 63, sin querer. *Para acordarme.* —Lo miró—. No hay otra.
+—Nada. —Ella se secó un ojo—. Que es la respuesta que vale. Siempre es la misma. Me la dijo un almirante en el 745. Me la dijo un elfo con corteza en el 703. Me la dijo un panadero en el 63, sin querer. Para acordarme. —Lo miró—. No hay otra.
 
 —¿Y si alguien dice otra?
 
@@ -264,10 +264,10 @@ El niño le tiró de la barba.
 
 En la colina, ocho meses después, Sein Vell abrió el libro cuadragésimo tercero y apuntó, en la columna del debe:
 
-*Año 817. Dalbur, hijo de Dalgrim. Enano de Kûr. De Bhargaras XI. Debe la* *colina: un protector que no es de la colina. Y treinta y un nombres.*
+*Año 817. Dalbur, hijo de Dalgrim. Enano de Kûr. De Bhargaras XI. Debe la colina: un protector que no es de la colina. Y treinta y un nombres.*
 
 Y en el margen, en letra muy pequeña, lo que le había mandado la pelirroja en una carta aparte, con el lacre roto y vuelto a poner:
 
-*La sangre de la línea, dada por quien quiere, tapa el latido de abajo. No a todos. A* *los que la reciben de uno que está arriba. Comprobado: H. H. (745), D. (817). No* *comprobado: los demás. Preguntar a Teo. Preguntar a Verawel. Preguntar a Ottherius,* *que oye corazones y nunca ha dicho cuál oye más fuerte.*
+*La sangre de la línea, dada por quien quiere, tapa el latido de abajo. No a todos. A los que la reciben de uno que está arriba. Comprobado: H. H. (745), D. (817). No comprobado: los demás. Preguntar a Teo. Preguntar a Verawel. Preguntar a Ottherius, que oye corazones y nunca ha dicho cuál oye más fuerte.*
 
 *Apuntado. Que conste. No sé qué quiere decir todavía.*

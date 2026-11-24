@@ -1,8 +1,8 @@
 # De las Crónicas de Banderbill, Libro Cuarto (IV)
 
-*Escrito por Ysolde Vell, cronista de la biblioteca, en el otoño del año 1300 de la* *Nueva Era. Con una nota al pie en otra letra.*
+*Escrito por Ysolde Vell, cronista de la biblioteca, en el otoño del año 1300 de la Nueva Era. Con una nota al pie en otra letra.*
 
-Mi padre se murió en el 1281 sin terminar la crónica de la caída. La dejó en la página doce. La última frase que escribió fue *y entonces el gnomo se rio*, y debajo no hay nada, y la tinta de la *o* está corrida, como si se le hubiera ido la mano.
+Mi padre se murió en el 1281 sin terminar la crónica de la caída. La dejó en la página doce. La última frase que escribió fue y entonces el gnomo se rio, y debajo no hay nada, y la tinta de la o está corrida, como si se le hubiera ido la mano.
 
 No la voy a terminar. La de la caída no. Esa ya la contó el elfo en su Diario, y la contó mal, y la contó bien, como cuenta él, y la contó la tía abuela Mirela al margen, y la contó mi padre en doce páginas. No hace falta que la cuente yo.
 
@@ -28,7 +28,7 @@ Se llama Hatmie. Es gnoma, nieta de Tilda, la de las cuadras, la que se quedó c
 
 Tenía setenta y seis años cuando la nombraron. Para una gnoma, nada.
 
-La nombraron catorce a tres. Los tres que votaron en contra dijeron que no por ella; dijeron que no porque nombrar a alguien era aceptar que el gnomo no iba a volver. Uno de los tres era el consejero Halden, que había estado en la plaza el día de la rendición. Dijo en el Consejo: *Si nombramos a otro, le estamos diciendo al Demonio que nos da igual*. Y Hatmie, que estaba de pie al fondo de la sala porque todavía no la habían nombrado, dijo, sin pedir la palabra:
+La nombraron catorce a tres. Los tres que votaron en contra dijeron que no por ella; dijeron que no porque nombrar a alguien era aceptar que el gnomo no iba a volver. Uno de los tres era el consejero Halden, que había estado en la plaza el día de la rendición. Dijo en el Consejo: Si nombramos a otro, le estamos diciendo al Demonio que nos da igual. Y Hatmie, que estaba de pie al fondo de la sala porque todavía no la habían nombrado, dijo, sin pedir la palabra:
 
 —No es otro. Es lo que hay mientras.
 
@@ -52,7 +52,7 @@ No sé de qué hablan. He preguntado. La pelirroja no me contesta. La doncella m
 
 Le pregunté cómo es el de siempre.
 
-—*Tum* —me dijo.
+—Tum —me dijo.
 
 Y se fue.
 
@@ -82,13 +82,13 @@ Existe. Pero no es un mercado. Es ceniza.
 
 Empezó la noche de la caída. Los que estaban allí dicen que la fuente se secó, que las Madres se volvieron hacia el sur, que la del norte perdió la cabeza. Que luego cayó ceniza. En pleno verano, en el valle más caliente del Imperio, cayó ceniza de la boca de la montaña, y no paró. Y que cada invierno desde entonces la ceniza ha avanzado un poco más, por las laderas, por el camino del norte, hasta el paso. Ahora el valle está gris de punta a punta. Los mercaderes lo han dejado. Los de la sal van por el desierto, que es más largo. Las Custodias, las mujeres que se sentaban junto a la fuente, se han subido a unas casas de piedra en el borde de la ceniza, junto al paso, y siguen allí. Cuatro. Viejas. Una se llama Wenna, la pesadora, la de la balanza, que estaba allí antes de que hubiera colina, dicen, y no se mueve de debajo de sus chales.
 
-Los soldados de la patrulla del sur lo llaman Tundra Zero. Porque en el registro de la patrulla, en la casilla de *habitantes*, pusieron un cero, y alguien añadió *tundra* delante para que se supiera que no era un error.
+Los soldados de la patrulla del sur lo llaman Tundra Zero. Porque en el registro de la patrulla, en la casilla de habitantes, pusieron un cero, y alguien añadió tundra delante para que se supiera que no era un error.
 
 Yo no he ido. Mi padre fue una vez, antes de morirse. Dijo que en el centro del valle, debajo de la ceniza, se veía el Guardián. El de siempre, el hombre de sal de la boca del agujero, con la boca abierta y la jarra en el pecho. Pero que ya no era el mismo. Que tenía barba de ceniza y los hombros grises, y que la cabeza, que antes estaba un poco inclinada hacia delante como quien se asoma, ahora estaba levantada. Un dedo. Mirando al sur.
 
 Le pregunté si eso podía ser.
 
-Me dijo que las Custodias decían que sí. Que lo llamaban ahora *el Último* *Guardián*, porque detrás de él ya no había nadie más.
+Me dijo que las Custodias decían que sí. Que lo llamaban ahora el Último Guardián, porque detrás de él ya no había nadie más.
 
 ---
 
@@ -146,16 +146,14 @@ Que conste.
 
 ---
 
-— —
-
 *Al pie, en otra letra, pequeña, de niño:*
 
 *La cronista dice que el Consejo votó once a ocho. Es verdad. Lo apunté yo.*
 
-*En el debe: ocho que querían ir a buscarlo. En el haber: once que tenían miedo. En* *la tercera columna, que es la de lo que nadie dice, he apuntado: la doncella no votó. No le* *dejan. Se tocó la llave.*
+*En el debe: ocho que querían ir a buscarlo. En el haber: once que tenían miedo. En la tercera columna, que es la de lo que nadie dice, he apuntado: la doncella no votó. No le dejan. Se tocó la llave.*
 
-*Lo de la casa del pan, que no lo apunte. Le he pedido que no. Lo ha apuntado. Su* *padre lo tachó y ella no. Así son los Vell; uno tacha, el otro no.*
+*Lo de la casa del pan, que no lo apunte. Le he pedido que no. Lo ha apuntado. Su padre lo tachó y ella no. Así son los Vell; uno tacha, el otro no.*
 
-*Ya no apunto nada de esa casa en mis libros. Desde el 1212. Lo digo en voz alta, a* *veces, en el sótano, delante de la masa, y la masa se calla.*
+*Ya no apunto nada de esa casa en mis libros. Desde el 1212. Lo digo en voz alta, a veces, en el sótano, delante de la masa, y la masa se calla.*
 
 *S.*

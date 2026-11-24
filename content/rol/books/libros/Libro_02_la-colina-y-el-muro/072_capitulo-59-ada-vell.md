@@ -2,15 +2,11 @@
 
 *Banderbill. Años 199 a 201 de la Nueva Era.*
 
-*De la Crónica de Ada Vell, primera de su nombre, año 199. La reina está*
-
-*encinta. El Consejo ha pedido que se le midan las orejas al niño cuando nazca.*
-
-*Lo apunto tal cual, para que dentro de cien años alguien se ría.*
+*De la Crónica de Ada Vell, primera de su nombre, año 199. La reina está encinta. El Consejo ha pedido que se le midan las orejas al niño cuando nazca. Lo apunto tal cual, para que dentro de cien años alguien se ría.*
 
 A Ada Vell le gustaban los mapas porque no mentían más de lo necesario.
 
-Un mapa decía: aquí hay un río. Y había un río. A lo mejor no tan ancho, a lo mejor torcido hacia otro lado, a lo mejor con un vado que el cartógrafo no había visto porque llovía; pero había un río. Las Crónicas no. Las Crónicas decían: *el rey fue amado por su* *pueblo*, y había que bajar al puerto y preguntar a tres pescadoras para saber si era verdad. Casi nunca lo era del todo.
+Un mapa decía: aquí hay un río. Y había un río. A lo mejor no tan ancho, a lo mejor torcido hacia otro lado, a lo mejor con un vado que el cartógrafo no había visto porque llovía; pero había un río. Las Crónicas no. Las Crónicas decían: el rey fue amado por su pueblo, y había que bajar al puerto y preguntar a tres pescadoras para saber si era verdad. Casi nunca lo era del todo.
 
 Tenía cincuenta y un años, las manos manchadas de tinta hasta las muñecas y treinta y cuatro años de Crónica a la espalda. Había dibujado el mapa del puerto de coral antes de que existiera, para que un rey de diecinueve años convenciera al Consejo. Había dibujado el de Ullathorpe, el de Nix con su río, el de las montañas grises con las entradas de los enanos marcadas con una cruz pequeña, para que no las viera cualquiera. Había dibujado el de los Ocho Rincones, y lo había quemado después, en la chimenea de la biblioteca, con el de las gafas mirando, porque un mapa de los Rincones era exactamente lo que no tenía que existir.
 
@@ -28,7 +24,7 @@ Ada no levantó la vista del papel.
 
 Estaban en la sala del Consejo, bajo el cuchillo de Gorm colgado en la pared, doce consejeros, un secretario, un enano dormido y una cronista. El rey no estaba. El rey, Bhargaras X, estaba en el puerto viendo descargar un barco de Nueva Esperanza, porque había heredado de su padre la manía de escuchar al puerto y de su abuelo la manía de no estar donde se hablaba mal de él.
 
-Olbrecht Saur tenía sesenta y cuatro años y la papada de tres generaciones de Saur. Había sido *el joven* durante tanto tiempo que la gente seguía llamándolo así aunque ya le temblaba la mano al firmar. Su bisabuelo había pasado la noche de la invasión del año 42 en la bodega, detrás de un barril, con su mujer y sus hijos; lo sabía toda la colina, porque Livia Heredicus lo había puesto en una Crónica con una frase que los Saur llevaban ciento cincuenta años intentando que se borrara. No se había borrado. Las Crónicas no se borran. Eso era lo bueno y lo malo de ellas.
+Olbrecht Saur tenía sesenta y cuatro años y la papada de tres generaciones de Saur. Había sido el joven durante tanto tiempo que la gente seguía llamándolo así aunque ya le temblaba la mano al firmar. Su bisabuelo había pasado la noche de la invasión del año 42 en la bodega, detrás de un barril, con su mujer y sus hijos; lo sabía toda la colina, porque Livia Heredicus lo había puesto en una Crónica con una frase que los Saur llevaban ciento cincuenta años intentando que se borrara. No se había borrado. Las Crónicas no se borran. Eso era lo bueno y lo malo de ellas.
 
 —Lo que el Consejo pide —siguió Saur, despacio, a la sala, no a ella— es muy sencillo. Una ley. Una línea. Que el que se siente en la silla de la colina sea de la colina. Hijo de hombre y de mujer de la colina. Como ha sido siempre.
 
@@ -44,7 +40,7 @@ Hubo risas. Pocas. Saur no se rió.
 
 —La colina —dijo el enano— la levantaron con piedras que cantaban. Y las piedras eran de un río que no es vuestro.
 
-Ada lo apuntó. Con su letra perfecta, en el margen. *El embajador Durgo dice que* *las piedras eran de un río que no es nuestro. Tiene razón. Nadie se lo agradece.*
+Ada lo apuntó. Con su letra perfecta, en el margen. El embajador Durgo dice que las piedras eran de un río que no es nuestro. Tiene razón. Nadie se lo agradece.
 
 ---
 
@@ -60,9 +56,9 @@ Eso lo entendió Ada esa misma noche, en la biblioteca, en el rincón del fondo,
 
 El de las gafas levantó la vista.
 
-Tenía cuarenta años. Los tenía siempre. Ada lo había conocido con cuarenta cuando ella tenía diecisiete y bajó a la biblioteca a pedir trabajo con un mapa del barrio de abajo dibujado en un trozo de vela vieja, y el de las gafas lo había mirado mucho rato, por delante y por detrás, y le había dicho: *aquí te has equivocado; la fuente está tres pasos más* *al este*. Era verdad. Ella lo había medido después. Desde entonces le había visto envejecer a ella misma, en el espejo, y a él no.
+Tenía cuarenta años. Los tenía siempre. Ada lo había conocido con cuarenta cuando ella tenía diecisiete y bajó a la biblioteca a pedir trabajo con un mapa del barrio de abajo dibujado en un trozo de vela vieja, y el de las gafas lo había mirado mucho rato, por delante y por detrás, y le había dicho: aquí te has equivocado; la fuente está tres pasos más al este. Era verdad. Ella lo había medido después. Desde entonces le había visto envejecer a ella misma, en el espejo, y a él no.
 
-No le preguntó nunca. Él se lo dijo un día, años después, sin que ella preguntara, mientras sumaban los sacos de un invierno malo: *me llamo Sein, y me la dio la reina* *pelirroja*. Y siguió sumando. Y ella también. No volvieron a hablar de ello. Ada lo puso en la Crónica de la única manera en que se podía poner: *el primero de nosotros sigue vivo y* *no lo dice. Yo no lo digo tampoco*.
+No le preguntó nunca. Él se lo dijo un día, años después, sin que ella preguntara, mientras sumaban los sacos de un invierno malo: me llamo Sein, y me la dio la reina pelirroja. Y siguió sumando. Y ella también. No volvieron a hablar de ello. Ada lo puso en la Crónica de la única manera en que se podía poner: el primero de nosotros sigue vivo y no lo dice. Yo no lo digo tampoco.
 
 —¿Qué grano? —preguntó Sein.
 
@@ -110,7 +106,13 @@ Eso era lo que más rabia le daba a Ada. Que no tuviera la culpa. Que fuera una 
 
 Pero en la colina no. En la colina las orejas de Mirela eran un escándalo, y el rey las besaba en público, delante de la fuente, un rey de veintisiete años que se ponía colorado y no le importaba, y el Consejo hacía como que no veía, y en las tabernas de los toneleros se cantaba una copla que Ada había apuntado entera, porque era buena:
 
-*El rey tiene una oreja,* *la reina tiene dos;* *si el niño sale elfo,* *que lo bendiga Dios.*
+*El rey tiene una oreja,*
+
+*la reina tiene dos;*
+
+*si el niño sale elfo,*
+
+*que lo bendiga Dios.*
 
 —No sé qué es Dios —le dijo Mirela, cuando Ada fue a dibujarle la oreja—. En Nix no hay de eso.
 
@@ -158,7 +160,7 @@ El muchacho la miró con el ojo bueno.
 
 —Para saber si son las mismas —dijo—. Las de ayer. Yo creo que no. Yo creo que hay unas que vienen por la mañana y otras que vienen por la tarde, y que no se hablan.
 
-Ada miró la tabla. Había cuatro columnas. *Mañana. Tarde. Con mancha. Sin* *mancha.* Los palotes estaban atados de cinco en cinco, con una raya cruzada. Como se cuentan los sacos en un almacén.
+Ada miró la tabla. Había cuatro columnas. Mañana. Tarde. Con mancha. Sin mancha. Los palotes estaban atados de cinco en cinco, con una raya cruzada. Como se cuentan los sacos en un almacén.
 
 Se le hizo un nudo en algún sitio.
 
@@ -198,7 +200,7 @@ Ada estaba allí, en su taburete, junto a la pared, debajo del cuchillo de Gorm,
 
 La ley tenía tres líneas. Ada la copió entera, porque las leyes malas hay que copiarlas enteras para que no se puedan negar después.
 
-*Que no se siente en la silla de la colina quien tenga sangre de otra raza en más de* *una cuarta parte. Que se mida al nacer. Que conste.*
+*Que no se siente en la silla de la colina quien tenga sangre de otra raza en más de una cuarta parte. Que se mida al nacer. Que conste.*
 
 —Que conste —murmuró Ada—. Encima eso.
 
@@ -216,11 +218,11 @@ Miró al fondo de la sala, donde estaba el secretario del rey, un hombre gris qu
 
 Ada se acordó de una cosa que le había dicho Sein hacía muchos años, la primera vez que la dejó ver la pila de los viernes por dentro, de noche, en la biblioteca, con un palote al trasluz en la esquina de uno de cada cuarenta papeles:
 
-*Los reyes firman lo que se les pone delante. Todos. No porque sean tontos. Porque* *son pocos y los papeles son muchos. El que pone la pila, gobierna. El que la lee, reina.* *Casi ninguno la lee.*
+*Los reyes firman lo que se les pone delante. Todos. No porque sean tontos. Porque son pocos y los papeles son muchos. El que pone la pila, gobierna. El que la lee, reina. Casi ninguno la lee.*
 
 *¿Y este? ¿El de ahora?*
 
-*Este la lee a veces. Cuando está de buen humor. Hay que ponerle los importantes* *los días de sol.*
+*Este la lee a veces. Cuando está de buen humor. Hay que ponerle los importantes los días de sol.*
 
 ---
 
@@ -296,7 +298,7 @@ Lo puso Barro en la pila. El jueves por la noche. Sin mirarlo. Como pone un mueb
 
 El viernes salió el sol.
 
-Ada lo apuntó en la Crónica, la oficial, la que leía cualquiera: *Viernes del mes de* *las heladas. Sol. El rey firma cuarenta y un papeles.* No puso cuáles. No hacía falta.
+Ada lo apuntó en la Crónica, la oficial, la que leía cualquiera: Viernes del mes de las heladas. Sol. El rey firma cuarenta y un papeles. No puso cuáles. No hacía falta.
 
 Lo que no puso fue lo que vio por la tarde, desde la ventana de la biblioteca, que daba a la plaza: al rey, Bhargaras X, saliendo del palacio con un papel en la mano. Uno solo. Leyéndolo mientras andaba, que era una costumbre suya que ponía nerviosos a los guardias porque se tropezaba con las cabras. Cruzó la plaza. Se paró en la fuente. Lo leyó otra vez.
 
@@ -314,7 +316,7 @@ Ada lo apuntó palabra por palabra. Con una cara que Odric, que estaba detrás, 
 
 —¿Por qué pones esa cara? —le preguntó, después.
 
-—Porque su bisabuelo pasó aquella noche detrás de un barril —dijo Ada—. Y él lo sabe. Y ha dicho *aquella noche* sin que le temblara la voz. —Cerró el cuaderno—. Eso es lo que hace el miedo bien usado, Odric. Le enseña a la gente a decir lo que tenía que haber dicho desde el principio.
+—Porque su bisabuelo pasó aquella noche detrás de un barril —dijo Ada—. Y él lo sabe. Y ha dicho aquella noche sin que le temblara la voz. —Cerró el cuaderno—. Eso es lo que hace el miedo bien usado, Odric. Le enseña a la gente a decir lo que tenía que haber dicho desde el principio.
 
 —¿Y los graneros?
 
@@ -384,12 +386,12 @@ Odric abrió el cuaderno. Estaba en blanco.
 
 Ada Vell vivió todavía mucho tiempo. Lo bastante para dibujar el mapa del puerto de coral terminado, con sus muelles en espiral, y para equivocarse en una curva y que Odric se lo dijera. Lo bastante para ver a Arthal, el niño de la oreja, aprender a andar en la plaza, cayéndose sobre las cabras, y a la reina Mirela reírse desde la fuente.
 
-Lo bastante, también, para ver morir a Olbrecht Saur, en el año 206, en su cama, de viejo. No fue al entierro. Le mandó flores. Con una nota sin firma que decía: *Aquella* *noche estuvo bien dicho.*
+Lo bastante, también, para ver morir a Olbrecht Saur, en el año 206, en su cama, de viejo. No fue al entierro. Le mandó flores. Con una nota sin firma que decía: Aquella noche estuvo bien dicho.
 
 Su nieto, que se llamaba Olbrecht también, porque los Saur no tenían imaginación para los nombres, guardó la nota. No supo nunca de quién era.
 
 Ada lo apuntó en el debe. Debajo del suelo falso.
 
-*Tendrá nietos*, había escrito. Con un signo de interrogación en el margen.
+Tendrá nietos, había escrito. Con un signo de interrogación en el margen.
 
 No lo tachó. Le gustaba dejarle trabajo a quien viniera detrás.

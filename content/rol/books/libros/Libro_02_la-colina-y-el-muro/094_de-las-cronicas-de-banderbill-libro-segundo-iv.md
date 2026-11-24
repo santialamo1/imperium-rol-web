@@ -1,6 +1,6 @@
 # De las Crónicas de Banderbill, Libro Segundo (IV)
 
-*Escrito por Aren Vell, cronista de la biblioteca, en la última noche del año 417 de* *la Nueva Era. Con una nota al pie en otra letra.*
+*Escrito por Aren Vell, cronista de la biblioteca, en la última noche del año 417 de la Nueva Era. Con una nota al pie en otra letra.*
 
 Me llamo Aren. No me llamaba Vell hasta hace veintiún años, cuando el hombre de la mesa del fondo me dio un cuaderno y me dijo que a partir de ese día el apellido iba con el cuaderno. Le pregunté de quién era el apellido. Me dijo que de un huérfano. Le pregunté qué huérfano. Me dijo que eso no se apuntaba.
 
@@ -40,11 +40,9 @@ Que conste.
 
 ---
 
-— —
-
 *Al pie, en otra letra, pequeña, de niño, con la tinta fresca:*
 
-*Diecinueve no. Dieciocho. Tomas no cuenta; era yo. El muchacho se ha* *equivocado en la primera cuenta que ha hecho solo. Lo dejo así. Me ha hecho gracia.*
+*Diecinueve no. Dieciocho. Tomas no cuenta; era yo. El muchacho se ha equivocado en la primera cuenta que ha hecho solo. Lo dejo así. Me ha hecho gracia.*
 
 *Me ha hecho gracia. Que conste también eso.*
 

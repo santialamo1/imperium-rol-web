@@ -54,7 +54,7 @@ No treinta y dos, como en los tiempos de Genieveve. Once. La mayoría eran seño
 
 —¿Cuenta?
 
-El Consejo deliberaba. El decreto decía *hasta que no quede más que uno en pie*. Un hombre desarmado y en el suelo no estaba en pie. Contaba.
+El Consejo deliberaba. El decreto decía hasta que no quede más que uno en pie. Un hombre desarmado y en el suelo no estaba en pie. Contaba.
 
 La multitud abucheó el primer día. El segundo, menos. El tercero, cuando Lexandra desarmó a un gigante Ibaro con un movimiento tan rápido que nadie lo vio, y luego le tendió la mano para ayudarle a levantarse, la plaza entera estalló en aplausos.
 

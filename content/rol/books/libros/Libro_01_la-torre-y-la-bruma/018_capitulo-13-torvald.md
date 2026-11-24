@@ -78,11 +78,11 @@ Torvald duró.
 
 Duró más que ninguno de los once anteriores. Sabía pelear contra gente más rápida que él —en las guerras de Hector había luchado contra los arqueros de Gijor, que bailaban alrededor de los hombres grandes como mosquitos— y sabía que el truco era no perseguirlos, sino dejar que vinieran. Plantó los pies. Protegió el cuerpo con el escudo redondo de hierro que le había dado el nombre. Paró golpe tras golpe, y cada golpe le subía por el brazo como una descarga de martillo, porque la muchacha que pesaba la mitad que él pegaba como si pesara el doble.
 
-Contó. Era lo que hacía siempre en combate: contar. Le calmaba. Veinte golpes. Treinta. Cincuenta. La multitud había empezado a gritar su nombre, *¡Piel de Hierro! ¡Piel* *de Hierro!*, los Ibaro de la tribuna y los pescadores de Pisor de las gradas del fondo y luego todo el mundo, porque nadie había durado tanto y la plaza quería ver caer a la huérfana casi tanto como la había querido ver ganar.
+Contó. Era lo que hacía siempre en combate: contar. Le calmaba. Veinte golpes. Treinta. Cincuenta. La multitud había empezado a gritar su nombre, ¡Piel de Hierro! ¡Piel de Hierro!, los Ibaro de la tribuna y los pescadores de Pisor de las gradas del fondo y luego todo el mundo, porque nadie había durado tanto y la plaza quería ver caer a la huérfana casi tanto como la había querido ver ganar.
 
 A los ochenta golpes, Genieveve dio un paso atrás.
 
-Torvald vio que le temblaban las piernas. Lo vio claramente: un temblor leve, en las rodillas, como el de un caballo que ha corrido demasiado. Vio el sudor en su frente, la palidez en los labios. *Se cansa*, pensó. *Olaf tenía razón. Se cansa.*
+Torvald vio que le temblaban las piernas. Lo vio claramente: un temblor leve, en las rodillas, como el de un caballo que ha corrido demasiado. Vio el sudor en su frente, la palidez en los labios. Se cansa, pensó. Olaf tenía razón. Se cansa.
 
 Por primera vez en todo el combate, atacó.
 
@@ -94,7 +94,7 @@ No estaba detrás.
 
 Lo que estaba detrás de los ojos azules de Genieveve de Leogrand no era una muchacha de veintiocho años. Era algo frío, inmenso, viejo, que lo miraba como se mira el pan, y que tenía hambre. Y Torvald, que no había tenido miedo en siete guerras, sintió que se le vaciaba el pecho, como si alguien le hubiera abierto una puerta por dentro y el aire se le estuviera saliendo.
 
-*Aliento*, oyó. No con los oídos. *Aliento caliente.*
+Aliento, oyó. No con los oídos. Aliento caliente.
 
 Ella le partió el escudo con un golpe que no podía dar nadie. Lo partió en dos, el escudo de hierro de sus siete guerras, como si fuera de corteza. Y luego le partió a él.
 

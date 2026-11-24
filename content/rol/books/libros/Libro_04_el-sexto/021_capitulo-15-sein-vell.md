@@ -1,6 +1,6 @@
 # Capítulo 15 · Sein Vell
 
-*El sótano de la biblioteca y el cuartel del puerto de Banderbill. Del invierno del* *año 1068 a la primavera del 1071 de la Nueva Era (461–464 D.bA).*
+*El sótano de la biblioteca y el cuartel del puerto de Banderbill. Del invierno del año 1068 a la primavera del 1071 de la Nueva Era (461–464 D.bA).*
 
 El hombre del escalón se llamaba Ludo Marren y miraba hacia arriba demasiado bien.
 
@@ -52,7 +52,7 @@ No cuadraba.
 
 Lo que sí cuadraba era otra cosa. Que la sangre de Bhargaras seguía. Que estaba en una panadería de la calle del Horno, a cuatrocientos pasos de la biblioteca. Que él lo sabía desde el 760. Que lo había apuntado en un margen y lo había olvidado. Que no lo había olvidado.
 
-Y que si decía *este hombre miente*, alguien preguntaría *¿y cómo lo sabes?*
+Y que si decía este hombre miente, alguien preguntaría ¿y cómo lo sabes?
 
 Y él tendría que contestar.
 
@@ -80,7 +80,7 @@ Durante un año, Ludo Marren vivió en un cuarto encima de la biblioteca, que le
 
 Sein no contestó.
 
-Le examinaron todos. Wenna bajó del valle a verlo y estuvo con él una tarde y volvió diciendo que no le gustaba, que olía raro, a nada, como huele una piedra que no es de ningún sitio, pero que eso no quería decir nada, que a ella le olían raro muchos. Tibbet no bajó. Mandó una carta: *no lo conozco. No sale en mi lista. Eso no quiere decir nada* *tampoco.* Mirela habló con él muchas horas y escribió en el cuaderno de los Vell y no dejó leerlo a nadie. Teo no quiso verlo.
+Le examinaron todos. Wenna bajó del valle a verlo y estuvo con él una tarde y volvió diciendo que no le gustaba, que olía raro, a nada, como huele una piedra que no es de ningún sitio, pero que eso no quería decir nada, que a ella le olían raro muchos. Tibbet no bajó. Mandó una carta: no lo conozco. No sale en mi lista. Eso no quiere decir nada tampoco. Mirela habló con él muchas horas y escribió en el cuaderno de los Vell y no dejó leerlo a nadie. Teo no quiso verlo.
 
 Lanther lo miró una vez. De lejos. Desde la tercera almena, mientras él paseaba por la plaza del Consejo. Lo estuvo mirando una hora.
 
@@ -110,7 +110,7 @@ Era el único que habría sabido. Sein lo sabía. Ottherius leía las cosas. Las
 
 Sein le escribió. Una carta. A Rinkel.
 
-Escribió: *Ven. Hay un hombre que dice ser de la sangre. Necesitamos que lo leas.*
+*Escribió: Ven. Hay un hombre que dice ser de la sangre. Necesitamos que lo leas.*
 
 La tuvo en la mesa tres días. Con el sello puesto.
 
@@ -120,7 +120,7 @@ La quemó en la vela, el cuarto día. Despacio. Viendo cómo se doblaba el papel
 
 *Necesitamos que lo leas.*
 
-Si Ottherius venía y le ponía la mano en el pecho a Ludo Marren y decía *no*, la Orden no pararía. Seguiría buscando. Con más prisa. Con más miedo. Y a lo mejor algún día alguien, Verawel, buscando en los archivos, miraría a las hijas. Y encontraría el margen.
+Si Ottherius venía y le ponía la mano en el pecho a Ludo Marren y decía no, la Orden no pararía. Seguiría buscando. Con más prisa. Con más miedo. Y a lo mejor algún día alguien, Verawel, buscando en los archivos, miraría a las hijas. Y encontraría el margen.
 
 Si Ottherius no venía, la Orden se quedaría con Ludo Marren. Y con lo que fuera Ludo Marren.
 
@@ -132,17 +132,17 @@ Y la suma le dio lo que le dio.
 
 El que lo pidió fue Brand Hask.
 
-Sein no lo esperaba. Nadie lo esperaba. Brand Hask era teniente de navío, treinta y un años, nieto de Corvo Hask, el que en el 967 esperó al lado de la puerta del sótano con el uniforme planchado y en el 972 mandó una carta desde el *Tessa III* que Sein guardaba todavía entre las hojas del libro centésimo séptimo. Corvo se había muerto en el 1040, en el mar, en una tormenta frente a Nix, con noventa y dos años, en el puente de un barco que mandaba aunque ya no debería mandar ningún barco. Brand era su nieto favorito. Tenía su nariz. Rota una vez.
+Sein no lo esperaba. Nadie lo esperaba. Brand Hask era teniente de navío, treinta y un años, nieto de Corvo Hask, el que en el 967 esperó al lado de la puerta del sótano con el uniforme planchado y en el 972 mandó una carta desde el Tessa III que Sein guardaba todavía entre las hojas del libro centésimo séptimo. Corvo se había muerto en el 1040, en el mar, en una tormenta frente a Nix, con noventa y dos años, en el puente de un barco que mandaba aunque ya no debería mandar ningún barco. Brand era su nieto favorito. Tenía su nariz. Rota una vez.
 
 Vino al sótano en el verano del 1069. Solo. Con una carta en la mano.
 
 La carta de su abuelo.
 
-No la del *Tessa III*. Otra. Una que Corvo le había dejado al morir, en un sobre lacrado, *para cuando haga falta*.
+No la del Tessa III. Otra. Una que Corvo le había dejado al morir, en un sobre lacrado, para cuando haga falta.
 
 Brand la dejó en la mesa. Sein la leyó.
 
-*Brand. Si un día la Orden necesita a alguien de la Armada, y no queda nadie de la* *sangre que dé, y viene alguien que dice que es, ve tú. Pídelo tú. No dejes que te lo traigan.* *Yo me pasé cinco años planchándome el uniforme esperando a que me lo trajeran. Que no* *te pase. Pídelo tú, si lo quieres. Y si no lo quieres, no lo pidas. Pero que sea tuyo. Tu* *abuelo, Corvo.*
+*Brand. Si un día la Orden necesita a alguien de la Armada, y no queda nadie de la sangre que dé, y viene alguien que dice que es, ve tú. Pídelo tú. No dejes que te lo traigan. Yo me pasé cinco años planchándome el uniforme esperando a que me lo trajeran. Que no te pase. Pídelo tú, si lo quieres. Y si no lo quieres, no lo pidas. Pero que sea tuyo. Tu abuelo, Corvo.*
 
 Sein dejó la carta en la mesa.
 
@@ -164,7 +164,7 @@ Pensó en el margen.
 
 Pensó en la calle del Horno.
 
-Tuvo la boca abierta para decirlo. Para decir *no. Ese hombre no es. Lo sé. Sé dónde* *está la sangre de verdad.* Lo tuvo en la lengua.
+Tuvo la boca abierta para decirlo. Para decir no. Ese hombre no es. Lo sé. Sé dónde está la sangre de verdad. Lo tuvo en la lengua.
 
 No lo dijo.
 
@@ -260,7 +260,7 @@ Una risa pequeña, rota, de viejo. De Corvo.
 
 Brand Hask murió nueve días después. Treinta y un años. La cara de ciento diez.
 
-Lo enterraron en el cementerio de la Armada, en la ladera sur, al lado de su abuelo. La lápida dice *Brand Hask, teniente de navío, 1040–1071*, y la gente que pasa por delante y lee las fechas no entiende por qué la losa es tan vieja.
+Lo enterraron en el cementerio de la Armada, en la ladera sur, al lado de su abuelo. La lápida dice Brand Hask, teniente de navío, 1040–1071, y la gente que pasa por delante y lee las fechas no entiende por qué la losa es tan vieja.
 
 Sein no fue al entierro.
 
@@ -268,7 +268,7 @@ Se quedó en el sótano. Con el libro centésimo trigésimo abierto por la pági
 
 Escribió en el debe:
 
-*Brand Hask, nieto de Corvo. Ofrenda recibida de Ludo Marren, que no era.* *Muerto en dos años, con la cara de ciento diez. Lo pidió él. Fue suyo.*
+*Brand Hask, nieto de Corvo. Ofrenda recibida de Ludo Marren, que no era. Muerto en dos años, con la cara de ciento diez. Lo pidió él. Fue suyo.*
 
 En el haber no escribió nada.
 
@@ -276,12 +276,12 @@ En la tercera columna escribió su propio nombre.
 
 *Sein Vell.*
 
-Y debajo: *Lo sabía. No lo comprobé. Para proteger el margen. El margen pesa ahora un Hask.*
+*Y debajo: Lo sabía. No lo comprobé. Para proteger el margen. El margen pesa ahora un Hask.*
 
 Se quedó mirándolo.
 
-Luego, en la hoja sin número, la de *¿A quién?*, la que llevaba ciento tres años encima de la mesa, escribió debajo de todo lo demás, más pequeño que nunca:
+Luego, en la hoja sin número, la de ¿A quién?, la que llevaba ciento tres años encima de la mesa, escribió debajo de todo lo demás, más pequeño que nunca:
 
-*No sé si he hecho bien. Es la primera vez en mil años que no sé si una suma está* *bien hecha.*
+*No sé si he hecho bien. Es la primera vez en mil años que no sé si una suma está bien hecha.*
 
 *No la voy a rehacer.*

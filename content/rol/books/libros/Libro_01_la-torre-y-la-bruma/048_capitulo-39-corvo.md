@@ -14,7 +14,7 @@ Al príncipe que no era príncipe le ofrecieron la corona por segunda vez en die
 
 Corvo se quedó de pie junto a la ventana. Fuera, en el cementerio Germa, el viento de invierno movía las ramas desnudas de los sauces. Su abuela iba a estar enterrada allí, al lado del abuelo Teodor, en la tumba que el abuelo había comprado cincuenta años atrás con su sueldo de capitán. No en la cripta de la Torre. No con los emperadores. Ella lo había pedido así.
 
-*Que me entierren con los Germa*, había dicho. *He sido Germa más tiempo que* *ninguna otra cosa.*
+*Que me entierren con los Germa, había dicho. He sido Germa más tiempo que ninguna otra cosa.*
 
 Corvo tenía treinta y cinco años. Llevaba dieciséis vigilando un río desde una fortaleza fea. Tenía una mujer de ojos grises con la que se había casado en secreto y un hijo de cinco años que hablaba dos lenguas. Y la emperatriz estaba muriéndose en el palacio, de una fiebre del puerto, y todo el mundo lo sabía, y nadie lo decía.
 
@@ -98,7 +98,7 @@ Al amanecer, se levantó. Se lavó la cara en el barreño de su abuela. Y fue al
 
 Helen Dorian murió al amanecer del noveno día. Corvo no estuvo en la habitación. No le correspondía. Estaban Braco y la muchacha, Ismena, y nadie más.
 
-El nombramiento estaba debajo del mapa de Eufesia, como Helen había dicho. Lord Crane lo leyó en el Consejo esa misma tarde, con la voz neutra de los cancilleres. *Nombro* *mi heredero a Braco Arenar, general de los ejércitos del Imperio.*
+El nombramiento estaba debajo del mapa de Eufesia, como Helen había dicho. Lord Crane lo leyó en el Consejo esa misma tarde, con la voz neutra de los cancilleres. Nombro mi heredero a Braco Arenar, general de los ejércitos del Imperio.
 
 Hubo murmullos. Un Arenar de Pisor, sobrino nieto del hermano de Drolnar, un soldado sin tierras. Algunos señores miraron a Corvo, sentado al fondo de la sala, en el banco de los que no tenían título. Esperaban.
 
@@ -176,6 +176,6 @@ Esa noche nombró a Corvo Bhargaras comandante de la frontera norte. Corvo acept
 
 No volvió a ofrecérsele la corona. Ni a él ni a ninguno de sus descendientes en ciento treinta y cuatro años.
 
-Los Bhargaras se convirtieron en una familia de soldados competentes y nada más. Era lo que Corvo quería. Lo dejó escrito, en una carta a su hijo, el año en que murió: *Que* *nadie escarbe. Que nadie pregunte. Que sigáis oyendo en silencio. Y que un día, cuando* *haga falta, alguno de vosotros sepa qué hacer con lo que oye.*
+Los Bhargaras se convirtieron en una familia de soldados competentes y nada más. Era lo que Corvo quería. Lo dejó escrito, en una carta a su hijo, el año en que murió: Que nadie escarbe. Que nadie pregunte. Que sigáis oyendo en silencio. Y que un día, cuando haga falta, alguno de vosotros sepa qué hacer con lo que oye.
 
 Ciento treinta y cuatro años después, en las colinas de Askel, al atardecer, un general Bhargaras de veintinueve años sabría.

@@ -136,7 +136,7 @@ Lanther no levantó la vista de la piedra gris.
 
 Lanther tardó mucho en contestar. Cuando contestó, lo hizo sin levantar la cabeza.
 
-—Mi padre —dijo— se llamaba a sí mismo *emperador de esto*. En el año uno. Cuando llegaron. Con un barco roto y una playa. Lo decía de broma. *Emperador de esto.* De nada. —Pasó la mano por la piedra gris—. Desde Arthal, el primero, el del 218, los reyes de la colina se llaman emperadores. Por cortesía. Por la corona de once libras. Pero no lo son. Mandan en una colina.
+—Mi padre —dijo— se llamaba a sí mismo emperador de esto. En el año uno. Cuando llegaron. Con un barco roto y una playa. Lo decía de broma. Emperador de esto. De nada. —Pasó la mano por la piedra gris—. Desde Arthal, el primero, el del 218, los reyes de la colina se llaman emperadores. Por cortesía. Por la corona de once libras. Pero no lo son. Mandan en una colina.
 
 —¿Y?
 
@@ -150,7 +150,7 @@ Nadie contestó.
 
 Fue Érandiul. Desde el brocal. Con la voz de setecientos cincuenta años. Sin quitarse el sombrero.
 
-—En los libros viejos de Concordia —dijo— eso se llamaba *imperio*.
+—En los libros viejos de Concordia —dijo— eso se llamaba imperio.
 
 ---
 
@@ -160,7 +160,7 @@ Fue idea del Emperador. Dijo que no se proclamaba un imperio en un sitio donde t
 
 Así que se hizo en la plaza.
 
-Vinieron de la colina. El Consejo entero, menos maese Corbel, que estaba en la cárcel provisional de la ladera este. El gremio. Los Custodios de la escuela de Orla, con sus túnicas grises. Los elfos del barrio de arriba, con Nimrath delante. Los enanos de la ciudadcueva. Los gnomos de Nueva Esperanza. Una delegación de Nix, otra de Ullathorpe, otra de Pisor. El Mercado, con Wenna.
+Vinieron de la colina. El Consejo entero, menos maese Corbel, que estaba en la cárcel provisional de la ladera este. El gremio. Los Custodios de la escuela de Orla, con sus túnicas grises. Los elfos del barrio de arriba, con Nimrath delante. Los enanos de la ciudad-cueva. Los gnomos de Nueva Esperanza. Una delegación de Nix, otra de Ullathorpe, otra de Pisor. El Mercado, con Wenna.
 
 Y los de Arghâl. Sentados en el suelo de la plaza. Once mil orcos. Dos mil humanos. Comiendo todavía, porque llevaban tres semanas comiendo y no se cansaban.
 
@@ -186,7 +186,7 @@ No se la quitó.
 
 ---
 
-—No sé hacer discursos —dijo—. Mi padre tampoco sabía. Mi abuelo, menos. Los Bhargaras no sabemos hacer discursos desde el primero, que decía *emperador de esto* y nada más.
+—No sé hacer discursos —dijo—. Mi padre tampoco sabía. Mi abuelo, menos. Los Bhargaras no sabemos hacer discursos desde el primero, que decía emperador de esto y nada más.
 
 La plaza estaba en silencio. Los orcos habían dejado de comer.
 

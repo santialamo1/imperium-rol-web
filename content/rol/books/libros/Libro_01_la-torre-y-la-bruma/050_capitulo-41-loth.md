@@ -14,7 +14,7 @@ Loth se quedó muy quieto en el peldaño. Esperó. La canción no volvió.
 
 Debajo de él, en la oscuridad, la cosa del fondo se dio la vuelta en su sueño. Loth oyó algo parecido a un suspiro. Satisfecho.
 
-*Ya está*, dijo la cosa. *Ya no hay promesa.*
+Ya está, dijo la cosa. Ya no hay promesa.
 
 ---
 
@@ -30,7 +30,11 @@ El cementerio Germa estaba al otro lado del río de Concordia, detrás de la her
 
 La tumba nueva estaba junto a la de Teodor. Tierra recién removida. Una lápida pequeña, sencilla, de piedra gris de Gijor, con letras talladas en la lengua de los Germa:
 
-*NADIA BHARGARAS* *Madre de Henricus el Restaurador* *Cantaba*
+*NADIA BHARGARAS*
+
+*Madre de Henricus el Restaurador*
+
+*Cantaba*
 
 Loth se quedó mirando la última palabra mucho tiempo.
 
@@ -50,25 +54,25 @@ Y al final del cordel, sentada en la tierra, con las rodillas contra el pecho, e
 
 No como la vieja de la cocina. Como la niña. Ocho años, morena, con el pelo negro recogido en una trenza y un vestido de lana de cabra demasiado grande. Exactamente igual que la última vez que la vio junto al fuego de la tienda del tío Oresh, antes de que la Madre Sahra se la llevara.
 
-*Has tardado*, dijo la niña.
+Has tardado, dijo la niña.
 
 Loth no pudo hablar.
 
-*Siempre tardas*, siguió ella, sin reproche, como quien constata que llueve. *Tres días* *tarde a la plaza. Sesenta y un años tarde a la cocina. Cuatro noches tarde a la tumba.* Se encogió de hombros. *Ya me he acostumbrado.*
+Siempre tardas, siguió ella, sin reproche, como quien constata que llueve. Tres días tarde a la plaza. Sesenta y un años tarde a la cocina. Cuatro noches tarde a la tumba. Se encogió de hombros. Ya me he acostumbrado.
 
 —Nadi...
 
-*Te estaba esperando. Para despedirme. No me dejaste despedirme la otra vez. Te* *fuiste antes del amanecer y yo me quedé en la puerta como una tonta.*
+*Te estaba esperando. Para despedirme. No me dejaste despedirme la otra vez. Te fuiste antes del amanecer y yo me quedé en la puerta como una tonta.*
 
 —Lo siento.
 
-*Lo sé.* La niña lo miró con aquellos ojos casi blancos. *Ahora puedes hacerlo,* *¿verdad? Lo que le hiciste a ella.* Miró por encima de su hombro, hacia Seren, que seguía de pie bajo los sauces. *Puedes tirar del cordel. Atarme. Traerme. Ponerme un velo. Y* *tendrías a tu hermana para siempre. Tres pasos detrás.*
+Lo sé. La niña lo miró con aquellos ojos casi blancos. Ahora puedes hacerlo, ¿verdad? Lo que le hiciste a ella. Miró por encima de su hombro, hacia Seren, que seguía de pie bajo los sauces. Puedes tirar del cordel. Atarme. Traerme. Ponerme un velo. Y tendrías a tu hermana para siempre. Tres pasos detrás.
 
 Loth sintió el cordel en la mano. Lo sintió con una claridad terrible. Débil, flojo, fácil. Bastaría con apretar. Bastaría con decir su nombre, el de verdad, el del desierto, y tirar, y la niña se levantaría de la tierra y vendría con él, y nunca más estaría solo en la escalera del Pozo, y nunca más tendría que oír la canción desde lejos.
 
 Apretó el puño.
 
-*Loth*, dijo la niña.
+Loth, dijo la niña.
 
 —Puedo hacerlo —dijo él, con la voz rota—. Puedo. Sería fácil. Nadie lo sabría.
 
@@ -76,7 +80,7 @@ Apretó el puño.
 
 —Tú no te acordarías. Seren no se acuerda. No sufre. No siente nada.
 
-*Por eso.* La niña se levantó. Se acercó a él, descalza sobre la tierra húmeda, y le puso una mano pequeña en la mejilla. No la sintió. Sintió frío. *Loth, mírala. Mírala de* *verdad. ¿Eso es lo que querías? ¿Cuando la trajiste?*
+Por eso. La niña se levantó. Se acercó a él, descalza sobre la tierra húmeda, y le puso una mano pequeña en la mejilla. No la sintió. Sintió frío. Loth, mírala. Mírala de verdad. ¿Eso es lo que querías? ¿Cuando la trajiste?
 
 Loth miró a Seren.
 
@@ -88,15 +92,15 @@ Estaba de pie bajo los sauces, inmóvil, con el velo puesto y la daga de sal en 
 
 La niña le quitó la mano de la cara. Se sentó otra vez en la tierra, junto a la lápida, con las rodillas contra el pecho.
 
-*Henricus soltó a doscientos en el Vado*, dijo. *Hacia arriba. Tú dices que se fueron a* *la nada. Yo no lo sé. Pero quiero ir a ver. Quiero ir con ellos. Con mi hijo. Con Teodor.* *Quiero saber qué hay.* Lo miró. *Y quiero que me sueltes tú. No un Custodio. No una* *Madre. Tú. Mi hermano. El que me enseñó a cantar.*
+*Henricus soltó a doscientos en el Vado, dijo. Hacia arriba. Tú dices que se fueron a la nada. Yo no lo sé. Pero quiero ir a ver. Quiero ir con ellos. Con mi hijo. Con Teodor. Quiero saber qué hay. Lo miró. Y quiero que me sueltes tú. No un Custodio. No una Madre. Tú. Mi hermano. El que me enseñó a cantar.*
 
 —No sé hacerlo.
 
-*Sí sabes. Lo sabes desde que eras niño. Madre te lo enseñó antes de entrar en la* *bruma. Te enseñó a atar y a soltar. Las dos cosas. Lo que pasa es que llevas ochenta años* *haciendo solo una.*
+*Sí sabes. Lo sabes desde que eras niño. Madre te lo enseñó antes de entrar en la bruma. Te enseñó a atar y a soltar. Las dos cosas. Lo que pasa es que llevas ochenta años haciendo solo una.*
 
 Loth cerró los ojos.
 
-Era verdad. Lo sabía. Lo había sabido siempre, en algún lugar debajo de la rabia, debajo de la pena, debajo del hambre de la cosa del pozo que le había ido entrando en el pecho año tras año como agua en una casa abandonada. Su madre, Ishra, la noche antes de entrar en la niebla, le había enseñado las dos palabras. La que ata. La que suelta. *Las dos* *son la misma*, le dijo. *Lo único que cambia es hacia dónde miras cuando la dices.*
+Era verdad. Lo sabía. Lo había sabido siempre, en algún lugar debajo de la rabia, debajo de la pena, debajo del hambre de la cosa del pozo que le había ido entrando en el pecho año tras año como agua en una casa abandonada. Su madre, Ishra, la noche antes de entrar en la niebla, le había enseñado las dos palabras. La que ata. La que suelta. Las dos son la misma, le dijo. Lo único que cambia es hacia dónde miras cuando la dices.
 
 Él llevaba ochenta y cinco años mirando hacia abajo.
 
@@ -104,7 +108,7 @@ Era verdad. Lo sabía. Lo había sabido siempre, en algún lugar debajo de la ra
 
 La niña se rió. Una risa pequeña, clara, de ocho años, que no había oído en ochenta.
 
-*Tonto. Te perdoné en la plaza. Te perdoné en la cocina. No necesitas que te* *perdone. Necesitas perdonarte tú.* Se tumbó sobre la tierra, como quien se tumba en la arena caliente al atardecer. *Venga. Antes de que me duerma.*
+Tonto. Te perdoné en la plaza. Te perdoné en la cocina. No necesitas que te perdone. Necesitas perdonarte tú. Se tumbó sobre la tierra, como quien se tumba en la arena caliente al atardecer. Venga. Antes de que me duerma.
 
 Loth le puso la mano en el pecho. No tocó nada. Tocó el cordel.
 
@@ -116,11 +120,11 @@ Y oyó, muy lejos, al otro lado de las llanuras, al otro lado del río, en el fo
 
 No era un rugido de dolor. Era de furia. Como un perro al que le quitan el hueso de la boca.
 
-*Mío*, dijo la cosa. *Era MÍA. Ella era mía. Todo lo que muere en la sal es mío.*
+*Mío, dijo la cosa. Era MÍA. Ella era mía. Todo lo que muere en la sal es mío.*
 
 Loth se quedó tumbado sobre la tumba hasta que dejó de oírla.
 
-Cuando abrió los ojos, la niña no estaba. El cordel no estaba. Había solo tierra mojada, y una lápida gris, y una palabra tallada. *Cantaba.*
+Cuando abrió los ojos, la niña no estaba. El cordel no estaba. Había solo tierra mojada, y una lápida gris, y una palabra tallada. Cantaba.
 
 ---
 
@@ -160,7 +164,7 @@ La guerra empezó esa misma primavera. Los muertos de la bruma volvieron a bajar
 
 Pero Loth no volvió a pisar en persona la orilla del Ceniza en treinta y dos años. Las crónicas imperiales dirían que fue porque Braco había fortificado tan bien la frontera que el Padre de la Bruma no se atrevía. Era verdad a medias. Loth mandaba a sus muertos, y los muertos marchaban solos, torpes, sin nadie que los guiara de cerca, y por eso Braco los vencía. Él pasó la mayor parte de esos años sentado en el último peldaño del Pozo Primero, escuchando a la cosa del fondo, que estaba furiosa con él.
 
-*Me quitaste una*, le decía, cada noche. *Me quitaste una que era mía. Me debes una.*
+Me quitaste una, le decía, cada noche. Me quitaste una que era mía. Me debes una.
 
 *Me debes muchas.*
 

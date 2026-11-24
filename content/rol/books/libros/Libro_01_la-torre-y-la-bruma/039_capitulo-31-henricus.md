@@ -42,7 +42,7 @@ Henricus sintió que se le helaba la sangre.
 
 Henricus no lo creyó. No del todo. No esa noche.
 
-Pero los muertos de las mazmorras sí. Lo sabía porque, mientras el muchacho hablaba, los murmullos de la oscuridad se habían ido haciendo más fuertes, más asustados, hasta que Henricus apenas podía oír su propia voz. *El que tira. El que tira.* Y porque, cuando el muchacho dijo *cantaba nombres*, todos se callaron a la vez. De golpe. Como niños que oyen pasos.
+Pero los muertos de las mazmorras sí. Lo sabía porque, mientras el muchacho hablaba, los murmullos de la oscuridad se habían ido haciendo más fuertes, más asustados, hasta que Henricus apenas podía oír su propia voz. El que tira. El que tira. Y porque, cuando el muchacho dijo cantaba nombres, todos se callaron a la vez. De golpe. Como niños que oyen pasos.
 
 Subió a sus aposentos. No durmió.
 
@@ -66,7 +66,7 @@ Henricus se sentó en el taburete. El mismo taburete en el que se sentaba de ni�
 
 Nadia no se movió.
 
-—Hace seis años que hablan de él. Desde el ciento treinta y ocho. Al principio era un murmullo. Ahora es un grito. *El que tira.* Todos lo dicen. Los de la cripta, los de los cementerios, los de las mazmorras. Están asustados, madre. No los había oído nunca asustados.
+—Hace seis años que hablan de él. Desde el ciento treinta y ocho. Al principio era un murmullo. Ahora es un grito. El que tira. Todos lo dicen. Los de la cripta, los de los cementerios, los de las mazmorras. Están asustados, madre. No los había oído nunca asustados.
 
 —Lo sé.
 
@@ -170,7 +170,7 @@ El muchacho levantó la vista. Por primera vez, lo reconoció. Abrió mucho los 
 
 —Sí, majestad —dijo—. Pero esta vez no voy a correr.
 
-No corrió. Murió en la segunda hora, en la orilla, con la lanza en la mano. Y cuando se levantó, gris, con los ojos blancos, entre los doscientos muertos frescos que el Padre de la Bruma arrastró hacia sus filas, Henricus Bhargaras, emperador de los pueblos jurados, lo reconoció entre la niebla, y dijo su nombre, *Gil Osmar, Gil, hijo de las colinas de sal*, mirando hacia arriba, con todo el amor que le quedaba.
+No corrió. Murió en la segunda hora, en la orilla, con la lanza en la mano. Y cuando se levantó, gris, con los ojos blancos, entre los doscientos muertos frescos que el Padre de la Bruma arrastró hacia sus filas, Henricus Bhargaras, emperador de los pueblos jurados, lo reconoció entre la niebla, y dijo su nombre, Gil Osmar, Gil, hijo de las colinas de sal, mirando hacia arriba, con todo el amor que le quedaba.
 
 Fue uno de los primeros de los doscientos.
 

@@ -46,7 +46,7 @@ A Lucius se le tensó la mandíbula.
 
 —¿Dónde?
 
-—En tu tienda. Te está esperando. Los guardias no la vieron entrar. —Aelia lo miró de reojo—. Lucius. Mi pueblo tiene un dicho: *el que acepta un regalo de la niebla, paga* *con lo que no ve.*
+—En tu tienda. Te está esperando. Los guardias no la vieron entrar. —Aelia lo miró de reojo—. Lucius. Mi pueblo tiene un dicho: el que acepta un regalo de la niebla, paga con lo que no ve.
 
 —Tu pueblo tiene un dicho para todo.
 
@@ -78,7 +78,7 @@ Lucius se sirvió vino. No le ofreció. Ella nunca bebía ni comía en su presen
 
 Ysh-Amara inclinó la cabeza al otro lado.
 
-—*Tres de tu sangre darás a la guerra* —recitó—. *Y sobre la sangre alzarás la* *torre, y la torre será tu nombre, y tu nombre durará mil años.*
+*—Tres de tu sangre darás a la guerra —recitó—. Y sobre la sangre alzarás la torre, y la torre será tu nombre, y tu nombre durará mil años.*
 
 —Eso no es un precio. Es una profecía de feria. —Lucius se bebió el vino de un trago—. Tengo tres hijos. Caio, Varo y Lisandro. Los tres ya pelean a mi lado. Los tres van a la guerra cada primavera, como yo fui con mi padre. Si eso es lo que pides, ya lo estoy pagando.
 
@@ -86,9 +86,9 @@ Ysh-Amara inclinó la cabeza al otro lado.
 
 Lo dijo con una dulzura que le erizó el vello de la nuca.
 
-Lucius pensó en la cara de Aelia. En el dicho de su pueblo. *Paga con lo que no ve.* Pensó en los cuarenta años de guerra, en las aldeas quemadas en los pasos de Gijor, en los niños Ibaro clavados en estacas por los Zelto y en los niños Zelto ahogados en los lagos helados por los Ibaro, en lo que sus propios Suhon habían hecho en Mator el invierno pasado y que él había permitido porque necesitaba que sus hombres lo temieran. Pensó en todo eso, y luego pensó en sus tres hijos, en Caio con su risa ruidosa, en Varo con su mal genio, en Lisandro, el pequeño, que escribía poemas a escondidas y creía que su padre no lo sabía.
+Lucius pensó en la cara de Aelia. En el dicho de su pueblo. Paga con lo que no ve. Pensó en los cuarenta años de guerra, en las aldeas quemadas en los pasos de Gijor, en los niños Ibaro clavados en estacas por los Zelto y en los niños Zelto ahogados en los lagos helados por los Ibaro, en lo que sus propios Suhon habían hecho en Mator el invierno pasado y que él había permitido porque necesitaba que sus hombres lo temieran. Pensó en todo eso, y luego pensó en sus tres hijos, en Caio con su risa ruidosa, en Varo con su mal genio, en Lisandro, el pequeño, que escribía poemas a escondidas y creía que su padre no lo sabía.
 
-*Ya lo estoy pagando*, se dijo. *Todos los hombres de esta llanura lo están pagando.*
+*Ya lo estoy pagando, se dijo. Todos los hombres de esta llanura lo están pagando.*
 
 —Acepto —dijo.
 
@@ -134,7 +134,7 @@ Ulf dudó. Era supersticioso, como todos los Ibaro, y Lucius vio en sus ojos un 
 
 No terminó la frase.
 
-La piedra *bebió*.
+La piedra bebió.
 
 Lucius lo sintió en la palma primero: una succión, como la de un ternero hambriento en la ubre. Luego en el brazo, un frío que subía por las venas hacia el hombro, hacia el cuello, hacia el corazón. Le pareció que algo le sacaba el aliento del pecho, que tiraba de su respiración hacia la piedra, y por un instante terrible no pudo inspirar. Vio que Brunhild abría la boca en un grito mudo. Vio que Ulf se ponía gris, gris como la ceniza, y caía de rodillas sin soltar la piedra.
 

@@ -120,7 +120,7 @@ No recordaría después el camino. Recordaría la lona de la tienda, áspera baj
 
 *Tullo. ¿Qué pasa?*
 
-Y recordaría que en ese instante, con el cuchillo ya en la mano, debajo de la capa, pensó: *Todavía puedo darme la vuelta. Todavía puedo decirle que venía a felicitarlo.*
+Y recordaría que en ese instante, con el cuchillo ya en la mano, debajo de la capa, pensó: Todavía puedo darme la vuelta. Todavía puedo decirle que venía a felicitarlo.
 
 Y que no se dio la vuelta.
 
@@ -132,13 +132,13 @@ Allí se paró. Se sentó en las raíces. Se miró las manos.
 
 Había dejado el velo. Como le habían dicho. Dentro del arcón, junto a la cabeza de Varo, que contaba algo en voz baja con los ojos abiertos cuando Tullo salió. Tullo no supo qué contaba. No quiso saberlo.
 
-Pensó: *mañana vendrán a buscarme. Alguien me habrá visto salir de la tienda. Me* *interrogarán. Me preguntarán quién me pagó.*
+*Pensó: mañana vendrán a buscarme. Alguien me habrá visto salir de la tienda. Me interrogarán. Me preguntarán quién me pagó.*
 
 Y él no lo sabía. No sabía el nombre del hombre del anillo de plata. No sabía de quién era la respiración detrás de la cortina. Solo sabía una casa blanca en el barrio alto con una fuente que no sonaba. Y que su madre vivía en una casa pagada por esa gente. Y que, si lo interrogaban, si lo torturaban, si contaba lo poco que sabía, el hombre del anillo de plata se enteraría. Y Brenna dejaría de dormir caliente.
 
 O algo peor.
 
-*Nosotros tenemos más*, había dicho el hombre.
+Nosotros tenemos más, había dicho el hombre.
 
 Tullo se quitó el cinturón. Era de cuero bueno, de los de la guarnición, con hebilla de bronce. Lo probó entre las manos. Aguantaría.
 

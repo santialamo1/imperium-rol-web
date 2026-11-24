@@ -90,7 +90,7 @@ Fue la primera vez en su vida que estrechaba la mano de su hermanastro. Y mientr
 
 ---
 
-Hubo fiesta esa noche, por supuesto. Hogueras, vino de Mator saqueado de las aldeas, canciones. Los soldados gritaban el nombre de Varo por todo el campamento. *¡Heredicus! ¡Heredicus! ¡El martillo de Askel!* Algunos gritaban también el de Hector. Menos.
+Hubo fiesta esa noche, por supuesto. Hogueras, vino de Mator saqueado de las aldeas, canciones. Los soldados gritaban el nombre de Varo por todo el campamento. ¡Heredicus! ¡Heredicus! ¡El martillo de Askel! Algunos gritaban también el de Hector. Menos.
 
 Varo bebió con sus capitanes en su tienda hasta medianoche. Luego los despidió a todos. Quería estar solo.
 
@@ -136,9 +136,9 @@ Luego salió corriendo de la tienda.
 
 Varo Heredicus se quedó tumbado sobre el arcón, mirando el techo de lona, con el velo gris junto a la cara y la sangre empapándole la túnica.
 
-*Eufesios*, pensó. *Los nómadas de la niebla. La mujer del velo. La piedra.* Pensó en la profecía de la que Lisandro le había hablado una vez, borracho, en la torre, y de la que él se había reído. *Tres de tu sangre darás a la guerra.* Caio, en el paso de Hinurvald. Él, en su tienda. Quedaba Lisandro.
+Eufesios, pensó. Los nómadas de la niebla. La mujer del velo. La piedra. Pensó en la profecía de la que Lisandro le había hablado una vez, borracho, en la torre, y de la que él se había reído. Tres de tu sangre darás a la guerra. Caio, en el paso de Hinurvald. Él, en su tienda. Quedaba Lisandro.
 
-*Dos*, pensó. *Ya van dos.*
+Dos, pensó. Ya van dos.
 
 Y luego, porque era Varo, porque no podía evitarlo, porque era lo único que había hecho bien toda su vida, empezó a contar.
 

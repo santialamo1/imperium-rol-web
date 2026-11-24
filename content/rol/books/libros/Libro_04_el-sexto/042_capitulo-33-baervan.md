@@ -1,6 +1,6 @@
 # Capítulo 33 · Baervan
 
-*Banderbill. La noche del 14 al 15 de la primavera del año 1256 de la Nueva Era* *(649 D.bA).*
+*Banderbill. La noche del 14 al 15 de la primavera del año 1256 de la Nueva Era (649 D.bA).*
 
 Las campanas empezaron a las seis y diez de la mañana, y Baervan supo, al oír la primera, que había llegado tarde ciento cuarenta y cuatro años.
 
@@ -108,7 +108,7 @@ La sala se quedó callada.
 
 Baervan no contestó.
 
-Lo sabía porque se acordaba de una cosa que le había dicho Sein, hacía cuarenta años, en un sótano que olía a vinagre y a manzana: *el debe está en otro libro. Algún día* *nos lo pasarán.* Lo sabía porque se acordaba de las huellas en el quinto Rincón. De la puerta de Orac que se había cerrado en el 1120. De ciento treinta años de nadie. Lo sabía porque se acordaba de su propia voz, en el alféizar, diciéndole a un cronista: *a lo mejor me* *equivoco. Apúntalo.*
+Lo sabía porque se acordaba de una cosa que le había dicho Sein, hacía cuarenta años, en un sótano que olía a vinagre y a manzana: el debe está en otro libro. Algún día nos lo pasarán. Lo sabía porque se acordaba de las huellas en el quinto Rincón. De la puerta de Orac que se había cerrado en el 1120. De ciento treinta años de nadie. Lo sabía porque se acordaba de su propia voz, en el alféizar, diciéndole a un cronista: a lo mejor me equivoco. Apúntalo.
 
 —¿Por qué no lo dijo? —preguntó alguien. Una consejera de la colina, joven, con los ojos rojos—. Si lo sabía. ¿Por qué nos dejó bajar la Armada?
 
@@ -174,7 +174,7 @@ Luego la plaza del Consejo.
 
 ---
 
-Baervan bajó de la torre cuando le llegó el aviso. Un cadete de catorce años, sin casco, con la cara manchada de hollín, que llegó corriendo y se cayó en la escalera y se levantó y dijo *por dentro, Comandante, están por dentro*, y se puso a llorar.
+Baervan bajó de la torre cuando le llegó el aviso. Un cadete de catorce años, sin casco, con la cara manchada de hollín, que llegó corriendo y se cayó en la escalera y se levantó y dijo por dentro, Comandante, están por dentro, y se puso a llorar.
 
 Bajó con la Segunda. Con Hatmie delante. Por las calles del barrio norte hacia el centro, hacia la plaza, donde subía humo.
 

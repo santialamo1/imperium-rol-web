@@ -72,7 +72,7 @@ Lo dijo sin pensar. No; mentira. Lo había pensado mucho. Lo había pensado dura
 
 Todos lo miraron.
 
-—La regla seis —dijo Sein—. *Con otra sangre, al revés.* No sabemos qué es al revés. —Abrió su cuaderno. Lo tenía apuntado en la columna de *Lo que no sabemos*—. Podría ser que no funciona. Que es al revés de funcionar. Que no pasa nada.
+—La regla seis —dijo Sein—. Con otra sangre, al revés. No sabemos qué es al revés. —Abrió su cuaderno. Lo tenía apuntado en la columna de Lo que no sabemos—. Podría ser que no funciona. Que es al revés de funcionar. Que no pasa nada.
 
 —O podría ser otra cosa —dijo Verawel.
 
@@ -120,7 +120,7 @@ Se inclinó. Le sopló en la cara.
 
 Y dijo su nombre.
 
-No lo dijo; no tenía voz. Movió los labios. Pero Sein, que estaba a un palmo, lo vio. *Odo.* Y luego otro. Más largo. Uno que no era para él ni para nadie de los que estaban en aquella habitación. El de dentro.
+No lo dijo; no tenía voz. Movió los labios. Pero Sein, que estaba a un palmo, lo vio. Odo. Y luego otro. Más largo. Uno que no era para él ni para nadie de los que estaban en aquella habitación. El de dentro.
 
 El niño tosió.
 
@@ -170,7 +170,7 @@ Al otro, seis, y parecía de catorce. Le salió bozo. Le cambió la voz. Se le a
 
 Nadie le contestó.
 
-Sein abrió el cuaderno. La columna de *Lo que no sabemos*. La regla seis. La miró mucho rato.
+Sein abrió el cuaderno. La columna de Lo que no sabemos. La regla seis. La miró mucho rato.
 
 No escribió nada. Todavía no.
 
@@ -218,15 +218,15 @@ Sein escribió aquella noche, en la casa de los Vell, que antes había sido la c
 
 Abrió el cuaderno por la página del año treinta y ocho. La de la línea abierta. La que Casimir no habría dejado abierta nunca.
 
-En el debe: *Odo, hijo de Tam. Cuatro años. Fiebre de los huesos.*
+*En el debe: Odo, hijo de Tam. Cuatro años. Fiebre de los huesos.*
 
-En el haber: *Nada todavía.* Y debajo, tachado, *Curado.* Y debajo, tachado, *Por* *ahora.*
+En el haber: Nada todavía. Y debajo, tachado, Curado. Y debajo, tachado, Por ahora.
 
 Mojó la pluma. Escribió, cruzando las dos columnas, como cruzaba Casimir la raya del final:
 
 *Precio: un niño. Lección: sangre.*
 
-Luego pasó las páginas hacia atrás. Hasta la de *Lo que no sabemos*. Hasta la regla seis. *Con otra sangre, al revés. No sabemos qué es al revés.*
+Luego pasó las páginas hacia atrás. Hasta la de Lo que no sabemos. Hasta la regla seis. Con otra sangre, al revés. No sabemos qué es al revés.
 
 Debajo escribió:
 
@@ -238,7 +238,7 @@ Y luego, en el margen, con la letra más pequeña de toda su vida, como escribí
 
 ---
 
-No lo tachó nunca. Livia se lo pidió, años después, cuando ya era vieja y él no, cuando ya había otros en la Orden que no sabían nada de Odo ni de Tam ni de la tejedora de Pisor que se volvió a Pisor y no volvió a hablar con nadie. *Táchalo, Sein. No hace falta* *que esté. Ya lo sabemos.*
+No lo tachó nunca. Livia se lo pidió, años después, cuando ya era vieja y él no, cuando ya había otros en la Orden que no sabían nada de Odo ni de Tam ni de la tejedora de Pisor que se volvió a Pisor y no volvió a hablar con nadie. Táchalo, Sein. No hace falta que esté. Ya lo sabemos.
 
 No lo tachó.
 
@@ -256,7 +256,7 @@ Fue en otoño. En la panadería de Teo Ruald, el joven, que ya no era tan joven:
 
 La reina estaba allí.
 
-Sentada en la artesa grande, la buena, la que no cojeaba. Descalza. Con una hogaza en las manos, partida por la mitad, comiéndosela a pellizcos. Y Teo de pie a su lado, con el delantal puesto, diciendo algo que la hacía reírse. No como se reía en el Consejo, ni en el patio del cuartel. Como se reía, decían los viejos, su madre en Puerto Salobre antes de casarse, en la cubierta de la *Tozuda*. Una risa que se le salía entera.
+Sentada en la artesa grande, la buena, la que no cojeaba. Descalza. Con una hogaza en las manos, partida por la mitad, comiéndosela a pellizcos. Y Teo de pie a su lado, con el delantal puesto, diciendo algo que la hacía reírse. No como se reía en el Consejo, ni en el patio del cuartel. Como se reía, decían los viejos, su madre en Puerto Salobre antes de casarse, en la cubierta de la Tozuda. Una risa que se le salía entera.
 
 Sein se quedó en la sombra de la puerta.
 
@@ -264,7 +264,7 @@ Teo dejó de hablar. Le quitó una miga de la comisura con el pulgar. Lanther de
 
 Sein se fue sin el pan.
 
-Esa noche, en el cuaderno, en la columna de *Lo que no sabemos*, escribió:
+Esa noche, en el cuaderno, en la columna de Lo que no sabemos, escribió:
 
 *La reina. El panadero.*
 

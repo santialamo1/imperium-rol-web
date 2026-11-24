@@ -18,7 +18,7 @@ Bhargaras la miró.
 
 Tenía el pelo cortado a trasquilones. Lo había sabido desde el primer día, desde el banderín, desde el cuchillo en el poste; pero hasta ahora no lo había visto sin la capucha. Se parecía a él. A él a los dieciséis. A su padre en el retrato de Concordia que guardaba Tobías. Tenía la cara llena de lágrimas y de humo negro de sal, y le sujetaba la mano de la espada con las dos suyas, la mano blanca, de sal, con la espada fea todavía dentro, y no la soltaba.
 
-*Pregunta a tu hermana*, le había dicho su padre. *Ella sí sabe.*
+Pregunta a tu hermana, le había dicho su padre. Ella sí sabe.
 
 —No llores —le dijo—. Que me haces llorar a mí, y no puedo limpiarme.
 
@@ -76,7 +76,7 @@ Livia se quedó quieta. Muy quieta.
 
 Livia no contestó.
 
-—Mi padre decía que se podía pasar a otro —dijo Bhargaras—. Mi madre se lo dijo. *Como el fuego, que salta de una rama a otra.* Mi padre se rió. Pero no se reía de verdad. —Tragó saliva; le costaba, la sal le apretaba la garganta—. Tú sabes cómo. Dímelo.
+—Mi padre decía que se podía pasar a otro —dijo Bhargaras—. Mi madre se lo dijo. Como el fuego, que salta de una rama a otra. Mi padre se rió. Pero no se reía de verdad. —Tragó saliva; le costaba, la sal le apretaba la garganta—. Tú sabes cómo. Dímelo.
 
 Livia miró a Lanther. Lanther la miró a ella. Algo pasó entre las dos que Bhargaras no entendió, aunque lo oyó.
 
@@ -108,7 +108,7 @@ Dio un paso atrás. Luego otro. Lo miraba con los ojos muy abiertos, con la cara
 
 —No. No. No quiero. No quiero nada de eso dentro. No quiero nada de él. —Era lo mismo que había dicho él, en la torre, hacía dos años, de pie, con la carta de Odrun en la mano. Exactamente lo mismo. Bhargaras lo oyó y casi se rió—. No quiero oír lo que tú oyes. No quiero vomitar después de nombrar. No quiero hablar con la voz de otro. No quiero…
 
-—No vas a oír lo que yo oigo —dijo Bhargaras—. Tú ya oyes. Siempre has oído. Las piedras. Las montañas. A la gente. Lo sé. Lo he sabido siempre. Desde que tenías doce años y le cantabas a las piedras debajo de la ventana. —La miró—. Yo era el que no oía. Por eso me rompió. A ti no te va a romper. Tú sabes escuchar. Me lo dijiste. *Lo escucho.* *Que no es lo mismo.*
+—No vas a oír lo que yo oigo —dijo Bhargaras—. Tú ya oyes. Siempre has oído. Las piedras. Las montañas. A la gente. Lo sé. Lo he sabido siempre. Desde que tenías doce años y le cantabas a las piedras debajo de la ventana. —La miró—. Yo era el que no oía. Por eso me rompió. A ti no te va a romper. Tú sabes escuchar. Me lo dijiste. Lo escucho. Que no es lo mismo.
 
 Lanther no dijo nada.
 
@@ -140,7 +140,7 @@ Lanther estaba de pie junto al caballo de sal, a su izquierda. Con la cara levan
 
 Pensó en ella.
 
-Pensó en una niña de ocho años llorando una tarde entera porque él le había ganado seis partidas seguidas. Pensó en una niña de once tirándose al río desde el puente de troncos para sacar de una oreja a un mercader de Gijor. Pensó en una muchacha de dieciséis en la torre, con una piedra de veta blanca en la mano, mirándolo con los ojos grises de agua de río, diciéndole *tú también lo has notado*. Pensó en ella en el banderín, con el cuchillo clavado en el poste. Pensó en ella esa misma mañana, corriendo entre las de sal, gritando su nombre.
+Pensó en una niña de ocho años llorando una tarde entera porque él le había ganado seis partidas seguidas. Pensó en una niña de once tirándose al río desde el puente de troncos para sacar de una oreja a un mercader de Gijor. Pensó en una muchacha de dieciséis en la torre, con una piedra de veta blanca en la mano, mirándolo con los ojos grises de agua de río, diciéndole tú también lo has notado. Pensó en ella en el banderín, con el cuchillo clavado en el poste. Pensó en ella esa misma mañana, corriendo entre las de sal, gritando su nombre.
 
 Con amor.
 
@@ -230,9 +230,9 @@ Lo supo sin oírlo. Lo supo porque las de sal, todas, las cientos, bajaron la ca
 
 Bhargaras se quedó callado.
 
-Pensó en lo que le había dicho el mulero del sombrero, junto al fuego, hacía cinco noches. *Una mitad se quedó al otro lado del mar. La otra la trajeron aquí unas mujeres* *que no tienen cara, y la escondieron debajo de las montañas, para que no se juntaran. Y se* *quedaron a guardarla.*
+Pensó en lo que le había dicho el mulero del sombrero, junto al fuego, hacía cinco noches. Una mitad se quedó al otro lado del mar. La otra la trajeron aquí unas mujeres que no tienen cara, y la escondieron debajo de las montañas, para que no se juntaran. Y se quedaron a guardarla.
 
-Pensó en las de sal. En la de la cara rota. En la Noche del Dolor. En el canto. *No* *pases. No pases. No pases.*
+Pensó en las de sal. En la de la cara rota. En la Noche del Dolor. En el canto. No pases. No pases. No pases.
 
 No era hambre. Nunca había sido hambre. Era guardia.
 
@@ -316,7 +316,7 @@ Fue rápido. No dolió. Como hundirse en agua caliente. La sal le subió por el 
 
 Lo último que vio fue la luz de arriba. El círculo de cielo azul por encima del borde del agujero. Y en el círculo, el sol.
 
-Tenía miedo. Lo supo. No le dio tiempo a dejar de tenerlo. Se le quedó en la cara, en la sal, para siempre: los ojos muy abiertos, la boca a medio abrir, como un niño de cuatro años en una fuente que mira a su padre y dice *aquí no hay nadie*.
+Tenía miedo. Lo supo. No le dio tiempo a dejar de tenerlo. Se le quedó en la cara, en la sal, para siempre: los ojos muy abiertos, la boca a medio abrir, como un niño de cuatro años en una fuente que mira a su padre y dice aquí no hay nadie.
 
 Y luego, muy al fondo, por debajo de él, lo de abajo dejó de oler el trozo.
 

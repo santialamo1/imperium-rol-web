@@ -168,7 +168,7 @@ Nunca supo si una cosa tenía que ver con la otra. Probablemente no. Las cosas c
 
 —¿Por qué Helen?
 
-Mira no contestó. No le dijo que era el nombre de la madre de Tilde. Que Tilde se lo había dicho una tarde, años atrás, entre las naranjas de Pisor y la cúpula de cristal: *Mi* *madre se llamaba Helen. Era la más guapa del barrio.* No se lo dijo porque sonaba a locura, y porque no quería que su hija cargara con un muerto en el nombre.
+Mira no contestó. No le dijo que era el nombre de la madre de Tilde. Que Tilde se lo había dicho una tarde, años atrás, entre las naranjas de Pisor y la cúpula de cristal: Mi madre se llamaba Helen. Era la más guapa del barrio. No se lo dijo porque sonaba a locura, y porque no quería que su hija cargara con un muerto en el nombre.
 
 Pero esa noche, a solas, inclinada sobre la cuna, le susurró a Helen otro nombre al oído. Uno secreto. Uno que le había enseñado su madre, que lo había traído del desierto.
 

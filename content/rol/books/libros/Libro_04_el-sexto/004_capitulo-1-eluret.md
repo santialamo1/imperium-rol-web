@@ -1,6 +1,6 @@
 # Capítulo 1 · Eluret
 
-*Las cuadras del palacio y el barrio élfico de Banderbill. Verano del año 968 de la* *Nueva Era (361 D.bA).*
+*Las cuadras del palacio y el barrio élfico de Banderbill. Verano del año 968 de la Nueva Era (361 D.bA).*
 
 El caballo se llamaba Tuerto y no era tuerto.
 
@@ -28,7 +28,7 @@ Astragal se sentó en un fardo de paja. Se quedó mirando el caballo.
 
 —Ah.
 
-Eluret no sabía qué era el frasco. Lo había visto la noche anterior, en la almena: una cosa pequeña, de cristal, con una gota dentro que no se movía. Había dicho *es sangre* sin pensarlo, porque era lo que parecía, y la pelirroja lo había mirado de una forma que no se le había olvidado en toda la noche. No con enfado. Con algo peor. Como se mira a alguien que ha dicho en voz alta una cosa que todos sabían y que nadie decía.
+Eluret no sabía qué era el frasco. Lo había visto la noche anterior, en la almena: una cosa pequeña, de cristal, con una gota dentro que no se movía. Había dicho es sangre sin pensarlo, porque era lo que parecía, y la pelirroja lo había mirado de una forma que no se le había olvidado en toda la noche. No con enfado. Con algo peor. Como se mira a alguien que ha dicho en voz alta una cosa que todos sabían y que nadie decía.
 
 —¿Qué era? —preguntó.
 
@@ -128,7 +128,7 @@ Ithwen lo miró mucho rato.
 
 Eluret no durmió esa noche.
 
-Se quedó tumbado en el jergón del cuarto de atrás, con los ojos abiertos, oyendo la parra rozar la ventana y el *tum* del muro, uno y otro, que en el barrio élfico se oía más que en otros sitios porque el barrio estaba pegado a la muralla. Todos los niños de Banderbill crecían oyéndolo. Nadie le hacía caso. Su madre decía que los elfos viejos sí le hacían caso, que había un elfo en el barrio, uno que llevaba ochocientos años sin salir de casa, que contaba los golpes cada noche y los apuntaba en la pared, y que la pared estaba llena de rayas, y que cuando muriera alguien tendría que contarlas.
+Se quedó tumbado en el jergón del cuarto de atrás, con los ojos abiertos, oyendo la parra rozar la ventana y el tum del muro, uno y otro, que en el barrio élfico se oía más que en otros sitios porque el barrio estaba pegado a la muralla. Todos los niños de Banderbill crecían oyéndolo. Nadie le hacía caso. Su madre decía que los elfos viejos sí le hacían caso, que había un elfo en el barrio, uno que llevaba ochocientos años sin salir de casa, que contaba los golpes cada noche y los apuntaba en la pared, y que la pared estaba llena de rayas, y que cuando muriera alguien tendría que contarlas.
 
 Eluret pensó en Gal, solo, sin hermanos.
 
@@ -210,13 +210,13 @@ Miró a Eluret de arriba abajo. Se fijó en el cinturón. Se fijó en las orejas
 
 —¿Por qué quieres entrar?
 
-Eluret había preparado la respuesta toda la noche. Una respuesta buena, de soldado, con palabras como *Imperio* y *honor* y *servir*. La tenía en la punta de la lengua.
+Eluret había preparado la respuesta toda la noche. Una respuesta buena, de soldado, con palabras como Imperio y honor y servir. La tenía en la punta de la lengua.
 
 No la dijo.
 
 —Por un amigo —dijo.
 
-El sargento lo miró un momento más. Luego mojó la pluma en el tintero y escribió en el libro grande: *Eluret, hijo de Doren. Paje. Caballería.*
+El sargento lo miró un momento más. Luego mojó la pluma en el tintero y escribió en el libro grande: Eluret, hijo de Doren. Paje. Caballería.
 
 —En la Armada —dijo, sin levantar la vista— los que entran por el Imperio se cansan a los cinco años. Los que entran por honor, a los diez. Los que entran por un amigo no se cansan nunca. Lo malo es que se mueren antes.
 

@@ -14,11 +14,11 @@ Se levantó. Atrancó la puerta. Apagó la vela. La volvió a encender, porque a
 
 Oyó cómo llegaban. Cómo la rodeaban. Cómo se quedaban quietas.
 
-Luego oyó voces de hombres. Pasos. Antorchas; vio la luz por debajo de la puerta, naranja, temblorosa. Una voz que conocía —la de Bhargaras, el hijo, grave, firme, la voz de un muchacho que intenta sonar como su madre— diciendo algo que no entendió. Y luego, más tarde, otra voz. Débil. Rota. Cansada. Que dijo *te oigo*.
+Luego oyó voces de hombres. Pasos. Antorchas; vio la luz por debajo de la puerta, naranja, temblorosa. Una voz que conocía —la de Bhargaras, el hijo, grave, firme, la voz de un muchacho que intenta sonar como su madre— diciendo algo que no entendió. Y luego, más tarde, otra voz. Débil. Rota. Cansada. Que dijo te oigo.
 
 Bander.
 
-Bander llevaba un año sin salir de la cama. Y estaba ahí fuera, delante de su puerta, delante de ellas, diciéndoles *te oigo*, como se les decía a los muertos, con aquella voz que había detenido a cien en una escalera.
+Bander llevaba un año sin salir de la cama. Y estaba ahí fuera, delante de su puerta, delante de ellas, diciéndoles te oigo, como se les decía a los muertos, con aquella voz que había detenido a cien en una escalera.
 
 Y entonces oyó otra cosa. Un latido. No de la montaña. Uno solo. Fortísimo. Como un grito. Que no venía de la tierra sino del aire, de fuera, de delante de su puerta, de un pecho humano.
 
@@ -100,7 +100,7 @@ Livia supo, sin saber cómo, que era la misma. La de la garganta. La del salient
 
 La figura levantó la mano.
 
-Livia gritó: *¡No miréis!*, y vio, por el rabillo del ojo, que Lanther bajaba la cabeza y que los soldados del linde se tapaban la cara con los brazos. Joran no bajó la cabeza. Joran tenía los ojos fijos en la mano de sal.
+Livia gritó: ¡No miréis!, y vio, por el rabillo del ojo, que Lanther bajaba la cabeza y que los soldados del linde se tapaban la cara con los brazos. Joran no bajó la cabeza. Joran tenía los ojos fijos en la mano de sal.
 
 Lo había sabido en la garganta: no debía mirar lo que había debajo del velo. Pero algo había cambiado. Algo se le había roto por dentro al ver a Bander en brazos de su hijo, con la camisa blanca de sal. Algo que la había mantenido quieta durante trece años, sola, al pie de la montaña, midiendo latidos con una cuerda, mirando siempre hacia otra cosa.
 
@@ -130,13 +130,13 @@ La mujer de sal abrió la boca. Y de la boca, sin que se movieran los labios, sa
 
 *Has vuelto antes de tiempo.*
 
-*Todavía no. Todavía no. No es la hora. La otra mitad duerme. Si la tocas ahora,* *despierta. Si despierta ahora, os bebe.* La voz se quebró. Una grieta nueva, fina, se le abrió a la mujer de sal en la mejilla, de arriba abajo. *Vuelve a dormir, Anwe. Vuelve a dormir.* *Cuando sea la hora, te llamaremos.*
+Todavía no. Todavía no. No es la hora. La otra mitad duerme. Si la tocas ahora, despierta. Si despierta ahora, os bebe. La voz se quebró. Una grieta nueva, fina, se le abrió a la mujer de sal en la mejilla, de arriba abajo. Vuelve a dormir, Anwe. Vuelve a dormir. Cuando sea la hora, te llamaremos.
 
 La sal le llegaba a Livia a las rodillas.
 
 —No me llamo así —dijo. Le salió en un susurro.
 
-*Te llamas así. Te lo dio el que lleva el trozo. Te lo dio sin saber. Pero te lo dio.* La mujer de sal inclinó la cabeza, despacio, como un pájaro. *Es nuestra palabra. La última de* *la canción. La pusimos en la piedra para cuando volvieras. Y has vuelto antes de tiempo.*
+Te llamas así. Te lo dio el que lleva el trozo. Te lo dio sin saber. Pero te lo dio. La mujer de sal inclinó la cabeza, despacio, como un pájaro. Es nuestra palabra. La última de la canción. La pusimos en la piedra para cuando volvieras. Y has vuelto antes de tiempo.
 
 Las caderas. La cintura. La sal le subía por el vientre.
 
@@ -146,7 +146,7 @@ No la quería hacer daño.
 
 La quería dormir.
 
-Como se duerme a un niño que se ha despertado en mitad de la noche y llora, y no sabe por qué llora, y hay que mecerlo y cantarle hasta que se vuelve a dormir. *Duerme,* *arena, duerme ya.* Le estaba cantando la nana. Con aquel crujido de salina. Con aquellos ojos azules. Le estaba diciendo *duerme* con todo su cuerpo de sal.
+Como se duerme a un niño que se ha despertado en mitad de la noche y llora, y no sabe por qué llora, y hay que mecerlo y cantarle hasta que se vuelve a dormir. Duerme, arena, duerme ya. Le estaba cantando la nana. Con aquel crujido de salina. Con aquellos ojos azules. Le estaba diciendo duerme con todo su cuerpo de sal.
 
 Y la sal era el sueño.
 
@@ -160,7 +160,7 @@ Pensó que no estaba mal. Pensó que estaba muy cansada. Pensó que, si se dorm�
 
 Fue Joran.
 
-Livia abrió los ojos. Lo vio saltar. No hacia ella. Hacia la mujer de sal. Con el formón en alto, con la cara deformada de algo que no era miedo ni rabia sino otra cosa, algo que Livia no le había visto nunca a nadie, algo que no tenía nombre en ninguna lengua que ella conociera y que años después, escribiendo esa noche en su cuaderno de corteza, llamaría, a falta de algo mejor, *amor de padre*.
+Livia abrió los ojos. Lo vio saltar. No hacia ella. Hacia la mujer de sal. Con el formón en alto, con la cara deformada de algo que no era miedo ni rabia sino otra cosa, algo que Livia no le había visto nunca a nadie, algo que no tenía nombre en ninguna lengua que ella conociera y que años después, escribiendo esa noche en su cuaderno de corteza, llamaría, a falta de algo mejor, amor de padre.
 
 —¡A ella no! —gritó Joran—. ¡A ella no, a ella no, a ella no te la llevas!
 

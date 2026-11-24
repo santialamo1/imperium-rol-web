@@ -2,7 +2,7 @@
 
 *El camino del sur, a tres jornadas de Banderbill. Años 498 a 505 de la Nueva Era.*
 
-Los enanos no tienen una palabra para *jubilarse*. Tienen una palabra para *dejar el* *martillo*, que es la misma que usan para *morirse*, y otra para *sentarse*, que usan para todo lo demás.
+Los enanos no tienen una palabra para jubilarse. Tienen una palabra para dejar el martillo, que es la misma que usan para morirse, y otra para sentarse, que usan para todo lo demás.
 
 Kildo, hijo de Brun, de la casa de Thrumbar Hondopico, llevaba treinta y un años sentado.
 
@@ -126,7 +126,7 @@ Kildo había tenido toda la noche para pensarlo y no le había hecho falta. Lo s
 
 —¿Una raíz de qué?
 
-—Una raíz no es *de* nada, majestad. Una raíz va *hacia* algo. —Kildo escupió en el fuego—. Va hacia el agua. Hacia la tierra buena. Hacia lo que la alimenta. Esta va hacia el noreste. Hacia las lomas. Hacia el mar.
+—Una raíz no es de nada, majestad. Una raíz va hacia algo. —Kildo escupió en el fuego—. Va hacia el agua. Hacia la tierra buena. Hacia lo que la alimenta. Esta va hacia el noreste. Hacia las lomas. Hacia el mar.
 
 —¿Hacia las lomas del brezo?
 
@@ -210,7 +210,7 @@ Tibbet asintió. Se sentó en el tocón. Abrió la libreta.
 
 —La de las cosas que no han pasado.
 
-—Esa. —Tibbet sacó el papel. Lo desdobló. Tenía siete líneas, de letra pequeña y redonda de gnomo, y luego mucho espacio en blanco—. La roca es la tres. Pero la tres pone solo *una roca que tararea*. Y la roca ya no tararea.
+—Esa. —Tibbet sacó el papel. Lo desdobló. Tenía siete líneas, de letra pequeña y redonda de gnomo, y luego mucho espacio en blanco—. La roca es la tres. Pero la tres pone solo una roca que tararea. Y la roca ya no tararea.
 
 —No.
 
@@ -224,7 +224,7 @@ Tibbet lo apuntó todo. En la libreta. Con un lápiz de grafito gnomo que no se 
 
 Luego, en el papel del sombrero, debajo del siete, escribió:
 
-*8. Una roca canta una nana entera. Alguien al otro lado está aprendiendo a* *taparle la nota que no es suya.*
+*8. Una roca canta una nana entera. Alguien al otro lado está aprendiendo a taparle la nota que no es suya.*
 
 Lo leyó en voz alta. Kildo asintió.
 

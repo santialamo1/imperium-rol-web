@@ -1,6 +1,6 @@
 # De las Crónicas de Banderbill, Libro Tercero (VI)
 
-*Escrito por Inés Vell, cronista de la biblioteca, en el otoño del año 865 de la Nueva* *Era (258 D.bA). Con el lápiz atravesado en el pelo y polvo de cantera en los zapatos. Con* *una nota al pie en otra letra.*
+*Escrito por Inés Vell, cronista de la biblioteca, en el otoño del año 865 de la Nueva Era (258 D.bA). Con el lápiz atravesado en el pelo y polvo de cantera en los zapatos. Con una nota al pie en otra letra.*
 
 Me llamo Inés. Tengo sesenta y cinco años, el apellido desde el 830, y llevo nueve sin oír otra cosa que picos.
 
@@ -90,12 +90,10 @@ Llevamos nueve.
 
 ---
 
-— —
-
 *Al pie, en otra letra, pequeña, de niño:*
 
-*Los planos de la manga los tengo yo. Copiados. En el libro cuadragésimo quinto,* *en las hojas que no se numeran. Ottherius no ha leído la palabra del círculo en voz alta.* *La ha escrito en un papel, la ha doblado, y se la ha dado a ella. Ella no la ha abierto.*
+*Los planos de la manga los tengo yo. Copiados. En el libro cuadragésimo quinto, en las hojas que no se numeran. Ottherius no ha leído la palabra del círculo en voz alta. La ha escrito en un papel, la ha doblado, y se la ha dado a ella. Ella no la ha abierto.*
 
-*Las flechas de la costa norte llegan a la colina por el norte. La muralla nueva las* *tapa. Todas menos una. La del valle negro. Esa no va a la colina. Va al Guardián.* *Apuntado. Que conste. Se lo he dicho al Emperador. Ha dicho que treinta años.*
+*Las flechas de la costa norte llegan a la colina por el norte. La muralla nueva las tapa. Todas menos una. La del valle negro. Esa no va a la colina. Va al Guardián. Apuntado. Que conste. Se lo he dicho al Emperador. Ha dicho que treinta años.*
 
 *S.*

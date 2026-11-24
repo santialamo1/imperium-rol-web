@@ -84,7 +84,7 @@ La batalla del Vado de las Cenizas duró toda la noche.
 
 Los cronistas imperiales la contarían de mil maneras, casi todas falsas. Dirían que los muertos eran diez mil, cien mil, un millón. Dirían que la niebla escupía monstruos. Dirían que el emperador luchó como un dios. La verdad era más sencilla y más terrible. Los muertos eran unos seis mil, todos ellos súbditos del Imperio, todos de las aldeas y guarniciones de la frontera que habían desaparecido en los últimos once años. No sentían dolor. No sentían miedo. No se cansaban. Y no morían, porque ya estaban muertos: podías cortarles un brazo y seguían avanzando, podías atravesarles el corazón y seguían avanzando. Solo se detenían si les cortabas la cabeza, o si los quemabas, y aun así, a veces, los cuerpos decapitados seguían arrastrándose por la hierba durante un rato, buscando.
 
-Y lo peor: los soldados imperiales los conocían. A sus vecinos. A sus hermanos. A sus padres. Henricus vio a un muchacho Hinur de dieciséis años soltar la lanza y caer de rodillas delante de una mujer gris con delantal, gritando *madre, madre*, y vio a la mujer clavarle una hoz en el cuello.
+Y lo peor: los soldados imperiales los conocían. A sus vecinos. A sus hermanos. A sus padres. Henricus vio a un muchacho Hinur de dieciséis años soltar la lanza y caer de rodillas delante de una mujer gris con delantal, gritando madre, madre, y vio a la mujer clavarle una hoz en el cuello.
 
 La línea imperial empezó a ceder antes de la segunda hora.
 
@@ -92,7 +92,7 @@ Henricus estaba en primera fila. No tenía que estar allí; Helen se lo había d
 
 Debajo del estruendo de la batalla, debajo de los gritos y el chocar del acero, oía a los muertos. No a los de la otra orilla. A estos. A los que tenía delante. Cada uno de ellos tenía dentro una voz, pequeña, aterrorizada, atrapada en el fondo de un cuerpo que ya no era suyo, gritando en silencio. Y cada voz gritaba su propio nombre, una y otra vez, como un náufrago que grita para no olvidar quién es.
 
-*Bertram. Bertram Hulle. Soy Bertram Hulle, nieto de Bertram Hulle, sargento de la* *Torre de Ceniza...*
+*Bertram. Bertram Hulle. Soy Bertram Hulle, nieto de Bertram Hulle, sargento de la Torre de Ceniza...*
 
 El sargento Hulle, el muerto gris, levantó su espada sobre Henricus.
 
@@ -186,17 +186,21 @@ El hombre de gris se arrodilló junto a él. Tenía la flecha todavía clavada e
 
 Henricus lo miró. El hombre tenía los ojos oscuros. Humanos. Muy tristes.
 
-*Si es él*, había dicho su madre. *Tráemelo.*
+Si es él, había dicho su madre. Tráemelo.
 
 Pensó en ella. En la casita del barrio Germa. En la cocina, el fuego. En las noches de su infancia, cuando tenía miedo de los muertos que hablaban y ella se sentaba en el borde de su cama y le cantaba hasta que se dormía.
 
 Abrió la boca. No para contestar. Para cantar. Era lo único que se le ocurría hacer. Lo único que le apetecía hacer, en ese momento, con el cielo tan bonito y el frío subiéndole por el pecho.
 
-*Duerme, arena, duerme ya,* *la bruma viene y se va...*
+*Duerme, arena, duerme ya,*
+
+*la bruma viene y se va...*
 
 El hombre de gris se quedó completamente inmóvil.
 
-*... quien te nombra te tendrá,* *quien te ama volverá.*
+*... quien te nombra te tendrá,*
+
+*quien te ama volverá.*
 
 Henricus tomó aire. Le costaba. Le quedaba poco. Pero quería terminar la canción, como hacía siempre su madre, con el verso del final, el que ella decía que había inventado ella misma, de pequeña, para no olvidar a alguien.
 
