@@ -3353,6 +3353,37 @@
     "origin": "Campos del río, Ullathorpe"
   },
   {
+    "id": 108,
+    "name": "Sakara",
+    "slug": "sakara",
+    "category": "Figuras históricas",
+    "race": "Semidemonio (sangre orca y demoníaca)",
+    "className": "Guerrera de Orac",
+    "height": "1,88 m",
+    "weight": "84 kg",
+    "build": "Atlética y fibrosa",
+    "hair": "Cresta roja",
+    "eyes": "Verdes",
+    "combat": "Muy alto",
+    "diplomacy": "Medio",
+    "strategy": "Muy alto",
+    "economy": "Medio",
+    "personality": "Ambiciosa, calculadora, cruel, orgullosa, paciente",
+    "betrayValues": "Sí",
+    "betrayAllies": "Sí",
+    "selfSacrifice": "No",
+    "family": {
+      "mother": "Orca de los túneles de Orac (sin nombre)"
+    },
+    "history": [
+      "Sakara es una guerrera de Orac, nacida décadas antes de 1439. Creció en los túneles del segundo nivel, donde su madre la enviaba a buscar agua y le enseñó a contar los escalones del camino.",
+      "Es alta y fibrosa, de piel oscura y una cresta roja. Tiene ojos verdes y una cicatriz que le permite sonreír solo con media boca. Se distingue por su carácter reservado, orgulloso y calculador."
+    ],
+    "source": "Emperadores de la Ceniza — Libro V",
+    "age": "Alrededor de 60 años en 1439",
+    "origin": "Túneles del segundo nivel, Orac"
+  },
+  {
     "id": 112,
     "name": "Tullo de las montañas",
     "slug": "tullo-de-las-montanas",
@@ -4937,6 +4968,38 @@
     "source": "Emperadores de la Ceniza — Libro IV",
     "age": "40 años en el 1320; 50 en el 1330; murió en el 1390",
     "origin": "Calle del Horno y casa de arriba, Banderbill"
+  },
+  {
+    "id": 159,
+    "name": "Ximaru",
+    "slug": "ximaru",
+    "category": "Otras figuras destacadas",
+    "race": "Gnomo (de las islas)",
+    "className": "Ayudante de las cocinas de Orac",
+    "height": "1,00 m (no crece desde los veinte)",
+    "weight": "26 kg",
+    "build": "Menuda",
+    "hair": "Castaño",
+    "eyes": "Oscuros",
+    "combat": "Bajo",
+    "diplomacy": "Bajo",
+    "strategy": "Medio",
+    "economy": "Alto",
+    "personality": "Callado, observador, fiel, nostálgico",
+    "betrayValues": "No",
+    "betrayAllies": "No",
+    "selfSacrifice": "Sí",
+    "family": {
+      "mother": "Gnoma de su isla natal, de la que recuerda una lámpara de tulipa verde y las rayas del marco de una puerta"
+    },
+    "history": [
+      "Ximaru nació en una isla de gnomos. Cuando tenía ocho años, unos piratas lo vendieron en Orac por un barril de arenques. Desde niño vive y trabaja en las cocinas de esa ciudad, donde prepara alimentos y limpia las grandes ollas.",
+      "Es menudo y observador. Por iniciativa propia llevaba las cuentas de la despensa en una pizarra. Acostumbra medirse descalzo contra una pared y marcar con tizón su altura, que permanece prácticamente igual desde que cumplió veinte años."
+    ],
+    "source": "Emperadores de la Ceniza — Libro V",
+    "age": "Aproximadamente 48 años en 1439",
+    "origin": "Una isla de gnomos; desde niño, Orac",
+    "accountingAndRecordkeeping": "Alta"
   },
   {
     "id": 167,
