@@ -1,0 +1,68 @@
+// Etiquetas en español para los campos de familia y vínculos de los personajes.
+// Las claves originales en inglés se mantienen en characters.json.
+const familyLabels: Record<string, string> = {
+  father: "Padre",
+  mother: "Madre",
+  parents: "Padres",
+  spouse: "Cónyuge",
+  husband: "Esposo",
+  wife: "Esposa",
+  partner: "Pareja",
+  children: "Hijos",
+  sons: "Hijos",
+  daughters: "Hijas",
+  son: "Hijo",
+  daughter: "Hija",
+  siblings: "Hermanos",
+  brothers: "Hermanos",
+  sisters: "Hermanas",
+  brother: "Hermano",
+  sister: "Hermana",
+  grandfather: "Abuelo",
+  grandmother: "Abuela",
+  grandparents: "Abuelos",
+  grandchildren: "Nietos",
+  greatgrandmother: "Bisabuela",
+  greatgrandfather: "Bisabuelo",
+  uncle: "Tío",
+  aunt: "Tía",
+  nephew: "Sobrino",
+  niece: "Sobrina",
+  cousin: "Primo/a",
+  greataunt: "Tía abuela",
+  niecesandnephews: "Sobrinos",
+  relatives: "Familiares",
+  distantrelative: "Pariente lejano",
+  descendants: "Descendientes",
+  symbolicdescendants: "Descendientes simbólicos",
+  lineage: "Linaje",
+  childhoodfriend: "Amigo/a de la infancia",
+  disciples: "Discípulos",
+  disciple: "Discípulo",
+  master: "Maestro/a",
+  mentor: "Mentor/a",
+  lord: "Señor",
+  friendandcomrade: "Amigo y compañero",
+  lifelongpartner: "Compañero/a de vida",
+  household: "Hogar",
+  successors: "Sucesores",
+  surnamesuccessors: "Continuadores del apellido",
+  adoptivemother: "Madre adoptiva",
+  rescuer: "Rescatador/a",
+  motherinlaw: "Suegra",
+  brotherinlaw: "Cuñado",
+  daughterinlaw: "Nuera",
+  notes: "Notas",
+  comradeinarms: "Compañero/a de armas",
+  protector: "Protector/a",
+  travelguardians: "Guardianes del viaje",
+  fatherandgrandfather: "Padre y abuelo",
+};
+
+export function translateFamilyLabel(key: string): string {
+  const normalized = key
+    .trim()
+    .toLowerCase()
+    .replace(/[\s_-]+/g, "");
+  return familyLabels[normalized] ?? key;
+}

@@ -26,6 +26,7 @@ import {
   X,
 } from "lucide-react";
 import { characters, categories, races } from "@/lib/characters";
+import { translateFamilyLabel } from "@/lib/character-labels";
 import { RolOrnamentalButton } from "@/components/rol-ornamental-button";
 type Character = (typeof characters)[number];
 type FactItem = {
@@ -37,45 +38,6 @@ const PAGE_SIZE = 18;
 const displayFont = "font-(family-name:--font-rol-display)";
 const bodyFont = "font-(family-name:--font-rol-body)";
 const raceOptions = ["Todas", ...races];
-// Etiquetas de parentesco de las fichas. Conservamos las claves originales en los datos.
-const familyLabels: Record<string, string> = {
-  father: "Padre",
-  mother: "Madre",
-  parents: "Padres",
-  spouse: "Cónyuge",
-  husband: "Esposo",
-  wife: "Esposa",
-  partner: "Pareja",
-  children: "Hijos",
-  sons: "Hijos",
-  daughters: "Hijas",
-  son: "Hijo",
-  daughter: "Hija",
-  siblings: "Hermanos",
-  brothers: "Hermanos",
-  sisters: "Hermanas",
-  brother: "Hermano",
-  sister: "Hermana",
-  grandfather: "Abuelo",
-  grandmother: "Abuela",
-  grandparents: "Abuelos",
-  grandchildren: "Nietos",
-  uncle: "Tío",
-  aunt: "Tía",
-  nephew: "Sobrino",
-  niece: "Sobrina",
-  cousin: "Primo/a",
-  relatives: "Familiares",
-};
-
-function translateFamilyLabel(key: string): string {
-  const normalized = key
-    .trim()
-    .toLowerCase()
-    .replace(/[\s_-]+/g, "");
-  return familyLabels[normalized] ?? key;
-}
-
 const sortOptions: {
   value: SortOrder;
   label: string;

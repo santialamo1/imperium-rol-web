@@ -14,6 +14,7 @@ import {
 } from "lucide-react";
 
 import { characters, getCharacter } from "@/lib/characters";
+import { translateFamilyLabel } from "@/lib/character-labels";
 
 const displayFont = "font-(family-name:--font-rol-display)";
 
@@ -557,7 +558,7 @@ export default async function CharacterPage({
                           text-[#64452c]
                         "
                     >
-                      {name}
+                      {translateFamilyLabel(name)}
                     </dt>
 
                     <dd
