@@ -3327,10 +3327,10 @@
     "category": "Figuras históricas",
     "race": "Humana",
     "className": null,
-    "height": "1,60 m",
-    "weight": "52 kg",
+    "height": "1,47 m",
+    "weight": "39 kg",
     "build": "Delgada",
-    "hair": "Castaño oscuro",
+    "hair": "Negro, recogido con un cordel",
     "eyes": "Azules",
     "combat": null,
     "diplomacy": null,
@@ -5008,8 +5008,8 @@
     "category": "Otras figuras destacadas",
     "race": "Humano (de Ullathorpe)",
     "className": "Ladrón",
-    "height": "1,76 m",
-    "weight": "62 kg",
+    "height": "1,68 m",
+    "weight": "53 kg",
     "build": "Delgada, de brazos largos",
     "hair": "Castaño oscuro",
     "eyes": "Castaños",
@@ -5030,7 +5030,7 @@
       "Es flaco, de manos rápidas, y esconde en el bolsillo la marca blanca y brillante del dorso de su mano izquierda. Lo marcó un cabo de la Armada en el cuartel de Ullathorpe mientras comía una manzana."
     ],
     "source": "Emperadores de la Ceniza — Libro V",
-    "age": "Adolescente en 1439",
+    "age": "Aproximadamente 15 años en 1439",
     "origin": "Ullathorpe"
   },
   {
